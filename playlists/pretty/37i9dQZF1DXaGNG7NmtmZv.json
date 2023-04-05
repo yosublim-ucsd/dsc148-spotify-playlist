@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 181994,
+  "num_followers": 182082,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGU4YzQyOWViMGNhMGY5NzM2NjIyZjQ5MDIzYTFmYmEy",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDlhYTNhN2U1ZTMyZjAyNTRlN2M3MzQ0M2IwMjcyZTE5",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 193066,
       "name": "Element",
       "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Death Knows Your Name",
         "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 220413,
       "name": "Animal Farm",
       "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Merciless",
         "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 220453,
       "name": "Shark Ethic",
       "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 104600,
       "name": "Just Can't Hate Enough",
       "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
       "artists": [
         {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
     },
     {
       "added_at": "2020-12-08 15:12:11",

@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 566092,
+  "num_followers": 566443,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDE1ZDM2MmY5MmI3NTBkYTJjZTE2Yzk4MmFkMTI2NDJj",
+  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDQzNjJhYTEyNGM0ZWJiNjE0OGU2ZmJhNDQ3OTQ0ZDIx",
   "tracks": [
     {
       "added_at": "2023-01-04 08:57:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "The Autumn Effect",
         "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 229866,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "My Name Is Human",
-      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "The Beautiful Letdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 230066,
       "name": "Control",
       "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -875,6 +859,22 @@
       "duration_ms": 175920,
       "name": "Trippin' on a Hole in a Paper Heart",
       "url": "https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Days Of The New (Red Album)",
-        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Die Born",
-      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Dysfunction",
         "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 290013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Days Of The New (Red Album)",
+        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Die Born",
+      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
     },
     {
       "added_at": "2023-01-04 08:57:15",

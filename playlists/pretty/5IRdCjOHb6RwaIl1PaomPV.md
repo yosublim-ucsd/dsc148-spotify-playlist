@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,419 likes - 70 songs - 4 hr 2 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,418 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

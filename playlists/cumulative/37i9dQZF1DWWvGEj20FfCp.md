@@ -4,7 +4,7 @@
 
 > Music adds a new dimension to fashion\. Soundtrack for designer Thebe Magugu’s latest collection titled Folklorics.
 
-398 songs - 1 day 2 hr 34 min
+400 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 | 2022-08-01 | 2022-08-23 |
 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 | 2022-06-01 | 2022-08-02 |
 | [Show Me](https://open.spotify.com/track/7jeo9DOQSM6FogetF9vSkE) | [Glenn Jones](https://open.spotify.com/artist/27o6v2N3H2YW2EPZjAMn0t) | [Everybody Loves a Winner \(Expanded Edition\)](https://open.spotify.com/album/1fNhEqr5uZdCDhAAUnmJab) | 3:58 | 2022-08-22 | 2022-09-07 |
-| [Sibongile](https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:15 | 2023-03-10 |  |
+| [Sibongile](https://open.spotify.com/track/3qUqHQS9yRgoPlkvG7eK94) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/6MM9LwtQg2yYEI1jqjJuCc) | 5:15 | 2023-03-10 |  |
+| [Sibongile](https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:15 | 2023-03-10 | 2023-04-05 |
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2022-09-06 | 2023-02-11 |
 | [Sign Your Name](https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Terence Trent D'Arby](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 4:36 | 2022-08-22 | 2022-09-07 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-20 | 2022-06-01 |
@@ -361,7 +362,8 @@
 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 | 2022-04-29 | 2022-06-01 |
 | [Trader Joe](https://open.spotify.com/track/68UwqWt98BW1QdDnGV9DO1) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp3](https://open.spotify.com/album/0y90zPTTH3i18Qerg2mB2e) | 3:08 | 2022-06-01 | 2022-08-02 |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2022-06-01 |
-| [Tsa Mandebele](https://open.spotify.com/track/3JtOJiuyAXRolvCtLy9YTA) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy](https://open.spotify.com/artist/4F1OlX4Hsm2bxTepT53MX3) | [I Believe 2013](https://open.spotify.com/album/06NErc3UFxuJwhuajmlF5q) | 6:57 | 2023-03-10 |  |
+| [Tsa Mandebele](https://open.spotify.com/track/3JtOJiuyAXRolvCtLy9YTA) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy](https://open.spotify.com/artist/4F1OlX4Hsm2bxTepT53MX3) | [I Believe 2013](https://open.spotify.com/album/06NErc3UFxuJwhuajmlF5q) | 6:57 | 2023-03-10 | 2023-04-05 |
+| [Tsa Mandebele](https://open.spotify.com/track/6OQqb88STgvROwhN1IYPyH) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy](https://open.spotify.com/artist/4F1OlX4Hsm2bxTepT53MX3) | [Tsa Mandebele](https://open.spotify.com/album/042SdEj2aj8yrkIes4Akwq) | 6:57 | 2023-03-10 |  |
 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2022-08-22 | 2022-09-07 |
 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 | 2023-03-10 |  |
 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta Kamp](https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 | 2023-03-10 |  |

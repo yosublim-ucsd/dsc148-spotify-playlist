@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 135183,
+  "num_followers": 135166,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwODQ0OSwwMDAwMDAwMDNmOWI1MTk3ZTcwN2RjOGUxYjg1MGM3ZjZlYWUxYTA5",
+  "snapshot_id": "MTY3MTIwODQ0OSwwMDAwMDAwMDFmOTlmZDgwMDk5YzVmM2ZkMWFlNDAxOGU0NzZjMTE4",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -611,22 +611,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
+        "name": "My Christmas List",
+        "url": "https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy"
       },
       "artists": [
         {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 140765,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
+      "duration_ms": 207866,
+      "name": "My Christmas List",
+      "url": "https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -647,18 +643,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "My Christmas List",
-        "url": "https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy"
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 207866,
-      "name": "My Christmas List",
-      "url": "https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0"
+      "duration_ms": 140765,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
-      },
-      "artists": [
-        {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Rise Up Shepherd",
-      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "The Bells Are Ringing",
         "url": "https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 198101,
       "name": "The Bells Are Ringing",
       "url": "https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Mittens",
+      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "All We Need",
         "url": "https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+        "name": "The Ballad of Mrs. Claus",
+        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
         }
       ],
-      "duration_ms": 251800,
-      "name": "Mittens",
-      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+      "duration_ms": 221000,
+      "name": "The Ballad of Mrs. Claus",
+      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -919,18 +935,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "The Ballad of Mrs. Claus",
-        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
+        "name": "What Are You Doing New Year's Eve",
+        "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
       },
       "artists": [
         {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
         }
       ],
-      "duration_ms": 221000,
-      "name": "The Ballad of Mrs. Claus",
-      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
+      "duration_ms": 115375,
+      "name": "What Are You Doing New Year's Eve",
+      "url": "https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "What Are You Doing New Year's Eve",
-        "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
-      },
-      "artists": [
-        {
-          "name": "Sykamore",
-          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
-        }
-      ],
-      "duration_ms": 115375,
-      "name": "What Are You Doing New Year's Eve",
-      "url": "https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 176788,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/5eicQ92kEMYKjfpb7jWWlR"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -999,22 +1015,6 @@
       "duration_ms": 126300,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 146546,
-      "name": "Away In A Manger",
-      "url": "https://open.spotify.com/track/5eicQ92kEMYKjfpb7jWWlR"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Don't Hang The Mistletoe",
-        "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
-      },
-      "artists": [
-        {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
-        }
-      ],
-      "duration_ms": 197167,
-      "name": "Don't Hang The Mistletoe",
-      "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "It Snowed",
         "url": "https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 224026,
       "name": "It Snowed - Remastered",
       "url": "https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Don't Hang The Mistletoe",
+        "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
+      },
+      "artists": [
+        {
+          "name": "Jojo Mason",
+          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+        }
+      ],
+      "duration_ms": 197167,
+      "name": "Don't Hang The Mistletoe",
+      "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "two christmases",
-        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
-      },
-      "artists": [
-        {
-          "name": "nobody likes you pat",
-          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
-        }
-      ],
-      "duration_ms": 142658,
-      "name": "two christmases",
-      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Don't Give Your Heart Away for Christmas",
         "url": "https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 134307,
       "name": "Don't Give Your Heart Away for Christmas",
       "url": "https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "two christmases",
+        "url": "https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM"
+      },
+      "artists": [
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        }
+      ],
+      "duration_ms": 142658,
+      "name": "two christmases",
+      "url": "https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
+        "name": "Last Xmas",
+        "url": "https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa"
       },
       "artists": [
         {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
         }
       ],
-      "duration_ms": 229623,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
+      "duration_ms": 226000,
+      "name": "Last Xmas",
+      "url": "https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1559,22 +1555,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Last Xmas",
-        "url": "https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Last Xmas",
-      "url": "https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Just Like A Shooting Star",
         "url": "https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 194378,
       "name": "Just Like A Shooting Star",
       "url": "https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 229623,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Songs of December (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "It's The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Christmas Angel",
         "url": "https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 130061,
       "name": "Christmas Angel",
       "url": "https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
     },
     {
       "added_at": "2022-12-16 16:34:09",

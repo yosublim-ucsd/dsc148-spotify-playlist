@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,880 likes - 64 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,920 likes - 64 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 239939,
+  "num_followers": 240178,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDczMmJjZWU1MGRlNzFiNWUwZmQ2ZmFiMmNjMDQ5MDRh",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGE1YjJiOGU4YjQyYjk5ZTUxMzkyMzI4YzY4NmQ1MTdl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -251,22 +255,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Kenny Rogers",
-        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 126666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -911,22 +911,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hello, I'm Johnny Cash",
-        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
         },
         {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+          "name": "Janie Fricke",
+          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
         }
       ],
-      "duration_ms": 180573,
-      "name": "If I Were a Carpenter",
-      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
+      "duration_ms": 189786,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+        "name": "Hello, I'm Johnny Cash",
+        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+      "duration_ms": 180573,
+      "name": "If I Were a Carpenter",
+      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
       "artists": [
         {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
-        },
-        {
-          "name": "Janie Fricke",
-          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
-        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
-      },
-      "artists": [
-        {
-          "name": "Eric Weissberg",
-          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
-        },
-        {
-          "name": "Steve Mandell",
-          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
-        }
-      ],
-      "duration_ms": 194879,
-      "name": "Dueling Banjos",
-      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Honky Tonk Girl: The Loretta Lynn Collection",
         "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 154560,
       "name": "You're The Reason Our Kids Are Ugly",
       "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
+        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
+      },
+      "artists": [
+        {
+          "name": "Eric Weissberg",
+          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
+        },
+        {
+          "name": "Steve Mandell",
+          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
+        }
+      ],
+      "duration_ms": 194879,
+      "name": "Dueling Banjos",
+      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
     },
     {
       "added_at": "2023-02-24 05:00:00",

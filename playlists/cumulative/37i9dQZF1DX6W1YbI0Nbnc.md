@@ -2,7 +2,7 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Kiri T\)
+> 結集香港EQUAL女聲力量！\(cover: Mischa葉巧琳\)
 
 227 songs - 14 hr 35 min
 
@@ -107,7 +107,7 @@
 | [到時見 \(Acoustic Version\)](https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [到時見 \(Acoustic Version\)](https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY) | 2:27 | 2022-08-02 | 2022-12-01 |
 | [剎那的](https://open.spotify.com/track/5fWhLh6uQV0BPTHdL9oKSX) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [剎那的](https://open.spotify.com/album/3IaNjSRQfoCKfU9Ozorkmf) | 3:00 | 2022-08-02 | 2022-12-01 |
 | [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 | 2022-09-06 |  |
-| [勇者鬥惡言](https://open.spotify.com/track/36cK81VNERJWGRaomcUkFv) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [勇者鬥惡言](https://open.spotify.com/album/5EVVIPWt3rKmLnE42iYqQg) | 3:28 | 2022-11-01 | 2022-12-01 |
+| [勇者鬥惡言](https://open.spotify.com/track/36cK81VNERJWGRaomcUkFv) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [勇者鬥惡言](https://open.spotify.com/album/5EVVIPWt3rKmLnE42iYqQg) | 3:28 | 2022-11-01 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2022-03-07 |  |
 | [印象](https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [印象](https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm) | 3:53 | 2022-03-07 | 2022-08-03 |
 | [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 | 2022-09-07 |
@@ -185,7 +185,7 @@
 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 | 2021-12-07 |  |
 | [沙門](https://open.spotify.com/track/7AY9a00gTqLAjZzt90NzzO) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 4:44 | 2022-01-04 | 2022-02-03 |
 | [浪漫石](https://open.spotify.com/track/0gqKyKO16PM30es201xAsZ) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [浪漫石](https://open.spotify.com/album/4rKZxp7IMi7HPOdWCM9OXV) | 3:12 | 2022-03-07 | 2022-05-04 |
-| [浸浴](https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:00 | 2021-12-07 | 2022-08-03 |
+| [浸浴](https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:00 | 2021-12-07 |  |
 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 | 2022-01-04 | 2022-03-08 |
 | [火和火柴](https://open.spotify.com/track/4JAXqGkTX0fZIauYfVb3Qo) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [火和火柴](https://open.spotify.com/album/4o8kczHjG9MDcBwhRp18Jy) | 3:44 | 2022-01-04 | 2022-03-08 |
 | [無名故事](https://open.spotify.com/track/63R20l947cq2dn2opzQ06D) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [無名故事](https://open.spotify.com/album/2WInCniECtqSXUn6eNlWzu) | 4:04 | 2022-03-07 | 2022-04-06 |
@@ -226,7 +226,7 @@
 | [鋼鐵是怎樣煉成的](https://open.spotify.com/track/3BMu1nILItX08rd1PnR5aj) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [無名, 詩](https://open.spotify.com/album/50Dnh9LfTgfCdh1AU8ltpn) | 5:03 | 2021-12-07 | 2022-01-05 |
 | [鐵樹](https://open.spotify.com/track/0Z8hG73RgpWQPNVwUZ4PEE) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [鐵樹](https://open.spotify.com/album/2p42OI546sS20ZabQhBCvu) | 4:12 | 2022-01-04 | 2022-12-01 |
 | [離不開](https://open.spotify.com/track/0wqkdSzqQZDUJXOB6Etp7l) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [離不開](https://open.spotify.com/album/5axFyXeQt3bZCaelmy2N94) | 5:15 | 2022-01-04 | 2022-03-08 |
-| [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2021-12-07 | 2022-12-01 |
+| [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2021-12-07 |  |
 | [雲泥](https://open.spotify.com/track/2R2ZXEmlPITYGNaTxJGDZz) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Alan](https://open.spotify.com/artist/2GMlJtj3SAxdHTfva3u1ms) | [雲泥](https://open.spotify.com/album/3DCOeAAvrPm52PZM4v4lvm) | 3:14 | 2021-12-07 | 2022-01-05 |
 | [零分](https://open.spotify.com/track/1HsWdmLSDdDel2Dl6ctSO2) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [零分](https://open.spotify.com/album/3zoLfk3WSy0E3PEWb8S7nn) | 4:14 | 2022-08-02 | 2022-12-01 |
 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 | 2021-12-07 |  |

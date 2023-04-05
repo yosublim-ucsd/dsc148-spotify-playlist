@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3579517,
+  "num_followers": 3582136,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2MzYwMywwMDAwMDAwMDJhZWQ2NmM1ZGVkZDJlOWE0Yjg4YmExYmI5ZTkyNDk1",
+  "snapshot_id": "MTY3OTA2MzYwMywwMDAwMDAwMDc1Mzc4ZmVhN2VmOWNjYjdkMGU3NDgyNzE1YmY5ZGNk",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Need You There",
         "url": "https://open.spotify.com/album/3ekJlg88JAhvLmHEkZeP7S"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 185991,
       "name": "Need You There",
       "url": "https://open.spotify.com/track/6CMF35Wo3xRxGTLDMjvxlY"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Reviver",
-        "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Channy Leaneagh",
-          "url": "https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo"
-        }
-      ],
-      "duration_ms": 302439,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Leave Me Low",
         "url": "https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 178560,
       "name": "Leave Me Low",
       "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Reviver",
+        "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Channy Leaneagh",
+          "url": "https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo"
+        }
+      ],
+      "duration_ms": 302439,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1063,26 +1063,6 @@
       "duration_ms": 207627,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        }
-      ],
-      "duration_ms": 411147,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1163,22 +1143,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
       },
@@ -1191,6 +1155,26 @@
       "duration_ms": 210000,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 411147,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1255,26 +1255,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Red Lights (EMBRZ Remix)",
-        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
           "name": "Emmit Fenn",
           "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Red Lights - EMBRZ Remix",
-      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+      "duration_ms": 193608,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1355,6 +1347,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Red Lights (EMBRZ Remix)",
+        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Red Lights - EMBRZ Remix",
+      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "See You / Feel So Lonely",
         "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 283953,
       "name": "See You",
       "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "The Last Dance, Pt 2",
-        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Teenage Heart",
         "url": "https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
       },
@@ -1491,54 +1491,6 @@
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1559,6 +1511,54 @@
       "duration_ms": 232131,
       "name": "Do You Feel The Same? - OCULA Remix",
       "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "A Range of Light",
-        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 224637,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
       },
@@ -1695,26 +1679,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ocean Quiet (Refeci Remix)",
-        "url": "https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2"
+        "name": "A Range of Light",
+        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "Refeci",
-          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
         }
       ],
-      "duration_ms": 164812,
-      "name": "Ocean Quiet (Refeci Remix)",
-      "url": "https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp"
+      "duration_ms": 224637,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1751,6 +1727,30 @@
       "duration_ms": 212500,
       "name": "Where I Find My Mind",
       "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Ocean Quiet (Refeci Remix)",
+        "url": "https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "Ocean Quiet (Refeci Remix)",
+      "url": "https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Far From Here Remix Album",
+        "url": "https://open.spotify.com/album/10qBFkA0NUFwbJaU6Iupa9"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/7k8z1Z8hQqKnLLMQ5Ihzjk"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Until We Leave the Ground - Steve James Remix",
+      "url": "https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Soldiner",
         "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
       },
@@ -1807,22 +1827,6 @@
       "duration_ms": 346214,
       "name": "Soldiner",
       "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 206601,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1843,22 +1847,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Perla (Tourist Remix)",
-        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 317003,
-      "name": "La Perla - Tourist Remix",
-      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+      "duration_ms": 206601,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
     },
     {
       "added_at": "2023-03-10 05:00:00",

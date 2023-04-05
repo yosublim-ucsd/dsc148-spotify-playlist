@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 32324,
+  "num_followers": 32407,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDg4NThjYWNhN2FmYWM1NGQzOTRkMGM2MTI4ZjM4ZWEz",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGU5NDQ0YzQ1MmIxZDI2YWY5NTI4MTZhM2Q4YjQyZWRl",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Lion of Judah",
-        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
       "artists": [
         {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 316280,
-      "name": "Lion of Judah",
-      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "name": "Lion of Judah",
+        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
         }
       ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+      "duration_ms": 316280,
+      "name": "Lion of Judah",
+      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Believe For It (Eu Creio)",
+        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It (Eu Creio)",
+      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Frankincense",
         "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
       },
@@ -427,30 +447,6 @@
       "duration_ms": 209653,
       "name": "Ka Anyi Bulie (feat. Don Moen)",
       "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
-        "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence",
-          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
-        },
-        {
-          "name": "The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 344325,
-      "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -479,6 +475,30 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
+        "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        },
+        {
+          "name": "The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 344325,
+      "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -783,6 +783,38 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Way\u03b5 Me Yie",
+        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 303553,
+      "name": "Way\u03b5 Me Yie",
+      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 626674,
+      "name": "Great Are You Lord (Live)",
+      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
         "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
       },
@@ -807,22 +839,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 626674,
-      "name": "Great Are You Lord (Live)",
-      "url": "https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 2526933,
       "name": "ALONE WITH GOD (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Way\u03b5 Me Yie",
-        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 303553,
-      "name": "Way\u03b5 Me Yie",
-      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Onwanwani",
-        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 357236,
-      "name": "Onwanwani",
-      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Heal Our Land (Live)",
         "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 461003,
       "name": "Spontaneous Worship 1 - Live",
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Onwanwani",
+        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 357236,
+      "name": "Onwanwani",
+      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Black History Project (Live from London)",
-        "url": "https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 199010,
-      "name": "Wade In The Water - Live",
-      "url": "https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Mighty God (Live At Kairos Night)",
         "url": "https://open.spotify.com/album/4em67UPd4Q701rGceqOClt"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 424672,
       "name": "Mighty God - Live At Kairos Night",
       "url": "https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Black History Project (Live from London)",
+        "url": "https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 199010,
+      "name": "Wade In The Water - Live",
+      "url": "https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Unstoppable (Live)",
-        "url": "https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "God My God - Radio Edit/Live",
-      "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
       },
@@ -1435,6 +1419,38 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Unstoppable (Live)",
+        "url": "https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "God My God - Radio Edit/Live",
+      "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 403560,
       "name": "Ns3nkyer3ne Nhyankopon",
       "url": "https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Merciful",
-        "url": "https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ"
-      },
-      "artists": [
-        {
-          "name": "Benita Okojie",
-          "url": "https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Merciful",
-      "url": "https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G"
     }
   ],
   "unique_name": "Be Lifted ",

@@ -1,15 +1,111 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 221238,
+  "num_followers": 221252,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMGY2M2FmNDAyMWU3NjY0M2ZhYjMyMzJhY2M1ZGYwOTZi",
+  "snapshot_id": "MTY4MDYxODg1NSwwMDAwMDAwMDEyNTNiYTg5NjU2NTlmZWRmMzU1N2RlODZmNGJiNDJi",
   "tracks": [
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "Cinema Pt. 1",
+        "url": "https://open.spotify.com/album/6NtAlARAtzY1eLC2o1yVBP"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "duration_ms": 152880,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/1WKfJn8wUuUXBSVJBEytq0"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/7oeXbkNIec5kwanlfRjyPC"
+      },
+      "artists": [
+        {
+          "name": "Band Nah",
+          "url": "https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5WYgNDkw0VsDIZwfwQWlXp"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "SEOULVIBES, VASPA",
+        "url": "https://open.spotify.com/album/1UPAWmTv1j8J1W6groVU77"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "Nohd",
+          "url": "https://open.spotify.com/artist/7tUDMjgBQG5o7qYFIZF3lq"
+        },
+        {
+          "name": "Baye",
+          "url": "https://open.spotify.com/artist/5NGv35WP0jow6GEEclCAex"
+        }
+      ],
+      "duration_ms": 209338,
+      "name": "Picnic (feat. Nohd & Baye)",
+      "url": "https://open.spotify.com/track/6fK1gQxkJaJuNMnDCSPvyy"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "Cameo",
+        "url": "https://open.spotify.com/album/6CFlFFEkaom8vEIQ0e9lle"
+      },
+      "artists": [
+        {
+          "name": "Shoi",
+          "url": "https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x"
+        },
+        {
+          "name": "Sof'boy Han",
+          "url": "https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x"
+        },
+        {
+          "name": "B JYUN.",
+          "url": "https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1"
+        }
+      ],
+      "duration_ms": 161072,
+      "name": "Send Me Your Sign (feat. B JYUN.)",
+      "url": "https://open.spotify.com/track/1KZf9I0BqRF5fY9b3hCiL6"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
@@ -25,75 +121,7 @@
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "YOUTH",
-        "url": "https://open.spotify.com/album/6OBmLdVdHzryb6MBtGAtG8"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Op.22 Y-Waltz : in Minor",
-        "url": "https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 176253,
-      "name": "Loveable",
-      "url": "https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Drive Away",
-        "url": "https://open.spotify.com/album/4RWzCuwAMViZAkrHktidbE"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        },
-        {
-          "name": "Naive",
-          "url": "https://open.spotify.com/artist/1b2tnewS90sAeuYNbBsAPi"
-        }
-      ],
-      "duration_ms": 158871,
-      "name": "Drive Away (Feat. Naive)",
-      "url": "https://open.spotify.com/track/6H6MbdhyFGEnC7Aj6lXGfD"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/42UUSbk6H0emBorceMnoEv"
-      },
-      "artists": [
-        {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
-        }
-      ],
-      "duration_ms": 172764,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/4GBuLcJUQvCv2lDehdmQG6"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -109,7 +137,7 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
@@ -125,7 +153,7 @@
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
@@ -145,7 +173,7 @@
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "FANCY YOU",
         "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
@@ -161,7 +189,7 @@
       "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
@@ -177,7 +205,7 @@
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -193,7 +221,7 @@
       "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "THE SECOND STEP : CHAPTER TWO",
         "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
@@ -209,7 +237,7 @@
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -225,23 +253,7 @@
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 207481,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
@@ -257,7 +269,7 @@
       "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
@@ -273,7 +285,7 @@
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
@@ -289,7 +301,7 @@
       "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
@@ -305,7 +317,23 @@
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Feel Special",
         "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
@@ -321,7 +349,7 @@
       "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
@@ -337,7 +365,7 @@
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
@@ -353,23 +381,7 @@
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
@@ -385,7 +397,23 @@
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
@@ -401,7 +429,7 @@
       "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "The Dream Chapter: STAR",
         "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
@@ -417,7 +445,7 @@
       "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
@@ -433,23 +461,7 @@
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 234177,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
@@ -465,23 +477,23 @@
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 237680,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
+      "duration_ms": 234177,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
@@ -497,7 +509,7 @@
       "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
@@ -517,7 +529,23 @@
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
@@ -533,7 +561,7 @@
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
@@ -549,7 +577,7 @@
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "I trust",
         "url": "https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ"
@@ -565,7 +593,7 @@
       "url": "https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
@@ -581,23 +609,7 @@
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 251279,
-      "name": "Answer : Love Myself",
-      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "strawberry moon",
         "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
@@ -613,7 +625,23 @@
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 251279,
+      "name": "Answer : Love Myself",
+      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
+    },
+    {
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
@@ -629,7 +657,7 @@
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Your BGM Vol.1",
         "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
@@ -645,7 +673,7 @@
       "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
@@ -661,7 +689,7 @@
       "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
@@ -677,7 +705,7 @@
       "url": "https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Hello - Special Album",
         "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
@@ -693,7 +721,7 @@
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
@@ -709,7 +737,7 @@
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Mixtape : Time Out",
         "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
@@ -725,7 +753,7 @@
       "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
         "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
@@ -741,7 +769,7 @@
       "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Jam & Butterfly",
         "url": "https://open.spotify.com/album/5MYVpPtqQFHdYIJV0gnYbq"
@@ -765,7 +793,7 @@
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Brother Act.",
         "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
@@ -781,7 +809,7 @@
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4"
@@ -797,7 +825,7 @@
       "url": "https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc"
     },
     {
-      "added_at": "2022-11-15 13:55:43",
+      "added_at": "2023-04-04 14:34:15",
       "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
@@ -811,22 +839,6 @@
       "duration_ms": 214240,
       "name": "UP NO MORE",
       "url": "https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "ZERO : FEVER EPILOGUE",
-        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
     }
   ],
   "unique_name": "Morning K-Pop!",

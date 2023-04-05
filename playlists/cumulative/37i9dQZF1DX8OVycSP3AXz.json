@@ -938,10 +938,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 175693,
       "name": "La nuit n'en finit plus",
       "url": "https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb"
+    },
+    {
+      "album": {
+        "name": "C'est ma chanson",
+        "url": "https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "La nuit n'en finit plus",
+      "url": "https://open.spotify.com/track/1TGcuqWyRfV488tGSiv9iq"
     },
     {
       "album": {

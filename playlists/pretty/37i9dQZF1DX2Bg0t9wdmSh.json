@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 3354,
+  "num_followers": 3362,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDIyNWFiYjgyYzVhMTlhYTA4ZGE3MGVmYmViNmE5NzNh",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDYzZDRiY2IxNGU0YmRjMjNkYjEwZTkxOWQzMzkxMTgz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Raydiation",
+        "url": "https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        }
+      ],
+      "duration_ms": 337640,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Stay Down (with 6LACK & Young Thug)",
         "url": "https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 169330,
       "name": "Stay Down (with 6LACK & Young Thug)",
       "url": "https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Raydiation",
-        "url": "https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6"
-      },
-      "artists": [
-        {
-          "name": "Ray J",
-          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
-        }
-      ],
-      "duration_ms": 337640,
-      "name": "One Wish",
-      "url": "https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Ain't It Funny ft. Meek Mill",
-      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Just Cause Y'all Waited 2",
         "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Ain't It Funny ft. Meek Mill",
+      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
     },
     {
       "added_at": "2022-10-01 16:09:56",

@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 34926,
+  "num_followers": 35010,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDQ3NDk5ZDZlMmNjNDM4Mjg5NTkzYjBjOTgwYzEyMjEx",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMGRlYzU3ZjVkZGZkNDMwMDIxMzUxMGVmMDExNjMyYWMx",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "The Metallic Index",
         "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 360193,
-      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
-      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 292605,
       "name": "Pray for Us",
       "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 360193,
+      "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
+      "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Time Is Local",
         "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 96450,
       "name": "Clotho",
       "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
-        "url": "https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 183871,
-      "name": "Dr\u00f8mmefanger (Extended)",
-      "url": "https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
+        "url": "https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 183871,
+      "name": "Dr\u00f8mmefanger (Extended)",
+      "url": "https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Spirit of the Forest",
         "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 163989,
       "name": "Spirit of the Forest",
       "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -843,22 +859,6 @@
       "duration_ms": 151838,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 143157,
       "name": "abundance",
       "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "600 Years of Rest",
         "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
       },
@@ -1059,18 +1039,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 240850,
       "name": "Dawn of Awakening",
       "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Cr\u00e9puscule I & II",
-        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
-      },
-      "artists": [
-        {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Cosmic Ray",
-      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 487715,
       "name": "Aurobindo",
       "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Cosmic Ray",
+      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Hush Now Baby",
-        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
-      },
-      "artists": [
-        {
-          "name": "Ea Akilat",
-          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
-        },
-        {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
-        }
-      ],
-      "duration_ms": 101142,
-      "name": "Hush Now Baby",
-      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 284988,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1d3wIYlKXUUylvCkIkbzXW"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Hush Now Baby",
+        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
+      },
+      "artists": [
+        {
+          "name": "Ea Akilat",
+          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
+        },
+        {
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+        }
+      ],
+      "duration_ms": 101142,
+      "name": "Hush Now Baby",
+      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Bones Knowing",
         "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
       },
       "artists": [
         {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+          "name": "Hisaki Kato",
+          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
+      "duration_ms": 146993,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1667,18 +1683,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
+        "name": "All Things Devour (Botany Remix)",
+        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
       },
       "artists": [
         {
-          "name": "Hisaki Kato",
-          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
+          "name": "aeseaes",
+          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
+        },
+        {
+          "name": "Botany",
+          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
         }
       ],
-      "duration_ms": 146993,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
+      "duration_ms": 326426,
+      "name": "All Things Devour - Botany Remix",
+      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1715,26 +1735,6 @@
       "duration_ms": 707200,
       "name": "From the Sea",
       "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "All Things Devour (Botany Remix)",
-        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
-      },
-      "artists": [
-        {
-          "name": "aeseaes",
-          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
-        },
-        {
-          "name": "Botany",
-          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "All Things Devour - Botany Remix",
-      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 239000,
       "name": "A Model Of Reality - Aonian Remix",
       "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     }
   ],
   "unique_name": "ethereal voices",

@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53794,
+  "num_followers": 53808,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGUyNGFjNDU2NGVkZjQ2OTI0YTg5MDBmYzM2YzdkZTdk",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDk4MmFiODcwMTM1NDljY2Y4NDA3YmIwYTUyMTRjYzQw",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "otro lugar \u2022 despertar",
+        "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 186155,
+      "name": "otro lugar \u2022 despertar",
+      "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Muchachitos Feat. Humbe",
         "url": "https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "otro lugar \u2022 despertar",
-        "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 186155,
-      "name": "otro lugar \u2022 despertar",
-      "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Tu Despedida",
         "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 234466,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "LA ARA\u00d1A",
-        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "LA ARA\u00d1A",
-      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "LA ARA\u00d1A",
+        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "EL ETERNO RETORNO: Antolog\u00eda de una flor marchita (Deluxe)",
         "url": "https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 244892,
       "name": "lo que queda despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Hoy Es Hoy",
-        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
       },
       "artists": [
         {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Hoy Es Hoy",
-      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1391,6 +1375,22 @@
       "duration_ms": 135238,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Hoy Es Hoy",
+        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hoy Es Hoy",
+      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Caminito",
         "url": "https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 166500,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Ojos de Camello",
         "url": "https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "A Medio Paso de Tu Amor",
-        "url": "https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl"
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
       },
       "artists": [
         {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
         }
       ],
-      "duration_ms": 225500,
-      "name": "A Medio Paso de Tu Amor",
-      "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1687,6 +1671,22 @@
       "duration_ms": 215690,
       "name": "Un Caf\u00e9",
       "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "A Medio Paso de Tu Amor",
+        "url": "https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "A Medio Paso de Tu Amor",
+      "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
     },
     {
       "added_at": "2022-11-11 21:41:34",

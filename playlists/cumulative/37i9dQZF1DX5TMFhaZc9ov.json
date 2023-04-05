@@ -2513,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "While I Was Away",
+        "url": "https://open.spotify.com/album/6em5uVXjUmKhK63DBEH35C"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Kelson",
+          "url": "https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212020,
+      "name": "The Way I Do",
+      "url": "https://open.spotify.com/track/7jEeK2YYjH4ollu0q2fuOn"
+    },
+    {
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },

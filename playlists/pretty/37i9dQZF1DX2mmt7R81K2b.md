@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,914 likes - 52 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,964 likes - 52 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 24 | [Cry Me a River \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/1uWXjkaWw8l4y5sP1wdhd4) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Harry Baker](https://open.spotify.com/artist/6Cb0nXxdjrk9nTcVXUgQvU) | [Cry Me a River \(Arr\. for Cello and Piano\)](https://open.spotify.com/album/76QAlWkYwv50dBTyK2VEGc) | 2:25 |
 | 25 | [Bach à la jazz](https://open.spotify.com/track/18mefzc19revZMMDVPxMPT) | [Matt Herskowitz](https://open.spotify.com/artist/4qixXDBzpahvfXrHux93Ck) | [Les triplettes de Belleville \(Bande originale du film\)](https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c) | 1:20 |
 | 26 | [Aria / Goldberg Variation No\. 1](https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 4:42 |
-| 27 | [Promenade from "Pictures of an exhibition" \- Jazz Version](https://open.spotify.com/track/6fQ2GaQ3xoI35Pq2ymOKCl) | [Modest Mussorgsky](https://open.spotify.com/artist/2L37nYywvAZEGNI63WepZc), [Pietro Beltrani](https://open.spotify.com/artist/4leQT1pQeSNV91sEiJfmu5) | [Promenade from "Pictures of an exhibition" \(Jazz Version\)](https://open.spotify.com/album/2myvzZBserSMEddKm1b8BW) | 5:07 |
+| 27 | [Promenade from "Pictures of an exhibition" \- Jazz Version](https://open.spotify.com/track/6fQ2GaQ3xoI35Pq2ymOKCl) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Pietro Beltrani](https://open.spotify.com/artist/4leQT1pQeSNV91sEiJfmu5) | [Promenade from "Pictures of an exhibition" \(Jazz Version\)](https://open.spotify.com/album/2myvzZBserSMEddKm1b8BW) | 5:07 |
 | 28 | [Nocturne No\. 20 In C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/4LvG1nirz2wv1ln5weaCyE) | [Jacques Loussier](https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245) | [Impressions On Chopin's Nocturnes](https://open.spotify.com/album/6NMAG8fSNPjlWjcuwEJj46) | 1:56 |
 | 29 | [Variation d’Apollon](https://open.spotify.com/track/4xxsj5DGpSyqpe4IwaAHkP) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 4:33 |
 | 30 | [Movement I, Pt\. IV](https://open.spotify.com/track/5HvjZVl5FgrMxusRKPchBs) | [The Classical Jazz Quartet](https://open.spotify.com/artist/1eTIQmloFf0HEKBHoLt4fW), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [The Classical Jazz Quartet Play Rachmaninov](https://open.spotify.com/album/7uWekrM76prs7XHttD4IWc) | 4:09 |

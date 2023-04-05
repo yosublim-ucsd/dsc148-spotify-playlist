@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l?si=Qv4wIGwsSsCa1fsU\-ZB\-sw">Donald Lawrence</a>, <a href="https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11?si=9Dv7WZRmQ9KJkHcZV22R2w">Yolanda Adams</a>, and <a href="https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH?si=f92e16257f29406d">Twinkie Clark</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,758 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,836 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 52 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 |
 | 53 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
 | 54 | [Morgan Freeman](https://open.spotify.com/track/0tymHQZgShOZ0IBBaZgbek) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Morgan Freeman](https://open.spotify.com/album/08bnPerb9oat5E2tO0Fsma) | 2:30 |
-| 55 | [Uplift Me](https://open.spotify.com/track/38TVFrMwXMNsMk01wbZBev) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO) | [The Incarceration Part 3: The Wait](https://open.spotify.com/album/1zpjiIDx2X39MKVSdVzkoc) | 2:59 |
+| 55 | [Uplift Me](https://open.spotify.com/track/38TVFrMwXMNsMk01wbZBev) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO), [Jonah Daniel](https://open.spotify.com/artist/73CLBNL3pNWBhIjm9Z5CLw) | [The Incarceration Part 3: The Wait](https://open.spotify.com/album/1zpjiIDx2X39MKVSdVzkoc) | 2:59 |
 | 56 | [FINISH](https://open.spotify.com/track/3bZwLFsEqAErd08IuTbCAr) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [ONE OF THE FEW](https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9) | 2:59 |
 | 57 | [2 Timothy](https://open.spotify.com/track/6C8CyPPGL0mXqNuhvDxYh6) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [2 Timothy](https://open.spotify.com/album/3H3ljNEV5o430jGdktOt3m) | 2:46 |
 | 58 | [Was](https://open.spotify.com/track/10jfjU3E2nkAvgCxHL2uYZ) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC), [J.Santos](https://open.spotify.com/artist/1U6g9sk3UfQ762z3sCi84q), [Jay Parker](https://open.spotify.com/artist/3Kqx0JRUCjIKgi09wjceLL) | [Was](https://open.spotify.com/album/7mMQYwzOs9mybtT8gV6z5O) | 3:16 |

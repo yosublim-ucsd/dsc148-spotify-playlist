@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 102412,
+  "num_followers": 102522,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGU2YTg2Y2YwM2RmNWMwZTRiNTVjMDFlYWE4Y2NiMGI0",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGZkNjQzMTBmOTMwMDg5MWE2YWMzNjFlNTFmYTkzMzQx",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Smooth Sensation",
-        "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 276506,
-      "name": "Smooth Sensation",
-      "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 269893,
       "name": "Pleasure Seeker",
       "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Smooth Sensation",
+        "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Smooth Sensation",
+      "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 314333,
       "name": "Do You Feel What I'm Feeling?",
       "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Pieces Of A Dream",
         "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 246653,
       "name": "Warm Weather - 12\" Version",
       "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Straight To You",
-        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
-      },
-      "artists": [
-        {
-          "name": "Brian Hughes",
-          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Classical Soul",
         "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 308400,
       "name": "Follow Your Bliss",
       "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Straight To You",
+        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+      },
+      "artists": [
+        {
+          "name": "Brian Hughes",
+          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
     },
     {
       "added_at": "2020-08-19 00:00:21",

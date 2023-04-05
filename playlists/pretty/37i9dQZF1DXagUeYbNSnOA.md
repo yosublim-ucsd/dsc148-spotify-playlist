@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Aroe Phoenix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,340 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,346 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [Break](https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Break](https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6) | 3:25 |
 | 31 | [FKN INDIRECTAS](https://open.spotify.com/track/0R62eYL3Ms9sOB4AvPDh6g) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [FKN INDIRECTAS](https://open.spotify.com/album/50Kpv6hfoTuOUk0HNJkIdn) | 2:47 |
 | 32 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |
-| 33 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
-| 34 | [CUMPLEAÑOS](https://open.spotify.com/track/09tEjSbhoLi3SVgfgVEtdd) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [CUMPLEAÑOS](https://open.spotify.com/album/2hTA8BtUFje0IG7VXQOjaY) | 2:48 |
+| 33 | [CUMPLEAÑOS](https://open.spotify.com/track/09tEjSbhoLi3SVgfgVEtdd) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [CUMPLEAÑOS](https://open.spotify.com/album/2hTA8BtUFje0IG7VXQOjaY) | 2:48 |
+| 34 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
 | 35 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
 | 36 | [Temporary](https://open.spotify.com/track/5GNP6vz90HXit8M4bnXPnc) | [DANI G](https://open.spotify.com/artist/4yVM2Wto6llICCwf58y2mM) | [Temporary](https://open.spotify.com/album/7iYUejnfaFRhQsmLgsCZlT) | 2:56 |
 | 37 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [A Pair of Eyes/Sway](https://open.spotify.com/track/0c7VhDF9H0MN5qrCGgpVwx) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [A Pair of Eyes/Sway](https://open.spotify.com/album/0N1RqNWH9148zU6gcYHtga) | 3:19 |
 | 50 | [sueño despierto](https://open.spotify.com/track/42d29yUrbScNy51YHdp1Cu) | [CORARROTO](https://open.spotify.com/artist/1kAlrjWbgDdekZaLDIBD3A) | [sueño despierto](https://open.spotify.com/album/6OAqEExydoUYtlGL00FNW3) | 1:51 |
 
-Snapshot ID: `MTY4MDEwOTIwMCwwMDAwMDAwMDA5ODExYjE2MmY3Y2MxYjJjNWM1MTRmZGI2YjFjMTY1`
+Snapshot ID: `MTY4MDEwOTIwMCwwMDAwMDAwMDZjY2VmNWY0ZTdiNTg0YmNlYTlhNDYwODdiZDUyYmUy`

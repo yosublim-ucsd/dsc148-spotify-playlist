@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: على لوكا
 
-381 songs - 22 hr 14 min
+382 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3ala el e3ana](https://open.spotify.com/track/2MD1pRCriQPN6w7FyMcTYY) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Msh Fahem Haga](https://open.spotify.com/album/7CPW65OAotETJipoKYrN6w) | 3:46 | 2023-03-16 |  |
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 |  |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-17 |
-| [3elw El Sama](https://open.spotify.com/track/4KvTa3HrkyNAqSFUwiv1vC) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [3elw El Sama](https://open.spotify.com/album/1v16p3Gp0B6wSc12RL3VAZ) | 2:22 | 2023-02-14 |  |
+| [3elw El Sama](https://open.spotify.com/track/4KvTa3HrkyNAqSFUwiv1vC) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [3elw El Sama](https://open.spotify.com/album/1v16p3Gp0B6wSc12RL3VAZ) | 2:22 | 2023-02-14 | 2023-04-05 |
 | [3ian](https://open.spotify.com/track/75s0cYrICLds4ADWnnmfS5) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [3ian](https://open.spotify.com/album/7kzXCUdoekQE4zfFycSa8Z) | 3:29 | 2022-01-20 | 2022-04-08 |
 | [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-03 | 2023-02-17 |
 | [7eneely](https://open.spotify.com/track/0fwo1BAS6r2Ktn2Hl31JDL) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [7eneely](https://open.spotify.com/album/1bqyHkdwTZYoxJYPaCoaqC) | 2:21 | 2022-08-22 | 2022-11-11 |
@@ -71,7 +71,7 @@
 | [Betseeri El Gadal](https://open.spotify.com/track/6x2JlAZVoq7ELXSiRfEIAn) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Betseeri El Gadal](https://open.spotify.com/album/69MCpaAU3I4bki2lxwDXqZ) | 2:46 | 2023-02-02 | 2023-03-11 |
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-12 | 2023-02-24 |
 | [CARTHA](https://open.spotify.com/track/3GjlJCtdD4VTuXSPB9WTWJ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [CARTHA](https://open.spotify.com/album/4ivmPNd6b6xmwNJN2iXzOH) | 2:25 | 2022-05-03 | 2022-05-22 |
-| [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-14 |  |
+| [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-14 | 2023-04-05 |
 | [Cigara](https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:30 | 2022-12-29 | 2023-02-10 |
 | [Cinderella](https://open.spotify.com/track/4ZkUiyfLp12nbQ9zSymqRi) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Cinderella](https://open.spotify.com/album/4qh98LElKIjNAFoQ09UJQg) | 3:51 | 2021-12-23 | 2021-12-30 |
 | [Dalla3 Wetdalla3](https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dalla3 Wetdalla3](https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6) | 4:06 | 2022-05-03 | 2022-08-11 |
@@ -267,6 +267,7 @@
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-03-31 | 2022-07-20 |
 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2021-12-29 | 2022-03-12 |
 | [Taalili](https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Taalili](https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet) | 3:43 | 2022-06-07 | 2022-09-02 |
+| [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 | 2023-04-04 |  |
 | [Taka Taka](https://open.spotify.com/track/56wfjZl06ATKuczJoL5RI6) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Taka Taka](https://open.spotify.com/album/4QaIYxJWkv0wL6rGalJFH2) | 3:18 | 2022-09-01 | 2022-11-25 |
 | [Talakik](https://open.spotify.com/track/4EqU9JKazUgb8ogjx4nIPm) | [Ahmed Hassan](https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm) | [Talakik](https://open.spotify.com/album/1b6GHVe41cj2ruyohBJ7Vu) | 2:39 | 2022-06-23 | 2022-09-23 |
 | [Tamer Hosny Haytna](https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Tamer Hosny Haytna](https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v) | 4:51 | 2022-09-25 | 2022-11-08 |

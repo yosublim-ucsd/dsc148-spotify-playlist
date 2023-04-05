@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 75827,
+  "num_followers": 75854,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA4NTIxNSwwMDAwMDAwMGEwZTRlYmNjYWUxMDMwMmM5MTM3N2YzNGJmOTM5Yzg0",
+  "snapshot_id": "MTY3OTA4NTIxNSwwMDAwMDAwMGYwOWUwOGQzZGJmOTQwMzA5MjRjMzgyNzYxNDY5ZGRj",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Tous Ces D\u00e9tails",
         "url": "https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Thug Love",
         "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "P's & Q's",
         "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
@@ -1385,6 +1385,38 @@
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
+      "added_at": "2023-04-05 01:10:43",
+      "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
+      },
+      "artists": [
+        {
+          "name": "Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        },
+        {
+          "name": "Z The Vibe Doctor",
+          "url": "https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh"
+        },
+        {
+          "name": "Benny D",
+          "url": "https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu"
+        },
+        {
+          "name": "Machi",
+          "url": "https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy"
+        },
+        {
+          "name": "Julian Mendoza",
+          "url": "https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe"
+    },
+    {
       "added_at": "2023-02-17 22:40:08",
       "album": {
         "name": "Sol\u00e8y Midi",
@@ -1419,38 +1451,6 @@
       "duration_ms": 158663,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
-    },
-    {
-      "added_at": "2023-04-04 01:00:42",
-      "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
-      },
-      "artists": [
-        {
-          "name": "Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        },
-        {
-          "name": "Z The Vibe Doctor",
-          "url": "https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh"
-        },
-        {
-          "name": "Benny D",
-          "url": "https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu"
-        },
-        {
-          "name": "Machi",
-          "url": "https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy"
-        },
-        {
-          "name": "Julian Mendoza",
-          "url": "https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1543,30 +1543,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Nahil\u00e9",
-        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
-      },
-      "artists": [
-        {
-          "name": "RockLee",
-          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
-        },
-        {
-          "name": "Wesli",
-          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
-        },
-        {
-          "name": "Paul Cargnello",
-          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Nahil\u00e9",
-      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Fanm d'Ayiti",
         "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
       },
@@ -1615,6 +1591,30 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "Nahil\u00e9",
+        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
+      },
+      "artists": [
+        {
+          "name": "RockLee",
+          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
+        },
+        {
+          "name": "Wesli",
+          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
+        },
+        {
+          "name": "Paul Cargnello",
+          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Nahil\u00e9",
+      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Mr Diablo",
         "url": "https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa"
       },
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
@@ -1673,7 +1673,7 @@
       "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Ou Bezwen",
         "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
@@ -1689,7 +1689,7 @@
       "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Stupid Love",
         "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
@@ -1709,7 +1709,7 @@
       "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     },
     {
-      "added_at": "2023-04-04 01:00:42",
+      "added_at": "2023-04-05 01:10:43",
       "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3"

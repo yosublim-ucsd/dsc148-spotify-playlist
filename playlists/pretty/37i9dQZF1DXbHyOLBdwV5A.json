@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 98641,
+  "num_followers": 98676,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDliMTI2MjE1ZWE0YjQxNGI1M2FlY2E2ZTQ4NzZkZjUx",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDQ0ZDVkNmIxMGNlMjVhMGE4OTJjY2MwYjg1YTUxODMy",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Like Water",
         "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -715,6 +715,30 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "N\u00e3o Sou Merecedor",
+        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "N\u00e3o Sou Merecedor",
+      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Encontrei o Meu Lugar (Remix)",
         "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "N\u00e3o Sou Merecedor",
-        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "N\u00e3o Sou Merecedor",
-      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -923,26 +923,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
         },
         {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         }
       ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -967,26 +967,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
         }
       ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1223,22 +1223,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
       },
       "artists": [
         {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
         },
         {
           "name": "Jessi Dias",
           "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+      "duration_ms": 161485,
+      "name": "Meu Lugar",
+      "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1267,26 +1271,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
       "artists": [
         {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
         },
         {
           "name": "Jessi Dias",
           "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
         }
       ],
-      "duration_ms": 161485,
-      "name": "Meu Lugar",
-      "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2023-03-17 03:00:00",

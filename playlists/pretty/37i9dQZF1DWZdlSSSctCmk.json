@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 89487,
+  "num_followers": 89566,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMDYyNDg4ZGMwNzI0MmE2ZTkyN2IwOTc2NjkxNDU4MWM4",
+  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMGJmMjk4NWNjN2EyMGQxYmExOTg5Zjg5M2M0NmQ4NGUz",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "sketches of transition",
         "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 243213,
       "name": "sketches",
       "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
+      },
+      "artists": [
+        {
+          "name": "Ned Doheny",
+          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
+        }
+      ],
+      "duration_ms": 281733,
+      "name": "Get It Up For Love",
+      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
-      },
-      "artists": [
-        {
-          "name": "Ned Doheny",
-          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "Get It Up For Love",
-      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 311413,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 190140,
       "name": "Your Love (feat. BLAME)",
       "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 311413,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "A Journey to You",
-        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
-      },
-      "artists": [
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
-        }
-      ],
-      "duration_ms": 332820,
-      "name": "Tropicololo",
-      "url": "https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Single Malt",
         "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 169180,
       "name": "Single Malt - Radio Edit",
       "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 332820,
+      "name": "Tropicololo",
+      "url": "https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        },
+        {
+          "name": "Mr White",
+          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
+        }
+      ],
+      "duration_ms": 372640,
+      "name": "You Rock Me - Long Version",
+      "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -1527,6 +1547,22 @@
       "duration_ms": 257019,
       "name": "Nisyan",
       "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Simulcast",
+        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Outer Sunset",
+      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1563,42 +1599,6 @@
       "duration_ms": 228159,
       "name": "Give It To You - Ralf GUM Radio Edit",
       "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Simulcast",
-        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 250383,
-      "name": "Outer Sunset",
-      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        },
-        {
-          "name": "Mr White",
-          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
-        }
-      ],
-      "duration_ms": 372640,
-      "name": "You Rock Me - Long Version",
-      "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
     },
     {
       "added_at": "2023-02-02 23:01:00",

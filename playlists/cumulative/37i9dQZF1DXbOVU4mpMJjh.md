@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-625 songs - 1 day 22 hr 46 min
+627 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Gentle rain](https://open.spotify.com/track/78S8rCKCJ3MUoGF3LCnpo4) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Jessica](https://open.spotify.com/album/4bDZq3KMHTqKIj9Rhkjgwl) | 4:16 | 2022-04-14 | 2023-03-29 |
 | [Georgia on My Mind](https://open.spotify.com/track/4CzHuCHtOZAO5Azv0N4GEi) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 3:41 | 2022-04-14 | 2022-05-18 |
 | [God Bless the Child](https://open.spotify.com/track/7DUGRxCf9NFJffb5Eei8Ar) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:27 | 2022-04-14 |  |
-| [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2022-04-14 |  |
+| [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2022-04-14 | 2023-04-05 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-11 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2022-04-14 | 2022-06-01 |
 | [Got That Feeling](https://open.spotify.com/track/1Jguf6gwtrywE2mRHqsdmY) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:59 | 2022-06-30 | 2023-03-29 |
@@ -358,8 +358,9 @@
 | [Miles and Miles](https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Miles and Miles](https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX) | 4:31 | 2022-09-20 |  |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-06-22 |  |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
+| [Moody Promenade](https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moody Promenade](https://open.spotify.com/album/2fHHkpZFQAjV1lCrC2AY4U) | 2:57 | 2023-03-30 |  |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-01-19 |  |
-| [More Than Ever](https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [More Than Ever](https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv) | 6:11 | 2023-03-09 |  |
+| [More Than Ever](https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [More Than Ever](https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv) | 6:11 | 2023-03-09 | 2023-04-05 |
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-03-09 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-11 | 2023-02-03 |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
@@ -619,6 +620,7 @@
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-29 |  |
 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2022-04-14 |  |
 | [You Go to My Head](https://open.spotify.com/track/0K98aZItWBqCnFiMMiXiD8) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 5:16 | 2022-04-14 | 2022-10-08 |
+| [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-03-30 |  |
 | [You Know I Care](https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92) | [Ian Buss](https://open.spotify.com/artist/2lFzhpbs0F8gwsJycYjWsa) | [You Know I Care](https://open.spotify.com/album/4YydQ4MLcVZZLE9deKSQka) | 6:27 | 2023-03-09 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-24 |  |

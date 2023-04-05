@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274059,
+  "num_followers": 274066,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMGZhMWI1ZDcwNzU3YjZkNTg5ZTMxYWVmMjJlODZlYjQz",
+  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMGE4MDk2MDVlNjc3NTBkYTg0M2FmODFhYjI0YjkwNDIy",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Radio (Acoustic)",
-        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 138048,
-      "name": "Radio - Acoustic",
-      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Radio (Acoustic)",
+        "url": "https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 138048,
+      "name": "Radio - Acoustic",
+      "url": "https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Sound Advice (Chapter One)",
-        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "Audrey Gallagher",
-          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "There Will Be Angels - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Better Half Of Me",
         "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 199120,
       "name": "Shed a Light - Acoustic Version",
       "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Sound Advice (Chapter One)",
+        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Audrey Gallagher",
+          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "There Will Be Angels - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "End Of The World (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "End Of The World - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Another Chance (Remixes)",
         "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "End Of The World (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "End Of The World - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2023-03-20 20:19:53",

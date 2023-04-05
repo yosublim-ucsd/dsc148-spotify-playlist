@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 131927,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 150863,
       "name": "Covardia",
       "url": "https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL"
@@ -3596,7 +3596,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 137142,
       "name": "Deus Perdoa",
       "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 160710,
       "name": "Esse B.O \u00e9 Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5pBU3Yihoa4hiwQ2T5fGhH"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 143830,
       "name": "Facilita A\u00ed",
       "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
@@ -5438,7 +5438,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -5932,7 +5932,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 201262,
       "name": "Hackearam-me",
       "url": "https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505"
@@ -5998,7 +5998,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 173366,
       "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) - Ao Vivo",
       "url": "https://open.spotify.com/track/5Ubx4DpvVodvsGH9ilxPVi"
@@ -7937,6 +7937,24 @@
     },
     {
       "album": {
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
+    },
+    {
+      "album": {
         "name": "MODO TURBO",
         "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
       },
@@ -8604,7 +8622,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 137660,
       "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
       "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
@@ -9915,6 +9933,28 @@
     },
     {
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130375,
+      "name": "Preferida",
+      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
+    },
+    {
+      "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
@@ -10148,7 +10188,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 162461,
       "name": "Puta Mexicana",
       "url": "https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT"
@@ -10752,7 +10792,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN"
@@ -10932,6 +10972,32 @@
       "duration_ms": 200000,
       "name": "Se Joga no Passinho",
       "url": "https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb"
+    },
+    {
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
     },
     {
       "album": {

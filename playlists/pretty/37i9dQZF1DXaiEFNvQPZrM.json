@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 657001,
+  "num_followers": 659341,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGVmMTM4YmU0YjI2ZWUwM2NiNTJjN2Q0ODFhNzVlMTUw",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDhhNTE1Y2YxNmEzZDA2MTE0MGZiNDhlNGNiMzcxZGIy",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 202346,
       "name": "Head Over Boots",
       "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Man I Want To Be",
-        "url": "https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Gettin' You Home",
-      "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Time Marches On",
-        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
+        "name": "The Man I Want To Be",
+        "url": "https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Time Marches On",
-      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+      "duration_ms": 212133,
+      "name": "Gettin' You Home",
+      "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 221266,
       "name": "Ol' Red",
       "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Time Marches On",
+        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Time Marches On",
+      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 213306,
       "name": "On My Way to You",
       "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Deana Carter Collection",
-        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Deana Carter Collection",
+        "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "You've Got to Stand for Something",
-        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Tippin",
-          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "You've Got to Stand for Something",
-      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "You've Got to Stand for Something",
+        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tippin",
+          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "You've Got to Stand for Something",
+      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "See You Try",
+        "url": "https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP"
+      },
+      "artists": [
+        {
+          "name": "Craig Campbell",
+          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 223280,
       "name": "If Heaven Wasn't So Far Away",
       "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "See You Try",
-        "url": "https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP"
-      },
-      "artists": [
-        {
-          "name": "Craig Campbell",
-          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "On The Rocks",
-        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 261826,
-      "name": "Out Of Sight",
-      "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+      "duration_ms": 261826,
+      "name": "Out Of Sight",
+      "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
     },
     {
       "added_at": "2023-03-31 04:00:00",

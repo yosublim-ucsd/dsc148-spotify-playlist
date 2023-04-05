@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 260963,
+  "num_followers": 261050,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1ODUxMSwwMDAwMDAwMDcxYmI4ZTQxNzhmYjI4MTVlYzU5ZjViZGIwNjhmZDdl",
+  "snapshot_id": "MTY3OTA1ODUxMSwwMDAwMDAwMDA2YjhiNTZiZTMxZGJiNWJiM2VkOWVkY2Q0YzA1NjM3",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -201,23 +201,7 @@
       "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
     },
     {
-      "added_at": "2023-04-04 00:59:29",
-      "album": {
-        "name": "Make Way",
-        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
-    },
-    {
-      "added_at": "2023-04-04 00:59:29",
+      "added_at": "2023-04-05 01:00:47",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -231,6 +215,22 @@
       "duration_ms": 189474,
       "name": "American Nightmare",
       "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
+      "added_at": "2023-04-05 01:00:47",
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
-      "added_at": "2023-04-04 00:59:29",
+      "added_at": "2023-04-05 01:00:47",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Suntan / Damocles",
+        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 299068,
+      "name": "Suntan",
+      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Song About Love",
         "url": "https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 222544,
       "name": "Song About Love",
       "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Adore Life",
-        "url": "https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Suntan / Damocles",
-        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
+        "name": "Adore Life",
+        "url": "https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP"
       },
       "artists": [
         {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
         }
       ],
-      "duration_ms": 299068,
-      "name": "Suntan",
-      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
+      "duration_ms": 303133,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
-      },
-      "artists": [
-        {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Rhythm Is Our Business (Edit)",
         "url": "https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2023-02-24 00:00:00",

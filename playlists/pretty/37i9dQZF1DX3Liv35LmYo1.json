@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103416,
+  "num_followers": 103451,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE4MTIwMCwwMDAwMDAwMDc3YjBlM2UwYjBhYTBiYzVhMDI3ZWM0NjZkZWM0ZDE5",
+  "snapshot_id": "MTY4MDE4MTIwMCwwMDAwMDAwMDQxNGE5Y2Q2ZGFmNzNkZWQzY2Y0MjdkYTRlY2I4MzNh",
   "tracks": [
     {
       "added_at": "2023-03-23 13:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-03-23 13:00:00",
       "album": {
+        "name": "Earth To",
+        "url": "https://open.spotify.com/album/5NfVhc8VJhggndUzEcnS2Y"
+      },
+      "artists": [
+        {
+          "name": "Purelink",
+          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
+        }
+      ],
+      "duration_ms": 398048,
+      "name": "Earth To",
+      "url": "https://open.spotify.com/track/11PuMG1Ej3GZcXnngdm72P"
+    },
+    {
+      "added_at": "2023-03-23 13:00:00",
+      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
-    },
-    {
-      "added_at": "2023-03-23 13:00:00",
-      "album": {
-        "name": "Earth To",
-        "url": "https://open.spotify.com/album/5NfVhc8VJhggndUzEcnS2Y"
-      },
-      "artists": [
-        {
-          "name": "Purelink",
-          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
-        }
-      ],
-      "duration_ms": 398048,
-      "name": "Earth To",
-      "url": "https://open.spotify.com/track/11PuMG1Ej3GZcXnngdm72P"
     },
     {
       "added_at": "2023-03-23 13:00:00",

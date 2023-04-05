@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: RENEE",
-  "num_followers": 146174,
+  "num_followers": 146188,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMDk4YTY2YzRhMGYwY2NmYWI2YzhlZDE4MWZjZmE5ZWUx",
+  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMDBlY2IyNDA0YzE5NTA3MDk4Mjk1NmJhMjE5Y2Q3OGM4",
   "tracks": [
     {
       "added_at": "2023-03-31 03:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
       "artists": [
         {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+      "duration_ms": 154361,
+      "name": "REPROGRAMAR",
+      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -535,34 +535,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
         }
       ],
-      "duration_ms": 154361,
-      "name": "REPROGRAMAR",
-      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
-        "name": "No Azara",
-        "url": "https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ"
-      },
-      "artists": [
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "No Azara",
-      "url": "https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO"
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -583,22 +567,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Mito",
-        "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
+        "name": "No Azara",
+        "url": "https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ"
       },
       "artists": [
         {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
         }
       ],
-      "duration_ms": 234478,
-      "name": "Mito",
-      "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
+      "duration_ms": 236460,
+      "name": "No Azara",
+      "url": "https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -615,6 +595,26 @@
       "duration_ms": 205398,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Mito",
+        "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 234478,
+      "name": "Mito",
+      "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
         "name": "Ya No Se Trata de Ti (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ByrEsLdDXsKYqMXOqUUx7"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 204746,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
-        "name": "El Club",
-        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "El Club",
-      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -799,6 +783,22 @@
       "duration_ms": 219642,
       "name": "Pensar en Ti",
       "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "El Club",
+        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Dormir Contigo",
-        "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Dormir Contigo",
-      "url": "https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9?",
         "url": "https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 216000,
       "name": "\u00bfQu\u00e9?",
       "url": "https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Dormir Contigo",
+        "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Dormir Contigo",
+      "url": "https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 147386,
       "name": "Todo Va A Cambiar",
       "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
     },
     {
       "added_at": "2023-03-31 03:00:00",

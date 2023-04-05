@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
@@ -6066,6 +6066,36 @@
       "duration_ms": 189493,
       "name": "Rain Falls",
       "url": "https://open.spotify.com/track/2FXNSDdjyrx855G0WMRTL1"
+    },
+    {
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226095,
+      "name": "Raised Different",
+      "url": "https://open.spotify.com/track/1fwYvYMEdz5lOBXxjbez4T"
     },
     {
       "album": {

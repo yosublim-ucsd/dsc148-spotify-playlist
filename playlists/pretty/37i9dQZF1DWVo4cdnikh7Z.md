@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,575 likes - 63 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,042 likes - 63 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Osarattum Pathu Thala \(From "Pathu Thala"\)](https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Osarattum Pathu Thala \(From "Pathu Thala"\)](https://open.spotify.com/album/2iJ80LZlLGk7G8Fkc8gcW8) | 4:50 |
 | 2 | [Aga Naga \(From “Ponniyin Selvan Part\-2”\)](https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Aga Naga \(From “Ponniyin Selvan Part\-2”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX) | 4:03 |
-| 3 | [Thunder Kaaran \(Promo Song\)](https://open.spotify.com/track/2OPnWdJYLhqt5lTw3MK8RI) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\)](https://open.spotify.com/album/0GE9fz40zQay8v7DQ7HBYT) | 2:36 |
+| 3 | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\)](https://open.spotify.com/track/4XpcWXlyWijBdG2xOnh6nO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\) \- Single](https://open.spotify.com/album/7ke4KYv7CuifVsAXWUOgZM) | 2:36 |
 | 4 | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/album/4LgQVd0XGV8AKiszUTsBSa) | 3:35 |
 | 5 | [Unnodu Vaazhum \- From "Rudhran"](https://open.spotify.com/track/236GC0svgu9SbCriEKrAqA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Unnodu Vaazhum \(From "Rudhran"\)](https://open.spotify.com/album/5zOkK7CA7gjQRFxtCM4HVL) | 4:58 |
 | 6 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 62 | [Mamakutty](https://open.spotify.com/track/7FsAdgPI7Q9hATDOoyErm6) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Pradeep Ranganathan](https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1), [Savitha Reddy](https://open.spotify.com/artist/0r9tuwwUaIN8e9xh19ZoWr), [A.U\. Navin Krubhakar](https://open.spotify.com/artist/666PYWUnhPbOc65Wzn745I) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 2:25 |
 | 63 | [Ennai Vittu \(From "Love Today"\)](https://open.spotify.com/track/3LP4QpKptfe2yEC7oG5iNa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ennai Vittu \(From "Love Today"\)](https://open.spotify.com/album/7u2XibFdWx7ru0qUKHgkOe) | 4:04 |
 
-Snapshot ID: `MTY4MDUyMjE5MCwwMDAwMDAwMGM0MTFkMjVhNDMzNTU3ZmMwNzU2OGRhNDhmYjQwNmYw`
+Snapshot ID: `MTY4MDUyMjE5MCwwMDAwMDAwMDQ0NWIxN2M2ZjI2NDZjY2ZlZWQ3OGU1YzY0YjZjZDA2`

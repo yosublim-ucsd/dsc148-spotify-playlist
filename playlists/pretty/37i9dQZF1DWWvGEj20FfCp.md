@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Music adds a new dimension to fashion\. Soundtrack for designer Thebe Magugu’s latest collection titled Folklorics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,418 likes - 55 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,421 likes - 55 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 28 | [Zola Budd](https://open.spotify.com/track/0qwOrPWqch7GVwMIlzjsgN) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Africa Classics](https://open.spotify.com/album/6yN2MuXTbbHU0Xh5mk5aWK) | 3:58 |
 | 29 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 |
 | 30 | [How Do You Feel](https://open.spotify.com/track/0soaSKPYTNELjNls5uITsQ) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn), [Twistyle](https://open.spotify.com/artist/0Fw2dHHE9LPJtxHNGNV3c9) | [Black Butterfly](https://open.spotify.com/album/1rYF1dXKuv9N82udulYXFd) | 5:32 |
-| 31 | [Sibongile](https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:15 |
+| 31 | [Sibongile](https://open.spotify.com/track/3qUqHQS9yRgoPlkvG7eK94) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/6MM9LwtQg2yYEI1jqjJuCc) | 5:15 |
 | 32 | [Groovers Prayer](https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4O8DBlsMzrukb209docL0j) | 5:41 |
 | 33 | [Come to Me](https://open.spotify.com/track/3ILEb1FBAV9LxRT4GpSlvA) | [The Heavy Dee Krew](https://open.spotify.com/artist/01iZF3zyizhadMmZoahuzn) | [Mid Tempo House Hits 45 BPM](https://open.spotify.com/album/6qkcbXHMuNhpk54yIvjNLn) | 6:24 |
 | 34 | [Go Around](https://open.spotify.com/track/24urHFyxBuBHr0wmvFm9xE) | [Bongi Dube](https://open.spotify.com/artist/1cmefoTFnSOjtIB3GZWQdW) | [Best Of](https://open.spotify.com/album/64PO2sraPwJCG40ghhFr30) | 6:31 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 38 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 39 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta Kamp](https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
 | 40 | [Timana](https://open.spotify.com/track/0xRvsC9OHb1RgzOYcgu6dD) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Ghetto Gospel](https://open.spotify.com/album/195GWiPzBeREYEZv0sNnRN) | 6:30 |
-| 41 | [Tsa Mandebele](https://open.spotify.com/track/3JtOJiuyAXRolvCtLy9YTA) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy](https://open.spotify.com/artist/4F1OlX4Hsm2bxTepT53MX3) | [I Believe 2013](https://open.spotify.com/album/06NErc3UFxuJwhuajmlF5q) | 6:57 |
+| 41 | [Tsa Mandebele](https://open.spotify.com/track/6OQqb88STgvROwhN1IYPyH) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Candy](https://open.spotify.com/artist/4F1OlX4Hsm2bxTepT53MX3) | [Tsa Mandebele](https://open.spotify.com/album/042SdEj2aj8yrkIes4Akwq) | 6:57 |
 | 42 | [O Nketsang?](https://open.spotify.com/track/3OjDd5JzGhYcxu0aORQKxk) | [Rex Rabanye](https://open.spotify.com/artist/59gjiT7gAiwtlNIR3KbgZD) | [Greatest Moments Of](https://open.spotify.com/album/1QQCKEDkhxEPsr4e0z65YO) | 6:44 |
 | 43 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
 | 44 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 54 | [Vhuludu](https://open.spotify.com/track/1MjOrrnPi3vEfxvF911ZIb) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Taxda](https://open.spotify.com/artist/7umJtHkUAe4CuLig6vwzq9) | [Makhulu](https://open.spotify.com/album/43PJosTFCL2q2l7N7ohrvc) | 5:19 |
 | 55 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 
-Snapshot ID: `MTY3ODQzNTkwMywwMDAwMDAwMDEwNTNiMmE5NDFhZTMxYTE1ZDQzNjg4ZWFkZTk4ZTYz`
+Snapshot ID: `MTY3ODQzNTkwMywwMDAwMDAwMGUzZTAxODc4NzNhNWEzNDM5Yjk3ZGRmZGRkYTA1YTBm`

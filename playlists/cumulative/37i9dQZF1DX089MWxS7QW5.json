@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Padi)",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: TANAKA, Vince(\ub2e4\ub098\uce74, \ube48\uc2a4))",
   "name": "K-Are & Be",
   "tracks": [
     {
@@ -690,6 +690,28 @@
       "duration_ms": 186500,
       "name": "chasing you",
       "url": "https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv"
+    },
+    {
+      "album": {
+        "name": "Choose Me (feat. Vince)",
+        "url": "https://open.spotify.com/album/2vLVhxjpQVOPDxNQo7UeCb"
+      },
+      "artists": [
+        {
+          "name": "TANAKA",
+          "url": "https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT"
+        },
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202095,
+      "name": "Choose Me (feat. Vince)",
+      "url": "https://open.spotify.com/track/4GTosMKxwHJsbrSfaRPc9K"
     },
     {
       "album": {

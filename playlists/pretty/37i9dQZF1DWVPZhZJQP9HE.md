@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,442 likes - 68 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,471 likes - 68 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 9 | [Kanaa](https://open.spotify.com/track/0ThL8U5OaPtjrgz7BB38az) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Aelo](https://open.spotify.com/artist/7qHIhScCCPjjFvwYVPNnJx) | [Kanaa](https://open.spotify.com/album/2wq48v8MQWaek7K6NgLXc2) | 3:55 |
 | 10 | [Kanna Pinna](https://open.spotify.com/track/0fa5snUZaaN2koLPG7MwKO) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3) | [Kanna Pinna](https://open.spotify.com/album/03g5WV70pBuLZPlmDUT0qv) | 3:10 |
 | 11 | [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 |
-| 12 | [En Kannae Pogathey](https://open.spotify.com/track/7mdGxqgNLZx98ZnBzSIm0D) | [Al Rufian](https://open.spotify.com/artist/57o1IPq5xCi32XkPLCDsjh), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL) | [En Kannae Pogathey](https://open.spotify.com/album/2U5qUOrOkAcp654GSBTlmW) | 4:40 |
+| 12 | [En Kannae Pogathey](https://open.spotify.com/track/7mdGxqgNLZx98ZnBzSIm0D) | [Al Rufian](https://open.spotify.com/artist/57o1IPq5xCi32XkPLCDsjh), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Rubesh Radhakrishnan](https://open.spotify.com/artist/2qIYXydYDYpTGiPBeh2eNx) | [En Kannae Pogathey](https://open.spotify.com/album/2U5qUOrOkAcp654GSBTlmW) | 4:40 |
 | 13 | [Kettu Paaru](https://open.spotify.com/track/2CwcuF6fNhmTZFFh9dmugx) | [Jay Nesh Isuran](https://open.spotify.com/artist/3q3CPxTgWd1Kb9F4Kdlvb3), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2) | [Kettu Paaru](https://open.spotify.com/album/0LJuolh9yhdltn1kuccEjy) | 2:57 |
 | 14 | [Azhagaana Vaaname](https://open.spotify.com/track/2X9AwXEdhVITzPQyNIqsxP) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW) | [Azhagaana Vaaname](https://open.spotify.com/album/4fdhheqedEO8H4Axwfw2dF) | 2:55 |
 | 15 | [Nee Cadbury](https://open.spotify.com/track/5074vxvOMww4f0LqM8cRLn) | [Barath Dhanasekar](https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Kadhal Distancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22IzQzgVuim5il8fUYxpLA) | 4:35 |

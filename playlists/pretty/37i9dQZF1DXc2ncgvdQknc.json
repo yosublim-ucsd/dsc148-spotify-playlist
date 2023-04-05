@@ -1,12 +1,12 @@
 {
   "description": "All 10s, all ballads. Cover: Adele",
-  "num_followers": 35272,
+  "num_followers": 35379,
   "original_name": "10s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIxNTU2NCwwMDAwMDAwMDIwOWM3OGU5NzE0MjgwNmJkODZkZWVhYTQ3NDU3MjVj",
+  "snapshot_id": "MTY1MjIxNTU2NCwwMDAwMDAwMDExOGE1ODM3ZTBkODI4NDBiYmFkODk4YWM4MWQzYWNk",
   "tracks": [
     {
       "added_at": "2022-05-10 20:46:04",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 278746,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
     }
   ],
   "unique_name": "10s Ballads",

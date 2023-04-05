@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Subamos el volumen a las mujeres\. Co\-curada por Francisca Valenzuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,555 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,552 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,29 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 24 | [Rara](https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Voz Que Sana](https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp) | 3:32 |
 | 25 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
 | 26 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
-| 27 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
+| 27 | [Quiérete Mucho ♡](https://open.spotify.com/track/7kDutlhRN5y6XeEgKz06eI) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Quiérete Mucho ♡](https://open.spotify.com/album/47b22rXJAyeKYdr4qn2vVF) | 3:14 |
 | 28 | [SALÚ](https://open.spotify.com/track/3n9UWV1Xa23WtOKpEfnbVv) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 3:20 |
-| 29 | [Quiérete Mucho ♡](https://open.spotify.com/track/7kDutlhRN5y6XeEgKz06eI) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X) | [Quiérete Mucho ♡](https://open.spotify.com/album/47b22rXJAyeKYdr4qn2vVF) | 3:14 |
+| 29 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
 | 30 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
 | 31 | [El Surco](https://open.spotify.com/track/3ponuxHLLLI1nMi9XcxdJT) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi), [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Tornasol](https://open.spotify.com/album/0AOUVR8VGXiqeLeY8A8PMx) | 2:32 |
 | 32 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 |
 | 33 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
-| 34 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 |
-| 35 | [Valientes](https://open.spotify.com/track/7kEJ3ajOHug4iTG3ogQtQd) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 4:01 |
+| 34 | [Valientes](https://open.spotify.com/track/7kEJ3ajOHug4iTG3ogQtQd) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 4:01 |
+| 35 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 |
 | 36 | [Flor de Lavanda](https://open.spotify.com/track/7cUUunnDFcu9AHiuF0fs9n) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Flor de Lavanda](https://open.spotify.com/album/3fgTrA9QqwF9IT67R7gCK0) | 2:49 |
 | 37 | [Sacar los Tambores](https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 4:11 |
 | 38 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
 | 39 | [Quememos el Reino](https://open.spotify.com/track/0QLJWqX0Taif8Hb6JGmy9e) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey](https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN) | 4:27 |
 | 40 | [Somos Hermanas](https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Somos Hermanas](https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR) | 4:25 |
-| 41 | [Yanara](https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Canciones Que Acunan](https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN) | 4:05 |
-| 42 | [Paz Mental](https://open.spotify.com/track/6qrpKBnajPTZqri62rOJYh) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Khali Polo](https://open.spotify.com/artist/6p4jLNz7drGHvovCmCEX8t) | [Paz Mental](https://open.spotify.com/album/4X40KrzSuLlgRlPzB69vzK) | 2:56 |
+| 41 | [Paz Mental](https://open.spotify.com/track/6qrpKBnajPTZqri62rOJYh) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Khali Polo](https://open.spotify.com/artist/6p4jLNz7drGHvovCmCEX8t) | [Paz Mental](https://open.spotify.com/album/4X40KrzSuLlgRlPzB69vzK) | 2:56 |
+| 42 | [Yanara](https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Canciones Que Acunan](https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN) | 4:05 |
 | 43 | [Ya No Más](https://open.spotify.com/track/2NupxcN9n8pbHYYn34idT9) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Ya No Más](https://open.spotify.com/album/4ywrUZCcBtpJaUF5NqDPDE) | 1:00 |
-| 44 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
-| 45 | [Otra Vez](https://open.spotify.com/track/0FyjvQWS65rG8v3vnB3snN) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Otra Vez](https://open.spotify.com/album/3xpy8pqDLXKIAmb3AsYBhJ) | 3:27 |
+| 44 | [Otra Vez](https://open.spotify.com/track/0FyjvQWS65rG8v3vnB3snN) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Otra Vez](https://open.spotify.com/album/3xpy8pqDLXKIAmb3AsYBhJ) | 3:27 |
+| 45 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
 | 46 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 |
 | 47 | [No midas las palabras!](https://open.spotify.com/track/6Ysa4eWynByNpVxwtvjv8O) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No midas las palabras!](https://open.spotify.com/album/3GJLhExQ1ELO3U6B2Bxwfk) | 3:09 |
 | 48 | [Todo Va a Andar Bien](https://open.spotify.com/track/40gB7Xjf1lU61cxUc3UBCw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Pa´ Tu Corazón](https://open.spotify.com/album/7JzbpfQPJp43G5DaLS6kvg) | 2:44 |
 | 49 | [Fractura](https://open.spotify.com/track/7f3ucDYnKl2lxhKGV8OJ9m) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:26 |
 | 50 | [Tan en el Aire](https://open.spotify.com/track/3FR4AnFf2zbYaesNbLpSiK) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 3:24 |
 
-Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMGQzZGE3M2U1M2Q4MTYzZTcyZGQxNjA5M2E0YWM3NDVl`
+Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMDMzZWU3ZjgzZjUwN2VkZTRkZTJhMzA2ZmE4MDNjNmUz`

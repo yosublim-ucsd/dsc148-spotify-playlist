@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Caramelo Haze en portada.",
-  "num_followers": 29838,
+  "num_followers": 29867,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5NDA2OSwwMDAwMDAwMDY2Zjg4NGJlOGRkZDRhMzMxZDgyY2EzNDE4MzdkYWE4",
+  "snapshot_id": "MTY4MDI5NDA2OSwwMDAwMDAwMDQ4ZGI2ODRjZWEzYjhlMDRhZmQ4N2NjOTY1YTVmNzQy",
   "tracks": [
     {
       "added_at": "2023-03-31 17:57:12",
@@ -921,38 +921,6 @@
       "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
     },
     {
-      "added_at": "2022-04-20 18:21:19",
-      "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
-        }
-      ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
-    },
-    {
-      "added_at": "2023-03-31 20:16:58",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
-    },
-    {
       "added_at": "2022-09-29 00:14:11",
       "album": {
         "name": "Todo Se Mantiene en Su Lugar",
@@ -971,6 +939,38 @@
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
+    },
+    {
+      "added_at": "2023-03-31 20:16:58",
+      "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "added_at": "2022-04-20 18:21:19",
+      "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2023-03-31 20:16:58",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
     },
     {
+      "added_at": "2022-09-03 03:44:59",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Sabe a Tu Nombre",
@@ -1233,42 +1249,6 @@
       "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
-      "added_at": "2023-01-03 23:30:52",
-      "album": {
-        "name": "Cucu",
-        "url": "https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc"
-      },
-      "artists": [
-        {
-          "name": "Gotopo",
-          "url": "https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF"
-        },
-        {
-          "name": "Don Elektron",
-          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
-        }
-      ],
-      "duration_ms": 112602,
-      "name": "Cucu",
-      "url": "https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ"
-    },
-    {
-      "added_at": "2022-09-03 03:44:59",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
       "added_at": "2022-03-30 03:09:53",
       "album": {
         "name": "El Sonido Nuevo de",
@@ -1303,6 +1283,26 @@
       "duration_ms": 197933,
       "name": "Nubecita",
       "url": "https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz"
+    },
+    {
+      "added_at": "2023-01-03 23:30:52",
+      "album": {
+        "name": "Cucu",
+        "url": "https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc"
+      },
+      "artists": [
+        {
+          "name": "Gotopo",
+          "url": "https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "duration_ms": 112602,
+      "name": "Cucu",
+      "url": "https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -1349,24 +1349,24 @@
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
-      "added_at": "2022-09-30 04:06:25",
+      "added_at": "2022-07-25 03:37:28",
       "album": {
-        "name": "Coraz\u00f3n Usado",
-        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         },
         {
-          "name": "Isabel Aladro",
-          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
         }
       ],
-      "duration_ms": 232241,
-      "name": "Coraz\u00f3n Usado",
-      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
+      "duration_ms": 191150,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     }
   ],
   "unique_name": "tropic.alt",

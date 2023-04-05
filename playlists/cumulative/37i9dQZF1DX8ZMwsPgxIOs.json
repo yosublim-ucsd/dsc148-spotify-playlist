@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Andromeda / Boreale",
+        "url": "https://open.spotify.com/album/238mifuuUarseMLOeSZCqx"
+      },
+      "artists": [
+        {
+          "name": "Anunaku",
+          "url": "https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3bBK046iUp8YchkY4yVZfC"
+    },
+    {
+      "album": {
         "name": "Apollo EP",
         "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
       },
@@ -576,7 +594,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 274551,
       "name": "Consciousness",
       "url": "https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 288013,
       "name": "Crimson Arch",
       "url": "https://open.spotify.com/track/6kqLDMdqgbgCsLbsSlWRjo"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 316444,
       "name": "Feel The Rhythm",
       "url": "https://open.spotify.com/track/5aZvrkexQVRGubS0rPnPYv"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 367697,
       "name": "Gentle Romance",
       "url": "https://open.spotify.com/track/54BJDdU38sXG8mRO0KgDBS"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 230670,
       "name": "Geopolitics",
       "url": "https://open.spotify.com/track/0q69KffAkWv5GtyAauTU8V"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 368564,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/4DTIk73G5Eur9dGeIoZPPv"
@@ -1841,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Vista Mare Forever",
+        "url": "https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274738,
+      "name": "Monica Vitti",
+      "url": "https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa"
+    },
+    {
+      "album": {
         "name": "Morning Glow (Edit)",
         "url": "https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF"
       },
@@ -2004,7 +2040,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 291500,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1"
@@ -2233,6 +2269,46 @@
     },
     {
       "album": {
+        "name": "Pillow Princess Remixes I",
+        "url": "https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR"
+      },
+      "artists": [
+        {
+          "name": "Manni Dee",
+          "url": "https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Pillow Princess - Taahliah Remix",
+      "url": "https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z"
+    },
+    {
+      "album": {
+        "name": "Pinger",
+        "url": "https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298659,
+      "name": "Pinger",
+      "url": "https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R"
+    },
+    {
+      "album": {
         "name": "Pure Evil",
         "url": "https://open.spotify.com/album/7zjWZoj0hSUUDZ0AFoj240"
       },
@@ -2262,7 +2338,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 468203,
       "name": "Rave Girl",
       "url": "https://open.spotify.com/track/0Q8O9vyX1X6tajbwXIYiFX"
@@ -2352,7 +2428,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 221669,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
@@ -2378,7 +2454,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 272741,
       "name": "Restore My Soul - Remix",
       "url": "https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf"
@@ -2718,7 +2794,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 388059,
       "name": "Stay Out All Night - Carl Cox Remix",
       "url": "https://open.spotify.com/track/4N6y6lAaIUYB359Uko8Yxm"
@@ -2802,7 +2878,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 298285,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
@@ -3128,7 +3204,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 400624,
       "name": "Universal Consciousness",
       "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
@@ -3146,7 +3222,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 367187,
       "name": "Vibe Catcher",
       "url": "https://open.spotify.com/track/0JhWSndXoTT6SOVhHkMOj3"

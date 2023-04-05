@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,391 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,492 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 18 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 19 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 |
 | 20 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 |
-| 21 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 |
-| 22 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 3:37 |
+| 21 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 3:37 |
+| 22 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 |
 | 23 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/0jfh6PNB5GBg094Ilg84yG) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/album/01eKsPypv6vDuDznnhMWfe) | 3:50 |
 | 24 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 |
 | 25 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 82 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 |
 | 83 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 84 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 |
-| 85 | [I ไม่ O \(IXO\)](https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I ไม่ O \(IXO\)](https://open.spotify.com/album/6Zl21EDgJdMwQougq7bt9J) | 3:55 |
-| 86 | [พรหมลิขิต](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 4:13 |
+| 85 | [พรหมลิขิต](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 4:13 |
+| 86 | [I ไม่ O \(IXO\)](https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I ไม่ O \(IXO\)](https://open.spotify.com/album/6Zl21EDgJdMwQougq7bt9J) | 3:55 |
 | 87 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
 | 88 | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/track/6d5a3i4bA9uGrmgZt1WR0d) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/album/6NzUzhfx9gpoPXhrABoWml) | 3:06 |
 | 89 | [แค่นี้...พอ](https://open.spotify.com/track/41TfjScHItR0d1k1N9tSr6) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/0kFH6H2rIhrjnPfoKIdFfy) | 3:49 |
 | 90 | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on) | 2:58 |
-| 91 | [รอ](https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS) | [Basketband](https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj) | [รอ](https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW) | 3:36 |
-| 92 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
+| 91 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
+| 92 | [รอ](https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS) | [Basketband](https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj) | [รอ](https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW) | 3:36 |
 | 93 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
 | 94 | [จริงๆนะ](https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER) | [The 38 Years Ago](https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8) | [จริงๆนะ](https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo) | 3:30 |
 | 95 | [I LOVE YOU](https://open.spotify.com/track/3zDfauunufdNjP8gBhlte0) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I LOVE YOU](https://open.spotify.com/album/0qaSGustJqBqXqG0ZQy320) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/track/68i6L61qFCI79hD3kRrdwG) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/album/6payxbbvQLVLkNlRmlAiN0) | 4:33 |
 | 100 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 |
 
-Snapshot ID: `MTY4MDQyMzU2MywwMDAwMDAwMDQwMDk3ZGJmZTVkNzgxYmNkNDRmNGI0YjNhYTRjNTE5`
+Snapshot ID: `MTY4MDQyMzU2MywwMDAwMDAwMDAyMjg4Yzg1NzJjZTA3M2Y1NTJhMDE5MzhjNjdlMjhm`

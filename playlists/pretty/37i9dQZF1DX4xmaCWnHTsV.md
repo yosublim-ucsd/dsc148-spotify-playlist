@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,010 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,014 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 12 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 13 | [The Train Kept A Rollin'](https://open.spotify.com/track/7s8spWIA65WP6vG18bXDP1) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:19 |
 | 14 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 |
-| 15 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
-| 16 | [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 |
+| 15 | [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 |
+| 16 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
 | 17 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 | 18 | [Right Behind You Baby](https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Sun Records Sound of Ray Smith \(20 Rock 'n' Roll Classics\)](https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK) | 2:22 |
 | 19 | [Boppin' The Blues](https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 46 | [I Got a Rocket in My Pocket \- Remastered Single Version](https://open.spotify.com/track/3Qx5VIqbesK1ByTLuXcddr) | [Jimmy Lloyd](https://open.spotify.com/artist/1ngT1mR10aJjFgMmSF5mvB) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:19 |
 | 47 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted](https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4) | 2:15 |
 | 48 | [Get with It](https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN), [Jody & Jerry](https://open.spotify.com/artist/60vvMCwC7lmGNhzcY4393t) | [Meteor Rockabilly & Hillbilly Recordings](https://open.spotify.com/album/2rQOB86QUXGmEHjWvduZbm) | 2:04 |
-| 49 | [I Need A Man](https://open.spotify.com/track/3vk6HvWYYlzwXaPxijyV2K) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [The Legendary Sun Classics](https://open.spotify.com/album/5U0whF1wDL149JzbCCeVjI) | 2:53 |
-| 50 | [Do Me No Wrong \(Demo\)](https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Presenting Pat Cupp](https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8) | 2:24 |
+| 49 | [Do Me No Wrong \(Demo\)](https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Presenting Pat Cupp](https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8) | 2:24 |
+| 50 | [I Need A Man](https://open.spotify.com/track/3vk6HvWYYlzwXaPxijyV2K) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [The Legendary Sun Classics](https://open.spotify.com/album/5U0whF1wDL149JzbCCeVjI) | 2:53 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDRiYjgxYzVhOGEzZmI4ZDk5NTA1ODQ5MjRlMzIyZjU0`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDEzMmFlMWE2NjQ0OGEyNmRlNjA4YjZhYWFkMzNlNzM1`

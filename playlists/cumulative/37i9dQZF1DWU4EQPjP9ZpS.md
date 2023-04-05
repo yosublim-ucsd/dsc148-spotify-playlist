@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-415 songs - 23 hr 5 min
+416 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Astra Vision](https://open.spotify.com/track/07BBLGQENt9FePC6wJSYdH) | [Projecteur](https://open.spotify.com/artist/5YUQ6aQuTKzfQc3XjJCueO) | [Astra Vision](https://open.spotify.com/album/1YOQFZ8aMNS4MtFAXq7FzV) | 5:09 | 2021-12-08 | 2022-07-23 |
 | [At Night](https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir) | [マドロスMERCURY](https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN) | [Tendencies](https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD) | 1:34 | 2022-02-27 | 2022-07-26 |
 | [Baby, It's you](https://open.spotify.com/track/26Ls5FQ8enZVjSIZKSGqcl) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Baby, It's you](https://open.spotify.com/album/4jZojAOWcvMLhHbsGIDVIR) | 2:10 | 2021-12-08 | 2022-07-12 |
-| [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9) | 4:57 | 2022-06-06 |  |
+| [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9) | 4:57 | 2022-06-06 | 2023-04-05 |
 | [Bad Baby \- Satin Sheets Remix](https://open.spotify.com/track/3HAphL6BtlyezG6mK7PDWe) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Bad Baby \(Satin Sheets Remix\)](https://open.spotify.com/album/1SidTvGWpOUMZ0fBdjcDMT) | 4:57 | 2021-12-08 | 2022-07-29 |
 | [Balance](https://open.spotify.com/track/4wC5oQIQMqKk9ZodyVmRJ4) | [Device Operator](https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C) | [Better Days](https://open.spotify.com/album/22oMeDBaEUGjdgb3vq19ri) | 3:05 | 2022-01-26 | 2022-06-22 |
 | [Beijing](https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [Mine on the Street](https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk) | 3:20 | 2021-12-08 | 2022-07-29 |
@@ -148,7 +148,7 @@
 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 | 2021-12-08 | 2022-07-29 |
 | [Game](https://open.spotify.com/track/4VNLPySr5c0fufDdc5gFNY) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Karma Cleaning](https://open.spotify.com/album/0U45XeSkTv2KDdvT7VAKiT) | 3:34 | 2022-02-27 | 2022-06-30 |
 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 | 2022-07-15 |  |
-| [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 | 2021-12-08 |  |
+| [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 | 2021-12-08 | 2023-04-05 |
 | [Golden Glass](https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP) | [Frez Wave](https://open.spotify.com/artist/6tytrNpNMZoasn1ox34sox) | [オオハシ](https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb) | 1:25 | 2022-01-26 | 2022-06-01 |
 | [Goodbye](https://open.spotify.com/track/5C2bNVpcwAKLJxCfxoP9CO) | [Mélonade](https://open.spotify.com/artist/1oI7fQB3WliumtkbkYuaNz) | [From The Heart](https://open.spotify.com/album/43sPeS98dtlmt0J3sJMQBh) | 1:52 | 2022-08-12 | 2022-09-12 |
 | [GottasaythatIneedyou](https://open.spotify.com/track/1qupE9NJIRdNoWIrCowaBF) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj), [Baraka](https://open.spotify.com/artist/4HOFHQ9Y5Q1E8KKjnjkA0O) | [IV](https://open.spotify.com/album/3Vpr2r8rUONuBSWz0g7MWL) | 5:24 | 2021-12-08 | 2022-07-19 |
@@ -180,7 +180,7 @@
 | [In the Sea \- 3d Blast Remix](https://open.spotify.com/track/6LviX9tGguv6BHT2D7iNpE) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa), [3d Blast](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [In the Sea \(3d Blast Remix\)](https://open.spotify.com/album/5Q0HlgsqpSO7kUIqOIS9FW) | 4:00 | 2022-02-27 | 2022-07-29 |
 | [in water](https://open.spotify.com/track/0obfqHC5mTgpry5g7pKKJ1) | [Oracle FM](https://open.spotify.com/artist/31DUbrXaZQE3myF3c4KNSL) | [in water](https://open.spotify.com/album/3xaoeCuDoT8UY173rtDlq6) | 2:57 | 2021-12-08 | 2022-07-21 |
 | [Instance](https://open.spotify.com/track/0LKFMuPJ5AbBtpC1JA1h9Z) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Reflection Plane](https://open.spotify.com/album/5drH29DpqokNHxftcmPzPd) | 3:31 | 2022-08-12 | 2022-09-12 |
-| [Instance](https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c) | 3:32 | 2022-09-11 | 2023-04-04 |
+| [Instance](https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c) | 3:32 | 2022-09-11 |  |
 | [Instance](https://open.spotify.com/track/5To2o7kM1z1bYY43nz4VNH) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Instance](https://open.spotify.com/album/3kaESmmHCAEf3OnqxGehGk) | 3:32 | 2022-04-11 | 2022-07-28 |
 | [Intercontinental](https://open.spotify.com/track/6bfuLXMhr4jpG2og7eZWpH) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Intercontinental](https://open.spotify.com/album/7zgV7O9KcT8ZymRfHFGxa3) | 4:13 | 2022-08-12 | 2022-10-09 |
 | [Intro \- Delux Edition](https://open.spotify.com/track/3heMM4Og51NfVR8bWwueF1) | [FUNKYSENPAI](https://open.spotify.com/artist/73D3brznPfF6gHusQdHHVq) | [We Are Future Funk \(Delux Edition\)](https://open.spotify.com/album/7K6BsYBzlmd9NiUtAl4gLZ) | 3:00 | 2022-09-11 | 2022-12-03 |
@@ -333,6 +333,7 @@
 | [SUMMER NEVER ENDS](https://open.spotify.com/track/4ZmX61pdJ79jgGL6z5jFXd) | [architecture in tokyo](https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ) | [Summer Paradise](https://open.spotify.com/album/3m3FAl1OVyOAuH5zyTFZjW) | 1:49 | 2021-12-08 |  |
 | [Sun Stage](https://open.spotify.com/track/1vLqbcAs7WNeEpIR8t6PbU) | [Device Operator](https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C) | [Midnight Mirage](https://open.spotify.com/album/2EHny1rs5csAmE5yQGTsmt) | 2:46 | 2021-12-08 | 2022-06-30 |
 | [sunday shopping](https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5) | [vcr\-classique](https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2) | [visualdesign '97](https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ) | 1:45 | 2021-12-08 |  |
+| [Sunlight](https://open.spotify.com/track/0gcu9pxAeLiyQlmURLH4zD) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Sunlight](https://open.spotify.com/album/0i6dkZajDnsCJH1BRaaHj1) | 3:32 | 2022-11-04 |  |
 | [Sunlight](https://open.spotify.com/track/3upWsGkTCKGdQj8QfMbIlv) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Sunlight](https://open.spotify.com/album/0Szj9kJlNV3ydMWjSAYLro) | 3:32 | 2022-01-26 | 2022-04-19 |
 | [Sunset Highway \(w channel select\)](https://open.spotify.com/track/0XDUlFhcH8XGNP2iGbIIur) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sunset Highway \(w channel select\)](https://open.spotify.com/album/5JQw0ulLNXwDxSwF0exjap) | 4:18 | 2021-12-08 | 2022-07-23 |
 | [Suppressed Screams](https://open.spotify.com/track/4WOMZOdMqC7jl0s565g3um) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Suppressed Screams](https://open.spotify.com/album/6u4ib4bwLgTTERzeSWE0uC) | 4:49 | 2022-11-04 |  |

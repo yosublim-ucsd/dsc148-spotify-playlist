@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 77156,
+  "num_followers": 77668,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDU0NTM4MmQ1YWFiODg4NGMzNjZkOGMwZDc3Y2U0NTg4",
+  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDg2YTE2NDUyNGQzYTEyNjU0MzQ3N2Q0NGYzYjE4YmIx",
   "tracks": [
     {
       "added_at": "2022-12-21 18:21:03",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
-      },
-      "artists": [
-        {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
+      },
+      "artists": [
+        {
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
-        "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
-      },
-      "artists": [
-        {
-          "name": "Ne\u00f3n",
-          "url": "https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "Juegos de Amor",
-      "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 226560,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
+        "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
+      },
+      "artists": [
+        {
+          "name": "Ne\u00f3n",
+          "url": "https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "Juegos de Amor",
+      "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
     },
     {
       "added_at": "2022-12-21 18:21:03",

@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-79 songs - 3 hr 17 min
+82 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Datemi un martello](https://open.spotify.com/track/3Zw6Chlu7EVxz55eQ6OX4G) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [raRità!](https://open.spotify.com/album/2hBiHrGYrmQIsxwvBOwwFf) | 2:49 | 2021-01-18 | 2023-04-04 |
 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 | 2021-01-18 | 2022-07-29 |
 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 | 2021-01-18 |  |
-| [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 | 2021-01-18 |  |
+| [Downtown](https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 3:05 | 2021-01-18 |  |
+| [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 | 2021-01-18 | 2023-04-05 |
 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 | 2021-01-18 |  |
 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/1bKQC2N25mYrt8jy0XmOIS) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años De Musica](https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1) | 2:12 | 2021-01-18 | 2022-11-13 |
 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/7b94Oh1p69ue3mCdXsngrh) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Mayté...](https://open.spotify.com/album/4bRUoxWothLJaJpXI03MrX) | 2:12 | 2021-01-18 | 2022-07-29 |
@@ -29,7 +30,8 @@
 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 | 2021-01-18 |  |
 | [Fallin'](https://open.spotify.com/track/121oskeJBhi1OvqHqydCSf) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:13 | 2021-01-18 |  |
 | [Fallin'](https://open.spotify.com/track/3ZDcQjE8kM4Sj4a2Svgktp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:13 | 2021-01-18 | 2022-07-29 |
-| [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 | 2021-01-18 |  |
+| [Je me sens bien auprès de toi](https://open.spotify.com/track/3r9qKxFt4lOeOIFmOyclTn) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:24 | 2021-01-18 |  |
+| [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 | 2021-01-18 | 2023-04-05 |
 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 | 2021-01-18 |  |
 | [La Chica Ye\-Ye](https://open.spotify.com/track/5GnMI0vrXfEHHT83SyJ57D) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Las Canciones de Conchita Velasco](https://open.spotify.com/album/0YBnnneqK6X3BCp7akibIq) | 2:22 | 2021-01-18 |  |
 | [La Chica Ye\-Ye \- Remastered](https://open.spotify.com/track/6JYjToh74GiDsaD1XvtNyN) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Pop Español de los 60's, Vol\. 1 \- Cuéntame, Flamenco, La Chica Ye\-Ye..\. \(Remastered\)](https://open.spotify.com/album/6LPWTxR403TgJcPYI0VgWl) | 2:22 | 2021-01-18 | 2023-04-03 |
@@ -85,7 +87,8 @@
 | [Tómbola](https://open.spotify.com/track/35lfDNjMbqNU54SVwsesn6) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Canta con Marisol](https://open.spotify.com/album/0DqSFHn7l8lYqyAehQ2WGR) | 2:32 | 2021-01-18 |  |
 | [Tómbola](https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol\. La Pequeña Estrella](https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT) | 2:32 | 2021-01-18 | 2022-07-29 |
 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 | 2021-01-18 |  |
-| [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 | 2021-01-18 |  |
+| [Ya Ya Twist \- Stereo Version](https://open.spotify.com/track/6DJP4Ulkd4gF7NXyB30EHz) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 2:12 | 2021-01-18 |  |
+| [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 | 2021-01-18 | 2023-04-05 |
 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 | 2021-01-18 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

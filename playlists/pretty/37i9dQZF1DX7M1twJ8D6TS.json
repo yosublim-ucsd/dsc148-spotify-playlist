@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 117534,
+  "num_followers": 117633,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDU2Mzk2YTRkMmI4MWUwYzhlYzgxYzgzYmMwMmE2OWNi",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDg0NTM3NjM4YjE3MzliOGFjMTg1NDk2NzA1NjM0YTlh",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Javelina",
-        "url": "https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq"
-      },
-      "artists": [
-        {
-          "name": "Red Shahan",
-          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Javelina",
-      "url": "https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 212235,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Javelina",
+        "url": "https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq"
+      },
+      "artists": [
+        {
+          "name": "Red Shahan",
+          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Javelina",
+      "url": "https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
     },
     {
-      "added_at": "2023-04-04 01:27:36",
+      "added_at": "2023-04-05 01:18:12",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
     },
     {
-      "added_at": "2023-04-04 01:27:36",
+      "added_at": "2023-04-05 01:18:12",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Paycheck to Paycheck",
         "url": "https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 156946,
       "name": "Paycheck to Paycheck",
       "url": "https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "When You're Coming Down",
-        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "When You're Coming Down",
-      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 261268,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "When You're Coming Down",
+        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "When You're Coming Down",
+      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Texas Made",
-        "url": "https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA"
+        "name": "Whiskey Over Wine",
+        "url": "https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs"
       },
       "artists": [
         {
-          "name": "Sarah Hobbs",
-          "url": "https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI"
+          "name": "David McMahon",
+          "url": "https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT"
+        },
+        {
+          "name": "Jake Parshall",
+          "url": "https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U"
         }
       ],
-      "duration_ms": 231808,
-      "name": "Like I Love You",
-      "url": "https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo"
+      "duration_ms": 230933,
+      "name": "Whiskey Over Wine",
+      "url": "https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa"
     }
   ],
   "unique_name": "Texas Country Rewind",

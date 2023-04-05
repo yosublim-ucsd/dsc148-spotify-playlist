@@ -936,6 +936,24 @@
     {
       "album": {
         "name": "Fields Of Gold",
+        "url": "https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD"
+      },
+      "artists": [
+        {
+          "name": "Bergamotte",
+          "url": "https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157119,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37"
+    },
+    {
+      "album": {
+        "name": "Fields Of Gold",
         "url": "https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv"
       },
       "artists": [
@@ -946,7 +964,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 204051,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD"
@@ -1148,6 +1166,24 @@
       "duration_ms": 193125,
       "name": "Goodbye Yellow Brick Road",
       "url": "https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u"
+    },
+    {
+      "album": {
+        "name": "Two from the 80s",
+        "url": "https://open.spotify.com/album/6NuD4zVpPFvzJUESLH5svW"
+      },
+      "artists": [
+        {
+          "name": "Steffi du Retz",
+          "url": "https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/5jgYxqTewXtM1qcsWHnawA"
     },
     {
       "album": {
@@ -1569,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208100,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko"
+    },
+    {
+      "album": {
         "name": "Geek Wedding Forever, Vol. 3",
         "url": "https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u"
       },
@@ -1710,6 +1764,24 @@
       "duration_ms": 184855,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg"
+    },
+    {
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi"
+      },
+      "artists": [
+        {
+          "name": "Pia Nouvelle",
+          "url": "https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf"
     },
     {
       "album": {
@@ -2366,6 +2438,24 @@
       "duration_ms": 210245,
       "name": "Something Good - From \"The Sound Of Music\"",
       "url": "https://open.spotify.com/track/0KiUE3zdD3M8IRLcNDbjfv"
+    },
+    {
+      "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/4m2HH3fxP66hxxsYcxS6F2"
+      },
+      "artists": [
+        {
+          "name": "Thomas Loof",
+          "url": "https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240388,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/372mqKuv9LTctBHVpD0XXP"
     },
     {
       "album": {

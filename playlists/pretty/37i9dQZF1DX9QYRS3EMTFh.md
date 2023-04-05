@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,141 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,187 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 34 | [AN BISTAN](https://open.spotify.com/track/5hJ9ogbG8cAHhRMZzH5IRf) | [Dexterman](https://open.spotify.com/artist/4LUtcJp5ptV2L2J1JvU401) | [AN BISTAN](https://open.spotify.com/album/6ZHSAv2ZGaB3VMoYBQRJSJ) | 3:14 |
 | 35 | [Bad mood](https://open.spotify.com/track/6NyF1mybcqhYiXKmZRK4XB) | [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO) | [Bad mood](https://open.spotify.com/album/1Cg6pIPfAyr79Kf09HgHFl) | 2:29 |
 | 36 | [Regret \- Remix](https://open.spotify.com/track/1p3lY9s5YADOF7PQ3u32Ny) | [Magasco](https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD), [Mimie](https://open.spotify.com/artist/1KM5rEMK3l9VVXq3XEejqP) | [Regret \(Remix\)](https://open.spotify.com/album/3vsoBAgKjB5rIHBCZvJCfV) | 3:41 |
-| 37 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
+| 37 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
 | 38 | [BACKYTOP](https://open.spotify.com/track/7nrShg7j8pfL4qOszh8r1H) | [WayWay](https://open.spotify.com/artist/7EziVI64JRuXGUzN8qy1no) | [BACKYTOP](https://open.spotify.com/album/7lIk8csNFDqr6qRFZHyODG) | 2:37 |
 | 39 | [Acteur](https://open.spotify.com/track/7aqraZFHYT0Ayge14i3YKz) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [Acteur](https://open.spotify.com/album/3DmfmZlQcNnK5H332CHaEf) | 2:38 |
 | 40 | [KASE](https://open.spotify.com/track/1sJPUmyBAzz2IMyeMG3HS0) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Donzo City](https://open.spotify.com/album/470RDnmQOE7co3AkwUa6Hx) | 2:27 |

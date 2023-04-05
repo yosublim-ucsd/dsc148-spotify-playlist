@@ -1,12 +1,12 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 773,
+  "num_followers": 774,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTE1OSw5MzVmNzUyYjgzNmE4MTUzY2VhY2M4ZDE3ZjU5NGNkNGJhMWMwNDg5",
+  "snapshot_id": "MTIxMyxhMDRmZmEyYTFjMzI5OTQ0MWE4NWNlYjJmYTkzYzYzNmE2NjFlNzJm",
   "tracks": [
     {
       "added_at": "2023-03-31 08:39:32",
@@ -39,6 +39,22 @@
       "duration_ms": 276104,
       "name": "This Is Why - Radio Edit",
       "url": "https://open.spotify.com/track/03wdmJSjGOKyPjyDyi174l"
+    },
+    {
+      "added_at": "2023-04-04 11:36:58",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/62uKgZ2NsAbc6XFG2jRui0"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5nwL8tSlpy4T6XLb0NdzVW"
     },
     {
       "added_at": "2023-03-31 08:39:29",
@@ -129,6 +145,42 @@
       "url": "https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5"
     },
     {
+      "added_at": "2023-04-04 11:36:15",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
+    },
+    {
+      "added_at": "2023-04-04 11:42:40",
+      "album": {
+        "name": "Mind Control, Vol. 1",
+        "url": "https://open.spotify.com/album/5lqxKt1OkNU4CypQz4ykZn"
+      },
+      "artists": [
+        {
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+        }
+      ],
+      "duration_ms": 385658,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3f6YDVnQ4xy8Aw9mcIW71o"
+    },
+    {
       "added_at": "2023-03-10 11:35:23",
       "album": {
         "name": "Solar Deity",
@@ -143,22 +195,6 @@
       "duration_ms": 384009,
       "name": "Solar Deity",
       "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
-    },
-    {
-      "added_at": "2023-03-10 11:27:00",
-      "album": {
-        "name": "Life Moves Fast",
-        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 227290,
-      "name": "Heart is King",
-      "url": "https://open.spotify.com/track/2sG6KBbIaVCVD0oxMgUWbW"
     },
     {
       "added_at": "2023-03-28 15:55:08",
@@ -177,6 +213,26 @@
       "url": "https://open.spotify.com/track/1mecAHTzBVDduXdtq9CYab"
     },
     {
+      "added_at": "2023-04-04 11:43:23",
+      "album": {
+        "name": "Mind Control, Vol. 1",
+        "url": "https://open.spotify.com/album/5lqxKt1OkNU4CypQz4ykZn"
+      },
+      "artists": [
+        {
+          "name": "Ba\u00fcs",
+          "url": "https://open.spotify.com/artist/2jDOHjCRXvwnIMYXMfsbPV"
+        },
+        {
+          "name": "Unlighted",
+          "url": "https://open.spotify.com/artist/13vPPGPjIcMPKdEcmkLyxN"
+        }
+      ],
+      "duration_ms": 356245,
+      "name": "Infiltrate",
+      "url": "https://open.spotify.com/track/2yymh5uzrGJWrHexLQxsu3"
+    },
+    {
       "added_at": "2023-03-10 11:36:29",
       "album": {
         "name": "In Time",
@@ -193,6 +249,38 @@
       "url": "https://open.spotify.com/track/5MceUn8ht65byQXvBBsUsf"
     },
     {
+      "added_at": "2023-04-04 11:44:49",
+      "album": {
+        "name": "Play Hard",
+        "url": "https://open.spotify.com/album/0gEyTQ1ew9QZDDDl4crQoP"
+      },
+      "artists": [
+        {
+          "name": "ANDATA",
+          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/5EXiG3FAMBDlCow1ffe8jo"
+    },
+    {
+      "added_at": "2023-03-10 11:27:00",
+      "album": {
+        "name": "Life Moves Fast",
+        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 227290,
+      "name": "Heart is King",
+      "url": "https://open.spotify.com/track/2sG6KBbIaVCVD0oxMgUWbW"
+    },
+    {
       "added_at": "2023-03-28 15:56:05",
       "album": {
         "name": "Music Made for Aliens",
@@ -207,6 +295,54 @@
       "duration_ms": 387096,
       "name": "All Worlds, All Times",
       "url": "https://open.spotify.com/track/584iH3axeLJq0yBdcFsan6"
+    },
+    {
+      "added_at": "2023-04-04 11:46:21",
+      "album": {
+        "name": "The Club",
+        "url": "https://open.spotify.com/album/6mVdfyh2tupWXUgl4syjMz"
+      },
+      "artists": [
+        {
+          "name": "Enzo Monza",
+          "url": "https://open.spotify.com/artist/1oLfQFyeD8MxJtzwplFGQ3"
+        }
+      ],
+      "duration_ms": 429841,
+      "name": "The Club",
+      "url": "https://open.spotify.com/track/3ypZhP8UQrkevv7CxhcaW7"
+    },
+    {
+      "added_at": "2022-10-31 08:35:04",
+      "album": {
+        "name": "Rosso Profondo",
+        "url": "https://open.spotify.com/album/5LrkujqKSVnEFduB6IE6Hq"
+      },
+      "artists": [
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "duration_ms": 333134,
+      "name": "Rosso Profondo",
+      "url": "https://open.spotify.com/track/2lHBQNCTJjSldyb61SeZeD"
+    },
+    {
+      "added_at": "2023-04-04 11:38:44",
+      "album": {
+        "name": "Senso Sounds Level 11",
+        "url": "https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "duration_ms": 527921,
+      "name": "Unravel Me",
+      "url": "https://open.spotify.com/track/4fKHj7e2wCouGDXIEIXEKk"
     },
     {
       "added_at": "2023-03-10 11:36:07",
@@ -229,6 +365,22 @@
       "url": "https://open.spotify.com/track/6feG1cmadvPIYsG8fgeSik"
     },
     {
+      "added_at": "2023-04-04 11:37:42",
+      "album": {
+        "name": "Get Busy",
+        "url": "https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 200744,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX"
+    },
+    {
       "added_at": "2023-03-28 15:55:53",
       "album": {
         "name": "Music Made for Aliens",
@@ -243,6 +395,42 @@
       "duration_ms": 398769,
       "name": "Exeter",
       "url": "https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF"
+    },
+    {
+      "added_at": "2023-04-04 11:56:55",
+      "album": {
+        "name": "Chromoly",
+        "url": "https://open.spotify.com/album/4uWfYVKUhUNcTLnwX3T4IA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Michael Robbins",
+          "url": "https://open.spotify.com/artist/1xmsILg4EMNUiaXjx1N43k"
+        },
+        {
+          "name": "Jason Johnson (DE)",
+          "url": "https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc"
+        }
+      ],
+      "duration_ms": 396363,
+      "name": "Chromoly - Rave Edit",
+      "url": "https://open.spotify.com/track/75hnRPQSi3di5xgyD4kYAt"
+    },
+    {
+      "added_at": "2023-02-11 20:42:00",
+      "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 210216,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA"
     },
     {
       "added_at": "2023-03-10 11:27:15",
@@ -261,6 +449,30 @@
       "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
     },
     {
+      "added_at": "2023-04-04 11:39:12",
+      "album": {
+        "name": "8 Cubed Remixes (Vol. 1) (Marco Faraone / edetto Remixes)",
+        "url": "https://open.spotify.com/album/0XiCdMDfbPjO4xk6IncfrX"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "duration_ms": 392727,
+      "name": "Voicenote - Marco Faraone Remix",
+      "url": "https://open.spotify.com/track/5WGVOiIlLudUbqdSixvIOe"
+    },
+    {
       "added_at": "2023-02-11 20:30:23",
       "album": {
         "name": "Waveriders EP",
@@ -275,22 +487,6 @@
       "duration_ms": 398222,
       "name": "Waveriders",
       "url": "https://open.spotify.com/track/70nL1U5MfUwhd5e1tSGF25"
-    },
-    {
-      "added_at": "2023-02-11 20:42:00",
-      "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa"
-      },
-      "artists": [
-        {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        }
-      ],
-      "duration_ms": 210216,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA"
     },
     {
       "added_at": "2023-02-11 20:35:32",
@@ -381,6 +577,22 @@
       "url": "https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy"
     },
     {
+      "added_at": "2023-04-04 11:48:30",
+      "album": {
+        "name": "Coming Up",
+        "url": "https://open.spotify.com/album/5UNYVn7uEXX065NEFiq8hB"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 202442,
+      "name": "Coming Up",
+      "url": "https://open.spotify.com/track/0ryeJ0EfUfKBrKr3um6b7N"
+    },
+    {
       "added_at": "2023-02-14 09:04:25",
       "album": {
         "name": "Can't Stop EP",
@@ -395,58 +607,6 @@
       "duration_ms": 391066,
       "name": "Got The Vibe",
       "url": "https://open.spotify.com/track/72qfoCZTAGcY9pMA0sX3CN"
-    },
-    {
-      "added_at": "2023-02-11 20:26:35",
-      "album": {
-        "name": "Dovercourt / Limelight",
-        "url": "https://open.spotify.com/album/3sEOAI2fyuXvKBs9mgjFWo"
-      },
-      "artists": [
-        {
-          "name": "Weska",
-          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
-        },
-        {
-          "name": "Charles D (USA)",
-          "url": "https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1"
-        }
-      ],
-      "duration_ms": 217961,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/5p7FoBUWXW4v5ErVYFdtb9"
-    },
-    {
-      "added_at": "2023-02-11 20:32:07",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/1UqJ1UaT2HFsPHu2ymhdn8"
-      },
-      "artists": [
-        {
-          "name": "Zafer Atabey",
-          "url": "https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7"
-        }
-      ],
-      "duration_ms": 412500,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/5UFuJRFBtXZw1GJ8vOOZlc"
-    },
-    {
-      "added_at": "2023-02-14 09:04:30",
-      "album": {
-        "name": "Can't Stop EP",
-        "url": "https://open.spotify.com/album/3IjZs1YkeQuzbym5MdeQbt"
-      },
-      "artists": [
-        {
-          "name": "Amazingblaze",
-          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "On The Grind",
-      "url": "https://open.spotify.com/track/0OnPEzZR0HYVG1pxrEa1Hm"
     },
     {
       "added_at": "2023-02-11 20:46:35",
@@ -481,6 +641,26 @@
       "url": "https://open.spotify.com/track/4q4aF6sdjchuOED7ZXtb1s"
     },
     {
+      "added_at": "2022-06-10 09:42:38",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/60dhkIiXKKLB4lU5NBrWib"
+      },
+      "artists": [
+        {
+          "name": "Egbert",
+          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 392388,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/535uSRzWlJbFHpMdAbBtnm"
+    },
+    {
       "added_at": "2023-02-11 20:44:59",
       "album": {
         "name": "Commodore",
@@ -513,26 +693,6 @@
       "url": "https://open.spotify.com/track/723L3PgiXq9aNyV8x30fxe"
     },
     {
-      "added_at": "2023-01-09 12:29:14",
-      "album": {
-        "name": "High Voltage (Alex Stein Remix)",
-        "url": "https://open.spotify.com/album/77Sa8vRVAohisGiJxjPM5x"
-      },
-      "artists": [
-        {
-          "name": "Tomas Otero",
-          "url": "https://open.spotify.com/artist/0W82YncGEFtIHzKnUKe9Ue"
-        },
-        {
-          "name": "Alex Stein",
-          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
-        }
-      ],
-      "duration_ms": 291363,
-      "name": "High Voltage - Alex Stein Remix",
-      "url": "https://open.spotify.com/track/0YrYceugWIFjMvl9iKEffE"
-    },
-    {
       "added_at": "2022-10-31 08:39:53",
       "album": {
         "name": "Indigo",
@@ -551,6 +711,26 @@
       "duration_ms": 478418,
       "name": "Power Plant",
       "url": "https://open.spotify.com/track/4ucEdTiV3IqT70JTbF5CPp"
+    },
+    {
+      "added_at": "2023-04-04 11:57:28",
+      "album": {
+        "name": "Chroma",
+        "url": "https://open.spotify.com/album/7DHJBRwxUp0d6V9drbDHax"
+      },
+      "artists": [
+        {
+          "name": "VINCENT",
+          "url": "https://open.spotify.com/artist/6TQAnU4OIrclxdDDXeyFNQ"
+        },
+        {
+          "name": "MARIUS (DE)",
+          "url": "https://open.spotify.com/artist/33PchVl2zwuIHf70f6IQia"
+        }
+      ],
+      "duration_ms": 412213,
+      "name": "Chroma - Original Mix",
+      "url": "https://open.spotify.com/track/6E0uWZUfkZc4GOp9b5E2fY"
     },
     {
       "added_at": "2022-10-31 08:37:31",
@@ -587,6 +767,22 @@
       "duration_ms": 314769,
       "name": "Quiet Distortion - Bart Skils Remix",
       "url": "https://open.spotify.com/track/2Dp0PXgdEfQSZSGIzYe4N9"
+    },
+    {
+      "added_at": "2022-07-29 11:53:47",
+      "album": {
+        "name": "Extreme Ways",
+        "url": "https://open.spotify.com/album/2YiU2nZkqgPzYdgEmXNuSu"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 292222,
+      "name": "Extreme Ways",
+      "url": "https://open.spotify.com/track/6BQW1unYMTr1pmR5pwepJG"
     },
     {
       "added_at": "2023-01-09 12:25:39",
@@ -629,22 +825,6 @@
       "url": "https://open.spotify.com/track/67bEUw1bJ3Gi7UaT0rs7V6"
     },
     {
-      "added_at": "2023-01-09 12:28:06",
-      "album": {
-        "name": "When the Lights Go Down",
-        "url": "https://open.spotify.com/album/50v574ovT1KSQBsrLU6vbe"
-      },
-      "artists": [
-        {
-          "name": "Roberto Capuano",
-          "url": "https://open.spotify.com/artist/2XWr3TCJUE6XBKd6BQrAc1"
-        }
-      ],
-      "duration_ms": 256769,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/0eaEjfLZ4bgi7voFGdDjl8"
-    },
-    {
       "added_at": "2022-12-08 22:31:07",
       "album": {
         "name": "Triation, Vol. V",
@@ -659,54 +839,6 @@
       "duration_ms": 330468,
       "name": "Through My Skin",
       "url": "https://open.spotify.com/track/00Je3Ur2xmGEhZd08FtQLQ"
-    },
-    {
-      "added_at": "2022-07-29 11:53:47",
-      "album": {
-        "name": "Extreme Ways",
-        "url": "https://open.spotify.com/album/2YiU2nZkqgPzYdgEmXNuSu"
-      },
-      "artists": [
-        {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
-        }
-      ],
-      "duration_ms": 292222,
-      "name": "Extreme Ways",
-      "url": "https://open.spotify.com/track/6BQW1unYMTr1pmR5pwepJG"
-    },
-    {
-      "added_at": "2023-01-09 12:41:05",
-      "album": {
-        "name": "Love for You",
-        "url": "https://open.spotify.com/album/7jx2ZuPvUxbaeW3AsLQ7eU"
-      },
-      "artists": [
-        {
-          "name": "Fruhwerk",
-          "url": "https://open.spotify.com/artist/7B0VnUS4cZggX5pdt0f0ml"
-        }
-      ],
-      "duration_ms": 295939,
-      "name": "Love for You",
-      "url": "https://open.spotify.com/track/6FAgDSByGGc6Jb0GAa0F1q"
-    },
-    {
-      "added_at": "2022-10-31 08:37:46",
-      "album": {
-        "name": "Sound Of Space EP",
-        "url": "https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 498461,
-      "name": "The Sound Of Space",
-      "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
     },
     {
       "added_at": "2022-10-29 08:15:19",
@@ -739,26 +871,6 @@
       "duration_ms": 266707,
       "name": "Came Here For Love",
       "url": "https://open.spotify.com/track/3SWZ0hpjeYT1BCx0Auqi6l"
-    },
-    {
-      "added_at": "2023-01-09 12:40:40",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/7us8EpEFnMsbKqKMX1Y2PS"
-      },
-      "artists": [
-        {
-          "name": "Lautaro Iba\u00f1ez",
-          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
-        },
-        {
-          "name": "Mart.in",
-          "url": "https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg"
-        }
-      ],
-      "duration_ms": 307923,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/1WA080AK1F8IMH9XXu4XUJ"
     },
     {
       "added_at": "2022-10-31 08:38:33",
@@ -797,22 +909,6 @@
       "url": "https://open.spotify.com/track/58VJrWe0QKan2KdLgx2pDG"
     },
     {
-      "added_at": "2022-07-29 13:35:11",
-      "album": {
-        "name": "30 Something",
-        "url": "https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 552462,
-      "name": "Halcyon - 30 Something Years Later Mix",
-      "url": "https://open.spotify.com/track/3lbm4gzUqMSdosEFs1cxq9"
-    },
-    {
       "added_at": "2022-10-31 08:36:19",
       "album": {
         "name": "Apollo EP",
@@ -829,64 +925,20 @@
       "url": "https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ"
     },
     {
-      "added_at": "2022-06-10 09:42:38",
+      "added_at": "2022-07-29 13:35:11",
       "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/60dhkIiXKKLB4lU5NBrWib"
+        "name": "30 Something",
+        "url": "https://open.spotify.com/album/1pq7A65DygpNTNRnwJv77h"
       },
       "artists": [
         {
-          "name": "Egbert",
-          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
-        },
-        {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 392388,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/535uSRzWlJbFHpMdAbBtnm"
-    },
-    {
-      "added_at": "2022-10-31 08:35:04",
-      "album": {
-        "name": "Rosso Profondo",
-        "url": "https://open.spotify.com/album/5LrkujqKSVnEFduB6IE6Hq"
-      },
-      "artists": [
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        }
-      ],
-      "duration_ms": 333134,
-      "name": "Rosso Profondo",
-      "url": "https://open.spotify.com/track/2lHBQNCTJjSldyb61SeZeD"
-    },
-    {
-      "added_at": "2022-10-29 08:16:10",
-      "album": {
-        "name": "Sunshine of Love",
-        "url": "https://open.spotify.com/album/3qtjnOTPmdAUfr3t9llEVo"
-      },
-      "artists": [
-        {
-          "name": "VINCENT",
-          "url": "https://open.spotify.com/artist/6TQAnU4OIrclxdDDXeyFNQ"
-        },
-        {
-          "name": "SANDRO",
-          "url": "https://open.spotify.com/artist/1pkAUK21cKHTUUirGEfvIL"
-        },
-        {
-          "name": "MARIUS (DE)",
-          "url": "https://open.spotify.com/artist/33PchVl2zwuIHf70f6IQia"
-        }
-      ],
-      "duration_ms": 278950,
-      "name": "Sunshine of Love - Original Mix",
-      "url": "https://open.spotify.com/track/0zXIXQjbNuh6GrQj0xTHur"
+      "duration_ms": 552462,
+      "name": "Halcyon - 30 Something Years Later Mix",
+      "url": "https://open.spotify.com/track/3lbm4gzUqMSdosEFs1cxq9"
     }
   ],
   "unique_name": "THE TECHNO METHOD",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Cid Palma, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,292 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,309 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 31 | [Running](https://open.spotify.com/track/5f6tlsXjGVNmomdR2DrsC5) | [Renzie Ivan](https://open.spotify.com/artist/2SDrbqbA4uaW87yLsd75f9) | [Running](https://open.spotify.com/album/1NT9dGGEHOJl1bD4Ig0eEl) | 2:49 |
 | 32 | [Realize](https://open.spotify.com/track/3m7qUBL3aFG5QQ2DyC26qX) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [Realize](https://open.spotify.com/album/5U7WqhGv8hxWQxa5YvA83H) | 2:36 |
 | 33 | [lagi ka may dahilan](https://open.spotify.com/track/0O3ckr8uB4OKNuDbL999GM) | [P4bl0](https://open.spotify.com/artist/0xh04KMHGerrwFTxxdLs4V) | [lagi ka may dahilan](https://open.spotify.com/album/1ml0A7eJHRcH1SFf8VfCGR) | 2:35 |
-| 34 | [UMAMIN](https://open.spotify.com/track/5UdwrbJNLN31jlJVwlUq08) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun) | [UMAMIN](https://open.spotify.com/album/2vOflFVDhIx2nzEeqF4fHx) | 3:05 |
+| 34 | [UMAMIN](https://open.spotify.com/track/1Y9Qu4ogT0H9MjEklOVmdu) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun) | [UMAMIN](https://open.spotify.com/album/0JfRDm9FbBQ6ejP2ebo4aw) | 3:05 |
 | 35 | [LINGERIE](https://open.spotify.com/track/72N8r4vWZKk7aAm1RhrAoD) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [LINGERIE](https://open.spotify.com/album/3H9peqvh59rw0RMQzVd8Cn) | 2:56 |
 | 36 | [Wanna](https://open.spotify.com/track/61aOTb8m40WJ0W6PW4s5RY) | [Erik Villanueva](https://open.spotify.com/artist/4cWuxVZWKH9jPX74eYip2E) | [Wanna](https://open.spotify.com/album/30sRw6RFUNlL2bpjxphrKT) | 2:27 |
 | 37 | [Dalisay](https://open.spotify.com/track/7BAxD05Y4dCY9TM8e7iX8j) | [Hezekiah Valle Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Dalisay](https://open.spotify.com/album/7BRciOsnWAKfEKqmq4weTu) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [University](https://open.spotify.com/track/0k2R4AFxzNlLQAsCZejojB) | [Chuya](https://open.spotify.com/artist/2GXEVRwL1sW36TxBxq1QsV), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk) | [University](https://open.spotify.com/album/6y04OOpESfEmDM8qVbWlvf) | 2:45 |
 | 75 | [Atin Ang Sandali \- Acoustic Version](https://open.spotify.com/track/1MvNQXJRL6vQnDSNo742PK) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Atin Ang Sandali \(Acoustic Version\)](https://open.spotify.com/album/0SxfnZAt4gVNUpr6JOS4jq) | 3:32 |
 
-Snapshot ID: `MTY4MDE5MjAwMCwwMDAwMDAwMDk1YzMwZDc2MjI2NzJlNWQxODc4MDcyYTE0YjgzZjc0`
+Snapshot ID: `MTY4MDE5MjAwMCwwMDAwMDAwMGM5NzA0MDBlODZlNGRjOTUzNzdhNTE0MWE0M2Y1YzRi`

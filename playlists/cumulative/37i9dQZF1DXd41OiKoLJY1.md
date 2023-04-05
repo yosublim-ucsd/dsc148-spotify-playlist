@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Cid Palma, Artwork: Isu Kim
 
-1,005 songs - 2 day 12 hr 0 min
+1,006 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,7 +934,8 @@
 | [UGLY](https://open.spotify.com/track/3gcc9EmRCCExko0sGBUpqY) | [Hiraeth Ling](https://open.spotify.com/artist/3C8aOFWO192qP5aAfzlDiO) | [UGLY](https://open.spotify.com/album/0isbGtUmqbGVR2BgcdrI0Y) | 3:20 | 2022-05-05 | 2022-06-17 |
 | [Ulap](https://open.spotify.com/track/1x4YeEL3afmIVjcSKl3osA) | [Kenth](https://open.spotify.com/artist/3eWxr6ZEESWeShshNmQ14C) | [Ulap](https://open.spotify.com/album/4mbJ1TEBGsIY7D5HvvZrgp) | 4:00 | 2022-01-20 | 2022-02-11 |
 | [Umaasa Sa Bayan Kong Pilipinas \- Minus One](https://open.spotify.com/track/46rkWBKDuSUugHDMqfo8m6) | [Pipes](https://open.spotify.com/artist/4cOuQgtWi0ugtDvPf8106Z) | [Umaasa Sa Bayan Kong Pilipinas \- Minus One](https://open.spotify.com/album/1ty6MJDebirAD03Gg4XTG7) | 3:46 | 2022-05-05 | 2022-06-17 |
-| [UMAMIN](https://open.spotify.com/track/5UdwrbJNLN31jlJVwlUq08) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun) | [UMAMIN](https://open.spotify.com/album/2vOflFVDhIx2nzEeqF4fHx) | 3:05 | 2023-03-23 |  |
+| [UMAMIN](https://open.spotify.com/track/1Y9Qu4ogT0H9MjEklOVmdu) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun) | [UMAMIN](https://open.spotify.com/album/0JfRDm9FbBQ6ejP2ebo4aw) | 3:05 | 2023-03-23 |  |
+| [UMAMIN](https://open.spotify.com/track/5UdwrbJNLN31jlJVwlUq08) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun) | [UMAMIN](https://open.spotify.com/album/2vOflFVDhIx2nzEeqF4fHx) | 3:05 | 2023-03-23 | 2023-04-05 |
 | [Umasa Pa](https://open.spotify.com/track/5WVZgtrZYW13ldnMpB5k7v) | [Tambiotics](https://open.spotify.com/artist/4fppdiyrayBDfbCVK2pLGM) | [Umasa Pa](https://open.spotify.com/album/3UP5uKZyjF5M2OZXMr1RSd) | 4:31 | 2022-01-07 | 2023-01-13 |
 | [UNA](https://open.spotify.com/track/7pRKUBo9wBrSucBnk5rsCQ) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [$NPRD](https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6) | [UNA](https://open.spotify.com/album/3CsgpNpoOIwcUVywpHQUW4) | 3:10 | 2023-02-16 | 2023-03-03 |
 | [Una at Huli](https://open.spotify.com/track/5iy5KJcoVkz3Wswh0K8VLl) | [Cami](https://open.spotify.com/artist/2qu2J8C5rJmKK5EprQ1S9P) | [Una at Huli](https://open.spotify.com/album/0QGzSmi4k7wDpv9xU38jUP) | 3:30 | 2023-02-09 | 2023-02-24 |

@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 107637,
+  "num_followers": 107672,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQ1NzQ4MywwMDAwMDAwMDE0MTdiMzdjZjNkZWQzZmM3OTFmODJmMjE2OGI3OTY2",
+  "snapshot_id": "MTY4MDQ1NzQ4MywwMDAwMDAwMDk3ZWJhNjBmZjMwYzI2OTE0MGM1MGI1ZWUwMjFmNzc3",
   "tracks": [
     {
       "added_at": "2023-04-02 17:44:43",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "Eleven Songs",
         "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "Pour d\u00e9jouer l'ennui",
         "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 170950,
       "name": "Le monarque des Indes",
       "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Antigone",
-      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "This Time I See It",
         "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+      "duration_ms": 215506,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -815,6 +799,22 @@
       "duration_ms": 239040,
       "name": "Height of the Feeling",
       "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -847,6 +847,22 @@
       "duration_ms": 281131,
       "name": "Ton vieux nom",
       "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Heaven, Wait (Acoustic)",
-        "url": "https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82"
+        "name": "Life As It Comes",
+        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 199794,
-      "name": "Carry Me (Acoustic)",
-      "url": "https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C"
+      "duration_ms": 259385,
+      "name": "Life As It Comes",
+      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -971,6 +971,38 @@
       "duration_ms": 229463,
       "name": "Glossover",
       "url": "https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Heaven, Wait (Acoustic)",
+        "url": "https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 199794,
+      "name": "Carry Me (Acoustic)",
+      "url": "https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1011,38 +1043,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Life As It Comes",
-        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Life As It Comes",
-      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "No Water, No Flowers",
         "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 195235,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1103,6 +1087,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1283,34 +1283,18 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "New Waves (Live Recordings \u201919-\u201921)",
-        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 430506,
-      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
-      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1327,6 +1311,22 @@
       "duration_ms": 153789,
       "name": "4900$",
       "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "New Waves (Live Recordings \u201919-\u201921)",
+        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 430506,
+      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
+      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "duration_ms": 208698,
+      "name": "On br\u00fblera - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 195360,
       "name": "Grande ivresse",
       "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
-      },
-      "artists": [
-        {
-          "name": "Milk & Bone",
-          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
-        }
-      ],
-      "duration_ms": 208698,
-      "name": "On br\u00fblera - Spotify Singles",
-      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Pays",
-        "url": "https://open.spotify.com/album/6qNk4o8WSwbaT95aJuoW1n"
+        "name": "Pourchasser l'aube",
+        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
       },
       "artists": [
         {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
         }
       ],
-      "duration_ms": 299647,
-      "name": "Les pommiers envahis",
-      "url": "https://open.spotify.com/track/0iYZ8hkEx9POpr0TlS87pl"
+      "duration_ms": 214720,
+      "name": "Mille et un",
+      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

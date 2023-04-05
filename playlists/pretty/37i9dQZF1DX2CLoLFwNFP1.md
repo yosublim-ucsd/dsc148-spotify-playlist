@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,254 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,328 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 57 | [DRIVE \(Feat\. GRAY\)](https://open.spotify.com/track/4NKQTbmiBtm1MwqBbQQhpM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:32 |
 | 58 | [YACHT \(k\) \(Feat\. Sik\-K\)](https://open.spotify.com/track/57ziFwpzuFkJi5nP91qnl4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [YACHT](https://open.spotify.com/album/6EOH7UFeHjwhZERVQdzaoT) | 4:06 |
 | 59 | [SOLO \(Feat\. Hoody\)](https://open.spotify.com/track/6j3i8yVetAyxX8vUIfoz70) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:39 |
-| 60 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 |
-| 61 | [V](https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:47 |
+| 60 | [V](https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:47 |
+| 61 | [Bite](https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Bite](https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA) | 3:39 |
 | 62 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 |
 | 63 | [Me Like Yuh \(K\) \(Feat\. Hoody\)](https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:43 |
 | 64 | [JOAH \- Remastered](https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Remastered](https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
 | 100 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 
-Snapshot ID: `MTY4MDI1Nzk2OCwwMDAwMDAwMDM5NzhiNjViNmU3ZmM1MDNlMWRhMGE1MmU1ZmM4MDg1`
+Snapshot ID: `MTY4MDI1Nzk2OCwwMDAwMDAwMGY5YjFmOWZlNTlkMzBmYjc5YWY2NTc4MmM4MjRhZTU1`

@@ -6026,7 +6026,7 @@
     {
       "album": {
         "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+        "url": "https://open.spotify.com/album/6MM9LwtQg2yYEI1jqjJuCc"
       },
       "artists": [
         {
@@ -6037,6 +6037,24 @@
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 315813,
+      "name": "Sibongile",
+      "url": "https://open.spotify.com/track/3qUqHQS9yRgoPlkvG7eK94"
+    },
+    {
+      "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
       "duration_ms": 315813,
       "name": "Sibongile",
       "url": "https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q"
@@ -7118,10 +7136,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 417520,
       "name": "Tsa Mandebele",
       "url": "https://open.spotify.com/track/3JtOJiuyAXRolvCtLy9YTA"
+    },
+    {
+      "album": {
+        "name": "Tsa Mandebele",
+        "url": "https://open.spotify.com/album/042SdEj2aj8yrkIes4Akwq"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Candy",
+          "url": "https://open.spotify.com/artist/4F1OlX4Hsm2bxTepT53MX3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417520,
+      "name": "Tsa Mandebele",
+      "url": "https://open.spotify.com/track/6OQqb88STgvROwhN1IYPyH"
     },
     {
       "album": {

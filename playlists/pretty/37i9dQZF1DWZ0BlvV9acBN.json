@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 115138,
+  "num_followers": 115173,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDQ5ZDNkMTc0NTY3OWQ1YWZkZjYwMjQxMDg4YTA5YjIz",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDNiMTc3ODIwYzRkODI2MmExNzFkN2Y4N2NiMmM0ZmYw",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 288000,
       "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -615,22 +595,6 @@
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 265307,
-      "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
-      "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -655,6 +619,42 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 265307,
+      "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
       },
       "artists": [
         {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
         }
       ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vida/Eternidade",
-        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
       "artists": [
         {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
         }
       ],
-      "duration_ms": 258700,
-      "name": "Jo\u00e3o 1 - VEC",
-      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-03-24 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Loyal Lobos",
-  "num_followers": 19353,
+  "num_followers": 19364,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMDljMDc0NjgwZjVkYWZhZThkNTYyNjdlOGRlZjQ5ZDhh",
+  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMGM3ZDczOTBhZTVjMTNiNWIzN2JmYjRlMGY4ZDdmYzI1",
   "tracks": [
     {
       "added_at": "2023-03-31 07:57:05",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
     },
     {
-      "added_at": "2023-04-04 00:31:52",
+      "added_at": "2023-04-05 00:42:49",
       "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/4O6GIo4XMXM80d4Ew0CB63"
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "i love you but this is goodbye",
-        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "amigos con beneficios",
         "url": "https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 241141,
       "name": "amigos con beneficios",
       "url": "https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "i love you but this is goodbye",
+        "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "lo siento",
-        "url": "https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Sexo Sin Drama",
         "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 142216,
       "name": "Sexo Sin Drama",
       "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 186403,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN"
+        "name": "lo siento",
+        "url": "https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv"
       },
       "artists": [
         {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
         }
       ],
-      "duration_ms": 186403,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26"
+      "duration_ms": 192631,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
+        "name": "\u00bfD\u00f3nde?",
+        "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
+      },
+      "artists": [
+        {
+          "name": "Lechero",
+          "url": "https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw"
+        },
+        {
+          "name": "desamor.",
+          "url": "https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "\u00bfD\u00f3nde?",
+      "url": "https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
@@ -879,26 +899,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "\u00bfD\u00f3nde?",
-        "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
-      },
-      "artists": [
-        {
-          "name": "Lechero",
-          "url": "https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw"
-        },
-        {
-          "name": "desamor.",
-          "url": "https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "\u00bfD\u00f3nde?",
-      "url": "https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "ANYWAY",
         "url": "https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Recuerdos Del Pasado, Vol. 2",
-        "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
-        }
-      ],
-      "duration_ms": 232368,
-      "name": "Nadie En Este Mundo",
-      "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Olvidar De Ti",
         "url": "https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 133060,
       "name": "Olvidar De Ti",
       "url": "https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Recuerdos Del Pasado, Vol. 2",
+        "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "duration_ms": 232368,
+      "name": "Nadie En Este Mundo",
+      "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
     },
     {
       "added_at": "2023-03-31 07:57:05",

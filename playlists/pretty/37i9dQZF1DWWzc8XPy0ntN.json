@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122243,
+  "num_followers": 122246,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwNzE4OSwwMDAwMDAwMGJmNWM3YTA0MmQxOTM2NDBjNDk1ZmY5YWIwMTliMDU4",
+  "snapshot_id": "MTY3OTYwNzE4OSwwMDAwMDAwMGRhNTIyYjlhMzI3YjNlMGJiMTdjYjhiMjI0NmM3OGRm",
   "tracks": [
     {
       "added_at": "2023-01-07 03:40:31",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
     },
     {
-      "added_at": "2023-04-04 01:04:47",
+      "added_at": "2023-04-05 00:56:46",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
         "url": "https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg"
@@ -279,6 +279,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Si Mami",
+        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
+      },
+      "artists": [
+        {
+          "name": "Michael Fortvne",
+          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 308571,
+      "name": "Si Mami",
+      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Si Mami",
-        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
-      },
-      "artists": [
-        {
-          "name": "Michael Fortvne",
-          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "Si Mami",
-      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Individuality Riddim",
-        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 398629,
-      "name": "Individuality Riddim",
-      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Cruda",
         "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 329596,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Individuality Riddim",
+        "url": "https://open.spotify.com/album/2QQ714tuWG924CXN9H150s"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 398629,
+      "name": "Individuality Riddim",
+      "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Maelstrom",
         "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 342017,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
     },
     {
+      "added_at": "2022-12-21 17:17:38",
+      "album": {
+        "name": "NEW BREED",
+        "url": "https://open.spotify.com/album/6SEkgepvAVUGH0MJVpse5I"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "duration_ms": 95321,
+      "name": "BADTRIP",
+      "url": "https://open.spotify.com/track/1pRpCFoXttG8GC2HQiRCys"
+    },
+    {
       "added_at": "2022-08-18 23:29:09",
       "album": {
         "name": "Esta Noche",
@@ -683,6 +699,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -699,22 +731,6 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -809,20 +825,20 @@
       "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
     },
     {
-      "added_at": "2022-12-21 17:17:38",
+      "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "NEW BREED",
-        "url": "https://open.spotify.com/album/6SEkgepvAVUGH0MJVpse5I"
+        "name": "Ancient Astronauts",
+        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
       },
       "artists": [
         {
-          "name": "SANTO BEATS",
-          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+          "name": "Bertoldi",
+          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
         }
       ],
-      "duration_ms": 95321,
-      "name": "BADTRIP",
-      "url": "https://open.spotify.com/track/1pRpCFoXttG8GC2HQiRCys"
+      "duration_ms": 415971,
+      "name": "Forerunner",
+      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -843,22 +859,6 @@
       "duration_ms": 252936,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
-      },
-      "artists": [
-        {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
-        }
-      ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "La Nueva Mortalidad (Remaster 2021)",
-        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
+        "name": "Afrotrip",
+        "url": "https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Frikstailers",
+          "url": "https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH"
         }
       ],
-      "duration_ms": 351157,
-      "name": "La Nueva Mortalidad",
-      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
+      "duration_ms": 275063,
+      "name": "Afrotrip",
+      "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

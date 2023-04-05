@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2142212,
+  "num_followers": 2142183,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMGFkOTAyNjgwNDQwNTZmMDQwYzg0YjMxYjhiMDk2Y2M5",
+  "snapshot_id": "MTY4MDYyNzY3MywwMDAwMDAwMDExOTZiZTI1NWM5OWVjNzY0YzgzZTEyMTM0ODRlZDI3",
   "tracks": [
     {
       "added_at": "2023-02-06 19:59:45",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 248160,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Cover My Own (Acoustic)",
         "url": "https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 155050,
       "name": "Tidal Wave - Acoustic",
       "url": "https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 199359,
-      "name": "Boardwalks - Remastered 2015/ Bonus Track",
-      "url": "https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Bleed",
         "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 205812,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 199359,
+      "name": "Boardwalks - Remastered 2015/ Bonus Track",
+      "url": "https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "Wonderful World",
+        "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+      "duration_ms": 165801,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Wonderful World",
-        "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 165801,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 219510,
       "name": "The Barrel - Edit",
       "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Pieces EP",
-        "url": "https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "THE SUN & THE SEA (feat. Donovan Woods)",
         "url": "https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 180000,
       "name": "THE SUN & THE SEA (feat. Donovan Woods)",
       "url": "https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Pieces EP",
+        "url": "https://open.spotify.com/album/3N5G5x5hRAnJ1V1BQTOJaB"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "tidal wave",
-        "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "tidal wave",
-      "url": "https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 241240,
       "name": "Great Divide",
       "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "tidal wave",
+        "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "tidal wave",
+      "url": "https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "I'll Be Here When the Moon Is Tired",
-        "url": "https://open.spotify.com/album/51oEgB9odlJYWL6sdZeMXp"
-      },
-      "artists": [
-        {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Whale Song",
-      "url": "https://open.spotify.com/track/317gXFDkNwzfad0iXcMPgu"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Hung the Moon",
         "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
       },
@@ -2555,22 +2539,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Seed of Joy",
-        "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
+        "name": "I'll Be Here When the Moon Is Tired",
+        "url": "https://open.spotify.com/album/51oEgB9odlJYWL6sdZeMXp"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
-        {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Seed of Joy",
-      "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+      "duration_ms": 158386,
+      "name": "Whale Song",
+      "url": "https://open.spotify.com/track/317gXFDkNwzfad0iXcMPgu"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2587,6 +2567,26 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Seed of Joy",
+        "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Seed of Joy",
+      "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
     },
     {
       "added_at": "2023-02-06 19:59:45",

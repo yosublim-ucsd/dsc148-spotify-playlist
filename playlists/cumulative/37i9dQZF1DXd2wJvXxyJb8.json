@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 144056,
       "name": "Escolhe o Bandido",
       "url": "https://open.spotify.com/track/3QxKHcpNt6CWNUYCLLBHeZ"
@@ -3020,6 +3020,24 @@
       "duration_ms": 139626,
       "name": "Me Evita Mais",
       "url": "https://open.spotify.com/track/6qPCDdlx08sKOnlLKZW6h0"
+    },
+    {
+      "album": {
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
     },
     {
       "album": {

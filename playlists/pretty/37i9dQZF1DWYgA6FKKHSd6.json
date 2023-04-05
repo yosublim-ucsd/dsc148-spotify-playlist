@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 210872,
+  "num_followers": 210903,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDc4NDkyOWRhNWVmNzY2NTZmYzhmZjI3ZDExYzc3ODEy",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDg3NjEwZWVmNWUxZDA1ZmIwOGMxYjVmYTI0N2ViMGE0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Romance Language",
-        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "I Wish I Wasn't",
-      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "The Goddess",
@@ -749,6 +733,22 @@
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Romance Language",
+        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "I Wish I Wasn't",
+      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Echoes Of The Heart",
@@ -763,22 +763,6 @@
       "duration_ms": 241933,
       "name": "Caught Me By Surprise",
       "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "Right Back Atcha",
-      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -799,6 +783,22 @@
       "duration_ms": 303046,
       "name": "Tender - Remix",
       "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "Right Back Atcha",
+      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Limitless - Radio Edit",
-      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Undeniable",
@@ -955,6 +939,22 @@
       "duration_ms": 261401,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lamb",
+          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Limitless - Radio Edit",
+      "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "L.I.T.",
-        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
-      },
-      "artists": [
-        {
-          "name": "Riley Richard",
-          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
-        }
-      ],
-      "duration_ms": 258138,
-      "name": "L.I.T.",
-      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
@@ -1025,20 +1009,20 @@
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+        "name": "L.I.T.",
+        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
       },
       "artists": [
         {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
         }
       ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+      "duration_ms": 258138,
+      "name": "L.I.T.",
+      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1073,20 +1057,20 @@
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-10-08 04:02:00",
       "album": {
-        "name": "James Vargas",
-        "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
       },
       "artists": [
         {
-          "name": "James Vargas",
-          "url": "https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC"
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
         }
       ],
-      "duration_ms": 312800,
-      "name": "Lasting Impression",
-      "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1103,6 +1087,22 @@
       "duration_ms": 242933,
       "name": "City Beat",
       "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "James Vargas",
+        "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
+      },
+      "artists": [
+        {
+          "name": "James Vargas",
+          "url": "https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "Lasting Impression",
+      "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Say What",
@@ -1187,22 +1203,6 @@
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 410753,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1457,6 +1457,26 @@
       "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        },
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 238529,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Play",
@@ -1471,22 +1491,6 @@
       "duration_ms": 292320,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Chocolate Vibez",
-        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
-      },
-      "artists": [
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 254011,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1523,6 +1527,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Chocolate Vibez",
+        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
+      },
+      "artists": [
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+        }
+      ],
+      "duration_ms": 254011,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Sexy Saxy, Vol. 3",
         "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 263128,
       "name": "What U Want, What U Need",
       "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 238529,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
       "added_at": "2021-07-12 18:09:21",

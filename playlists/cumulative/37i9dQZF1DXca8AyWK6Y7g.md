@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Olivia Dean
 
-1,581 songs - 3 day 8 hr 31 min
+1,583 songs - 3 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2021-11-19 | 2022-01-22 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-01 | 2022-09-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-24 | 2023-04-04 |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-24 |  |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 |  |
 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 | 2022-09-02 |  |
 | [d e a d](https://open.spotify.com/track/4syKTHaJJTF1fxvsNJXHHV) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [d e a d](https://open.spotify.com/album/6BoTX3xIgr81kb80R3nkPL) | 2:37 | 2022-10-28 | 2023-01-28 |
@@ -1010,7 +1011,7 @@
 | [numb](https://open.spotify.com/track/4HEbMAQU85yFHiTpPcryRk) | [Noirre](https://open.spotify.com/artist/5zGw4HioHo687jNmzLUazl) | [x](https://open.spotify.com/album/6WHsyHt1FbF55FwNQ5mZVz) | 3:12 | 2019-06-27 | 2020-06-09 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-01-28 |  |
 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 | 2022-12-23 | 2023-01-28 |
-| [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 |  |
+| [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 | 2023-04-05 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-04-21 | 2021-11-20 |
 | [October](https://open.spotify.com/track/4RBvdFV0tqaL7xlXk5R7hT) | [birthday](https://open.spotify.com/artist/75jBfFr6bLpV9TdIfg5BZq) | [October](https://open.spotify.com/album/0oZhv4BV0DkLcSh2G5FAbc) | 3:31 | 2019-05-26\* | 2021-02-13 |
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-04 | 2022-12-03 |
@@ -1154,7 +1155,7 @@
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |
-| [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 |  |
+| [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-04-05 |
 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 | 2022-03-18 | 2022-10-20 |
 | [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 | 2022-10-06 |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-10-08 | 2022-01-08 |
@@ -1201,6 +1202,7 @@
 | [Self Sabotage](https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Self Sabotage](https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE) | 2:32 | 2021-08-28 | 2021-11-20 |
 | [Sensitive](https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw) | 2:37 | 2022-05-27 | 2022-08-13 |
 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 | 2022-09-16 |  |
+| [Serotonin](https://open.spotify.com/track/7gy8fySaO3pMsC3FLDijVn) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Serotonin](https://open.spotify.com/album/3HJ03WWoeDqPACtzEZ1kX4) | 2:47 | 2023-03-24 |  |
 | [sex](https://open.spotify.com/track/26ZX2JrAb8AFbr8FFfAsO7) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [i think you think too much of me](https://open.spotify.com/album/7AVvQhnDEUidKyJsXmQ7ju) | 3:38 | 2020-01-16 | 2020-06-29 |
 | [SEX IN MY MIND](https://open.spotify.com/track/5iPgZ2079YYJladnPMwQTt) | [Adi Ulmansky](https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ) | [BAD INTENTIONS](https://open.spotify.com/album/7C1cIgmLMG0QoktGeCWYvv) | 2:42 | 2019-05-26\* | 2019-08-13 |
 | [Sex In Public](https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Sex In Public](https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV) | 2:23 | 2022-04-15 |  |

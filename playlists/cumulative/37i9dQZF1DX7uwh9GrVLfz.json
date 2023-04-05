@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30ad\u30e5\u30a6\u30bd\u30cd\u30b3\u30ab\u30df (KYUSONEKOKAMI)",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: TENDOUJI",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -584,7 +584,7 @@
           "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
         }
       ],
-      "date_added": "2023-03-29",
+      "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 228448,
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 247880,
       "name": "Chain of Emotions",
       "url": "https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S"
@@ -1386,6 +1386,24 @@
       "duration_ms": 170470,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/2umiTDOadc6AtsjCIXBkT7"
+    },
+    {
+      "album": {
+        "name": "i!i!i!i!",
+        "url": "https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ"
+      },
+      "artists": [
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112875,
+      "name": "Don't Obsess",
+      "url": "https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0"
     },
     {
       "album": {
@@ -2204,6 +2222,24 @@
       "duration_ms": 190164,
       "name": "HATE",
       "url": "https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN"
+    },
+    {
+      "album": {
+        "name": "HATTRICK",
+        "url": "https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109733,
+      "name": "HATTRICK",
+      "url": "https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA"
     },
     {
       "album": {
@@ -6468,7 +6504,7 @@
           "url": "https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb"
         }
       ],
-      "date_added": "2023-04-01",
+      "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229000,
@@ -6818,7 +6854,7 @@
           "url": "https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb"
         }
       ],
-      "date_added": "2023-03-29",
+      "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216000,
@@ -8228,7 +8264,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 265746,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"

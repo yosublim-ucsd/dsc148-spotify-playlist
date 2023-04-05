@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9515,
+  "num_followers": 9534,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGFkMjZhMTFjNjYzYmJlZWJhMTdhNTI3ZWRkOGJiODE1",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGE4MGJjNDdhN2U5MTNjYWMwYmRjNjNkMjg3ZTQxMWE3",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-04-04 01:30:00",
+      "added_at": "2023-04-05 00:26:38",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -485,23 +485,7 @@
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
-        "name": "Dear you (Romance 101 X LeeHi)",
-        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Dear you (Romance 101 X LeeHi)",
-      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
-    },
-    {
-      "added_at": "2023-04-04 01:30:00",
+      "added_at": "2023-04-05 00:26:38",
       "album": {
         "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
@@ -519,18 +503,18 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+        "name": "Dear you (Romance 101 X LeeHi)",
+        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+      "duration_ms": 219133,
+      "name": "Dear you (Romance 101 X LeeHi)",
+      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -547,6 +531,22 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "The day was beautiful",
+        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "The day was beautiful",
+      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
       },
@@ -745,7 +745,23 @@
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
-      "added_at": "2023-04-04 01:30:00",
+      "added_at": "2023-04-05 00:26:38",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+    },
+    {
+      "added_at": "2023-04-05 00:26:38",
       "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
@@ -767,30 +783,6 @@
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
-    },
-    {
-      "added_at": "2023-04-04 01:30:00",
-      "album": {
-        "name": "Wouldn't have",
-        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
-      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -825,20 +817,28 @@
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
-      "added_at": "2023-04-04 01:30:00",
+      "added_at": "2023-04-05 00:26:38",
       "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+        "name": "Wouldn't have",
+        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+      "duration_ms": 240000,
+      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
+      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

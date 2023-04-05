@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 859870,
+  "num_followers": 860212,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0NDgxNCwwMDAwMDAwMDFjMTIzN2Q3N2YwMmY5NmQ0NGMxYWNlYWNlOGMzNDYy",
+  "snapshot_id": "MTY4MDYyMTYzMSwwMDAwMDAwMGY4ZTlhZTQ3MjNmOWM4MzY4NjFkNDM2ZWVmYzM0ZjQ1",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -79,6 +79,22 @@
       "duration_ms": 277986,
       "name": "Meshuggah",
       "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
+    },
+    {
+      "added_at": "2023-04-04 15:20:31",
+      "album": {
+        "name": "Raging Bull",
+        "url": "https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo"
+      },
+      "artists": [
+        {
+          "name": "Romeo + Juliet",
+          "url": "https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2"
+        }
+      ],
+      "duration_ms": 254667,
+      "name": "Gem",
+      "url": "https://open.spotify.com/track/4EWigRsUuQBFO7vCwTFFHW"
     },
     {
       "added_at": "2023-03-24 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 8147,
+  "num_followers": 8162,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDQ1NywwMDAwMDAwMDczOGNhNDJjZDJiN2ZkMzU1YmMxYWIyMGI1N2JlMjUy",
+  "snapshot_id": "MTY3OTkwNDQ1NywwMDAwMDAwMDUxNWY2MmE1ODk5ZjEwNTU1NDY3NzlmMDE5ZTk3ZjU0",
   "tracks": [
     {
       "added_at": "2023-03-03 04:10:08",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "let\u2019s play tug",
         "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
-        "name": "Lean On Me (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
-      },
-      "artists": [
-        {
-          "name": "Hoyeon Kim",
-          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It will be all fine",
-      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
+        "name": "Lean On Me (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
+      },
+      "artists": [
+        {
+          "name": "Hoyeon Kim",
+          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It will be all fine",
+      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-03 04:10:08",
       "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+    },
+    {
+      "added_at": "2023-03-03 04:10:08",
+      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
-    },
-    {
-      "added_at": "2023-03-03 04:10:08",
-      "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
     },
     {
       "added_at": "2023-03-03 04:10:08",
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/2Lv4ICVjaLlBkSV63oktFV"
     },
     {
-      "added_at": "2023-04-04 00:55:43",
+      "added_at": "2023-04-05 00:48:32",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"

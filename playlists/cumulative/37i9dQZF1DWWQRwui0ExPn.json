@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 107260,
       "name": "Alice",
       "url": "https://open.spotify.com/track/22wxDyfqvHg9IGx5sS2KCn"
@@ -53521,6 +53521,24 @@
     },
     {
       "album": {
+        "name": "Long Road",
+        "url": "https://open.spotify.com/album/4oMSBXrnswobIbi9FhwomW"
+      },
+      "artists": [
+        {
+          "name": "Elffire",
+          "url": "https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/47oNON3ESZjvhiHaHJk8RI"
+    },
+    {
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/7ov9vbUqrWogXtJIF9EEQC"
       },
@@ -65268,7 +65286,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 168813,
       "name": "Non fare troppo tardi",
       "url": "https://open.spotify.com/track/71CdfEFJivpPR8GFljhiZn"
@@ -79922,7 +79940,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 126857,
       "name": "Seed",
       "url": "https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr"

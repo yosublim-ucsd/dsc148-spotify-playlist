@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285 likes - 32 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292 likes - 32 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 31 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
 | 32 | [closer](https://open.spotify.com/track/5uJpSKo6cFDwnvncugsC61) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:38 |
 
-Snapshot ID: `MjgwMDg3NjEsMDAwMDAwMDBkNjdlNGY0MDlkZmQyNjA0NGIzOTU3MGFiYjI2ODUwZQ==`
+Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBmMGZhODVhYmNkZjYyNGZjZjQ0OGVkZTc2YTM0YTUzMw==`

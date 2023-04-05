@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,863 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,951 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 64 | [Baby Won't You Please Come Home](https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Blues, Soul & Ballads](https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp) | 2:07 |
 | 65 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
 | 66 | [Where Are You? \- Remastered](https://open.spotify.com/track/1wVLaNc1qRgI56HWauLFee) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:30 |
-| 67 | [Say It Isn't So](https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Somewhere over the Rainbow](https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy) | 3:13 |
+| 67 | [If I Knew Then \(What I Know Now\)](https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:33 |
 | 68 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
 | 69 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:51 |
-| 70 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
+| 70 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
 | 71 | [I Just Couldn't Stand It No More](https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 3:01 |
-| 72 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
+| 72 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
 | 73 | [Something to Remember You By](https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 3:01 |
 | 74 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
-| 75 | [If I Knew Then \(What I Know Now\)](https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:33 |
+| 75 | [Say It Isn't So](https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Somewhere over the Rainbow](https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy) | 3:13 |
 | 76 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
 | 77 | [Wasting My Love On You](https://open.spotify.com/track/1kKF0fbIAzKwbgdOedTWyg) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [The Big Broadcast, Volume 2: Jazz and Popular Music of the 1920s and 1930s](https://open.spotify.com/album/1SfSBipIVlCDOgxqRUDxgf) | 3:17 |
 | 78 | [Blues In My Heart](https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [Cry You Out Of My Heart](https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:45 |
 | 100 | [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 |
 
-Snapshot ID: `MTY3OTU2MzM3OCwwMDAwMDAwMGI0MTM0MjhjODQ4MjdiOGIxNTI1ZjFhMDkxOWY5YTNk`
+Snapshot ID: `MTY3OTU2MzM3OCwwMDAwMDAwMDhiNjE2MjUwMjkyNjA5OThiYjBmYTY1ZmQxNWRiZTQ1`

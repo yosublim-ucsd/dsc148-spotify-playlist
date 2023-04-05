@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,104 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,158 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

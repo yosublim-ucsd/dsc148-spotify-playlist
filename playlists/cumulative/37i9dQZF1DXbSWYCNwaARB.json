@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: MAMAMOO+",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: NewJeans",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 185786,
       "name": "GGBB",
       "url": "https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im"
@@ -2818,7 +2818,7 @@
           "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "date_added": "2023-03-30",
+      "date_added": "2023-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195440,
@@ -6316,6 +6316,24 @@
       "duration_ms": 217827,
       "name": "Your memory",
       "url": "https://open.spotify.com/track/6jqz1HJPADpLqqWFFRV7ZB"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154194,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
     },
     {
       "album": {

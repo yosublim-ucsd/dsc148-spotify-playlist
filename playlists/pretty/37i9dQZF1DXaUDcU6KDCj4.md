@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,600 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,727 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 56 | [Indigo](https://open.spotify.com/track/10mihG4l7slaYYQ9Oj0QuB) | [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [Thank You June](https://open.spotify.com/album/7xayQ7N37S3FCXf4aVLcpR) | 3:30 |
 | 57 | [Michael](https://open.spotify.com/track/5znbUew2INRRfP85hJwMaT) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Michael](https://open.spotify.com/album/7Mbkfj2MnH1b59PuRqytnM) | 2:01 |
 | 58 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
-| 59 | [Can't Be By Myself](https://open.spotify.com/track/30d5RsO6WvseuBB1UXQGM4) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Can't Be By Myself](https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj) | 2:55 |
+| 59 | [Can't Be By Myself](https://open.spotify.com/track/30d5RsO6WvseuBB1UXQGM4) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Can't Be By Myself](https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj) | 2:55 |
 | 60 | [It All Comes Back](https://open.spotify.com/track/6oIrO7yjtIJrKbZNx92rzC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [It All Comes Back](https://open.spotify.com/album/3wDnQyPXIq17Om9MZaH6Bi) | 3:58 |
 | 61 | [Take It Away \- Pt\. B](https://open.spotify.com/track/7DsQSKvFdDz2FkEy8n22hy) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Take It Away](https://open.spotify.com/album/3387BxSFngr5GZLszB9kdb) | 2:10 |
 | 62 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |

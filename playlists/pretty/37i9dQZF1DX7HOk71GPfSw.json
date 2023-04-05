@@ -1,13 +1,33 @@
 {
   "description": "this heylog song is crazy. Cover: 100 gecs",
-  "num_followers": 374414,
+  "num_followers": 374608,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5MDUwMCwwMDAwMDAwMDFmMzlmZGQ0NDQ2NjQzNTNhMDZhZTE2NWRjN2I2NWNl",
+  "snapshot_id": "MTY4MDYyMTMzOSwwMDAwMDAwMGFkNzg5N2VlZWQ1MGUwNGQ5ZTNhY2I3ZDllYWRmYWY2",
   "tracks": [
+    {
+      "added_at": "2023-04-04 15:15:39",
+      "album": {
+        "name": "Spalarkle (Alys)",
+        "url": "https://open.spotify.com/album/51VDi4dvyyzEm2BC2m1pqT"
+      },
+      "artists": [
+        {
+          "name": "felicita",
+          "url": "https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 246654,
+      "name": "Spalarkle (Alys)",
+      "url": "https://open.spotify.com/track/0olHacuNSrjufHYd5lvpCv"
+    },
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
@@ -1403,22 +1423,6 @@
       "duration_ms": 132625,
       "name": "Shlut",
       "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
-    },
-    {
-      "added_at": "2022-09-28 04:05:00",
-      "album": {
-        "name": "three wheels and it still drives!",
-        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 200117,
-      "name": "three wheels and it still drives!",
-      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
     },
     {
       "added_at": "2023-01-13 05:00:00",

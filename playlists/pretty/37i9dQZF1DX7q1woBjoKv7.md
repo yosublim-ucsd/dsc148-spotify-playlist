@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Hit Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,719 likes - 66 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,743 likes - 66 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 30 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 31 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 |
 | 32 | [Pressure \- Remix](https://open.spotify.com/track/36TzL54XxuCR91U5wBSR6h) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Pressure \(Remix\)](https://open.spotify.com/album/2UgNffRKMJwQUGQcNJ0smY) | 3:00 |
-| 33 | [Lions & Cowards](https://open.spotify.com/track/1cC2yM0BbDKlKCjQneWHg7) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Lions & Cowards](https://open.spotify.com/album/68GvB7vE1ylJ56WIyAhNe3) | 3:17 |
+| 33 | [Lions & Cowards](https://open.spotify.com/track/1cC2yM0BbDKlKCjQneWHg7) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Lions & Cowards](https://open.spotify.com/album/68GvB7vE1ylJ56WIyAhNe3) | 3:17 |
 | 34 | [Put It On Camera](https://open.spotify.com/track/5Tt8CpYPt9uzV90Qb1YkX6) | [Pastel Papi](https://open.spotify.com/artist/4GNc1ri8udQ9l7IyuM6zam), [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Put It On Camera](https://open.spotify.com/album/0pK9xNnJYEauG0xkqegIdx) | 2:31 |
 | 35 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 |
 | 36 | [RACK CITY](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [RACK CITY](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 |

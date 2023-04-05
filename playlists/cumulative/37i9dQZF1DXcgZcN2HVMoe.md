@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-697 songs - 1 day 17 hr 37 min
+698 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Future](https://open.spotify.com/track/1MMmv8FAzmZ0UEXZMc9sUY) | [Jesse Ruben](https://open.spotify.com/artist/5tZhefLixacZsUcEDx9wCL) | [Future](https://open.spotify.com/album/1UX0EIVq9Ux21xGY7ORClm) | 4:10 | 2022-01-24 | 2022-05-20 |
 | [Galacticana \- Acoustic](https://open.spotify.com/track/1JoaeJJOI4k947MHjbYfz0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana \(Acoustic\)](https://open.spotify.com/album/44pj4Jgfwk2HyJfOW1DXav) | 3:59 | 2022-01-24 | 2022-04-21 |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-06-08 | 2022-07-29 |
+| [Get Real High](https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF) | 4:07 | 2023-03-28 |  |
 | [Getting Older](https://open.spotify.com/track/2LFlPtqP2p0PjDflo76QjQ) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Getting Older](https://open.spotify.com/album/5F8yrYmCl8YJmTv3nozUz6) | 3:30 | 2022-01-24 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 | 2021-12-17 | 2022-04-20 |
 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-04-08 |  |
@@ -435,7 +436,7 @@
 | [Normal \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:31 | 2022-01-24 | 2022-04-20 |
 | [Not For Me \- Acoustic](https://open.spotify.com/track/6l5vqh0wxlgC19cvgjggmV) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me \(Acoustic\)](https://open.spotify.com/album/2wTaLM9YcKnQQjHGnyEHU1) | 3:43 | 2022-01-24 | 2022-04-21 |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-12-17 | 2022-04-18 |
-| [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-07-29 |  |
+| [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-07-29 | 2023-04-05 |
 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [Now You Don't](https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA) | 3:11 | 2022-07-22 |  |
 | [Now You Don't](https://open.spotify.com/track/51fqruO7AtIan8CWr9XVAv) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1BlAEi3GIMvEU3grYkLq5t) | 3:11 | 2021-12-17 | 2022-07-09 |

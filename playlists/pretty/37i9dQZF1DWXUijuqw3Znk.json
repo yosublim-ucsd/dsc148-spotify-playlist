@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3037,
+  "num_followers": 3046,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTkwNywwMDAwMDAwMGUwYTZmMDEzMzNmZjk1MzkyY2RlNzlmMzVhY2IwZWVl",
+  "snapshot_id": "MTY3OTkwNTkwNywwMDAwMDAwMDU1ZjZmMDAzNDIyNzJjODI0MjA4NDI4OWZmZGY4ZDIw",
   "tracks": [
     {
       "added_at": "2023-02-24 08:51:34",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Acceptance Speech (Feat. B.I)",
+      "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 189080,
       "name": "Rollin' (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Epik High Is Here \u4e0a (Part 1)",
-        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Acceptance Speech (Feat. B.I)",
-      "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "grayground. 01",
+        "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 228097,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 247680,
       "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "grayground. 01",
-        "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 228097,
-      "name": "Just Do It",
-      "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 223402,
-      "name": "Dali, Van, Picasso",
-      "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "Ghetto Superstars",
         "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 180000,
       "name": "300(prod. Cashbanger)",
       "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 223402,
+      "name": "Dali, Van, Picasso",
+      "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "Man proposes God disposes",
         "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212000,
       "name": "Man proposes God disposes",
       "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Lighter in my blow fist",
+      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "Show Me the Money 5 Episode 3",
         "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 220926,
       "name": "Always Awake - Bonus Track",
       "url": "https://open.spotify.com/track/6DcJLFmrrkwqhVOtIKr36u"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Lighter in my blow fist",
-      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1221,28 +1221,24 @@
       "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
     },
     {
-      "added_at": "2023-02-24 08:51:34",
+      "added_at": "2023-04-05 00:49:03",
       "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+        "name": "It's Your Turn (Feat. Futuristic Swaver)",
+        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
         },
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
         }
       ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+      "duration_ms": 193174,
+      "name": "It's Your Turn (Feat. Futuristic Swaver)",
+      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1269,24 +1265,28 @@
       "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
-      "added_at": "2023-04-04 01:06:13",
+      "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "It's Your Turn (Feat. Futuristic Swaver)",
-        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         },
         {
-          "name": "Futuristic Swaver",
-          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 193174,
-      "name": "It's Your Turn (Feat. Futuristic Swaver)",
-      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1335,6 +1335,34 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        },
+        {
+          "name": "SC4F",
+          "url": "https://open.spotify.com/artist/3fXOlqV4AdU7A1VCDrXeoY"
+        },
+        {
+          "name": "MADII",
+          "url": "https://open.spotify.com/artist/4sPbUZshFnv9ShVjaxmH7z"
+        }
+      ],
+      "duration_ms": 162901,
+      "name": "24 Hours (Feat. Chin, SC4F & MADII)",
+      "url": "https://open.spotify.com/track/1qucwOrgFKSZPFWbqTZZOe"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -1375,50 +1403,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        },
-        {
-          "name": "SC4F",
-          "url": "https://open.spotify.com/artist/3fXOlqV4AdU7A1VCDrXeoY"
-        },
-        {
-          "name": "MADII",
-          "url": "https://open.spotify.com/artist/4sPbUZshFnv9ShVjaxmH7z"
-        }
-      ],
-      "duration_ms": 162901,
-      "name": "24 Hours (Feat. Chin, SC4F & MADII)",
-      "url": "https://open.spotify.com/track/1qucwOrgFKSZPFWbqTZZOe"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1439,26 +1423,18 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "Show Me The Money 10 Episode 3",
-        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
       },
       "artists": [
         {
-          "name": "Geegooin",
-          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
-        },
-        {
-          "name": "Anandelight",
-          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Press F5 (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473"
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1491,6 +1467,30 @@
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+      },
+      "artists": [
+        {
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
+        },
+        {
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Press F5 (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Queen WA$ABII",
-          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -1619,6 +1595,30 @@
       "duration_ms": 186644,
       "name": "Balance",
       "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Queen WA$ABII",
+          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 240542,
       "name": "Cross The Street",
       "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2023-02-24 08:51:34",

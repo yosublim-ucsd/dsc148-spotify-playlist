@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 3 hr 46 min
+73 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2022-08-31 |  |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-31 | 2022-11-17 |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/64xy8ja7i7F0VPmgLUrMCx) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/2Bnzz1MOwqdalLiHpX2mhV) | 2:40 | 2022-08-31 | 2023-04-02 |
-| [WIZZ \- COBRAH REMIX](https://open.spotify.com/track/2lrYHwhlNTNm63BqFBqGIT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [1](https://open.spotify.com/album/0nWTolsYQF7QJBb7eIo4tL) | 2:40 | 2022-08-31 |  |
+| [WIZZ \- COBRAH REMIX](https://open.spotify.com/track/2lrYHwhlNTNm63BqFBqGIT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [1](https://open.spotify.com/album/0nWTolsYQF7QJBb7eIo4tL) | 2:40 | 2022-08-31 | 2023-04-05 |
+| [WIZZ \- COBRAH REMIX](https://open.spotify.com/track/6BNoAl0pKLOOmVHs2WW9JF) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [1](https://open.spotify.com/album/48UDwOtbGk9lAcnrevCJly) | 2:40 | 2022-08-31 |  |
 | [X2C](https://open.spotify.com/track/0hy9wxRWDTv25c5B4M19Ee) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Be Runway](https://open.spotify.com/album/1wcAS2gv91Vi63QWrTn5GB) | 2:20 | 2022-08-31 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State featuring Sauce Walka, Asian Doll, Don Toliver, Travis Scott, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
+> Hip hop heat from the Lone Star State featuring LilCJ Kasino, TrapboyDre10k, Tisakorean, Sauce Walka, Asian Doll, Peso Peso, Don Toliver.
 
 [Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,451 likes - 75 songs - 3 hr 43 min
 
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/1iiODxaiVpBp522dalIe9V.md) - [plain]
 | 74 | [Texico](https://open.spotify.com/track/7uk44MiKIckhdjTlV9WEEz) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj), [Cashout Ace](https://open.spotify.com/artist/6Dl48jX9PUpN2t1L48xOrI), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe) | [Be Someone: HoUSton Population](https://open.spotify.com/album/6xBlqJAEs6ph9jVxKHPHee) | 4:19 |
 | 75 | [Think It's A Game](https://open.spotify.com/track/65T3ODJsd2gvL1C4L1as1d) | [Woine](https://open.spotify.com/artist/4Kh6WXjCUHN6ueN5iJCEtQ) | [PLAYMAKA](https://open.spotify.com/album/0MH028dmCFl5i0FZHX6aMb) | 2:24 |
 
-Snapshot ID: `NDU0MSw5OWY5MzBlNWZmNDBkYWU1MGQ2MmFlNzMzZDZjNWQzMWQ1MTcyZTZi`
+Snapshot ID: `NDU0Myw5YjM2ZjA0N2RiOTY3ZGQwYmEzOTdmYmJiM2QzMmUwODJjZTk5ZjI0`

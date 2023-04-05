@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 163370,
+  "num_followers": 163341,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGJmYTc3NzU1NDhjNDVjOWM5OGU2YzdjNGE4NjQ3YmVi",
+  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGZjYjYyOWQ2OGQwMjFkN2FlNGEzMzZhNWU1ZmYzZGNi",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 256648,
-      "name": "Another Year",
-      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+      "duration_ms": 187750,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
-        "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        },
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
-      "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -627,6 +607,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Every Holiday",
         "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
       },
@@ -643,18 +639,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+        "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
+        "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+      "duration_ms": 380480,
+      "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
+      "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 280152,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Phrazes For The Young",
         "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
       },
       "artists": [
         {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+      "duration_ms": 280152,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -883,6 +867,22 @@
       "duration_ms": 112361,
       "name": "This Year For Christmas",
       "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -967,34 +967,34 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
       "artists": [
         {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 212120,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 212120,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
-      },
-      "artists": [
-        {
-          "name": "Pomplamoose",
-          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
-        }
-      ],
-      "duration_ms": 167837,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
-        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Christmas Is Going To The Dogs",
-      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
+      "duration_ms": 167837,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1203,6 +1187,22 @@
       "duration_ms": 284906,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
+        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Christmas Is Going To The Dogs",
+      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
     },
     {
       "added_at": "2022-12-23 02:36:32",

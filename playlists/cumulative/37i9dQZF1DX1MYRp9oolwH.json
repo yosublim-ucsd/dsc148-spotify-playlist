@@ -1429,6 +1429,28 @@
     },
     {
       "album": {
+        "name": "Richie Gadi Pelli",
+        "url": "https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp"
+      },
+      "artists": [
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Satyan",
+          "url": "https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Naa Ninnalaloo",
+      "url": "https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7"
+    },
+    {
+      "album": {
         "name": "Naa Sasi (From \"Kanmani Rambo Khatija\")",
         "url": "https://open.spotify.com/album/5O2ntpQgCrO3HOKhnLeT2u"
       },

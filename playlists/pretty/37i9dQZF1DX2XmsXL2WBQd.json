@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 341109,
+  "num_followers": 341222,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUwMDgxMiwwMDAwMDAwMDhhN2VmNWMwNDhlYjYwYzUzYmQ3N2FiNTE4NGNjMGMz",
+  "snapshot_id": "MTY3NzUwMDgxMiwwMDAwMDAwMGUxYzc4ZmU1MzMyZGUwZGMwZDE4NDJkZTAzMTJhZjk5",
   "tracks": [
     {
       "added_at": "2023-02-27 12:26:52",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "N.W.A. Greatest Hits",
         "url": "https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 261399,
       "name": "Express Yourself - Remix",
       "url": "https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "It's A Big Daddy Thing",
-        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 302666,
       "name": "Rebel Without A Pause",
       "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "It's A Big Daddy Thing",
+        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Danger Zone",
-        "url": "https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb"
+        "name": "Hip Hop Be Bop",
+        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
       },
       "artists": [
         {
-          "name": "Tuff Crew",
-          "url": "https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D"
+          "name": "Man Parrish",
+          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
         }
       ],
-      "duration_ms": 271333,
-      "name": "My Part of Town",
-      "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
+      "duration_ms": 336173,
+      "name": "Hip Hop Be Bop (Original Version)",
+      "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

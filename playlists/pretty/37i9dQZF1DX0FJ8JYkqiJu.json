@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 371718,
+  "num_followers": 371776,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE4Mjk5MCwwMDAwMDAwMDlmMzk1MzZlMWI2ZTIyY2M2OWViYmQ0ZjZjMjM2Mzgz",
+  "snapshot_id": "MTY4MDE4Mjk5MCwwMDAwMDAwMDg4ODg0OWFmMTc4MGI2YTA0YmQ1NWU5ZTNiYmEwNDc5",
   "tracks": [
     {
       "added_at": "2023-03-16 11:42:40",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf"
     },
     {
-      "added_at": "2023-04-04 00:59:18",
+      "added_at": "2023-04-05 00:40:40",
       "album": {
         "name": "hollatchu",
         "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
-      "added_at": "2023-04-04 00:59:18",
+      "added_at": "2023-04-05 00:40:40",
       "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
-      "added_at": "2023-04-04 00:59:18",
+      "added_at": "2023-04-05 00:40:40",
       "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/6vSHmT60oUsA4QWYaAcySr"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
-      "added_at": "2023-04-04 00:59:18",
+      "added_at": "2023-04-05 00:40:40",
       "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0Yep9BMOQZKsAwEu3g9lgo"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
-      "added_at": "2023-04-04 00:59:18",
+      "added_at": "2023-04-05 00:40:40",
       "album": {
         "name": "Oaks Are Real",
         "url": "https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54"
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-03-16 11:42:40",
       "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2023-03-16 11:42:40",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2023-03-16 11:42:40",
-      "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     },
     {
       "added_at": "2023-03-16 11:42:40",
@@ -991,18 +991,22 @@
     {
       "added_at": "2023-03-16 11:42:40",
       "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
+        "name": "Rolling Back (Durante Remix)",
+        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
+      "duration_ms": 238000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
     },
     {
       "added_at": "2023-03-16 11:42:40",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2023-03-16 11:42:40",
       "album": {
-        "name": "Rolling Back (Durante Remix)",
-        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
+        "name": "A Quiet Voice",
+        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+      "duration_ms": 282812,
+      "name": "A Quiet Voice",
+      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2023-03-16 11:42:40",

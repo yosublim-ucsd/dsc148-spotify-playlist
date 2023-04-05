@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,534 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,633 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 44 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 |
 | 45 | [You, Me and a Bottle](https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Hellbent](https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib) | 3:13 |
 | 46 | [Hey Moon](https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 2:54 |
-| 47 | [Javelina](https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Javelina](https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq) | 3:28 |
-| 48 | [The Truth](https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L) | 3:32 |
+| 47 | [The Truth](https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L) | 3:32 |
+| 48 | [Javelina](https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Javelina](https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq) | 3:28 |
 | 49 | [Can Down](https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Can Down](https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF) | 3:08 |
 | 50 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 |
 | 51 | [Unwanted Man](https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:16 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 82 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
 | 83 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
 | 84 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
-| 85 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
-| 86 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 |
+| 85 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 |
+| 86 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
 | 87 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
 | 88 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
 | 89 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 |
 | 90 | [Something 'Bout a Southern Girl](https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Something 'Bout a Southern Girl](https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5) | 4:22 |
 | 91 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
-| 92 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 |
-| 93 | [In the Dark](https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [In the Dark](https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX) | 3:52 |
-| 94 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 |
+| 92 | [In the Dark](https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [In the Dark](https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX) | 3:52 |
+| 93 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 |
+| 94 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 |
 | 95 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 |
 | 96 | [First Dirt Road](https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [First Dirt Road](https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3) | 3:23 |
 | 97 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 |
 | 98 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
 | 99 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 |
-| 100 | [Like I Love You](https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo) | [Sarah Hobbs](https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI) | [Texas Made](https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA) | 3:51 |
+| 100 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDU2Mzk2YTRkMmI4MWUwYzhlYzgxYzgzYmMwMmE2OWNi`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDg0NTM3NjM4YjE3MzliOGFjMTg1NDk2NzA1NjM0YTlh`

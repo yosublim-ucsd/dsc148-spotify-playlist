@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Subamos el volumen a las mujeres \. Co\-curada por Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,828 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,845 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 26 | [Revolea](https://open.spotify.com/track/2I8yKSM7fygPWvu8iWKW9r) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [Revolea](https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI) | 3:53 |
 | 27 | [CHROME](https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [eclips3](https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9) | 2:42 |
 | 28 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
-| 29 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
-| 30 | [SKYS4U](https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ) | [SKYS4U](https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2) | 5:26 |
+| 29 | [SKYS4U](https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ) | [SKYS4U](https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2) | 5:26 |
+| 30 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
 | 31 | [PERREO PA LAS NENAS](https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:56 |
 | 32 | [38](https://open.spotify.com/track/0ss8qSa8kKQm8WeShgTpse) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [May Creizy](https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ) | [Barbie Copiloto](https://open.spotify.com/album/1dBtLw9hC4Jo2zNj39VLth) | 2:41 |
 | 33 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [PLUSH](https://open.spotify.com/track/5xhqoMCMBBuuwnjnTL3p9d) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PLUSH](https://open.spotify.com/album/10mhRKgJ8ZMUAvnXANmzXN) | 3:01 |
 | 41 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
 | 42 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
-| 43 | [Tu Amante](https://open.spotify.com/track/4AKNYXSaCUwvP8iK2kQYk2) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Tu Amante](https://open.spotify.com/album/1XAMmnGeJPNG2uKRq1GGZZ) | 2:45 |
-| 44 | [Yo & Yo](https://open.spotify.com/track/6s8uO8DbhAoM7y7hGBp0ve) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:15 |
+| 43 | [Yo & Yo](https://open.spotify.com/track/6s8uO8DbhAoM7y7hGBp0ve) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:15 |
+| 44 | [Tu Amante](https://open.spotify.com/track/4AKNYXSaCUwvP8iK2kQYk2) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Tu Amante](https://open.spotify.com/album/1XAMmnGeJPNG2uKRq1GGZZ) | 2:45 |
 | 45 | [Solamente Estás Tú](https://open.spotify.com/track/7kWZRvikHrTvRAF4TlXZWi) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Solamente Estás Tú](https://open.spotify.com/album/21YIacnfxQQcxTmXS3oyV0) | 2:15 |
 | 46 | [Perra Teteo](https://open.spotify.com/track/73dtGgdvdq0CF0fTwtlgE4) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6) | [Perra Teteo](https://open.spotify.com/album/6kSUyEdpC8hKHREe3LpUGb) | 2:19 |
 | 47 | [Show Stopper](https://open.spotify.com/track/5N39dLQSDSW5hhIsDmBBwe) | [Nanu](https://open.spotify.com/artist/0NdqwX70EDgH6cXE2Nf6g6) | [Borderline Genius Disorder](https://open.spotify.com/album/6Sn2fvq9ZzBobOVJ0n1Eoy) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Pa las Gatas](https://open.spotify.com/track/4eOdZZe6wLFfHE3p99JDp6) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [Pa las Gatas](https://open.spotify.com/album/5Lpze9WyNbQrSudLoe2xlv) | 2:25 |
 | 50 | [TurraDesquiciá](https://open.spotify.com/track/5SH41WtAECBRfkdMvG8JBa) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4) | [TurraDesquiciá](https://open.spotify.com/album/2vLdxEnXKZYcnpV19qsXbh) | 2:18 |
 
-Snapshot ID: `MTY3ODEyNjA0MiwwMDAwMDAwMDQ4YzNmMWI5ODM2OWNjOGNkOGM0YmE3ZjQ1ZTcwZGMw`
+Snapshot ID: `MTY3ODEyNjA0MiwwMDAwMDAwMDk1MGM0M2U0MzdiZTRiODllMWJiNDI0M2IyNDk2OGQw`

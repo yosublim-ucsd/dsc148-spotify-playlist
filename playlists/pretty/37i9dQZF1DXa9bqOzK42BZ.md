@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,677 likes - 60 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,688 likes - 60 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

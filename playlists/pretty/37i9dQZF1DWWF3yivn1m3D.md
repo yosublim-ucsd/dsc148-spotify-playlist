@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,783 likes - 77 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,191 likes - 77 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

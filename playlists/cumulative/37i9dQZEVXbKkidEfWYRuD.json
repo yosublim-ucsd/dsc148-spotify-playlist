@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 93730,
       "name": "mana break",
       "url": "https://open.spotify.com/track/3XOcTnIA8aGpil8h76eH7N"
@@ -10077,6 +10077,24 @@
     },
     {
       "album": {
+        "name": "ZEMLYA",
+        "url": "https://open.spotify.com/album/4Oy3RyBfpG5G13efSVzLHG"
+      },
+      "artists": [
+        {
+          "name": "EDWXRDX",
+          "url": "https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "ZEMLYA",
+      "url": "https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb"
+    },
+    {
+      "album": {
         "name": "Zick Zack",
         "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
       },
@@ -12310,7 +12328,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "\u0413\u0443\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/4lleps28xCklJLtTt5MoJt"
@@ -12554,7 +12572,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 156726,
       "name": "\u0414\u0435\u0440\u0436\u0430\u0432\u043d\u0438\u0439",
       "url": "https://open.spotify.com/track/6qfNb3PBlpH9xgVjs4GiqX"
@@ -13214,7 +13232,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 119475,
       "name": "\u0417\u0410 \u0414\u0415\u041d\u042c\u0413\u0418 \u0414\u0410",
       "url": "https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB"
@@ -13312,7 +13330,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 111759,
       "name": "\u0417\u0430\u0431\u0440\u043e\u0441\u0438\u043b\u0438 \u0443\u0447\u0451\u0431\u0443",
       "url": "https://open.spotify.com/track/1qzoYGd3RXzo2b7n9hlenk"
@@ -14766,6 +14784,24 @@
       "duration_ms": 152745,
       "name": "\u041b\u0451\u0434",
       "url": "https://open.spotify.com/track/7D8k995g6jdie4NF1E7Tpu"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
+        "url": "https://open.spotify.com/album/7FLL81YdbJHC7OB0ntas4C"
+      },
+      "artists": [
+        {
+          "name": "LOVV66",
+          "url": "https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
+      "url": "https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA"
     },
     {
       "album": {

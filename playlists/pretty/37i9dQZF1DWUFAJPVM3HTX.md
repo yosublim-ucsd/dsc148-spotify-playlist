@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: PJAE\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,032 likes - 176 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,087 likes - 176 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sunshine of your love](https://open.spotify.com/track/6x8DQoP4amD69eYmAx07Ra) | [PJAE](https://open.spotify.com/artist/3EpdSPXZERrqLpTrVdjtGe) | [sunshine of your love](https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo) | 2:29 |
 | 2 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 |
 | 3 | [Uber Ride](https://open.spotify.com/track/7aXQLDSQxo62BhazTMqkYo) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Uber Ride](https://open.spotify.com/album/1TLBE9AuzNHAHEadtWiFeK) | 3:18 |
-| 4 | [Timeless](https://open.spotify.com/track/3a5aiBo7q33rfqpRqLuMhs) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Timeless](https://open.spotify.com/album/78p7OUay4SIL5CeBfRXdTl) | 3:00 |
+| 4 | [Timeless](https://open.spotify.com/track/3a5aiBo7q33rfqpRqLuMhs) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Timeless](https://open.spotify.com/album/78p7OUay4SIL5CeBfRXdTl) | 3:00 |
 | 5 | [Come Around](https://open.spotify.com/track/7zzE9HoljyT9EwCdn8lut3) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Come Around](https://open.spotify.com/album/3pJoO4CaW3NjAgecwbMD89) | 3:28 |
 | 6 | [Blame](https://open.spotify.com/track/3fdjOQY08pnXhBzsxfuPI4) | [Résa](https://open.spotify.com/artist/4a4GE7G3xZ61pA0SAWS62O) | [Blame](https://open.spotify.com/album/3rr1atPqCjUiDtJAm1DVDw) | 2:37 |
 | 7 | [Take Control](https://open.spotify.com/track/10PWQfZulvHbnDfDQhiIVK) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/1YcCzdOzfpsuqjXlsSsshf) | 2:29 |

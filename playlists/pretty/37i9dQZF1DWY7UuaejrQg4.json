@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 70092,
+  "num_followers": 70136,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDI5MjQ3ZTc3N2JjYzA3ZmVhNmFmMGJkOTQwMmRhZjFh",
+  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMGUyOTFiNTNmZTZjMDA0YjY5YmY1N2JiYjE3Y2UxODM5",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 191529,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lover Boy",
-        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Lover Boy",
-      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+      "duration_ms": 354640,
+      "name": "Star Treatment",
+      "url": "https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Tranquility Base Hotel & Casino",
-        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 354640,
-      "name": "Star Treatment",
-      "url": "https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ"
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2022-03-08 15:07:06",

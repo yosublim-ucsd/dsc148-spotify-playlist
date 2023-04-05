@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72599,
+  "num_followers": 72613,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDE2ODE4MDEyYmY1NGFmZTAwOGExM2VkNmM1MGJjNGUy",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMGVkZmNlN2I1ZmI1OTQ5ODk5ZTk0ZTMxNmZlNDA3MTA2",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Jan Juc Moon",
-        "url": "https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 277053,
-      "name": "Stoney Creek",
-      "url": "https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Gypsy Tapes",
         "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 212585,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Jan Juc Moon",
+        "url": "https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 277053,
+      "name": "Stoney Creek",
+      "url": "https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Home to You",
+        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 213629,
+      "name": "Home to You",
+      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Call Me Home",
         "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "hemispheres",
-        "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 227077,
-      "name": "It's Easier When You're Standing There",
-      "url": "https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 271999,
       "name": "heartbeat",
       "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "hemispheres",
+        "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 227077,
+      "name": "It's Easier When You're Standing There",
+      "url": "https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Home to You",
-        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 213629,
-      "name": "Home to You",
-      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "DANCING IN THE DARK",
         "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 180000,
       "name": "CAMPFIRE",
       "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -595,6 +611,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -607,22 +639,6 @@
       "duration_ms": 216476,
       "name": "8 Hour Drive",
       "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "I BELIEVE",
         "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -743,24 +759,8 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "The Future of an End",
-        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 188544,
-      "name": "The Coffee Song",
-      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -789,7 +789,23 @@
       "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
     },
     {
-      "added_at": "2023-04-04 01:30:51",
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "The Future of an End",
+        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
+    },
+    {
+      "added_at": "2023-04-05 01:28:05",
       "album": {
         "name": "Higher Now",
         "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
@@ -823,38 +839,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Simple Question",
-        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 272999,
-      "name": "Simple Question",
-      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Carry You With Me",
         "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Simple Question",
+        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 272999,
+      "name": "Simple Question",
+      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "A Song To Be Named",
-        "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "A Song To Be Named",
-      "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Love Shack",
         "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 238174,
       "name": "Home",
       "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Never Be Us",
+        "url": "https://open.spotify.com/album/0bjYCS38v54dVebGGNp776"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 175454,
+      "name": "Never Be Us",
+      "url": "https://open.spotify.com/track/53HPeZ0v4ALxK9arM1eYlN"
     }
   ],
   "unique_name": "Summer Daze",

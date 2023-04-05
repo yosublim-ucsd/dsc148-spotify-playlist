@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Aly & AJ",
-  "num_followers": 812549,
+  "num_followers": 812669,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDk4MjE5MTM4ZGU2YjU5MWJmYTU2MzA3MTgwMWM2NGIw",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGU3NjNjNDVmMzFiYjE0MzQ0NTliYjk1ZjAxYzQyM2Vl",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Finch",
-        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 168712,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 168712,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Worth Of The Wait",
-        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
-      },
-      "artists": [
-        {
-          "name": "Ivan & Alyosha",
-          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "The Worth Of The Wait",
-      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Worth Of The Wait",
+        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
+      },
+      "artists": [
+        {
+          "name": "Ivan & Alyosha",
+          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "The Worth Of The Wait",
+      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Art of Letting Go",
-        "url": "https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD"
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
       },
       "artists": [
         {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2"
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1431,6 +1431,22 @@
       "duration_ms": 160500,
       "name": "running shoes",
       "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Art of Letting Go",
+        "url": "https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 186826,
       "name": "Better When We're Falling Apart",
       "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 153151,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "All the Things You'd Ruin (Sad Girl Version)",
-        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
+        "name": "Break Me Open",
+        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
       "artists": [
         {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 179260,
-      "name": "All the Things You'd Ruin (Sad Girl Version)",
-      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
+      "duration_ms": 183026,
+      "name": "Break Me Open",
+      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Break Me Open",
-        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
+        "name": "All the Things You'd Ruin (Sad Girl Version)",
+        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Break Me Open",
-      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
+      "duration_ms": 179260,
+      "name": "All the Things You'd Ruin (Sad Girl Version)",
+      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
     },
     {
       "added_at": "2023-03-31 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 114414,
+  "num_followers": 114453,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5NDkyNCwwMDAwMDAwMDg1ZTE3YWI2ODg3OTk5MDcxMGM0Zjc2ZTM5NzlhZjM3",
+  "snapshot_id": "MTY3NjY5NDkyNCwwMDAwMDAwMDVhNmFmYTA0Nzk2MjBjZGVkMjZiYWJjYWM5MjkwZWI0",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+        "name": "Love Running Wild",
+        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
         }
       ],
-      "duration_ms": 439714,
-      "name": "Just Want You - Live",
-      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
+      "duration_ms": 201371,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Love Running Wild",
-        "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 201371,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+      "duration_ms": 439714,
+      "name": "Just Want You - Live",
+      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 184264,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 225856,
       "name": "Heaven On Earth - Radio Single",
       "url": "https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Hills & Horizons",
-        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+      "duration_ms": 181426,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
     },
     {
       "added_at": "2023-02-18 04:35:24",

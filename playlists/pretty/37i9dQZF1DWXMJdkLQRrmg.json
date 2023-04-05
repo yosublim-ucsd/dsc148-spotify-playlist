@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 304681,
+  "num_followers": 304811,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGIwYzFjY2IyNzBiNzdmZGVmMjAxNmVmMzAwMzk5YTc4",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDc2MzFlMzI1N2ExZGZkOWJlMTEzZDE4ZTc1ZmI4ZWVl",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "How Did You Love - Acoustic",
-      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 99226,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "How Did You Love - Acoustic",
+      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Love Sux (Deluxe)",
-        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ"
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 207200,
       "name": "Heart Beat Here",
       "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Love Sux (Deluxe)",
+        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ"
     },
     {
       "added_at": "2023-01-13 05:00:00",

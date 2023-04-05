@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,493 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,524 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 38 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
 | 39 | [Baby Beluga \- 40th Anniversary Version](https://open.spotify.com/track/40oUxbmsYW6a62kmuJgsEv) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Baby Beluga \(40th Anniversary Version\)](https://open.spotify.com/album/3rJ1zQgh9ngMK5Oby68n36) | 3:28 |
 | 40 | [Bought Me a Cat](https://open.spotify.com/track/3SbOjVO4kaVgh3JxGaTMaB) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Animal Songs](https://open.spotify.com/album/0wjCa0rFSpQXadjEK2MIjs) | 2:36 |
-| 41 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
-| 42 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
+| 41 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
+| 42 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
 | 43 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
 | 44 | [Glue](https://open.spotify.com/track/1OnQCrHqov2hDGd0WFh6VV) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Glue](https://open.spotify.com/album/0CrN2sQKKHa2IvNJybDCID) | 2:18 |
 | 45 | [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 67 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 68 | [La Lee Too Dum](https://open.spotify.com/track/0b3CmrcbWujd1kD0NOzg0u) | [Barbara Dane](https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf) | [Anthology of American Folk Songs](https://open.spotify.com/album/2sFob1tuFTJbay9Hp6urj5) | 3:16 |
 | 69 | [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 |
-| 70 | [Goober Peas](https://open.spotify.com/track/046AO6ZBgRPwA52YufDUIx) | [Arthur Smith](https://open.spotify.com/artist/4a73lr7ZzVCTFqy6d7sHc7) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:53 |
+| 70 | [Here We Go Looby Loo](https://open.spotify.com/track/4Ponyyh31zaPT5OLr16QeJ) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes, Vol\. 2](https://open.spotify.com/album/2H7OWPAgm35qkKDNNwXxBv) | 2:54 |
 
-Snapshot ID: `MTY3NTE3OTMxMiwwMDAwMDAwMDM3ZTk3MDQ5OGQ4MjFjMTUwODAxMzk5OGNlMmRhMTgx`
+Snapshot ID: `MTY3NTE3OTMxMiwwMDAwMDAwMDJkMTc3NWVlMjE2MjUyMjExZGE4MjkxYjVlNTRiZGZj`

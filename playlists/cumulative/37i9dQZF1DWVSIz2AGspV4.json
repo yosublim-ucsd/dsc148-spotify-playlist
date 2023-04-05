@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 158902,
       "name": "Al Lahja - \u0627\u0644\u0644\u0647\u062c\u0629",
       "url": "https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26"
@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Meshwar Aldonia",
+        "url": "https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200487,
+      "name": "Meshwar Aldonia",
+      "url": "https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS"
+    },
+    {
+      "album": {
         "name": "Mitghaer W Halyan",
         "url": "https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3"
       },
@@ -2694,6 +2712,24 @@
       "duration_ms": 190200,
       "name": "Qadari",
       "url": "https://open.spotify.com/track/4cftB4jTWjhryKW4krWLUv"
+    },
+    {
+      "album": {
+        "name": "Qadeer Rabana",
+        "url": "https://open.spotify.com/album/6v5Os5pIFQojhbK3WTUq47"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Al Maslawi",
+          "url": "https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83800,
+      "name": "Qadeer Rabana",
+      "url": "https://open.spotify.com/track/42IiWlpfntw14Axb4MM7nW"
     },
     {
       "album": {

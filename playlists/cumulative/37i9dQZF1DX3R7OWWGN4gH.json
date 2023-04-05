@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246294,
+      "name": "EVIL",
+      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
+    },
+    {
+      "album": {
         "name": "Ex's & Oh's",
         "url": "https://open.spotify.com/album/3Ajo6U3AfyF5TtdIGAPMlx"
       },
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 159293,
       "name": "overwhelmed",
       "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"

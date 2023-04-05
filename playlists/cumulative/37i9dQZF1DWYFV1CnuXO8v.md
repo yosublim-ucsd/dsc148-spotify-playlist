@@ -4,7 +4,7 @@
 
 > عيش أجمل حاله حب 🫶
 
-141 songs - 9 hr 1 min
+142 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Betewhasheiny](https://open.spotify.com/track/0BPqBuNdkz210zBh9AbC4m) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Tewedny Leih](https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7) | 4:48 | 2023-02-13 |  |
 | [Da Hob Wala](https://open.spotify.com/track/4xVzoQG6nCGk8WYEg4rZPm) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:25 | 2023-02-13 |  |
 | [Diplomacy](https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL) | 3:22 | 2023-02-13 | 2023-04-02 |
+| [Diplomacy](https://open.spotify.com/track/6xDtL9ZKpRX9HXGwmIB34k) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/5Ad8EqhfY3Xqd0hOalAWzj) | 3:22 | 2023-02-23 |  |
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 |  |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2023-02-13 |  |
 | [El Hob El Ha'ei'y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha'ei'y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2023-02-13 |  |
@@ -101,7 +102,7 @@
 | [Sad Khana](https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Sad Khana](https://open.spotify.com/album/1Ejmq4KPVN6jDkZmWfTIFt) | 3:52 | 2023-02-16 |  |
 | [Shabah El Sama](https://open.spotify.com/track/4oxKGIYNawlTBHK76Ah3eY) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Shabah El Sama](https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv) | 3:38 | 2023-02-13 |  |
 | [Shofy 7aly](https://open.spotify.com/track/6sl5f589BUW7wz9EWpJG9Q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Shofy 7aly](https://open.spotify.com/album/7jGcinboojeSI12RzVeMW5) | 3:29 | 2023-02-13 |  |
-| [Someone](https://open.spotify.com/track/4OL9jifdSLnvt1TcHXWNgz) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Someone](https://open.spotify.com/album/1XTAB668vNaWOrAP6ljgkq) | 3:42 | 2023-02-23 |  |
+| [Someone](https://open.spotify.com/track/4OL9jifdSLnvt1TcHXWNgz) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Someone](https://open.spotify.com/album/1XTAB668vNaWOrAP6ljgkq) | 3:42 | 2023-02-23 | 2023-04-05 |
 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 | 2023-02-13 |  |
 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 | 2023-02-13 |  |
 | [Teadar Tetkalem](https://open.spotify.com/track/2OTxhOuz8c1s7um0tgumox) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Allem Alby](https://open.spotify.com/album/5KKjAxjoLCUnKfcGfoncKb) | 4:53 | 2023-02-13 |  |

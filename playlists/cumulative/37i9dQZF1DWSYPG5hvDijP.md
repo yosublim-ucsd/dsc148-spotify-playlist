@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover\- Raftaar & Prabh Deep
 
-74 songs - 4 hr 8 min
+77 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,11 @@
 | [Dooba](https://open.spotify.com/track/09U9zwWGgDlVMp0s5PReJj) | [Void](https://open.spotify.com/artist/3rPEiLwMVfd4Vg3BlRbuJK), [Exult Yowl](https://open.spotify.com/artist/6szIEcaQzaFdMn8e1UQzwU) | [Lonely December](https://open.spotify.com/album/6XxG32SXPyQLwhYeH1KKZf) | 3:15 | 2023-03-29 |  |
 | [Dramebaaz](https://open.spotify.com/track/2rUGjnnd2R3O3Jue3V9Fru) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy), [Mack Varpe](https://open.spotify.com/artist/4bw3C9UYH7zW8gGEQMFcLO) | [The Come Up](https://open.spotify.com/album/4yubq6bM4FV9boh6CdzOzT) | 3:28 | 2023-03-29 |  |
 | [Fat Kid](https://open.spotify.com/track/2rYrke10PM98XvXoqJxIj8) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [Fat Kid](https://open.spotify.com/album/0B9Kp31d5ACQZLfy5mYVqV) | 2:45 | 2023-03-29 |  |
+| [First Time](https://open.spotify.com/track/3t12V5tOhYpII5lnsOPSWp) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Darcy](https://open.spotify.com/artist/3xvADMpYPWtCgilD8EljCp) | [First Time](https://open.spotify.com/album/7nst6x6pfFRYSYtBrw9BYp) | 2:55 | 2023-04-04 |  |
 | [Flex Kar](https://open.spotify.com/track/6Xt4fng2W4XDW2CWzGa0Nn) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:41 | 2023-03-29 |  |
 | [FUKA SARI RAAT](https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [FUKA SARI RAAT](https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8) | 4:21 | 2023-03-29 |  |
 | [GANGNUM](https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:50 | 2023-03-29 |  |
+| [GHAM](https://open.spotify.com/track/3k1WE3i06G4xQb7ZrOWF15) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [GHAM](https://open.spotify.com/album/2ERqJtsLSUW44zqdAs4ixM) | 3:03 | 2023-04-04 |  |
 | [Glacier Gang](https://open.spotify.com/track/4oPPeiS1itm0FKJxRzEG8m) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:13 | 2023-04-01 |  |
 | [Glitch](https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:30 | 2023-03-29 |  |
 | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 | 2023-03-31 |  |
@@ -59,6 +61,7 @@
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-29 |  |
 | [My Time](https://open.spotify.com/track/1Y5D5ru6mwruztcdnnk2XB) | [B\-Deep](https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y), [Rhymster](https://open.spotify.com/artist/3ZdzS4lByIrWU8bXbeDwnN) | [My Time](https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh) | 2:42 | 2023-03-29 |  |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-29 |  |
+| [NAZAR](https://open.spotify.com/track/2suAYGhBT7vR26s5dNy9OL) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Bhaari Beatz](https://open.spotify.com/artist/6v9M80x40ECfeJwd7RH8Vk) | [NAZAR](https://open.spotify.com/album/1JDJOJc1gOg4oo5ljm9siA) | 2:38 | 2023-04-04 |  |
 | [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 | 2023-03-29 |  |
 | [No Bro](https://open.spotify.com/track/2jOZLz9hP4XMQM0nROnP71) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [No Bro](https://open.spotify.com/album/1KnXWqS6TEpknwfmum0g9h) | 2:55 | 2023-03-29 |  |
 | [No Mercy](https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [No Mercy](https://open.spotify.com/album/2aBu3zCR9Z69Xy2fZuhQv0) | 3:10 | 2023-03-29 |  |

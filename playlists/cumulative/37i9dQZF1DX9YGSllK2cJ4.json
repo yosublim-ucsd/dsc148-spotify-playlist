@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-02",
-  "description": "Give yourself a break, cry it out, take comfort in these sad piano songs.",
+  "description": "Take comfort in these sad piano songs.",
   "name": "sad piano",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 177518,
       "name": "All At Once",
       "url": "https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 172322,
       "name": "Cadeques",
       "url": "https://open.spotify.com/track/4Be9pGAhN2aR1PTefJJX51"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 159871,
       "name": "Chalet High",
       "url": "https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 180000,
       "name": "Gaude",
       "url": "https://open.spotify.com/track/702r5Zp3MlUuhf2whnn9iW"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 126000,
       "name": "How it Used to Be",
       "url": "https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 129345,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/2UUuU4mUQU6P3Dp75WiODa"
@@ -3116,6 +3116,24 @@
       "duration_ms": 172000,
       "name": "Ocean Heart",
       "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
+    },
+    {
+      "album": {
+        "name": "Ocean of Time",
+        "url": "https://open.spotify.com/album/1OCYSqcbCFM58zstXftvUy"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135461,
+      "name": "Ocean of Time",
+      "url": "https://open.spotify.com/track/1Nl1QXLWVSG9nYuIjJqcwU"
     },
     {
       "album": {
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 139259,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/1W8N95zUTtQNllHu8Ki0sP"
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 168392,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4NBYp73qsxFh9yUUnMy6jz"
@@ -4302,7 +4320,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 156000,
       "name": "Steady The Ship",
       "url": "https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le"
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 151713,
       "name": "Sweet Memories",
       "url": "https://open.spotify.com/track/7vv3UtPoCPKD5WO7Y74Ixz"
@@ -4746,7 +4764,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 170500,
       "name": "Time Of Loneliness",
       "url": "https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7"

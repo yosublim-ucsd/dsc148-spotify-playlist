@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3318,6 +3318,24 @@
     {
       "album": {
         "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
+    },
+    {
+      "album": {
+        "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
       },
       "artists": [
@@ -3778,6 +3796,24 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "album": {
+        "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+        "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+      "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
     },
     {
       "album": {
@@ -4631,6 +4667,28 @@
     },
     {
       "album": {
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "album": {
         "name": "E\u0161te Sa Nejde Spa\u0165",
         "url": "https://open.spotify.com/album/2MI7lTfJDHeaN4fLAGQKFD"
       },
@@ -5132,7 +5190,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
@@ -6800,6 +6858,24 @@
       "duration_ms": 193506,
       "name": "I Hate the Way",
       "url": "https://open.spotify.com/track/3cN3ze6ErUKT3xghdZPQCw"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     },
     {
       "album": {
@@ -10890,7 +10966,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 195605,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
@@ -11724,7 +11800,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 226206,
       "name": "Phoneline",
       "url": "https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc"
@@ -12454,7 +12530,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 240059,
       "name": "Push Up - Original Mix",
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
@@ -12872,6 +12948,24 @@
       "duration_ms": 250145,
       "name": "Romantika",
       "url": "https://open.spotify.com/track/1XLlNi2bAp4GEiOrQ4tMgg"
+    },
+    {
+      "album": {
+        "name": "Rover - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Rover",
+      "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
     },
     {
       "album": {
@@ -13890,7 +13984,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 117528,
       "name": "SMOKE IT OFF!",
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
@@ -15784,7 +15878,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 191204,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
@@ -17077,6 +17171,24 @@
     },
     {
       "album": {
+        "name": "Pikachu",
+        "url": "https://open.spotify.com/album/6Ty38z2bPNsxe4koKmcB5D"
+      },
+      "artists": [
+        {
+          "name": "Picu",
+          "url": "https://open.spotify.com/artist/6OMXE5HedZYgaXI4Y7fe1d"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186769,
+      "name": "Whiskey Cola",
+      "url": "https://open.spotify.com/track/21E5ifBRaCw2Z8Ya5sW4LY"
+    },
+    {
+      "album": {
         "name": "Neveroddoreven",
         "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
       },
@@ -17952,6 +18064,24 @@
       "duration_ms": 87259,
       "name": "\u041d\u041d\u0414",
       "url": "https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q"
+    },
+    {
+      "album": {
+        "name": "XXV",
+        "url": "https://open.spotify.com/album/0Ks2rhymd89AJybNF83W4Q"
+      },
+      "artists": [
+        {
+          "name": "Ellai",
+          "url": "https://open.spotify.com/artist/0MW7VCX468MczakigaewMm"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171251,
+      "name": "\u041f\u043e\u043c\u043d\u044e \u0442\u0432\u043e\u0451 \u0442\u0435\u043b\u043e",
+      "url": "https://open.spotify.com/track/5fjvFWBdu0DDNwTKd8bkys"
     },
     {
       "album": {

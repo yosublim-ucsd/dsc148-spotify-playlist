@@ -1,12 +1,12 @@
 {
-  "description": "A little bit of pop, a little bit of rap. Cover: NF",
-  "num_followers": 189672,
+  "description": "A little bit of pop, a little bit of rap. Cover: Felly",
+  "num_followers": 189732,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDY2YWQzODZlZDE3NzE2OWNjZWMwNTk0YjY0OTI0YTVi",
+  "snapshot_id": "MTY4MDYzNDY1OCwwMDAwMDAwMDQ5MTQ0ZGMzZmI3ZTFiOGQyZjRkOWQyZDYyOGI3MmZh",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -29,22 +29,6 @@
       "url": "https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "do it all",
-        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "do it all",
-      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "Not A Beanie",
@@ -65,20 +49,108 @@
       "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-04-04 13:32:19",
       "album": {
-        "name": "UH OH",
-        "url": "https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO"
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
       },
       "artists": [
         {
-          "name": "Belaganas",
-          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
         }
       ],
-      "duration_ms": 172000,
-      "name": "UH OH",
-      "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        }
+      ],
+      "duration_ms": 138282,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
+    },
+    {
+      "added_at": "2023-04-04 13:41:51",
+      "album": {
+        "name": "2hrs",
+        "url": "https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 64722,
+      "name": "2hrs",
+      "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
+    },
+    {
+      "added_at": "2023-04-04 13:32:19",
+      "album": {
+        "name": "HDTV",
+        "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 124240,
+      "name": "Clyde & Bonnie",
+      "url": "https://open.spotify.com/track/3WtYZCuYuJ2COat7UhLbD3"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -95,6 +167,22 @@
       "duration_ms": 116957,
       "name": "pretty little lies",
       "url": "https://open.spotify.com/track/2b7T5ppABd36WyFQQXyix4"
+    },
+    {
+      "added_at": "2023-04-04 13:41:51",
+      "album": {
+        "name": "You Say",
+        "url": "https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 224250,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -129,44 +217,40 @@
       "url": "https://open.spotify.com/track/1ifhyypscRNLhEvXkv0zEU"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
+      "added_at": "2023-04-04 13:32:19",
       "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2"
+        "name": "wanna know",
+        "url": "https://open.spotify.com/album/6UWlNXrYXJzvrTwFyB2BzB"
       },
       "artists": [
         {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        },
+        {
+          "name": "JD Moon",
+          "url": "https://open.spotify.com/artist/3aFZe6Sx7dHhVkeKO2H7e9"
         }
       ],
-      "duration_ms": 138282,
-      "name": "Hazel Eyes",
-      "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
+      "duration_ms": 131300,
+      "name": "wanna know",
+      "url": "https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-04 13:41:51",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
+        "name": "Subluxe",
+        "url": "https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+          "name": "Healy",
+          "url": "https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
+      "duration_ms": 237157,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -183,6 +267,22 @@
       "duration_ms": 152043,
       "name": "Singin in the Shower",
       "url": "https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "UH OH",
+        "url": "https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO"
+      },
+      "artists": [
+        {
+          "name": "Belaganas",
+          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "UH OH",
+      "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -205,6 +305,22 @@
       "url": "https://open.spotify.com/track/6g5YTzEAhClnTivb4x6iBR"
     },
     {
+      "added_at": "2023-04-04 18:57:38",
+      "album": {
+        "name": "deep end",
+        "url": "https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "duration_ms": 144457,
+      "name": "deep end",
+      "url": "https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "age tape 8",
@@ -219,6 +335,26 @@
       "duration_ms": 177230,
       "name": "mr. sunshine",
       "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
+        "url": "https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ktlyn",
+          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
+      "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -241,6 +377,22 @@
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
+      "added_at": "2023-04-04 13:32:19",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5veZ0Z8W3HDqXiYrQvCWWl"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/0YAxwCrvS203to4rX3wlz8"
+    },
+    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "Movin'",
@@ -255,22 +407,6 @@
       "duration_ms": 130052,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo"
-    },
-    {
-      "added_at": "2023-03-09 19:53:35",
-      "album": {
-        "name": "MOTTO",
-        "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 217271,
-      "name": "MOTTO",
-      "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -309,24 +445,24 @@
       "url": "https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-04 13:32:19",
       "album": {
-        "name": "BEN",
-        "url": "https://open.spotify.com/album/1DSwhumlVPt9V5SPyUlk5K"
+        "name": "PURPLE RAG PRINCE",
+        "url": "https://open.spotify.com/album/1DEKTyc3STPJG5MFXUOKPR"
       },
       "artists": [
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          "name": "Baby Prince",
+          "url": "https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d"
         },
         {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+          "name": "Kedus",
+          "url": "https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx"
         }
       ],
-      "duration_ms": 173266,
-      "name": "I KNOW (feat. charlieonnafriday)",
-      "url": "https://open.spotify.com/track/0AkjMC7s58FVDm9u2ZED0U"
+      "duration_ms": 139009,
+      "name": "ISSUES",
+      "url": "https://open.spotify.com/track/10wnomX77L0VjAl0rTZWZA"
     },
     {
       "added_at": "2023-03-17 18:35:13",
@@ -391,6 +527,26 @@
       "duration_ms": 220704,
       "name": "white dress",
       "url": "https://open.spotify.com/track/2qbp0Z79WhS5myTcZGHPeH"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/1DSwhumlVPt9V5SPyUlk5K"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "I KNOW (feat. charlieonnafriday)",
+      "url": "https://open.spotify.com/track/0AkjMC7s58FVDm9u2ZED0U"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -597,26 +753,6 @@
       "url": "https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
-        "url": "https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Ktlyn",
-          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
-      "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "MISS ME",
@@ -663,22 +799,6 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-09-23 04:14:00",
@@ -1195,22 +1315,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "act right",
-      "url": "https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27"
       },
@@ -1259,22 +1363,6 @@
       "duration_ms": 189309,
       "name": "IMPATIENT",
       "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/5RmYLr4JvrT34dc5efzt6X"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/2JbwQteW6QQ2M2RIqGWY6h"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1477,22 +1565,6 @@
       "url": "https://open.spotify.com/track/66orvVes79w0dZao9ZIw97"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "lame ass",
-        "url": "https://open.spotify.com/album/0kr9yyqkAmBrla1OEgfvaz"
-      },
-      "artists": [
-        {
-          "name": "gianni & kyle",
-          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
-        }
-      ],
-      "duration_ms": 119946,
-      "name": "lame ass",
-      "url": "https://open.spotify.com/track/3A4yOd5WdPDW8o7YihEKA7"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "C'est la vie",
@@ -1595,22 +1667,6 @@
       "duration_ms": 158181,
       "name": "Decide",
       "url": "https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM"
-    },
-    {
-      "added_at": "2022-12-16 06:02:00",
-      "album": {
-        "name": "It Could Be Me",
-        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 127458,
-      "name": "It Could Be Me",
-      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     }
   ],
   "unique_name": "Varsity Bars",

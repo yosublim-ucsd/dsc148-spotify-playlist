@@ -1,12 +1,12 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 376920,
+  "num_followers": 377041,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NzQ3NiwwMDAwMDAwMDRiMWQ5NGMyZmUwMjI1Y2I4ZDgwM2I4YjE0MGExN2M4",
+  "snapshot_id": "MTY2NTY5NzQ3NiwwMDAwMDAwMDg4NDUwMjVjNWQzNjQwNzA2YzU5YjdkODA5N2M3Mjkz",
   "tracks": [
     {
       "added_at": "2022-10-13 21:44:36",
@@ -399,18 +399,26 @@
     {
       "added_at": "2022-10-13 21:44:36",
       "album": {
-        "name": "Lowe Mi",
-        "url": "https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3"
+        "name": "BLEU, Vol. 1",
+        "url": "https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe"
       },
       "artists": [
         {
-          "name": "Sevana",
-          "url": "https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS"
+          "name": "Navy",
+          "url": "https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao"
+        },
+        {
+          "name": "Marwin",
+          "url": "https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA"
+        },
+        {
+          "name": "Taste of Pluto",
+          "url": "https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT"
         }
       ],
-      "duration_ms": 234330,
-      "name": "Lowe Mi",
-      "url": "https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ"
+      "duration_ms": 175952,
+      "name": "Scorpio's Letter",
+      "url": "https://open.spotify.com/track/1YCa08t9po5O8BfuyzuCUE"
     },
     {
       "added_at": "2022-10-13 21:44:36",
@@ -451,26 +459,18 @@
     {
       "added_at": "2022-10-13 21:44:36",
       "album": {
-        "name": "BLEU, Vol. 1",
-        "url": "https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe"
+        "name": "Lowe Mi",
+        "url": "https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3"
       },
       "artists": [
         {
-          "name": "Navy",
-          "url": "https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao"
-        },
-        {
-          "name": "Marwin",
-          "url": "https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA"
-        },
-        {
-          "name": "Taste of Pluto",
-          "url": "https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT"
+          "name": "Sevana",
+          "url": "https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS"
         }
       ],
-      "duration_ms": 175952,
-      "name": "Scorpio's Letter",
-      "url": "https://open.spotify.com/track/1YCa08t9po5O8BfuyzuCUE"
+      "duration_ms": 234330,
+      "name": "Lowe Mi",
+      "url": "https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ"
     },
     {
       "added_at": "2022-10-13 21:44:36",

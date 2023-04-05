@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Foto: Nuevo Elemento\n",
-  "num_followers": 8803,
+  "num_followers": 8802,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDU3YzZkZmUxOGEwNjdmZmFhZTVjMzlmOThlODA3MWYz",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMGI2NGMzZDhjMzQ1ZmZlNTM0NjZlYjQxY2YyZjM4YzFm",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Amante De Lo Bueno",
         "url": "https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 184573,
       "name": "Ritmo Navide\u00f1o",
       "url": "https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Rock",
-        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 127373,
-      "name": "Navidad Rock",
-      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
+      "duration_ms": 253746,
+      "name": "Navidad Sin Ti - Live",
+      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "La Diva en Vivo",
-        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+        "name": "Navidad Rock",
+        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Navidad Sin Ti - Live",
-      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
+      "duration_ms": 127373,
+      "name": "Navidad Rock",
+      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Fiesta Universal",
-        "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 165773,
       "name": "Navidad, Feel The Magic",
       "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad Fiesta Universal",
+        "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
     }
   ],
   "unique_name": "La Posada",

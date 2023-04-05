@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 267883,
+  "num_followers": 268290,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAwNzI2NiwwMDAwMDAwMDg3NDM1ODdkMzNhYWQxM2NlZjkwNDU4YWVhNGNhMTZj",
+  "snapshot_id": "MTY4MDAwNzI2NiwwMDAwMDAwMDc3YTgwOThiMjY0ZjZhOWViNzgwODdkYjExN2Y5NGIy",
   "tracks": [
     {
       "added_at": "2023-03-28 12:41:06",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 252653,
       "name": "Ou Est Ma Tete?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 227426,
       "name": "O\u00f9 est la fantaisie ?",
       "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 233960,
-      "name": "Samba de mon c\u0153ur qui bat",
-      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Raconte-moi... (Bonus Edition)",
         "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "Samba de mon c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Fran\u00e7oise Hardy (Le premier bonheur du jour)",
         "url": "https://open.spotify.com/album/3oz5l8VzwwnFxIQTuD6WdM"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+      "duration_ms": 203840,
+      "name": "Plus bleu que tes yeux",
+      "url": "https://open.spotify.com/track/1TzWvpsXhggO68d6FNmanm"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -483,22 +499,6 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Plus bleu que tes yeux",
-      "url": "https://open.spotify.com/track/1TzWvpsXhggO68d6FNmanm"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Une histoire de plage",
-      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 217880,
       "name": "Le Temps Qui Passe",
       "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Une histoire de plage",
+      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 146306,
       "name": "Baudelaire",
       "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "La disparition",
         "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 238893,
       "name": "Le chien d'avant garde",
       "url": "https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Motifs",
         "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
     },
     {
       "added_at": "2023-03-28 12:41:06",

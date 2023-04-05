@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-5,452 songs - 8 day 15 hr 5 min
+5,453 songs - 8 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Aldorande](https://open.spotify.com/track/05m1FEZRZWmC9ZiTFs9b3Y) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Tone Down](https://open.spotify.com/album/3n4bc3ZLDhQBMx2Zp9CwaU) | 2:34 | 2023-01-20 |  |
 | [Algud](https://open.spotify.com/track/25HieURiGAzYHS2m4A2NRk) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Algud](https://open.spotify.com/album/7bKRlQGgleIbmuX9Sw2WTg) | 2:30 | 2022-04-08 | 2022-09-02 |
 | [Algún Día](https://open.spotify.com/track/24ec27kQZwotfP3Z0BuTT3) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5) | [Algún Día](https://open.spotify.com/album/5ahrSZGXHLHmji0OMSzzyM) | 2:13 | 2022-07-15 | 2022-10-28 |
-| [Alice](https://open.spotify.com/track/22wxDyfqvHg9IGx5sS2KCn) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l) | [Alice](https://open.spotify.com/album/609X0xPuQPhAunkrq3uTCL) | 1:47 | 2023-01-20 |  |
+| [Alice](https://open.spotify.com/track/22wxDyfqvHg9IGx5sS2KCn) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l) | [Alice](https://open.spotify.com/album/609X0xPuQPhAunkrq3uTCL) | 1:47 | 2023-01-20 | 2023-04-05 |
 | [Alkaline](https://open.spotify.com/track/5NcYbfmsJsApujb38SRiDQ) | [Corduroy Egg](https://open.spotify.com/artist/5E21RC40PseknqTaydpYNS), [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Alkaline](https://open.spotify.com/album/1rpoe3liuyVK4l8sffNx1Q) | 2:06 | 2022-09-02 | 2022-12-03 |
 | [Alkaline](https://open.spotify.com/track/0OLOedccgpHlbwbAVbq5E0) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Alkaline](https://open.spotify.com/album/1O1glf5xkwb3tjF24HUR5N) | 2:07 | 2021-12-17 | 2022-07-01 |
 | [All 'Bout All](https://open.spotify.com/track/2PFekKZfW95L2YjMoazzIU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [All 'Bout All](https://open.spotify.com/album/6U3nj28T1e3QlDYOfX4Cin) | 2:15 | 2022-11-11 |  |
@@ -2742,6 +2742,7 @@
 | [Loner](https://open.spotify.com/track/0uzalSDhWyfgZ7MZ9xS4AF) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Loner](https://open.spotify.com/album/7IaBoPLwzfZviy39Vm5I4k) | 2:27 | 2021-06-18 | 2022-01-14 |
 | [Long Distance](https://open.spotify.com/track/4UhqeING599zMYuMB6d0lS) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Long Distance](https://open.spotify.com/album/7bTgLQpYEzOiuauMAZUCXG) | 1:55 | 2021-12-17 | 2022-07-01 |
 | [Long Havel Beach](https://open.spotify.com/track/5rjKTV3kwTTjt3GZ4If1Wh) | [DJ Piper](https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ) | [Long Havel Beach](https://open.spotify.com/album/5DQxhIkQd6Pg3LnRtQYAkU) | 2:44 | 2022-10-28 | 2023-02-15 |
+| [Long Road](https://open.spotify.com/track/47oNON3ESZjvhiHaHJk8RI) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Long Road](https://open.spotify.com/album/4oMSBXrnswobIbi9FhwomW) | 1:48 | 2023-03-24 |  |
 | [Long Story Short](https://open.spotify.com/track/3TXsvG6SPvXFGyAPs6ZTbS) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Long Story Short](https://open.spotify.com/album/7ov9vbUqrWogXtJIF9EEQC) | 2:07 | 2023-02-07 |  |
 | [Long Way Home](https://open.spotify.com/track/4vMvv3T7NXeelqnGQtLPaE) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Cantsleep](https://open.spotify.com/artist/3NnWw90HvNCWgNi7vtKg4C), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Long Way Home](https://open.spotify.com/album/5CABCWpMknJ2J7M1FdOQWk) | 1:22 | 2019-12-30 | 2021-07-29 |
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 | 2022-10-07 |
@@ -3338,7 +3339,7 @@
 | [Nocturnal Jam](https://open.spotify.com/track/004OSCpetjM9yvyptALSea) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Nocturnal Jam](https://open.spotify.com/album/74Pvfp0THXRwk3hMgoTzGr) | 2:01 | 2019-09-10 | 2021-07-11 |
 | [NoMo](https://open.spotify.com/track/7LGVoBWWRSnRQ155By7MTW) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Locales](https://open.spotify.com/album/52bdxIEU01DgDltwHP6uJq) | 2:15 | 2019-08-18 | 2021-07-04 |
 | [Non](https://open.spotify.com/track/70Fpfvw4EwnTiInSc1U3e0) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Flitzer](https://open.spotify.com/album/7I13wkKorEyQq5WCU7e0Vv) | 2:41 | 2021-08-14 | 2022-03-12 |
-| [Non fare troppo tardi](https://open.spotify.com/track/71CdfEFJivpPR8GFljhiZn) | [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Non fare troppo tardi](https://open.spotify.com/album/553UrrCxRVqIV9jW4225lU) | 2:48 | 2022-11-25 |  |
+| [Non fare troppo tardi](https://open.spotify.com/track/71CdfEFJivpPR8GFljhiZn) | [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Non fare troppo tardi](https://open.spotify.com/album/553UrrCxRVqIV9jW4225lU) | 2:48 | 2022-11-25 | 2023-04-05 |
 | [Non Troppo](https://open.spotify.com/track/5769mk2Z62iRhm0qyIC3kn) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Non Troppo](https://open.spotify.com/album/4DneUqwjCEcFMexEmDa9p7) | 2:45 | 2022-07-22 | 2022-11-11 |
 | [Nonobody](https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Nonobody](https://open.spotify.com/album/4Yn55I0bFe87BrUFQIISXF) | 2:24 | 2022-10-14 | 2022-12-16 |
 | [noodle cup](https://open.spotify.com/track/44THmimSaDVlBDZ0MP7nLt) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [building](https://open.spotify.com/album/3kfMnWokZwz19CCVd7dDfZ) | 1:32 | 2019-12-14 | 2020-06-18 |
@@ -4085,7 +4086,7 @@
 | [see that](https://open.spotify.com/track/2r0CozI7P8SvynG5tNBDj9) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [see that](https://open.spotify.com/album/2O6KJjTnXSldtBqtlgEO6t) | 1:43 | 2019-12-06 | 2021-06-18 |
 | [See You Soon](https://open.spotify.com/track/01GBEMg8YxfQxbtL6kIXAL) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [See You Soon](https://open.spotify.com/album/4eTlNFMhqqhOLbjldHzwwE) | 2:32 | 2023-01-20 |  |
 | [Seed](https://open.spotify.com/track/7KRM5GwRCYx4cVcSvreuGu) | [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT), [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt) | [Seed](https://open.spotify.com/album/5qQs4Y2yQRc0E2P2dM3vsY) | 2:06 | 2022-11-18 | 2022-12-15 |
-| [Seed](https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt), [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Seed](https://open.spotify.com/album/0XWBYMTQbjCfpX6Avldc9i) | 2:06 | 2022-12-09 | 2023-04-03 |
+| [Seed](https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt), [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Seed](https://open.spotify.com/album/0XWBYMTQbjCfpX6Avldc9i) | 2:06 | 2022-12-09 |  |
 | [Seed](https://open.spotify.com/track/79WUjWnPOJsr8yj2sfLECa) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt), [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Seed](https://open.spotify.com/album/0SgcJJ5HX1aNU7CPN2BmRs) | 2:06 | 2022-10-21 | 2022-11-24 |
 | [Seeing](https://open.spotify.com/track/5IDC51zWQlUoddMmgLW1uc) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Seeing](https://open.spotify.com/album/5Jr6m3wkZy6Dmxe5N50Tkw) | 2:57 | 2019-12-23 | 2021-02-04 |
 | [Seguro](https://open.spotify.com/track/3YQiBUQKfZcC9bO1sdylTx) | [how c](https://open.spotify.com/artist/3PaZgLAo4doJONWMe97egg) | [Lefferts](https://open.spotify.com/album/0bYQB7Sc8oHwaBqQyIAvoW) | 1:33 | 2022-08-26 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-233 songs - 11 hr 51 min
+234 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 |  |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 |  |
+| [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 | 2023-04-04 |  |
 | [Consume Me](https://open.spotify.com/track/2eBajT1oKY0ugtD1Lc5zaq) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Consume Me](https://open.spotify.com/album/4Z5cARDkDPUcU2i5ona0GH) | 5:12 | 2023-01-13 |  |
 | [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 |  |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jhené Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,779 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,125 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 13 | [Take Control](https://open.spotify.com/track/10PWQfZulvHbnDfDQhiIVK) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/1YcCzdOzfpsuqjXlsSsshf) | 2:29 |
 | 14 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 |
 | 15 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
-| 16 | [Timeless](https://open.spotify.com/track/3a5aiBo7q33rfqpRqLuMhs) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Timeless](https://open.spotify.com/album/78p7OUay4SIL5CeBfRXdTl) | 3:00 |
+| 16 | [Timeless](https://open.spotify.com/track/3a5aiBo7q33rfqpRqLuMhs) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Timeless](https://open.spotify.com/album/78p7OUay4SIL5CeBfRXdTl) | 3:00 |
 | 17 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 |
 | 18 | [Forget Me \(feat\. Kiah Victoria\)](https://open.spotify.com/track/0CYY0gKTqAtlnIAhbdxt7u) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Kiah Victoria](https://open.spotify.com/artist/2JqGe5yK5vhJSJb0wPa7J9) | [Forget Me \(feat\. Kiah Victoria\)](https://open.spotify.com/album/6dFLJABwJbBxUfO0LydsBs) | 3:58 |
 | 19 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 69 | [Ultimatum](https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or) | 2:34 |
 | 70 | [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 |
 | 71 | [Before the World Ends](https://open.spotify.com/track/75PPriKhCpWpwxlT77byRK) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Before the World Ends](https://open.spotify.com/album/4j0ZjGoCDfC3SpTrOhZRbf) | 3:00 |
-| 72 | [Poed Up](https://open.spotify.com/track/4RvJeTlBaWDSEOqVSBIk1f) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Poed Up](https://open.spotify.com/album/0KqGvl9LbFqKEZgxqy4azU) | 3:19 |
+| 72 | [Poed Up](https://open.spotify.com/track/4RvJeTlBaWDSEOqVSBIk1f) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Poed Up](https://open.spotify.com/album/0KqGvl9LbFqKEZgxqy4azU) | 3:19 |
 | 73 | [Help Me Fight a Losing Battle](https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Help Me Fight a Losing Battle](https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT) | 3:34 |
 | 74 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 |
 | 75 | [Lay Up \(with SiR feat\. Syd\)](https://open.spotify.com/track/499Em55SsNJE2jG4Lk58iO) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 3:28 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 83 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 |
 | 84 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 | 85 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
-| 86 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 |
+| 86 | [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 |
 | 87 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 |
 | 88 | [Outside Freestyle](https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Outside Freestyle](https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F) | 2:50 |
 | 89 | [Stingy](https://open.spotify.com/track/2sMEuOP85yZM0qd6W4vxo0) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:20 |

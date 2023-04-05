@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 846666,
+  "num_followers": 849143,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDUzMmE0OTVhNThhZTk5Y2E4MzkxNzBjNGJkY2YwMmJi",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGRmY2Q4ZDAwYjZhYTM0N2U5Yzg3ODBhNGEyNGZhMzQz",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -51,26 +51,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 213495,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "The Mirage EP",
         "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 371903,
       "name": "The Mirage",
       "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Burning Out EP",
+        "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 324313,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Domino (David Guetta Remix)",
         "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Burning Out EP",
-        "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 324313,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
     },
     {
-      "added_at": "2023-04-04 01:10:53",
+      "added_at": "2023-04-05 00:51:09",
       "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184032,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "New Light",
         "url": "https://open.spotify.com/album/07iv0tkKefJPUp9RFDOuNQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 402198,
       "name": "Untold",
       "url": "https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184032,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
       },
       "artists": [
         {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
         }
       ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+        "name": "4 Lovers",
+        "url": "https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        },
+        {
+          "name": "Lia Paris",
+          "url": "https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ"
         }
       ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+      "duration_ms": 348411,
+      "name": "4 Lovers",
+      "url": "https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL"
     }
   ],
   "unique_name": "Lowkey Tech",

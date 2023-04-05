@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Hit\-Boy
 
-401 songs - 21 hr 26 min
+402 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Dmtri](https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Lamb Over Rice](https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm) | 4:34 | 2021-09-03 | 2022-08-06 |
 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 | 2022-10-21 |  |
 | [Don't Condone 2](https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Don't Condone 2](https://open.spotify.com/album/4hb0mt3XZ4gbUePCMoPYeQ) | 4:24 | 2022-06-10 | 2022-06-18 |
-| [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 | 2023-02-17 |  |
+| [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 | 2023-02-17 | 2023-04-05 |
 | [Dough & Damani](https://open.spotify.com/track/6rVExngxHtsUSdjmv7Xdxy) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [From King To A GOD](https://open.spotify.com/album/6DGCEJKSnaK626YgoElkjk) | 5:02 | 2021-09-03 | 2022-01-21 |
 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV) | 4:31 | 2022-06-17 | 2022-07-29 |
 | [Dropout Boogie](https://open.spotify.com/track/7pNGCmzKPTPUbAE7gAttTE) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Dropout Boogie](https://open.spotify.com/album/4ilCXDgIrmipXEBBBjMOiK) | 3:09 | 2021-09-03 | 2022-07-27 |
@@ -288,6 +288,7 @@
 | [Purple Rain Freestyle \(Game, Blouses\)](https://open.spotify.com/track/4eTCgsjXhdf5nDFDCAROes) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Purple Rain Freestyle \(Game, Blouses\)](https://open.spotify.com/album/0aUtcgWrtBpOMNCwacLrb1) | 2:40 | 2022-03-25 | 2022-07-17 |
 | [Pyrex Picasso \(feat\. Rick Hyde & Conway the Machine\)](https://open.spotify.com/track/7fA6XzRtQHoS2qebR7XW4R) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Pyrex Picasso \(feat\. Rick Hyde & Conway the Machine\)](https://open.spotify.com/album/4OlhZ1GJRs8Ui5xTcL1ozY) | 3:43 | 2021-09-03 | 2022-03-04 |
 | [Rain Falls](https://open.spotify.com/track/2FXNSDdjyrx855G0WMRTL1) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Rain Falls](https://open.spotify.com/album/4IU6tIFCwMuHk5f0CYEhSI) | 3:09 | 2023-02-17 | 2023-02-25 |
+| [Raised Different](https://open.spotify.com/track/1fwYvYMEdz5lOBXxjbez4T) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:46 | 2023-03-31 |  |
 | [Rapture](https://open.spotify.com/track/1icmxr6OxT03H4dHGOiLFX) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Rapture](https://open.spotify.com/album/5fqrdgpjqph188purcZUbj) | 3:59 | 2021-09-03 | 2022-04-19 |
 | [Ratchets](https://open.spotify.com/track/51scKFIVavfzXbtxexkUgr) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Ratchets](https://open.spotify.com/album/2C321RLGFMQ7aexKEf4q9i) | 3:42 | 2022-05-06 | 2022-05-14 |
 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 | 2023-02-24 |  |

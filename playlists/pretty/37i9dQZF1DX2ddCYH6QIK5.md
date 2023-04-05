@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Zylva, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,571 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,589 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 73 | [spiel](https://open.spotify.com/track/15eanqdJlpD7rz5o1aTN6O) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [spiel](https://open.spotify.com/album/6OyeNw5pm3Immt9nZ9PKvO) | 2:56 |
 | 74 | [bad news](https://open.spotify.com/track/0XDXLhOaVVzlE3VWaZcKie) | [katya.](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [bad news](https://open.spotify.com/album/3omyQTYldkBSvcmZlleVmq) | 2:59 |
 | 75 | [Altbau](https://open.spotify.com/track/2bPB5aL4jH4CbSC0gbFSAC) | [carls8erg](https://open.spotify.com/artist/4nZDWhkKuOHrd6OxwoslWp), [Yami Tarek](https://open.spotify.com/artist/01RCUa4hnfkFVGKvg4Nu0z) | [Altbau](https://open.spotify.com/album/4EF9cdooeKayIHbQQkzYam) | 5:08 |
-| 76 | [Bloodline](https://open.spotify.com/track/5wYBgTWun7J3OR4hPYuUyF) | [Soukou](https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz) | [bloodline](https://open.spotify.com/album/7Fn2D1GgUWa6zMEc7ErtlI) | 3:04 |
+| 76 | [bloodline](https://open.spotify.com/track/5wYBgTWun7J3OR4hPYuUyF) | [Soukou](https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz) | [bloodline](https://open.spotify.com/album/7Fn2D1GgUWa6zMEc7ErtlI) | 3:04 |
 | 77 | [Dreamy Choices](https://open.spotify.com/track/69Q1bQjUYgC4EjOdrKmzGG) | [Flimboy](https://open.spotify.com/artist/5EX8UexhWMMxPVU28DzdDb) | [Dreamy Choices](https://open.spotify.com/album/6Sz65Ba0zcJZOcLma5NXnW) | 3:26 |
 | 78 | [Headspace](https://open.spotify.com/track/79E4lV4arM5mzG8nwoNwkI) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [Headspace](https://open.spotify.com/album/1vx0GzKfansFH2pv3aW4Un) | 0:59 |
 | 79 | [Deine Großmutter](https://open.spotify.com/track/30hYXOMkOuMXH1SnQh9Ms6) | [Jessovski](https://open.spotify.com/artist/2XoogShjNMoUmUtzTQ406F) | [Nie Wieder Drama](https://open.spotify.com/album/4egs9wn5oB1RzBzQ1M3jpN) | 3:39 |

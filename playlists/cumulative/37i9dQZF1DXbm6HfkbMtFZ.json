@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 189586,
       "name": "I Want To See The Bright Lights Tonight",
       "url": "https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5"
@@ -6982,7 +6982,7 @@
           "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191395,
@@ -7612,7 +7612,7 @@
           "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219884,
@@ -8544,6 +8544,28 @@
       "duration_ms": 162280,
       "name": "Watch What Happens",
       "url": "https://open.spotify.com/track/5pLYbOJYUHdnim9lbjhN2C"
+    },
+    {
+      "album": {
+        "name": "Water Your Garden",
+        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Water Your Garden",
+      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
     },
     {
       "album": {

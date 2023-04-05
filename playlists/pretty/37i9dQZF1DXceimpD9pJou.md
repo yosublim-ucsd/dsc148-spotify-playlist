@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5?si=zguId75MQUyZns7qx7F1UA">Gocho</a> y <a href="https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd?si=rWizdY1GQwqOSm4ygMKFSQ">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,694 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,794 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

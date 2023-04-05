@@ -4,7 +4,7 @@
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-130 songs - 6 hr 4 min
+131 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-04-28 |  |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2022-04-28 |  |
+| [bacio gelato](https://open.spotify.com/track/62cxOsRZ7bUhDA64Rbhtcm) | [ambi pino](https://open.spotify.com/artist/70QpPcftSqRLCpdbzjBPIP) | [ricette de dolci](https://open.spotify.com/album/0h8S8rVorWb93CMm1U1SxC) | 1:36 | 2023-04-04 |  |
 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-04-28 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-11-14 |  |
 | [Bright Future](https://open.spotify.com/track/0oYlwENGLz35JbCLhl6IsF) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Bright Future](https://open.spotify.com/album/5k6FQ6oTsWvLRHrHz1zJcU) | 3:08 | 2022-04-28 |  |
@@ -57,7 +58,7 @@
 | [I Did It For Love](https://open.spotify.com/track/494O3PQF0EWff6xRMVXyzP) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [I Did It For Love \(Ambient Version\)](https://open.spotify.com/album/4en1d5L958f9rIbGfX8ct3) | 2:44 | 2022-04-28 |  |
 | [Illumination Station](https://open.spotify.com/track/0eMyBtn185nGUb0XIRA7l6) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Illumination Station](https://open.spotify.com/album/0VdEKg4JmE9UR3ZaSm9odk) | 2:58 | 2022-07-27 |  |
 | [Instrumental Doze](https://open.spotify.com/track/2szeJH7VZ82QZIemb7AnJV) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Instrumental Doze](https://open.spotify.com/album/3xwaqPaD9gVpCcGALWX7MV) | 2:03 | 2022-11-14 |  |
-| [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2022-04-28 |  |
+| [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2022-04-28 | 2023-04-05 |
 | [Keeping Secrets](https://open.spotify.com/track/6Gkl52QI2BIPzMvu3fF3AP) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keeping Secrets \(Ambient Version\)](https://open.spotify.com/album/1pcWYCCNfmYjogMKGZ92pU) | 2:16 | 2022-04-28 |  |
 | [Keepsake](https://open.spotify.com/track/7fB9VIIruC7mMRyRrToXet) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Keepsake](https://open.spotify.com/album/0F39TMowBXEmXMCpvgOKEI) | 3:09 | 2022-04-28 |  |
 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 | 2022-04-28 |  |
@@ -98,7 +99,7 @@
 | [Quiet Respite](https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Quiet Respite](https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p) | 2:43 | 2023-03-14 |  |
 | [Re\-Creation](https://open.spotify.com/track/5wZ7sKBs08UXxYQflzZQJJ) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Re\-Creation](https://open.spotify.com/album/5Pvp369gZThJy1GNGciDcX) | 3:25 | 2022-04-28 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-04-28 |  |
-| [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-04-28 |  |
+| [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-04-28 | 2023-04-05 |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2022-04-28 |  |
 | [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 | 2023-03-07 |  |
 | [Shadow Of A Thought](https://open.spotify.com/track/4X3GY7d1dAwOjLFsLl67Y6) | [Marcel Riviera](https://open.spotify.com/artist/6BMtPOM3rP39ICFOBxe5w7) | [Shadow Of A Thought](https://open.spotify.com/album/6eTmkgvSAZ0o3IpjOj44SF) | 2:41 | 2022-04-28 |  |

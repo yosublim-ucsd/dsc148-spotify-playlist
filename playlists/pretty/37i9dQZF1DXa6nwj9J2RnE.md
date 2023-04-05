@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,508 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,513 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 7 | [Waarheid](https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp) | [Cassandra Onck](https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW) | [Fractalnoia](https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq) | 3:31 |
 | 8 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 |
 | 9 | [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 |
-| 10 | [Simpel Leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 |
+| 10 | [simpel leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 |
 | 11 | [Startschot](https://open.spotify.com/track/5TYnWTit6kBSCJ3AfFZtJv) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Startschot](https://open.spotify.com/album/4pyUTzR03zB3F8cVmThH4H) | 3:59 |
 | 12 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 |
 | 13 | [Alleen In Bed](https://open.spotify.com/track/5YYGua7TW1KjqjqDO0EjqJ) | [Véras](https://open.spotify.com/artist/4xXJqw435dtoVF6WsncUcn), [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Het Niets](https://open.spotify.com/album/5qUBj35J2gbHxtnX8lbAZL) | 3:03 |

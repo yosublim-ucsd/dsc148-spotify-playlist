@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101272,
+  "num_followers": 101260,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDQwOCw5NTcxMzY1YjhhNzhmY2M5ZDlkNTVlNmM0ZDAzNmQxZmQ2NzE5ZDJm",
+  "snapshot_id": "NDQxMixhMTA1OTYwMmYzOTcwOTVlZGM5MDk5YmU5NDY2NmVkNDc4YWRkZDhj",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -39,22 +39,6 @@
       "duration_ms": 297794,
       "name": "Vibe Out",
       "url": "https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR"
-    },
-    {
-      "added_at": "2023-04-02 00:20:39",
-      "album": {
-        "name": "LOST AT SEA",
-        "url": "https://open.spotify.com/album/5mRz4EsbpK5jdZH3gYOVV6"
-      },
-      "artists": [
-        {
-          "name": "Hakami",
-          "url": "https://open.spotify.com/artist/5PCjZI5anffjjvWELUQNEV"
-        }
-      ],
-      "duration_ms": 198125,
-      "name": "OURS",
-      "url": "https://open.spotify.com/track/0k1umUayu5jjkTSucRkkNT"
     },
     {
       "added_at": "2022-07-26 20:08:37",
@@ -505,20 +489,20 @@
       "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
     },
     {
-      "added_at": "2023-03-27 14:13:50",
+      "added_at": "2023-04-02 00:20:39",
       "album": {
-        "name": "Plastic Sea",
-        "url": "https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog"
+        "name": "LOST AT SEA",
+        "url": "https://open.spotify.com/album/5mRz4EsbpK5jdZH3gYOVV6"
       },
       "artists": [
         {
-          "name": "Julian Maverick",
-          "url": "https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb"
+          "name": "Hakami",
+          "url": "https://open.spotify.com/artist/5PCjZI5anffjjvWELUQNEV"
         }
       ],
-      "duration_ms": 282750,
-      "name": "Plastic Sea",
-      "url": "https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb"
+      "duration_ms": 198125,
+      "name": "OURS",
+      "url": "https://open.spotify.com/track/0k1umUayu5jjkTSucRkkNT"
     },
     {
       "added_at": "2022-07-26 20:17:38",
@@ -1701,6 +1685,22 @@
       "url": "https://open.spotify.com/track/740tWsllt99upfwFNhhWEb"
     },
     {
+      "added_at": "2023-04-04 23:29:00",
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/10PPheokdPIsvkQngOp0gr"
+      },
+      "artists": [
+        {
+          "name": "Numasbala",
+          "url": "https://open.spotify.com/artist/0AcapFfxUCOQ7vUZaZMXgw"
+        }
+      ],
+      "duration_ms": 234708,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/4Q59vOpIKQBQfwu5ZJylDy"
+    },
+    {
       "added_at": "2023-03-27 00:11:06",
       "album": {
         "name": "22 Years",
@@ -1903,6 +1903,22 @@
       "duration_ms": 175761,
       "name": "Potion",
       "url": "https://open.spotify.com/track/0o7v7i6d18RbT2jRMf9T5N"
+    },
+    {
+      "added_at": "2023-04-04 15:18:26",
+      "album": {
+        "name": "See you again",
+        "url": "https://open.spotify.com/album/5toV7wKL0NQ5R4fKt84AuT"
+      },
+      "artists": [
+        {
+          "name": "Love, Kiss me",
+          "url": "https://open.spotify.com/artist/65nr1inM1HxII2tOrFHGvF"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "See you again",
+      "url": "https://open.spotify.com/track/0MdAEI3KPiwzpXDQQzvMAp"
     },
     {
       "added_at": "2023-03-17 00:29:40",

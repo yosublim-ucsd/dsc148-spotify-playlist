@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 525315,
+  "num_followers": 525408,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDU5YTY1Njk3YTcwNDJiMmMyMTZjNTdhNjM4YThiMGM3",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGVhMWQ4Njc4ZWMyNDQyOTliOTgyM2M1NTRlYTg3NWY2",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -831,22 +831,6 @@
       "duration_ms": 146622,
       "name": "Keep This Up",
       "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1327,22 +1311,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 185419,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -1355,6 +1323,22 @@
       "duration_ms": 212893,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 185419,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1389,6 +1373,22 @@
       "url": "https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191756,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Sticky",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 191756,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 196363,
       "name": "Never Coming Home",
       "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Sundressed & Nominee",
+        "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
+      },
+      "artists": [
+        {
+          "name": "Sundressed",
+          "url": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "So Poetic",
+      "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1471,22 +1471,6 @@
       "duration_ms": 185493,
       "name": "From The Outside",
       "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Sundressed & Nominee",
-        "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
-      },
-      "artists": [
-        {
-          "name": "Sundressed",
-          "url": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "So Poetic",
-      "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
-      },
-      "artists": [
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -1583,6 +1551,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+      },
+      "artists": [
+        {
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1635,6 +1619,22 @@
       "duration_ms": 193560,
       "name": "I Just Died in Your Arms",
       "url": "https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Four Year Strong",
+        "url": "https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 219762,
+      "name": "Go Down in History",
+      "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
     }
   ],
   "unique_name": "Punk Rock Workout",

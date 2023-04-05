@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk.
 
-107 songs - 6 hr 49 min
+108 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Coming Home](https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 3:58 | 2022-07-12 |  |
 | [Coming Home](https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 3:58 | 2021-12-17 | 2022-07-29 |
 | [Cool Drink of Water Blues](https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:27 | 2022-05-13 |  |
+| [County Farm Blues](https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR) | [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [County Farm Blues](https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx) | 2:44 | 2023-03-31 |  |
 | [Cruel Old World](https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Cruel Old World](https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB) | 2:52 | 2023-01-06 |  |
 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 | 2021-12-17 |  |
 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 | 2021-12-17 |  |
@@ -64,7 +65,7 @@
 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 | 2021-12-17 |  |
 | [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 | 2022-05-27 |  |
 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 | 2021-12-17 |  |
-| [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 | 2021-12-17 |  |
+| [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 | 2021-12-17 | 2023-04-05 |
 | [Mama Don't Tear Your Clothes](https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [That's All Right](https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS) | 1:56 | 2023-01-06 |  |
 | [Meet Me In The City](https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:17 | 2023-01-28 |  |
 | [Memoria Djalma](https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 5:32 | 2021-12-17 |  |

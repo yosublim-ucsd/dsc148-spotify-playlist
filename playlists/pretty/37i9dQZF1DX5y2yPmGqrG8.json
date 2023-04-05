@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 308003,
+  "num_followers": 308101,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk4MjY2OCwwMDAwMDAwMGNlOTg3NGY3NGQ0NzA1NDYyNDI0MDk4NDEyZWVhOTNh",
+  "snapshot_id": "MTY3OTk4MjY2OCwwMDAwMDAwMGU0ODU3MjIxYWEzMmVjOTMwYTNmZmE3NDdiMWU0MzY5",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
     },
     {
-      "added_at": "2023-04-04 01:14:05",
+      "added_at": "2023-04-05 01:12:54",
       "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/6CuNkx8H00E0nMAauEN4R4"
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Waende",
-        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
       },
       "artists": [
         {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 232742,
-      "name": "Waende",
-      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -623,6 +623,22 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Waende",
+        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
+      },
+      "artists": [
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 232742,
+      "name": "Waende",
+      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -723,22 +739,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
-      },
-      "artists": [
-        {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
-        }
-      ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Pipopapipo",
         "url": "https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
+      },
+      "artists": [
+        {
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
+        }
+      ],
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -801,36 +817,20 @@
       "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2023-03-03 04:12:28",
       "album": {
-        "name": "async",
-        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+        "name": "Warmth in the Dark",
+        "url": "https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
         }
       ],
-      "duration_ms": 232073,
-      "name": "solari",
-      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        }
-      ],
-      "duration_ms": 242624,
-      "name": "Hypnagogia",
-      "url": "https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z"
+      "duration_ms": 209500,
+      "name": "Warmth in the Dark",
+      "url": "https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr"
     }
   ],
   "unique_name": "Deep Listening",

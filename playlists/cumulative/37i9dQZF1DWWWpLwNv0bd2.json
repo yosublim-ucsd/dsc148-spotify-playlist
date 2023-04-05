@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "Naan Gaali (From \"Good Night\")",
+        "url": "https://open.spotify.com/album/4AjbDxRpAqUcm6GObKKmnm"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270352,
+      "name": "Naan Gaali - From \"Good Night\"",
+      "url": "https://open.spotify.com/track/2jG1qOcH57ZAsWARKfminr"
+    },
+    {
+      "album": {
         "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
         "url": "https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1"
       },

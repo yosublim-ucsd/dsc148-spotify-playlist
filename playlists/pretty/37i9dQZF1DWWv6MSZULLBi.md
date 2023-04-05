@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,952 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,949 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 25 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 26 | [Ordinary Life](https://open.spotify.com/track/6WglLNlpso0q61JbpmdczH) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Ordinary Life](https://open.spotify.com/album/2SrWPgxBxQxbUlhT6cb1bC) | 3:19 |
 | 27 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
-| 28 | [just wanna forget you](https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:49 |
+| 28 | [just wanna forget you](https://open.spotify.com/track/19FBPoxwTB7kbMEcYsDGVr) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:49 |
 | 29 | [Head for the Hills](https://open.spotify.com/track/5bHRKDpqLnd9BbEGVftLx3) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Head for the Hills](https://open.spotify.com/album/7GYcM2vYvD93Q0k1ECsUZR) | 4:39 |
 | 30 | [Blissful Lands](https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Blissful Lands](https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS) | 2:59 |
 | 31 | [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Take Care of You](https://open.spotify.com/track/2qBCc8sGAcYZJOb2sfxYMy) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [Imposter Syndrome](https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3) | 3:35 |
 | 100 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDk5YjZlYzdiYmJmZjM2MzI5NzdlOTZkNmI4YTJlYjRh`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGI4YmNiZDBkMDhjMzU3MzRkZjI1NWRjN2MxYjgxMzQz`

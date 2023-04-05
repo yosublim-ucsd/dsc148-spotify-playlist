@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:Gaho\(가호\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:JUNGKEY\(정키\)\) \(당신의 감성에 발라드, 려요\)
 
-838 songs - 2 day 6 hr 30 min
+839 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [I'm a fool](https://open.spotify.com/track/0qItZ9vDSIFleEQmsO6tsE) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'm a fool](https://open.spotify.com/album/7dBmfaZvykDeq4HFGsuaTG) | 4:31 | 2023-02-08 |  |
 | [I'm Not Okay](https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2) | 3:43 | 2022-03-29 | 2022-04-11 |
 | [I'm Still Here](https://open.spotify.com/track/2lATsh8Vw1NzPkcJFYAjDL) | [LEO](https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD) | [I'm Still Here](https://open.spotify.com/album/6rK6woUcQOXxJQWBWhMlUt) | 3:17 | 2022-03-24 | 2022-04-12 |
+| [I'm well \(Feat\. Jung Seung Hwan\)](https://open.spotify.com/track/7b9kjOw0vf4Ta1i2zBUgsg) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [i'm fine.](https://open.spotify.com/album/6d7vhEWUXu4cpyzMqCqR5Y) | 4:27 | 2023-04-04 |  |
 | [I've never loved you](https://open.spotify.com/track/6AaBhKdYEma1iTvjIeWxCX) | [The Bridge](https://open.spotify.com/artist/32X9J5qMQUohF6ROtz7CfS) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.24](https://open.spotify.com/album/0bUUJZ5y3X8ZGrNIhzM1vl) | 3:35 | 2023-02-24 |  |
 | [I.T.I.L.U](https://open.spotify.com/track/26mdRA51eua2K5gvFSWwcr) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 4:40 | 2022-03-31 | 2022-04-21 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2022-03-24 | 2022-04-21 |

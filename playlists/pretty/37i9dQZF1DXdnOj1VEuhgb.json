@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242",
-  "num_followers": 1204779,
+  "num_followers": 1205168,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUwOTg3NCwwMDAwMDAwMGM0MWFiNTdmYWM5Mzc4MmVmN2I1MjVjYzQwMWFlZTQ4",
+  "snapshot_id": "MTY4MDYxMzUwNCwwMDAwMDAwMGIzMTZlNGVkMDJlYjYxOTZmOWY4ZDk1NDBlMWI1OWI1",
   "tracks": [
     {
       "added_at": "2023-04-03 08:17:54",
@@ -91,7 +91,7 @@
     {
       "added_at": "2023-04-03 08:17:54",
       "album": {
-        "name": "Yakalarsan",
+        "name": "YAKALARSAN",
         "url": "https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP"
       },
       "artists": [
@@ -101,7 +101,7 @@
         }
       ],
       "duration_ms": 116499,
-      "name": "Yakalarsan",
+      "name": "YAKALARSAN",
       "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
     },
     {
@@ -251,6 +251,46 @@
     {
       "added_at": "2023-04-03 08:17:54",
       "album": {
+        "name": "\u0130MPARATOR",
+        "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "duration_ms": 124716,
+      "name": "\u0130MPARATOR",
+      "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
+    },
+    {
+      "added_at": "2023-04-03 08:17:54",
+      "album": {
+        "name": "TALIBANA",
+        "url": "https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "duration_ms": 158053,
+      "name": "TALIBANA",
+      "url": "https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT"
+    },
+    {
+      "added_at": "2023-04-03 08:17:54",
+      "album": {
         "name": "Sahibinden",
         "url": "https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z"
       },
@@ -283,26 +323,6 @@
     {
       "added_at": "2023-04-03 08:17:54",
       "album": {
-        "name": "\u0130MPARATOR",
-        "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
-      },
-      "artists": [
-        {
-          "name": "Heijan",
-          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
-        },
-        {
-          "name": "Muti",
-          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
-        }
-      ],
-      "duration_ms": 124716,
-      "name": "\u0130MPARATOR",
-      "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
-    },
-    {
-      "added_at": "2023-04-03 08:17:54",
-      "album": {
         "name": "OU LA LA",
         "url": "https://open.spotify.com/album/442jC8YPEqRlSceqb9hQiD"
       },
@@ -315,6 +335,30 @@
       "duration_ms": 134265,
       "name": "OU LA LA",
       "url": "https://open.spotify.com/track/24FZ92GqBPpb0mGjxFGFm3"
+    },
+    {
+      "added_at": "2023-04-03 08:17:54",
+      "album": {
+        "name": "Diyardan Diyara",
+        "url": "https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "duration_ms": 149732,
+      "name": "Diyardan Diyara",
+      "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
     },
     {
       "added_at": "2023-04-03 08:17:54",
@@ -347,50 +391,6 @@
       "duration_ms": 119230,
       "name": "Randuman / Ring Ring Ring",
       "url": "https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu"
-    },
-    {
-      "added_at": "2023-04-03 08:17:54",
-      "album": {
-        "name": "TALIBANA",
-        "url": "https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX"
-      },
-      "artists": [
-        {
-          "name": "DEHA INC.",
-          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
-        },
-        {
-          "name": "Reckol",
-          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
-        }
-      ],
-      "duration_ms": 158053,
-      "name": "TALIBANA",
-      "url": "https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT"
-    },
-    {
-      "added_at": "2023-04-03 08:17:54",
-      "album": {
-        "name": "Diyardan Diyara",
-        "url": "https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        },
-        {
-          "name": "Arem Ozguc",
-          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
-        },
-        {
-          "name": "Arman Aydin",
-          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
-        }
-      ],
-      "duration_ms": 149732,
-      "name": "Diyardan Diyara",
-      "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
     },
     {
       "added_at": "2023-04-03 08:17:54",

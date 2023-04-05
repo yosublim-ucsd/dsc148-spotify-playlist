@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. NAMIDA in cover!
 
-360 songs - 19 hr 56 min
+361 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 | 2022-08-12 |
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
-| [ALL'INFERNO C'È IL SOLE](https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [CARNE OSSA](https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX) | 4:20 | 2023-02-16 |  |
+| [ALL'INFERNO C'È IL SOLE](https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [CARNE OSSA](https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX) | 4:20 | 2023-02-16 | 2023-04-05 |
 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 | 2022-10-06 | 2022-11-11 |
 | [Always Before \(The Fire\)](https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Always Before \(The Fire\)](https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm) | 4:10 | 2022-05-09 | 2022-06-24 |
 | [AMERICA](https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [AMERICA](https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh) | 3:07 | 2023-02-23 |  |
@@ -302,6 +302,7 @@
 | [Spettri](https://open.spotify.com/track/7EDKymCkYNPVCxC599ecKj) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Spettri](https://open.spotify.com/album/5zfBbNIWDkoEuyGA8PnWcd) | 2:47 | 2022-10-27 | 2022-12-16 |
 | [Spiegami La Strada](https://open.spotify.com/track/5oZnLTJ9oX78dq21WTMa8G) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Spiegami La Strada](https://open.spotify.com/album/3iGU9NCxmQDQQsliddxRYm) | 2:35 | 2022-05-09 | 2022-05-27 |
 | [Spina Centrale](https://open.spotify.com/track/6KxPAdjK7n1Sp3czdnzkSc) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Kxrine](https://open.spotify.com/artist/6KeuOiKje8kElLvaLSYYR4) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:06 | 2022-07-16 | 2022-09-30 |
+| [Squot](https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd) | [filospada](https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ) | [Squot](https://open.spotify.com/album/6djLx5ZBsOs3m1XDchYLyq) | 2:50 | 2023-04-03 |  |
 | [Stanza vuota](https://open.spotify.com/track/5R1sQp1f5wNHWV3p9qfb7V) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido EP](https://open.spotify.com/album/3vXZS6gZjYW4R1hn01OosY) | 3:46 | 2022-11-10 | 2022-11-18 |
 | [Stare sveglio](https://open.spotify.com/track/1ERgcJITJ5bcd9eRWxnQMa) | [sonosem](https://open.spotify.com/artist/6krFvHoGuJyMjcjeFZRc0P) | [Da così lontano](https://open.spotify.com/album/77h73NDhSPBayfCsKrVs75) | 3:16 | 2022-05-09 | 2022-05-27 |
 | [Stasi](https://open.spotify.com/track/4D2n8bGDt0QajFrUiWMMDD) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Stasi / Un posto bellissimo](https://open.spotify.com/album/5L3zkBlyR0AQ9kjqgQrRic) | 5:29 | 2023-01-10 | 2023-02-24 |

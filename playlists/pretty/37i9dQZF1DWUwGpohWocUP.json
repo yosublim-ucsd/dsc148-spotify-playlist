@@ -1,6 +1,6 @@
 {
   "description": "The hitmaker <a href=\"spotify:artist:7vk5e3vY1uw9plTHJAMwjN\">Alan Walker</a> delights us with this summer-like mix, which includes tracks from his latest album \"Walkerverse\"",
-  "num_followers": 7186,
+  "num_followers": 8369,
   "original_name": "Alan Walker's DJ Mix",
   "owner": {
     "name": "Spotify",
@@ -400,12 +400,12 @@
       },
       "artists": [
         {
-          "name": "Bancali",
-          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
-        },
-        {
           "name": "SMACK",
           "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
         }
       ],
       "duration_ms": 77000,

@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 30322,
+  "num_followers": 30352,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDYwYjI1MWNiMjk0NDJlYjdhZjk2MzRhOWQ4NWJlODFl",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDY4NDBlMjQzYmMxZDkyYzk4MDQ3ZDRiNzg1NWE5NmEz",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
+        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
+        "url": "https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
         "name": "Antonio Aguilar Con Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 202373,
       "name": "Ando Que Me Lleva",
       "url": "https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
-      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
     }
   ],
   "unique_name": "La Dinast\u00eda de... Los Aguilar",

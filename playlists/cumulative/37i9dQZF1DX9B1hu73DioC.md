@@ -2,7 +2,7 @@
 
 ### [Indie Chillout](https://open.spotify.com/playlist/37i9dQZF1DX9B1hu73DioC)
 
-> Chill\. The best indie tracks for just hanging out.
+> The best indie tracks for just hanging out.
 
 608 songs - 1 day 12 hr 52 min
 
@@ -213,7 +213,7 @@
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2020-10-05\* | 2022-09-30 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2020-10-05\* | 2022-04-15 |
 | [From the Back of a Cab \- Ben Böhmer Remix](https://open.spotify.com/track/6OrLovzoCKCwsiGYydDpKt) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Changephobia Remixes: Part I + II](https://open.spotify.com/album/52hx36jPOBdw8Olunoirf5) | 3:26 | 2022-03-07 | 2022-07-22 |
-| [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2020-10-16 | 2023-04-01 |
+| [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2020-10-16 |  |
 | [GARDEN 2 \- Spencer\. Remix](https://open.spotify.com/track/4PTVeseRKeHsJyw3VuOKGS) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 1:29 | 2021-06-04 | 2022-06-03 |
 | [Gemini and Leo \- Edit](https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Gemini and Leo](https://open.spotify.com/album/2GWtyxZd4E4kPM98yglBVY) | 3:42 | 2021-06-25 | 2022-07-21 |
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2021-06-04 | 2022-07-28 |
@@ -415,7 +415,7 @@
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2020-11-17 | 2023-02-18 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
 | [On Ice](https://open.spotify.com/track/4GgIUzrjuTFQ00C2jGKIRr) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [On Ice](https://open.spotify.com/album/24TVy5RXnynUdVAhiCA2VS) | 2:47 | 2020-10-20 | 2022-06-01 |
-| [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 | 2023-03-10 |  |
+| [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 | 2023-03-10 | 2023-04-05 |
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-21 |
 | [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-18 | 2023-03-01 |
 | [One Trick Ponies](https://open.spotify.com/track/3NARYtRUkQEU6KCd9OgEfq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 5:21 | 2020-10-06 | 2022-04-20 |

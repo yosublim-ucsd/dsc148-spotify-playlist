@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by a number of our ambassadors for International Women\u2019s Day. Cover: Jamala.",
-  "num_followers": 875850,
+  "num_followers": 875809,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMDQ0YjkzYzY2ZWVhNDNkMjljMTNjMDY1ZDkzOGJkYzIz",
+  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMDIxMjczMWVjYWQ4YmE1MGI4YmQ0OTFlNjZhMTNlYzI2",
   "tracks": [
     {
       "added_at": "2023-03-05 05:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "The Kick Inside (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Wuthering Heights - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "All We Wanna Do",
         "url": "https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 186669,
       "name": "All We Wanna Do",
       "url": "https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "Gazoza",
-        "url": "https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Gazoza",
-      "url": "https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "The Kick Inside (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
+        "name": "Gazoza",
+        "url": "https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
         }
       ],
-      "duration_ms": 268933,
-      "name": "Wuthering Heights - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+      "duration_ms": 225333,
+      "name": "Gazoza",
+      "url": "https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "Fi 7eta Tanya",
+        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Fi 7eta Tanya",
+      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "When It's Going Wrong",
         "url": "https://open.spotify.com/album/0VlMxPSC0bAUieTVGKxtiS"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 113640,
       "name": "When It's Going Wrong",
       "url": "https://open.spotify.com/track/46rsYJCT5WAgzOzjTNZMVv"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "Fi 7eta Tanya",
-        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Fi 7eta Tanya",
-      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "KOLIR",
-        "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
-      },
-      "artists": [
-        {
-          "name": "ONUKA",
-          "url": "https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6"
-        }
-      ],
-      "duration_ms": 272108,
-      "name": "ZENIT",
-      "url": "https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/2yV6eZVN6U78Rq6cwRyQiG"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "KOLIR",
+        "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
+      },
+      "artists": [
+        {
+          "name": "ONUKA",
+          "url": "https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6"
+        }
+      ],
+      "duration_ms": 272108,
+      "name": "ZENIT",
+      "url": "https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Strawberry Icecream",
-        "url": "https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD"
+        "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
+        "url": "https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO"
       },
       "artists": [
         {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
         }
       ],
-      "duration_ms": 201920,
-      "name": "Strawberry Icecream",
-      "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
+      "duration_ms": 195500,
+      "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
+      "url": "https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
-        "url": "https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO"
+        "name": "Strawberry Icecream",
+        "url": "https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD"
       },
       "artists": [
         {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        },
-        {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
         }
       ],
-      "duration_ms": 195500,
-      "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
-      "url": "https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE"
+      "duration_ms": 201920,
+      "name": "Strawberry Icecream",
+      "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Rulett",
-        "url": "https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50"
-      },
-      "artists": [
-        {
-          "name": "OHNODY",
-          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Rulett",
-      "url": "https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "V\u00e9szterv",
         "url": "https://open.spotify.com/album/412dFhyBUdgL5zEJREk1r9"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 208000,
       "name": "V\u00e9szterv",
       "url": "https://open.spotify.com/track/2kEs4dk1Hjk6pay1XLyWFM"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Rulett",
+        "url": "https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50"
+      },
+      "artists": [
+        {
+          "name": "OHNODY",
+          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Rulett",
+      "url": "https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq"
     },
     {
       "added_at": "2023-03-05 05:00:00",

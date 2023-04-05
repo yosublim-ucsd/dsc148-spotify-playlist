@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2apWzyECwyZ.md) - [plain]
 
 > me van a extrañar...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,947,305 likes - 123 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,948,558 likes - 123 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

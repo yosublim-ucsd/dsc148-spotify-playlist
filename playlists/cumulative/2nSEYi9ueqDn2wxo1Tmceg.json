@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "High and Away",
+        "url": "https://open.spotify.com/album/1GrkIPhC3hFUn19y65FE3P"
+      },
+      "artists": [
+        {
+          "name": "Shirley Collins",
+          "url": "https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235430,
+      "name": "High and Away",
+      "url": "https://open.spotify.com/track/3jkxvUypqXWjfV8rVu0Pt8"
+    },
+    {
+      "album": {
         "name": "High Art Lite",
         "url": "https://open.spotify.com/album/1J9EFJI3G2fRrX8LtVWBbd"
       },

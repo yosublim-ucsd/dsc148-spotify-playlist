@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 198155,
+  "num_followers": 198278,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDA1ZWI0MDlmYzMwOTUxMTEwNTViYzNhZDA0NzFkYmY5",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGVlMzgwY2U1MjY3NTBjMzg4Y2ZkMDUwOGJlYTg3NzQ5",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
-      },
-      "artists": [
-        {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 280417,
       "name": "Crushed Ice",
       "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
         }
       ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
       },
       "artists": [
         {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Mangase / Hafi Deo",
-        "url": "https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq"
-      },
-      "artists": [
-        {
-          "name": "Tabu Ley Rochereau",
-          "url": "https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a"
-        }
-      ],
-      "duration_ms": 570275,
-      "name": "Hafi Deo",
-      "url": "https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Pure Sounds of Africa",
         "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 413560,
       "name": "Don't Go Lose It Baby",
       "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Mangase / Hafi Deo",
+        "url": "https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq"
+      },
+      "artists": [
+        {
+          "name": "Tabu Ley Rochereau",
+          "url": "https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a"
+        }
+      ],
+      "duration_ms": 570275,
+      "name": "Hafi Deo",
+      "url": "https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+      },
+      "artists": [
+        {
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+        }
+      ],
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 587050,
       "name": "Heartbeat - Club Mix",
       "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 404391,
+      "name": "Disco Illusion",
+      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Do It Do It Disco",
         "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 453706,
       "name": "Family - Stereo Version",
       "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 404391,
-      "name": "Disco Illusion",
-      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Dancing in Outer Space",
-        "url": "https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r"
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
       "artists": [
         {
-          "name": "Atmosfear",
-          "url": "https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF"
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
         }
       ],
-      "duration_ms": 577093,
-      "name": "Dancing in Outer Space",
-      "url": "https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH"
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     }
   ],
   "unique_name": "Disco Hi-Life",

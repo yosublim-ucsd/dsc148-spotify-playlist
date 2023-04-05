@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADYNE\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Glen Check\(글렌체크\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-572 songs - 1 day 11 hr 3 min
+573 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 | 2021-12-21 | 2022-07-27 |
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2023-01-11 |
+| [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 |  |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
 | [Cherry](https://open.spotify.com/track/5rQc2ZxLeXRcmusUrHDcVI) | [YOONCELL](https://open.spotify.com/artist/1JvaT2Ln0KyD2BH7apsQIT) | [Cherry](https://open.spotify.com/album/3SHy98pHEZyPAgfOEFRVIn) | 3:45 | 2021-12-21 | 2022-05-10 |
 | [CHERRY SHINE](https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [CHERRY SHINE](https://open.spotify.com/album/45ezUc1pJt4pFfT0nTNKG8) | 3:06 | 2022-03-21 | 2022-06-06 |
@@ -423,7 +424,7 @@
 | [Simulation](https://open.spotify.com/track/0Wg7v2z7wFx3CDi1DHYoqI) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:06 | 2022-03-31 | 2022-04-10 |
 | [Sink or Swim](https://open.spotify.com/track/7nbRp7GOxP6Y0tDCx6UU9j) | [Kang Soomin](https://open.spotify.com/artist/57TtAxK5tYOHcbcMFBxLHH) | [Sink or Swim](https://open.spotify.com/album/4ERUsXJCiE3H3ug4uwataj) | 3:07 | 2022-04-12 | 2022-04-20 |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-03 | 2022-07-11 |
-| [Sketch](https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt) | [ADYNE](https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4) | [Sketch](https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142) | 3:58 | 2023-03-28 |  |
+| [Sketch](https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt) | [ADYNE](https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4) | [Sketch](https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142) | 3:58 | 2023-03-28 | 2023-04-05 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 |  |
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-03-31 | 2022-04-16 |
 | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/track/0fDi32kFdHYXkdTgnPXS9U) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/album/2us6DVgvvpbxwvw3jBxBzk) | 2:37 | 2022-03-31 | 2022-05-26 |

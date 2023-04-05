@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-587 songs - 1 day 3 hr 8 min
+588 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Ajuda Pai](https://open.spotify.com/track/7x6CaJIBZB7bhdG9lUJN05) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Ajuda Pai](https://open.spotify.com/album/54QCecDXkhYlcWOVRnRmNR) | 2:50 | 2023-02-10 |  |
 | [Al Pacino](https://open.spotify.com/track/7FJbIWh8EztsUb0JoNtVjS) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [LongBoyStyle](https://open.spotify.com/artist/45UF6Pf7FIEmVZglU3Uf9S) | [Al Pacino](https://open.spotify.com/album/4F7jE2IG3m5thVY8vCq0Nv) | 1:16 | 2022-05-13 | 2022-07-09 |
 | [Alguma Fita](https://open.spotify.com/track/7uo4lRCXVsLX68Ert79fBi) | [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [c4](https://open.spotify.com/artist/52IfKVHb6UVghCxOoKhYxw) | [Alguma Fita](https://open.spotify.com/album/2ig5lu94VFx51HhqTbrMbO) | 2:15 | 2023-03-31 |  |
-| [Alquimia](https://open.spotify.com/track/645tK7yPGLfjBcTvMANzpM) | [Raycco](https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ) | [Alquimia](https://open.spotify.com/album/1EQimLwCueteXnWXTbg08y) | 2:06 | 2023-01-06 |  |
+| [Alquimia](https://open.spotify.com/track/645tK7yPGLfjBcTvMANzpM) | [Raycco](https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ) | [Alquimia](https://open.spotify.com/album/1EQimLwCueteXnWXTbg08y) | 2:06 | 2023-01-06 | 2023-04-05 |
 | [Alta Patente](https://open.spotify.com/track/4dh2B6BUHwD0CAEzioX53d) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Alta Patente](https://open.spotify.com/album/6DMVDC8NFCkb8QUHJVlyYf) | 3:17 | 2022-11-25 | 2022-12-03 |
 | [Alçando Voo](https://open.spotify.com/track/2xkkVqTj9Kxh5xFuC4mdwq) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Alçando Voo](https://open.spotify.com/album/0Rf45bb6kkjceOOvmsxy6K) | 2:36 | 2022-10-28 | 2022-11-12 |
 | [Ambição e Desejo](https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:59 | 2022-07-08 | 2023-03-04 |
@@ -455,6 +455,7 @@
 | [Puta Má](https://open.spotify.com/track/5dlsn3Rra8eUz4vqM7vV9I) | [Zvnt](https://open.spotify.com/artist/7IAvWOym99EaN5yJShXCDZ), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4), [Luchinha Jr](https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX) | [Puta Má](https://open.spotify.com/album/3x8eKSOj7x9ruB8Sh6uEZ4) | 2:07 | 2023-01-27 |  |
 | [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 | 2023-02-17 |  |
 | [Página 77](https://open.spotify.com/track/4oLSGyNJSCdCNBN9yMV2N8) | [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [Vivências](https://open.spotify.com/album/3FAmGXwkgx3i03IKsdcuBp) | 3:31 | 2023-01-13 | 2023-03-04 |
+| [Qual é Seu Problema](https://open.spotify.com/track/0kIJspcz5xm6QizWkfHh25) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Qual é Seu Problema](https://open.spotify.com/album/2IdVHQeJDj0oal9ymu4UuC) | 4:38 | 2023-04-04 |  |
 | [Quarta Dimensão](https://open.spotify.com/track/6Z3p7NVYk4exjmos3873VA) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [DJ Ingrid](https://open.spotify.com/artist/3q71k4pkDBUUn14oobY0O3), [Mr Break](https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf) | [Quarta Dimensão](https://open.spotify.com/album/0r5SYIXuZRCDW1XgtjNv9I) | 2:30 | 2022-07-01 | 2022-07-16 |
 | [QUARTA PAREDE](https://open.spotify.com/track/7vBQTO8YhgSzFJ5wWFnID2) | [deadpeace](https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA) | [QUARTA PAREDE](https://open.spotify.com/album/0upfozJoGeD483fvCMIRLf) | 1:48 | 2023-01-13 | 2023-02-04 |
 | [Que Jeito Né](https://open.spotify.com/track/7ojFriFoVgUwEXqykF4nFa) | [Logri](https://open.spotify.com/artist/1pDdBrq22wMmvTvms7RVEX) | [Que Jeito Né](https://open.spotify.com/album/2BtLNZVLZhdRcJI4DRrWEl) | 2:25 | 2022-10-28 | 2022-11-12 |

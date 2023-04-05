@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 191978,
+  "num_followers": 192046,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDI2ODhjYmM3ODM1YjU1Yjc4NzhiMmIyYjgyMmRlMDdj",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDdlZTkxMDc5MmVjYzZhYTE2OTBhNGFhNjRjNmU4N2Jm",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 187134,
-      "name": "Pretty Beautiful",
-      "url": "https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "'90s Kids",
         "url": "https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 187134,
+      "name": "Pretty Beautiful",
+      "url": "https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G"
     },
     {
       "added_at": "2023-01-31 10:01:12",

@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 136000,
       "name": "19-02-21",
       "url": "https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s"
@@ -550,6 +550,24 @@
       "duration_ms": 151000,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/4Kz0omQwqDHEZP714wEPUK"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144708,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/2spEwOTf21NJD8nPxpFbsa"
     },
     {
       "album": {
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 180218,
       "name": "Broparken",
       "url": "https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5"
@@ -3646,6 +3664,24 @@
       "duration_ms": 143500,
       "name": "Hope",
       "url": "https://open.spotify.com/track/30bZOzN1pRTpZzHiyHqozh"
+    },
+    {
+      "album": {
+        "name": "Hopelijk",
+        "url": "https://open.spotify.com/album/3CBJZX7YjdUt9Znda8dprR"
+      },
+      "artists": [
+        {
+          "name": "Annebelle Coenraad",
+          "url": "https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118252,
+      "name": "Hopelijk",
+      "url": "https://open.spotify.com/track/2s0aWHa34r7CbfzMjwfuOv"
     },
     {
       "album": {

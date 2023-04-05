@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 229154,
+  "num_followers": 229427,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGU5ZDk5MmI4MmQ0ZmJjOWY3NzQ3MDViMmY3ODczMTVi",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGNjYzE4ZGQ0OTQ4OTlhYmQ1OGNlZTVjNWI3MzJmMjZi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -753,6 +753,38 @@
       "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Sun Up To Sun Down (Remix)",
@@ -775,22 +807,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "They Fear Us",
         "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -853,6 +853,22 @@
       "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "RedZone / Dead or Alive",
+        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "RedZone",
+      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "DODGE A BULLET",
@@ -871,22 +887,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "RedZone / Dead or Alive",
-        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
-      },
-      "artists": [
-        {
-          "name": "Crossfaith",
-          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "RedZone",
-      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Telescope",
-        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
-      },
-      "artists": [
-        {
-          "name": "Tallah",
-          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
-        }
-      ],
-      "duration_ms": 249979,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "The Weight That Holds Me Here",
         "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Camel Dancefloor",
-        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
       "artists": [
         {
-          "name": "Igorrr",
-          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Camel Dancefloor",
-      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+      "duration_ms": 249979,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1031,6 +1015,22 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Camel Dancefloor",
+        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
+      },
+      "artists": [
+        {
+          "name": "Igorrr",
+          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Camel Dancefloor",
+      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Black Brick",
-        "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 447297,
-      "name": "Black Brick",
-      "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Rust on the Gates of Heaven",
         "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 331015,
       "name": "Shrinking Violet",
       "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Black Brick",
+        "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "duration_ms": 447297,
+      "name": "Black Brick",
+      "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
     },
     {
       "added_at": "2022-11-18 01:42:16",

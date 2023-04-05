@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 672223,
+  "num_followers": 672327,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGRhNTQ1MjVkMWEyNzljMWRjNWJjOTdiMzQ2MDdlZmYw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGU4YzliODNmYWVhNTg0OWI1NjU1ZjhjNWY5MmJhMTUx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "7\" Singles",
+        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
+      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "7\" Singles",
-        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
-      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus)",
       "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Greatest Hits And Others",
-        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Tribute To (Reissue)",
-        "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 215146,
       "name": "What's Going On - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Tribute To (Reissue)",
+        "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
-      },
-      "artists": [
-        {
-          "name": "Teddy Geiger",
-          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
-        },
-        {
-          "name": "teddy<3",
-          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
-        }
-      ],
-      "duration_ms": 241193,
-      "name": "Brass in Pocket",
-      "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        },
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
+        }
+      ],
+      "duration_ms": 241193,
+      "name": "Brass in Pocket",
+      "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
     },
     {
       "added_at": "2022-09-30 04:00:00",

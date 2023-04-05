@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 30064,
+  "num_followers": 30127,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTI2MCwwMDAwMDAwMGVhYjZjOGJiNTY2N2QxMzRmYzYwZGJmOTM0N2ViMjdl",
+  "snapshot_id": "MTY3OTAxMTI2MCwwMDAwMDAwMDlmM2M4OTM4ZDQxZGZhYjY2NmNkNDIwYTJlOTJkOTM0",
   "tracks": [
     {
       "added_at": "2023-03-17 00:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Stand Back!",
-        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cha Cha The Blues",
-      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Blues On The Bayou",
         "url": "https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 306733,
       "name": "Blues We Like",
       "url": "https://open.spotify.com/track/67nOaC07CjUkWbxnINEH4v"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Stand Back!",
+        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cha Cha The Blues",
+      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 94506,
+      "name": "Jigsaw Puzzle Blues",
+      "url": "https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 94506,
-      "name": "Jigsaw Puzzle Blues",
-      "url": "https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 185786,
       "name": "Side Tracked",
       "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -867,26 +851,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
       "artists": [
         {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        },
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
         }
       ],
-      "duration_ms": 418493,
-      "name": "Albert's Shuffle - 2002 Remix w/o Horns",
-      "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -911,22 +887,26 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Gaslighter's Ball",
-        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
         },
         {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
         }
       ],
-      "duration_ms": 190956,
-      "name": "Gaslighter's Ball",
-      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
+      "duration_ms": 418493,
+      "name": "Albert's Shuffle - 2002 Remix w/o Horns",
+      "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -963,18 +943,22 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Blueprint (Remastered 2017)",
-        "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
+        "name": "Gaslighter's Ball",
+        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 170441,
-      "name": "Unmilitary Two-Step",
-      "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
+      "duration_ms": 190956,
+      "name": "Gaslighter's Ball",
+      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -991,6 +975,22 @@
       "duration_ms": 267506,
       "name": "End Of The Blues",
       "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Blueprint (Remastered 2017)",
+        "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 170441,
+      "name": "Unmilitary Two-Step",
+      "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Put It",
         "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 210260,
       "name": "Put It",
       "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
       },
@@ -1095,50 +1079,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
       "artists": [
         {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
-        "name": "Blues On Blues",
-        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 183279,
-      "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
-        "name": "Boedo's Blues",
-        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 133088,
-      "name": "Boedo's Blues",
-      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1159,6 +1111,54 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Boedo's Blues",
+        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 133088,
+      "name": "Boedo's Blues",
+      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
         "name": "Alone With Yourself",
         "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Ain't That Lovin' You Baby",
-        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Boogie in the Dark",
-      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Roll Forward",
         "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 361689,
       "name": "Easy Does It Blues",
       "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Ain't That Lovin' You Baby",
+        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Boogie in the Dark",
+      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Blues On The South Side",
-        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
-      },
-      "artists": [
-        {
-          "name": "Homesick James",
-          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Homesick's Shuffle",
-      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 188293,
       "name": "The Screwdriver",
       "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Blues On The South Side",
+        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
+      },
+      "artists": [
+        {
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Homesick's Shuffle",
+      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
     }
   ],
   "unique_name": "Instrumental Blues",

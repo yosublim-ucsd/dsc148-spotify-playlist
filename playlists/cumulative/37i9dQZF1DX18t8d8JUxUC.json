@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 274780,
       "name": "Bajo el cielo azul de Marte",
       "url": "https://open.spotify.com/track/3uGEd3peltuV0SEympCowM"
@@ -606,6 +606,28 @@
       "duration_ms": 259226,
       "name": "Love Song - Helado Negro Remix",
       "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
+    },
+    {
+      "album": {
+        "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+        "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Oscar Isaac",
+          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198430,
+      "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+      "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
     },
     {
       "album": {

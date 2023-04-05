@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: slipmami, Ebony, LARINHX",
-  "num_followers": 31653,
+  "num_followers": 31742,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTY2MCwwMDAwMDAwMGJlOTA0MTE4OWEzNDg1MDNhNmFmZWYwZmMxYWIxMjlk",
+  "snapshot_id": "MTY4MDIzMTY2MCwwMDAwMDAwMDE3MjQ5ZTJlNDVlMzViZWNhNTMyY2UxNjhjMjI1ZmY0",
   "tracks": [
     {
       "added_at": "2023-03-31 03:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "DE CRIA PRA CRIA",
-        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
-      },
-      "artists": [
-        {
-          "name": "ABRONCA",
-          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
-        },
-        {
-          "name": "Lastra",
-          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
-        }
-      ],
-      "duration_ms": 140264,
-      "name": "DE CRIA PRA CRIA / MC Marcelly",
-      "url": "https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 153000,
       "name": "Melhor do Ano",
       "url": "https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
+        "name": "DE CRIA PRA CRIA",
+        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        },
+        {
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "duration_ms": 140264,
+      "name": "DE CRIA PRA CRIA / MC Marcelly",
+      "url": "https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -939,7 +939,7 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "QAOB",
+        "name": "Quando a Onda Bater",
         "url": "https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev"
       },
       "artists": [
@@ -953,7 +953,7 @@
         }
       ],
       "duration_ms": 156458,
-      "name": "QAOB",
+      "name": "Quando a Onda Bater",
       "url": "https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U"
     },
     {

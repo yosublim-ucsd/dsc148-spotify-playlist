@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 394400,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/4Ef3sKF6IIeJA6RGd49A11"
@@ -938,6 +938,32 @@
       "duration_ms": 372013,
       "name": "The Blood",
       "url": "https://open.spotify.com/track/5GDfnpfmkgYuvCVcY116XE"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Crystal Aikin",
+          "url": "https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf"
+        },
+        {
+          "name": "Kevin Lemons & Higher Calling",
+          "url": "https://open.spotify.com/artist/6n86jr80ui4KY5OMTyWVUg"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363674,
+      "name": "This is the Lord's Doing (feat. Crystal Aiken, Kevin Lemons & Higher Calling)",
+      "url": "https://open.spotify.com/track/1YHeESYShbCZxmqqdY8apS"
     },
     {
       "album": {

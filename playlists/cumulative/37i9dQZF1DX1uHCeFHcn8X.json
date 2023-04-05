@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mellow songs from the 2010s. Cover: <a href=\"spotify:artist:5Mq7iqCWBzofK39FBqblNc\">Jessie Ware</a>",
+  "description": "Mellow songs from the 2010s. Cover: James Blake. Cover: <a href=\"spotify:artist:5Mq7iqCWBzofK39FBqblNc\">Jessie Ware</a>",
   "name": "Soft 10s",
   "tracks": [
     {
@@ -3713,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Life Round Here",
+      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+    },
+    {
+      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -4797,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300506,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/7rHIRFNCDu6o9LWtGMevK1"
+    },
+    {
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -5478,7 +5514,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 237533,
       "name": "Selfish Love",
       "url": "https://open.spotify.com/track/5hmLPzFW7oH8QQ9LRu1HUl"
@@ -7758,7 +7794,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 222066,
       "name": "Wildest Moments",
       "url": "https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly"

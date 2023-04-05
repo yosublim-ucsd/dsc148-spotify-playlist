@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\. Cover: Chloë
+> The pulse of R&B music today\. Cover: Chlöe
 
 281 songs - 16 hr 4 min
 

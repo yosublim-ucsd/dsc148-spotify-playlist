@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 477661,
+  "num_followers": 477816,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMDQzNzA3NmNjMzQ2OTY0NGJhNTE3OTc3NTM0ZDMxNjBm",
+  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMDU5YjNlMTVjMDIyZWQ1MmUwMmI5M2MyYzBhZDA5MmRj",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 257133,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
     },
     {
-      "added_at": "2023-03-17 11:15:09",
-      "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Let It All Go",
@@ -975,6 +959,22 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
+    },
+    {
+      "added_at": "2023-03-17 11:15:09",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Echos",
-        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Place We Were Made",
         "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Kaleidoscope Evening",
         "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
-      },
-      "artists": [
-        {
-          "name": "CokeCarl",
-          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 168080,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
+      },
+      "artists": [
+        {
+          "name": "CokeCarl",
+          "url": "https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2507,18 +2507,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl"
+        "name": "Paupers Field",
+        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
       },
       "artists": [
         {
-          "name": "Furns",
-          "url": "https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 265518,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO"
+      "duration_ms": 204333,
+      "name": "If the Creek Don't Rise",
+      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
     }
   ],
   "unique_name": "Spooning",

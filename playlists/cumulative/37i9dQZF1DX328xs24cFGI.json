@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 247560,
       "name": "Akatoki Reload",
       "url": "https://open.spotify.com/track/5x1TPaQj5dvPpPt18A2GpY"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 247066,
       "name": "Areta Kuchibiru wa Koi o Nakusu",
       "url": "https://open.spotify.com/track/6E2qAhW7I06HTPV4BJkPkK"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 249200,
       "name": "Budo Juice",
       "url": "https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 307493,
       "name": "Karen no Life",
       "url": "https://open.spotify.com/track/3Mt2KYnAFIW1jH3u1DJgE5"
@@ -570,6 +570,24 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/4NA1K3pMzd3RaJOFJXYl4m"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202658,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ"
     },
     {
       "album": {
@@ -656,7 +674,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 226085,
       "name": "Orange Days",
       "url": "https://open.spotify.com/track/3DiUeAXtGIivmWjTMimKwm"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 239440,
       "name": "Saraba!",
       "url": "https://open.spotify.com/track/2cpOJenpWVZrF6ag98V9aU"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 316440,
       "name": "Tabeta Ai",
       "url": "https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz"
@@ -1241,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        },
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250773,
+      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
+    },
+    {
+      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
       },
@@ -1385,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Kimochy Season",
+        "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248246,
+      "name": "\u54b2\u307e\u3046",
+      "url": "https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD"
+    },
+    {
+      "album": {
         "name": "\u5927\u5207",
         "url": "https://open.spotify.com/album/43IQqwqfhf1xBiFBfA6klF"
       },
@@ -1414,7 +1472,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 217512,
       "name": "\u597d\u304d\u3060",
       "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
@@ -1504,7 +1562,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 255914,
       "name": "\u604b\u98a8\u90aa\u306b\u306e\u305b\u3066",
       "url": "https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM"
@@ -1526,6 +1584,24 @@
       "duration_ms": 232476,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u82b1",
+        "url": "https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240044,
+      "name": "\u611b\u306e\u82b1",
+      "url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3"
     },
     {
       "album": {
@@ -1598,6 +1674,24 @@
       "duration_ms": 200050,
       "name": "\u6700\u4f4e",
       "url": "https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt"
+    },
+    {
+      "album": {
+        "name": "\u6c17\u6301\u3061\u306e\u7cf8",
+        "url": "https://open.spotify.com/album/0pm0eF38vMHFgTlFjWxnuR"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "\u6c17\u6301\u3061\u306e\u7cf8",
+      "url": "https://open.spotify.com/track/25tMiXWUNsH1IPfrUGQmCM"
     },
     {
       "album": {
@@ -1684,7 +1778,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 293479,
       "name": "\u7a7a\u3063\u307d",
       "url": "https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK"
@@ -1706,6 +1800,24 @@
       "duration_ms": 211500,
       "name": "\u7acb\u6625\u3001\u5742\u9053\u306b\u3066",
       "url": "https://open.spotify.com/track/1tTAF6VFTl5qXpNYdi62pm"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u66c7\u308a",
+        "url": "https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242633,
+      "name": "\u82b1\u66c7\u308a",
+      "url": "https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k"
     },
     {
       "album": {

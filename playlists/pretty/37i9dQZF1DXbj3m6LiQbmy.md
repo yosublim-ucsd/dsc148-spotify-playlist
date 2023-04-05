@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,324 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,329 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 2 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 |
 | 3 | [She's so differentə](https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [She's so differentə](https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps) | 4:23 |
 | 4 | [mi ami davvero?](https://open.spotify.com/track/0zfY0EORigBVMK5Y8VXbbp) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [mi ami davvero?](https://open.spotify.com/album/6rdzzMFUBmZRgraYqE2NrI) | 3:25 |
-| 5 | [Limiti](https://open.spotify.com/track/340ADpMLhgu8uFdo2RTwmT) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Limiti](https://open.spotify.com/album/3OAUDH6YcxdeTityP71SAL) | 2:17 |
+| 5 | [Limiti](https://open.spotify.com/track/340ADpMLhgu8uFdo2RTwmT) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Limiti](https://open.spotify.com/album/3OAUDH6YcxdeTityP71SAL) | 2:17 |
 | 6 | [Synthetic](https://open.spotify.com/track/6ZElZPKXUtsnzCAlE6VoxC) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Synthetic / Safe](https://open.spotify.com/album/2ZyoW04V9YBPlml0l5T3An) | 5:11 |
 | 7 | [Snap Out](https://open.spotify.com/track/1NSL9l3FVezZcX6fp0cuMC) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Snax](https://open.spotify.com/artist/5rjH376DhRy7PhQS32wtOg) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:25 |
 | 8 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 44 | [Tanti auguri](https://open.spotify.com/track/2LUmJjjBNx3LumAV3m19Je) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Raffaella Carrà](https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC) | 3:46 |
 | 45 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve) | 1:31 |
 | 46 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
-| 47 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
-| 48 | [lasciami andare!](https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/261yOLUxpmPNulXOMWg1Ky) | 3:15 |
-| 49 | [Satan in Love](https://open.spotify.com/track/19BrvODRFitoD156Syg7nW) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5) | 3:37 |
+| 47 | [Satan in Love](https://open.spotify.com/track/19BrvODRFitoD156Syg7nW) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5) | 3:37 |
+| 48 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 49 | [lasciami andare!](https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/261yOLUxpmPNulXOMWg1Ky) | 3:15 |
 | 50 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 |
 | 51 | [Tropicanal](https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7) | 4:20 |
 | 52 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 65 | [A Che Ora l'Amore](https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc) | [Club Domani](https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL) | 4:17 |
 | 66 | [Godi](https://open.spotify.com/track/6XpjLXTgXl3gHbrd5gM29p) | [Faust'o](https://open.spotify.com/artist/4BgqktLeGqB17L9WEVoGjV) | [Suicidio](https://open.spotify.com/album/0hL1QZ2GTU2EN9auyN4DcA) | 3:24 |
 | 67 | [Credo che tra un po'](https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Credo che tra un po'](https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF) | 3:38 |
-| 68 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
-| 69 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 |
+| 68 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 |
+| 69 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
 | 70 | [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 |
 | 71 | [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN), [Icon Mode](https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2) | [QUEERADISE](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 |
 | 72 | [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 |
-| 73 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
-| 74 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 73 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 74 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
 | 75 | [Mami Daddy](https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:30 |
 
-Snapshot ID: `MTY3OTY3ODI4NiwwMDAwMDAwMDQ4NDNhYTdmMzgyNDFkNjExMmZlZTA2NDlhODI1Y2Q1`
+Snapshot ID: `MTY3OTY3ODI4NiwwMDAwMDAwMDZiOTM2MDQyOGEwYTc0OGFjOGMyMTM5Y2E1NTQzMDUw`

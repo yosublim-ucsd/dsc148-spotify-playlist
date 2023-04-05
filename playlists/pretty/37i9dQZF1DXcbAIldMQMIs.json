@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 485749,
+  "num_followers": 485877,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMGZkOGM3ZTM3YTBkMzQzMDdjYmEwZmVkMjNlMWE4YmY5",
+  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMDk3ODQ5NThjMTBlMmFiODVjNzUyMDg1Yzc5OGU1NmE3",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Love Affair",
+      "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Love Affair",
-      "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
     },
     {
       "added_at": "2023-02-21 22:48:01",

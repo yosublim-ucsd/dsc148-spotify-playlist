@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 16423,
+  "num_followers": 16440,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDM0NDFlYTgyNjcyYTVkZWQwODJkYzhiMWE0MGQ1N2Zj",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGQxZDk1YzMyYzE1N2RjY2IwMTQxZmQ5N2IyY2ViNTRm",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 231626,
       "name": "Florcita de Card\u00f3n",
       "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Humanas Voces",
-        "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
-      },
-      "artists": [
-        {
-          "name": "Liliana Vitale",
-          "url": "https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF"
-        },
-        {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "La Estrella Azul",
-      "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Verdeado Dulzor",
         "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 151771,
       "name": "A la Ma\u00f1anita",
       "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Humanas Voces",
+        "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
+      },
+      "artists": [
+        {
+          "name": "Liliana Vitale",
+          "url": "https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF"
+        },
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "La Estrella Azul",
+      "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Vuelve a Sonar",
         "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 164394,
       "name": "Vuelve a Sonar",
       "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 212100,
       "name": "Zamba del Renacer",
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Ojitos Lindos",
-        "url": "https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0"
+        "name": "Melod\u00edas que sobran",
+        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
       },
       "artists": [
         {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+          "name": "Nosas",
+          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
         }
       ],
-      "duration_ms": 190438,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv"
+      "duration_ms": 208540,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
     }
   ],
   "unique_name": "Mujeres del Folklore",

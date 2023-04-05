@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-983 songs - 2 day 3 hr 4 min
+984 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-05 | 2022-03-07 |
 | [Ausfahrt](https://open.spotify.com/track/2zkCzK0YBafIS8UzhcuOxd) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 2:34 | 2022-11-19 | 2022-11-26 |
 | [Automatisch](https://open.spotify.com/track/6mMVJJkpzL5r9OyqX7VzBk) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1gr2uGne9hmcTVPCaadDX5) | 2:45 | 2022-04-30 | 2022-11-06 |
-| [Automatisch](https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 2:45 | 2022-11-05 |  |
+| [Automatisch](https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ) | 2:45 | 2022-11-05 | 2023-04-05 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-14 | 2022-11-29 |
 | [BABY MAMA DRAMA](https://open.spotify.com/track/7h9UFW1uC7b5DhBM21BwlK) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Reset The Levels IV](https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE) | 2:41 | 2022-11-12 | 2022-11-14 |
 | [Back 2 Back](https://open.spotify.com/track/3WYd36KfoOhfJOZAlwYy3t) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Back 2 Back](https://open.spotify.com/album/1dwvrgtyUo9G7Egf8VITYp) | 2:46 | 2021-10-03 | 2021-10-11 |
@@ -702,6 +702,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2022-03-09 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
+| [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-04 |  |
 | [Pakken Grof](https://open.spotify.com/track/6xRsuqHrhJu1V6KzshrjOW) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 3:25 | 2022-12-03 | 2022-12-10 |
 | [PANORAMA](https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:42 | 2022-05-14 | 2022-05-22 |
 | [Papa Mama](https://open.spotify.com/track/2hNXxcymoCnK2BCMjeN9wX) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Papa Mama](https://open.spotify.com/album/2NM9yRHI77ajeqjBEZNiob) | 2:42 | 2022-08-30 | 2022-09-04 |

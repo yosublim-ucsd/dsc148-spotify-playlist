@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 172880,
       "name": "A Lover Like Me",
       "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
@@ -936,6 +936,24 @@
       "duration_ms": 183452,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt"
+    },
+    {
+      "album": {
+        "name": "Belly Shots",
+        "url": "https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Belly Shots",
+      "url": "https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK"
     },
     {
       "album": {
@@ -8571,6 +8589,24 @@
     },
     {
       "album": {
+        "name": "Regnar",
+        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132352,
+      "name": "Regnar",
+      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
+    },
+    {
+      "album": {
         "name": "Stora dr\u00f6mmar s\u00e4ger aldrig goodbye",
         "url": "https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT"
       },
@@ -9908,7 +9944,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 182515,
       "name": "Sommarregn (feat. Hanna Ferm)",
       "url": "https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu"

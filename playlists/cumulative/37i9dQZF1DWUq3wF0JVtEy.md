@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-310 songs - 15 hr 13 min
+311 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Boss](https://open.spotify.com/track/6nKWZqp6hL5ROu8A6Z5Uq4) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Boss](https://open.spotify.com/album/0s9f6eCaISZJKe7krX12IS) | 3:04 | 2022-01-28 | 2022-08-12 |
 | [Breathin'](https://open.spotify.com/track/0zVVyVOnBmyh0giaGKgjFG) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Breathin'](https://open.spotify.com/album/1uJO6EsybIY0KZXIfmXx3G) | 2:43 | 2022-02-11 | 2022-02-14 |
 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-28 |  |
-| [Broke Bitch](https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Broke Bitch](https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB) | 3:21 | 2023-01-06 |  |
+| [Broke Bitch](https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Broke Bitch](https://open.spotify.com/album/62uCkdPVscfNWzzqIdSjxB) | 3:21 | 2023-01-06 | 2023-04-05 |
 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 | 2022-08-26 |  |
 | [Bumba Bass](https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Bumba Bass](https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn) | 2:13 | 2023-03-10 |  |
 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:04 | 2022-08-12 |  |
@@ -214,6 +214,7 @@
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-28 | 2022-07-31 |
 | [No Diggity](https://open.spotify.com/track/0msZYAfoPw8Jbhr8Ufxgs3) | [Zhnark](https://open.spotify.com/artist/4TFwiKetUJYXrUyTOMKEww) | [No Diggity](https://open.spotify.com/album/5TbmhZbiBAEM8S0gWYmLJf) | 3:38 | 2022-07-22 | 2022-08-11 |
 | [No Fun](https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:10 | 2022-07-22 | 2023-04-03 |
+| [No Fun](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:10 | 2023-03-31 |  |
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-21 | 2022-07-29 |
 | [No Joke](https://open.spotify.com/track/7kkgqUvwuGObCDQ2T7u9Mo) | [Frents](https://open.spotify.com/artist/4vc5Jd6VrKpKcsimzyMYFK) | [No Joke](https://open.spotify.com/album/559vyK5AT8NkA8jRFvrfsg) | 4:04 | 2022-06-21 | 2022-07-11 |
 | [No Man](https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34), [WEiRD GRRL](https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz) | [No Man](https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3) | 2:13 | 2021-12-17 |  |

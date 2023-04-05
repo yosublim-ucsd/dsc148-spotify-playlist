@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 81907,
+  "num_followers": 81927,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMDJmMDFmODZlZjQyYzcwMjA0YzRkY2Q2NGU1MjJiODgx",
+  "snapshot_id": "MTY2OTcxOTU4OCwwMDAwMDAwMGI3ODUyNDRmNDFiOTEwN2JlMGQzOTRhYWJmOTI0N2U4",
   "tracks": [
     {
       "added_at": "2022-11-29 10:59:48",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-11-29 10:59:48",
       "album": {
-        "name": "El Hob El Ha'ei'y",
-        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Fouad",
-          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
-        }
-      ],
-      "duration_ms": 344137,
-      "name": "El Hob El Ha'ei'y",
-      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
-    },
-    {
-      "added_at": "2022-11-29 10:59:48",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 374466,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"
+    },
+    {
+      "added_at": "2022-11-29 10:59:48",
+      "album": {
+        "name": "El Hob El Ha'ei'y",
+        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "duration_ms": 344137,
+      "name": "El Hob El Ha'ei'y",
+      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
     },
     {
       "added_at": "2022-11-29 10:59:48",

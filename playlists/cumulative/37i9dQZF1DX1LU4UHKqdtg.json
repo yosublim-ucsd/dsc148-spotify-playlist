@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TREASURE",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: STAYC",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 196357,
       "name": "AGAIN (feat. LEON)",
       "url": "https://open.spotify.com/track/0RZPROOanNDDjfGktwqEgL"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234082,
+      "name": "Agust D",
+      "url": "https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1"
     },
     {
       "album": {
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 183120,
       "name": "Beautiful Liar",
       "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 181508,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg"
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 96343,
       "name": "Here I Stand - Anime Edit",
       "url": "https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I"
@@ -5562,7 +5580,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 218051,
       "name": "MOONLIGHT SUNRISE (House remix)",
       "url": "https://open.spotify.com/track/6tL4bxYqICn7oFkM84F1Ik"
@@ -8228,6 +8246,24 @@
       "duration_ms": 189773,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Teddy Bear - Japanese Ver.",
+      "url": "https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o"
     },
     {
       "album": {

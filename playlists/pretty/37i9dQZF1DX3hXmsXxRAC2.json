@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 311604,
+  "num_followers": 311639,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGJkM2UyNjVjNWNkZjhhZmE3YTY2MWI0MjIwYjUwOTYx",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDE5MTA5Y2I3ZDdlYjhkNDk3NGU4ODcyYTNkZGU5MmFm",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 230800,
       "name": "He Venido a Pedirte Perd\u00f3n (with HA-ASH)",
       "url": "https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "Viva Juan Gabriel / Popurr\u00ed",
-      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Mi Tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 431533,
       "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
       "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "Viva Juan Gabriel / Popurr\u00ed",
+      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "La Vargas Ritual Chavela",
-        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Mi Tributo a Juan Gabriel",
         "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 284306,
       "name": "Con Tu Amor",
       "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "La Vargas Ritual Chavela",
+        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 188567,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "De\u0301jame Vivir",
-        "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Barajas",
-          "url": "https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP"
-        },
-        {
-          "name": "Natalia Aguilar",
-          "url": "https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "De\u0301jame Vivir",
-      "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 360823,
       "name": "Amor eterno",
       "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "De\u0301jame Vivir",
+        "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Barajas",
+          "url": "https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP"
+        },
+        {
+          "name": "Natalia Aguilar",
+          "url": "https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "De\u0301jame Vivir",
+      "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
     },
     {
       "added_at": "2021-12-29 23:38:25",

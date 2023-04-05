@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/10PPheokdPIsvkQngOp0gr"
+      },
+      "artists": [
+        {
+          "name": "Numasbala",
+          "url": "https://open.spotify.com/artist/0AcapFfxUCOQ7vUZaZMXgw"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234708,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/4Q59vOpIKQBQfwu5ZJylDy"
+    },
+    {
+      "album": {
         "name": "BAILE FUNK 5",
         "url": "https://open.spotify.com/album/0ZUtOcfkTQfq5dBkeQcEVD"
       },
@@ -27614,7 +27632,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 282750,
       "name": "Plastic Sea",
       "url": "https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb"
@@ -30486,6 +30504,24 @@
       "duration_ms": 224341,
       "name": "See The World",
       "url": "https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ"
+    },
+    {
+      "album": {
+        "name": "See you again",
+        "url": "https://open.spotify.com/album/5toV7wKL0NQ5R4fKt84AuT"
+      },
+      "artists": [
+        {
+          "name": "Love, Kiss me",
+          "url": "https://open.spotify.com/artist/65nr1inM1HxII2tOrFHGvF"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "See you again",
+      "url": "https://open.spotify.com/track/0MdAEI3KPiwzpXDQQzvMAp"
     },
     {
       "album": {

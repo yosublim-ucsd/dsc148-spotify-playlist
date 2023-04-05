@@ -4,7 +4,7 @@
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-1,679 songs - 3 day 4 hr 21 min
+1,680 songs - 3 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,6 +1367,7 @@
 | [SOS](https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [SOS](https://open.spotify.com/album/54jXnRNyDwbxJyGXiYUJDv) | 2:22 | 2022-10-14 | 2023-03-25 |
 | [southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [southview](https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki) | 2:50 | 2021-03-26 | 2021-12-20 |
 | [space coaster](https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Here or Heaven](https://open.spotify.com/album/0D52xN7k7iJuCAyJUo2gtw) | 2:27 | 2021-12-10 | 2022-04-29 |
+| [Spalarkle \(Alys\)](https://open.spotify.com/track/0olHacuNSrjufHYd5lvpCv) | [felicita](https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Spalarkle \(Alys\)](https://open.spotify.com/album/51VDi4dvyyzEm2BC2m1pqT) | 4:06 | 2023-04-04 |  |
 | [spawn](https://open.spotify.com/track/4MCpzM2jmfXrxpQ5GOYK1M) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [insignia's manor](https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a) | 1:47 | 2021-06-12 | 2022-01-13 |
 | [Spending all my time](https://open.spotify.com/track/6tEUPYdS5m5LmZnmARmOCT) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spending all my time](https://open.spotify.com/album/16FgJ80Z3rjPHtxXuvksi5) | 3:54 | 2020-12-11 | 2021-01-08 |
 | [Spinnin](https://open.spotify.com/track/6EoDOq2mWiPhXUdFpqzjD5) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Legendary Member](https://open.spotify.com/album/7dnGhtPF3xZVGZHyg8xvKw) | 3:41 | 2020-12-11 | 2021-01-08 |
@@ -1492,7 +1493,7 @@
 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 | 2020-10-13\* | 2021-02-10 |
 | [three cheers \(for worst fears\)](https://open.spotify.com/track/5JX9Zy4sTbhmXKub1rcwbC) | [Bleachh](https://open.spotify.com/artist/08JIRTIjSUPGQduJFVDXU2) | [three cheers \(for worst fears\)](https://open.spotify.com/album/16ceqSiRUZrf1YEnL4954c) | 1:28 | 2021-04-19 | 2021-09-15 |
 | [three feet tall 2010](https://open.spotify.com/track/1J2dCHRbpqzSpWFxglxBqG) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [thislandis](https://open.spotify.com/artist/0w55l1SoTkaZTig6KFIdk7) | [three feet tall 2010](https://open.spotify.com/album/1v4rnYjMeAdhj7qaA9NHng) | 2:39 | 2021-04-20 | 2021-09-22 |
-| [three wheels and it still drives!](https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [three wheels and it still drives!](https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV) | 3:20 | 2022-09-28 |  |
+| [three wheels and it still drives!](https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [three wheels and it still drives!](https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV) | 3:20 | 2022-09-28 | 2023-04-05 |
 | [Throatzillaaa](https://open.spotify.com/track/4BlT9iLV7q97uPfzA2f3LQ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Throatzillaaa](https://open.spotify.com/album/77EcVLpFeUi4oiUeaF36uO) | 3:05 | 2020-11-14 | 2021-07-15 |
 | [THUMBTAX](https://open.spotify.com/track/7wPKLSzl6SfJbzUcIuxSSz) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [THUMBTAX](https://open.spotify.com/album/0wJ2NI4f1oKkiEbD6hpV3j) | 2:30 | 2022-05-11 | 2022-07-09 |
 | [THUMP](https://open.spotify.com/track/2c7LWtI9d1lGmQDAJa6NaL) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [THUMP](https://open.spotify.com/album/04dbthOSE7NnVLYGmhopl8) | 2:34 | 2021-07-24 | 2022-01-13 |

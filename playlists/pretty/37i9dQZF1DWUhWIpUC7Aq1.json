@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 90058,
+  "num_followers": 90209,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDkzNTE2OWRkMmU2NzFjYTc3OTMyOWYwY2I3NmU2ZTAw",
+  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMGI3ZWQ3YTM4MWFhZmEyNmJjNzk2YWVkMzdjNWM3MmYy",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-04-04 00:09:01",
+      "added_at": "2023-04-05 00:08:40",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Cease To Begin",
-        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "No One's Gonna Love You",
-      "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Set Yourself On Fire",
-        "url": "https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw"
-      },
-      "artists": [
-        {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
-        }
-      ],
-      "duration_ms": 256053,
-      "name": "Your Ex-Lover Is Dead",
-      "url": "https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Places Like This",
         "url": "https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 194853,
       "name": "Heart It Races",
       "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Set Yourself On Fire",
+        "url": "https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "Your Ex-Lover Is Dead",
+      "url": "https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
-      },
-      "artists": [
-        {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "What\u2019s Important",
-      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/6LPR2A12So7G9V2WoZgTwd"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 198093,
       "name": "Oh to Be in Love",
       "url": "https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "What\u2019s Important",
+      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Just Another Diamond Day",
-        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Glow Worms",
-      "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 286533,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Just Another Diamond Day",
+        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Glow Worms",
+      "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
     },
     {
       "added_at": "2023-03-14 21:50:42",

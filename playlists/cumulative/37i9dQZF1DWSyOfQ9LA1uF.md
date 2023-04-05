@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-157 songs - 12 hr 9 min
+158 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Divine Gosa \- Switch Remix](https://open.spotify.com/track/129dJun5a4EQkHHyeBaXzK) | [Radioclit](https://open.spotify.com/artist/0WEKC3ONQljn5OPW3oc2Qz), [Switch](https://open.spotify.com/artist/5QIvu1WkpulTpOG9qz9nap) | [Switch \- The Remixes](https://open.spotify.com/album/626KZKzf2EQdVllMILIVPp) | 5:55 | 2021-01-12 | 2022-07-19 |
 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 | 2022-02-03 |  |
 | [Drop Down](https://open.spotify.com/track/6PsPqzP898zrkIWTDnaOEw) | [Designer Drugs](https://open.spotify.com/artist/57cAxOmmlpgjNDQovRUuXA) | [Hardcore/Softcore](https://open.spotify.com/album/4L6Jl6anOBJW6pMFocdjp4) | 3:47 | 2022-02-03 | 2022-07-28 |
+| [Drugs in My Body](https://open.spotify.com/track/0AKK3dHXpRSt0dmhMEzaKm) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Drugs in My Body](https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG) | 3:36 | 2022-08-24 |  |
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-01-12 | 2023-04-01 |
 | [Drugs in My Body](https://open.spotify.com/track/3zMGckymnR49aiI4R7ahbs) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/1swgxqOV0i9w5mVteU5Faq) | 3:36 | 2021-01-12 | 2022-07-29 |
 | [Drunk Girls \- Holy Ghost! Remix](https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6), [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Drunk Girls \(Holy Ghost! Remix\)](https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj) | 7:30 | 2021-01-12 | 2022-07-29 |
@@ -161,7 +162,7 @@
 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 | 2022-02-03 |  |
 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 | 2022-02-03 | 2023-01-28 |
 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 | 2022-08-24 |  |
-| [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 | 2022-02-03 |  |
+| [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 | 2022-02-03 | 2023-04-05 |
 | [You](https://open.spotify.com/track/37uDQ9iultffN3VQV8nU5j) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Passion](https://open.spotify.com/album/217EnKM918BRgm5ZbpIzqo) | 3:57 | 2022-02-03 | 2022-07-26 |
 | [You're My Heart \(CCENTURIESS Remix\)](https://open.spotify.com/track/31TzWmUMxeT6dgL2XTnVCv) | [Lioness](https://open.spotify.com/artist/1LVoFFTwquJPtOkyF0DVSN) | [Omens, Oracles & Signs \- Vol\. 1](https://open.spotify.com/album/4AkFRxQl0SSZF8BM6NLErL) | 6:18 | 2021-01-12 | 2022-07-29 |
 | [Zombies!](https://open.spotify.com/track/3BxBeWuefRTDxzNy5qFG5H) | [Designer Drugs](https://open.spotify.com/artist/57cAxOmmlpgjNDQovRUuXA) | [Zombies! / Back Up in This](https://open.spotify.com/album/6L75qyadavEpgZJkNtxFJZ) | 4:46 | 2022-02-11 |  |

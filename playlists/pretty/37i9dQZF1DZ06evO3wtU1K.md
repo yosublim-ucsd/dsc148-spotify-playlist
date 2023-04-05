@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,139 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,148 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [Jesus Lover Of My Soul \- Live](https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Jesus Lover Of My Soul \(Live\)](https://open.spotify.com/album/2nIy4tVIY02SlqsmpjtVp0) | 8:59 |
 | 50 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
 
-Snapshot ID: `MjgwMDg3NjEsMDAwMDAwMDBkOWI3YzMzYzk2OTQ2OTRkZGIxNzBhYWU3NjExOTMwZg==`
+Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBkYTA4YjllMDk5ZWQ5ZDYzZDBiZjYzMTU0ZTczNzA3ZQ==`

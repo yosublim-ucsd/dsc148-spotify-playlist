@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Hit-Boy",
-  "num_followers": 1606692,
+  "num_followers": 1606903,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDNmNWNiMWYxNTY4YWYxNTQwMDhhNGI0NGI2YjQ1Mzll",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDBjMTZmZWY1MTFmMWE1M2NmODgxOWZkNDVkNWU4MjU4",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 216884,
-      "name": "WHAT A DAY",
-      "url": "https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF"
+      "duration_ms": 230554,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 230554,
-      "name": "HEAVEN TO ME",
-      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
+      "duration_ms": 216884,
+      "name": "WHAT A DAY",
+      "url": "https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -403,18 +403,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "A Quarter Til",
-        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
       "artists": [
         {
-          "name": "A$AP Twelvyy",
-          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Jus Lef Phoenix",
-      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -439,26 +447,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Gang Signs (feat. ScHoolboy Q)",
         "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
       },
@@ -559,30 +559,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
-        "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
+        "name": "This Thing Of Ours",
+        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
       },
       "artists": [
         {
-          "name": "Dot Da Genius",
-          "url": "https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         },
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
-      "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
+      "duration_ms": 177373,
+      "name": "TV Dinners (feat. Boldy James & Sideshow)",
+      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -611,26 +607,30 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "This Thing Of Ours",
-        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
+        "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
+        "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Dot Da Genius",
+          "url": "https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         },
         {
-          "name": "Sideshow",
-          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 177373,
-      "name": "TV Dinners (feat. Boldy James & Sideshow)",
-      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+      "duration_ms": 185454,
+      "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
+      "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
+      "duration_ms": 98308,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2VXhwq2VuhVcLBsJa6A2wY"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -747,26 +767,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
       },
@@ -791,22 +791,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I'M REALLY LIKE THAT",
-        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
       "artists": [
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 98308,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2VXhwq2VuhVcLBsJa6A2wY"
+      "duration_ms": 180076,
+      "name": "Swamp Bitches (with Rico Nasty)",
+      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Wimbledon",
         "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
       },
@@ -931,6 +915,34 @@
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 226095,
+      "name": "Raised Different",
+      "url": "https://open.spotify.com/track/1fwYvYMEdz5lOBXxjbez4T"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -979,18 +991,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Running From Time",
-        "url": "https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7"
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
       },
       "artists": [
         {
-          "name": "Wale the Sage",
-          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 203906,
-      "name": "Don't Remind Me",
-      "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     }
   ],
   "unique_name": "Spilled Ink",

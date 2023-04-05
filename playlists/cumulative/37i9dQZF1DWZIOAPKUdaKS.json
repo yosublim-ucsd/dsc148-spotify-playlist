@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 161000,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 181793,
       "name": "Dorceto",
       "url": "https://open.spotify.com/track/2EEkvvplJVKLql7FrdUv2T"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 171827,
       "name": "Estebania",
       "url": "https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4"
@@ -3023,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190655,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV"
+    },
+    {
+      "album": {
         "name": "Fare la limonata",
         "url": "https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W"
       },
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 162000,
       "name": "Firmamentum Mysteria",
       "url": "https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO"
@@ -4090,7 +4108,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 173000,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp"
@@ -5944,7 +5962,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 141376,
       "name": "L\u00e9ana",
       "url": "https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf"
@@ -6362,6 +6380,24 @@
       "duration_ms": 144846,
       "name": "Mondegreen",
       "url": "https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J"
+    },
+    {
+      "album": {
+        "name": "Moondust",
+        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
+      },
+      "artists": [
+        {
+          "name": "Nina Fiadh",
+          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115565,
+      "name": "Moondust",
+      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
     },
     {
       "album": {
@@ -7874,7 +7910,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 137774,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/00QanQTFk1Ge3apIBahSGw"
@@ -9033,6 +9069,24 @@
     },
     {
       "album": {
+        "name": "Silva",
+        "url": "https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Silva",
+      "url": "https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT"
+    },
+    {
+      "album": {
         "name": "Silverfog",
         "url": "https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9"
       },
@@ -9278,7 +9332,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 138624,
       "name": "Solemn Resolve",
       "url": "https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z"
@@ -10694,6 +10748,24 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
+    },
+    {
+      "album": {
+        "name": "Utsjoki",
+        "url": "https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT"
+      },
+      "artists": [
+        {
+          "name": "Vegard",
+          "url": "https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143867,
+      "name": "Utsjoki",
+      "url": "https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH"
     },
     {
       "album": {

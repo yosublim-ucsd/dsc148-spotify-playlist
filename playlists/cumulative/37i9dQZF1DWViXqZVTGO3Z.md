@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-309 songs - 20 hr 6 min
+310 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Do You Hear What I Hear](https://open.spotify.com/track/4gTy5hUxyusgT1jy66cTeM) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Do You Hear What I Hear](https://open.spotify.com/album/6RL1rUhauhoIAs7VOiHeo6) | 3:12 | 2021-12-24 | 2022-07-28 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 | 2021-12-11 |  |
 | [Don't Forget The Star](https://open.spotify.com/track/7FXLfasvHRnGpnOyq7ThFo) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Merry Christmas To You \(Great Big Family Edition\)](https://open.spotify.com/album/1oQisAUbNQh9hNsNLzF9Pv) | 4:32 | 2021-12-11 | 2022-12-26 |
-| [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 | 2021-12-24 |  |
+| [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 | 2021-12-24 | 2023-04-05 |
 | [Emmanuel](https://open.spotify.com/track/3rpBkWpINIPd8F4m3u1BCx) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf) | [Emmanuel](https://open.spotify.com/album/57nrrOMHONlS0FgtFEi44P) | 3:59 | 2022-12-11 |  |
 | [Emmanuel](https://open.spotify.com/track/0PAQS2e3g3LMH5P0hTjWRh) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Songs](https://open.spotify.com/album/4TafV1ps3rMjGg80WWrMls) | 3:21 | 2021-12-24 | 2022-07-27 |
 | [Emmanuel \(God With Us Forever\)](https://open.spotify.com/track/3xdfuy4Jfy4IiIYNVp7Rsx) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Christmas](https://open.spotify.com/album/6LmDzGBei86ImM49AMFm4G) | 5:24 | 2021-12-11 |  |
@@ -96,6 +96,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-11 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/28w1ZQX25tnDIaHdMR9kbu) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Go Tell It on the Mountain](https://open.spotify.com/album/2WCkmIbCNpo4ulg7BeyfvU) | 3:13 | 2021-12-11 | 2023-01-21 |
 | [Go Tell It on the Mountain \(feat\. Brad Wheeler\)](https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh) | [GENTRI](https://open.spotify.com/artist/4sk2zZdhVRMhb1BEtcxUKf), [Brad Wheeler](https://open.spotify.com/artist/5IJ4o6qVqQHdD4ey0ZUl2F) | [Season of Light](https://open.spotify.com/album/5kUqoEk2Vuk9fmOfDCZFbB) | 4:02 | 2021-12-11 | 2022-07-29 |
+| [Go Tell It on the Mountain \(feat\. Home Free\)](https://open.spotify.com/track/4QRE8h1gpjERky2LpAedbY) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Christmas Carols, Vol\. 1](https://open.spotify.com/album/7bWrPU9hFL7sbtpDtvjrIM) | 3:13 | 2022-12-11 |  |
 | [Go Tell It On The Mountain \- Live](https://open.spotify.com/track/5bWg3hp1EpcNvpx2oIYOoZ) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Go Tell It On The Mountain \(Live\)](https://open.spotify.com/album/35g98G1HBr3Dt5hzzmHBR6) | 3:22 | 2021-12-24 | 2022-07-29 |
 | [God Made A Way](https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [God Made A Way](https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR) | 3:30 | 2022-11-26 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 | 2022-07-29 |

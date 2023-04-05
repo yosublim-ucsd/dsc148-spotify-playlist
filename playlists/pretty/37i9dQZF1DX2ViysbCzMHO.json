@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 118902,
+  "num_followers": 119034,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3MTQ1NywwMDAwMDAwMDFkY2Y2MjJiYWFjNGM0N2IyZmY2YjQ4YTI2Nzk0MjIw",
+  "snapshot_id": "MTY3ODk3MTQ1NywwMDAwMDAwMDNlNTA0NDA1NjgwMmY3MWE1ZTFlNDM2MDUyMmQ3MDRi",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Long Live Cowgirls (Me and a Fiddle)",
-        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 180997,
-      "name": "Long Live Cowgirls - Me and a Fiddle",
-      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 198026,
       "name": "Here Tonight - The Acoustic Sessions",
       "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Long Live Cowgirls (Me and a Fiddle)",
+        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 180997,
+      "name": "Long Live Cowgirls - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu"
     },
     {
-      "added_at": "2023-04-04 00:59:07",
-      "album": {
-        "name": "A Special Place (Acoustic)",
-        "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "A Special Place - Acoustic",
-      "url": "https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Gone Too Soon (Acoustic)",
@@ -1151,6 +1135,22 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2023-04-05 01:08:45",
+      "album": {
+        "name": "A Special Place (Acoustic)",
+        "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "A Special Place - Acoustic",
+      "url": "https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Forever and Always (Acoustic)",
-        "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
-      },
-      "artists": [
-        {
-          "name": "Brandon Davis",
-          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
-        }
-      ],
-      "duration_ms": 190190,
-      "name": "Forever and Always (Acoustic)",
-      "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Forever and Always (Acoustic)",
+        "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
+      },
+      "artists": [
+        {
+          "name": "Brandon Davis",
+          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
+        }
+      ],
+      "duration_ms": 190190,
+      "name": "Forever and Always (Acoustic)",
+      "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 204004,
       "name": "Better Off Gone (Acoustic Sessions)",
       "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Truth Is (Acoustic)",
-        "url": "https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Truth Is - Acoustic",
-      "url": "https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Acoustic Sessions EP",
         "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 179907,
       "name": "Almost Maybes - Acoustic",
       "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Truth Is (Acoustic)",
+        "url": "https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Truth Is - Acoustic",
+      "url": "https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Be The Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
+        "name": "Honestly (Deluxe)",
+        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
         }
       ],
-      "duration_ms": 182027,
-      "name": "Be The Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
+      "duration_ms": 212932,
+      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
+      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
     }
   ],
   "unique_name": "Nashville Stripped",

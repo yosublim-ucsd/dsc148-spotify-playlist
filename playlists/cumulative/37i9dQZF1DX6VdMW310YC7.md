@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,460 songs - 4 day 4 hr 45 min
+1,461 songs - 4 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [LA](https://open.spotify.com/track/1ovgUqDLSaOKZAs1vJiH77) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Kelsey Hayes](https://open.spotify.com/artist/39FaAZZJMPMpq0B50R7zXI) | [LA](https://open.spotify.com/album/1iR0FLtAi2eUZhtvrem7Rm) | 3:28 | 2020-03-20 | 2022-04-21 |
 | [La Luna](https://open.spotify.com/track/2co18Ij6kdf3kcfp5zm2Bv) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [RNSHW](https://open.spotify.com/artist/0vbnJYErPoTxFJsG59tSiP) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:57 | 2020-03-18 | 2022-10-13 |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2020-05-18 | 2020-10-09 |
-| [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2021-08-20 |  |
+| [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2021-08-20 | 2023-04-05 |
 | [Lac de Soi](https://open.spotify.com/track/4CDThn846W8Jp8Xqznv5B8) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Lac de Soi](https://open.spotify.com/album/59FbwgMdBY4gC50lCcKThZ) | 4:59 | 2020-10-13 | 2021-01-11 |
 | [Lake Arrowhead \- Radio Mix](https://open.spotify.com/track/5vB9br9McVS3HWZd9LhWD8) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lake Arrowhead EP](https://open.spotify.com/album/06WIiFArmoAHBCdFfQpz56) | 3:35 | 2020-05-18 | 2020-07-03 |
 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 | 2020-05-18 | 2021-12-21 |
@@ -1352,6 +1352,7 @@
 | [Unlimited](https://open.spotify.com/track/5QJ4fCLiWfciMMTuE4jHO3) | [Mind Of One](https://open.spotify.com/artist/1qlng3E5ZeVhUxyMZ6iQDW) | [Unlimited](https://open.spotify.com/album/1O4ncWEQOQzHgqjiPkBflH) | 4:42 | 2020-04-04 | 2020-10-09 |
 | [Unnamed Road](https://open.spotify.com/track/6uz7dl1ElFXDAPwDvuvXPS) | [Fake Blonde](https://open.spotify.com/artist/4WIVHIUe29ZeNptr17S4pD), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:43 | 2020-03-17 | 2022-04-20 |
 | [Until the Sun Needs to Rise](https://open.spotify.com/track/062wtUiIbPTivGLQxrA8X9) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:52 | 2020-03-16 | 2020-07-03 |
+| [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/7k8z1Z8hQqKnLLMQ5Ihzjk) | [Far From Here Remix Album](https://open.spotify.com/album/10qBFkA0NUFwbJaU6Iupa9) | 3:17 | 2023-03-10 |  |
 | [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/3PslwX8mesV86hl9fDi3fK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/7k8z1Z8hQqKnLLMQ5Ihzjk) | [Far from Here \(The Remix Album\)](https://open.spotify.com/album/5CTQ7JewiQo57VJ1LijJlz) | 3:17 | 2022-09-09 | 2023-03-23 |
 | [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/6PEbPKn0niL8xAQdUTBEfq) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Until We Leave the Ground \(Steve James Remix\)](https://open.spotify.com/album/6PUh8u9Ac70WAzjJAQDmuZ) | 3:17 | 2021-06-04 | 2022-10-13 |
 | [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 | 2021-08-13 | 2022-12-29 |

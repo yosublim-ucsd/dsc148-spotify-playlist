@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-330 songs - 14 hr 10 min
+333 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-04 |  |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-04 |  |
 | [After All](https://open.spotify.com/track/1NNxb9HgLDdGvrq4aIfaH0) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [After All](https://open.spotify.com/album/0LjEawGHQt8fln9x6FkG4b) | 2:20 | 2022-10-14 |  |
+| [After The Rain](https://open.spotify.com/track/1lRBerZ343b4uokzIzyMYY) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [After the Rain](https://open.spotify.com/album/4JH0SDLuwtuy6JFuwvAniJ) | 2:26 | 2023-04-04 |  |
 | [Aftontimma](https://open.spotify.com/track/1svRACx5V80ifZCa1xC6DJ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Aftontimma](https://open.spotify.com/album/0GUcfgnAq4LSrBPAUG92qC) | 2:40 | 2022-04-04 | 2022-12-24 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-04 |  |
 | [All I Know](https://open.spotify.com/track/0uyLuw53EGon6rU894LnDV) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 1:51 | 2022-11-18 |  |
@@ -100,6 +101,7 @@
 | [Goodnight Moon](https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Goodnight Moon](https://open.spotify.com/album/4v823p6Ws27vZ6IxpjwIQu) | 3:14 | 2022-04-04 |  |
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-04 |  |
 | [Grains of Time](https://open.spotify.com/track/19gF5KNJTpdA3mLoSl5CY4) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Grains of Time](https://open.spotify.com/album/4z6JqhA5nY307DOyxgLFHb) | 2:38 | 2022-07-07 |  |
+| [Graphite](https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Graphite](https://open.spotify.com/album/4PyRaAiVAtdzw5P47JFEqH) | 2:06 | 2023-04-04 |  |
 | [Haven](https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Haven](https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7) | 2:45 | 2022-04-04 |  |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-04-04 |  |
 | [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-04-04 |  |
@@ -110,7 +112,7 @@
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2022-04-04 | 2022-05-21 |
 | [Hideaway](https://open.spotify.com/track/3MKCO2mNSbhTbRu7x5qxev) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Hideaway](https://open.spotify.com/album/00wr0WdNovcbqyteByPHyc) | 2:21 | 2022-04-28 |  |
 | [Hiding Place](https://open.spotify.com/track/2zePaAERT1cj4MZKRtsiYt) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC), [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L) | [Hiding Place](https://open.spotify.com/album/4VX3JpR132r6qBSe5F9F4E) | 2:18 | 2022-10-14 |  |
-| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-04 |  |
+| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-04 | 2023-04-05 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-04-04 |  |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-04-04 | 2022-04-29 |
 | [How Soon](https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [How Soon](https://open.spotify.com/album/2ZaihQBGWPP9tOy1dprbks) | 2:50 | 2022-04-04 | 2022-12-24 |
@@ -233,7 +235,7 @@
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-22 |  |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2022-04-04 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-04 |  |
-| [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2022-04-04 |  |
+| [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2022-04-04 | 2023-04-05 |
 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 | 2022-04-04 |  |
 | [Satnam](https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z) | [Nathaniel Keys](https://open.spotify.com/artist/1hwg5trEAbDiMWVaV0jhpq) | [Satnam](https://open.spotify.com/album/4MZPC36fdwtJlnvFdI5H64) | 2:14 | 2022-12-22 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2022-05-20 |  |
@@ -293,6 +295,7 @@
 | [Timeless](https://open.spotify.com/track/4A6N096dpRTRlAGSkxsVrh) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Timeless](https://open.spotify.com/album/5LSs52IqwKW1p2HTqSU7zX) | 2:22 | 2022-04-04 | 2022-05-21 |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-20 |  |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-04 |  |
+| [Tomorrow](https://open.spotify.com/track/6S3uAaYflAG6653OxyJJ2Y) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Tomorrow](https://open.spotify.com/album/1lXQipR1KhZf5JRUwM5mDg) | 1:46 | 2023-04-04 |  |
 | [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-03-07 |  |
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2022-04-04 | 2022-05-21 |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-04 |  |

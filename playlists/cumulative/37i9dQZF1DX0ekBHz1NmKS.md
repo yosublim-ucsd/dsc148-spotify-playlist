@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-673 songs - 1 day 11 hr 42 min
+675 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 |  |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
-| [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 |  |
+| [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 | 2023-04-05 |
 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 | 2022-03-17 | 2022-07-29 |
 | [ABAJO](https://open.spotify.com/track/1GXd4kZSdrJEBo11WgQiDi) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [ABAJO](https://open.spotify.com/album/5dzPBGqHe0FOjEPxRWey2D) | 2:40 | 2022-01-27 | 2022-02-06 |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
@@ -59,6 +59,7 @@
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 | 2023-02-15 |
 | [Be My Guest](https://open.spotify.com/track/3kDzBMAOxpjfbPKrFOMlWt) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Be My Guest](https://open.spotify.com/album/7sgzSrEUBDcDX1yzXWxxVW) | 3:03 | 2022-04-01 | 2022-04-24 |
+| [Belly Shots](https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU) | 2:35 | 2023-03-30 |  |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 | 2023-03-18 |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-01-12 |  |
@@ -465,6 +466,7 @@
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |
+| [Regnar](https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Regnar](https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo) | 2:12 | 2023-03-30 |  |
 | [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 |  |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
@@ -536,7 +538,7 @@
 | [Sommardag](https://open.spotify.com/track/2LWwXk56lQAa5zuHd6snBB) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Naag Nool](https://open.spotify.com/album/1UTctXDMnBfSheaCnpT7O5) | 3:19 | 2021-12-16 | 2022-03-07 |
 | [Sommaren](https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Sommaren](https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043) | 2:53 | 2022-12-22 |  |
 | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/track/1XGr0Rdlrtx6QOUjw91lRX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Eah](https://open.spotify.com/artist/4Uj4hzPZNXOTHGdOsnCcF0) | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/album/4x6jVOB2d25n5WqHtCe9Mk) | 3:16 | 2021-12-16 | 2022-03-11 |
-| [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 | 2022-06-21 |  |
+| [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 | 2022-06-21 | 2023-04-05 |
 | [Sommartider hej!](https://open.spotify.com/track/1rUd5snXKfQ5TpCLvhBzGM) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe), [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Sommartider hej!](https://open.spotify.com/album/2THySII2sobcnUQRPVFgMT) | 3:17 | 2021-12-16 | 2022-02-10 |
 | [Sommartårar](https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Sommartårar](https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY) | 3:20 | 2022-09-15 | 2022-10-07 |
 | [Sover du själv?](https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Sover du själv?](https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP) | 3:03 | 2023-01-19 |  |

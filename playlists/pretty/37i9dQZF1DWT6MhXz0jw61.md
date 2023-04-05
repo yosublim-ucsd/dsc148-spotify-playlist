@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June & Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,110 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,696 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 |
+| 1 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 |
 | 2 | [Inwood Hill Park](https://open.spotify.com/track/4qZLrKsaGkYmVRGUviVPtk) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:09 |
 | 3 | [Barragán Lighting](https://open.spotify.com/track/5jJhS8m6vstzzeHdlGoHjt) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:32 |
 | 4 | [Valleys](https://open.spotify.com/track/060HXWUHaYpSUuBNCR59Z6) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [To See A Sunset](https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS) | 3:21 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 10 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
 | 11 | [Shimmy \(feat\. Joey Bada$$\)](https://open.spotify.com/track/7vL9rAHS2fLo8EjvGvtWr7) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 2:35 |
 | 12 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
-| 13 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 |
+| 13 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 |
 | 14 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 |
 | 15 | [Real Ones](https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Real Ones](https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4) | 3:48 |
 | 16 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 |
 | 100 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/4mmg0ZJlcATIM6pJQrdKVS) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:50 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGQwOWM0ZThlMGY3NTJjYzgyYTlmMTA4M2ViOTViM2Fh`
+Snapshot ID: `MTY4MDY1NTI3MSwwMDAwMDAwMGE5NmE1NmE5ZmU0ZjcxZGFmNDI5MjkwNmFmNmMxZjdi`

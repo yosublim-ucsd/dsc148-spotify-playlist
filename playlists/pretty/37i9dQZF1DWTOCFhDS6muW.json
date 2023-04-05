@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 18668,
+  "num_followers": 18685,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGVhMzY5NjMxMWU2NDVjYmMwNzg1NzdjYmFmYTBhNjI2",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDRhY2I4MDU0OTRiNGZlNzg3YjE0MjkzZGExNDljNTlj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -115,6 +115,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 248894,
+      "name": "Punta Raton - Remix",
+      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "El Otro Yo",
         "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 195578,
       "name": "Sopa de Caracol (Remix)",
       "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 3",
-        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
-        }
-      ],
-      "duration_ms": 248894,
-      "name": "Punta Raton - Remix",
-      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -231,18 +231,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+        "name": "Conexi\u00f3n Garifuna",
+        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
       },
       "artists": [
         {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 213321,
-      "name": "Laluda Bellu",
-      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -263,18 +263,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Conexi\u00f3n Garifuna",
-        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
       },
       "artists": [
         {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
         }
       ],
-      "duration_ms": 192954,
-      "name": "La Parranda (Sei Sei Bei)",
-      "url": "https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ"
+      "duration_ms": 213321,
+      "name": "Laluda Bellu",
+      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -375,18 +375,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/0QBeVEOHHD8170pvyCfqB3"
       },
       "artists": [
         {
-          "name": "Garifuna Kids",
-          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 396303,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+      "duration_ms": 196613,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -407,18 +407,34 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/0QBeVEOHHD8170pvyCfqB3"
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
       },
       "artists": [
         {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+          "name": "Garifuna Kids",
+          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz"
+      "duration_ms": 396303,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -435,6 +451,38 @@
       "duration_ms": 223973,
       "name": "El Encarguito",
       "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 2",
+        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -475,54 +523,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
-      },
-      "artists": [
-        {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
-        }
-      ],
-      "duration_ms": 205072,
-      "name": "Nafagua",
-      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Batalla de las Puntas, Vol. 10",
         "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
       },
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 113475,
       "name": "Vamos Vamos Todos Con la Seleccion",
       "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 2",
-        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
-      },
-      "artists": [
-        {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Si Pudiera Yo",
-      "url": "https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG"
     },
     {
       "added_at": "2020-05-26 15:53:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,218 likes - 170 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,639 likes - 170 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 87 | [That's The Way It Is](https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [That's the Way It Is](https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve) | 1:27 |
 | 88 | [I Took A Pill In Ibiza](https://open.spotify.com/track/1E5gES1ms01jbmsqrQGIM2) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [I Took A Pill In Ibiza](https://open.spotify.com/album/5ECbMHGv1TPtO4VfdgthB2) | 2:18 |
 | 89 | [I'm Good \(Blue\) \- lofi version](https://open.spotify.com/track/5tTBRgYnLmYVua7mbFbPMh) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [TODAY'S TOP HITS BUT IT'S LOFI, VOL\. 3](https://open.spotify.com/album/5tczhjfE1TI0dAAPGKWT0Z) | 2:01 |
-| 90 | [Waterfalls](https://open.spotify.com/track/3jmfoWW30Cuan6o9PVAx2P) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/40p2rxjyHKwvB94u7jrqrK) | 2:09 |
+| 90 | [Waterfalls](https://open.spotify.com/track/0trpTNoxD6tXWWuyZGlMIl) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/06iVppBWZfA1KdMpWRS3AM) | 2:09 |
 | 91 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 |
 | 92 | [Easy On Me](https://open.spotify.com/track/4p8GeNxLZQTNWcgySydMsZ) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [Schrubi](https://open.spotify.com/artist/7mV0Ig1YMYRc97fz3PlwZp), [lofi.dealer](https://open.spotify.com/artist/3A6LBlFVLooS63BpoSWIat) | [Easy On Me](https://open.spotify.com/album/582mmW0PmH58ARhZo0xH7E) | 2:44 |
 | 93 | [Shape of You](https://open.spotify.com/track/4HVV7MqZOh8wjcX7Umqpi5) | [Chill With Lofi](https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI) | [Covers Vol.8](https://open.spotify.com/album/2fgBzhZqddNd5N2tETKmaL) | 1:52 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 169 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 170 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MTY4MDUyNjMxOCwwMDAwMDAwMDcwNzI5MTI2NDkxOWU3MDkxMmQyM2U5YThiODJkNDlm`
+Snapshot ID: `MTY4MDUyNjMxOCwwMDAwMDAwMDU1YmEwMTllNTk5MzcwMDY2ZWNmOGNkNmEwMDNmNDcy`

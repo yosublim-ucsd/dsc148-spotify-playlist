@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,241 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,239 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 20 | [Qué de Raro Tiene](https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:22 |
 | 21 | [Te Acostumbraste](https://open.spotify.com/track/0KduQ09oGlWG27Y0W2wMD4) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Te Acostumbraste](https://open.spotify.com/album/020dEMnyiM4BjXunnmAHDh) | 2:37 |
 | 22 | [Pídeme](https://open.spotify.com/track/0BIdwub6gFNtiRe6NEGBtj) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Pídeme](https://open.spotify.com/album/6QRBG30LYs5knvpB9bZ3HK) | 3:32 |
-| 23 | [Lo Que Tú Necesitas](https://open.spotify.com/track/6fWodFG700HPzTeVz5uhC3) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Lo Que Tú Necesitas](https://open.spotify.com/album/3wlF7RXXhJnCPShqWaZ48U) | 2:49 |
+| 23 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 |
 | 24 | [Moreno](https://open.spotify.com/track/1vGRbBT2at9I46ok0RHMRh) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Mío](https://open.spotify.com/album/0w5ShYKbU9gB0w2d9cjLfm) | 3:17 |
 | 25 | [El Niño Más Grande](https://open.spotify.com/track/1MmATLgKp0Q8aNbph1FV37) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [El Niño Más Grande](https://open.spotify.com/album/73huhdqRQ4a9z47yIVLNKV) | 3:57 |
 | 26 | [Mezcal](https://open.spotify.com/track/2OB2qE2nRI9WGRkLtYrGwd) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Mezcal](https://open.spotify.com/album/2BFwJ5lMB5J1vTLCIDwibt) | 2:39 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 81 | [Tantita Pena](https://open.spotify.com/track/4tly3E8AM6NCQ54Q79iRoi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:28 |
 | 82 | [Niña Amada Mía](https://open.spotify.com/track/155jNGmWNRmzwnMqlHo9Ce) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:12 |
 | 83 | [Cóncavo Y Convexo](https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:23 |
-| 84 | [Yo Nací para Amarte](https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:26 |
+| 84 | [Nuestro Gran Secreto](https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:23 |
 | 85 | [Para Sacarte De Mi Vida](https://open.spotify.com/track/43dQwFD0vtPSprSEgGUceQ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Para Sacarte De Mi Vida](https://open.spotify.com/album/5Z19fEDWinrVN1AtzXjx45) | 4:03 |
-| 86 | [Nuestro Gran Secreto](https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:23 |
+| 86 | [Yo Nací para Amarte](https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:26 |
 | 87 | [Inocente](https://open.spotify.com/track/6cwPxkPg5Cf1Rb1mS4MZXY) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:06 |
 | 88 | [Que Seas Muy Feliz](https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 2:47 |
 | 89 | [Mudanza A La Luna](https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Cien Años](https://open.spotify.com/track/3XeHLWySChbhhvaZFRezpS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 2:54 |
 | 100 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
 
-Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGFlZjg0MzQxMzgyMzlmOTc3Nzg5NDgxMDE2ZDI5NDk2`
+Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGRlNmZhYWJlMDc2YzlkYjJhYzliYjBhODE5MjY0NDM2`

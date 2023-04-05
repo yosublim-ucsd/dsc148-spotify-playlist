@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,907 likes - 96 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,921 likes - 96 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

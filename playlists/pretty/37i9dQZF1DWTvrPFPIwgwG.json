@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cristina Mel",
-  "num_followers": 66161,
+  "num_followers": 66284,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDY4OGFkZjczMWVhZDYxOGJjMTY1MDE5OTAwNjJhOTY5",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGU3MTFlZmJjM2Y2OTYxY2JhODAwN2ZiN2EwNmU2ZWZi",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Aguenta Firme",
-        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
+        "name": "Fase do Deserto",
+        "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
       },
       "artists": [
         {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        },
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         }
       ],
-      "duration_ms": 278314,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
+      "duration_ms": 266020,
+      "name": "Fase do Deserto",
+      "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -835,22 +839,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Fase do Deserto",
-        "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
+        "name": "Aguenta Firme",
+        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
       },
       "artists": [
         {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        },
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Fase do Deserto",
-      "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
+      "duration_ms": 278314,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Vai Ter Festa",
+        "url": "https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "duration_ms": 329395,
+      "name": "Vai Ter Festa",
+      "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "O Grande \u00c9 Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bp3bCvhkPodACynHgxQoq"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 256000,
       "name": "O Grande \u00c9 Ele (Ao Vivo)",
       "url": "https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Vai Ter Festa",
-        "url": "https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX"
-      },
-      "artists": [
-        {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
-        }
-      ],
-      "duration_ms": 329395,
-      "name": "Vai Ter Festa",
-      "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
     },
     {
       "added_at": "2023-03-24 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Icona Pop
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,950 likes - 129 songs - 7 hr 1 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,946 likes - 129 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

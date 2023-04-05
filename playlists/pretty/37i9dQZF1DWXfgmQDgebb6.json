@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Jclef)",
-  "num_followers": 9545,
+  "num_followers": 9556,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI2OTgxNSwwMDAwMDAwMDYzMTI2ZTE3Mjk5MTUzZDhhYzQ3ODdhMmExNDk5MGZl",
+  "snapshot_id": "MTY4MDI2OTgxNSwwMDAwMDAwMDEwYzAwMWZkY2M0NzYzZDI1YWExMmQ0MmY4MTI2NmJi",
   "tracks": [
     {
       "added_at": "2023-03-29 10:45:19",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-29 10:45:19",
       "album": {
-        "name": "balaclava",
-        "url": "https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "time",
-      "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
-    },
-    {
-      "added_at": "2023-03-29 10:45:19",
-      "album": {
         "name": "Virus Mix",
         "url": "https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2023-03-29 10:45:19",
       "album": {
+        "name": "balaclava",
+        "url": "https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "time",
+      "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
+    },
+    {
+      "added_at": "2023-03-29 10:45:19",
+      "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 159866,
       "name": "SPACE MULAN",
       "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
+    },
+    {
+      "added_at": "2023-03-29 10:45:19",
+      "album": {
+        "name": "PSYCHO LOVE",
+        "url": "https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "PSYCHO LOVE",
+      "url": "https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9"
     },
     {
       "added_at": "2023-03-29 10:45:19",
@@ -563,22 +579,6 @@
       "duration_ms": 205564,
       "name": "I would",
       "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
-    },
-    {
-      "added_at": "2023-03-29 10:45:19",
-      "album": {
-        "name": "PSYCHO LOVE",
-        "url": "https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc"
-      },
-      "artists": [
-        {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "PSYCHO LOVE",
-      "url": "https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9"
     },
     {
       "added_at": "2023-03-29 10:45:19",
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW"
     },
     {
-      "added_at": "2023-04-04 01:06:40",
+      "added_at": "2023-04-05 00:58:34",
       "album": {
         "name": "lil",
         "url": "https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b"
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-29 10:45:19",
       "album": {
+        "name": "VEIL",
+        "url": "https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "VEIL",
+      "url": "https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J"
+    },
+    {
+      "added_at": "2023-03-29 10:45:19",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 201080,
       "name": "Sand",
       "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
-    },
-    {
-      "added_at": "2023-03-29 10:45:19",
-      "album": {
-        "name": "VEIL",
-        "url": "https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "VEIL",
-      "url": "https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J"
     },
     {
       "added_at": "2023-03-29 10:45:19",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-03-29 10:45:19",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0"
+        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
       },
       "artists": [
         {
-          "name": "Vapo",
-          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
-        },
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
         }
       ],
-      "duration_ms": 164062,
-      "name": "Watch Out (Feat. sokodomo)",
-      "url": "https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD"
+      "duration_ms": 217500,
+      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
     },
     {
       "added_at": "2023-03-29 10:45:19",
@@ -811,18 +807,38 @@
     {
       "added_at": "2023-03-29 10:45:19",
       "album": {
-        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
+        "name": "X",
+        "url": "https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0"
       },
       "artists": [
         {
-          "name": "Lang Lee",
-          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
         }
       ],
-      "duration_ms": 217500,
-      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
+      "duration_ms": 164062,
+      "name": "Watch Out (Feat. sokodomo)",
+      "url": "https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD"
+    },
+    {
+      "added_at": "2023-03-29 10:45:19",
+      "album": {
+        "name": "Damn Cold",
+        "url": "https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Damn Cold",
+      "url": "https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49"
     },
     {
       "added_at": "2023-03-29 10:45:19",
@@ -843,22 +859,6 @@
       "duration_ms": 197306,
       "name": "GO! (feat. Eelittlee)",
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
-    },
-    {
-      "added_at": "2023-03-29 10:45:19",
-      "album": {
-        "name": "Damn Cold",
-        "url": "https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Damn Cold",
-      "url": "https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49"
     },
     {
       "added_at": "2023-03-29 10:45:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,880 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,079 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 23 | [Perzechella](https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [Babylonia](https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va) | 5:11 |
 | 24 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 25 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 |
-| 26 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
-| 27 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
+| 26 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
+| 27 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
 | 28 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
 | 29 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 |
-| 30 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 |
-| 31 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
+| 30 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
+| 31 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 |
 | 32 | [Planet \- EntzugszKlinique & ScubaPro Remix](https://open.spotify.com/track/6o4oP4Ml0EmiSTG7EpO8OV) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [Planet \(EntzugszKlinique & ScubaPro Remix\)](https://open.spotify.com/album/5c9u70XyteboMv5DNgrGpR) | 2:06 |
 | 33 | [Phonky Tribu \- DJ HEARTSTRING Remix](https://open.spotify.com/track/7w8qT1UcnJIZafNiLu2C7h) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Phonky Tribu \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/3SbtjONVN9BIpVxpks7A2g) | 4:10 |
 | 34 | [Can't Stop The Night](https://open.spotify.com/track/7hPZUHWSGG5Kn9ZI50HvIx) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Can't Stop The Night](https://open.spotify.com/album/79YdrZXt6tBDj4i0Y4gCJS) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Gratitude Practice](https://open.spotify.com/track/4I4361g8EeO8BAvxarpd8a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Gratitude Practice](https://open.spotify.com/album/2eLi9fo6zHd2ergvJoXdtV) | 6:45 |
 | 50 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 |
 
-Snapshot ID: `MTY3OTY1NjAzMywwMDAwMDAwMDljZGRhMmRmY2IxYzRhZjExNzEwOWFmNTE3OWFkNDJi`
+Snapshot ID: `MTY3OTY1NjAzMywwMDAwMDAwMDE0ZDFiOGQ2OGYxMmFmMTI0YTQzOTljMmU2MWZhOTFk`

@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 189198,
+  "num_followers": 189286,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ3Mzg1OCwwMDAwMDAwMGQ1NWNiZDUxYzA5MjdiMDJjZWM5ZWJkNmZjOTNlMWY4",
+  "snapshot_id": "MTY3ODQ3Mzg1OCwwMDAwMDAwMDRkZmQ1YzBmMmE4NzlmMDk2YTM5NmRiNmJjMjYyM2Q2",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -779,6 +779,38 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+      },
+      "artists": [
+        {
+          "name": "Little Joe & La Familia",
+          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
+      "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -807,38 +839,6 @@
       "duration_ms": 284120,
       "name": "Tejano Mix - Radio Edit",
       "url": "https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
-      "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
-      },
-      "artists": [
-        {
-          "name": "Little Joe & La Familia",
-          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "10 Grandes Exitos",
-        "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
       "artists": [
         {
-          "name": "Roberto Pulido",
-          "url": "https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC"
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
         }
       ],
-      "duration_ms": 169760,
-      "name": "La Ronera",
-      "url": "https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w"
+      "duration_ms": 205626,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+        "name": "10 Grandes Exitos",
+        "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
       },
       "artists": [
         {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+          "name": "Roberto Pulido",
+          "url": "https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
+      "duration_ms": 169760,
+      "name": "La Ronera",
+      "url": "https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 273000,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
     },
     {
       "added_at": "2023-03-10 18:44:18",

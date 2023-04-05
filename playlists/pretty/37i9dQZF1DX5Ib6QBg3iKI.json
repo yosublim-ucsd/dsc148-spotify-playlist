@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126561,
+  "num_followers": 126551,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDZkN2JkYjI0OTM2ODA4MTYyNmE5MmQyYzVjYWM5YmY3",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDk2ZGM0OGEwOWEyOGJhM2JhMzExNmY3YjU3N2RmZTMw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Dean Martin Christmas Album",
-        "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "For Those Who Can't Be Here",
         "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Dean Martin Christmas Album",
+        "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "New Light Through Old Windows",
-        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
-    },
-    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "Walking in The Air",
@@ -543,6 +527,22 @@
       "duration_ms": 239250,
       "name": "Walking in The Air",
       "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "New Light Through Old Windows",
+        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "This Time Of Year",
-        "url": "https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 222855,
-      "name": "This Time Of Year",
-      "url": "https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Come On Home For Christmas",
         "url": "https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+        "name": "This Time Of Year",
+        "url": "https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+      "duration_ms": 222855,
+      "name": "This Time Of Year",
+      "url": "https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -979,6 +963,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 171078,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 171078,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Home For Christmas",
         "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
-        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 225576,
-      "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
-      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+      "duration_ms": 144440,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
+        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 225576,
+      "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
+      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
         "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 170459,
       "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
       "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1195,34 +1211,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+        "name": "This Christmas Day",
+        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
       },
       "artists": [
         {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "At Christmas",
-        "url": "https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "At Christmas",
-      "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
+      "duration_ms": 225040,
+      "name": "This Christmas Day",
+      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1239,6 +1239,22 @@
       "duration_ms": 240257,
       "name": "Christmastime",
       "url": "https://open.spotify.com/track/1qQFeYlob4mNY2Q2ZLRsqk"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "At Christmas",
+        "url": "https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "At Christmas",
+      "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1271,22 +1287,6 @@
       "duration_ms": 216733,
       "name": "Sister Winter",
       "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "This Christmas Day",
-        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "This Christmas Day",
-      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
     },
     {
       "added_at": "2022-11-18 01:05:05",

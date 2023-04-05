@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 444001,
+  "num_followers": 444056,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDdhZDZkOGRjZmJlMWIwYWE3MDE3ZGRlYTYxYjEwNDFk",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMGQ3MTA1MWI1ZDZmMjdhZjMwMjQ5MTVhZTYwZjdlZTkz",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Wishing You Hell",
         "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
         "url": "https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 314594,
       "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
       "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "LEVITATE (The Summer Song)",
+        "url": "https://open.spotify.com/album/19xqa3tlSC1vzTVmirhB6I"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 142600,
+      "name": "LEVITATE (The Summer Song)",
+      "url": "https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "debbie downer",
         "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "LEVITATE (The Summer Song)",
-        "url": "https://open.spotify.com/album/19xqa3tlSC1vzTVmirhB6I"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "LEVITATE (The Summer Song)",
-      "url": "https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
       "artists": [
         {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+      "duration_ms": 214922,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4SMRrkuRFwqociFBA2N122"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 214922,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4SMRrkuRFwqociFBA2N122"
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Tell Me You're Sorry",
-        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Tell Me You're Sorry",
-      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 175172,
       "name": "Cursive",
       "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Tell Me You're Sorry",
+        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Tell Me You're Sorry",
+      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "M1SERY_SYNDROME (feat. Buddy Nielsen)",
         "url": "https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 184111,
       "name": "M1SERY_SYNDROME (feat. BUDDY NIELSEN)",
       "url": "https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Girl Next Door (feat. Wiz Khalifa, DVBBS)",
         "url": "https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 140262,
       "name": "Girl Next Door (feat. Wiz Khalifa, DVBBS)",
       "url": "https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Trauma Factory",
-        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 179690,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/27HkyZkH0wo1Y0bvC8UxjU"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 227520,
       "name": "Sick Joke",
       "url": "https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Trauma Factory",
+        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 179690,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/27HkyZkH0wo1Y0bvC8UxjU"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Permanent Rebellion",
-        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "Permanent Rebellion",
-      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "With Confidence",
         "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 181708,
       "name": "Paper",
       "url": "https://open.spotify.com/track/0Vumvuj4HYy3quIRSkrYDy"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2271,6 +2271,34 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "PARANOIA (with FEVER 333 & Point North) [Remix]",
+        "url": "https://open.spotify.com/album/4efWmhXUdjNRQ2ZzBQpMyW"
+      },
+      "artists": [
+        {
+          "name": "GARZI",
+          "url": "https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        }
+      ],
+      "duration_ms": 146643,
+      "name": "PARANOIA (with FEVER 333 & Point North) - Remix",
+      "url": "https://open.spotify.com/track/04cSt0T1HgM8NxKA1KCobZ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -2307,30 +2335,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "PARANOIA (with FEVER 333 & Point North) [Remix]",
-        "url": "https://open.spotify.com/album/4efWmhXUdjNRQ2ZzBQpMyW"
+        "name": "Garamond",
+        "url": "https://open.spotify.com/album/7FV2SMlamWIJ9q0cSGZ1lj"
       },
       "artists": [
         {
-          "name": "GARZI",
-          "url": "https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
         }
       ],
-      "duration_ms": 146643,
-      "name": "PARANOIA (with FEVER 333 & Point North) - Remix",
-      "url": "https://open.spotify.com/track/04cSt0T1HgM8NxKA1KCobZ"
+      "duration_ms": 179923,
+      "name": "Garamond",
+      "url": "https://open.spotify.com/track/5FqwQC3C7VEO62zpVR6RHt"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2347,22 +2363,6 @@
       "duration_ms": 123183,
       "name": "\u2022I WON'T DIE\u2022",
       "url": "https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Garamond",
-        "url": "https://open.spotify.com/album/7FV2SMlamWIJ9q0cSGZ1lj"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 179923,
-      "name": "Garamond",
-      "url": "https://open.spotify.com/track/5FqwQC3C7VEO62zpVR6RHt"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Vandalize",
-        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194695,
-      "name": "Vandalize - Japanese Version",
-      "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Don't Be Racist",
         "url": "https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj"
       },
@@ -2419,18 +2403,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wouldn't That Be Nice",
-        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
+        "name": "Vandalize",
+        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
       },
       "artists": [
         {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 186214,
-      "name": "Wouldn't That Be Nice",
-      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
+      "duration_ms": 194695,
+      "name": "Vandalize - Japanese Version",
+      "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2447,6 +2431,22 @@
       "duration_ms": 251468,
       "name": "October Forever",
       "url": "https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Wouldn't That Be Nice",
+        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 186214,
+      "name": "Wouldn't That Be Nice",
+      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Gone Are The Good Days",
+        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Gone Are The Good Days",
+      "url": "https://open.spotify.com/track/7r8CSCG1BLU8oSVlP3q8yW"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Gone Are The Good Days",
-        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
-      },
-      "artists": [
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Gone Are The Good Days",
-      "url": "https://open.spotify.com/track/7r8CSCG1BLU8oSVlP3q8yW"
     }
   ],
   "unique_name": "The Scene",

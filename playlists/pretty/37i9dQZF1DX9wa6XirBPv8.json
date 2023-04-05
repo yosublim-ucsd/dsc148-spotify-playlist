@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1483129,
+  "num_followers": 1483939,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMDEzYmJmMjNiOGE4NzhhY2UzOTE4ZjVmMjRhZDRhZTk2",
+  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMDE5OWRjZTczZGZlM2QxMjExYzU4OTA3MDQwZWU5YmMz",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 212040,
       "name": "This Ain't A Scene, It's An Arms Race",
       "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
     },
     {
-      "added_at": "2023-04-04 01:13:50",
+      "added_at": "2023-04-05 00:49:12",
       "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Never Take Friendship Personal",
-        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "The Feel Good Drag",
-      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "In Keeping Secrets Of Silent Earth: 3",
         "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 234706,
       "name": "A Favor House Atlantic",
       "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Never Take Friendship Personal",
+        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "The Feel Good Drag",
+      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
     },
     {
-      "added_at": "2023-04-04 01:13:50",
+      "added_at": "2023-04-05 00:49:12",
       "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
-      "added_at": "2023-04-04 01:13:50",
+      "added_at": "2023-04-05 00:49:12",
       "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"

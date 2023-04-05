@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10080,
+  "num_followers": 10176,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQyMzY3NiwwMDAwMDAwMGIyMTZkZTNkZGRhMTg4YzdlY2FmZTliNjcxZTAyMDRj",
+  "snapshot_id": "MTY4MDQyMzY3NiwwMDAwMDAwMDExMzU1ZTlkZTU2NjkzNWUyYjgyNGIyYTVhMWNkMGU5",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        },
+        {
+          "name": "Adam Agee",
+          "url": "https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl"
+        }
+      ],
+      "duration_ms": 286586,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -683,22 +703,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "Mercy - Live",
-      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Two Coasts for Comfort",
         "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
       },
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        },
-        {
-          "name": "Adam Agee",
-          "url": "https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 286586,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD"
+      "duration_ms": 334333,
+      "name": "Mercy - Live",
+      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 376253,
+      "name": "Mighty Cross",
+      "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "A Beautiful Exchange",
         "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 376253,
-      "name": "Mighty Cross",
-      "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "God Be Praised (Live)",
         "url": "https://open.spotify.com/album/4ZU3Ago2HLOzRPTmg8TX2C"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 328466,
       "name": "O, the Blood - Live",
       "url": "https://open.spotify.com/track/3ERd26mAJIOgdCGzKe1Q7U"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Upon Him",
-        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 241901,
-      "name": "Upon Him",
-      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -875,6 +859,22 @@
       "duration_ms": 200773,
       "name": "Beautiful Scandalous Night",
       "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Upon Him",
+        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 241901,
+      "name": "Upon Him",
+      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 364600,
-      "name": "Light to You",
-      "url": "https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "You Amaze Us",
         "url": "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 200121,
       "name": "Because He Lives (Amen)",
       "url": "https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 364600,
+      "name": "Light to You",
+      "url": "https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "The Writer's Collection",
         "url": "https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 278426,
       "name": "Doxology",
       "url": "https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "You Were On The Cross",
+      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Hymns Ancient And Modern (Live)",
-        "url": "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Charlie Hall",
-          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
-        }
-      ],
-      "duration_ms": 280915,
-      "name": "How Great Thou Art - Live",
-      "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 211360,
       "name": "Faithfulness (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Hymns Ancient And Modern (Live)",
+        "url": "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Charlie Hall",
+          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+        }
+      ],
+      "duration_ms": 280915,
+      "name": "How Great Thou Art - Live",
+      "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Hallelujah Amen (feat. Jon Guerra)",
-        "url": "https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ"
+        "name": "Love Shines - EP",
+        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
         }
       ],
-      "duration_ms": 318969,
-      "name": "Hallelujah Amen (feat. Jon Guerra)",
-      "url": "https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7"
+      "duration_ms": 319804,
+      "name": "Love Shines - Acoustic Version",
+      "url": "https://open.spotify.com/track/0wO8DKDFIW1RpSaVHhRmQd"
     }
   ],
   "unique_name": "Holy Week: Easter",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,280 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,389 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 6 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 |
 | 7 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
 | 8 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
-| 9 | [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 |
-| 10 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 |
+| 9 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 |
+| 10 | [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 |
 | 11 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 |
 | 12 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
 | 13 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 25 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 |
 | 26 | [With Somebody Else](https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Dhan](https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi) | [With Somebody Else](https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6) | 2:41 |
 | 27 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
-| 28 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
-| 29 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
-| 30 | [i’m sorry](https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Majestic Casual \- Chapter 3](https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6) | 2:37 |
+| 28 | [i’m sorry](https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Majestic Casual \- Chapter 3](https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6) | 2:37 |
+| 29 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
+| 30 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
 | 31 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
 | 32 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
 | 33 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 43 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 |
 | 44 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
 | 45 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
-| 46 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
-| 47 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
-| 48 | [Wretched](https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY) | 2:10 |
+| 46 | [Wretched](https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY) | 2:10 |
+| 47 | [cold door handles](https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [nobody else](https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW) | 2:26 |
+| 48 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
 | 49 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
-| 50 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 |
+| 50 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 
-Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDAwNDI3N2M1NTY5MTI1ZGExZjcyM2EyNDI3YzA0NDAy`
+Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMGNlZTlmOWI1ZGJlZDk4YzU2OTMwOTU0NWUwNmI2YjQ4`

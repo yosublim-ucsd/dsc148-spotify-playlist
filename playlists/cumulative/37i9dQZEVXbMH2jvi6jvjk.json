@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -12010,7 +12010,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 560784,
       "name": "Izono",
       "url": "https://open.spotify.com/track/4BIGl9cDzyw1znsjRytGLd"
@@ -12046,7 +12046,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
@@ -13732,7 +13732,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 306551,
       "name": "LEMENEMENE",
       "url": "https://open.spotify.com/track/6MqItn0BCv0z0jYJymAmKN"
@@ -17208,7 +17208,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 362834,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/7yJ5UfiXvtePhopnvxyXOV"
@@ -17640,7 +17640,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -19820,7 +19820,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 270769,
       "name": "Qoma",
       "url": "https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0"
@@ -24715,6 +24715,40 @@
     },
     {
       "album": {
+        "name": "Thesha (feat. LeeMcKrazy, TyroneDee & TitoM)",
+        "url": "https://open.spotify.com/album/3D9DZmp6NtPluNdhVCqHXj"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "TumeloZa",
+          "url": "https://open.spotify.com/artist/5kQTsoT4lo0N0UhxQhHQu2"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "TyroneDee",
+          "url": "https://open.spotify.com/artist/3j7EkMzdIv1vAMhetEs5mX"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480351,
+      "name": "Thesha (feat. LeeMcKrazy, TyroneDee & TitoM)",
+      "url": "https://open.spotify.com/track/2iVtgTMwkEGe4kBP39F9Tu"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -25298,7 +25332,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"

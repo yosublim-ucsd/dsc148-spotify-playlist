@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 548437,
+  "num_followers": 548541,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkyMjA4NywwMDAwMDAwMDBhNjc4YTcxZWZlNDliMjg1Zjg0NDE5NGFjZjBiYmUy",
+  "snapshot_id": "MTY3OTkyMjA4NywwMDAwMDAwMGNjNGMxNWVkYzc2MmM3MmIyYjc1MjQwOWQ2NTU2MzYw",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -941,6 +941,30 @@
       "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Aso EP",
+        "url": "https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Cem Mo",
+          "url": "https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 208456,
+      "name": "Jim Bell",
+      "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Modern Life",
@@ -973,56 +997,20 @@
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Cloud Bounce",
-        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
       },
       "artists": [
         {
-          "name": "9ICK",
-          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
-        },
-        {
-          "name": "Calvin Bennett",
-          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
-        },
-        {
-          "name": "Gustav Gustav",
-          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
-        },
-        {
-          "name": "Bertram Kvist",
-          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Cloud Bounce",
-      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Aso EP",
-        "url": "https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U"
-      },
-      "artists": [
-        {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Cem Mo",
-          "url": "https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 208456,
-      "name": "Jim Bell",
-      "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -1049,20 +1037,32 @@
       "url": "https://open.spotify.com/track/5MLyDyUI1yxlzPeoXuj8mn"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+        "name": "Cloud Bounce",
+        "url": "https://open.spotify.com/album/4bWsVeslIr0hqmhtOQBtRN"
       },
       "artists": [
         {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        },
+        {
+          "name": "Gustav Gustav",
+          "url": "https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
         }
       ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+      "duration_ms": 130000,
+      "name": "Cloud Bounce",
+      "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1109,6 +1109,26 @@
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Sunday Kitchen",
+        "url": "https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Sunday Kitchen",
+      "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
+    },
+    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -1141,20 +1161,20 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Endless Thoughts",
-        "url": "https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb"
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
       },
       "artists": [
         {
-          "name": "Modha",
-          "url": "https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
         }
       ],
-      "duration_ms": 237077,
-      "name": "Endless Thoughts",
-      "url": "https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd"
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -1177,40 +1197,20 @@
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+        "name": "Endless Thoughts",
+        "url": "https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb"
       },
       "artists": [
         {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+          "name": "Modha",
+          "url": "https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK"
         }
       ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Sunday Kitchen",
-        "url": "https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x"
-      },
-      "artists": [
-        {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Sunday Kitchen",
-      "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
+      "duration_ms": 237077,
+      "name": "Endless Thoughts",
+      "url": "https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd"
     },
     {
       "added_at": "2021-02-26 00:47:37",
@@ -1245,6 +1245,38 @@
       "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
+      },
+      "artists": [
+        {
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
+        }
+      ],
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
+    },
+    {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
+    },
+    {
       "added_at": "2023-02-10 05:01:00",
       "album": {
         "name": "Healthy Habits",
@@ -1263,22 +1295,6 @@
       "duration_ms": 129166,
       "name": "Om Drip",
       "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1301,38 +1317,6 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
-    },
-    {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Whales",
@@ -1351,6 +1335,22 @@
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Thoughts Under Water",
+        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Brown",
+          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
+        }
+      ],
+      "duration_ms": 203597,
+      "name": "I Love Her",
+      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Tiger's Den (Radio Edit)",
@@ -1457,52 +1473,20 @@
       "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Thoughts Under Water",
-        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
+        "name": "PRNDL.wav",
+        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
       },
       "artists": [
         {
-          "name": "Daniel Brown",
-          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
         }
       ],
-      "duration_ms": 203597,
-      "name": "I Love Her",
-      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Nu Jump",
-        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Nu Jump",
-      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/7w4DtwePB3gH9wCayLd6sj"
-      },
-      "artists": [
-        {
-          "name": "JK Group",
-          "url": "https://open.spotify.com/artist/14HO6LEbVVKsZQ6EVEhqS4"
-        }
-      ],
-      "duration_ms": 313735,
-      "name": "Rising Part II",
-      "url": "https://open.spotify.com/track/7mWuk9EDfbvoBMqE5QBJij"
+      "duration_ms": 177036,
+      "name": "PRNDL.exe",
+      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 223302,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Nu Jump",
+        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Nu Jump",
+      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
     }
   ],
   "unique_name": "Jazztronica",

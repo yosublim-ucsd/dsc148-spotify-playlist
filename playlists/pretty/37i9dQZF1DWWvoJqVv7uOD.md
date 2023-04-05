@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,550 likes - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,790 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

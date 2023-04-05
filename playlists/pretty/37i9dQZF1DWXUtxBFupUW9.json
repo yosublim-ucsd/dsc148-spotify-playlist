@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 283275,
+  "num_followers": 283394,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5ODM3NiwwMDAwMDAwMDdjMzlhZWMzMjQ0ZGEzMTY3NTg3ODJmZWQwYmI3OTcx",
+  "snapshot_id": "MTY4MDE5ODM3NiwwMDAwMDAwMGE2MDk3NGJlMTFmZjhlYjIxMzNkMTUzMmE4NWRkNTY0",
   "tracks": [
     {
       "added_at": "2023-02-21 15:51:11",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
-        "name": "Soul Manifesto: 1964-1970",
-        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
+        "name": "American Portraits: Sam & Dave",
+        "url": "https://open.spotify.com/album/44xCk5P4s2Tsbb2KwXwEBe"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
+      "duration_ms": 160265,
+      "name": "Hold On I'm Comin' - 1982 Re-recorded",
+      "url": "https://open.spotify.com/track/1lwwksiUVWjddwIkTchmd4"
     }
   ],
   "unique_name": "Body & Soul",

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: hey, nothing
 
-315 songs - 19 hr 53 min
+316 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Belong To Heaven](https://open.spotify.com/track/2jVyFmTMPX6z1IBj9yD7Y9) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Belong To Heaven](https://open.spotify.com/album/6MWLPGQ4kR8z6mFFnxKALE) | 4:11 | 2022-04-29 | 2022-11-13 |
 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 | 2022-01-21 | 2022-12-03 |
 | [bike again](https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [bike again](https://open.spotify.com/album/0BPzUTfIjnEmv7nIg1RRxl) | 3:04 | 2022-11-11 |  |
+| [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-04-04 |  |
 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 | 2022-01-21 |  |
 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 | 2022-12-16 |  |
 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 | 2022-04-29 | 2022-12-08 |
@@ -123,7 +124,7 @@
 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 | 2022-01-21 |  |
 | [Helena](https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [The Monster Who Hated Pennsylvania](https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs) | 2:47 | 2022-01-21 | 2023-01-17 |
 | [Holding You There](https://open.spotify.com/track/2XkMwuRLWYaGfpNd9jpdDU) | [Georgia Duncan](https://open.spotify.com/artist/76QuBzf0cdwd8G8IMrbllG) | [The Light](https://open.spotify.com/album/6JsxLyhFwGTNFiM8ld8RJU) | 2:47 | 2022-04-13 | 2022-07-22 |
-| [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-04-29 | 2023-04-02 |
+| [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-04-29 |  |
 | [Hoops](https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Less Ready to Go](https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa) | 4:27 | 2022-01-21 |  |
 | [Hotline](https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Hotline](https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5) | 2:50 | 2022-01-21 |  |
 | [Hunter](https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:49 | 2022-04-29 |  |
@@ -231,7 +232,7 @@
 | [Robber](https://open.spotify.com/track/0Dmbh8ndIpIhRhhTpLRP6Z) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2BzlpJgHCH2MgTEdZNzirb) | 5:20 | 2022-01-21 | 2022-07-29 |
 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 | 2023-03-27 |
 | [Roger](https://open.spotify.com/track/65Ht6DgQcFITmzl1tfTPbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Roger](https://open.spotify.com/album/2plWivfGWVm4a0xLT6ONWY) | 3:21 | 2022-04-13 | 2022-07-29 |
-| [Rolling Rolling Rolling](https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Wooh Dang](https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri) | 4:06 | 2022-04-13 |  |
+| [Rolling Rolling Rolling](https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Wooh Dang](https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri) | 4:06 | 2022-04-13 | 2023-04-05 |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-21 | 2022-11-04 |
 | [Rubberneckers](https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Quitters](https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG) | 3:28 | 2022-10-14 |  |
 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 | 2022-12-02 |  |
@@ -300,7 +301,7 @@
 | [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 | 2022-12-10 |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 |  |
-| [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 |  |
+| [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 | 2023-04-05 |
 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2022-04-29 |  |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2022-01-21 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2022-01-21 | 2022-07-29 |

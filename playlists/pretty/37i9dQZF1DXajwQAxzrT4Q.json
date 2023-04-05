@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 46440,
+  "num_followers": 46591,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDQzOTA3YjExYjI5ZTM0NjAxZjA3OTlkNThkMGQ0OWFm",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDkxNWNjZGY2M2UxZGM0ZTkwMTYwY2UzMzExMmJjM2Ri",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
     },
     {
-      "added_at": "2023-04-04 01:33:37",
+      "added_at": "2023-04-05 00:42:56",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s"
-      },
-      "artists": [
-        {
-          "name": "L1NA",
-          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
-        }
-      ],
-      "duration_ms": 163165,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "BaDinga (Reloaded)",
         "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 168000,
       "name": "BaDinga - Reloaded",
       "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        }
+      ],
+      "duration_ms": 163165,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -951,22 +951,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "POZZ",
-        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
+        "name": "Saint Laurent",
+        "url": "https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj"
       },
       "artists": [
         {
-          "name": "Liva\u00ef",
-          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "COSMO ENVOIE DES TRACKS",
-          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         }
       ],
-      "duration_ms": 128776,
-      "name": "POZZ",
-      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
+      "duration_ms": 152727,
+      "name": "Saint Laurent",
+      "url": "https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK"
     }
   ],
   "unique_name": "Jersey Club Heat",

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Cuco & The Mar\u00edas.",
-  "num_followers": 148805,
+  "num_followers": 148857,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGZhMWM1ZGUxZGI5OTNiZmVhY2RhZGFlM2U2M2QwMWUw",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGVjNDk1OWNhNTQ0MWM2NTVkMjVkYzBlNmU0ODVkN2M1",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "444/Ms. Moon",
-        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "444",
-      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "444/Ms. Moon",
+        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "444",
+      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "en la ciudad",
-        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "d\u00f3ntia",
-          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "en la ciudad",
-      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Muerta de Fr\u00edo",
         "url": "https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 258883,
       "name": "Muerta de Fr\u00edo",
       "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "en la ciudad",
+        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "d\u00f3ntia",
+          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "en la ciudad",
+      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "MIMO",
+        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 151207,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/0HCSF1DdzkwdJjhIyB026B"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 187561,
       "name": "Perreo Bonito",
       "url": "https://open.spotify.com/track/1JiXHnf0TqWFuKiFeGChHz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "MIMO",
-        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 151207,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Blssom",
-        "url": "https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb"
-      },
-      "artists": [
-        {
-          "name": "Blssom",
-          "url": "https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn"
-        }
-      ],
-      "duration_ms": 224580,
-      "name": "Vas",
-      "url": "https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 207576,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Blssom",
+        "url": "https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb"
+      },
+      "artists": [
+        {
+          "name": "Blssom",
+          "url": "https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn"
+        }
+      ],
+      "duration_ms": 224580,
+      "name": "Vas",
+      "url": "https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/1P1LPexTVBon26jRalV2Fb"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 132545,
-      "name": "Dead Leaves",
-      "url": "https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 153500,
       "name": "Cohen's Cumbia",
       "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Dead Leaves",
+        "url": "https://open.spotify.com/album/1P1LPexTVBon26jRalV2Fb"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 132545,
+      "name": "Dead Leaves",
+      "url": "https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b"
     },
     {
       "added_at": "2023-03-24 04:00:00",

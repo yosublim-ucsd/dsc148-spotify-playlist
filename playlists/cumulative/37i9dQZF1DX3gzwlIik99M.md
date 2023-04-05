@@ -59,7 +59,7 @@
 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 | 2020-10-24 |  |
 | [Despierta \(Remake 2019\)](https://open.spotify.com/track/1rtFWKLpfQMFbt28a4Adrr) | [Minerva](https://open.spotify.com/artist/1DYNmRhSOAWWen5JUKIqOc) | [Ecos del Pasado](https://open.spotify.com/album/4SK1vLIrHIgFmgocfRq9vP) | 4:18 | 2020-10-24 | 2022-07-28 |
 | [Dioses de Barro](https://open.spotify.com/track/0y5TLhVLCtjPagLBPRBFpY) | [Tears of Misery](https://open.spotify.com/artist/58mODj48X3NAj3yPwbpZfS) | [Tragedias Del Tercer Mundo](https://open.spotify.com/album/6l8IE2U59Ymwe7RxEUmfnY) | 3:59 | 2020-10-24 | 2022-07-29 |
-| [Discord](https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8) | [Black Overdrive](https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB) | [Discord](https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm) | 3:12 | 2020-10-24 |  |
+| [Discord](https://open.spotify.com/track/7e1Z0fSkCghUWbed04i1k8) | [Black Overdrive](https://open.spotify.com/artist/6RjpO9q4DJ8kbZOYeZ6FRB) | [Discord](https://open.spotify.com/album/32wro7OSF1QC9jPzyJPetm) | 3:12 | 2020-10-24 | 2023-04-05 |
 | [Divino dolor](https://open.spotify.com/track/4rOXNID3HoHDZM4BQ3oUs7) | [El Sagrado](https://open.spotify.com/artist/0jg14giXNhxLGE2rLjunIF) | [Divino Dolor](https://open.spotify.com/album/5r7bShkovvYpzCz6TQ2P2Q) | 3:22 | 2020-10-24 | 2022-07-28 |
 | [Drowned](https://open.spotify.com/track/2BE9iclmx0TaiwqgXHyLmW) | [Death Letters](https://open.spotify.com/artist/4k1BLS7glwgKNltJqSRW4T) | [The Descent](https://open.spotify.com/album/3S88JqHKwFISWzO78c8KVX) | 6:53 | 2020-10-24 | 2022-07-22 |
 | [Echoes](https://open.spotify.com/track/4gCcjz6bXUcZzLDC3joXiW) | [Cenizas](https://open.spotify.com/artist/39F81nJERzsok1MPicL76j) | [Echoes](https://open.spotify.com/album/1bNUBaDy2N0b1x06U2IC12) | 3:56 | 2020-10-24 | 2022-07-20 |
@@ -188,7 +188,7 @@
 | [Veritas](https://open.spotify.com/track/6imS4JK0JGsRo5WkMXpob7) | [Nonsense Premonition](https://open.spotify.com/artist/4oHxTB6tK11KKzkHfpjOxt) | [Músicas para a Juventude Se Lembrar de Nós, Vol\. 1](https://open.spotify.com/album/2chSbQs5zt6NKa87Hf9KR8) | 3:09 | 2020-10-24 | 2022-07-28 |
 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 | 2020-10-24 |  |
 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 | 2020-10-24 |  |
-| [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 | 2020-10-24 | 2022-07-20 |
+| [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 | 2020-10-24 |  |
 | [Éxodo](https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q) | [Masacre](https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m) | [Muerte Verdadera Muerte](https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE) | 4:09 | 2020-10-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

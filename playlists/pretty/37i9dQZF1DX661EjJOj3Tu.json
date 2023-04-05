@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 501139,
+  "num_followers": 501274,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg5NDMxMiwwMDAwMDAwMDEzZTliZWM3YzY2MDVjMmRiYTk2NDBkN2VjYWU5MmRj",
+  "snapshot_id": "MTY3ODg5NDMxMiwwMDAwMDAwMDk1ZTg5YTdiODk0M2FkYzExMGFkNDJjZjM5OGRhOWEy",
   "tracks": [
     {
       "added_at": "2023-03-15 15:31:52",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118386,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2gHQYQuoGGjpa6I1Km5kSh"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
         "name": "SALSWING!",
         "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "O Mito (Digital Edition)",
-        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118386,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2gHQYQuoGGjpa6I1Km5kSh"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -679,18 +679,30 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+        "name": "Dreams in Transition",
+        "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "Idan Balas",
+          "url": "https://open.spotify.com/artist/1x3qUkaEU4LFRrC9Fo5cen"
+        },
+        {
+          "name": "Itamar Doari",
+          "url": "https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc"
+        },
+        {
+          "name": "Yonnie Dror",
+          "url": "https://open.spotify.com/artist/2OXCO9B6XLGmQUiH6yo6NZ"
+        },
+        {
+          "name": "Gal Maestro",
+          "url": "https://open.spotify.com/artist/6GcfPR8Nsb3MAESECRCP3f"
         }
       ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
+      "duration_ms": 417078,
+      "name": "Dreams in Transition",
+      "url": "https://open.spotify.com/track/3bMcZO6wcvyJDWS3529YSC"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -727,30 +739,18 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Dreams in Transition",
-        "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
       "artists": [
         {
-          "name": "Idan Balas",
-          "url": "https://open.spotify.com/artist/1x3qUkaEU4LFRrC9Fo5cen"
-        },
-        {
-          "name": "Itamar Doari",
-          "url": "https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc"
-        },
-        {
-          "name": "Yonnie Dror",
-          "url": "https://open.spotify.com/artist/2OXCO9B6XLGmQUiH6yo6NZ"
-        },
-        {
-          "name": "Gal Maestro",
-          "url": "https://open.spotify.com/artist/6GcfPR8Nsb3MAESECRCP3f"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 417078,
-      "name": "Dreams in Transition",
-      "url": "https://open.spotify.com/track/3bMcZO6wcvyJDWS3529YSC"
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
       },
       "artists": [
         {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
         }
       ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
       "artists": [
         {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
         }
       ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1415,6 +1415,22 @@
       "duration_ms": 598869,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/24itLHAUYIj6f5RB2lghL0"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/24itLHAUYIj6f5RB2lghL0"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 320480,
       "name": "Solo Esta Soledad",
       "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1579,26 +1579,6 @@
       "duration_ms": 349165,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        },
-        {
-          "name": "Aym\u00e9e Nuviola",
-          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
-        }
-      ],
-      "duration_ms": 324066,
-      "name": "Sunny (feat. Aymee Nuviola)",
-      "url": "https://open.spotify.com/track/63N8X6IbVc786Hv5yVMuo3"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1639,22 +1619,6 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 432617,
-      "name": "Chucho\u2019s Mood",
-      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
         "name": "Dizzy Con Clave: Live from Dizzy's Club Coca Cola",
         "url": "https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm"
       },
@@ -1667,6 +1631,42 @@
       "duration_ms": 568773,
       "name": "Guarachi Guaro - Live",
       "url": "https://open.spotify.com/track/4KY8XBQDvsIrI7xVWHFdtm"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        },
+        {
+          "name": "Aym\u00e9e Nuviola",
+          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
+        }
+      ],
+      "duration_ms": 324066,
+      "name": "Sunny (feat. Aymee Nuviola)",
+      "url": "https://open.spotify.com/track/63N8X6IbVc786Hv5yVMuo3"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 432617,
+      "name": "Chucho\u2019s Mood",
+      "url": "https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
         "name": "Asi de Simple",
         "url": "https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV"
       },
@@ -1775,6 +1755,42 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Jungla",
+      "url": "https://open.spotify.com/track/3bjiPnT0gZHA1V2cbzTYq2"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
         "name": "Tu, la Tierra",
         "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 237186,
       "name": "Tu, la Tierra",
       "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Jungla",
-      "url": "https://open.spotify.com/track/3bjiPnT0gZHA1V2cbzTYq2"
     },
     {
       "added_at": "2023-03-15 15:31:52",

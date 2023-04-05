@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Padi\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: TANAKA, Vince\(다나카, 빈스\)\)
 
-183 songs - 10 hr 27 min
+184 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-05 |  |
 | [Charging](https://open.spotify.com/track/2hbA6LMP7MrvXLXxgIbzaQ) | [Kiehl](https://open.spotify.com/artist/3booMg3lbOEj85POfZ61mV) | [Charging](https://open.spotify.com/album/2AmKqz3rPk7M0m5O8EBKXh) | 3:30 | 2022-05-28 | 2022-07-28 |
 | [chasing you](https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [chasing you](https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ) | 3:06 | 2022-08-02 | 2023-01-21 |
+| [Choose Me \(feat\. Vince\)](https://open.spotify.com/track/4GTosMKxwHJsbrSfaRPc9K) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [Choose Me \(feat\. Vince\)](https://open.spotify.com/album/2vLVhxjpQVOPDxNQo7UeCb) | 3:22 | 2023-04-04 |  |
 | [City!](https://open.spotify.com/track/6FaSGjSSORmLRw8ElPHJbM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:42 | 2022-08-18 | 2023-01-21 |
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-22 |  |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2022-12-16 |

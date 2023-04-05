@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8403,
+  "num_followers": 8426,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMDgyOWU3Mjg3YTE3MmE4OWVkNmEzNGRjNzIzM2QxMzcz",
+  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMGEwMDA1Y2ZmNTJjYjk3NjAyM2M2ZTZlZGRlNDk2NmE0",
   "tracks": [
     {
       "added_at": "2023-03-11 08:20:06",
@@ -587,22 +587,22 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         },
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 191191,
-      "name": "Distance (Feat. I.M of MONSTA X)",
-      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+      "duration_ms": 220933,
+      "name": "My Day Is Full Of You",
+      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -623,22 +623,22 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 220933,
-      "name": "My Day Is Full Of You",
-      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+      "duration_ms": 191191,
+      "name": "Distance (Feat. I.M of MONSTA X)",
+      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
+        "name": "wave 0.01",
+        "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 216399,
+      "name": "bird",
+      "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
         "name": "Can We Talk Again",
         "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 228120,
       "name": "babyblue",
       "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
-        "name": "wave 0.01",
-        "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 216399,
-      "name": "bird",
-      "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
     },
     {
       "added_at": "2023-03-11 08:20:06",

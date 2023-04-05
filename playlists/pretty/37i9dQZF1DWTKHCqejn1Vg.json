@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 19636,
+  "num_followers": 19694,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIzNCwwMDAwMDAwMDUyYWE5YzU1NzE4MDJlNWY5YjBlMDAwMzc5ZTdhMzlm",
+  "snapshot_id": "MTY4MDI1ODIzNCwwMDAwMDAwMDYxNmU5ZmZlYWM0NmE1YzRlOGQ0ZjE1ZmE3YzBhMTU3",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:54",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "HORIZON : THE MIXTAPE",
-        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 81101,
-      "name": "OVERZONE",
-      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 263592,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -227,34 +227,26 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 198949,
-      "name": "Dank",
-      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "Neo Seoul",
-        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
-      },
-      "artists": [
+        },
         {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
         }
       ],
-      "duration_ms": 195891,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -275,6 +267,22 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
+        "name": "Neo Seoul",
+        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "duration_ms": 195891,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -315,26 +323,18 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
         }
       ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
         "name": "S.O.S (Sink or Swim)",
         "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "company",
-        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "company",
-      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197013,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
     },
     {
       "added_at": "2023-03-31 10:23:54",

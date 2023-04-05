@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Jesse®
 
-1,520 songs - 3 day 8 hr 8 min
+1,521 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-13 | 2022-04-14 |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-01 |
 | [Girls \- Single Edit](https://open.spotify.com/track/2LwNOv9B1vItliaWMctLTV) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Girls](https://open.spotify.com/album/78WCWfiENQYykDoDGNoeJQ) | 3:20 | 2022-04-08 | 2022-04-21 |
+| [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-31 |  |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-24 | 2022-04-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-02-13 | 2022-08-27 |
 | [Glory Days](https://open.spotify.com/track/0hKA03dkqmFmGCXaFLPHt7) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Glory Days](https://open.spotify.com/album/3LOVCfGdGh57pl2Yu6Aj5Y) | 2:25 | 2021-05-11 | 2021-10-13 |
@@ -1430,7 +1431,7 @@
 | [Wait](https://open.spotify.com/track/3cZghnx0vGbhMgPtSSNKWG) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Rancho Catastrophe](https://open.spotify.com/album/5mEz2wLWBXDB76mAv5qW6T) | 3:07 | 2020-11-20 | 2021-05-28 |
 | [Waiting](https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Waiting](https://open.spotify.com/album/3dDEzizNaiMilGP4dHFNUn) | 2:39 | 2020-11-10 | 2021-01-15 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-15 | 2022-04-18 |
-| [Walk With Me](https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Walk With Me](https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg) | 2:52 | 2023-02-17 |  |
+| [Walk With Me](https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Walk With Me](https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg) | 2:52 | 2023-02-17 | 2023-04-05 |
 | [walkin away](https://open.spotify.com/track/1Ma3MobM1PLGweJGm5Uot6) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [walkin away](https://open.spotify.com/album/2HK5ELNGPvIRwzKapotDmJ) | 3:06 | 2021-10-10 | 2021-10-11 |
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2021-02-22 | 2021-10-12 |
 | [Wallflower](https://open.spotify.com/track/2aLsrZVPkJm6pm05WXZ0aC) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/7D6XTJzVwNVH2upfKTNvKQ) | 2:57 | 2020-11-10 | 2021-05-27 |

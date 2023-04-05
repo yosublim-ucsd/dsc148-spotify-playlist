@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 25 | [Rag Mop](https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Best Of The Ames](https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0) | 2:46 |
 | 26 | [Standing On the Corner](https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 2:51 |
 | 27 | [\(Up A\) Lazy River](https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Board Of Directors](https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH) | 3:28 |
-| 28 | [Marie](https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT) | [The Bachelors](https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD) | [The Bachelors \- The Decca Years](https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab) | 2:19 |
-| 29 | [For Sentimental Reasons](https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 3:08 |
+| 28 | [For Sentimental Reasons](https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 3:08 |
+| 29 | [Marie](https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT) | [The Bachelors](https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD) | [The Bachelors \- The Decca Years](https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab) | 2:19 |
 | 30 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
 | 31 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
 | 32 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [It's Sand, Man!](https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Milestones of a Jazz Legend \- Meets the Vocalists, Vol\. 4](https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf) | 2:28 |
 | 45 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDlmZTJkYTEwZDY0NThmZjA1NjRhM2MyY2VhYTY3NTM0`
+Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDc3ZmE1NzA1NjYwYjk3YWNjOGFhZDZjN2JkNDFkZjEy`

@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-180 songs - 11 hr 3 min
+181 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 | 2021-09-09 |  |
 | [Tell Me \- Rap Version](https://open.spotify.com/track/0j4amgyatouEP4Ox3qDrYk) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) | 3:37 | 2021-09-09 |  |
 | [The Boys](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:46 | 2021-09-09 | 2023-04-01 |
-| [The Boys](https://open.spotify.com/track/2ufbdmBzRahfTLZPQs9KR4) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [KPOP \- Girl Power Vol\. 1](https://open.spotify.com/album/5u07EeYKX4ZwFhzJAf8FEN) | 3:47 | 2021-09-09 |  |
+| [The Boys](https://open.spotify.com/track/2ufbdmBzRahfTLZPQs9KR4) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [KPOP \- Girl Power Vol\. 1](https://open.spotify.com/album/5u07EeYKX4ZwFhzJAf8FEN) | 3:47 | 2021-09-09 | 2023-04-05 |
+| [The Boys](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:48 | 2021-09-09 |  |
 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 | 2021-09-09 |  |
 | [The Ghost of Wind](https://open.spotify.com/track/1aUP0tGSkpricoZtV5Goj7) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [Illusion](https://open.spotify.com/album/6p2lS1PUNUMMLRoce5Cg4V) | 3:31 | 2021-09-09 | 2022-11-14 |
 | [The Ghost of Wind](https://open.spotify.com/track/2xNxuMhDDuZEBAB4Oy6Ovd) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/4yEKFbp7OPPYnKR9ILoG2Z) | 3:31 | 2021-09-09 | 2022-08-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,749,181 likes - 99 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,751,439 likes - 99 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

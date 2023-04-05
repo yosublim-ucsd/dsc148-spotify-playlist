@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 500329,
+  "num_followers": 501222,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MDQ0NiwwMDAwMDAwMGI1OGNmODExOGMzYmM2YTc2ZmQwNWEzNWE0M2VkMTA4",
+  "snapshot_id": "MTY3Nzc2MDQ0NiwwMDAwMDAwMGQ4MjY4ZWRmMGI3YWYzZmFhNTY2YTgzNDFmNjI4YzY0",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Mack Daddy",
         "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Best! The Singles 16 Tracks",
-        "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
-      },
-      "artists": [
-        {
-          "name": "Londonbeat",
-          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "I've Been Thinking About You",
-      "url": "https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 198066,
       "name": "(You Drive Me) Crazy",
       "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Best! The Singles 16 Tracks",
+        "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
+      },
+      "artists": [
+        {
+          "name": "Londonbeat",
+          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "I've Been Thinking About You",
+      "url": "https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Who Do You Think You Are",
-      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Who Do You Think You Are",
+      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "S Club",
-        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
-      },
-      "artists": [
-        {
-          "name": "S Club 7",
-          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Bring It All Back",
-      "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "S Club",
+        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
+      },
+      "artists": [
+        {
+          "name": "S Club 7",
+          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Bring It All Back",
+      "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 217539,
-      "name": "We're Going To Ibiza!",
-      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 217539,
+      "name": "We're Going To Ibiza!",
+      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -1831,34 +1847,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+        "name": "'N Sync UK Version",
+        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
       "artists": [
         {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Back For Good",
-        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "You're My Heart, You're My Soul '98",
-      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
+      "duration_ms": 200440,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "'N Sync UK Version",
-        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+        "name": "Back For Good",
+        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
         }
       ],
-      "duration_ms": 200440,
-      "name": "I Want You Back - Radio Edit",
-      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+      "duration_ms": 230266,
+      "name": "You're My Heart, You're My Soul '98",
+      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Everything Changes (Expanded Edition)",
         "url": "https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 251760,
       "name": "Relight My Fire (feat. Lulu)",
       "url": "https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Set You Free (1994 Edit)",
         "url": "https://open.spotify.com/album/0PiOraXcUPTwFbRKnTRtAx"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 254906,
       "name": "Set You Free - 1994 Edit",
       "url": "https://open.spotify.com/track/0JxdP3ctbORCiQUMo7Xmyi"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2387,26 +2387,6 @@
       "duration_ms": 306000,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Turn Around - Single",
-        "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
-      },
-      "artists": [
-        {
-          "name": "Phats & Small",
-          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
-        },
-        {
-          "name": "Toney Lee",
-          "url": "https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Turn Around - Radio Edit",
-      "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2467,18 +2447,38 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+        "name": "Turn Around - Single",
+        "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
       },
       "artists": [
         {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+          "name": "Phats & Small",
+          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
+        },
+        {
+          "name": "Toney Lee",
+          "url": "https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v"
         }
       ],
-      "duration_ms": 209803,
-      "name": "Back in My Life",
-      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
+      "duration_ms": 212146,
+      "name": "Turn Around - Radio Edit",
+      "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Situation:Critical",
+        "url": "https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 353360,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8"
     },
     {
       "added_at": "2022-10-11 00:00:00",

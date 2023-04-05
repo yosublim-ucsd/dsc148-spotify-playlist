@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421764,
+  "num_followers": 421757,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDM4Mjk2MzM5M2Q5NjQ2NjE2YTJiOWM5YTNkZWY0ODEw",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDRhZDc4ZWY0MDFiYzlhODFlODg0NzYyMWNhM2MyNTc0",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Putaria 2000",
         "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 107204,
       "name": "Putaria 2000",
       "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 170410,
+      "name": "Pra Gente Acordar",
+      "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Formosa",
         "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 185831,
       "name": "Formosa",
       "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 170410,
-      "name": "Pra Gente Acordar",
-      "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
     },
     {
       "added_at": "2023-02-10 03:00:00",

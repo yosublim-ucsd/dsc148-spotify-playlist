@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "A Ver C\u00f3mo Le Haces",
+        "url": "https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "A Ver C\u00f3mo Le Haces",
+      "url": "https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy"
+    },
+    {
+      "album": {
         "name": "Top Songs 2022",
         "url": "https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI"
       },

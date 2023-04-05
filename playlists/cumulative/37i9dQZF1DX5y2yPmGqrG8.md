@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-491 songs - 1 day 22 hr 38 min
+492 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [How to Disappear in a Kiss](https://open.spotify.com/track/4GDjGs6s64cIpF4bbtp8Kv) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Calypso](https://open.spotify.com/album/52T8IcB7y8OnLnjhE4mnSl) | 7:01 | 2021-10-06 | 2022-07-28 |
 | [Hypermetropia, pt\. 1](https://open.spotify.com/track/15xmSzL7MKI9o6dBFx8FCM) | [Federico Ferrandina](https://open.spotify.com/artist/4e2xdsWjF1WQGKUr3u09NW) | [Hypermetropia, pt\. 1](https://open.spotify.com/album/44NyqqlpdwQzRyAmmZ880Z) | 3:10 | 2021-10-06 | 2022-07-21 |
 | [Hypnagogia](https://open.spotify.com/track/1M6qjM8BzvCmNvvKnYjAM3) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Hypnagogia](https://open.spotify.com/album/2lfI9C7iNDDooF2uOmoVZP) | 4:02 | 2021-10-06 | 2022-07-24 |
-| [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 | 2021-10-06 |  |
+| [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 | 2021-10-06 | 2023-04-05 |
 | [i am a strange loop](https://open.spotify.com/track/30UMPVKK8ZgXWnze3eqcFv) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [Album Bonus Tracks, 2006\-2021](https://open.spotify.com/album/2OsZWSfKT22QGMmWn8JTxj) | 4:37 | 2022-11-25 | 2023-02-15 |
 | [I Am Stardust](https://open.spotify.com/track/6L28SE4CgOR0dxStnT1Xc9) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [I Am Stardust](https://open.spotify.com/album/5cq0Anu2t94CqwLIKIml41) | 4:27 | 2021-10-06 | 2022-04-02 |
 | [I Can Almost See You](https://open.spotify.com/track/3LHINSuy4dL5Lgvg0q8M2k) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo](https://open.spotify.com/album/5oixCadw77lgY0qTWMPm5r) | 4:13 | 2021-10-06 | 2022-04-13 |
@@ -477,6 +477,7 @@
 | [Void](https://open.spotify.com/track/3LqmhN26CGJwMn7uroPGxZ) | [NYX](https://open.spotify.com/artist/4vghvskxE7yNmrXWimHrmo) | [Void](https://open.spotify.com/album/5wLxAmBaLwyiUeGVPOFLeB) | 6:13 | 2022-03-30 | 2022-06-30 |
 | [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 | 2021-10-06 |  |
 | [Wake](https://open.spotify.com/track/771mBxFYjfjwWLEheT6pwn) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Wake](https://open.spotify.com/album/6OW21ogEx6FTnMbQpQbz7R) | 2:18 | 2022-03-30 | 2022-07-26 |
+| [Warmth in the Dark](https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Warmth in the Dark](https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6) | 3:29 | 2023-03-03 |  |
 | [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 | 2022-10-14 | 2022-10-28 |
 | [We Lay Down in a Field of Orange Flowers and We Listened to the Birds](https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 19:33 | 2022-07-15 | 2022-08-14 |
 | [Wetlands](https://open.spotify.com/track/7G5UnjAsSp8HOHgDbgJ1wa) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Wetlands](https://open.spotify.com/album/1mdE6AqyKbNKD6egcAI7wZ) | 3:10 | 2021-10-06 | 2022-07-29 |

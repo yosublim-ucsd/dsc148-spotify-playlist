@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 162850,
+  "num_followers": 162918,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDI1ZmExMjBiOThmZDdiODc3MjMwYWM0ZjBkZTJkZjk4",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDFjYjI4MWIxNTdhYjhmMjI5MTMwYzNhZjkwNDlkYTgz",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "On (Deluxe)",
+        "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 206527,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Coraz\u00f3n de Piedra",
         "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 210612,
       "name": "123 Enemies",
       "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "On (Deluxe)",
-        "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Pura Alegr\u00eda",
+        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Pura Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 160979,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Pura Alegr\u00eda",
-        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Pura Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Si T\u00fa No Estas",
+      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Sin Escalas",
         "url": "https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 211050,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Si T\u00fa No Estas",
-      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Apocalipsis (Remix)",
-        "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Apocalipsis - Remix",
-      "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Noches Enteras",
         "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 231008,
       "name": "Noches Enteras",
       "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Apocalipsis (Remix)",
+        "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Apocalipsis - Remix",
+      "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Llegaste T\u00fa",
         "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Bueno es Dios",
         "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 179800,
       "name": "Bueno es Dios",
       "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Fronteamos Con Amor (Christian Ponce - Odanis BSK - Ander Bock)",
         "url": "https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 222564,
       "name": "Fronteamos Con Amor",
       "url": "https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Incapaz",
-        "url": "https://open.spotify.com/album/3FusjACa0j3W8boYCkemHs"
-      },
-      "artists": [
-        {
-          "name": "Rosa Karina",
-          "url": "https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Incapaz",
-      "url": "https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "El Hijo del Borracho",
         "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 200636,
       "name": "Ma' Na",
       "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Incapaz",
+        "url": "https://open.spotify.com/album/3FusjACa0j3W8boYCkemHs"
+      },
+      "artists": [
+        {
+          "name": "Rosa Karina",
+          "url": "https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Incapaz",
+      "url": "https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa"
     },
     {
       "added_at": "2022-08-27 05:04:45",

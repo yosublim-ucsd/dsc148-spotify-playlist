@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 174939,
       "name": "Cheating Day (Prod. imeanseoul x wavyburnz x LifeisGacha)",
       "url": "https://open.spotify.com/track/4onOVqI25eJHk6OlFJultJ"
@@ -13491,6 +13491,28 @@
     },
     {
       "album": {
+        "name": "pick up",
+        "url": "https://open.spotify.com/album/6EzBYX8kxItoy1D9llVIrW"
+      },
+      "artists": [
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        },
+        {
+          "name": "Rhythm Power",
+          "url": "https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194922,
+      "name": "pick up",
+      "url": "https://open.spotify.com/track/5oDnl57QoYdMsTMvRH02N9"
+    },
+    {
+      "album": {
         "name": "FANTASY TRIBE",
         "url": "https://open.spotify.com/album/0YrIwu97fGzEOopa5pUmBB"
       },
@@ -14224,6 +14246,36 @@
       "duration_ms": 183773,
       "name": "RAMIRANI",
       "url": "https://open.spotify.com/track/3xuqOPMe5k9HGbQJzP6GQT"
+    },
+    {
+      "album": {
+        "name": "DAYDATE",
+        "url": "https://open.spotify.com/album/5scUC8BiBxD3q9esdniSPf"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221274,
+      "name": "Rap lesson (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/7gRDwMp8UzP29mXr2HDuwa"
     },
     {
       "album": {

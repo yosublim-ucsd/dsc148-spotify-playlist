@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 123018,
+  "num_followers": 123193,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMGU0YWFjZGVkNjU3NWFiMTc5MThmMDEzZjc0MmNjZTg4",
+  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDIzMDVmZDJjZjRmMGRmMzBmMDM2MGQ2MTIyMzk5ZDVm",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 192506,
       "name": "Nur f\u00fcr Dich",
       "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "F\u00fcr Immer",
         "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 128571,
       "name": "F\u00fcr Immer",
       "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
     },
     {
       "added_at": "2023-03-06 08:21:00",

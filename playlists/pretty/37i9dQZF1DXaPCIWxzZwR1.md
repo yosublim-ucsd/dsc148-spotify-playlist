@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,612 likes - 102 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,767 likes - 102 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

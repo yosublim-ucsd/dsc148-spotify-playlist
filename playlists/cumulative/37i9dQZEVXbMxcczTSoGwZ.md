@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,331 songs - 3 day 0 hr 40 min
+1,332 songs - 3 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,7 +955,7 @@
 | [Rakastunu Gangstaa \- Lotto Remix](https://open.spotify.com/track/2N780yabixU5WBrkTtfwLs) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rakastunu Gangstaa \(Lotto Remix\)](https://open.spotify.com/album/2xMp1Kc38teRkDFYBEAblP) | 2:51 | 2022-09-03 | 2022-11-13 |
 | [Rakkaus Ei Asu Täällä](https://open.spotify.com/track/3m7Gqo2ULuyGYBdqQfvukk) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Rakkaus Ei Asu Täällä](https://open.spotify.com/album/7icluuHPHsedjfwTJVVk6z) | 3:02 | 2023-02-18 | 2023-02-20 |
 | [Rakkautta ja piikkilankaa](https://open.spotify.com/track/3u8gd2SedmlhbV3dA8u5Xz) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR), [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Rakkautta ja piikkilankaa](https://open.spotify.com/album/1HH7tTIIlzu4JqmzPov9U5) | 2:44 | 2022-05-21 | 2022-07-03 |
-| [Ram pam pam](https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Ram pam pam](https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz) | 2:59 | 2022-01-15 |  |
+| [Ram pam pam](https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Ram pam pam](https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz) | 2:59 | 2022-01-15 | 2023-04-05 |
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2021-07-01 | 2021-07-08 |
 | [Rantatontti](https://open.spotify.com/track/0lms4A7g1CpKPWGQLHPAQE) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Vastustamaton](https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7) | 3:26 | 2022-11-05 | 2022-11-21 |
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-16 | 2021-06-18 |
@@ -1039,6 +1039,7 @@
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |
 | [Silkkii](https://open.spotify.com/track/3kRNvLMvGH0nCZJAxueCg1) | [Hussa](https://open.spotify.com/artist/2qBuynC2GNPJW9s4tNBQoG), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Silkkii](https://open.spotify.com/album/7dx6XRaEENkOU5NQQFtRsB) | 2:42 | 2021-06-20 | 2021-06-27 |
 | [Silloin](https://open.spotify.com/track/2FLIbTweFFp5oAl2SKXyVT) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Silloin](https://open.spotify.com/album/0D8CMJvcN96hI3KOObVxIU) | 3:22 | 2022-07-09 | 2022-07-17 |
+| [Silmät](https://open.spotify.com/track/1rYP6R16sM0uSlxrqzR5pM) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Diplomaatti](https://open.spotify.com/album/3RqMFWox0y0ofDtvPimCqk) | 3:49 | 2023-04-04 |  |
 | [Sinä olet kaunis \- Vain elämää kausi 12](https://open.spotify.com/track/5kK01LL5xYf14RyurMOhG8) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Triosis+](https://open.spotify.com/artist/3FLWGtQILFjVr2ENqhr8G4) | [Sinä olet kaunis \(Vain elämää kausi 12\)](https://open.spotify.com/album/24NNblpq0fsKZDbOc3kxa8) | 4:21 | 2021-10-24 | 2021-10-28 |
 | [sisko älä pelkää](https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sisko älä pelkää](https://open.spotify.com/album/0SGGPX84syrqNEa0d4BXQu) | 2:53 | 2023-01-21 | 2023-02-12 |
 | [Siunaus](https://open.spotify.com/track/7wsEyQqriELzVKrp4NHfhZ) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:19 | 2022-03-05 | 2022-03-07 |

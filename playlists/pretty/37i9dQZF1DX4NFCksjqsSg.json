@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25903,
+  "num_followers": 25912,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMGNhMDEyODdkNTEyZjVmMTcwN2Y5MGRiZDgxYTdlZDM2",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDllNjk0MTUwY2JhNTlhMGZiMzA0MjA1NTlkMjEwY2E3",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -55,22 +55,6 @@
       "duration_ms": 163466,
       "name": "Je l'aime \u00e0 mourir - Remastered",
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -239,22 +223,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "A Chacun Son Histoire",
-        "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "Je n'ai que mon \u00e2me",
-      "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "En Chantant",
         "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
       },
@@ -267,6 +235,22 @@
       "duration_ms": 234173,
       "name": "En chantant",
       "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "A Chacun Son Histoire",
+        "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "Je n'ai que mon \u00e2me",
+      "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -335,22 +319,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Un beau grand bateau",
-      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fruit de ma r\u00e9cente nuit blanche",
         "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 225426,
       "name": "Faire la paix avec l'amour",
       "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Un beau grand bateau",
+      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -415,6 +399,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Une femme avec toi - Single",
+        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Une femme avec toi",
+      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 256760,
       "name": "Les yeux du coeur",
       "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Une femme avec toi - Single",
-        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Une femme avec toi",
-      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -499,6 +483,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
         "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 253893,
       "name": "Mon mec \u00e0 moi",
       "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -739,6 +723,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Casser la voix",
+      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Learn French Thru Music",
         "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
-        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -787,6 +771,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
+        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Francine Raymond",
         "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 223360,
       "name": "Vivre Avec Celui Qu'on Aime",
       "url": "https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Casser la voix",
-      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1219,6 +1203,22 @@
       "duration_ms": 210746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Mixmania",
+        "url": "https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl"
+      },
+      "artists": [
+        {
+          "name": "Aucun Regret",
+          "url": "https://open.spotify.com/artist/2YrEQN4rjMODioEZQrfvMM"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Tu t'en vas",
+      "url": "https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc"
     }
   ],
   "unique_name": "Fromage",

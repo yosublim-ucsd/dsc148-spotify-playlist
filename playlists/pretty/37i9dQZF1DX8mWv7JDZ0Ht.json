@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ziggy Alberts, Vitor Kley",
-  "num_followers": 418971,
+  "num_followers": 419025,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDI4OTU1YTc2NTQ1Nzg0MDQ5OGRkNTBlY2Q0YTBiNjE5",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDg3MjY2ODdiYTE3YjJkZjQ1NTIxNDA0ZmVhYjE1MWQw",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Tudo Certo",
+        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Porto",
+          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Tudo Certo",
+      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "giz de cera",
         "url": "https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 168615,
       "name": "giz de cera",
       "url": "https://open.spotify.com/track/0JnwmpK3A3FCJNMjy0y56r"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Tudo Certo",
-        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Porto",
-          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Tudo Certo",
-      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "MENINA",
-        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "MENINA",
-      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "sexto sentido",
         "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
@@ -1227,6 +1211,38 @@
       "duration_ms": 156690,
       "name": "sexto sentido",
       "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Pois \u00c9",
+        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
+      },
+      "artists": [
+        {
+          "name": "Iuri K",
+          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Pois \u00c9",
+      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "MENINA",
+        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "MENINA",
+      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 304341,
       "name": "fala (t\u00f4 te querendo)",
       "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Pois \u00c9",
-        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
-      },
-      "artists": [
-        {
-          "name": "Iuri K",
-          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Pois \u00c9",
-      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "n\u00f3sdois",
+        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 163815,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Olhar Sereno",
         "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 152666,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "n\u00f3sdois",
-        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
-        }
-      ],
-      "duration_ms": 163815,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",

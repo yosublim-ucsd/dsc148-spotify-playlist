@@ -1,15 +1,15 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 18254,
+  "num_followers": 18328,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMDM5NzhiNjViNmU3ZmM1MDNlMWRhMGE1MmU1ZmM4MDg1",
+  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMGY5YjFmOWZlNTlkMzBmYjc5YWY2NTc4MmM4MjRhZTU1",
   "tracks": [
     {
-      "added_at": "2023-04-04 00:44:27",
+      "added_at": "2023-04-05 01:08:13",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219993,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 227083,
       "name": "V",
       "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219993,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
     },
     {
       "added_at": "2023-02-22 06:37:37",

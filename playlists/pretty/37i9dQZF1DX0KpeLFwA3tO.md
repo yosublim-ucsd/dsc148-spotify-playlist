@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Connie Constance ft\. Jason Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,920 likes - 125 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,980 likes - 125 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 9 | [Totally Cool](https://open.spotify.com/track/5JCYjTSpiltVwVok0Ehh1T) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Totally Cool](https://open.spotify.com/album/0EaMZrBQy01EqHVI27t1pL) | 2:39 |
 | 10 | [Moving On](https://open.spotify.com/track/6ynejRROlfd3gmL6tKZ4hv) | [Life In Vacuum](https://open.spotify.com/artist/2bLid7CTiJiQULGpRRZfkb) | [Moving On](https://open.spotify.com/album/3GuYQUslq7Tb7hzJEDEENQ) | 3:16 |
 | 11 | [Eat Your Tail](https://open.spotify.com/track/7K3l9t8BfHRNEiDTGPzQyl) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Eat Your Tail](https://open.spotify.com/album/481DpBzqn3eUvsbaqNTosZ) | 4:04 |
-| 12 | [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [BAD OPTIX](https://open.spotify.com/artist/5KIqdI4DIdPdiS5JVWQVxj) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 |
+| 12 | [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [DOOM REGULATOR](https://open.spotify.com/artist/6qjOcS93vVTKy1LGVOBdac) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 |
 | 13 | [Thought It Was Yoga but It Was Ketamine](https://open.spotify.com/track/5ZaQkQHXxEPWcj2uOehRBP) | [Frenzal Rhomb](https://open.spotify.com/artist/4cxBQR2C44tnfQ74lpFN7N) | [Thought It Was Yoga but It Was Ketamine](https://open.spotify.com/album/0z8pzQeN7sNHxCz4ld2W13) | 2:16 |
 | 14 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 |
 | 15 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 |

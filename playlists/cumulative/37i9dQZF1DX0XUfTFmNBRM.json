@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Aaj Sajeya - Single",
+        "url": "https://open.spotify.com/album/5K07SMgR7RxfpsgDcNmD2o"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229179,
+      "name": "Aaj Sajeya",
+      "url": "https://open.spotify.com/track/1Oyfarj5ipZwEup8DUM7hA"
+    },
+    {
+      "album": {
         "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
         "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
       },
@@ -346,6 +364,10 @@
         {
           "name": "Rohanpreet Singh",
           "url": "https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
         },
         {
           "name": "Samay",
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 230903,
       "name": "Ektarfa",
       "url": "https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4"
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 300196,
       "name": "Filhaal2 Mohabbat",
       "url": "https://open.spotify.com/track/576v1keY82NOPITMNu0wD2"
@@ -3024,6 +3046,36 @@
       "duration_ms": 258726,
       "name": "Main Tumhara",
       "url": "https://open.spotify.com/track/2ZvWoJ82LKCgD0nU9H5ue5"
+    },
+    {
+      "album": {
+        "name": "Tu Jhoothi Main Makkaar",
+        "url": "https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247714,
+      "name": "Maine Pi Rakhi Hai",
+      "url": "https://open.spotify.com/track/0OezGqk104NQrcaLpWuYL4"
     },
     {
       "album": {

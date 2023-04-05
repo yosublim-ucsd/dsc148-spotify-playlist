@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 243846,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 234546,
       "name": "intersolid",
       "url": "https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 323328,
       "name": "Lemon Cake",
       "url": "https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 185133,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 357073,
       "name": "Soil",
       "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
@@ -1872,6 +1872,24 @@
       "duration_ms": 375866,
       "name": "The Only",
       "url": "https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z"
+    },
+    {
+      "album": {
+        "name": "Highlights from Simple is best",
+        "url": "https://open.spotify.com/album/3g19wLo3HUI5Jk6gCAf4JF"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257105,
+      "name": "The Rose (15th Anniversary Version)",
+      "url": "https://open.spotify.com/track/0XWlisVINXUSp2iEh4we66"
     },
     {
       "album": {
@@ -2110,6 +2128,24 @@
       "duration_ms": 240532,
       "name": "\u3044\u3064\u3057\u304b",
       "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3068\u306a\u307f",
+        "url": "https://open.spotify.com/album/5xBtRY8wzuZx3eKwQgxq6h"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u5c71\u670b\u5b50",
+          "url": "https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165159,
+      "name": "\u3044\u3068\u306a\u307f",
+      "url": "https://open.spotify.com/track/4yjfLuuDNskg1puzz1h0y7"
     },
     {
       "album": {
@@ -2442,6 +2478,24 @@
       "duration_ms": 286652,
       "name": "\u3082\u3057\u3082\u661f\u304c\u964d\u308b\u306e\u306a\u3089",
       "url": "https://open.spotify.com/track/0Ydlj1Y8r8xnncUIjUAQD6"
+    },
+    {
+      "album": {
+        "name": "\u306f\u306a\u3088\u3069",
+        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261282,
+      "name": "\u3084\u3048",
+      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
       "album": {
@@ -2806,7 +2860,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 161813,
       "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
       "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
@@ -3481,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "\u300c0110\u300d",
+        "url": "https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray"
+      },
+      "artists": [
+        {
+          "name": "Keach Arimoto",
+          "url": "https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo"
+        },
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165888,
+      "name": "\u805e\u3044\u3066\u305f\u306e? - feat. \u4e09\u6d66\u900f\u5b50",
+      "url": "https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis"
+    },
+    {
+      "album": {
         "name": "gel",
         "url": "https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg"
       },
@@ -3492,7 +3568,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 466758,
       "name": "\u808c\u8272",
       "url": "https://open.spotify.com/track/2YfbnRGevaN759T1DSGvxB"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 173249,
+  "num_followers": 173321,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDFmNTc4M2MyMDgyNTQ2MTU1NWVjODFkMzkxMTRjZDNl",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDliMmJhNDNjZjBjM2Y5NmFlNzYyZDA2NTE0MzYxOThh",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
         }
       ],
-      "duration_ms": 287346,
-      "name": "Te Amo y Te Amo",
-      "url": "https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL"
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
+        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
       },
       "artists": [
         {
-          "name": "Los Hermanos Zuleta",
-          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
         }
       ],
-      "duration_ms": 299733,
-      "name": "Mi Hermano Y Yo",
-      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
+      "duration_ms": 287346,
+      "name": "Te Amo y Te Amo",
+      "url": "https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+          "name": "Los Hermanos Zuleta",
+          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+      "duration_ms": 299733,
+      "name": "Mi Hermano Y Yo",
+      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
     },
     {
       "added_at": "2023-02-07 01:31:56",

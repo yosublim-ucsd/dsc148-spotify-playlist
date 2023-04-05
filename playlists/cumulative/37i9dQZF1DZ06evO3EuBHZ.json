@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 305893,
       "name": "Everything Gonna Be Alright",
       "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 143840,
       "name": "I've Searched the World Over",
       "url": "https://open.spotify.com/track/0bvOaYXInXq13aY6mPUaih"
@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Just Like A Dog, Barking Up The Wrong Tree",
+      "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
+    },
+    {
+      "album": {
         "name": "The Blues Collective - Big Mama Thornton",
         "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 165140,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/58ZJKSu9uU1k1YOzQokiJm"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 160840,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6Yg6G5EhOmcFPYCYIo6mnr"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 124506,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 180442,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/6DZ1pkIq00eZLC8pnHP8gF"

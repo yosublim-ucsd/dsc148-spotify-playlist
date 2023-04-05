@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 299168,
+  "num_followers": 299272,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGFmNGZiMzY4N2VjYTk4MTM0YmE2YTc2MDIzZjg1M2Vl",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDI4ODlmOGE1MzY5M2U1MDhhNjZmNDZkMmQ0YmFhZTU4",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -831,6 +831,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "People",
-      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
-      },
-      "artists": [
-        {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Pleasure (Now & Forever)",
         "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 246760,
       "name": "Boy Blue",
       "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
+      },
+      "artists": [
+        {
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Gravitate",
-        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Martha Da'ro",
+          "url": "https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl"
         }
       ],
-      "duration_ms": 341826,
-      "name": "Gravitate",
-      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
+      "duration_ms": 249112,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
     }
   ],
   "unique_name": "Soultronic",

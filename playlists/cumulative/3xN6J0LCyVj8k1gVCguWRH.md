@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,127 songs - 5 day 2 hr 18 min
+2,129 songs - 5 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-05 | 2021-07-12 |
 | [Bad Things](https://open.spotify.com/track/2U1JR8iWX9Uwckt32tBTB3) | [Jasmine L'Chelle](https://open.spotify.com/artist/1lLZlT6WVx23sUfIC41Y3z) | [Bad Things](https://open.spotify.com/album/6GC28OVyjGWVnRTMXK1siz) | 3:19 | 2021-11-13 | 2021-11-28 |
 | [Badu](https://open.spotify.com/track/54CnmjGEgePxXX8SLrcboz) | [Drew Bolden](https://open.spotify.com/artist/4s7z0GLKRs8QUz9eLYw0EL) | [Venus In Gemini](https://open.spotify.com/album/7nvexR3K0DGRRFAeahy7US) | 4:26 | 2023-02-28 | 2023-03-18 |
+| [Baila](https://open.spotify.com/track/4Q59vOpIKQBQfwu5ZJylDy) | [Numasbala](https://open.spotify.com/artist/0AcapFfxUCOQ7vUZaZMXgw) | [Baila](https://open.spotify.com/album/10PPheokdPIsvkQngOp0gr) | 3:54 | 2023-04-04 |  |
 | [BAILE FUNK 5](https://open.spotify.com/track/04jfSmC2sRRI6i7fLExba1) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [BAILE FUNK 5](https://open.spotify.com/album/0ZUtOcfkTQfq5dBkeQcEVD) | 2:26 | 2020-10-12 | 2020-10-21 |
 | [Balada Para Perrear](https://open.spotify.com/track/1Gp5LG0NxOKZP9CoMTvo53) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Balada Para Perrear](https://open.spotify.com/album/7pb04lojhpJr3Yn7Nt3tEE) | 3:15 | 2021-01-29 | 2021-06-06 |
 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 | 2022-07-19 | 2022-08-05 |
@@ -1449,7 +1450,7 @@
 | [Pippins](https://open.spotify.com/track/1gc9zvRUC8XiUtp0FO6cAW) | [Flo Chase](https://open.spotify.com/artist/6wCdPDfNu7kWsDTuBFe8x8) | [Toi](https://open.spotify.com/album/4EnrmhjL0cRbzQSj5saOcD) | 3:26 | 2021-06-26 | 2021-07-11 |
 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 | 2022-03-11 | 2022-03-31 |
 | [place card](https://open.spotify.com/track/5IK68GpO5jigQjoEabuiLd) | [Olivia Melfi](https://open.spotify.com/artist/3gaTC5BggXRvAPP6m9JRRw) | [place card](https://open.spotify.com/album/5X4U4bpXB4cjpnzJ358lpH) | 3:19 | 2023-02-26 | 2023-03-20 |
-| [Plastic Sea](https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb) | [Julian Maverick](https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb) | [Plastic Sea](https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog) | 4:42 | 2023-03-27 |  |
+| [Plastic Sea](https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb) | [Julian Maverick](https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb) | [Plastic Sea](https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog) | 4:42 | 2023-03-27 | 2023-04-05 |
 | [Platinum](https://open.spotify.com/track/3VWSUhXqZWMemBR7i0lWYP) | [Jay Watts](https://open.spotify.com/artist/2lGHglX5dA9A4IAw9kjDm6) | [Platinum](https://open.spotify.com/album/5HflEJsBKAVZf56iu37zvr) | 2:32 | 2020-07-05 | 2020-07-28 |
 | [Play To Tease](https://open.spotify.com/track/5fNPdXqUH2cLc75V9DUUhU) | [Shania Juzil](https://open.spotify.com/artist/3DQysDkHXUZ32ZHyFsjbxK) | [Play To Tease](https://open.spotify.com/album/7nx2ZhLDgbMUwdFRNCcbBl) | 3:12 | 2021-07-10 | 2021-07-25 |
 | [Playlist](https://open.spotify.com/track/0xu5fobRmWiQI3hGbCF5qu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Playlist](https://open.spotify.com/album/65zm0Vv44YuJKIkxmklQ5u) | 3:01 | 2022-12-15 | 2023-01-13 |
@@ -1602,6 +1603,7 @@
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2022-09-27 |
 | [Secret Places](https://open.spotify.com/track/49d1JMJusDfWXDf78yGKiS) | [Kindred Connection](https://open.spotify.com/artist/5cEEoJbXSjPdfO4xYWXPvg) | [Secret Places](https://open.spotify.com/album/5fwLSEZ5dGpxet0h5vG2eV) | 3:12 | 2021-05-08 | 2021-05-23 |
 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 | 2022-07-15 | 2022-08-05 |
+| [See you again](https://open.spotify.com/track/0MdAEI3KPiwzpXDQQzvMAp) | [Love, Kiss me](https://open.spotify.com/artist/65nr1inM1HxII2tOrFHGvF) | [See you again](https://open.spotify.com/album/5toV7wKL0NQ5R4fKt84AuT) | 3:24 | 2023-04-04 |  |
 | [See You Later](https://open.spotify.com/track/6QNDCSWnkY58Tuy4NCTDkm) | [Sonnengruss](https://open.spotify.com/artist/1ZhvuoFAmQ93bqmF4UKNTR), [Amit Benita](https://open.spotify.com/artist/4uHDumx7WnNV9aJJjLXhnM) | [See You Later](https://open.spotify.com/album/3u9oYmFsoMqsxMC2U9Z2C1) | 2:10 | 2021-08-13 | 2021-08-29 |
 | [Self Respect](https://open.spotify.com/track/4ekTjnkwGbwutLCz68p7gC) | [Utkarsh Ambudkar](https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN) | [Self Respect](https://open.spotify.com/album/6aZkfo5Qw3OchvAYgEk5Hx) | 3:19 | 2020-06-29 | 2020-07-13 |
 | [Selfcare](https://open.spotify.com/track/36PrB9dBUraTiqmjgw8Cgz) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Selfcare](https://open.spotify.com/album/1a6mqo2z80o5aFqlJzcMG2) | 2:41 | 2022-09-24 | 2022-10-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap. Cover: NF",
+  "description": "A little bit of pop, a little bit of rap. Cover: Felly",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "2hrs",
+        "url": "https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64722,
+      "name": "2hrs",
+      "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
+    },
+    {
+      "album": {
         "name": "3 Feet Tall",
         "url": "https://open.spotify.com/album/06ASZgUX18vrOFKMXOtHzs"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 206333,
       "name": "act right",
       "url": "https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn"
@@ -916,6 +934,24 @@
       "duration_ms": 143795,
       "name": "Bitch Back (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
+    },
+    {
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5veZ0Z8W3HDqXiYrQvCWWl"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/0YAxwCrvS203to4rX3wlz8"
     },
     {
       "album": {
@@ -1633,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "HDTV",
+        "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124240,
+      "name": "Clyde & Bonnie",
+      "url": "https://open.spotify.com/track/3WtYZCuYuJ2COat7UhLbD3"
+    },
+    {
+      "album": {
         "name": "Acid Rap",
         "url": "https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh"
       },
@@ -1998,6 +2052,24 @@
       "duration_ms": 158181,
       "name": "Decide",
       "url": "https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM"
+    },
+    {
+      "album": {
+        "name": "deep end",
+        "url": "https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144457,
+      "name": "deep end",
+      "url": "https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa"
     },
     {
       "album": {
@@ -2700,7 +2772,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
@@ -4371,6 +4443,28 @@
     },
     {
       "album": {
+        "name": "PURPLE RAG PRINCE",
+        "url": "https://open.spotify.com/album/1DEKTyc3STPJG5MFXUOKPR"
+      },
+      "artists": [
+        {
+          "name": "Baby Prince",
+          "url": "https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d"
+        },
+        {
+          "name": "Kedus",
+          "url": "https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139009,
+      "name": "ISSUES",
+      "url": "https://open.spotify.com/track/10wnomX77L0VjAl0rTZWZA"
+    },
+    {
+      "album": {
         "name": "It Could Be Me",
         "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
       },
@@ -4382,7 +4476,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 127458,
       "name": "It Could Be Me",
       "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
@@ -4570,7 +4664,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 119946,
       "name": "lame ass",
       "url": "https://open.spotify.com/track/3A4yOd5WdPDW8o7YihEKA7"
@@ -5472,7 +5566,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 217271,
       "name": "MOTTO",
       "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
@@ -6157,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
+    },
+    {
+      "album": {
         "name": "Over & Done",
         "url": "https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu"
       },
@@ -6672,7 +6784,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 148826,
       "name": "RAGE",
       "url": "https://open.spotify.com/track/2JbwQteW6QQ2M2RIqGWY6h"
@@ -6774,6 +6886,24 @@
       "duration_ms": 143529,
       "name": "Real Life Sux",
       "url": "https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6"
+    },
+    {
+      "album": {
+        "name": "Subluxe",
+        "url": "https://open.spotify.com/album/2UvJlbWPpItxxSrlQGrXAt"
+      },
+      "artists": [
+        {
+          "name": "Healy",
+          "url": "https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237157,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/3UJS9aEUbtYO8kMl1IK1r3"
     },
     {
       "album": {
@@ -8939,6 +9069,28 @@
     },
     {
       "album": {
+        "name": "wanna know",
+        "url": "https://open.spotify.com/album/6UWlNXrYXJzvrTwFyB2BzB"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        },
+        {
+          "name": "JD Moon",
+          "url": "https://open.spotify.com/artist/3aFZe6Sx7dHhVkeKO2H7e9"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131300,
+      "name": "wanna know",
+      "url": "https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8"
+    },
+    {
+      "album": {
         "name": "Wanted More",
         "url": "https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj"
       },
@@ -9286,6 +9438,24 @@
       "duration_ms": 161700,
       "name": "you",
       "url": "https://open.spotify.com/track/249pLzwkXDMii8wHyfZpZD"
+    },
+    {
+      "album": {
+        "name": "You Say",
+        "url": "https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224250,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK"
     },
     {
       "album": {

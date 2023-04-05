@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Good Company, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Koteri. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 192916,
       "name": "complicated_5",
       "url": "https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 252000,
       "name": "December",
       "url": "https://open.spotify.com/track/0JnCAByIOXF3pmduqQp9Xn"
@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angels",
+        "url": "https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd"
+      },
+      "artists": [
+        {
+          "name": "MXWI",
+          "url": "https://open.spotify.com/artist/7JfUaRJCsp1gLk2wiX6uNI"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176875,
+      "name": "Fallen Angels",
+      "url": "https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2"
+    },
+    {
+      "album": {
         "name": "Faqat Ala Bali",
         "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 240000,
       "name": "Flight of Time",
       "url": "https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2"
@@ -889,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz"
+      },
+      "artists": [
+        {
+          "name": "KATARYA",
+          "url": "https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui"
+    },
+    {
+      "album": {
         "name": "Higher (Breathe Easy)",
         "url": "https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN"
       },
@@ -980,7 +1016,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 218453,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b"
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 313375,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b"
@@ -1467,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Make You Happier",
+        "url": "https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY"
+      },
+      "artists": [
+        {
+          "name": "emisa",
+          "url": "https://open.spotify.com/artist/2HBd9g5slj3HAi22gY9L6G"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137813,
+      "name": "Make You Happier",
+      "url": "https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt"
+    },
+    {
+      "album": {
         "name": "Molly Crapton",
         "url": "https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK"
       },
@@ -1554,7 +1608,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 492100,
       "name": "Midnight Blooms",
       "url": "https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg"
@@ -1861,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Ode to life",
+        "url": "https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq"
+      },
+      "artists": [
+        {
+          "name": "Baddou",
+          "url": "https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274891,
+      "name": "Ode to life",
+      "url": "https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1no8qFz8Vx9ymcCTL5D1SX"
       },
@@ -1890,7 +1962,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 175794,
       "name": "Oh Julia",
       "url": "https://open.spotify.com/track/6KUfAYSpuZGdb1jPyBMKWS"
@@ -1912,6 +1984,24 @@
       "duration_ms": 197273,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq"
+    },
+    {
+      "album": {
+        "name": "Open the Pit",
+        "url": "https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP"
+      },
+      "artists": [
+        {
+          "name": "Nader Khalil",
+          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116923,
+      "name": "Open the Pit",
+      "url": "https://open.spotify.com/track/0wH4CxUFXPy8QjjJLZHass"
     },
     {
       "album": {
@@ -2010,6 +2100,24 @@
       "duration_ms": 216500,
       "name": "Pears",
       "url": "https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj"
+    },
+    {
+      "album": {
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI"
     },
     {
       "album": {
@@ -2227,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216236,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm"
+    },
+    {
+      "album": {
         "name": "Subliminal Reality EP",
         "url": "https://open.spotify.com/album/6zzP88NtgWx46fn02EW4xU"
       },
@@ -2356,7 +2482,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 220200,
       "name": "Stranger (\u063a\u0631\u064a\u0628)",
       "url": "https://open.spotify.com/track/3m7rymge4fdUrvDSKyRg0V"
@@ -2569,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "waht if_6",
+        "url": "https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf"
+      },
+      "artists": [
+        {
+          "name": "artistbasm",
+          "url": "https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91854,
+      "name": "waht if_6",
+      "url": "https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6"
+    },
+    {
+      "album": {
         "name": "What I Mean",
         "url": "https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY"
       },
@@ -2580,7 +2724,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 169142,
       "name": "What I Mean",
       "url": "https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v"

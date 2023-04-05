@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr. Pig en portada.",
-  "num_followers": 54154,
+  "num_followers": 54157,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwMjY3NywwMDAwMDAwMDUwMzRiYTQ2ZTQxNzg5MzczODEzZjA0Y2QxNTc3YTYy",
+  "snapshot_id": "MTY3OTYwMjY3NywwMDAwMDAwMGU4YmJkMzA5Nzg5ZjRjNDRkMTNmNzlmNWU5ODNhMzkx",
   "tracks": [
     {
       "added_at": "2023-03-17 16:50:35",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
-      "added_at": "2023-04-04 01:13:44",
+      "added_at": "2023-04-05 01:05:19",
       "album": {
         "name": "San Junipero",
         "url": "https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV"
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "ML3NNON",
+          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "UP (Bzars Remix)",
         "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
       },
@@ -479,30 +503,6 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/19068iWscfCtBIkmza7Mur"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
-        },
-        {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 180521,
       "name": "Ojos - La Noche Mix - Radio Edit",
       "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG"
       },
@@ -1159,26 +1139,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll"
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
       },
       "artists": [
         {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
         },
         {
-          "name": "Atm\u00ebn",
-          "url": "https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf"
-        },
-        {
-          "name": "MaQui",
-          "url": "https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         }
       ],
-      "duration_ms": 190645,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv"
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1199,6 +1175,30 @@
       "duration_ms": 178909,
       "name": "Space",
       "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Atm\u00ebn",
+          "url": "https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf"
+        },
+        {
+          "name": "MaQui",
+          "url": "https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q"
+        }
+      ],
+      "duration_ms": 190645,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 112800,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1435,42 +1435,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "killed love",
-        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "killed love",
-      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
       },
@@ -1495,6 +1459,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "killed love",
+        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 232288,
+      "name": "killed love",
+      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 192366,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     }
   ],
   "unique_name": "mint MX",

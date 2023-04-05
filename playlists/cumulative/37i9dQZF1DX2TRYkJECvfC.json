@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Cynnes",
+        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324333,
+      "name": "Cynnes",
+      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "album": {
         "name": "Dancing Queen",
         "url": "https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 363398,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd"
@@ -2482,6 +2500,24 @@
       "duration_ms": 267779,
       "name": "indulge",
       "url": "https://open.spotify.com/track/1xtAsTz9HdPJX20KUlQ3sB"
+    },
+    {
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "album": {
@@ -5265,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Fate (B-Sides)",
+        "url": "https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "Snow In The Distance",
+      "url": "https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS"
+    },
+    {
+      "album": {
         "name": "Sofia's Theme",
         "url": "https://open.spotify.com/album/2GBTgLWpMzjDS3LPazU8C1"
       },
@@ -5730,7 +5784,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 189556,
       "name": "Sun",
       "url": "https://open.spotify.com/track/2k4Fi92cj9ek4twS3uzckQ"
@@ -6876,7 +6930,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 178928,
       "name": "Why So Blue? - Radio Edit",
       "url": "https://open.spotify.com/track/3pMT96h7pwJMsRGsXwpyVU"

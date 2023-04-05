@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
+    },
+    {
+      "album": {
         "name": "Cruel Old World",
         "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 245066,
       "name": "Long River (Allegheny)",
       "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"

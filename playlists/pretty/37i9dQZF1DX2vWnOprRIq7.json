@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Alfonsina.",
-  "num_followers": 15249,
+  "num_followers": 15251,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMTgwMiwwMDAwMDAwMDFkY2U1ZjlhMzRhYjQ2NjgxMDg3MDM5MzFhNzc1NjA4",
+  "snapshot_id": "MTY3OTYxMTgwMiwwMDAwMDAwMDk3NjQ0MDUwMWNkMDc0NTYxYWIyNGIwZjQ4MGEwYjZm",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/555uSzxhjD72TQBEoPOfYT"
     },
     {
-      "added_at": "2023-04-04 01:18:05",
+      "added_at": "2023-04-05 01:09:48",
       "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "LLUVIA",
         "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 218171,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
     },
     {
-      "added_at": "2023-04-04 01:18:05",
+      "added_at": "2023-04-05 01:09:48",
       "album": {
         "name": "\u00d3rbita",
         "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "pulso/yotuoro",
         "url": "https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 165714,
       "name": "pulso",
       "url": "https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Autorretrato en Blanco",
         "url": "https://open.spotify.com/album/0QdA8t27p18rv47csXx7ZR"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 247826,
       "name": "Autorretrato en Blanco",
       "url": "https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "PSICURA",
-        "url": "https://open.spotify.com/album/0Tk9AUF3GEQP9wyjAndHlY"
-      },
-      "artists": [
-        {
-          "name": "K4",
-          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "PSICURA",
-      "url": "https://open.spotify.com/track/08rHr2Hh3hVHfvQll5bFLk"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Cometa",
         "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 297516,
       "name": "Hondo",
       "url": "https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "PSICURA",
+        "url": "https://open.spotify.com/album/0Tk9AUF3GEQP9wyjAndHlY"
+      },
+      "artists": [
+        {
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "PSICURA",
+      "url": "https://open.spotify.com/track/08rHr2Hh3hVHfvQll5bFLk"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Les disques du bord de l'eau: Winter EP 2021",
-        "url": "https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL"
-      },
-      "artists": [
-        {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
-        },
-        {
-          "name": "Manu Ela",
-          "url": "https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT"
-        }
-      ],
-      "duration_ms": 310687,
-      "name": "Del Tiempo - Original Mix",
-      "url": "https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 345716,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Les disques du bord de l'eau: Winter EP 2021",
+        "url": "https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Manu Ela",
+          "url": "https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT"
+        }
+      ],
+      "duration_ms": 310687,
+      "name": "Del Tiempo - Original Mix",
+      "url": "https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r"
-      },
-      "artists": [
-        {
-          "name": "Ine G\u00fcemes",
-          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
-        }
-      ],
-      "duration_ms": 239776,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 235000,
       "name": "Mala",
       "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        }
+      ],
+      "duration_ms": 239776,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Mejor no hablar de ciertas cosas",
-        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 300782,
-      "name": "Mejor no hablar de ciertas cosas",
-      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
+        "name": "Quisiera Que Est\u00e9s Ac\u00e1",
+        "url": "https://open.spotify.com/album/7h8hyIl17lK83coCU4SlsL"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Uzal",
-          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
         }
       ],
-      "duration_ms": 169227,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
+      "duration_ms": 290500,
+      "name": "Quisiera Que Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1407,18 +1391,34 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Quisiera Que Est\u00e9s Ac\u00e1",
-        "url": "https://open.spotify.com/album/7h8hyIl17lK83coCU4SlsL"
+        "name": "Mejor no hablar de ciertas cosas",
+        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
       },
       "artists": [
         {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
         }
       ],
-      "duration_ms": 290500,
-      "name": "Quisiera Que Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8"
+      "duration_ms": 300782,
+      "name": "Mejor no hablar de ciertas cosas",
+      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Uzal",
+          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
+        }
+      ],
+      "duration_ms": 169227,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
     },
     {
       "added_at": "2023-03-17 03:00:00",

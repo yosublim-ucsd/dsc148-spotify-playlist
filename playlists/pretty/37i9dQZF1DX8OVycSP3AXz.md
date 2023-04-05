@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,576 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,602 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 46 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 |
 | 47 | [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 |
 | 48 | [Il a le Truc](https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e) | [Les Gam's](https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa) | [Les Gam's](https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW) | 2:28 |
-| 49 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
+| 49 | [La nuit n'en finit plus](https://open.spotify.com/track/1TGcuqWyRfV488tGSiv9iq) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDAzNmI0ZGZlODA2NDNiYmNkM2Q4NWY5NDc3ZGM2YTRh`
+Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMGM2MjZiODYxMWU2OTM5YmZmYTJmNjExYjA3MWI3ZWMz`

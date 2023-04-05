@@ -1,12 +1,12 @@
 {
   "description": "La playlist che \u00e8 come andare ai concerti. NAMIDA in cover!",
-  "num_followers": 18546,
+  "num_followers": 18554,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzMjUwMSwwMDAwMDAwMGRkMzcwNWVhMDAxYmM3NGY0ZGMyNDc0NGJkYTI0MzBi",
+  "snapshot_id": "MTY4MDUzMjUwMSwwMDAwMDAwMGUzMGY4NDI1MGNkOTdmOTk0MjU5Yjk2MjE1MGM4Nzll",
   "tracks": [
     {
       "added_at": "2023-04-03 14:35:01",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "GDPR",
-        "url": "https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6"
-      },
-      "artists": [
-        {
-          "name": "montag",
-          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "GDPR",
-      "url": "https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
         "name": "MOSTRO",
         "url": "https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 235068,
       "name": "Quello Che Non C'\u00e8 (feat. Manuel Agnelli)",
       "url": "https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "GDPR",
+        "url": "https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "GDPR",
+      "url": "https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "TRANNE LA MIA",
-        "url": "https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm"
-      },
-      "artists": [
-        {
-          "name": "Moise",
-          "url": "https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "TRANNE LA MIA",
-      "url": "https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
         "name": "Backrooms",
         "url": "https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ"
       },
@@ -715,6 +699,38 @@
       "duration_ms": 111235,
       "name": "Backrooms",
       "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "Open Access",
+        "url": "https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Open Access",
+      "url": "https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "TRANNE LA MIA",
+        "url": "https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "TRANNE LA MIA",
+      "url": "https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "Open Access",
-        "url": "https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF"
+        "name": "Il Nuovo Mare",
+        "url": "https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8"
       },
       "artists": [
         {
-          "name": "montag",
-          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+          "name": "Vintage Violence",
+          "url": "https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Open Access",
-      "url": "https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ"
+      "duration_ms": 128500,
+      "name": "Il Nuovo Mare",
+      "url": "https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "Il Nuovo Mare",
-        "url": "https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8"
+        "name": "Schifo",
+        "url": "https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1"
       },
       "artists": [
         {
-          "name": "Vintage Violence",
-          "url": "https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm"
+          "name": "Colla",
+          "url": "https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6"
         }
       ],
-      "duration_ms": 128500,
-      "name": "Il Nuovo Mare",
-      "url": "https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L"
+      "duration_ms": 182253,
+      "name": "Schifo",
+      "url": "https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -851,22 +867,6 @@
       "duration_ms": 220555,
       "name": "Volpi",
       "url": "https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "Schifo",
-        "url": "https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1"
-      },
-      "artists": [
-        {
-          "name": "Colla",
-          "url": "https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Schifo",
-      "url": "https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
+        "name": "Squot",
+        "url": "https://open.spotify.com/album/6djLx5ZBsOs3m1XDchYLyq"
+      },
+      "artists": [
+        {
+          "name": "filospada",
+          "url": "https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Squot",
+      "url": "https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
         "name": "Unisono",
         "url": "https://open.spotify.com/album/1arWxoywNGR6Oja3DhsmQV"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 220821,
       "name": "Una guerra da perdere",
       "url": "https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "CARNE OSSA",
-        "url": "https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX"
-      },
-      "artists": [
-        {
-          "name": "Marrano",
-          "url": "https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "ALL'INFERNO C'\u00c8 IL SOLE",
-      "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
     }
   ],
   "unique_name": "Rock Italia",

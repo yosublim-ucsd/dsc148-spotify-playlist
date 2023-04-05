@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "After the Rain",
+        "url": "https://open.spotify.com/album/4JH0SDLuwtuy6JFuwvAniJ"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146923,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/1lRBerZ343b4uokzIzyMYY"
+    },
+    {
+      "album": {
         "name": "Aftontimma",
         "url": "https://open.spotify.com/album/0GUcfgnAq4LSrBPAUG92qC"
       },
@@ -1665,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Graphite",
+        "url": "https://open.spotify.com/album/4PyRaAiVAtdzw5P47JFEqH"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126078,
+      "name": "Graphite",
+      "url": "https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7"
       },
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 174000,
       "name": "Higo",
       "url": "https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV"
@@ -4078,7 +4114,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 140300,
       "name": "Sands Of Time",
       "url": "https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal"
@@ -5148,6 +5184,28 @@
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1lXQipR1KhZf5JRUwM5mDg"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106260,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6S3uAaYflAG6653OxyJJ2Y"
     },
     {
       "album": {

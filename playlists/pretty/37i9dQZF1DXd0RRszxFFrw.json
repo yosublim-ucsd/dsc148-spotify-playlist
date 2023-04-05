@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46152,
+  "num_followers": 46169,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGU5ODAwOTkzZTNjMGE4MThkODU2ZmUzMjI3ZGQyOGZm",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGU0YTBhYTFhZmEwNWE3Yzc1OWQ0ODY1MGI1ZmU4NmNi",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
-      },
-      "artists": [
-        {
-          "name": "Denisinho",
-          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
-        }
-      ],
-      "duration_ms": 160850,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
+      },
+      "artists": [
+        {
+          "name": "Denisinho",
+          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
+        }
+      ],
+      "duration_ms": 160850,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Asi lo siento",
-        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Vivienne - Rumba",
-      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Lost Tales of Catalonia",
         "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 193851,
       "name": "When the Ocean Sleeps",
       "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Asi lo siento",
+        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Vivienne - Rumba",
+      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
-        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
-      },
-      "artists": [
-        {
-          "name": "Panagiotis Margaris",
-          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Tango en Skai - Instrumental",
-      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Herencia de Valencia",
         "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 198813,
       "name": "Herencia de Valencia",
       "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
+        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+      },
+      "artists": [
+        {
+          "name": "Panagiotis Margaris",
+          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Tango en Skai - Instrumental",
+      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Contemporary Spanish Guitar: Kindred Spirits",
-        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
-      },
-      "artists": [
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
-        }
-      ],
-      "duration_ms": 402466,
-      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
-      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Romantic Carnival Chillout Music",
         "url": "https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 97387,
       "name": "Mexican Mood",
       "url": "https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Contemporary Spanish Guitar: Kindred Spirits",
+        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "duration_ms": 402466,
+      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
+      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
     }
   ],
   "unique_name": "Cena con Guitarras",

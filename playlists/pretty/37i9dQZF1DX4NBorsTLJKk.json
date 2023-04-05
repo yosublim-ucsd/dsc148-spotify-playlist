@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 29711,
+  "num_followers": 29723,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMGI2ZjAzOTYzNWJlMmE0YzMyMGFhOTkzOTY1ZWQwMDg4",
+  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMGUxNzQyYWExZmI0MjZjNDA0MzdjYzE5ZWZlMzE4ODQ4",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u4eca\u591c\u6709\u96e8",
-        "url": "https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk"
-      },
-      "artists": [
-        {
-          "name": "H3R3",
-          "url": "https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML"
-        }
-      ],
-      "duration_ms": 288742,
-      "name": "\u4eca\u591c\u6709\u96e8",
-      "url": "https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u7d66\u5929\u738b\u661f",
         "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 244668,
       "name": "\u8857\u4ed4\u8def\u96e8\u843d\u8882\u505c",
       "url": "https://open.spotify.com/track/6eV9UVxth2ITN7WZXy1QU2"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u4eca\u591c\u6709\u96e8",
+        "url": "https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk"
+      },
+      "artists": [
+        {
+          "name": "H3R3",
+          "url": "https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML"
+        }
+      ],
+      "duration_ms": 288742,
+      "name": "\u4eca\u591c\u6709\u96e8",
+      "url": "https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
+        "name": "\u7b2c\u4e09\u4ee3\u674e\u5fc3\u6f54 - \u88d9\u64fa\u6416\u6416",
+        "url": "https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5fc3\u6f54",
+          "url": "https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "\u53c8\u4e0b\u96e8\u4e86",
+      "url": "https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
         "name": "\u5c0f\u5b87\u5b99",
         "url": "https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u7b2c\u4e09\u4ee3\u674e\u5fc3\u6f54 - \u88d9\u64fa\u6416\u6416",
-        "url": "https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u5fc3\u6f54",
-          "url": "https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "\u53c8\u4e0b\u96e8\u4e86",
-      "url": "https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "When I Leave Taipei",
         "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 207099,
       "name": "\u96e8\u5f8c\u5f69\u8679",
       "url": "https://open.spotify.com/track/035sykvGT6Muyog0Q7vMoP"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "\u7d05\u8594\u8587 \u856d\u4e9e\u8ed2",
-        "url": "https://open.spotify.com/album/3JkpICoTdCueQSw4O12iN7"
-      },
-      "artists": [
-        {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "\u96e8\u5b63\u4e2d",
-      "url": "https://open.spotify.com/track/0DYYzMxj5aGKbYJIQRRpQi"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -951,6 +935,38 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
+        "name": "\u7d05\u8594\u8587 \u856d\u4e9e\u8ed2",
+        "url": "https://open.spotify.com/album/3JkpICoTdCueQSw4O12iN7"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "\u96e8\u5b63\u4e2d",
+      "url": "https://open.spotify.com/track/0DYYzMxj5aGKbYJIQRRpQi"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u60f3\u8981\u6dcb\u96e8\u7684\u4eba (\u96fb\u5f71\u300a\u5168\u9762\u653b\u4f543:\u5929\u4f7f\u6551\u63f4\u300b\u4e2d\u6587\u5ba3\u50b3\u66f2)",
+        "url": "https://open.spotify.com/album/1NU6x0Fn10YFh0bq0vwgp9"
+      },
+      "artists": [
+        {
+          "name": "Quarterback",
+          "url": "https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "\u60f3\u8981\u6dcb\u96e8\u7684\u4eba (\u96fb\u5f71\u300a\u5168\u9762\u653b\u4f543:\u5929\u4f7f\u6551\u63f4\u300b\u4e2d\u6587\u5ba3\u50b3\u66f2)",
+      "url": "https://open.spotify.com/track/6tpw6fA4DDrwWp5Ettz2MC"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
         "name": "\u7fca\u5f80\u60c5\u6df1",
         "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 265760,
       "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "\u60f3\u8981\u6dcb\u96e8\u7684\u4eba (\u96fb\u5f71\u300a\u5168\u9762\u653b\u4f543:\u5929\u4f7f\u6551\u63f4\u300b\u4e2d\u6587\u5ba3\u50b3\u66f2)",
-        "url": "https://open.spotify.com/album/1NU6x0Fn10YFh0bq0vwgp9"
-      },
-      "artists": [
-        {
-          "name": "Quarterback",
-          "url": "https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "\u60f3\u8981\u6dcb\u96e8\u7684\u4eba (\u96fb\u5f71\u300a\u5168\u9762\u653b\u4f543:\u5929\u4f7f\u6551\u63f4\u300b\u4e2d\u6587\u5ba3\u50b3\u66f2)",
-      "url": "https://open.spotify.com/track/6tpw6fA4DDrwWp5Ettz2MC"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u65b0\u9bae",
-        "url": "https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7"
-      },
-      "artists": [
-        {
-          "name": "Gigi Leung",
-          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "\u611b\u4e0a\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u5c0f\u4e11/\u82f1\u96c4",
         "url": "https://open.spotify.com/album/5aAAO9mFJV5Y9BWhquOcHY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 275880,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/5iHMbxkuqPnd9iT0LNqP8V"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u65b0\u9bae",
+        "url": "https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7"
+      },
+      "artists": [
+        {
+          "name": "Gigi Leung",
+          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "\u611b\u4e0a\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u221e\u7121\u9650",
-        "url": "https://open.spotify.com/album/5R3fhoNuPUPYLh4XSQRXEC"
-      },
-      "artists": [
-        {
-          "name": "Kumachan",
-          "url": "https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "\u5c0f\u96e8",
-      "url": "https://open.spotify.com/track/0bO7061F8NRnHMsZ88tRM3"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u6dcb\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 238000,
       "name": "\u6dcb\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u221e\u7121\u9650",
+        "url": "https://open.spotify.com/album/5R3fhoNuPUPYLh4XSQRXEC"
+      },
+      "artists": [
+        {
+          "name": "Kumachan",
+          "url": "https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "\u5c0f\u96e8",
+      "url": "https://open.spotify.com/track/0bO7061F8NRnHMsZ88tRM3"
     },
     {
       "added_at": "2023-01-10 03:20:54",

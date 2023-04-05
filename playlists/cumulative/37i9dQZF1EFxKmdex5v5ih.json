@@ -3343,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Never Be Mine",
+        "url": "https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222598,
+      "name": "Never Be Mine",
+      "url": "https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M"
+    },
+    {
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -4168,6 +4186,24 @@
       "duration_ms": 210360,
       "name": "Scumbag (feat. blink-182)",
       "url": "https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk"
+    },
+    {
+      "album": {
+        "name": "Se Dig Gr\u00e6de",
+        "url": "https://open.spotify.com/album/3Sw0RFbDZXoZw2Df3bLiMF"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113990,
+      "name": "Se Dig Gr\u00e6de",
+      "url": "https://open.spotify.com/track/3r8ie9cu2LumbxtwAzXTAd"
     },
     {
       "album": {

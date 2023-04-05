@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: BABYMETAL",
+  "description": "The biggest rock artists in Japan right now! Cover: BAWDIES",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 242278,
       "name": "B.O.Y.",
       "url": "https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K"
@@ -576,6 +576,24 @@
       "duration_ms": 238498,
       "name": "Bloody Power Fame",
       "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
+    },
+    {
+      "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU"
+      },
+      "artists": [
+        {
+          "name": "BUCK-TICK",
+          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237306,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI"
     },
     {
       "album": {
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 153602,
       "name": "Dreaming of you",
       "url": "https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 252133,
       "name": "EASY ACTION",
       "url": "https://open.spotify.com/track/3LKRZlG384A97rpHjrj9nT"
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 219266,
       "name": "Lightning-Syndrome",
       "url": "https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y"
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 250506,
       "name": "Listen",
       "url": "https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 191373,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs"
@@ -3785,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241153,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
+    },
+    {
+      "album": {
         "name": "POP",
         "url": "https://open.spotify.com/album/7L6AfaXxN6UnKyUnrPV9co"
       },
@@ -3911,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4UywvUBYPPckuNbgqT8LXg"
+      },
+      "artists": [
+        {
+          "name": "CONFVSE",
+          "url": "https://open.spotify.com/artist/0jHrkfttn8U65SC5fNYxZT"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222426,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/7qwgLDrm52qPs3acF8SLJr"
+    },
+    {
+      "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/1EAgEUIDCIrmB6eDoAORGX"
       },
@@ -3973,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "RIDE TOUGH!",
+        "url": "https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "RIDE TOUGH!",
+      "url": "https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V"
+    },
+    {
+      "album": {
         "name": "Ring Em Up",
         "url": "https://open.spotify.com/album/1BTy9dpLQhW3ITJM7yMv5O"
       },
@@ -4020,7 +4092,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 221786,
       "name": "Rolling Thunder Baby",
       "url": "https://open.spotify.com/track/2dFT2rdGLqIYAModMWFvBR"
@@ -4822,7 +4894,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 225185,
       "name": "still in me",
       "url": "https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM"
@@ -5983,6 +6055,28 @@
     },
     {
       "album": {
+        "name": "W\u25cfRK",
+        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201073,
+      "name": "W\u25cfRK",
+      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
+    },
+    {
+      "album": {
         "name": "yes. I. do",
         "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
       },
@@ -6066,7 +6160,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 216866,
       "name": "YOU MAY DREAM",
       "url": "https://open.spotify.com/track/2YTo9D4v49OHN9uaExEXUG"
@@ -6182,6 +6276,24 @@
       "duration_ms": 204493,
       "name": "Zanshin",
       "url": "https://open.spotify.com/track/7nNnwATQnctS6yLREghFwO"
+    },
+    {
+      "album": {
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/5Z9WpciNxn8RhCqBaPnwrb"
+      },
+      "artists": [
+        {
+          "name": "Mari Hamada",
+          "url": "https://open.spotify.com/artist/2lQwmHGmTnEu1jjfAgUAcq"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353000,
+      "name": "Zero Gravity",
+      "url": "https://open.spotify.com/track/5dxykjAA2ZILvMotcj9SyQ"
     },
     {
       "album": {
@@ -8926,7 +9038,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 259799,
       "name": "\u611b\u306e\u75db\u624b\u304c\u4e00\u6669\u4e2d",
       "url": "https://open.spotify.com/track/2Ac3RZ0FUDNNmnT2xOHN24"
@@ -9770,6 +9882,24 @@
       "duration_ms": 292906,
       "name": "\u79d8\u5bc6 - band arrange",
       "url": "https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i"
+    },
+    {
+      "album": {
+        "name": "\u7a93\u306e\u4e2d\u304b\u3089",
+        "url": "https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399418,
+      "name": "\u7a93\u306e\u4e2d\u304b\u3089",
+      "url": "https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7"
     },
     {
       "album": {

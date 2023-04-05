@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-568 songs - 1 day 12 hr 10 min
+574 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Growing up](https://open.spotify.com/track/1YXgEhut1Mo2Y44IgsvP7f) | [7ORDER](https://open.spotify.com/artist/2RitDQzohyR2zJXoqovut4) | [Growing up](https://open.spotify.com/album/45CvOi9Mgco3LIA6TtMue7) | 4:16 | 2022-10-01 | 2022-11-30 |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 | 2022-10-14 |
 | [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 | 2022-09-21 |
+| [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 | 2023-04-04 |  |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 | 2022-10-05 |
 | [Happy ∞ Birthday](https://open.spotify.com/track/41scJD3UPgISqiwEuj1UCo) | [小林愛香](https://open.spotify.com/artist/584d4y95R54C5X5JVwVC2h) | [syzygy](https://open.spotify.com/album/4N4A0FkTtL3t2vK2I8YMNT) | 3:42 | 2022-12-06 | 2023-01-06 |
 | [Happy! Happier! Happiest!](https://open.spotify.com/track/5DLCWZ8iCApW6pW2VoR6tR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [Happy! Happier! Happiest!](https://open.spotify.com/album/7p2of7HqIEMr6zv1ux2o40) | 4:01 | 2022-06-30 | 2022-07-27 |
@@ -205,6 +206,7 @@
 | [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 | 2022-07-19 | 2022-09-21 |
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-20 | 2022-10-28 |
 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 | 2023-03-14 |  |
+| [mirAI wave!](https://open.spotify.com/track/7F91SZDGZADt6ZMElk2LsY) | [PathTLive](https://open.spotify.com/artist/5vKv9YNyQoWhxIhYFsRF8Y) | [mirAI wave!](https://open.spotify.com/album/3ZfXfeq7cDJoC83EpuLtYu) | 4:23 | 2023-04-04 |  |
 | [mirrors](https://open.spotify.com/track/5GQcnKp2nftw5o96wNa34X) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [陰/陽](https://open.spotify.com/album/3jjCpP3z1nfa8wpUd3O6j3) | 4:31 | 2022-12-06 | 2023-01-06 |
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-28 | 2022-08-24 |
 | [more<STRONGLY](https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm) | [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E) | [more<STRONGLY](https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao) | 5:01 | 2022-11-15 | 2023-01-06 |
@@ -237,6 +239,7 @@
 | [OveR](https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/5zl60jmeD0n8kmMnElcH3L) | 4:06 | 2022-05-28 | 2022-06-03 |
 | [Paper Bouquet](https://open.spotify.com/track/4rkcFNlUtrTidZO9AmWWUt) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Paper Bouquet](https://open.spotify.com/album/14p81Xh8T5AHUmguXhMVir) | 3:28 | 2022-05-28 | 2022-06-24 |
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-02 |  |
+| [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 |  |
 | [Paranoid](https://open.spotify.com/track/75fvRZNH5rZ7z99ib3hAHu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Paranoid](https://open.spotify.com/album/6yThhWIqcbhAhxMihzSBUS) | 3:31 | 2023-01-19 | 2023-02-15 |
 | [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 | 2022-09-16 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |
@@ -407,6 +410,7 @@
 | [セルフハグ・ビッグラヴ](https://open.spotify.com/track/6aFXUotL9l9EyI7b0ibp9U) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [セルフハグ・ビッグラヴ](https://open.spotify.com/album/2fKaoXdHBx7s8SBVR38bb3) | 3:47 | 2023-01-10 | 2023-01-12 |
 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/5DAtC0mgP1HUpL9th0e2U9) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/1TX5uM4HEOIZEzoAOnUagC) | 4:30 | 2022-12-01 | 2023-03-16 |
 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/7wqa3SBNDoQ436Feb8x5Zl) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/4GCmrKpfubJATaKMZ43RUT) | 4:30 | 2023-03-14 |  |
+| [ソウル・ギャラクシー \(TV Size Ver.\)](https://open.spotify.com/track/1FirhTFvMhAwPbCqyycjPm) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [ソウル・ギャラクシー \(TV Size Ver.\)](https://open.spotify.com/album/76YzmErrk9VOGvfjEWGQMB) | 1:31 | 2023-04-04 |  |
 | [タイムカプセル](https://open.spotify.com/track/7AjXfY9JTWOHWbctrsOCrM) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [タイムカプセル](https://open.spotify.com/album/48PHUW6UeNNN3Z90vDxFBj) | 4:16 | 2022-11-17 | 2023-01-06 |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-05-28 | 2022-07-13 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-05-28 | 2022-07-27 |
@@ -440,6 +444,7 @@
 | [ミモザ](https://open.spotify.com/track/7oSvz1fNg3dcm5JVN4irN8) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ミモザ](https://open.spotify.com/album/2ESFPcPX5RoduZwvSoByyI) | 4:19 | 2022-06-30 | 2022-07-29 |
 | [メリッサ \- from CrosSing](https://open.spotify.com/track/5Pl3DkBVh80Mi53rGKzrzn) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [メリッサ \- from CrosSing](https://open.spotify.com/album/3yTvC9x0esBsAh4hkfYrRZ) | 4:17 | 2023-03-14 | 2023-03-16 |
 | [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 | 2022-12-22 | 2023-02-15 |
+| [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 |  |
 | [モンスターディスコ](https://open.spotify.com/track/2ywX0NwXU9gEbMoK6x2sFn) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [ヒャダイン](https://open.spotify.com/artist/38ViTxLM3iCWNj27wXtYgF) | [モンスターディスコ](https://open.spotify.com/album/2Ui9xGGvuKFnTN0OJFTneK) | 3:15 | 2022-07-12 | 2022-07-29 |
 | [ヨダカ](https://open.spotify.com/track/1pENjqVLkeZDBXqausOwtY) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [ヨダカ](https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 | 2023-01-10 |  |
@@ -560,6 +565,7 @@
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-10-12 |
 | [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 | 2023-02-14 |  |
 | [逆夢 \- from CrosSing](https://open.spotify.com/track/2L7GfBtcqYStaTsFsNuOKB) | [林勇](https://open.spotify.com/artist/2KZLtHl1A7glIn5t1XSNJu) | [逆夢 \- from CrosSing](https://open.spotify.com/album/4KvtLvYdmW2i2vcvX0jxZM) | 5:09 | 2022-07-12 | 2022-07-27 |
+| [逆転劇](https://open.spotify.com/track/6EfKm8UXtBQqQXz2epsiwc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [逆転劇](https://open.spotify.com/album/1SCbaRbu0FCUySzlPDPO9r) | 3:02 | 2023-04-04 |  |
 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 | 2023-03-07 |  |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-11-02 | 2022-12-07 |
 | [鍋奉行](https://open.spotify.com/track/3OiSm2385mSfDIMvnYapBV) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 2:21 | 2022-10-18 | 2022-11-30 |

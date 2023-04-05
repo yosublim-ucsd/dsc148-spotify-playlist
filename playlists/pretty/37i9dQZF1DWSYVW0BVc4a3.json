@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Fred again.., Skrillex & Four Tet",
-  "num_followers": 74261,
+  "num_followers": 74369,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMDVjOThhZDdmYzk5YTkzOTNmOGY5ZDM0NmRjNmJmOTdl",
+  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMDcxOTU5ZGE1MmZhNWMzNTdlZDM2Njc4MTRjMGEwNzM1",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/32CMKSnLQtj4G6K7KSjb4v"
     },
     {
-      "added_at": "2023-04-04 00:55:19",
+      "added_at": "2023-04-05 00:47:36",
       "album": {
         "name": "See This Through",
         "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
     },
     {
-      "added_at": "2023-04-04 00:55:19",
+      "added_at": "2023-04-05 00:47:36",
       "album": {
         "name": "Lipstick (feat. Robbie Rise) [GUZ Remix]",
         "url": "https://open.spotify.com/album/1yWK7MjyNkym9898cW3VsN"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V"
     },
     {
-      "added_at": "2023-04-04 00:55:19",
+      "added_at": "2023-04-05 00:47:36",
       "album": {
         "name": "Blood In The Snow (Tibi Dabo Remix)",
         "url": "https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN"
     },
     {
-      "added_at": "2023-04-04 00:55:19",
+      "added_at": "2023-04-05 00:47:36",
       "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6Y4l0hrXf9GMcCzkvW1Aol"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1ZEwAUD9knWugDYjYiyKFM"
     },
     {
-      "added_at": "2023-04-04 00:55:19",
+      "added_at": "2023-04-05 00:47:36",
       "album": {
         "name": "Fist Fight",
         "url": "https://open.spotify.com/album/01Sa5u8UaJNjkvLQMjdiuh"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/49ukfaSyAB4sPWsstKQGBr"
     },
     {
-      "added_at": "2023-04-04 00:55:19",
+      "added_at": "2023-04-05 00:47:36",
       "album": {
         "name": "Sizo",
         "url": "https://open.spotify.com/album/05eqoFV6gWprLVsSZOlVrA"
@@ -447,26 +447,6 @@
       "duration_ms": 423692,
       "name": "Sizo",
       "url": "https://open.spotify.com/track/3mUJM6maruA7Bw0Pq5tQcD"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 213495,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -487,6 +467,26 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "(still) WON'T4GETU",
         "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
       },
@@ -851,26 +867,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Surrender (Remixes)",
-        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 267168,
-      "name": "Make It Happen - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
       },
@@ -891,6 +887,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Surrender (Remixes)",
+        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 267168,
+      "name": "Make It Happen - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 174375,
       "name": "Magalenha",
       "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -991,30 +991,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "This Feeling (Yotto Remix)",
-        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 236078,
-      "name": "This Feeling - Yotto Remix",
-      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "This Feeling (Yotto Remix)",
+        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 236078,
+      "name": "This Feeling - Yotto Remix",
+      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 271642,
-      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "I Wanna (Tchami Remix)",
         "url": "https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 215433,
       "name": "I Wanna - Tchami Remix",
       "url": "https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1323,18 +1323,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Circulate (Together)",
-        "url": "https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN"
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        },
+        {
+          "name": "AunA",
+          "url": "https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A"
         }
       ],
-      "duration_ms": 417375,
-      "name": "Circulate (Together)",
-      "url": "https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I"
+      "duration_ms": 286387,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1359,26 +1367,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV"
+        "name": "Circulate (Together)",
+        "url": "https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "S\u00d8NIN",
-          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
-        },
-        {
-          "name": "AunA",
-          "url": "https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 286387,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh"
+      "duration_ms": 417375,
+      "name": "Circulate (Together)",
+      "url": "https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Maya!",
+        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
+      },
+      "artists": [
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        },
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
+      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Club Vibes Part 06",
         "url": "https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Maya!",
-        "url": "https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou"
-      },
-      "artists": [
-        {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        },
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "La Ni\u00f1a De La Aldea - widerberg Remix",
-      "url": "https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        }
+      ],
+      "duration_ms": 258716,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
       },
@@ -1783,22 +1803,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr"
+        "name": "Via Infinita",
+        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "AWEN",
-          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
         }
       ],
-      "duration_ms": 258716,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
+      "duration_ms": 237096,
+      "name": "Via Infinita",
+      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Via Infinita",
-        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Via Infinita",
-      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
     },
     {
       "added_at": "2023-03-23 23:00:00",

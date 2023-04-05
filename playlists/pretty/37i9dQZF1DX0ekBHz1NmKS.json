@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 193953,
+  "num_followers": 193960,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODYyMiwwMDAwMDAwMGJiNTA0YWE4Y2E2NTVhNTA5NWQ0ZmZlYmZmN2RmYTg1",
+  "snapshot_id": "MTY4MDI1ODYyMiwwMDAwMDAwMDhlNmExODViOWU0M2IxYjgzODdlZjViN2EyM2U0YWI3",
   "tracks": [
     {
       "added_at": "2023-03-30 22:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh"
-      },
-      "artists": [
-        {
-          "name": "Signe & Hj\u00f6rdis",
-          "url": "https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "BRAND NEW BITCH",
         "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 196000,
       "name": "BRAND NEW BITCH",
       "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh"
+      },
+      "artists": [
+        {
+          "name": "Signe & Hj\u00f6rdis",
+          "url": "https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "En liten l\u00e5tid\u00e9",
+        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Hon sa",
+      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "DOM SKA VETA",
         "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 173000,
       "name": "Rymden och tillbaks",
       "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "En liten l\u00e5tid\u00e9",
-        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Hon sa",
-      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -787,22 +787,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Call Me By Your Name",
-        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
+        "name": "Tusen g\u00e5nger om (feat. Newkid)",
+        "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
       },
       "artists": [
         {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         },
         {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Call Me By Your Name",
-      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
+      "duration_ms": 196800,
+      "name": "Tusen g\u00e5nger om (feat. Newkid)",
+      "url": "https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -823,22 +823,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Tusen g\u00e5nger om (feat. Newkid)",
-        "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         },
         {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Tusen g\u00e5nger om (feat. Newkid)",
-      "url": "https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz"
+      "duration_ms": 170500,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Hatar att du l\u00e4t oss g\u00e5",
-        "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 169178,
-      "name": "Hatar att du l\u00e4t oss g\u00e5",
-      "url": "https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "V\u00e5gar",
         "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 158644,
       "name": "V\u00e5gar",
       "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Hatar att du l\u00e4t oss g\u00e5",
+        "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 169178,
+      "name": "Hatar att du l\u00e4t oss g\u00e5",
+      "url": "https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Som ett minne blott",
-        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Som ett minne blott",
-      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
         "url": "https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Som ett minne blott",
+        "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Som ett minne blott",
+      "url": "https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Du f\u00f6rtj\u00e4nar det",
         "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 199657,
       "name": "Du f\u00f6rtj\u00e4nar det",
       "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Every Little Heart",
-        "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Every Little Heart",
-      "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Sover du sj\u00e4lv?",
-        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
+        "name": "Every Little Heart",
+        "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
       },
       "artists": [
         {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 183391,
-      "name": "Sover du sj\u00e4lv?",
-      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
+      "duration_ms": 189920,
+      "name": "Every Little Heart",
+      "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Sover du sj\u00e4lv?",
+        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 183391,
+      "name": "Sover du sj\u00e4lv?",
+      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 180764,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "And The Oscar Goes To",
+        "url": "https://open.spotify.com/album/193B7SpZ5AOyiYLutUz313"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 168618,
+      "name": "And The Oscar Goes To",
+      "url": "https://open.spotify.com/track/6M3fZyQynCjyInsOk0ePW4"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1127,18 +1143,34 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "And The Oscar Goes To",
-        "url": "https://open.spotify.com/album/193B7SpZ5AOyiYLutUz313"
+        "name": "Fram\u00e5t",
+        "url": "https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         }
       ],
-      "duration_ms": 168618,
-      "name": "And The Oscar Goes To",
-      "url": "https://open.spotify.com/track/6M3fZyQynCjyInsOk0ePW4"
+      "duration_ms": 178013,
+      "name": "Fram\u00e5t",
+      "url": "https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "\u00c4nnu mer",
+        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 184482,
+      "name": "\u00c4nnu mer",
+      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "\u00c4nnu mer",
-        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 184482,
-      "name": "\u00c4nnu mer",
-      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Stora dr\u00f6mmar s\u00e4ger aldrig goodbye",
-        "url": "https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT"
+        "name": "Golvet i hallen",
+        "url": "https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW"
       },
       "artists": [
         {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
         }
       ],
-      "duration_ms": 178394,
-      "name": "Regnar \u00f6ver Stockholm",
-      "url": "https://open.spotify.com/track/38w3AeVl212DfCXRFwearV"
+      "duration_ms": 186911,
+      "name": "Golvet i hallen",
+      "url": "https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1223,6 +1239,22 @@
       "duration_ms": 223850,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Stora dr\u00f6mmar s\u00e4ger aldrig goodbye",
+        "url": "https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 178394,
+      "name": "Regnar \u00f6ver Stockholm",
+      "url": "https://open.spotify.com/track/38w3AeVl212DfCXRFwearV"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1245,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
     },
     {
-      "added_at": "2023-04-04 00:20:15",
+      "added_at": "2023-04-05 01:05:09",
       "album": {
         "name": "Dina \u00d6gon",
         "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
@@ -1279,6 +1311,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Policeman",
+        "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
+      },
+      "artists": [
+        {
+          "name": "Natali Noor",
+          "url": "https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Policeman",
+      "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -1295,18 +1343,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Policeman",
-        "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
+        "name": "Through The Fire",
+        "url": "https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf"
       },
       "artists": [
         {
-          "name": "Natali Noor",
-          "url": "https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k"
+          "name": "Alex Alexander",
+          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
         }
       ],
-      "duration_ms": 213061,
-      "name": "Policeman",
-      "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
+      "duration_ms": 233746,
+      "name": "Through The Fire",
+      "url": "https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1331,37 +1379,21 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Through The Fire",
-        "url": "https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf"
+        "name": "EYEYE",
+        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
       "artists": [
         {
-          "name": "Alex Alexander",
-          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Through The Fire",
-      "url": "https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK"
+      "duration_ms": 225733,
+      "name": "5D",
+      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
     },
     {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Golvet i hallen",
-        "url": "https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 186911,
-      "name": "Golvet i hallen",
-      "url": "https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw"
-    },
-    {
-      "added_at": "2023-04-04 00:20:15",
+      "added_at": "2023-04-05 01:05:09",
       "album": {
         "name": "Dina \u00d6gon",
         "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
@@ -1379,22 +1411,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "EYEYE",
-        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "5D",
-      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Zlatan Ibrahimovi\u0107",
         "url": "https://open.spotify.com/album/46XuTYTVVCOTWrsmLFH8XG"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 143414,
       "name": "Zlatan Ibrahimovi\u0107",
       "url": "https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Fram\u00e5t",
-        "url": "https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Fram\u00e5t",
-      "url": "https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1493,7 +1493,7 @@
       "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
     },
     {
-      "added_at": "2023-04-04 00:20:15",
+      "added_at": "2023-04-05 01:05:09",
       "album": {
         "name": "Oas",
         "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Hungover (Head In A Can)",
-        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 224077,
-      "name": "Hungover (Head In A Can)",
-      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Bon Appetit",
         "url": "https://open.spotify.com/album/50F2HrBKKm5iYhx1mcEJHR"
       },
@@ -1645,7 +1629,23 @@
       "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
     },
     {
-      "added_at": "2023-04-04 00:20:15",
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Hungover (Head In A Can)",
+        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224077,
+      "name": "Hungover (Head In A Can)",
+      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
+    },
+    {
+      "added_at": "2023-04-05 01:05:09",
       "album": {
         "name": "Oas",
         "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "A Lover Like Me",
-        "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
+        "name": "Regnar",
+        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
         }
       ],
-      "duration_ms": 172880,
-      "name": "A Lover Like Me",
-      "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
+      "duration_ms": 132352,
+      "name": "Regnar",
+      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Sommarregn (feat. Hanna Ferm)",
-        "url": "https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK"
+        "name": "Belly Shots",
+        "url": "https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU"
       },
       "artists": [
         {
-          "name": "Oskar H\u00e4ggstr\u00f6m",
-          "url": "https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf"
-        },
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 182515,
-      "name": "Sommarregn (feat. Hanna Ferm)",
-      "url": "https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu"
+      "duration_ms": 155520,
+      "name": "Belly Shots",
+      "url": "https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK"
     }
   ],
   "unique_name": "Made in Sweden",

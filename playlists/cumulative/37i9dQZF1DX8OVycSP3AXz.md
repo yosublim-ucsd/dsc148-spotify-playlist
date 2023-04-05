@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-93 songs - 4 hr 7 min
+94 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [La javanaise](https://open.spotify.com/track/3ZOmDC01bMYi8PcdeQ2zgD) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Les plus belles chansons françaises](https://open.spotify.com/album/1FGF4A3hrzH1YBHTNoVKrU) | 2:29 | 2022-06-28 | 2022-11-14 |
 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 | 2022-06-28 |  |
 | [La javanaise](https://open.spotify.com/track/6wV31VHHbmA5C7vl08HA7S) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/0ChLtqgbEO6vTIQVYQcxc3) | 2:31 | 2021-07-26 | 2022-07-29 |
-| [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 | 2021-07-26 |  |
+| [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 | 2021-07-26 | 2023-04-05 |
+| [La nuit n'en finit plus](https://open.spotify.com/track/1TGcuqWyRfV488tGSiv9iq) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:58 | 2022-06-28 |  |
 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [A Nashville](https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq) | 2:29 | 2022-06-28 |  |
 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/63kzVzdblx4FzGx3ctmTPn) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Le meilleur des années RCA](https://open.spotify.com/album/0hDBBVDvifGDR3HXujYthJ) | 2:33 | 2022-06-28 | 2022-11-13 |
 | [La Plus Belle Pour Aller Danser](https://open.spotify.com/track/5iJRjhwDCnhLBoGLrXr0jj) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/0ZXogrtxGD1Uz4CrlcoAmp) | 2:36 | 2021-07-26 | 2022-07-29 |

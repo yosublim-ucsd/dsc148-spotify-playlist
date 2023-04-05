@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Jesse\u00ae",
-  "num_followers": 1703306,
+  "num_followers": 1703313,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDgyYWE1Mjk1OTYyYTVlNDc4MzBiNmQ1ZWVmNjQyOGFl",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGFkMmIyMDUwMTUzY2I1N2QzMjY2NjBiZjQwNGNiY2Zi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Mess It Up",
         "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Cognitive Dissonance",
+        "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cognitive Dissonance",
+      "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "It\u2019s Never Fair, Always True",
         "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Cognitive Dissonance",
-        "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
-      },
-      "artists": [
-        {
-          "name": "Sophie Holohan",
-          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cognitive Dissonance",
-      "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "blotter baby",
-        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 156141,
-      "name": "are you feeling it now",
-      "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/6esHeLToAEKkGVkjTbmd1i"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 170488,
       "name": "slow down",
       "url": "https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "blotter baby",
+        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 156141,
+      "name": "are you feeling it now",
+      "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1005,20 +1005,20 @@
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "letting you go (demo)",
-        "url": "https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ"
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },
       "artists": [
         {
-          "name": "CLAY",
-          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 221469,
-      "name": "letting you go - demo",
-      "url": "https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP"
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1037,6 +1037,38 @@
       "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "letting you go (demo)",
+        "url": "https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "duration_ms": 221469,
+      "name": "letting you go - demo",
+      "url": "https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Melancholy",
@@ -1051,26 +1083,6 @@
       "duration_ms": 145547,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "except for U",
-        "url": "https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy"
-      },
-      "artists": [
-        {
-          "name": "Sushisingz",
-          "url": "https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd"
-        },
-        {
-          "name": "Ted Fresco",
-          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
-        }
-      ],
-      "duration_ms": 213352,
-      "name": "except for U",
-      "url": "https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1121,20 +1133,24 @@
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+        "name": "except for U",
+        "url": "https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Sushisingz",
+          "url": "https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd"
+        },
+        {
+          "name": "Ted Fresco",
+          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
         }
       ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 213352,
+      "name": "except for U",
+      "url": "https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9"
     }
   ],
   "unique_name": "Indie Pop",

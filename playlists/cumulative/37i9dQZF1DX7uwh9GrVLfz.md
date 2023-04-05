@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: キュウソネコカミ \(KYUSONEKOKAMI\)
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TENDOUJI
 
-527 songs - 1 day 4 hr 47 min
+529 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 | 2022-09-15 |
 | [Better Way](https://open.spotify.com/track/11MccDXhhW4MTKBOC0YC3t) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [Better Way](https://open.spotify.com/album/2pCbPUcGS6YRWGL3MJ5BWU) | 3:09 | 2022-05-17 | 2022-07-28 |
 | [Betty](https://open.spotify.com/track/1xLlG6M2xQgLJA1WMgeORO) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Travel The Galaxy](https://open.spotify.com/album/4hgbIPdkKiarkm4cNqw3gd) | 4:36 | 2022-07-19 |  |
-| [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 | 2023-03-29 |  |
+| [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 | 2023-03-28 |  |
 | [BIG FUCKIN' NOISE](https://open.spotify.com/track/40iH0JrI2n4UTKkzWgIWYq) | [Burl](https://open.spotify.com/artist/2ZgiouPek6RJYWMttaR7gw) | [JUST PUNK,GO!!](https://open.spotify.com/album/3MwwFxDX15mBkUCjkPaV0Z) | 2:41 | 2022-05-24 | 2022-07-24 |
 | [BLESS](https://open.spotify.com/track/7gi73b1NfTb3K23qzXTkGY) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [NETH](https://open.spotify.com/album/3bX09wKzqYqEGEKSEaoS2J) | 2:35 | 2022-05-17 | 2022-07-27 |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-02-28 |  |
@@ -63,7 +63,7 @@
 | [Carry on](https://open.spotify.com/track/5sIiN8iqkOF1PMkoyoXRtT) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [Carry on](https://open.spotify.com/album/3MrbnGTLDYhI4hSgs4SP5d) | 2:32 | 2022-05-12 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/70gtaFoNImbXqKe3WKJdUV) | [Local Sound Style](https://open.spotify.com/artist/5pSklCda6nOLySukqnp886) | [All That Remains](https://open.spotify.com/album/6gWmIrKhTOmUbv5NLLnXp7) | 3:48 | 2022-05-19 | 2022-07-27 |
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
-| [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 |  |
+| [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-04-05 |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 | 2023-02-14 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
@@ -84,6 +84,7 @@
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
 | [Dirty Party](https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:07 | 2022-05-17 | 2022-07-29 |
 | [Don't Let Me Down](https://open.spotify.com/track/2umiTDOadc6AtsjCIXBkT7) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:50 | 2022-05-17 | 2022-07-28 |
+| [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-05 |  |
 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 | 2022-06-07 |  |
 | [Don't Worry My Friend](https://open.spotify.com/track/5SkzagUXWlZVtUY4ogTHXh) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:02 | 2022-05-12 | 2023-03-22 |
 | [Dong Dong](https://open.spotify.com/track/1fzRinte8afs4twwkhFAmF) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Dong Dong](https://open.spotify.com/album/2svUzAWqaFHVBmweXn32I6) | 4:46 | 2022-06-02 | 2022-07-26 |
@@ -129,6 +130,7 @@
 | [Go自愛](https://open.spotify.com/track/0aHUgBSLIN8xVMY08qbHEk) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 1:48 | 2023-03-21 |  |
 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2023-02-11 |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
+| [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-05 |  |
 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 | 2022-05-12 | 2022-07-29 |
 | [HEARTBEAT](https://open.spotify.com/track/3YEZG0GDjDvoNDK0l8WsS3) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [HEARTBEAT](https://open.spotify.com/album/0TOzxSGlpg83oOGZZhhv87) | 4:04 | 2022-05-12 | 2022-07-24 |
 | [Heavenly](https://open.spotify.com/track/7Ixg527eSGltkbEIGTN7qX) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(May,2022\)](https://open.spotify.com/album/7Jd2qtXu0drJFszYyu4aGq) | 2:49 | 2022-05-24 | 2022-07-20 |
@@ -363,7 +365,7 @@
 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 | 2022-05-12 |  |
 | [Walk This Way](https://open.spotify.com/track/537qw1IuzBAUOTbS6aww5u) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:04 | 2022-05-12 | 2022-07-24 |
 | [Watashi Akinu Watashi](https://open.spotify.com/track/3DuZhfyQTHmityBjFugI6q) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA) | 3:47 | 2023-01-17 | 2023-04-01 |
-| [Watashi Akinu Watashi](https://open.spotify.com/track/1wcjpwo30bl7RbFcMKyilX) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:49 | 2023-04-01 |  |
+| [Watashi Akinu Watashi](https://open.spotify.com/track/1wcjpwo30bl7RbFcMKyilX) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:49 | 2023-03-28 |  |
 | [WAVES](https://open.spotify.com/track/3PsI6QdnjX5mOrIa44SvKY) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [WAVES](https://open.spotify.com/album/1l4Ll8sZk6WP4Es0uzovNe) | 3:28 | 2022-05-17 | 2022-07-23 |
 | [We Are The World](https://open.spotify.com/track/1IP28hIFiHfhj4XKquOh0u) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [SCAtegory](https://open.spotify.com/album/3hoGg8akRjWHeU1fpI3byQ) | 3:26 | 2022-05-12 | 2022-07-20 |
 | [WE RUN ON FAITH](https://open.spotify.com/track/5dxZ39MTF8Iw6uJ0p12aMz) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [BIGMAMA](https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k) | [WE RUN ON FAITH](https://open.spotify.com/album/66qU6ihtnFkknA4cKJavbv) | 3:45 | 2022-05-12 | 2022-07-28 |
@@ -382,7 +384,7 @@
 | [YOU'RE MY FRIEND](https://open.spotify.com/track/6z0ur2QkD9cLh96x4mH5R2) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [YOU'RE MY FRIEND](https://open.spotify.com/album/1oF4xfSko2D8aI5EvBodi5) | 3:08 | 2022-05-12 | 2022-07-24 |
 | [Yuri no Saku Basho de](https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:16 | 2023-02-21 | 2023-03-08 |
 | [Yuriah](https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:07 | 2022-05-12 | 2022-06-22 |
-| [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 | 2023-03-29 |  |
+| [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 | 2023-03-28 |  |
 | [Zero](https://open.spotify.com/track/5styNIwvP009zHUCdIsZlo) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Zero \- Single](https://open.spotify.com/album/0tyftZWAOYq3wh9bVrCR5J) | 4:11 | 2022-05-19 | 2022-07-11 |
 | [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 | 2023-02-11 |
 | [ZINNIA](https://open.spotify.com/track/5NoGmXzuApY0bQXLZ9XOHm) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 3:02 | 2022-05-12 | 2022-07-24 |
@@ -460,7 +462,7 @@
 | [世界は君たちを変えることは出来ない](https://open.spotify.com/track/6PPb7FGy66aYw8Yc4J8ThO) | [SEVENTEEN AGAiN](https://open.spotify.com/artist/44vCIlLzyYUo6UQ2s4huqu) | [世界は君たちを変えることは出来ない](https://open.spotify.com/album/5rIWnaKZ3pMNoA6gImSvrh) | 2:01 | 2022-05-17 | 2022-07-26 |
 | [世界を終わらせて](https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 3:53 | 2023-01-05 |  |
 | [二億の青春](https://open.spotify.com/track/49U4zyI2hPomIbh9Ip7pPj) | [リトルスクーター](https://open.spotify.com/artist/5Os224clHj9KZXYrcFIm96) | [二億の青春](https://open.spotify.com/album/0UvYArQl0ZPOtr5WeSUhe1) | 2:41 | 2022-12-20 | 2022-12-28 |
-| [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 | 2022-05-12 |  |
+| [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 | 2022-05-12 | 2023-04-05 |
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-12 | 2022-07-26 |
 | [僕たちの答え](https://open.spotify.com/track/54pUQTIJbvTwQKbijC1GJN) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [まなつのこれからのこと。](https://open.spotify.com/album/1D7lTBazoisPkoduthc72O) | 4:03 | 2022-05-17 | 2022-07-24 |
 | [僕らは…](https://open.spotify.com/track/6pyM8gK1E8Q3vDbO8saYar) | [Taiyouzoku](https://open.spotify.com/artist/4kfInRl2ECNUxMOjZAEHco) | [手をつなごう](https://open.spotify.com/album/3owol0mZK4CUhpzQ5mWwqT) | 3:32 | 2022-06-14 | 2022-07-12 |

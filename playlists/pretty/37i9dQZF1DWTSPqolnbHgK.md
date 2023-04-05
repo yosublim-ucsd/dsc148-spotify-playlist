@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 
 > With autumn comes darker days and colder weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,056 likes - 134 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,053 likes - 134 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 | 2 | [White Rim Road](https://open.spotify.com/track/21IrjGlg2fktPvhGdbcL3g) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [All Passing By](https://open.spotify.com/album/7vcup8lAJR5fbLqOpoRqDw) | 5:53 |
 | 3 | [Bilitis](https://open.spotify.com/track/4MapiBIqUDowqFALnqSqrm) | [Luc Serra](https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7) | [Movie Dreams](https://open.spotify.com/album/2qlbhPiugoSPveNoxaymwe) | 4:23 |
 | 4 | [Place Dauphine](https://open.spotify.com/track/6Edz5jDqogvCfkVqd0rAJ4) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:20 |
-| 5 | [Love Supreme \(Lovelight Mix\)](https://open.spotify.com/track/578UeyzO3gRYV9l92UVSIg) | [Christian Hornbostel](https://open.spotify.com/artist/2q2lnF9Vc1tio0AGOPFJ78) | [Don Gorda Project & Friends Smooth Lounge Collection](https://open.spotify.com/album/33XWWJ6rTcYNYeh7k9RsTb) | 4:19 |
+| 5 | [Love Supreme \- Lovelight Mix](https://open.spotify.com/track/578UeyzO3gRYV9l92UVSIg) | [Christian Hornbostel](https://open.spotify.com/artist/2q2lnF9Vc1tio0AGOPFJ78) | [Don Gorda Project & Friends Smooth Lounge Collection](https://open.spotify.com/album/33XWWJ6rTcYNYeh7k9RsTb) | 4:19 |
 | 6 | [Blast Off](https://open.spotify.com/track/2ytaqTjaDdJljeFgU2YEsm) | [Random Rab](https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO) | [Release](https://open.spotify.com/album/1qZ5mnvaYGt30bEo63Htn0) | 6:25 |
 | 7 | [Sparks](https://open.spotify.com/track/4gPOgqHBVrWxq1l4TTHaXT) | [Silent Waves](https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU) | [Secrets](https://open.spotify.com/album/1eVHScWfp6iWpXrNaeTCWS) | 4:40 |
 | 8 | [Memory Shrine](https://open.spotify.com/track/4KGavUzvU2IBcKJV8lZtmA) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [All Passing By](https://open.spotify.com/album/7vcup8lAJR5fbLqOpoRqDw) | 5:11 |

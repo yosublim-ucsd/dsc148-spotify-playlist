@@ -28141,6 +28141,28 @@
     },
     {
       "album": {
+        "name": "Mazel Tron",
+        "url": "https://open.spotify.com/album/1F841omtmck75byakwMGnx"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Mazel Tron",
+      "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
+    },
+    {
+      "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
       },
@@ -37404,6 +37426,28 @@
       "duration_ms": 183480,
       "name": "Raised In Memphis",
       "url": "https://open.spotify.com/track/0jiiCreJo7AbZS0IGOgilc"
+    },
+    {
+      "album": {
+        "name": "My Vision: Reloaded",
+        "url": "https://open.spotify.com/album/6cLGEYguW9BfbGOogusAHZ"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170145,
+      "name": "Ransom (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1CaOUy0DDaVrxqzDltzLnk"
     },
     {
       "album": {

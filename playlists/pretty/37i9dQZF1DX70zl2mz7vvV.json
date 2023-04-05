@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 37894,
+  "num_followers": 37927,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDEyMzIzYjk2NTg0NmM2YjVhZjMyN2RlYWI5OWEzYzEz",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDI3ZGRjN2ZjN2E1NjE3ZmI0OTc1NjI3ZTM5ZjY5MTli",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Tough Life",
-        "url": "https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc"
-      },
-      "artists": [
-        {
-          "name": "Junior Kelly",
-          "url": "https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Rasta Should Be Deeper",
-      "url": "https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 279533,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Tough Life",
+        "url": "https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc"
+      },
+      "artists": [
+        {
+          "name": "Junior Kelly",
+          "url": "https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Rasta Should Be Deeper",
+      "url": "https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Two Sevens Clash (40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209186,
       "name": "Two Sevens Clash",
       "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Sweep Over My Soul",
-        "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Sweep Over My Soul",
-      "url": "https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Big Big",
         "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 182828,
       "name": "Big Big",
       "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Sweep Over My Soul",
+        "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Sweep Over My Soul",
+      "url": "https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk"
     },
     {
       "added_at": "2020-10-19 09:02:25",

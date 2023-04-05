@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-185 songs - 9 hr 23 min
+186 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [no friends](https://open.spotify.com/track/3sn9wuO5D2n2zxIlPDqnRL) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:45 | 2020-12-07 |  |
 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2020-12-07 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-12-07 |  |
-| [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-12-07 |  |
+| [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-12-07 | 2023-04-05 |
+| [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 | 2020-12-07 |  |
 | [pissed](https://open.spotify.com/track/5KXYsV0p2xWQCjXizedRpt) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [pissed](https://open.spotify.com/album/5qEmrjZKIvBUBikMMbzeML) | 1:47 | 2020-12-07 |  |
 | [Places / Plans](https://open.spotify.com/track/4ZoFGQ11H3lVUuXn3E9o55) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Places / Plans](https://open.spotify.com/album/5iuhEd0jYCRpYOz0n28msY) | 3:03 | 2020-12-07 | 2022-07-29 |
 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 | 2020-12-07 |  |

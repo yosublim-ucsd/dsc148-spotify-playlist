@@ -4,12 +4,12 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-579 songs - 1 day 0 hr 38 min
+581 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-05-27 |  |
-| [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2022-05-27 |  |
+| [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2022-05-27 | 2023-04-05 |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-05-27 |  |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2022-05-27 |  |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 |  |
@@ -38,6 +38,7 @@
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-05-27 | 2023-01-21 |
 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-06 |  |
 | [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-05-27 |  |
+| [Arrival](https://open.spotify.com/track/2spEwOTf21NJD8nPxpFbsa) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Arrival](https://open.spotify.com/album/4Kz0omQwqDHEZP714wEPUK) | 2:24 | 2023-03-27 |  |
 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 | 2023-02-20 |  |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Au Fond D'Amour](https://open.spotify.com/track/4Qk8tKfZW3lrPG18ZdWmE6) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Au Fond D'Amour](https://open.spotify.com/album/2pFYFoJj3SPBFBXrnbI65S) | 2:48 | 2022-05-27 | 2022-09-24 |
@@ -66,7 +67,7 @@
 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 | 2022-08-09 |  |
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2022-05-27 |  |
 | [Brief Moments](https://open.spotify.com/track/2RMhNaRMKIoOlANHwfcaP1) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Brief Moments](https://open.spotify.com/album/10hj4ZZucFC7qZFFTcEHuZ) | 2:15 | 2022-05-27 | 2023-01-23 |
-| [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2022-05-27 |  |
+| [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2022-05-27 | 2023-04-05 |
 | [Carry Me](https://open.spotify.com/track/3iKSSbjbCtMPJP7XUezBES) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Carry Me](https://open.spotify.com/album/4Xn32CUV1ymaDHYlwBIv0J) | 2:09 | 2022-05-27 | 2022-09-24 |
 | [Cavandoli](https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Cavandoli](https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy) | 2:38 | 2022-05-27 |  |
 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2022-05-27 | 2023-01-21 |
@@ -210,6 +211,7 @@
 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 | 2022-05-27 | 2022-07-21 |
 | [Hondura](https://open.spotify.com/track/4s8Y11Sn3fP1aC0b2USbU4) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Hondura](https://open.spotify.com/album/2kDUeicWC39j0LfEjJNjvC) | 2:23 | 2023-02-27 |  |
 | [Hope](https://open.spotify.com/track/30bZOzN1pRTpZzHiyHqozh) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Hope](https://open.spotify.com/album/4MWh9fYmqrW83MjbXg5YSc) | 2:23 | 2022-05-27 | 2022-09-24 |
+| [Hopelijk](https://open.spotify.com/track/2s0aWHa34r7CbfzMjwfuOv) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Hopelijk](https://open.spotify.com/album/3CBJZX7YjdUt9Znda8dprR) | 1:58 | 2023-03-27 |  |
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2022-05-27 |  |
 | [Horizon](https://open.spotify.com/track/7Dlxj1vwhHVd6PeTWV50Gf) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Horizon](https://open.spotify.com/album/5BiNmrCJrBo2Tpd4PcAJqR) | 2:30 | 2023-02-06 | 2023-03-28 |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-05-27 | 2023-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,585 likes - 161 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,545 likes - 161 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 107 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 |
 | 108 | [There's Your Man](https://open.spotify.com/track/7dGRFEsRY9vwqGgczE05I2) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 4:38 |
 | 109 | [Love Ain't Enough](https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 4:50 |
-| 110 | [Monster](https://open.spotify.com/track/5NlW8GWsM5qYboS8a2qNwe) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0kZScwwCkKaLLh7bWNB0E6) | 3:39 |
+| 110 | [Monster](https://open.spotify.com/track/32DXWy7FgIr1CPYIZmV4l0) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0YoPYkemPMWWSKbV5svfed) | 3:39 |
 | 111 | [Believe](https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Freedom](https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW) | 5:46 |
 | 112 | [Can We Work It Out](https://open.spotify.com/track/4S1yLjymQvee14DAFCptVl) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Reservoir](https://open.spotify.com/album/7MVNwVgywHDy4hv7MQ2n1E) | 4:11 |
 | 113 | [See You In The Water](https://open.spotify.com/track/4aA8CFoR0tedqtPtq7SOij) | [Tinpan Orange](https://open.spotify.com/artist/6hH9xgYqNz2YtBKZvk1Jox) | [See You In The Water](https://open.spotify.com/album/7GPgkBXXKmtomXrgGzTTnS) | 3:43 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 160 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 161 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MTY3NjA0NzkyNiwwMDAwMDAwMDJmYWU2ZmE1NDAzN2MxYjExNGZiNzJmMjRkZjQ0MWYx`
+Snapshot ID: `MTY3NjA0NzkyNiwwMDAwMDAwMGQ1YTU4ZmUyZWQ1ZTQ4ODhmYjEyYjMxNDJiZTM4YzVk`

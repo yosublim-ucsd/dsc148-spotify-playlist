@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Jess Williamson
 
-377 songs - 21 hr 30 min
+378 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-11-19 |  |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-11-19 | 2022-05-19 |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 3:06 | 2021-11-19 | 2022-05-14 |
+| [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-04-05 |  |
 | [Black Boots And Leather Rebellion](https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Black Boots And Leather Rebellion](https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4) | 3:42 | 2021-11-26 | 2022-07-06 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-22 | 2022-07-15 |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-11-19 | 2022-02-22 |
@@ -315,7 +316,7 @@
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-07 |  |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-07-15 |  |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-11-19 | 2022-07-29 |
-| [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 | 2021-11-19 |  |
+| [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 | 2021-11-19 | 2023-04-05 |
 | [Taking up Space](https://open.spotify.com/track/3lTKLZXVINMrQ45DZgJmrZ) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [Taking up Space](https://open.spotify.com/album/4iZmXlARWLY6ENEuZp21AN) | 3:12 | 2021-12-03 | 2022-07-29 |
 | [Talk About That](https://open.spotify.com/track/0d8wVdbQXx9pVEeCsSpscw) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Talk About That](https://open.spotify.com/album/74m9khVWXHV0zdZpZjlx6t) | 3:33 | 2021-11-19 | 2022-02-22 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,235 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,278 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 65 | [Sin Esencia \- Balada](https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22) | 3:47 |
 | 66 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2qOpRaCIXWMr36X9NNrCER) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 4:07 |
 | 67 | [Tu Postura \- Versión Acústica](https://open.spotify.com/track/3z2Q58llEa6gx6mlhHSpgx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Postura \(Versión Acústica\)](https://open.spotify.com/album/740rycJJKT7XpcJIj5rNhS) | 4:35 |
-| 68 | [Hasta Que Regreses](https://open.spotify.com/track/113DePdXtrX328UFntdtyP) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Hasta Que Regreses](https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw) | 3:05 |
-| 69 | [Contigo Aprendi](https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:21 |
+| 68 | [Contigo Aprendi](https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:21 |
+| 69 | [Hasta Que Regreses](https://open.spotify.com/track/113DePdXtrX328UFntdtyP) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Hasta Que Regreses](https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw) | 3:05 |
 | 70 | [¡Corre!](https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 4:39 |
 | 71 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
 | 72 | [En Peligro de Extinción \(Versión Acústica\)](https://open.spotify.com/track/4R1ubABfq3V2jW5RHyFhOz) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Una Intimidad Adictiva \(Versión Acústica\)](https://open.spotify.com/album/1RkJEN1O2e4gLKQYlp2qBn) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 99 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
 | 100 | [La Puerta Negra](https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [La Puerta Negra](https://open.spotify.com/album/73yWEfBEFLueOketILhoIg) | 2:27 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMGVjYTc2MmI4MmY4YWQ3OTI4YjVkZGY2YmRkMjg0OWRj`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDdlMjUzNGJjNGIwMGZiMjZlZTMxZjQxNDFiZjMxZmNm`

@@ -22623,6 +22623,24 @@
     },
     {
       "album": {
+        "name": "Retro'd 3",
+        "url": "https://open.spotify.com/album/50E56mYjjJHee6FONEyA2P"
+      },
+      "artists": [
+        {
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109890,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3TvhKiqTMRNPQ1Af0pWD46"
+    },
+    {
+      "album": {
         "name": "gorilla glue",
         "url": "https://open.spotify.com/album/15WESVrhkXInUHLX9gEhrd"
       },
@@ -42398,7 +42416,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 138892,
       "name": "Oh World",
       "url": "https://open.spotify.com/track/3LeGhGrdlZ5m3S5gnFfYkr"

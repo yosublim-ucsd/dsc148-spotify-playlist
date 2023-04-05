@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 154037,
+  "num_followers": 154204,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDJhYmQ2OTEyMWJhMmU1N2M5M2VhNDYyMGU4YjZmNzkw",
+  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMGJkMTIwNmE4MTVhZmFmMGE2ZjVkNjEzNzY0OTA0YmZk",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -379,18 +379,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -411,22 +415,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Fourth Of July",
-      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Andrew McMahon In The Wilderness",
         "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 223879,
       "name": "Cecilia And The Satellite",
       "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Fourth Of July",
+      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "HOLD ME TIGHT OR DON\u2019T",
-      "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "What We Live For",
         "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 180213,
       "name": "Pocket Full Of Gold",
       "url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "HOLD ME TIGHT OR DON\u2019T",
+      "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "What We Live For",
+      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
         "name": "The Way It Was",
         "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 248960,
       "name": "Forever And Always",
       "url": "https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Dangerous Night",
-      "url": "https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 178560,
-      "name": "What We Live For",
-      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
+      "duration_ms": 199773,
+      "name": "Dangerous Night",
+      "url": "https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid"
     },
     {
       "added_at": "2022-11-17 15:48:46",

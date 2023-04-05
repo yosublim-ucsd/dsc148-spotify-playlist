@@ -2,7 +2,7 @@
 
 ### [RADAR Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KVi1KePsS\-SeAeLkN8980A">Black Sherif</a>
+> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=EFNVjsy5QlawDxhEuv04xA">Ayra Starr</a>
 
 150 songs - 8 hr 14 min
 

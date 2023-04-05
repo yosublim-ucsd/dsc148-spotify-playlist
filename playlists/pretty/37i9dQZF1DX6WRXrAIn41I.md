@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WRXrAIn41I.md) - [plain]
 
 > Defqon.1 Festival welcomes the New Year with their adrenaline\-rushing, blood\-bumping, hardstyle\-filled Warrior Workout mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,363 likes - 26 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,423 likes - 26 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

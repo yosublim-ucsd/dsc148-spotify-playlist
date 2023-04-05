@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5881\)
+## Playlists \(5884\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -302,6 +302,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [ACM Honors 2022](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md)
 - [AGLF Playlist](/playlists/pretty/3g2x83PnE4udquzQctBOSF.md)
 - [ALT NOW](/playlists/pretty/37i9dQZF1DWVqJMsgEN0F4.md)
+- [ALTER\-native](/playlists/pretty/37i9dQZF1DWVx80ckNwI92.md)
 - [ALT\_QC](/playlists/pretty/37i9dQZF1DX03FBMYrWi0n.md)
 - [AMA Winners 2014](/playlists/pretty/37i9dQZF1DX3JLmmala1kX.md)
 - [AMAPIANO grooves](/playlists/pretty/37i9dQZF1DX5mILnBJLA26.md)
@@ -1222,6 +1223,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Creative Focus](/playlists/pretty/37i9dQZF1DWWn6teJIIcfG.md)
 - [Creativity Boost](/playlists/pretty/37i9dQZF1DX56qfiUZBncF.md)
 - [Creepy, Stupid, Love](/playlists/pretty/37i9dQZF1DWWTA1Ie7iu8r.md)
+- [Crema Pop](/playlists/pretty/37i9dQZF1DX3leseePdLQO.md)
 - [Creo En Ti](/playlists/pretty/37i9dQZF1DWYcaB2B11tq2.md)
 - [Crisp](/playlists/pretty/37i9dQZF1DXdb5FEvfgsH9.md)
 - [Crooner Classics](/playlists/pretty/37i9dQZF1DX1cC4JrF1e4o.md)
@@ -1983,8 +1985,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HATSUNE MIKU/ 初音ミク Project DIVA series](/playlists/pretty/37i9dQZF1DXd8cPo2t5Hqf.md)
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
-- [HIPHOPPLAYA FESTIVAL 2022](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- Feid](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
+- [HOT NOW \- Peso Pluma & Blessd](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -2193,7 +2195,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [INITIAL D \-頭文字D](/playlists/pretty/37i9dQZF1DWU4aFimZ74X3.md)
 - [IRL ANGEL](/playlists/pretty/37i9dQZF1DX7Ocjwy96xTX.md)
 - [ITZY THE 1ST WORLD TOUR <CHECKMATE> in JAPAN](/playlists/pretty/0EMU2v4In7YduH1ICRz6xr.md)
-- [Ibiza 2022](/playlists/pretty/37i9dQZF1DXaCACvgOVs5K.md)
+- [Ibiza 2023](/playlists/pretty/37i9dQZF1DXaCACvgOVs5K.md)
 - [Ibiza Classics](/playlists/pretty/37i9dQZF1DWZK99LPvBBfP.md)
 - [Ibiza Sunset](/playlists/pretty/37i9dQZF1DX9FIMhEujaK6.md)
 - [Iconic Arab Women](/playlists/pretty/37i9dQZF1DX2n3M5TFjAxY.md)
@@ -4344,6 +4346,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Ado](/playlists/pretty/37i9dQZF1DXdPcuTtZNPGI.md)
 - [This Is Adrianne Lenker](/playlists/pretty/37i9dQZF1DZ06evO2rdzeb.md)
 - [This Is Aerosmith](/playlists/pretty/37i9dQZF1DZ06evO4x3X2w.md)
+- [This Is Agust D](/playlists/pretty/37i9dQZF1DX5wcLXSDDcgy.md)
 - [This Is Aimer](/playlists/pretty/37i9dQZF1DZ06evO02uS96.md)
 - [This Is Akari Kito](/playlists/pretty/37i9dQZF1DZ06evO3r997y.md)
 - [This Is Akon](/playlists/pretty/37i9dQZF1DZ06evO0gCG2c.md)

@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Charlotte Lawrence
 
-483 songs - 1 day 2 hr 46 min
+484 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 | 2023-02-03 | 2023-02-18 |
 | [3 Moods](https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [3 Moods](https://open.spotify.com/album/5eWV4nxVgx850XQp3ZJSEn) | 3:08 | 2021-12-17 | 2022-05-20 |
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-12-17 | 2022-03-26 |
-| [A Letter To Everyone Who's Hurt Me](https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [A Letter To Everyone Who's Hurt Me](https://open.spotify.com/album/7bJgNbxck1IXbT243gl8mz) | 3:47 | 2023-02-10 |  |
+| [A Letter To Everyone Who's Hurt Me](https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [A Letter To Everyone Who's Hurt Me](https://open.spotify.com/album/7bJgNbxck1IXbT243gl8mz) | 3:47 | 2023-02-10 | 2023-04-05 |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2021-12-17 |  |
 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 | 2022-08-24 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-26 |  |
@@ -258,6 +258,7 @@
 | [Keep Hoping](https://open.spotify.com/track/4RhK5GQfBDhrJfkHImoBS0) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Keep Hoping](https://open.spotify.com/album/61GIbNflbuWH1DWUoHxI8Q) | 3:26 | 2022-03-18 | 2022-04-16 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2021-12-17 |  |
 | [Kid In My 20s](https://open.spotify.com/track/2iX3bxR6xPAvtfJLfTXPyo) | [Reagan Beem](https://open.spotify.com/artist/5tPTpbUqEfk2JU979vtzzM) | [Kid In My 20s](https://open.spotify.com/album/5b2guCeEmfG2N4Jo7Y5ojb) | 2:46 | 2022-04-29 | 2022-07-27 |
+| [Kryptonite](https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Kryptonite](https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0) | 3:03 | 2023-03-31 |  |
 | [Last Train To London](https://open.spotify.com/track/7djOJmSvxXtq0Q49iC9qsX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 3:47 | 2023-03-03 |  |
 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2021-12-17 | 2022-12-28 |
 | [LET EM GO](https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [LET EM GO](https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3) | 3:01 | 2023-01-20 |  |

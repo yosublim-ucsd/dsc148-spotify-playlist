@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 417612,
+  "num_followers": 417738,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDNiZWRkZDAyNDYxZDAwZjRlN2E3NzVmZjY2Y2I3Zjc0",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGU1MjNlY2IzOTc0M2JiNDRlNDE1YThkZmIzYWVhNmIz",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Pampas Reggae",
-        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "P\u00e1rate Y Mira",
-      "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Que Corra La Voz",
         "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 251440,
       "name": "Mis Colegas",
       "url": "https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Pampas Reggae",
+        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "P\u00e1rate Y Mira",
+      "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Tu Alma M\u00eda / Adelita",
-      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -983,18 +983,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Tanto amor me marea",
-      "url": "https://open.spotify.com/track/4jGSfblxObklndcGJprEoa"
+      "duration_ms": 206039,
+      "name": "S\u00f3lo Vivir",
+      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
     },
     {
       "added_at": "2022-12-16 02:35:42",
@@ -1019,18 +1019,34 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 206039,
-      "name": "S\u00f3lo Vivir",
-      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
+      "duration_ms": 239666,
+      "name": "Tanto amor me marea",
+      "url": "https://open.spotify.com/track/4jGSfblxObklndcGJprEoa"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "El Vals Del Obrero",
+        "url": "https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Cannabis",
+      "url": "https://open.spotify.com/track/3pKEYZcL428BwPWiP2udxz"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1051,22 +1067,6 @@
       "duration_ms": 329026,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "El Vals Del Obrero",
-        "url": "https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "Cannabis",
-      "url": "https://open.spotify.com/track/3pKEYZcL428BwPWiP2udxz"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+      "duration_ms": 193453,
+      "name": "No Tengo Amigos",
+      "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "No Tengo Amigos",
-      "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 219320,
       "name": "Labios Rojos",
       "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1NJb37v0xlymXsTxxHpd4h"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 186540,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/3HEIbdp1ZmSYEgHBoZfS5c"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2021-12-21 17:00:46",

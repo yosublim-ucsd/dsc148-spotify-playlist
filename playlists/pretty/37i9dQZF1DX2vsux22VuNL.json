@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Teto",
-  "num_followers": 266137,
+  "num_followers": 266495,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0OTcxNywwMDAwMDAwMDlhM2VlODNkMDBmZjQwNDJhZDA0OTI1MDg1ZWM0YmJk",
+  "snapshot_id": "MTY4MDU0OTcxNywwMDAwMDAwMGUyZTY0YjNkMTg5ODA5ODRlMmRjZTIzYjgzZjhiY2Iz",
   "tracks": [
     {
       "added_at": "2023-04-03 19:21:57",
@@ -204,7 +204,7 @@
           "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
         }
       ],
-      "duration_ms": 198923,
+      "duration_ms": 198620,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o"
     },
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 161338,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
         "name": "Vem Pra C\u00e1",
         "url": "https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 233328,
       "name": "Vem Pra C\u00e1",
       "url": "https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 161338,
-      "name": "Make Love",
-      "url": "https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 194157,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -1519,46 +1519,26 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+        "name": "Enquanto O Dia N\u00e3o Acabou",
+        "url": "https://open.spotify.com/album/2ZOvUn9vzA6TI2Gw5IbWLM"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "J a u m",
+          "url": "https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di"
         },
         {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+          "name": "PedroWnx",
+          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
-        "name": "SIGO REAL",
-        "url": "https://open.spotify.com/album/1sSANSGpdcjSWhIZOP4Q1Z"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Rick Beatz",
-          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
-        }
-      ],
-      "duration_ms": 250212,
-      "name": "SIGO REAL",
-      "url": "https://open.spotify.com/track/5IsNDWQYkVLupAKZSr3z38"
+      "duration_ms": 168500,
+      "name": "Enquanto O Dia N\u00e3o Acabou",
+      "url": "https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -1587,26 +1567,22 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Enquanto O Dia N\u00e3o Acabou",
-        "url": "https://open.spotify.com/album/2ZOvUn9vzA6TI2Gw5IbWLM"
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
       "artists": [
         {
-          "name": "J a u m",
-          "url": "https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         },
         {
-          "name": "PedroWnx",
-          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
         }
       ],
-      "duration_ms": 168500,
-      "name": "Enquanto O Dia N\u00e3o Acabou",
-      "url": "https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW"
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -1651,6 +1627,30 @@
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
+        "name": "SIGO REAL",
+        "url": "https://open.spotify.com/album/1sSANSGpdcjSWhIZOP4Q1Z"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Rick Beatz",
+          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "SIGO REAL",
+      "url": "https://open.spotify.com/track/5IsNDWQYkVLupAKZSr3z38"
     },
     {
       "added_at": "2023-04-03 19:21:57",

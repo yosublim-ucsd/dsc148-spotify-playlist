@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rusherking & La China
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: FMK, Big One & Ke Personajes.
 
-359 songs - 17 hr 58 min
+360 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Ponte Pa' Mix](https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Ponte Pa' Mix](https://open.spotify.com/album/6gs6Q5qHYpqwyBJwxRK9NU) | 3:05 | 2021-12-23 | 2022-12-07 |
 | [Por Alguien Como Tu](https://open.spotify.com/track/2NvKTwehR416f9bpEjCh7n) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Baxide](https://open.spotify.com/artist/3kmWF167UZQrWBY2HiaWyy) | [Por Alguien Como Tu](https://open.spotify.com/album/38MOwMQL6rogLSmGtrSyNy) | 3:10 | 2022-01-14 | 2022-07-05 |
 | [Porque Te Fuiste \- Nico Vallorani DJ & Emus DJ Remix](https://open.spotify.com/track/37QHYWHxhWumG9SuQB9a2s) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Nico Vallorani DJ](https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx), [Emus DJ](https://open.spotify.com/artist/5M5yM2s8dqrvy4y0AJ10Z4) | [Porque Te Fuiste \(Nico Vallorani DJ & Emus DJ Remix\)](https://open.spotify.com/album/1dYw65iM5VIV2D1kpAZNGw) | 1:42 | 2022-01-03 | 2022-07-28 |
-| [PR Sessions \#4](https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF) | [Panchito Records](https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [PR Sessions \#4](https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF) | 2:28 | 2023-01-06 |  |
+| [PR Sessions \#4](https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF) | [Panchito Records](https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [PR Sessions \#4](https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF) | 2:28 | 2023-01-06 | 2023-04-05 |
 | [Procuro Olvidarte \- Remix](https://open.spotify.com/track/2650m8ktV7TWj076k8eER0) | [Dj Kairuz](https://open.spotify.com/artist/691W1gqZuTStArZXHw2fT5), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Procuro Olvidarte \(Remix\)](https://open.spotify.com/album/5CujO5mG3XYl7DR1QleI5G) | 3:19 | 2022-01-03 | 2022-07-25 |
 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 | 2022-01-07 | 2022-05-27 |
 | [Pupilas Lejanas](https://open.spotify.com/track/3WugePzirGROxAle1gMPXE) | [Fer Silvera](https://open.spotify.com/artist/5HUPhcBE9Bg1LLnFrhRcOy) | [Pupilas Lejanas](https://open.spotify.com/album/44uQsmxBqlA1Tj02XGlWU6) | 2:36 | 2022-11-11 | 2022-12-10 |
@@ -336,6 +336,7 @@
 | [Típico \(Tu Histeriqueo\)](https://open.spotify.com/track/4UwDVzYbGMTBLUGIB6B48T) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Típico \(Tu Histeriqueo\)](https://open.spotify.com/album/67X3TLwyIELvJZqqBDRxHl) | 2:49 | 2022-01-03 | 2022-07-12 |
 | [Tú y Yo](https://open.spotify.com/track/2pOyGffUJGMYMOwBMuGp9A) | [Dezä](https://open.spotify.com/artist/33xFSM46z4vpFiOCtaSct6), [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Tú y Yo](https://open.spotify.com/album/1nCBjPmIMOl44buXxgJovD) | 2:44 | 2022-07-01 | 2022-07-13 |
 | [UH](https://open.spotify.com/track/6ExxGGEr58N4ZxtGmn9tCA) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS) | [UH](https://open.spotify.com/album/2InVnsWW1i8gpWbOU3n0Ga) | 2:37 | 2022-01-03 | 2022-07-29 |
+| [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-05 |  |
 | [Un Philly](https://open.spotify.com/track/5wgEBx5fRmtDUnEC9KWOXn) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Un Philly](https://open.spotify.com/album/3lXstvLqYMdSor2qP1da6m) | 2:17 | 2023-03-24 | 2023-04-04 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/3DsXV8kdzLcHkpYo5PBrry) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un Verano Sin Ti](https://open.spotify.com/album/2Fjfa3X3uAu6UlAj3cmcnn) | 3:09 | 2022-05-27 | 2022-07-16 |
 | [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 | 2021-12-23 | 2023-01-12 |

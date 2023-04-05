@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف : مصطفى الربيعي
 
-200 songs - 11 hr 46 min
+202 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Al Farasha](https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Farasha](https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF) | 3:11 | 2022-09-30 | 2023-02-07 |
 | [Al Hob Ihtmam](https://open.spotify.com/track/7qj9jTyc59xB1JmhsFohA0) | [Adnan Braysem](https://open.spotify.com/artist/6tCa22NbsZWw3dmQF0Ac08) | [Al Hob Ihtmam](https://open.spotify.com/album/2q7wM4nFdJAGK2Yxv5pm9E) | 3:03 | 2022-02-11 | 2022-06-09 |
 | [Al Kaaen Al Khyali](https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Kaaen Al Khyali](https://open.spotify.com/album/2V5GC1ERTCwPPxcvkZEqHl) | 2:37 | 2022-05-13 | 2022-12-24 |
-| [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 | 2022-06-30 |  |
+| [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 | 2022-06-30 | 2023-04-05 |
 | [Al Madhaher El Khedaa](https://open.spotify.com/track/6sEx7tKOa01e2PeRch1t3L) | [Haider Al Ghazal](https://open.spotify.com/artist/1g73ySoZbpQo3onMABWzy7) | [Al Madhaher El Khedaa](https://open.spotify.com/album/0RjlkoqoHd6tavBfjU3ee3) | 2:41 | 2021-12-23 | 2022-03-12 |
 | [Ala Almawthoe](https://open.spotify.com/track/3NfQNwOtvNQqP48xFKSegX) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ala Almawthoe](https://open.spotify.com/album/053pOViKjZOnMsG4fHhq7N) | 2:01 | 2022-03-14 | 2022-06-11 |
 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 | 2023-02-08 |  |
@@ -142,6 +142,7 @@
 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 | 2022-07-04 |  |
 | [Mawata](https://open.spotify.com/track/7kwKxJjlATFSqYKKEhVBGD) | [Mirna Tahan](https://open.spotify.com/artist/0GmjBO10yFgYsG67TcYJgg) | [Mawata](https://open.spotify.com/album/3DPn9TMsDGBiWiXljM4fMk) | 3:05 | 2021-12-23 | 2022-01-28 |
 | [Men Halwaket](https://open.spotify.com/track/5HRJEEbjlsshXBlYHRLE55) | [Louay Nana](https://open.spotify.com/artist/4EYdSEi7yt7bfaiME819gI) | [Men Halwaket](https://open.spotify.com/album/676Ri8ndBtfFXhHbAn44a2) | 4:14 | 2021-12-23 | 2022-05-07 |
+| [Meshwar Aldonia](https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Meshwar Aldonia](https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu) | 3:20 | 2023-04-04 |  |
 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-24 | 2023-01-11 |
 | [Mno Enta](https://open.spotify.com/track/2GBYI4P8SvdjcEfUELPzpd) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Mno Enta](https://open.spotify.com/album/0ICKOpQg0VdEDQnZSHA07c) | 4:09 | 2022-07-07 | 2022-11-13 |
 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 | 2022-02-09 | 2022-06-07 |
@@ -152,6 +153,7 @@
 | [Nekser El Khater](https://open.spotify.com/track/2vnApSgg3vhyzjbcxcww2h) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Nekser El Khater](https://open.spotify.com/album/1Hy6wVNw1CHqgvm0BKKfjc) | 3:04 | 2023-03-09 |  |
 | [Ouf Youmah](https://open.spotify.com/track/0Oc9MU2mEItreIATvifcbc) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Ouf Youmah](https://open.spotify.com/album/6xnkSLR4OMgc3cKyvezA6L) | 2:04 | 2021-12-23 | 2022-01-06 |
 | [Qadari](https://open.spotify.com/track/4cftB4jTWjhryKW4krWLUv) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Qadari](https://open.spotify.com/album/0kI1t28rciC1pOVQ9jkhiO) | 3:10 | 2021-12-23 | 2022-03-24 |
+| [Qadeer Rabana](https://open.spotify.com/track/42IiWlpfntw14Axb4MM7nW) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Qadeer Rabana](https://open.spotify.com/album/6v5Os5pIFQojhbK3WTUq47) | 1:23 | 2023-04-04 |  |
 | [Qalbi](https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Qalbi](https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L) | 3:06 | 2022-10-13 | 2023-03-03 |
 | [Qosset Hobna](https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Qosset Hobna](https://open.spotify.com/album/1BsByRHVwAH9b6wis4qypY) | 2:09 | 2022-03-11 | 2022-07-20 |
 | [Raah Anam](https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Raah Anam](https://open.spotify.com/album/2i7RxBm480Zc6g6FHYc2SE) | 3:15 | 2022-05-31 | 2022-09-29 |

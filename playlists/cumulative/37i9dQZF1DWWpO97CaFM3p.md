@@ -4,7 +4,7 @@
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-272 songs - 16 hr 53 min
+273 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 | 2021-12-17 | 2022-07-29 |
 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 | 2021-12-17 | 2022-11-25 |
 | [I Hope You Change Your Mind](https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/5wnyz8qup6D4XuVysaiz8S) | 2:52 | 2021-12-17 | 2022-07-29 |
+| [I Just Love You](https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:12 | 2022-12-09 |  |
 | [I Just Love You](https://open.spotify.com/track/0q7kQr5gUO8SxzNfru6k9s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [I Just Love You](https://open.spotify.com/album/2owEBEzStwkeUDp7dHLj9R) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 | 2022-05-25 | 2023-03-27 |
 | [I Wanted to Leave](https://open.spotify.com/track/2QLgg0DaXBIzKPV5ZzZPDI) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/0rJuGvvXX626hak1KwrEPZ) | 3:23 | 2021-12-17 | 2022-04-21 |
@@ -114,7 +115,7 @@
 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 | 2021-12-17 | 2022-07-26 |
 | [Ice Cream Man](https://open.spotify.com/track/49UWYukd57z7wmPJcGfMER) | [Darling Farm](https://open.spotify.com/artist/51KpzsOhEgF10B7cBROtVC) | [No, Yeah](https://open.spotify.com/album/5VFILulLTqwhiH0CTxFK9p) | 3:25 | 2022-04-15 | 2022-04-21 |
 | [Idaho](https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Idaho](https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd) | 4:05 | 2021-12-17 | 2022-03-12 |
-| [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 | 2021-12-17 |  |
+| [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 | 2021-12-17 | 2023-04-05 |
 | [If You Call](https://open.spotify.com/track/4ImBNQHgRaXLKrGO8XGDWZ) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Piano Salt](https://open.spotify.com/album/7sUZiGol5Ihy11am0fSCip) | 5:49 | 2022-02-16 | 2022-07-29 |
 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2021-12-17 | 2021-12-29 |

@@ -3633,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/2GVHciB5rx3gCQgIqHdJ4G"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286626,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/6WY4wvlmgccWapnIg14Vy0"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
       },
@@ -5585,6 +5603,28 @@
     },
     {
       "album": {
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165619,
+      "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+      "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
+    },
+    {
+      "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
@@ -6283,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154194,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
+    },
+    {
+      "album": {
         "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
       },
@@ -6800,7 +6858,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 102293,
       "name": "\u4eca\u751f\u4eca\u4e16 - \u96fb\u5f71\"\u91d1\u679d\u7389\u8449\"\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/1mSrXFejuVyMxWgwWCYgtq"
@@ -10076,7 +10134,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 323760,
       "name": "\u8ffd",
       "url": "https://open.spotify.com/track/66cBlqEs1viJJCE74CDfGB"
@@ -10524,7 +10582,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 308573,
       "name": "\u98a8\u7e7c\u7e8c\u5439",
       "url": "https://open.spotify.com/track/5RLv04XXxe0Nc4W7DTBJGT"

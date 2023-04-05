@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-144 songs - 7 hr 52 min
+145 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 | 2021-03-21 | 2022-07-29 |
 | [Tu verras](https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:16 | 2021-03-21 |  |
 | [Tu verras](https://open.spotify.com/track/6WgMyVu9ll62mZ9elB46oN) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Rentree Chanson Francaise](https://open.spotify.com/album/2CI9gUCfoJyRTsz4GL9QUz) | 3:16 | 2021-03-21 | 2022-11-14 |
-| [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 | 2021-03-21 |  |
+| [Une belle histoire](https://open.spotify.com/track/5jWaYdEILLzuElA854tfXV) | [Michel Fugain](https://open.spotify.com/artist/3Uitc0uNSbhVrqJON4NCMY), [Le Big Bazar](https://open.spotify.com/artist/3Flcm9X9nGdFzBfptzOI3K) | [Fais comme l'oiseau](https://open.spotify.com/album/3OElRBTgFwCluz9sF4wlSt) | 3:14 | 2023-01-17 |  |
+| [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 | 2021-03-21 | 2023-04-05 |
 | [Vesoul](https://open.spotify.com/track/10R5igl5zOKKH7ipqjhakv) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 3:06 | 2021-03-21 | 2022-11-13 |
 | [Vesoul](https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [J'Arrive \(Vol.12\)](https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ) | 3:06 | 2021-03-21 |  |
 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 | 2021-03-21 | 2022-07-29 |

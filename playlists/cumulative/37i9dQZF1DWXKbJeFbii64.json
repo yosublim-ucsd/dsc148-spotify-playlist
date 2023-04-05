@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Residential Rain",
+        "url": "https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v"
+      },
+      "artists": [
+        {
+          "name": "Wrap Yourself Up",
+          "url": "https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Thunder And Drizzle - Seamless",
+      "url": "https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I"
+    },
+    {
+      "album": {
         "name": "Thunderstorm Sounds for Sleep",
         "url": "https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 208000,
       "name": "Thunder Meditation",
       "url": "https://open.spotify.com/track/3SeR8lSXT7oZ6MB7YLZqnr"

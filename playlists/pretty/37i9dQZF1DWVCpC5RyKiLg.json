@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 643173,
+  "num_followers": 643629,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDA2ZDhkNjYxZWZlOGQ1ZTU0NzRmZWI4NjQ4ODc1YzY0",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDI0ZTQ1MjBlNTg5MGEyN2Q4MTk4YTBjNWUzZWMwODUw",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "P\u00e9 Na Areia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 194218,
+      "name": "Pro Nosso Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
         "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 161396,
       "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
       "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "P\u00e9 Na Areia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 194218,
-      "name": "Pro Nosso Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

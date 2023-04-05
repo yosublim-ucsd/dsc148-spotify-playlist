@@ -2,7 +2,7 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: بلقيس
+> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف:ماجد المهندس
 
 113 songs - 7 hr 58 min
 

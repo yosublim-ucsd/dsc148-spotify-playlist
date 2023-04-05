@@ -1471,36 +1471,6 @@
     },
     {
       "album": {
-        "name": "The Colors Of Christmas",
-        "url": "https://open.spotify.com/album/4kz8WSD8aDnYjOwaiXvSYr"
-      },
-      "artists": [
-        {
-          "name": "Lowell Mason",
-          "url": "https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf"
-        },
-        {
-          "name": "The Bach Choir",
-          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "date_added": "2020-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149946,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/4vhMp985sB2tXWd3gW9vUe"
-    },
-    {
-      "album": {
         "name": "The Colours Of Christmas",
         "url": "https://open.spotify.com/album/3GEd4voPN8iSGzkt4XzWFL"
       },
@@ -1828,6 +1798,36 @@
       "duration_ms": 255773,
       "name": "Lux Aurumque",
       "url": "https://open.spotify.com/track/6eYBCKmpPRcgNAflT977eh"
+    },
+    {
+      "album": {
+        "name": "The Colors Of Christmas",
+        "url": "https://open.spotify.com/album/4kz8WSD8aDnYjOwaiXvSYr"
+      },
+      "artists": [
+        {
+          "name": "Lowell Mason",
+          "url": "https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf"
+        },
+        {
+          "name": "The Bach Choir",
+          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149946,
+      "name": "Mason: Joy To The World",
+      "url": "https://open.spotify.com/track/4vhMp985sB2tXWd3gW9vUe"
     },
     {
       "album": {

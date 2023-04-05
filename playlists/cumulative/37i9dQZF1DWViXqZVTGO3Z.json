@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 190253,
       "name": "El Primer Noel",
       "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
@@ -1714,6 +1714,28 @@
       "duration_ms": 242973,
       "name": "Go Tell It on the Mountain (feat. Brad Wheeler)",
       "url": "https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols, Vol. 1",
+        "url": "https://open.spotify.com/album/7bWrPU9hFL7sbtpDtvjrIM"
+      },
+      "artists": [
+        {
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+        },
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Go Tell It on the Mountain (feat. Home Free)",
+      "url": "https://open.spotify.com/track/4QRE8h1gpjERky2LpAedbY"
     },
     {
       "album": {

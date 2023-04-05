@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,786 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,830 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 39 | [Thief In The Night \(with G Herbo\)](https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:46 |
 | 40 | [Rich Bitch \(feat\. Lakeyah & Coi Leray\)](https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:41 |
 | 41 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 |
-| 42 | [Do Better](https://open.spotify.com/track/0EH29Rmc5ub2b759ArNxlW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Do Better](https://open.spotify.com/album/6kD8b41MqeJzWIRJxVHDxL) | 2:28 |
+| 42 | [Triple S \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/6tvSjlsN5Y37aTv4kJY6np) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Coochie Chronicles](https://open.spotify.com/album/12KOxvR0lRUkPeiKYSS4RI) | 2:22 |
 | 43 | [Clingy \(with NAV\)](https://open.spotify.com/track/5kvW17aKJGgLBsoSmuOdxM) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:26 |
-| 44 | [Triple S \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/6tvSjlsN5Y37aTv4kJY6np) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Coochie Chronicles](https://open.spotify.com/album/12KOxvR0lRUkPeiKYSS4RI) | 2:22 |
-| 45 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 |
-| 46 | [Add It](https://open.spotify.com/track/0xIYGzbDYQLLAHmDtPWaY3) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Add It](https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism) | 1:40 |
+| 44 | [Do Better](https://open.spotify.com/track/0EH29Rmc5ub2b759ArNxlW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Do Better](https://open.spotify.com/album/6kD8b41MqeJzWIRJxVHDxL) | 2:28 |
+| 45 | [Add It](https://open.spotify.com/track/0xIYGzbDYQLLAHmDtPWaY3) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Add It](https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism) | 1:40 |
+| 46 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 |
 | 47 | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq) | 2:07 |
 | 48 | [Messy](https://open.spotify.com/track/2K1hsMf2MZ5lRN2dEDalAv) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Messy](https://open.spotify.com/album/31U14pPaowEmeGUVZAwYHP) | 2:24 |
 | 49 | [Options \(with Coi Leray & Wale\) \- Remix](https://open.spotify.com/track/1O110m9QKRYpE14dfqHzg5) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Options \(with Coi Leray & Wale\) \[Remix\]](https://open.spotify.com/album/3aU4rpw0vnlJF8wqzAlhcI) | 3:13 |
 | 50 | [Huddy](https://open.spotify.com/track/5AJfj6wlGtaWlhd71RAxTG) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 4:24 |
 
-Snapshot ID: `MjgwMDg3NjEsMDAwMDAwMDA0YjJjZTZmMDVkMzIxYWM0ZDRlMWRmZjhkMmJhYjVjNw==`
+Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDA4YmUzMDI3MDNhMzRkMWZiODczOGI5NWZmNjlmMzQzOA==`

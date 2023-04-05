@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
 
-139 songs - 10 hr 7 min
+140 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Unspoken Words](https://open.spotify.com/track/4mTXOg7AweKIjmqSk0CP7c) | [Wonmi Jung](https://open.spotify.com/artist/0daAcOXMuzxPwRiRBqgO2l) | [Unspoken Words](https://open.spotify.com/album/3a7eZQXmz9pudoFomDsg3c) | 4:20 | 2022-11-11 |  |
 | [Ureonada](https://open.spotify.com/track/4YS7FPQN5hGBzrBC9X55Hf) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_288](https://open.spotify.com/album/5rrTnY08CcFWnUFM8vE6i1) | 3:27 | 2022-11-11 |  |
 | [Vacancy Hugs Time](https://open.spotify.com/track/2fOucbHur1VE47D1m5UCgB) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:52 | 2022-11-23 |  |
-| [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-18 |  |
+| [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-18 | 2023-04-05 |
+| [Venice Calle](https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/4DG9bbTsLTCZjc3FX3cLfM) | 3:40 | 2023-03-31 |  |
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 | 2023-02-07 |  |
 | [When I Walk With You](https://open.spotify.com/track/5H5OTHVVhooNowDREHiW3u) | [jazzer](https://open.spotify.com/artist/6xgHk3IjlYwNlFYYiTEteb) | [When I Walk With You](https://open.spotify.com/album/3BvIjh41QjAQHF3eTmjSD5) | 3:00 | 2023-02-07 |  |

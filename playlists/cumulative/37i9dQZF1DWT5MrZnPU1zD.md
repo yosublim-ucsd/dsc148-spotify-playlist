@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-664 songs - 1 day 7 hr 55 min
+665 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [556 \(Green Tip\)](https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [556 \(Green Tip\)](https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h) | 1:57 | 2022-02-18 | 2022-04-09 |
 | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v) | 2:52 | 2022-04-08 | 2022-07-22 |
 | [8](https://open.spotify.com/track/5b7Ry44gTWXNNMtHuvna5K) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 2:22 | 2022-03-25 | 2022-04-19 |
+| [89 Earthquake](https://open.spotify.com/track/0GSbjG7c0gm7qX0Ru7vuon) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:12 | 2023-03-31 |  |
 | [9 Lives \(feat\. Polo G & NLE Choppa\)](https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Not Me It's You](https://open.spotify.com/album/2NwDMvwyNn3oUt80wN9KJN) | 3:48 | 2022-10-07 |  |
 | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG) | 2:47 | 2021-09-03 | 2022-01-17 |
 | [Activated](https://open.spotify.com/track/1i3JTcFeSwrteCNgHWELiS) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Activated](https://open.spotify.com/album/4vVWhBeKFhnZ3kdYh1snMp) | 2:32 | 2021-09-03 | 2022-04-17 |
@@ -499,7 +500,7 @@
 | [Right Out The Gate](https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:57 | 2022-03-18 | 2022-04-21 |
 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 | 2022-06-10 | 2022-08-27 |
 | [Robbers and Villains](https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Robbers and Villains](https://open.spotify.com/album/7iXLTSsI9Vo6mH57JhIU7Z) | 1:47 | 2023-01-27 | 2023-02-11 |
-| [Robbery](https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery](https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy) | 2:24 | 2022-09-02 |  |
+| [Robbery](https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery](https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy) | 2:24 | 2022-09-02 | 2023-04-05 |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-11-30 | 2022-06-11 |
 | [ROCK OUT](https://open.spotify.com/track/47xew8JkE4ekSmVVAlqhgT) | [2WIN](https://open.spotify.com/artist/5YBJQLw36f8hrHkWhREAE2), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [ROCK OUT](https://open.spotify.com/album/3ADmMIpokVST2afYfCDYNm) | 3:16 | 2022-10-28 | 2022-11-09 |
 | [Rockin A Cardigan In Atlanta \- Remix](https://open.spotify.com/track/62eyQ0C0IbRBplVsU1C3rL) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Rockin A Cardigan In Atlanta \(Remix\)](https://open.spotify.com/album/2aSUpaAZwenC8KmgDZEBnI) | 2:18 | 2022-04-29 | 2022-07-29 |

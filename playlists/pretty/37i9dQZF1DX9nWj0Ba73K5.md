@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Joey Hyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,812 likes - 215 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,815 likes - 215 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

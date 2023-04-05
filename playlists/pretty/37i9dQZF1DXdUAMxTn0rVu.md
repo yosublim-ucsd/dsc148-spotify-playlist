@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Slum Village
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,974 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,313 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 42 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 43 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 | 44 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
-| 45 | [Threats](https://open.spotify.com/track/5R8J6WCnV1E2lDJgVoaA4P) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Chen Lo](https://open.spotify.com/artist/2J4NQiYiPyeo4sTDTeORP8) | [Jean Grae: The Evil Jeanius](https://open.spotify.com/album/0BqCQwGFcPXkdNqajk18yS) | 4:06 |
-| 46 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
+| 45 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
+| 46 | [Threats](https://open.spotify.com/track/5R8J6WCnV1E2lDJgVoaA4P) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Chen Lo](https://open.spotify.com/artist/2J4NQiYiPyeo4sTDTeORP8) | [Jean Grae: The Evil Jeanius](https://open.spotify.com/album/0BqCQwGFcPXkdNqajk18yS) | 4:06 |
 | 47 | [The $](https://open.spotify.com/track/5lQXkClM3axFsWL2NkqIW6) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Ruff Draft](https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm) | 2:43 |
 | 48 | [Players](https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 2:26 |
 | 49 | [Clear Blue Skies](https://open.spotify.com/track/7f8dNc5pNiwCZIX6A7uYKB) | [Juggaknots](https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5) | [Re:Release](https://open.spotify.com/album/250mnkB8GWZaBKVTC1yLP0) | 3:55 |
 | 50 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDkyZWI0ODQ2YzlhNDVjNmE5OTAzMTA2MDU0MTI3Yzk0`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGExYTNhNzAwMDA5MWVhOGZkMGViYzFhNGZmMTVjY2Q0`

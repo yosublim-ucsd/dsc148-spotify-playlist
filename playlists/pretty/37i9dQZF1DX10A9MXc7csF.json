@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98185,
+  "num_followers": 98205,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDc3NzhmZGE5ZjFiODIxYzk2ZDJjZDdmODEzZjIyOTU3",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDFjMTU2ZWMwY2Q1YzliMjMyNmYxZDZiOWVmNWI0N2Vj",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211106,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "No Fuimos Nada",
         "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 182981,
       "name": "No Fuimos Nada",
       "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211106,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
+        "name": "Borracha Te Recuerdo",
+        "url": "https://open.spotify.com/album/64TpPcl2RngKLBszfQxUeq"
       },
       "artists": [
         {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         }
       ],
-      "duration_ms": 117429,
-      "name": "Soy Mala",
-      "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
+      "duration_ms": 158560,
+      "name": "Borracha Te Recuerdo",
+      "url": "https://open.spotify.com/track/6dgQkM0dJYMEpIoDhBrmQ8"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Borracha Te Recuerdo",
-        "url": "https://open.spotify.com/album/64TpPcl2RngKLBszfQxUeq"
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
         }
       ],
-      "duration_ms": 158560,
-      "name": "Borracha Te Recuerdo",
-      "url": "https://open.spotify.com/track/6dgQkM0dJYMEpIoDhBrmQ8"
+      "duration_ms": 117429,
+      "name": "Soy Mala",
+      "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "amorlove",
-      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Las Rayas",
         "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 190636,
       "name": "Las Rayas",
       "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 149386,
+      "name": "amorlove",
+      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
     },
     {
       "added_at": "2023-03-17 06:06:33",

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-416 songs - 1 day 4 hr 19 min
+417 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-20 | 2022-09-01 |
 | [Hey Bog](https://open.spotify.com/track/5lWL2HZ9MMCFLpgeM1htpP) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [The Musical / Hey Bog](https://open.spotify.com/album/2NH3n58J1Zvabciudok71a) | 9:23 | 2023-01-10 | 2023-02-16 |
 | [High & Tired](https://open.spotify.com/track/3ZWVMyPoiwSGk5yaeiY6f7) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [High & Tired](https://open.spotify.com/album/0SnRennD8T02I92I0d8ANT) | 5:21 | 2022-10-12 | 2022-11-17 |
+| [High and Away](https://open.spotify.com/track/3jkxvUypqXWjfV8rVu0Pt8) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [High and Away](https://open.spotify.com/album/1GrkIPhC3hFUn19y65FE3P) | 3:55 | 2023-04-04 |  |
 | [High Art Lite](https://open.spotify.com/track/3eMkZmBbC35Hms3rdv0Gl2) | [TVAM](https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM) | [High Art Lite](https://open.spotify.com/album/1J9EFJI3G2fRrX8LtVWBbd) | 5:29 | 2022-11-02 | 2022-12-08 |
 | [Hips \- Loraine James Remix](https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Highgrade](https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z) | 3:17 | 2022-06-17 | 2022-08-11 |
 | [History Lesson Part 2](https://open.spotify.com/track/4DGbJMzedFZAuT40Uq4NDC) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [History Lesson Part 2](https://open.spotify.com/album/7AURzANDD0wbB1oJvUNXUG) | 2:10 | 2022-11-02 | 2022-12-08 |

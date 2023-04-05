@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
-154 songs - 9 hr 39 min
+155 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [The Rose Gardener](https://open.spotify.com/track/62CUlkvPtMgQkKrCH7oxLH) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/28hPhjhF5nBTjRVgAIq5xb) | 3:44 | 2022-06-10 |  |
 | [The Ship](https://open.spotify.com/track/0LXXiQatpwbFI6JBc0xLOH) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [The Ship](https://open.spotify.com/album/2T7uDGO2JZGk4Ts6Kya78U) | 4:14 | 2021-06-01 | 2022-06-01 |
 | [The War After the War](https://open.spotify.com/track/02xkT5qN9CdYLmDZpWG6ie) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 3:44 | 2021-06-01 | 2022-06-01 |
+| [The Way I Do](https://open.spotify.com/track/7jEeK2YYjH4ollu0q2fuOn) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away](https://open.spotify.com/album/6em5uVXjUmKhK63DBEH35C) | 3:32 | 2023-04-04 |  |
 | [Through The Fires](https://open.spotify.com/track/3Eh3wDt6HDAx8mxDrOxIsQ) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:31 | 2022-06-10 |  |
 | [Through The Fires](https://open.spotify.com/track/7F4UgivYUzFRf8uUEVQC8m) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Through The Fires](https://open.spotify.com/album/1zxdHgvP38B7QdYw61I2Sl) | 4:31 | 2022-06-01 | 2022-07-29 |
 | [Thumbs](https://open.spotify.com/track/0KdYYVq1c2kvy69RjczLeX) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:25 | 2022-06-01 |  |

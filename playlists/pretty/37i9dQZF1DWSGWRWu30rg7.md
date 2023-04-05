@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: After Nourway
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,802 likes - 69 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,805 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

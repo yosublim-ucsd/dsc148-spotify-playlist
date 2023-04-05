@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
-> أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال مخلص وناصر السبيعي
+> أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: محمد بن غرمان
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,588 likes - 55 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,652 likes - 55 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [من الغلطان](https://open.spotify.com/track/1jIz4svTFgvaQXCa04T5ZK) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [ناصر السبيعي](https://open.spotify.com/artist/270gPRLXHuw2r2XyNlPOrK) | [من الغلطان](https://open.spotify.com/album/718bx8uiKIayDFAQ6nb44f) | 4:07 |
-| 2 | [ياوقت](https://open.spotify.com/track/639jQrPyDSLttOX5wym9zk) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ياوقت](https://open.spotify.com/album/78hVLUZy6yTNZwSnshEJyj) | 6:07 |
-| 3 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 |
-| 4 | [خاويت ذكراه](https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [خاويت ذكراه](https://open.spotify.com/album/64jWjJ9jxpM4spXX9QDqaf) | 3:40 |
-| 5 | [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 |
-| 6 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 |
-| 7 | [اسرقني بعينك](https://open.spotify.com/track/2btTUVu43lXrCQzHLGbg6S) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [اسرقني بعينك](https://open.spotify.com/album/6KTTNe2nEBWO8dQjHk1HGA) | 3:56 |
-| 8 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
+| 1 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
+| 2 | [من الغلطان](https://open.spotify.com/track/1jIz4svTFgvaQXCa04T5ZK) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [ناصر السبيعي](https://open.spotify.com/artist/270gPRLXHuw2r2XyNlPOrK) | [من الغلطان](https://open.spotify.com/album/718bx8uiKIayDFAQ6nb44f) | 4:07 |
+| 3 | [ياوقت](https://open.spotify.com/track/639jQrPyDSLttOX5wym9zk) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ياوقت](https://open.spotify.com/album/78hVLUZy6yTNZwSnshEJyj) | 6:07 |
+| 4 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 |
+| 5 | [خاويت ذكراه](https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [خاويت ذكراه](https://open.spotify.com/album/64jWjJ9jxpM4spXX9QDqaf) | 3:40 |
+| 6 | [الغربة](https://open.spotify.com/track/6AKDz8CoUy5pB28gSZ7CqJ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الغربة](https://open.spotify.com/album/3DZnSoRRssXDyf50hcX3DI) | 4:02 |
+| 7 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 |
+| 8 | [اسرقني بعينك](https://open.spotify.com/track/2btTUVu43lXrCQzHLGbg6S) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [اسرقني بعينك](https://open.spotify.com/album/6KTTNe2nEBWO8dQjHk1HGA) | 3:56 |
 | 9 | [فاقدك](https://open.spotify.com/track/0xA6b2OppmTqMjojgf6Ipb) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فاقدك](https://open.spotify.com/album/6MIsUhrJIZpJ0JqEIJEMtz) | 4:47 |
 | 10 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 |
 | 11 | [Agblt Bghala](https://open.spotify.com/track/3HISZkVKGdicqfeytw8WRL) | [Ziyad Al Zahem](https://open.spotify.com/artist/6X48LcVZiaJrHUdyhikE08) | [Agblt Bghala](https://open.spotify.com/album/6ovX8eybx62I2LQe9Va6Jh) | 4:16 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 54 | [من وين لك](https://open.spotify.com/track/3pmg5RPTBFLPHFE3LIAouB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [من وين لك](https://open.spotify.com/album/6jTqc67zbsEmDuaGNjFmJ1) | 4:28 |
 | 55 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 |
 
-Snapshot ID: `MTY3OTk4NzkwNiwwMDAwMDAwMGIwYmQ0ZTNiMTMwZTg1NzJiZmJmYjU0N2Y3ZTMwNTc3`
+Snapshot ID: `MTY4MDYwNzk1NCwwMDAwMDAwMDk4OGFiZjg0MTAwOTZmNjRiYjBlYTZkMDNkMmU3OTVj`

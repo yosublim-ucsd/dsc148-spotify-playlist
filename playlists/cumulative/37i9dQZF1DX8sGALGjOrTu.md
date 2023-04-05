@@ -4,7 +4,7 @@
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-209 songs - 13 hr 15 min
+210 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Decoration \- Rock Version](https://open.spotify.com/track/6b9zC4tbdV3jmRtpErsKP1) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Mother, The Mechanic, And The Path](https://open.spotify.com/album/6ArZlxEdAfMNjsGt64hnsw) | 3:17 | 2021-12-07 | 2022-07-29 |
 | [Decoration \- Rock Version](https://open.spotify.com/track/6pqDYLoQnjDqnPEEWHHL4Q) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Mother, The Mechanic, And The Path](https://open.spotify.com/album/4bCgcuGVc07xSfFJb0wXf3) | 3:17 | 2022-12-11 | 2022-12-18 |
 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 | 2023-03-07 |  |
-| [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 | 2021-12-07 |  |
+| [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 | 2021-12-07 | 2023-04-05 |
 | [Die Romantic](https://open.spotify.com/track/3t9OWuyMpQclTWD6ABjqXj) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2D1VW1OkgB4t2x8vLWu2Az) | 3:40 | 2021-12-07 | 2022-07-28 |
 | [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 | 2021-12-07 | 2022-10-01 |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2021-12-07 |  |
@@ -99,6 +99,7 @@
 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 | 2021-12-07 | 2022-07-02 |
 | [Juneau](https://open.spotify.com/track/6GZRgyUAO1QbqEmMxH1WsH) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:37 | 2023-03-07 | 2023-03-21 |
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2021-12-07 |  |
+| [King Park](https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Wildlife](https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28) | 6:54 | 2023-03-20 |  |
 | [King Park](https://open.spotify.com/track/7MeUFHaHTgcLqz56vSyvIh) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Wildlife](https://open.spotify.com/album/1zAMnOQUqSq3xCMgeBS6i2) | 6:54 | 2021-12-07 | 2023-03-23 |
 | [Knives and Pens](https://open.spotify.com/track/29Od8h2a4HZyD0PZ8SkBo6) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [We Stitch These Wounds](https://open.spotify.com/album/5BZEfwP3m4K7fgxATiu5Gv) | 4:15 | 2021-12-07 | 2022-05-31 |
 | [Knives and Pens](https://open.spotify.com/track/2ZhswJTKMkNNTAjrTmPhOJ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [We Stitch These Wounds](https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B) | 4:15 | 2021-12-07 | 2022-12-12 |

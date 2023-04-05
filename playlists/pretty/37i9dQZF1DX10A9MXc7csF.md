@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Nivel Codiciado
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,185 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,205 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 28 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 |
 | 29 | [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 |
 | 30 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
-| 31 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
-| 32 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
+| 31 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
+| 32 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 33 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
 | 34 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
 | 35 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 41 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
 | 42 | [5 Estrellas \- En Vivo](https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:42 |
 | 43 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
-| 44 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
-| 45 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 |
-| 46 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 |
-| 47 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 |
+| 44 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 |
+| 45 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 |
+| 46 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
+| 47 | [Kenwood En Los Radios \(En Vivo\)](https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Desde Culiacán Con Servando Zl \(En Vivo\)](https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg) | 3:07 |
 | 48 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 49 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |
 | 50 | [Payonazo Exoticos](https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Payonazo Exoticos](https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR) | 3:53 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 65 | [SUR 99](https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Primera Elegancia](https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k) | [SUR 99](https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5) | 3:09 |
 | 66 | [AJUA](https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [AJUA](https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27) | 2:29 |
 | 67 | [Para El Barrio](https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Para El Barrio](https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy) | 3:12 |
-| 68 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
+| 68 | [Borracha Te Recuerdo](https://open.spotify.com/track/6dgQkM0dJYMEpIoDhBrmQ8) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Borracha Te Recuerdo](https://open.spotify.com/album/64TpPcl2RngKLBszfQxUeq) | 2:38 |
 | 69 | [Juzgarme](https://open.spotify.com/track/1GZBXmYFvNXj6tDLLtEjIB) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Juzgarme](https://open.spotify.com/album/3wiZqEZKOkCjQ13KU4Pe2p) | 3:03 |
-| 70 | [Borracha Te Recuerdo](https://open.spotify.com/track/6dgQkM0dJYMEpIoDhBrmQ8) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Borracha Te Recuerdo](https://open.spotify.com/album/64TpPcl2RngKLBszfQxUeq) | 2:38 |
+| 70 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
 | 71 | [La Cayenne](https://open.spotify.com/track/2EjsPNiSMXGSnTKPgdPe9Y) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [La Cayenne](https://open.spotify.com/album/6UbqpR6Qmid3Du6UUOL1IL) | 2:18 |
 | 72 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 |
 | 73 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
 | 74 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
-| 75 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 |
-| 76 | [Las Rayas](https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Las Rayas](https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD) | 3:10 |
+| 75 | [Las Rayas](https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Las Rayas](https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD) | 3:10 |
+| 76 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 |
 | 77 | [Te Mereces A Mi](https://open.spotify.com/track/5UFmU41FARfLkGGi4u7mQq) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Te Mereces A Mi](https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN) | 2:20 |
 | 78 | [Es Claro](https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Es Claro](https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y) | 2:41 |
 | 79 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 |
 | 100 | [El Chiste](https://open.spotify.com/track/03AGRk4RHSpOEwU00Smwvm) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [El Chiste](https://open.spotify.com/album/1H0nf93rr0nrdT8Z1sAn5B) | 2:58 |
 
-Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDc3NzhmZGE5ZjFiODIxYzk2ZDJjZDdmODEzZjIyOTU3`
+Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDFjMTU2ZWMwY2Q1YzliMjMyNmYxZDZiOWVmNWI0N2Vj`

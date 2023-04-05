@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Les Annees Petula",
+        "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 185400,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
@@ -383,6 +401,24 @@
     },
     {
       "album": {
+        "name": "C'est ma chanson",
+        "url": "https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144760,
+      "name": "Je me sens bien aupr\u00e8s de toi",
+      "url": "https://open.spotify.com/track/3r9qKxFt4lOeOIFmOyclTn"
+    },
+    {
+      "album": {
         "name": "C'est Ma Chanson",
         "url": "https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1"
       },
@@ -394,7 +430,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 144960,
       "name": "Je Me Sens Bien Aupr\u00e8s De Toi",
       "url": "https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09"
@@ -1403,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Les Annees Petula",
+        "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132840,
+      "name": "Ya Ya Twist - Stereo Version",
+      "url": "https://open.spotify.com/track/6DJP4Ulkd4gF7NXyB30EHz"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
       },
@@ -1414,7 +1468,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 132760,
       "name": "Ya Ya Twist - Ya Ya",
       "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"

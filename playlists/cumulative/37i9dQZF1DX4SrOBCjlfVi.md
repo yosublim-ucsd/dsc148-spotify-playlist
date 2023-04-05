@@ -4,7 +4,7 @@
 
 > All the New Joints featuring DJ Drama, Quavo and more\. Cover: Tyler, The Creator
 
-2,571 songs - 4 day 23 hr 59 min
+2,573 songs - 5 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1404,6 +1404,7 @@
 | [Master P \(feat\. Rich The Kid & 2KBABY\)](https://open.spotify.com/track/1P1v5omNqC4WQRNZHxKz2h) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Master P \(feat\. Rich The Kid & 2KBABY\)](https://open.spotify.com/album/0BTdxwoE0cPbrtUDAnrjAp) | 2:18 | 2023-01-20 | 2023-01-28 |
 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 | 2022-10-21 | 2022-10-29 |
 | [Max Out \(feat\. Shawny Binladen\)](https://open.spotify.com/track/3ZAdfrlcv07Fd78wJfhbRd) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Max Out \(feat\. Shawny Binladen\)](https://open.spotify.com/album/2LtgejDTtBZrzQSQTFH3Iv) | 2:11 | 2022-09-23 | 2022-10-01 |
+| [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-04 |  |
 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 | 2023-02-10 | 2023-02-18 |
 | [Me First](https://open.spotify.com/track/5hT0mnDTVjyIsnBjXc3X0Q) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Me First](https://open.spotify.com/album/6PtlmGYKfyGEMi9Q9OtzmR) | 2:57 | 2023-02-17 | 2023-02-25 |
 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 | 2022-08-26 | 2022-09-03 |
@@ -1855,6 +1856,7 @@
 | [Rain On You!](https://open.spotify.com/track/5rzaSeBImoESArwGFuugU7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Rain On You!](https://open.spotify.com/album/7i2jiNB2URgMaiZ7gOI91A) | 1:24 | 2022-04-01 | 2022-04-09 |
 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 | 2023-02-24 | 2023-03-04 |
 | [Raised In Memphis](https://open.spotify.com/track/0jiiCreJo7AbZS0IGOgilc) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Raised In Memphis](https://open.spotify.com/album/3pJHIhucJv21752L6wYSwe) | 3:03 | 2022-12-23 | 2023-01-06 |
+| [Ransom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1CaOUy0DDaVrxqzDltzLnk) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [My Vision: Reloaded](https://open.spotify.com/album/6cLGEYguW9BfbGOogusAHZ) | 2:50 | 2023-04-04 |  |
 | [Rapper Who?](https://open.spotify.com/track/4i1hm094XUhJs838xfQkPs) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Rapper Who?](https://open.spotify.com/album/0RJIyfTEIwJgjcCzjnBVlQ) | 2:03 | 2022-09-23 | 2022-10-01 |
 | [Rare Steppa](https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Steppa](https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K) | 1:58 | 2023-03-31 |  |
 | [Rare's Room](https://open.spotify.com/track/5NMwkU694dCYy5pSVkYJuN) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare's Room](https://open.spotify.com/album/0CSMS09vHwUQ2KeDJ3mKi3) | 2:19 | 2023-02-03 | 2023-02-11 |

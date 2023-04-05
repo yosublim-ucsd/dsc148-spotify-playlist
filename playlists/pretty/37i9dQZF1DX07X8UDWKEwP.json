@@ -1,29 +1,13 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Ronald Borjas & Tito Nieves",
-  "num_followers": 249399,
+  "num_followers": 249457,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGE5MWFjZDJmZjg0YmY0MzU4ODcyNmYxOWU0OGE4MGMx",
+  "snapshot_id": "MTY4MDYyMjg5NywwMDAwMDAwMGFiNzllMzUyZDhjNWQ3NDIxNzNmZTkxNWViMDU4ZmZj",
   "tracks": [
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-        "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 213998,
-      "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-      "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
-    },
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 213998,
+      "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+      "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -116,7 +116,7 @@
           "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 212821,
+      "duration_ms": 212813,
       "name": "Ambulancia",
       "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
     },
@@ -143,6 +143,26 @@
       "duration_ms": 223073,
       "name": "Si Te Preguntan...",
       "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Mi Pecadito",
+        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -183,26 +203,6 @@
       "duration_ms": 225640,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Mi Pecadito",
-        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 197076,
-      "name": "Mi Pecadito",
-      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Soltemos al Mundo",
         "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
       },
@@ -551,26 +571,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Desn\u00fadate",
         "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Peligro de Amor",
-        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 256045,
-      "name": "Peligro de Amor",
-      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Lado A Lado B",
         "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 276726,
       "name": "Decid\u00ed Tener Pantalones",
       "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Peligro de Amor",
+        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "duration_ms": 256045,
+      "name": "Peligro de Amor",
+      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
+      },
+      "artists": [
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 200895,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "El Ignorante",
         "url": "https://open.spotify.com/album/5s5OS8ox9J6dTzY2LY8A5a"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
-      },
-      "artists": [
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 200895,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 208524,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Ya No Te Amo",
-        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 236257,
-      "name": "Ya No Te Amo",
-      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Ya No Te Amo",
+        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 236257,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 161835,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Perro Arrepentido",
+        "url": "https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Perro Arrepentido",
+      "url": "https://open.spotify.com/track/0krBST4JusyJApb2M30PZr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 187826,
       "name": "Sube Tela",
       "url": "https://open.spotify.com/track/2ZSO65g1JGMNiyftPfXO7w"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Perro Arrepentido",
-        "url": "https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Perro Arrepentido",
-      "url": "https://open.spotify.com/track/0krBST4JusyJApb2M30PZr"
     }
   ],
   "unique_name": "el nuevo tropical",

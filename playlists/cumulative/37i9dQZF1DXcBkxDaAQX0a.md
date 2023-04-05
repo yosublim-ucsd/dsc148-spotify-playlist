@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-262 songs - 15 hr 31 min
+263 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,10 +89,11 @@
 | [Ew Jersey](https://open.spotify.com/track/5yWPnyJU1LBuePnoq80XEf) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Oliver Appropriate](https://open.spotify.com/album/0TZEzBIOcUred0CnfhPqiD) | 2:56 | 2022-04-04 | 2022-04-21 |
 | [Eye to Eye \- Acoustic](https://open.spotify.com/track/7eUBwEAnghwTwxPoECjKa0) | [Calmgrove](https://open.spotify.com/artist/69ijBiV3tPi6K6Us940JLq) | [Eye to Eye \(Acoustic\)](https://open.spotify.com/album/4Jq1EYDbNNLY0RUavbpWXy) | 3:06 | 2021-02-08 | 2022-04-21 |
 | [Fall Down \- Acoustic](https://open.spotify.com/track/4JOmuCT0cdH0pPlbx0FkWe) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Fall Down \(Acoustic\)](https://open.spotify.com/album/4Z83YFWZFc0cHA3dX9ZOSV) | 3:00 | 2021-02-08 | 2022-05-30 |
-| [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/65XUrEOJLHzQBQtUp2aybr) | 3:42 | 2021-02-08 |  |
+| [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/65XUrEOJLHzQBQtUp2aybr) | 3:42 | 2021-02-08 | 2023-04-05 |
 | [February](https://open.spotify.com/track/6WptWHEf06ILIIK6merGuc) | [When the Sun Sets](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4) | [February](https://open.spotify.com/album/1XeTjGH7IwO5twLA52ebxA) | 4:03 | 2021-02-08 | 2022-07-29 |
 | [Fentanyl \- Stripped](https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 3:19 | 2021-02-08 | 2022-07-22 |
 | [Find Peace](https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [Find Peace](https://open.spotify.com/album/4rukdvVxY2wg5cWeAGUUnE) | 3:31 | 2021-02-08 | 2022-07-28 |
+| [Find Peace](https://open.spotify.com/track/1usQj9NC5JYJn2frcYFjPO) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time \(Deluxe\)](https://open.spotify.com/album/7FiSZuXVcqwOwWBCSfGVhJ) | 3:31 | 2022-04-04 |  |
 | [Flatline \(Acoustic\)](https://open.spotify.com/track/3eSJmY6cL6274iOKhDwIyc) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Flatline \(Acoustic\)](https://open.spotify.com/album/4Lm2HVLmDnrS2DQqGbqYc1) | 3:11 | 2021-02-08 | 2022-07-19 |
 | [Footprints \- Acoustic](https://open.spotify.com/track/4vYbjfD6l8LNYlcdYnHBDm) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Footprints \(Acoustic\)](https://open.spotify.com/album/22QJjaz22HnJbgPBeQz9rj) | 2:59 | 2021-02-08 | 2022-07-27 |
 | [For What It's Worth \- Acoustic](https://open.spotify.com/track/0cJqQeY8GHfMQmeeNl9LAh) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [For What It's Worth \(Acoustic\)](https://open.spotify.com/album/6iHkxF0G76MdxKJvQDIVQA) | 2:52 | 2021-02-08 | 2022-07-27 |
@@ -181,7 +182,7 @@
 | [Passing Through a Screen Door](https://open.spotify.com/track/7ePkayJpwG3OxNT6UN20ZU) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume II\)](https://open.spotify.com/album/6IIV6gHEqxVCydojrHVm6L) | 4:05 | 2021-02-08 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [Patience](https://open.spotify.com/album/3LbFLyD7bHKLYds3UFw6G8) | 3:44 | 2021-02-08 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 | 2022-04-04 |  |
-| [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 | 2022-04-04 | 2023-03-28 |
+| [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 | 2022-04-04 |  |
 | [Pavement \(Acoustic\)](https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9) | 4:00 | 2021-02-08 | 2022-07-29 |
 | [Peace of Mind \- Acoustic](https://open.spotify.com/track/1coIjlaBlQw11S1OPu2AcW) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Alone in the Dark](https://open.spotify.com/album/0TlOemPEohRjRYtVV4u7NC) | 4:06 | 2021-02-08 | 2022-07-06 |
 | [Pieces \(Acoustic\)](https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx) | [MariaHill](https://open.spotify.com/artist/1n70LfQ2jXSKxoK1PI7oLt) | [Lie to Me](https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB) | 3:22 | 2021-02-08 | 2022-07-27 |
@@ -201,7 +202,7 @@
 | [Send Help](https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Send Help](https://open.spotify.com/album/57JPx4goPt4LjqDQHFKJiV) | 3:23 | 2021-02-08 | 2022-07-28 |
 | [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 | 2022-04-04 | 2023-01-28 |
 | [Sequel \- Acoustic](https://open.spotify.com/track/7pMq1eqT6Kh2tENYWqZTJ9) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Simmer Down \(Acoustic\)](https://open.spotify.com/album/1Yyjm4i0o5NawNialaKuLm) | 3:19 | 2022-04-04 | 2022-04-19 |
-| [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 | 2021-02-08 |  |
+| [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 | 2021-02-08 | 2023-04-05 |
 | [Sixteen](https://open.spotify.com/track/72PRHbPh44Rqj4NiiQYTzL) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Sixteen](https://open.spotify.com/album/5CqlverB4FuW80hC30NQpE) | 3:49 | 2022-04-04 | 2022-04-17 |
 | [Slam/Shy Guys \- Alternate Version](https://open.spotify.com/track/2pygS1r22iasUILa7K5U3L) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:10 | 2022-04-04 | 2022-04-19 |
 | [sleepwalking](https://open.spotify.com/track/4MUvToqpjVcQVcVD5snNnp) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Mike Kinsella, Owen](https://open.spotify.com/artist/6oGJj8pbXwYN5Jk0uiTHfS) | [sleepwalking](https://open.spotify.com/album/1JYZ7VEh3i5TKTSQnA2zKa) | 3:35 | 2021-02-08 | 2022-07-25 |

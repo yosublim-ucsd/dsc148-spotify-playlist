@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-745 songs - 2 day 1 hr 5 min
+746 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 | 2023-03-10 |  |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 |  |
 | [Gelin Halayı](https://open.spotify.com/track/3f5tPuiyvrq4zTw4brN3pM) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Gelin Halayı / Dıv Dıv](https://open.spotify.com/album/6F8gxHLYlI7U6A2l5K1nxN) | 3:17 | 2021-04-02 | 2022-04-21 |
+| [Gem](https://open.spotify.com/track/4EWigRsUuQBFO7vCwTFFHW) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 4:14 | 2023-04-04 |  |
 | [Gemini](https://open.spotify.com/track/7DIUHY48PdWzeAryp7mR60) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Gemini](https://open.spotify.com/album/0hE1bU80M0xQ9K4ksIC88o) | 4:25 | 2021-04-02 | 2022-04-20 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-06-25 | 2022-07-30 |
 | [Gettin’ to the Point](https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Reset](https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y) | 2:30 | 2022-08-12 | 2022-10-14 |

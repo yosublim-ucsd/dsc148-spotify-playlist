@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-185 songs - 7 hr 21 min
+186 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Unholy](https://open.spotify.com/track/1wloYvGkQimOKMG1h86Jt9) | [Bow Malik](https://open.spotify.com/artist/1e6kAoiCHHdonzjnSIkUkk) | [Unholy](https://open.spotify.com/album/7fsmqpkBQ0Z6Z08n2UtSjd) | 2:41 | 2022-11-11 |  |
 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 | 2022-09-30 |  |
 | [want to want me](https://open.spotify.com/track/5puZEIkF0RN3zcaTpehfkf) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [want to want me](https://open.spotify.com/album/2SoUBW7aej6obPHrEFAuoE) | 2:08 | 2023-01-13 |  |
-| [Waterfalls](https://open.spotify.com/track/3jmfoWW30Cuan6o9PVAx2P) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/40p2rxjyHKwvB94u7jrqrK) | 2:09 | 2022-10-14 |  |
+| [Waterfalls](https://open.spotify.com/track/0trpTNoxD6tXWWuyZGlMIl) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/06iVppBWZfA1KdMpWRS3AM) | 2:09 | 2023-04-03 |  |
+| [Waterfalls](https://open.spotify.com/track/3jmfoWW30Cuan6o9PVAx2P) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Waterfalls](https://open.spotify.com/album/40p2rxjyHKwvB94u7jrqrK) | 2:09 | 2022-10-14 | 2023-04-05 |
 | [Waterfalls](https://open.spotify.com/track/6bMbTTdcIYR6vwvkO6nkqc) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Waterfalls](https://open.spotify.com/album/4PTqPayFlbjxXceUkXtTNj) | 2:03 | 2022-09-02 | 2022-09-23 |
 | [Watermelon Sugar](https://open.spotify.com/track/3vHaS2v1VAYSTzNaUTnZmi) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:16 | 2022-11-11 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/22MIvtuAgtIwHslhKIyPyo) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Watermelon Sugar](https://open.spotify.com/album/426VKc5Es9l2G0q4IUoELZ) | 1:36 | 2022-09-02 | 2022-11-12 |

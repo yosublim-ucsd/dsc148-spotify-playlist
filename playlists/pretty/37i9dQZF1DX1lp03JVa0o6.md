@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Dimitri Vegas, Steve Aoki, Chapter & Verse
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,700 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,765 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rusherking & La China",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: FMK, Big One & Ke Personajes.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 148771,
       "name": "PR Sessions #4",
       "url": "https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF"
@@ -6694,6 +6694,32 @@
       "duration_ms": 157669,
       "name": "UH",
       "url": "https://open.spotify.com/track/6ExxGGEr58N4ZxtGmn9tCA"
+    },
+    {
+      "album": {
+        "name": "Un Finde | CROSSOVER #2",
+        "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Un Finde | CROSSOVER #2",
+      "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
     },
     {
       "album": {

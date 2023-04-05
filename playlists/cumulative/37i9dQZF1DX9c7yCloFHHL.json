@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. A Winged Victory For The Sullen on cover.",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Ryuichi Sakamoto on cover.",
   "name": "Ambiente",
   "tracks": [
     {
@@ -224,9 +224,27 @@
           "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "date_added": "2023-03-03",
+      "date_added": "2023-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 413476,
+      "name": "20210310",
+      "url": "https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
       "duration_ms": 190482,
       "name": "20220302 - sarabande",
       "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 390375,
       "name": "Beige",
       "url": "https://open.spotify.com/track/5TFQzMRxc4hH5rEFvAN62v"
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 118897,
       "name": "Fin ao\u00fbt, d\u00e9but septembre",
       "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
@@ -8001,6 +8019,24 @@
     },
     {
       "album": {
+        "name": "out of noise",
+        "url": "https://open.spotify.com/album/3onhkhm47qmvYBXCT699yN"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332240,
+      "name": "in the red",
+      "url": "https://open.spotify.com/track/6txk8waUfaUXJmPgpidYQT"
+    },
+    {
+      "album": {
         "name": "FOREVERANDEVERNOMORE",
         "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
@@ -9082,6 +9118,24 @@
       "duration_ms": 168000,
       "name": "Life Lived in the Echoes of Emptiness",
       "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263580,
+      "name": "LIFE, LIFE",
+      "url": "https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW"
     },
     {
       "album": {
@@ -12262,7 +12316,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 379573,
       "name": "Phare",
       "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
@@ -14723,6 +14777,24 @@
     },
     {
       "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
+    },
+    {
+      "album": {
         "name": "Sleep Scenes Vol. II \u2022 Somnolite",
         "url": "https://open.spotify.com/album/64zdXjb0kQO32C8SUXOfo4"
       },
@@ -15174,6 +15246,24 @@
       "duration_ms": 253476,
       "name": "Still / Sound",
       "url": "https://open.spotify.com/track/1rJFEKA0m4aUeQNK9378uo"
+    },
+    {
+      "album": {
+        "name": "out of noise",
+        "url": "https://open.spotify.com/album/3onhkhm47qmvYBXCT699yN"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "still life",
+      "url": "https://open.spotify.com/track/5qOpSkCtp0twDYGpCE6UnP"
     },
     {
       "album": {
@@ -18298,7 +18388,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 208080,
       "name": "We Let It In",
       "url": "https://open.spotify.com/track/4yWd80KUbRs8nuv8MocOa5"

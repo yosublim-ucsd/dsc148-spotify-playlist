@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 518420,
+  "num_followers": 518495,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDE2OTAxZDgzMjVmNmIwZmUyNmU3MTBkZGUzNDMyYzZj",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDhhZmVlNjcxNmFmNDBjNmQyNzQwOTQ1YjgxMGNkZWJk",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Duetos lo mejor de Armando Manzanero",
-        "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Somos novios (feat. Lolita)",
-      "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Duetos lo mejor de Armando Manzanero",
+        "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Somos novios (feat. Lolita)",
+      "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Me Vuelves Loca",
-        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 268146,
-      "name": "Me Vuelves Loca",
-      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Tal Vez, Quiz\u00e1",
         "url": "https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y"
       },
@@ -1247,6 +1223,30 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Me Vuelves Loca",
+        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 268146,
+      "name": "Me Vuelves Loca",
+      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "B\u00e9same mucho",
-        "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
-      },
-      "artists": [
-        {
-          "name": "Edna Vazquez",
-          "url": "https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP"
-        },
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 244711,
-      "name": "B\u00e9same mucho",
-      "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
@@ -1431,18 +1411,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
-        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
+        "name": "B\u00e9same mucho",
+        "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Edna Vazquez",
+          "url": "https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP"
+        },
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
         }
       ],
-      "duration_ms": 235453,
-      "name": "No Olvides Recordarme - En Vivo",
-      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
+      "duration_ms": 244711,
+      "name": "B\u00e9same mucho",
+      "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1479,6 +1463,22 @@
       "duration_ms": 164813,
       "name": "Drume Negrita",
       "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
+        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "No Olvides Recordarme - En Vivo",
+      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
     },
     {
       "added_at": "2023-03-17 06:00:00",

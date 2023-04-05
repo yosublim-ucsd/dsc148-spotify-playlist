@@ -4,7 +4,7 @@
 
 > Swinging jazz and soft beats for relaxing and unwinding.
 
-327 songs - 20 hr 28 min
+328 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2023-03-20 |  |
 | [Barnwohl's Voyage](https://open.spotify.com/track/36g3YNQmFyZd73VZQr00hF) | [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu) | [Barnwohl's Voyage](https://open.spotify.com/album/3EoNdWxcIKcmmikjrBw0Hq) | 2:06 | 2022-06-22 | 2022-08-12 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-03-20 |  |
-| [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2022-03-11 |  |
+| [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2022-03-11 | 2023-04-05 |
 | [Between Days](https://open.spotify.com/track/59XUNESVcQFbJMQzlyGeZm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:34 | 2022-04-22 | 2022-12-08 |
 | [Bitter Suite](https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:46 | 2022-04-22 |  |
 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 | 2023-03-20 |  |
@@ -235,6 +235,7 @@
 | [Sais \(Egypt\)](https://open.spotify.com/track/1PXneJ9X3C8Pv35J85OBEq) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Sais \(Egypt\)](https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys) | 7:42 | 2022-02-17 | 2022-07-30 |
 | [Sais \(Egypt\)](https://open.spotify.com/track/3bGbluKM6GBtr8tY9ij503) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Astral Traveling](https://open.spotify.com/album/2SdYnjRWuQH00nX3d4FWZz) | 7:42 | 2022-06-22 | 2023-01-19 |
 | [Satori Ways](https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Satori Ways](https://open.spotify.com/album/2ddXqx3PYPz15XT9Np5ler) | 5:36 | 2022-02-17 | 2022-04-23 |
+| [Shroomin'](https://open.spotify.com/track/4kt2mS8GfHLZETTXg3aO4j) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Shroomin'](https://open.spotify.com/album/1ogdrLRi9fNZl7XpEytaAR) | 2:28 | 2023-03-24 |  |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2022-02-17 | 2022-11-02 |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2022-11-10 |  |
 | [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 | 2023-03-13 |

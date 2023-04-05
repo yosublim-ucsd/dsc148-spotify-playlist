@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-194 songs - 13 hr 7 min
+195 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Natural Thing \- Live](https://open.spotify.com/track/051nhFAF8tpcb7DduLxtTn) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Werewolves of London \(Live\)](https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g) | 3:33 | 2023-03-10 | 2023-03-19 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 | 2023-03-25 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-03-24 | 2023-04-01 |
-| [Oh la joie](https://open.spotify.com/track/0l840fSDQCtTarA6wRm3Lg) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej), [M1](https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ) | [Oh la joie](https://open.spotify.com/album/1CUePrPDG5jW4dPr2YbGW3) | 3:37 | 2023-03-31 |  |
+| [Oh la joie](https://open.spotify.com/track/0l840fSDQCtTarA6wRm3Lg) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej), [M1](https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ) | [Oh la joie](https://open.spotify.com/album/1CUePrPDG5jW4dPr2YbGW3) | 3:37 | 2023-03-31 | 2023-04-05 |
 | [Open Invitation](https://open.spotify.com/track/0qVl3SrtFfv2rPzgk2FYN3) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Open Invitation](https://open.spotify.com/album/052eFU5kSqIG2JXAXXCu9V) | 4:07 | 2023-03-17 | 2023-03-25 |
 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 | 2023-03-31 |  |
 | [Opus of the Night \(Ghost Requiem\) \(feat\. Tina Guo\)](https://open.spotify.com/track/2qpr0TNvdI7mlL0RIkN2kp) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Opus of the Night \(Ghost Requiem\)](https://open.spotify.com/album/7bmG9sjiv1GXgwcbZMIQZe) | 5:47 | 2023-03-03 | 2023-03-12 |
@@ -139,6 +139,7 @@
 | [Satellite](https://open.spotify.com/track/23dzByFE2OPjihb9FSy8L4) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Satellite](https://open.spotify.com/album/0t77IVjZUoXXovz94eHi8i) | 3:18 | 2023-03-17 | 2023-03-25 |
 | [Save Face](https://open.spotify.com/track/6bo9WfTpX4pSsd0HZO8neM) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Save Face](https://open.spotify.com/album/0LV8a81HrP6fPxEPXvVjS7) | 6:23 | 2023-03-24 | 2023-04-01 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-03-31 |  |
+| [Sell My Soul \- Live 1993](https://open.spotify.com/track/0lMJaroECvENT3FqtEfGIf) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Not In My Name \(Live 1993\)](https://open.spotify.com/album/0YuXuyrpg5MOhzbzn05CYy) | 5:06 | 2023-03-31 |  |
 | [Serpentine Fire \- Live 1988](https://open.spotify.com/track/13IiVwF2esTIroFFrD1cPC) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Begin The Dance \(Live 1988\)](https://open.spotify.com/album/6HG3ZH0opwhCZcby8Y2o8v) | 4:23 | 2023-03-17 | 2023-03-19 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 | 2023-03-25 |
 | [Shades 22](https://open.spotify.com/track/3nQAKnTuxpzJW7X9Dj4X8I) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Shades 22](https://open.spotify.com/album/1dzfS5TPT70CPpHvHYMubZ) | 3:45 | 2023-03-31 |  |

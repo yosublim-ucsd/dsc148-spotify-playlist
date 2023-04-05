@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 339491,
+  "num_followers": 339618,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMGZjOGUyODhlYWQzZTgwNDZjY2FiZGE5NTc4MWU1ZGJl",
+  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMGNkZGVhZGQ4YTVjMzE2ZjA1ZDhhYzEyMzM2NGYyYjll",
   "tracks": [
     {
       "added_at": "2022-12-09 18:45:39",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "In The Wild",
-        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "In The Mirror",
-      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Let's Face It",
-        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "The Rascal King",
-      "url": "https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Everything Goes Numb",
         "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "Let's Face It",
+        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 366760,
       "name": "Too Much Too Young - 2015 Remaster",
       "url": "https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "She Got Arrested",
-      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -527,6 +511,38 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "Somewhere in the Between",
+        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "We Will Fall Together",
+      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "She Got Arrested",
+      "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "Losing Streak",
         "url": "https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 169106,
       "name": "Johnny Quest Thinks We're Sellouts",
       "url": "https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -575,34 +575,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
       "artists": [
         {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Silence Is Golden But Duct Tape Is Silver",
-      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Somewhere in the Between",
-        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "We Will Fall Together",
-      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -623,6 +607,22 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Silence Is Golden But Duct Tape Is Silver",
+      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "Big Daddy Multitude (2010 Re-Issue)",
         "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "More Noise And Other Disturbances",
         "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 206800,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "It Means Everything",
-        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
-      },
-      "artists": [
-        {
-          "name": "Save Ferris",
-          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
-        }
-      ],
-      "duration_ms": 131533,
-      "name": "The World Is New",
-      "url": "https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "The Essential Fishbone",
         "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "It Means Everything",
+        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "duration_ms": 131533,
+      "name": "The World Is New",
+      "url": "https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Wasted Days",
-        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
-      },
-      "artists": [
-        {
-          "name": "The Slackers",
-          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Wasted Days",
-      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
       },
       "artists": [
         {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+          "name": "The Slackers",
+          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
         }
       ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+      "duration_ms": 248413,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1199,6 +1183,22 @@
       "duration_ms": 157306,
       "name": "El Coo Cooi",
       "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2022-12-09 18:45:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 
 > This Is Girls' Generation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,613 likes - 149 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,667 likes - 149 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 | 9 | [Freedom](https://open.spotify.com/track/4ncRdOnJVY9uSFC74jFJOa) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:02 |
 | 10 | [Paper Plane](https://open.spotify.com/track/4jNLpkzTsghN4RVUrra61P) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:30 |
 | 11 | [Gee](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Oh! \- The Second Album](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 3:21 |
-| 12 | [The Boys](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:46 |
+| 12 | [The Boys](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:48 |
 | 13 | [Into the New World](https://open.spotify.com/track/1RTW9UthqmZwr8Od6CH4i8) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 4:25 |
 | 14 | [Lion Heart](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:44 |
 | 15 | [Mr.Mr.](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Mr\. Mr\. \- The 4th Mini Album](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) | 3:55 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 | 46 | [Dancing Queen](https://open.spotify.com/track/4NPyIBhauz5l8elysRS1mE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 3:35 |
 | 47 | [Baby Maybe](https://open.spotify.com/track/4VYQw192sVfFn7cL1GG7pQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 3:42 |
 | 48 | [유리아이 \(Lost In Love\)](https://open.spotify.com/track/3ds1h65uxnS3zVmaVLGTHQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 3:59 |
-| 49 | [Telepathy](https://open.spotify.com/track/6QF4DgGx6Osgo60QDwvOPn) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:43 |
-| 50 | [TRICK \(Original Title : TYPICAL\)](https://open.spotify.com/track/0UmnjNUcWPhpxIJMqyqqGv) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:13 |
+| 49 | [Telepathy](https://open.spotify.com/track/3Qzn45cJUxvqHH4j6coc8C) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:45 |
+| 50 | [Trick](https://open.spotify.com/track/75ogbQvkIBORm0pYknQNY5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:15 |
 | 51 | [Forever](https://open.spotify.com/track/0uk9yDzSJsgpKlsIFvYsUy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Oh! \- The Second Album](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 4:29 |
 | 52 | [Star Star Star \(☆★☆\)](https://open.spotify.com/track/0rbkEgXCFFomXwmxNn7Tlo) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Oh! \- The Second Album](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 4:30 |
 | 53 | [Day By Day](https://open.spotify.com/track/5R6RSkwFifELDFbP5BBrMj) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Oh! \- The Second Album](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 3:50 |
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 | 82 | [The Boys \- English Version](https://open.spotify.com/track/3ym8svDx03YE9WDdLOOg1z) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 3:48 |
 | 83 | [Say Yes](https://open.spotify.com/track/5D1StG1rjvPjixCnVZR5HG) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:44 |
 | 84 | [How Great Is Your Love\(Original Title : Still Believe In Love\)](https://open.spotify.com/track/5XA4vl2vgiUM3OICR4v4W9) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:52 |
-| 85 | [My J](https://open.spotify.com/track/75nF9YAJ7jLugRHGPq94eQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:51 |
-| 86 | [OSCAR](https://open.spotify.com/track/5qD3Mbg6Zd8PaE73gFtFfI) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:21 |
+| 85 | [My J](https://open.spotify.com/track/60qQgI6pVYlk82uEYrs4wT) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:53 |
+| 86 | [Oscar](https://open.spotify.com/track/13rcBHebsfe2swjTJgfzQ3) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:23 |
 | 87 | [TOP SECRET \(Original Title : Shake The Tree\)](https://open.spotify.com/track/16EjZBUypOSgqiroAS48Ek) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 2:57 |
-| 88 | [Lazy Girl \(Dolce Far Niente\) \(Original Title : Crazy Girl\)](https://open.spotify.com/track/3TULobrMBejFbm90zcLZ2X) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:03 |
-| 89 | [Sunflower](https://open.spotify.com/track/5k4qqexTJhwQUjlREsqy9s) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:48 |
-| 90 | [VITAMIN](https://open.spotify.com/track/7JEQSlU7K7RC12y3gubFq7) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:07 |
+| 88 | [Lazy Girl \(Dolce Far Niente\)](https://open.spotify.com/track/5Ui4N1pjGHXcV8mgVxUG5p) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:05 |
+| 89 | [Sunflower](https://open.spotify.com/track/4OjaDdjehtEGNR0IhhWMNm) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:50 |
+| 90 | [Vitamin](https://open.spotify.com/track/6QxUBq6MGLkveekZSEuNop) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:09 |
 | 91 | [MR\. TAXI \(Original Title : Mr\. Taxi\)](https://open.spotify.com/track/6BaZmJzvAtXx72MjSHSlbf) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:32 |
 | 92 | [The Boys \- Clinton Sparks & Disco Fries Remix](https://open.spotify.com/track/0lgjN8m6N7SndvLmwo5nm7) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Lil Playy](https://open.spotify.com/artist/1d5znoU7LGiCy3H8TMtLWg), [Clinton Sparks](https://open.spotify.com/artist/3kOPviLsiuKCFTTsHc47lI), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 4:16 |
 | 93 | [The Boys \*Bring Dem Boys\* \- Teddy Riley Remix](https://open.spotify.com/track/79qKDXwVdpsalZvRX8eq0k) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Suzi](https://open.spotify.com/artist/1IwKtNTYM8znWPKnv3kU8J), [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 3:38 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sGSAwFMowZ.md) - [plain]
 | 148 | [Into the New World](https://open.spotify.com/track/24Gy6lVtCd8nOL2vzZiFyV) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into the New World](https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz) | 4:27 |
 | 149 | [Beginning](https://open.spotify.com/track/4eHSzjSlnTUUDQqDW9i3Mf) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into the New World](https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz) | 3:04 |
 
-Snapshot ID: `MTY1OTkzMDU3NCwwMDAwMDAwMGU1ZWRjNDAzMGE0MzNlYWMyMDE1MjQxYTA0NjE2YzAz`
+Snapshot ID: `MTY1OTkzMDU3NCwwMDAwMDAwMGE2YzkyODdlN2VlZjhmNGY1YjVhNDIwYTMxN2FmZWQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,388 likes - 180 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,381 likes - 180 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

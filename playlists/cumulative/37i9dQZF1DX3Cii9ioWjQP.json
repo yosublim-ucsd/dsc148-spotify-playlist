@@ -2246,10 +2246,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 220053,
       "name": "Venice Calle",
       "url": "https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw"
+    },
+    {
+      "album": {
+        "name": "Venice Calle",
+        "url": "https://open.spotify.com/album/4DG9bbTsLTCZjc3FX3cLfM"
+      },
+      "artists": [
+        {
+          "name": "Standard1",
+          "url": "https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Venice Calle",
+      "url": "https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ"
     },
     {
       "album": {

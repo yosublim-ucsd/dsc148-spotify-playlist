@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-464 songs - 1 day 2 hr 1 min
+467 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,9 +62,9 @@
 | [Bloodline](https://open.spotify.com/track/4UGssFKaiKeeNqtQvPNH7n) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Bloodline](https://open.spotify.com/album/4Pai2PESVr2exnYu71e1ML) | 3:15 | 2021-12-16 | 2022-11-14 |
 | [Blossom](https://open.spotify.com/track/1GYCkhHyUmLIt4da7iCVzy) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 2:40 | 2022-11-23 |  |
 | [Boomerang](https://open.spotify.com/track/3TIoOu5ZQwcHI41kH047gT) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Boomerang](https://open.spotify.com/album/58vNxqPKsR1XSGDhaoVdiT) | 2:48 | 2022-03-25 | 2022-03-28 |
-| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-10 |  |
+| [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-10 | 2023-04-05 |
 | [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 | 2022-03-25 | 2022-05-11 |
-| [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 | 2022-04-11 |  |
+| [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 | 2022-04-11 | 2023-04-05 |
 | [Breathe](https://open.spotify.com/track/5ag0L0xkUGJrkXmalqOfho) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Breathe](https://open.spotify.com/album/0RDzTKuYJFGWKkjYymVvNP) | 3:16 | 2022-03-08 | 2022-12-31 |
 | [Bring It On Home To Me](https://open.spotify.com/track/4cK40JCXX6jx1d1jlRuqjK) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bring It On Home To Me](https://open.spotify.com/album/1kcPbITBscwStoqHpHuoXR) | 3:29 | 2021-12-16 | 2022-07-29 |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2022-03-25 | 2022-04-19 |
@@ -131,6 +131,7 @@
 | [Fall Before You](https://open.spotify.com/track/1Nq0NBvGr3uPtKu0IhhBWM) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Fall Before You](https://open.spotify.com/album/5e5rbk3D4QUO5XlEUs6m9e) | 2:47 | 2021-12-16 | 2022-03-28 |
 | [Falling Into You](https://open.spotify.com/track/16zwjXTQj9HDu47UOZJza8) | [Cara Averill](https://open.spotify.com/artist/3vzJQBiSsuVnfhOfaMRuU2) | [Falling Into You](https://open.spotify.com/album/3Je9uM19dWQAPODSpEdkTR) | 3:07 | 2022-01-25 | 2022-07-28 |
 | [Family](https://open.spotify.com/track/5P5DlkMeOFrQCHUgB05PYf) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Family](https://open.spotify.com/album/646cPHHdR9E2QLrmuUwhf6) | 4:04 | 2021-12-16 | 2022-04-03 |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-04 |  |
 | [Fatherhood](https://open.spotify.com/track/4Agd4mAiF6gchnzen5g9iC) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Fatherhood](https://open.spotify.com/album/6q2VEd3yun0g75Rnu5Y9xF) | 2:58 | 2022-01-11 | 2022-04-01 |
 | [Favorite Part](https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:26 | 2022-05-31 |  |
 | [February](https://open.spotify.com/track/029QbkH9BezM0OumOqjOaQ) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [February](https://open.spotify.com/album/5Ab0ZYis9b7uegSPvaxUe3) | 2:29 | 2021-12-16 | 2022-02-19 |
@@ -216,7 +217,7 @@
 | [If Ever However Whenever Forever](https://open.spotify.com/track/6hWoFB6O3zD9WGe4TN3gJO) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [If Ever However Whenever Forever](https://open.spotify.com/album/6RKxkl2MCVXoqkR0bSp537) | 3:41 | 2021-12-16 | 2022-01-12 |
 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 | 2022-08-02 | 2022-10-13 |
 | [If It's Not God](https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt) | 3:39 | 2022-10-21 | 2023-01-19 |
-| [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 | 2023-03-28 |  |
+| [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 | 2023-03-28 | 2023-04-05 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-14 |  |
 | [If You Were on Fire](https://open.spotify.com/track/6TYS3UzhmDBsYHBCpYl5Rg) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [If You Were on Fire](https://open.spotify.com/album/2ugSEFn3ov3RSoodCJgmKV) | 2:53 | 2021-12-16 | 2022-03-28 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-03-29 | 2022-04-06 |
@@ -256,6 +257,7 @@
 | [listen up](https://open.spotify.com/track/1ZrwOwgJ8CY3PSERs9iX25) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/1On51KcQWiudpZCuy7OH2Q) | 1:48 | 2022-11-23 | 2022-12-01 |
 | [listen up \- Radio Edit](https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9) | 1:48 | 2022-12-01 |  |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-20 |  |
+| [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 | 2023-04-04 |  |
 | [Loaded](https://open.spotify.com/track/0fNuZNhPwdriik2iKwyRjl) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Loaded](https://open.spotify.com/album/2cZD3tWDDMa70VzeSAhuIm) | 3:49 | 2022-03-08 | 2022-04-05 |
 | [Logs Are People Too](https://open.spotify.com/track/2IJxDOhnLmsKnvhOOp1VLc) | [Harry Edwards](https://open.spotify.com/artist/5l6T8qOBj24gRiXWJnUT5C) | [Loops](https://open.spotify.com/album/4x6IQrT3xSWV85WXrZaST3) | 3:52 | 2022-03-25 | 2022-05-23 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-25 |  |
@@ -401,6 +403,7 @@
 | [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-01-10 |  |
 | [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 | 2022-04-04 | 2022-11-25 |
 | [Take My Hand](https://open.spotify.com/track/6euGVWSYUNW2e7jRjHr13M) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 3:59 | 2022-10-21 | 2023-01-21 |
+| [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-04-04 |  |
 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2022-03-25 | 2022-04-12 |
 | [Talking to Myself](https://open.spotify.com/track/2SY4ep4NQaArath0ze4gTg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:59 | 2021-12-16 | 2021-12-30 |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-03-25 | 2022-08-03 |

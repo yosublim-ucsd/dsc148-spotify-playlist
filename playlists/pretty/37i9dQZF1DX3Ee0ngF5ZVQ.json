@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Catie Offerman",
-  "num_followers": 402908,
+  "num_followers": 402961,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzNTAxNCwwMDAwMDAwMDRmOThmMTA3MDhiY2IwODM1YTM5ZjA0NmZjOThjOTJj",
+  "snapshot_id": "MTY4MDUzNTAxNCwwMDAwMDAwMGEzYjgzOGNlODU2ZmMyYTY0MTBlNmY4ODYzNmU1Mzkw",
   "tracks": [
     {
       "added_at": "2023-04-03 15:16:54",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-03 15:16:54",
       "album": {
-        "name": "Chisholm Trail",
-        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
-      },
-      "artists": [
-        {
-          "name": "Dalton Torres",
-          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Chisholm Trail",
-      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
-    },
-    {
-      "added_at": "2023-04-03 15:16:54",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 217720,
       "name": "Telling on My Heart",
       "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+    },
+    {
+      "added_at": "2023-04-03 15:16:54",
+      "album": {
+        "name": "Chisholm Trail",
+        "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
+      },
+      "artists": [
+        {
+          "name": "Dalton Torres",
+          "url": "https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Chisholm Trail",
+      "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
     },
     {
       "added_at": "2023-04-03 15:16:54",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-04-03 15:16:54",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2023-04-03 15:16:54",
+      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-04-03 15:16:54",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
-    },
-    {
-      "added_at": "2023-04-03 15:16:54",
-      "album": {
         "name": "Fine By Me",
         "url": "https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-04-03 15:16:54",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2023-04-03 15:16:54",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-04-03 15:16:54",
       "album": {
-        "name": "Anywhere The Wind Blows",
-        "url": "https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "Anywhere The Wind Blows",
-      "url": "https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY"
-    },
-    {
-      "added_at": "2023-04-03 15:16:54",
-      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 229586,
       "name": "If I Lived Here",
       "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+    },
+    {
+      "added_at": "2023-04-03 15:16:54",
+      "album": {
+        "name": "Anywhere The Wind Blows",
+        "url": "https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "Anywhere The Wind Blows",
+      "url": "https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY"
     },
     {
       "added_at": "2023-04-03 15:16:54",

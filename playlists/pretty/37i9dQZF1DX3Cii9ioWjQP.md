@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,208 likes - 91 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,217 likes - 91 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 65 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 |
 | 66 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 |
 | 67 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 |
-| 68 | [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 |
+| 68 | [Venice Calle](https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/4DG9bbTsLTCZjc3FX3cLfM) | 3:40 |
 | 69 | [Classic Coffee](https://open.spotify.com/track/3VjfNMeLYZoiqm5cVmFm80) | [김병근](https://open.spotify.com/artist/4dQItXdxCzhuELxhwYZWFi), [Jenny Yun](https://open.spotify.com/artist/7l4cRxyp8p5iCyr0AwvfWu) | [Raffine Gold](https://open.spotify.com/album/7zmb7Ih17LqGgHlBLiXSkO) | 3:24 |
 | 70 | [Hedgehog's Dilemma](https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf) | [토끼풀](https://open.spotify.com/artist/2FOo1mUgBvVxST0MSO6zwu) | [Solitaire](https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G) | 4:30 |
 | 71 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 90 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 91 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MTY4MDI2OTUxNCwwMDAwMDAwMDViMzM4NDhhZGE3NGVhY2I1N2QwNGFkZDE4NTk0ZGNi`
+Snapshot ID: `MTY4MDI2OTUxNCwwMDAwMDAwMDcyNzI2NmZkMGU3NGU1MWQwOWIzYzdmN2FlYzgzMGI5`

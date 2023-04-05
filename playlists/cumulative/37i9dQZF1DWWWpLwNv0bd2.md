@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Vaathi
 
-126 songs - 8 hr 30 min
+127 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Minnal Kannile \- From "Pizza 3"](https://open.spotify.com/track/1xID80L3QzO9MeD4qAwT4Q) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Ashwin Kakamanu](https://open.spotify.com/artist/0vg6LtT9PSFYAG54GabpY7), [Pavithra Marimuthu](https://open.spotify.com/artist/4BnC9jsalyyLYBN58aeMts) | [Minnal Kannile \(From "Pizza 3"\)](https://open.spotify.com/album/4jVYlDstzcVRH6z1bXCOC7) | 3:45 | 2022-06-20 |  |
 | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/track/0yV1ttdm79H1jvaFLGFOB3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS) | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/album/0mJqaxb4ZJkbJZrgwj000x) | 4:48 | 2022-06-24 | 2022-10-19 |
 | [Mudhal Nee Mudivum Nee Title Track](https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y) | 5:32 | 2022-01-21 |  |
+| [Naan Gaali \- From "Good Night"](https://open.spotify.com/track/2jG1qOcH57ZAsWARKfminr) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Naan Gaali \(From "Good Night"\)](https://open.spotify.com/album/4AjbDxRpAqUcm6GObKKmnm) | 4:30 | 2023-04-04 |  |
 | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1) | 4:03 | 2022-01-03 |  |
 | [Naanum \- From "Navarasa"](https://open.spotify.com/track/2S5GlyMhp7tUbOFU4Kf1kJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Naanum \(From "Navarasa"\)](https://open.spotify.com/album/1A1DHdbo5BcG2JqNKB88iB) | 3:34 | 2021-11-29 | 2022-10-19 |
 | [Natchathiram Nagargirathu](https://open.spotify.com/track/1vzOAqyprXwN1Yw5vxBaQV) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Natchathiram Nagargirathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml) | 4:53 | 2022-08-23 | 2023-03-25 |

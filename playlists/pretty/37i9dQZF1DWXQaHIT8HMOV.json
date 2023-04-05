@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI2MDk5MCwwMDAwMDAwMDEzM2FjZjg3OGVmNzA0NWEwMDIxMGFlODQ2MTJkZmU2",
+  "snapshot_id": "MTY4MDI2MDk5MCwwMDAwMDAwMDI0ODI1MTdjYjMyZWQzMWU2NzA4NWYwZmQ5NDNhMWJl",
   "tracks": [
     {
       "added_at": "2023-03-24 05:53:28",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF"
     },
     {
-      "added_at": "2023-04-04 00:25:16",
+      "added_at": "2023-04-05 00:57:53",
       "album": {
         "name": "Byowaba",
         "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 227027,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 135965,
       "name": "4 U",
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
-      },
-      "artists": [
-        {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -631,21 +599,21 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
         }
       ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
     },
     {
-      "added_at": "2023-04-04 00:25:16",
+      "added_at": "2023-04-05 00:57:53",
       "album": {
         "name": "Say your Mine",
         "url": "https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg"
@@ -671,6 +639,22 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
         "name": "Bulamu",
         "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193246,
       "name": "Bulamu",
       "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
       },
       "artists": [
         {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -843,22 +827,6 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
-    },
-    {
-      "added_at": "2023-03-24 05:53:28",
-      "album": {
         "name": "Music for the Soul",
         "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2023-03-24 05:53:28",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
       "added_at": "2023-03-24 05:53:28",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-24 05:53:28",
       "album": {
-        "name": "Glory To The King",
-        "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
       },
       "artists": [
         {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 150019,
-      "name": "Glory To The King",
-      "url": "https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL"
+      "duration_ms": 210000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
     }
   ],
   "unique_name": "Made In Uganda",

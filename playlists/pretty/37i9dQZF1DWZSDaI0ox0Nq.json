@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15213,
+  "num_followers": 15220,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDMwMWQ5MGUwODJiNDhmNzljNTA0MjVmMDgxYWQ0MDVi",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDU1ZWZiZDNhZWNmZWNlMWM2MWI1ZTc3ODBkNTMwMDZl",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -627,18 +627,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
+        "name": "Milonga del Desocupado",
+        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
       },
       "artists": [
         {
-          "name": "Carolina Winograd",
-          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
+          "name": "Quinteto Bataraz",
+          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
+        },
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         }
       ],
-      "duration_ms": 231373,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
+      "duration_ms": 232930,
+      "name": "Milonga del Desocupado",
+      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -663,18 +667,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Puro Verso",
-        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
       "artists": [
         {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
         }
       ],
-      "duration_ms": 258529,
-      "name": "La \u00daltima Curda",
-      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
+      "duration_ms": 231373,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -695,22 +699,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Milonga del Desocupado",
-        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
+        "name": "Puro Verso",
+        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
       },
       "artists": [
         {
-          "name": "Quinteto Bataraz",
-          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
-        },
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 232930,
-      "name": "Milonga del Desocupado",
-      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
+      "duration_ms": 258529,
+      "name": "La \u00daltima Curda",
+      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -751,30 +751,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
-        "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
-      },
-      "artists": [
-        {
-          "name": "Azucena Maizani",
-          "url": "https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n"
-        },
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Orestes Cufaro",
-          "url": "https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm"
-        }
-      ],
-      "duration_ms": 165982,
-      "name": "La canci\u00f3n de Buenos Aires",
-      "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
+        "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
+      },
+      "artists": [
+        {
+          "name": "Azucena Maizani",
+          "url": "https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n"
+        },
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Orestes Cufaro",
+          "url": "https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm"
+        }
+      ],
+      "duration_ms": 165982,
+      "name": "La canci\u00f3n de Buenos Aires",
+      "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Temas Pendientes",
         "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
       },
@@ -931,26 +911,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Jorge Calandrelli",
-          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
-      "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -979,18 +939,58 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tiempo Mariposa",
-        "url": "https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
       "artists": [
         {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Jorge Calandrelli",
+          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
         }
       ],
-      "duration_ms": 249481,
-      "name": "O Mundo",
-      "url": "https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX"
+      "duration_ms": 250133,
+      "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
+      "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "El Amor Ese Loco Berretin",
+        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
+      },
+      "artists": [
+        {
+          "name": "Rita Cortese",
+          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Nunca Tuvo Novio",
+      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
     }
   ],
   "unique_name": "Mujeres del Tango",

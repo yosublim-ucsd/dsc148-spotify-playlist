@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 242624,
       "name": "Hypnagogia",
       "url": "https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z"
@@ -9020,6 +9020,24 @@
       "duration_ms": 138461,
       "name": "Wake",
       "url": "https://open.spotify.com/track/771mBxFYjfjwWLEheT6pwn"
+    },
+    {
+      "album": {
+        "name": "Warmth in the Dark",
+        "url": "https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6"
+      },
+      "artists": [
+        {
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Warmth in the Dark",
+      "url": "https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 143410,
+  "num_followers": 143551,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGRkZGNmN2NiYzk5NzY3OGU4MzBkNTQ1ZmIyNGZhZjI0",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDExYTJmZTJmMzljMmEyYjYwMDkzYTgyZmFjZTEwYTc3",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
-        "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        },
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 398969,
-      "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
-      "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Cold Light",
         "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 179060,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
+        "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        },
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 398969,
+      "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 372906,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 190084,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2022-11-25 16:56:36",

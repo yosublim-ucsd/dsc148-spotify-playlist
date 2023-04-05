@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2?si=f386227dbd804841">Marco Witt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,849 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,014 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

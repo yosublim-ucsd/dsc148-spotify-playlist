@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Icona Pop
 
-977 songs - 2 day 9 hr 52 min
+978 songs - 2 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ameno Amapiano Remix \(You Wanna Bamba\) \- Todd Terry Remix](https://open.spotify.com/track/0Yx4DyxRnhoXdEQcSbn0CD) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Ameno Amapiano \(You Wanna Bamba\) \[Todd Terry Remix\]](https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh) | 2:12 | 2022-07-01 | 2022-08-13 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 | 2022-04-29 |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
+| [Asereje](https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Enrico Palermo](https://open.spotify.com/artist/3aR0LAXgMD6d6m6dCMuRxj) | [Asereje](https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4) | 2:36 | 2023-03-31 |  |
 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 | 2022-07-22 | 2022-09-06 |
 | [B2B](https://open.spotify.com/track/0FMLbet9blK5IgKktuqCBx) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [B2B](https://open.spotify.com/album/2r6uLNzKU3jEPQaNHBJBM2) | 2:40 | 2022-10-14 | 2022-12-29 |
 | [Ba Da Bam](https://open.spotify.com/track/5K0MAKgSzTxGqiKhdwW12j) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Ba Da Bam](https://open.spotify.com/album/3ItfUtfDWe9hsu5xMar7jt) | 3:35 | 2022-09-16 | 2022-12-03 |
@@ -669,7 +670,7 @@
 | [Pouring Rain](https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Pouring Rain](https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88) | 3:11 | 2023-01-06 | 2023-04-01 |
 | [Power](https://open.spotify.com/track/7hSUqI8LN7TgbeKTQZaby7) | [Brad Wood \(UK\)](https://open.spotify.com/artist/6jVDb9wCqGfbWdhEhMfdKX) | [In the Club](https://open.spotify.com/album/0lps2EYwUiytxZ64pkWw3z) | 3:22 | 2021-11-26 | 2022-01-06 |
 | [Pra Nao Dizer](https://open.spotify.com/track/3FdtdBduxDxNzzHBhB3Pks) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Pra Nao Dizer](https://open.spotify.com/album/4T90MAy1ApB3LyatLqTqAc) | 3:23 | 2022-04-08 | 2022-04-16 |
-| [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-17 |  |
+| [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-17 | 2023-04-05 |
 | [Preach](https://open.spotify.com/track/5cNA7ChSMX8KBQW40hiwGk) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Preach](https://open.spotify.com/album/1GtkuQKYR20yBX3eiarvT6) | 4:11 | 2021-11-26 | 2022-01-06 |
 | [Pressure](https://open.spotify.com/track/5huS8x54n95lI4LLeSTvQE) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Pressure](https://open.spotify.com/album/7jL72BV0WcPzwO25aPiDTB) | 3:06 | 2023-02-03 | 2023-04-03 |
 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 | 2021-11-26 | 2022-05-07 |

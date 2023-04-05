@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,952 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,969 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

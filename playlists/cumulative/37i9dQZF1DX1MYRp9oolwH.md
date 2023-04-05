@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-113 songs - 7 hr 25 min
+114 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Murari Vaa](https://open.spotify.com/track/2WaeonrgxaN0lZvK994gtR) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [M.L\. Gayatri](https://open.spotify.com/artist/5fFxNxWE9e0C0inW3bsWKR) | [Sarkaru Vaari Paata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q) | 4:17 | 2022-06-02 | 2023-02-21 |
 | [Musi Musi Navvula Manjula \(From "Pareshan"\)](https://open.spotify.com/track/0saFMfpWgW1Y1D5wESlCu5) | [Yashwanth Nag](https://open.spotify.com/artist/3bKJ5PWY9uLhNGhTKiBrlG) | [Musi Musi Navvula Manjula \(From "Pareshan"\)](https://open.spotify.com/album/6zj2cbBlXw8LZAQx1IgIhY) | 3:04 | 2023-01-27 |  |
 | [Naa Manaseto \(From "Govindaa Bhaja Govindaa"\)](https://open.spotify.com/track/3agGLyPL6EN9EtqW4XGNc2) | [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp) | [Naa Manaseto \(From "Govindaa Bhaja Govindaa"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/29IbrTaW1o4HS4C3J2zOA6) | 2:54 | 2023-02-06 | 2023-02-21 |
+| [Naa Ninnalaloo](https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Satyan](https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m) | [Richie Gadi Pelli](https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp) | 3:35 | 2023-04-04 |  |
 | [Naa Sasi \(From "Kanmani Rambo Khatija"\)](https://open.spotify.com/track/0akrCYr9rl0FJaAH0qg7to) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Manju Sri](https://open.spotify.com/artist/7M93JHO1tdhN0Ayjgk46zj) | [Naa Sasi \(From "Kanmani Rambo Khatija"\)](https://open.spotify.com/album/5O2ntpQgCrO3HOKhnLeT2u) | 4:03 | 2022-04-29 | 2023-02-21 |
 | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V) | 3:42 | 2023-03-25 |  |
 | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7) | 4:54 | 2021-12-02 | 2023-02-21 |

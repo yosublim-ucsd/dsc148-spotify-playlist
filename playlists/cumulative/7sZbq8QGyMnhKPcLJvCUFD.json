@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "CONNECTION",
+        "url": "https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6"
+      },
+      "artists": [
+        {
+          "name": "Rxm \u30ea\u30e0",
+          "url": "https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108968,
+      "name": "CONNECTION",
+      "url": "https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr"
+    },
+    {
+      "album": {
         "name": "Consume Me",
         "url": "https://open.spotify.com/album/4Z5cARDkDPUcU2i5ona0GH"
       },

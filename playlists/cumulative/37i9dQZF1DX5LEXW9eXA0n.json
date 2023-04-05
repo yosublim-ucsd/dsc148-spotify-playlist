@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bGaho(\uac00\ud638)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bJUNGKEY(\uc815\ud0a4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -6040,6 +6040,28 @@
       "duration_ms": 197520,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/2lATsh8Vw1NzPkcJFYAjDL"
+    },
+    {
+      "album": {
+        "name": "i'm fine.",
+        "url": "https://open.spotify.com/album/6d7vhEWUXu4cpyzMqCqR5Y"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267160,
+      "name": "I'm well (Feat. Jung Seung Hwan)",
+      "url": "https://open.spotify.com/track/7b9kjOw0vf4Ta1i2zBUgsg"
     },
     {
       "album": {

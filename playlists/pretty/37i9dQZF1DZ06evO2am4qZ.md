@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,943 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,945 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 37 | [Nice Guy](https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Muthaland](https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m) | 2:14 |
 | 38 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 |
 | 39 | [Rich Girl](https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 2:48 |
-| 40 | [Kim \(with Baby Tate\)](https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Kim \(with Baby Tate\)](https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk) | 2:38 |
-| 41 | [Feel It](https://open.spotify.com/track/71PUYOHINr5A64QxBywwsp) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 2:46 |
+| 40 | [Feel It](https://open.spotify.com/track/71PUYOHINr5A64QxBywwsp) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 2:46 |
+| 41 | [Kim \(with Baby Tate\)](https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Kim \(with Baby Tate\)](https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk) | 2:38 |
 | 42 | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIVE U LIFE \(From LIFEWTR’s LIFE UNSEEN Collection\)](https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK) | 1:06 |
 | 43 | [Me First](https://open.spotify.com/track/0LhgsQDr1TtG4e21NVn7tS) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:41 |
 | 44 | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 |
-| 45 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
-| 46 | [Let It Rain \(feat\. 6lack\)](https://open.spotify.com/track/59Vf2uyRLPrVqXkCKRhyjE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:06 |
+| 45 | [Let It Rain \(feat\. 6lack\)](https://open.spotify.com/track/59Vf2uyRLPrVqXkCKRhyjE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:06 |
+| 46 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
 | 47 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
 | 48 | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/3SbeHIDfwxUYdDFfjg8wmY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/6PVHwuJPqw70S9a0BHPEEd) | 3:02 |
 | 49 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
 | 50 | [Been in My Bag](https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Been in My Bag](https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO) | 2:14 |
 
-Snapshot ID: `MjgwMDg3NjEsMDAwMDAwMDBlYmRiNjRlOWZlZDVmZGViZjUxYTljMzkyNjZhMjY5Yg==`
+Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBiMzRiMjdjZTFhMDBkN2I3OWRkMjk3MjcwMmVjNTZhOQ==`

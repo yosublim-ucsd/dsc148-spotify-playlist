@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 55743,
+  "num_followers": 55772,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMDA3YmE3NjFlZWUxZDFhMzBkYzY4Yjg1Yjc3MzY5ODQ1",
+  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMGIxMmM4Y2ExNGE1MjIyNjNlZTJjZGU5Mjg5MWQ2Zjli",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Ale jazz!",
         "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 187545,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Kr\u00f3lowa dram",
-        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 183339,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
+      "duration_ms": 229666,
+      "name": "Najnowszy Klip",
+      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+        "name": "Kr\u00f3lowa dram",
+        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Najnowszy Klip",
-      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
+      "duration_ms": 183339,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
     },
     {
       "added_at": "2023-04-03 09:53:55",

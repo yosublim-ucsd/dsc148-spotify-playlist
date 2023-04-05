@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 25650,
+  "num_followers": 25674,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg5MTc2NywwMDAwMDAwMGJmMjk4ZmQyYTQ2OTFmODlmOGYwMWViOGFiMmJiMjEw",
+  "snapshot_id": "MTY3ODg5MTc2NywwMDAwMDAwMDZhODczMzdmZWIwY2E2NTJlNTAxZGQ4NDRkNjcyYTZj",
   "tracks": [
     {
       "added_at": "2023-03-15 14:49:27",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-03-15 14:49:27",
       "album": {
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+    },
+    {
+      "added_at": "2023-03-15 14:49:27",
+      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -944,29 +964,9 @@
           "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
         }
       ],
-      "duration_ms": 281733,
-      "name": "Blue Swing",
-      "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
-    },
-    {
-      "added_at": "2023-03-15 14:49:27",
-      "album": {
-        "name": "High Society (O.S.T - 1956)",
-        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Johnny Green & His Orchestra",
-          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "I Love You Samantha",
-      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+      "duration_ms": 234840,
+      "name": "Conversation Blues",
+      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
     },
     {
       "added_at": "2023-03-15 14:49:27",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-15 14:49:27",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Looking at You",
-      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
-    },
-    {
-      "added_at": "2023-03-15 14:49:27",
-      "album": {
         "name": "Chet Baker & Strings",
         "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
       },
@@ -1051,34 +1035,18 @@
     {
       "added_at": "2023-03-15 14:49:27",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
       "artists": [
         {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
-    },
-    {
-      "added_at": "2023-03-15 14:49:27",
-      "album": {
-        "name": "The Jazz Collection",
-        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 221959,
-      "name": "Allez-Vous En, Go Away",
-      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
     },
     {
       "added_at": "2023-03-15 14:49:27",
@@ -1108,9 +1076,41 @@
           "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
         }
       ],
-      "duration_ms": 234840,
-      "name": "Conversation Blues",
-      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
+      "duration_ms": 281733,
+      "name": "Blue Swing",
+      "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
+    },
+    {
+      "added_at": "2023-03-15 14:49:27",
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+    },
+    {
+      "added_at": "2023-03-15 14:49:27",
+      "album": {
+        "name": "The Jazz Collection",
+        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Allez-Vous En, Go Away",
+      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
     },
     {
       "added_at": "2023-03-15 14:49:27",
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Ours",
-      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
     },
     {
       "added_at": "2023-03-15 14:49:27",
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Use Your Imagination",
-      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+      "duration_ms": 169400,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
     },
     {
       "added_at": "2023-03-15 14:49:27",

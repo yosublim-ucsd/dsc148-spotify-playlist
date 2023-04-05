@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 105825,
+  "num_followers": 105864,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDE5N2IwZGUzM2U5MjVhMTE2NzM4ZTlmNDI1ZTA0ZjBi",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMGE2YWExZWZjYTVkNjBiY2JlYzcyYTc4NDNkYWI1ZjY4",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
     },
     {
-      "added_at": "2023-04-04 00:42:26",
+      "added_at": "2023-04-05 00:08:22",
       "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Hapo Tu (feat. Chris Kaiga)",
         "url": "https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 187555,
       "name": "Hapo Tu (feat. Chris Kaiga)",
       "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Zimenice",
-        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
-      },
-      "artists": [
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Tezzla",
-          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Zimenice",
-      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 158003,
       "name": "Tayari",
       "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Zimenice",
+        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Tezzla",
+          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Zimenice",
+      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
     },
     {
       "added_at": "2023-02-10 16:08:22",

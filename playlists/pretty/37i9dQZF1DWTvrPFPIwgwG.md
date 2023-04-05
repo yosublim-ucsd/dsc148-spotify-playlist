@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Cristina Mel
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,161 likes - 85 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,284 likes - 85 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 44 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 |
 | 45 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 |
 | 46 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |
-| 47 | [Aguenta Firme](https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Aguenta Firme](https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr) | 4:38 |
+| 47 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 |
 | 48 | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf) | 5:24 |
-| 49 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 |
+| 49 | [Aguenta Firme](https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Aguenta Firme](https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr) | 4:38 |
 | 50 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 |
 | 51 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 |
 | 52 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 79 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 80 | [Ele Veio](https://open.spotify.com/track/2VvkkHWKhEb8aNd5JdbgST) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Ele Veio](https://open.spotify.com/album/2pbZJUXRQArl3v9CyxEaMX) | 6:25 |
 | 81 | [Ele Está Comigo](https://open.spotify.com/track/1IwluqLemFFm8ZGv4ujrkL) | [Pedro Henrique](https://open.spotify.com/artist/12YKDiuuJtcmYTKJ8z4gx0) | [Ele Está Comigo](https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP) | 5:09 |
-| 82 | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Fábio Paixão](https://open.spotify.com/artist/0ZCCRYuNWy7ySsQyVDnTKr) | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/album/0bp3bCvhkPodACynHgxQoq) | 4:16 |
-| 83 | [Vai Ter Festa](https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Vai Ter Festa](https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX) | 5:29 |
+| 82 | [Vai Ter Festa](https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Vai Ter Festa](https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX) | 5:29 |
+| 83 | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Fábio Paixão](https://open.spotify.com/artist/0ZCCRYuNWy7ySsQyVDnTKr) | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/album/0bp3bCvhkPodACynHgxQoq) | 4:16 |
 | 84 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDY4OGFkZjczMWVhZDYxOGJjMTY1MDE5OTAwNjJhOTY5`
+Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMGU3MTFlZmJjM2Y2OTYxY2JhODAwN2ZiN2EwNmU2ZWZi`

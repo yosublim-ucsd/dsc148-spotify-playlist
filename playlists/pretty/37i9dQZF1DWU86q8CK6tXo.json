@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 38159,
+  "num_followers": 38162,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDkwOTViZWI1ZTMwYjdkN2M1OTFiZmQzMThkNWU4ZjE3",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDcwYjhhMzA4NDJiMmViNDM4MTlmYzNiMzlmZDllYWQ0",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2023-03-01 05:00:00",

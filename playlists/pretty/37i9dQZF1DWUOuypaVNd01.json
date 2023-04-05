@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27167,
+  "num_followers": 27199,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDY5NzVjZmZiNjc1MzhiZjQ4MTgzNzI4MTJkMGYxZjMz",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGYxODk4ZTAxNDNjODA2Zjg1ZGU5YjI5NDVlMTUwN2Q3",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -691,50 +691,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 91682,
-      "name": "Puxa o Gatilho Primeiro",
-      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -767,6 +723,50 @@
       "duration_ms": 300000,
       "name": "Fura Bilion\u00e1rios",
       "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 91682,
+      "name": "Puxa o Gatilho Primeiro",
+      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -859,22 +859,26 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+        "name": "Edgar Davids",
+        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
       },
       "artists": [
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 125793,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+      "duration_ms": 163404,
+      "name": "Edgar Davids",
+      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -903,30 +907,6 @@
       "duration_ms": 259754,
       "name": "Armamento do Ir\u00e3",
       "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Edgar Davids",
-        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Edgar Davids",
-      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -991,6 +971,26 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Dia D",
-        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
-      },
-      "artists": [
-        {
-          "name": "blkmc",
-          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
-        },
-        {
-          "name": "Cenoura Beats",
-          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Dia D",
-      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Tudo Normal",
         "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
       },
@@ -1071,6 +1051,42 @@
       "duration_ms": 165857,
       "name": "Tudo Normal",
       "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Dia D",
+        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
+      },
+      "artists": [
+        {
+          "name": "blkmc",
+          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
+        },
+        {
+          "name": "Cenoura Beats",
+          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Dia D",
+      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2023-03-24 03:01:00",

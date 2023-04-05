@@ -342,10 +342,36 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 495746,
       "name": "Dinaledi",
       "url": "https://open.spotify.com/track/0kNOuZYnpu1RiQTWXUUzE8"
+    },
+    {
+      "album": {
+        "name": "Ke Dezemba",
+        "url": "https://open.spotify.com/album/2KIglHux9xCbLwlzoNe0hX"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        },
+        {
+          "name": "Mpho Sebina",
+          "url": "https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495746,
+      "name": "Dinaledi",
+      "url": "https://open.spotify.com/track/5VLElSNqpJk1XNfvxOxspv"
     },
     {
       "album": {

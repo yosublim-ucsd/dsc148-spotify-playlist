@@ -1,12 +1,12 @@
 {
   "description": "yeah it was love then it was just married",
-  "num_followers": 75877,
+  "num_followers": 76188,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MjE5MSwwMDAwMDAwMDUyNjdhNmViYTRmNTE3NTRlNTExMjU4ZGEzMzE4N2Uz",
+  "snapshot_id": "MTY3OTY3MjE5MSwwMDAwMDAwMDNkMzViNzQ2Y2M1N2VmZTQzMzZkMmJlMTE5MmRmNWJh",
   "tracks": [
     {
       "added_at": "2023-03-03 18:06:04",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-03-03 18:06:04",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Whiskey And You",
-      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
     },
     {
       "added_at": "2023-03-03 18:06:04",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-03-03 18:06:04",
       "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+      "duration_ms": 236333,
+      "name": "Whiskey And You",
+      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
     },
     {
       "added_at": "2023-03-03 18:06:04",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-03-03 18:06:04",
       "album": {
-        "name": "What Do They Know",
-        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 219640,
-      "name": "Try Losing One",
-      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
+      "duration_ms": 198466,
+      "name": "She Ain't In It",
+      "url": "https://open.spotify.com/track/1Be8liECvEP5NYZjYvukbI"
     },
     {
       "added_at": "2023-03-03 18:06:04",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-03-03 18:06:04",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "What Do They Know",
+        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 198466,
-      "name": "She Ain't In It",
-      "url": "https://open.spotify.com/track/1Be8liECvEP5NYZjYvukbI"
+      "duration_ms": 219640,
+      "name": "Try Losing One",
+      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
     },
     {
       "added_at": "2023-03-03 18:06:04",

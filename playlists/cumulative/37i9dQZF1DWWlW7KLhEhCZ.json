@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-05",
       "duration_ms": 126339,
       "name": "Alquimia",
       "url": "https://open.spotify.com/track/645tK7yPGLfjBcTvMANzpM"
@@ -10688,6 +10688,36 @@
       "duration_ms": 211731,
       "name": "P\u00e1gina 77",
       "url": "https://open.spotify.com/track/4oLSGyNJSCdCNBN9yMV2N8"
+    },
+    {
+      "album": {
+        "name": "Qual \u00e9 Seu Problema",
+        "url": "https://open.spotify.com/album/2IdVHQeJDj0oal9ymu4UuC"
+      },
+      "artists": [
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278260,
+      "name": "Qual \u00e9 Seu Problema",
+      "url": "https://open.spotify.com/track/0kIJspcz5xm6QizWkfHh25"
     },
     {
       "album": {
