@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-797 songs - 2 day 9 hr 5 min
+798 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Cura](https://open.spotify.com/track/1k2sSU3ZMwYQLJBe3VvUF7) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Cura](https://open.spotify.com/album/3XNjNIxqlAxkus63k1VnIa) | 1:31 | 2019-06-19\* | 2020-08-26 |
 | [Cure for the Itch](https://open.spotify.com/track/3rpnfXSECgapxeGeRgUYqy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2019-07-25 | 2020-10-19 |
 | [Cusp \- Edit](https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS) | 4:09 | 2021-05-20 | 2022-10-22 |
+| [Cusp \- Edit](https://open.spotify.com/track/6j6O8saTa1cVTx0BFBFmeW) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/3fUWKPK33lnxDcDLa44AQ2) | 4:09 | 2023-03-24 |  |
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2021-01-11 | 2022-04-21 |
 | [Dawn Aura](https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Forms](https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX) | 4:37 | 2021-10-01 | 2022-07-29 |
 | [Daydream of You](https://open.spotify.com/track/3UBW2WFjqWpEhjOM1qO6It) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:12 | 2021-03-10 | 2022-07-28 |
@@ -418,7 +419,7 @@
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 |  |
 | [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2022-07-29 |
 | [Lucid Dream \- Original Mix](https://open.spotify.com/track/3T4iVA2ozQMew8uRjQBPHc) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Lucid Dream](https://open.spotify.com/album/7GMbLoHGfaCGSQV8m2g8my) | 7:33 | 2019-06-21 | 2020-10-22 |
-| [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 | 2019-06-19\* |  |
+| [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 | 2019-06-19\* | 2023-04-06 |
 | [Machine Keys](https://open.spotify.com/track/7L96oyotFbLOxKAfywRczR) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 3:32 | 2019-06-22 | 2022-04-19 |
 | [Mainframe](https://open.spotify.com/track/2uzrqj79NJ5QgSUzVo7ML6) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Where Things Are Hollow](https://open.spotify.com/album/1YJJ1JmtHPiMt2QyLj99X5) | 4:27 | 2019-06-19\* | 2022-04-19 |
 | [Malibu](https://open.spotify.com/track/4Fe8wWhaxGIEa35eFHLX0b) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Malibu](https://open.spotify.com/album/7MYEcIncW4mQYBExnVA24y) | 3:57 | 2020-08-26 | 2020-10-24 |

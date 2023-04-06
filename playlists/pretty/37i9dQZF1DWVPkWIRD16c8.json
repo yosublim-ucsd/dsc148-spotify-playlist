@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 50345,
+  "num_followers": 50749,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc5NiwwMDAwMDAwMGE5NGZlZDIyYjlhNjBiMjIwNjdlMTQwMTlkNzg3M2Vj",
+  "snapshot_id": "MTY3NTc5MTc5NiwwMDAwMDAwMDY4ZmQxZmNjM2Y3MmYxYjg4NDliMTIxNGU5NmY0ODFj",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Great Are You Lord EP",
         "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "JESUS IS KING",
-        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 203141,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR"
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -315,6 +299,22 @@
       "duration_ms": 236933,
       "name": "The God Who Stays",
       "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "JESUS IS KING",
+        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 203141,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -363,22 +363,6 @@
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -435,6 +419,22 @@
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
-      },
-      "artists": [
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Ready to Fly",
-        "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
-      },
-      "artists": [
-        {
-          "name": "Jamie Grace",
-          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 267333,
       "name": "When We Fall Apart",
       "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Ready to Fly",
+        "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Yes I Will (Studio Version)",
         "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 216973,
       "name": "Yes I Will (Studio Version)",
       "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
     }
   ],
   "unique_name": "Christian Road Trip",

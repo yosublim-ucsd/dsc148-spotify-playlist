@@ -3024,7 +3024,7 @@
           "url": "https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X"
         }
       ],
-      "date_added": "2023-03-29",
+      "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 989090,
@@ -4672,7 +4672,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 1111999,
       "name": "Lemon Day",
       "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
@@ -7386,6 +7386,32 @@
       "duration_ms": 382200,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR"
+    },
+    {
+      "album": {
+        "name": "Spring Siesta",
+        "url": "https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ulibarri",
+          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
+        },
+        {
+          "name": "Amalinalli Pichardo",
+          "url": "https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp"
+        },
+        {
+          "name": "David Ralicke",
+          "url": "https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241742,
+      "name": "Spring Siesta",
+      "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
     },
     {
       "album": {

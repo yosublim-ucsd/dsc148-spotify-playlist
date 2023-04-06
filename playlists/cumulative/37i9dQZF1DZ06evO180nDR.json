@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Bola De Corrientes",
+        "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219697,
+      "name": "Bola De Corrientes",
+      "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
+    },
+    {
+      "album": {
         "name": "Me Gusta Lo Bueno",
         "url": "https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI"
       },
@@ -1176,7 +1198,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 207722,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/43BJCb62Swe69FRBEZygFm"

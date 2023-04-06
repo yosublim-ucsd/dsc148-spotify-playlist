@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,298 likes - 64 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,396 likes - 64 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 10 | [Nunca Más \- En Vivo](https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más \(En Vivo\)](https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA) | 3:04 |
 | 11 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 |
 | 12 | [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 |
-| 13 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 |
-| 14 | [Me Vas a Extrañar](https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Magoman](https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 2:45 |
+| 13 | [Me Vas a Extrañar](https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Magoman](https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 2:45 |
+| 14 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 |
 | 15 | [Pedazo De Papel \- En Vivo En El Luna Park](https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [La Gira y La Serenata](https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n) | 4:51 |
 | 16 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 | 17 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 59 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
 | 60 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 |
 | 61 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
-| 62 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 |
-| 63 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
+| 62 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
+| 63 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 |
 | 64 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 
-Snapshot ID: `MTY4MDU2OTcyMCwwMDAwMDAwMDZjMDc1NDQ0M2NmYjRiZjlmOGNjODFjZDhjOTY3NGQ5`
+Snapshot ID: `MTY4MDU2OTcyMCwwMDAwMDAwMGUyZjQwNzk3MDZlZDRmYWNmMjdlNzllMTY0MzM5NWY3`

@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-138 songs - 6 hr 14 min
+140 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Silent Wish](https://open.spotify.com/track/711P4SBPCX7zO6TarXBCJ4) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Silent Wish](https://open.spotify.com/album/54jnSi7iJTFQizuqW2xDxZ) | 2:29 | 2022-01-19 | 2022-02-17 |
 | [Alma II](https://open.spotify.com/track/6Vb39epYBq2JqY7LCWaKRV) | [Juan Ibarlucia](https://open.spotify.com/artist/4dSapZTLQAMUx9sUIaELu8), [Julian Tenembaum](https://open.spotify.com/artist/1fBpKRIY52lfi15xITUXHM) | [Alma II](https://open.spotify.com/album/3qVRy9B295bvFMkmabHoFg) | 4:10 | 2022-01-19 | 2022-07-28 |
 | [Ancora Imparo](https://open.spotify.com/track/26aqXYGrQiEeHpskk4HFSa) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Ancora Imparo](https://open.spotify.com/album/1Sz2hmT0inGdGvGrteyHz3) | 2:58 | 2022-01-19 | 2022-07-28 |
+| [Angeli](https://open.spotify.com/track/4LPVbn0BbA9Fz2V7Gm7Pqb) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Angeli](https://open.spotify.com/album/2osV838DdmREgkfoeaJLQK) | 2:29 | 2023-04-05 |  |
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-02-02 |  |
 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2022-01-19 |  |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2022-01-19 |  |
@@ -80,7 +81,7 @@
 | [My Angel](https://open.spotify.com/track/4fvAPq4DVXfQG5FbLwlvk5) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [My Angel](https://open.spotify.com/album/0khzZVOKGhgFKgxEmTg0QG) | 2:48 | 2022-01-19 | 2022-02-03 |
 | [Märchenstunde](https://open.spotify.com/track/03gwRcFi99kLdGp2qIRmNW) | [Maximilian Faber](https://open.spotify.com/artist/00PcADvHA59mhcgFAREmfM) | [Märchenstunde](https://open.spotify.com/album/0ozeWYKxgTBBYtJRyhsKiw) | 2:46 | 2022-11-14 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2022-01-19 |  |
-| [Nebula Horizon](https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Nebula Horizon](https://open.spotify.com/album/2m6Ng9QUH9KSRCBMHfNZ2C) | 1:55 | 2023-02-14 |  |
+| [Nebula Horizon](https://open.spotify.com/track/1pJgIwmZOJjLOFMbEpM9NU) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Nebula Horizon](https://open.spotify.com/album/2m6Ng9QUH9KSRCBMHfNZ2C) | 1:55 | 2023-02-14 | 2023-04-06 |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-01-19 |  |
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2022-01-19 |  |
 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 | 2022-01-19 |  |
@@ -111,6 +112,7 @@
 | [Short and Peaceful](https://open.spotify.com/track/3hNo5tuFvOT5O9EjUKQYdD) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Note of Reflections](https://open.spotify.com/album/7yqwhrAIh7IaolxlwcMfw8) | 2:15 | 2022-01-19 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2022-01-19 |  |
 | [Sincerity](https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:54 | 2022-01-19 |  |
+| [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 | 2023-04-05 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-01-19 |  |
 | [Solitude](https://open.spotify.com/track/23xaPw50MI2yuX666Jiyag) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Solitude](https://open.spotify.com/album/5UYaZ6FoT2W2RlU9H2lrZt) | 2:39 | 2022-01-19 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-01-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 105864,
+  "num_followers": 105898,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMGE2YWExZWZjYTVkNjBiY2JlYzcyYTc4NDNkYWI1ZjY4",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDBkMmQ3NzAyYmU0YTkyNmIwOGZjN2Y4OTVhN2M4ZDMw",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
     },
     {
-      "added_at": "2023-04-05 00:08:22",
+      "added_at": "2023-04-06 00:44:26",
       "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
         "name": "Te Gusta",
         "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Eclipse Lunar",
-        "url": "https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn"
+        "name": "ARENA",
+        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
       },
       "artists": [
         {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
         }
       ],
-      "duration_ms": 193491,
-      "name": "Eclipse Lunar",
-      "url": "https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F"
+      "duration_ms": 261702,
+      "name": "designer (with Daramola)",
+      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     }
   ],
   "unique_name": "Afro Ritmo",

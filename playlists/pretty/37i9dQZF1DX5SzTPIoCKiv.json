@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 572023,
+  "num_followers": 572180,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5MDU0NSwwMDAwMDAwMDcyMzBmOWVjN2UxZmY4ODE4YWRjYTllM2E5YWE2MzU4",
+  "snapshot_id": "MTY3NjY5MDU0NSwwMDAwMDAwMGJiZmE0MDhjYWFhYmZkMzY3MzYzOTExZmNmM2FkMDVm",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "You've Always Been",
-      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "inhale (exhale)",
         "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 228346,
       "name": "Red Letters",
       "url": "https://open.spotify.com/track/0ezeXzG4Qi5GJGu9E3W4VY"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "You've Always Been",
+      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -907,6 +907,38 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Love Moved First",
+      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6AfVe2fUexeUZjPb0LFXg7"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 284422,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -931,50 +963,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/6AfVe2fUexeUZjPb0LFXg7"
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
         }
       ],
-      "duration_ms": 284422,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Love Moved First",
-      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 179366,
-      "name": "In The House",
-      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+      "duration_ms": 248733,
+      "name": "Control (Somehow You Want Me)",
+      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
       },
       "artists": [
         {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 248733,
-      "name": "Control (Somehow You Want Me)",
-      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "I Will Fear No More",
-      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
       },
       "artists": [
         {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 197800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+      "duration_ms": 202480,
+      "name": "I Will Fear No More",
+      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1235,6 +1219,22 @@
       "duration_ms": 203070,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/0MWxVd7Hk952psJoL249TT"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Jordan St. Cyr",
-        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Weary Traveler",
-      "url": "https://open.spotify.com/track/3hKlTLtByTIe7nZyWieVkI"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 255160,
       "name": "Come To the Table",
       "url": "https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 200333,
+      "name": "Weary Traveler",
+      "url": "https://open.spotify.com/track/3hKlTLtByTIe7nZyWieVkI"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "In the Arms",
-        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "In the Arms",
-      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "In the Arms",
+        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "In the Arms",
+      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1539,6 +1539,22 @@
       "duration_ms": 278108,
       "name": "Hold Us Together - Hope Mix",
       "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 226300,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1615,38 +1631,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -1691,6 +1675,30 @@
       "duration_ms": 210697,
       "name": "Like You Love Me",
       "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Bleed The Same",
+      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     }
   ],
   "unique_name": "Christian Mix",

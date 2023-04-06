@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,548 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,613 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 11 | [Practice What You Preach](https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love Songs](https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE) | 3:59 |
 | 12 | [The Secret Garden \(Sweet Seduction Suite\)](https://open.spotify.com/track/3PZW66625MiyEmZaat7tce) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 6:41 |
 | 13 | [You're The One I Need](https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Message is Love](https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB) | 4:25 |
-| 14 | [Baby We Better Try To Get It Together](https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 4:25 |
-| 15 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
+| 14 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
+| 15 | [Baby We Better Try To Get It Together](https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 4:25 |
 | 16 | [I'll Do For You Anything You Want Me To](https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:10 |
 | 17 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 |
 | 18 | [Slow Jams](https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Portrait](https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 7:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [Lady, Sweet Lady](https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 5:40 |
 | 50 | [If You Know, Won't You Tell Me](https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 5:05 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDA2ZGQ4MTZjNDg5ZjFkYjcxYzUyZWNlOGVhY2NkMzE0NA==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDBhODAyMjY1MjcwYTFlYTY0NTUxOTg0YmUzOTM4Y2M4OA==`

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,129 songs - 5 day 2 hr 25 min
+2,131 songs - 5 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Enough For Love](https://open.spotify.com/track/6TNhpscT5qcwIgXDm6TvFe) | [Shavvon Lin](https://open.spotify.com/artist/4Loka7w9615ZLjtSgYX314) | [Enough For Love](https://open.spotify.com/album/6z9jRf7rRR6O0PdeRs09bC) | 3:57 | 2022-09-10 | 2022-09-27 |
 | [Enough of You](https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Enough of You](https://open.spotify.com/album/5RDGr2RFL0FmyMxZudo6Ww) | 2:30 | 2021-06-26 | 2021-07-11 |
 | [Enter Martian Pedestrian](https://open.spotify.com/track/4gZoYIiqL4sJKbY9zrP1s6) | [Martian Subculture](https://open.spotify.com/artist/5CNfcjsUX8fZ0lo0bPrdu9) | [Enter Martian Pedestrian](https://open.spotify.com/album/5r1bdOZBr2fbYWZyDdeXHK) | 5:24 | 2022-03-18 | 2022-04-05 |
+| [Eres Tú](https://open.spotify.com/track/6J1dBZzuj8hNZnnsotkwVL) | [ELENA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [Eres Tú](https://open.spotify.com/album/5FvYepMzpVbIpVwiW7QDJb) | 3:30 | 2023-04-06 |  |
 | [Error](https://open.spotify.com/track/6G5xwimzygf6guwvFpmptB) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Error](https://open.spotify.com/album/2PXTo7dgCnLXZxe9VPlR4c) | 3:52 | 2020-04-02 | 2020-04-20 |
 | [Española Way](https://open.spotify.com/track/1b1CowCegHe8N4vIMstOMQ) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 5:00 | 2022-07-15 | 2022-07-31 |
 | [Espera](https://open.spotify.com/track/7qEKZP3nOqWpEQlANPccOx) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 4:38 | 2019-09-29\* | 2021-11-19 |
@@ -592,6 +593,7 @@
 | [Everyday](https://open.spotify.com/track/3K2oPaUAXDrRQuA84xVB8x) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [Logan Richard](https://open.spotify.com/album/11evvnEdQomY7zQ3zM5Gfc) | 3:16 | 2021-05-21 | 2021-06-06 |
 | [Everything \(..\. Is Never Quite Enough\)](https://open.spotify.com/track/7tpTeZgPPcpGHmKLwQClXt) | [Wasis Diop](https://open.spotify.com/artist/5WgEnjgCrT1aeQELTV3tdB) | [Toxu](https://open.spotify.com/album/4orLzkXAHLvYzQncVdLYFX) | 4:32 | 2021-07-11 |  |
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
+| [exemptions](https://open.spotify.com/track/14n0K6nyP9advH13yqmYRJ) | [Betriu](https://open.spotify.com/artist/3gBioiOIJH53IaoFEssBvQ) | [exemptions](https://open.spotify.com/album/3ZJ6wyEfU4smOwD7VCvVio) | 2:19 | 2023-04-06 |  |
 | [Exodus](https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 7:39 | 2021-07-11 |  |
 | [Eyes Closed](https://open.spotify.com/track/3E3zkflz6Oe2zCcjHpw7qw) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Eyes Closed](https://open.spotify.com/album/5QgQhahldhB5zQ5PmNd7Dv) | 4:03 | 2022-03-04 | 2022-03-26 |
 | [Fade Away](https://open.spotify.com/track/0nVKBy2n1QYLL7XBIvq7KJ) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fade Away](https://open.spotify.com/album/1BlBwOb5xAl7VzrHdXmBBt) | 3:14 | 2020-09-28 | 2020-10-12 |

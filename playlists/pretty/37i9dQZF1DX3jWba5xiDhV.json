@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 106202,
+  "num_followers": 106489,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxMTc2NSwwMDAwMDAwMGI4ODlmMWY5ZTFlYWI5NmJiMWRhNDc1NDliOWRmNGVj",
+  "snapshot_id": "MTY4MDUxMTc2NSwwMDAwMDAwMGMyMzUxYmEzODE3OTU0NDA4OTc3NzBiMzMzYzFmYTlk",
   "tracks": [
     {
       "added_at": "2023-04-03 08:49:25",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 585374,
-      "name": "Supernature",
-      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 233640,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 585374,
+      "name": "Supernature",
+      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
     },
     {
       "added_at": "2023-04-03 08:49:25",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
       },
       "artists": [
         {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
         }
       ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2023-04-03 08:49:25",
@@ -919,22 +935,6 @@
       "duration_ms": 398733,
       "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
       "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
-      },
-      "artists": [
-        {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2023-04-03 08:49:25",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "Danza Organica (Musumeci Remix Hot Version)",
         "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2023-04-03 08:49:25",

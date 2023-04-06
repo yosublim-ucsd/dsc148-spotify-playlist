@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 283013,
       "name": "God My God - Radio Edit/Live",
       "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 403560,
       "name": "Ns3nkyer3ne Nhyankopon",
       "url": "https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ"
@@ -2363,6 +2363,32 @@
     },
     {
       "album": {
+        "name": "Won\u2019t Settle",
+        "url": "https://open.spotify.com/album/0aN04XDOdQaanGUnvE9jrJ"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "CARISSA M.",
+          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263168,
+      "name": "Won\u2019t Settle",
+      "url": "https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s"
+    },
+    {
+      "album": {
         "name": "Worship Medley",
         "url": "https://open.spotify.com/album/4Lc6LKskIMuD18YhiImsbt"
       },
@@ -2492,6 +2518,24 @@
       "duration_ms": 583858,
       "name": "Yhwh",
       "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
+    },
+    {
+      "album": {
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "album": {

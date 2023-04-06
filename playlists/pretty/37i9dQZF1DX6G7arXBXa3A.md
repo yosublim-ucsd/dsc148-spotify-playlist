@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,691 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,753 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 23 | [Chattanooga Choo Choo](https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:26 |
 | 24 | [Is You Is or Is You Ain't My Baby \- 2002 Remaster](https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 3:23 |
 | 25 | [Let's Fall In Love](https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz) | 2:46 |
-| 26 | [Rusty Dusty Blues](https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Big Band Era , Volume 1 \- The Passing Of An Era](https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH) | 3:07 |
-| 27 | [Everybody Eats When They Come To My House](https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Hi De Ho Man](https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT) | 2:47 |
+| 26 | [Everybody Eats When They Come To My House](https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Hi De Ho Man](https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT) | 2:47 |
+| 27 | [Rusty Dusty Blues](https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Big Band Era , Volume 1 \- The Passing Of An Era](https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH) | 3:07 |
 | 28 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 |
 | 29 | [Let The Good Times Roll](https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 2:55 |
 | 30 | [Lullaby of Broadway \(with Harry James & His Orchestra\)](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [Your Mind Is on Vacation](https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ) | [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW), [David Clayton\-Thomas](https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa), [John Finley](https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr) | [Your Mind Is on Vacation](https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK) | 3:06 |
 | 50 | [Three In One](https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h) | [Thad Jones\-Mel Lewis Jazz Orchestra](https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc) | [Presenting Thad Jones\-Mel Lewis & The Jazz Orchestra](https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh) | 5:48 |
 
-Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMDJhYTMyMjM1NmQ5NGMzZGYxZGM4NWFiYzhhMWYwYmFk`
+Snapshot ID: `MTY3NjAwNTI2MCwwMDAwMDAwMDRiMmZjNTNmNGQyYWUwNDJhOGNjNDllNzE2NGY2NWQ4`

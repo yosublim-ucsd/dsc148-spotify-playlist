@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. NAMIDA in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,554 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,563 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,23 +38,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 28 | [The Helmet](https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Devo Challenge Cup](https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2) | 2:56 |
 | 29 | [TUTTA FORTUNA](https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [TUTTA FORTUNA](https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE) | 2:45 |
 | 30 | [SARANNO ALTRI](https://open.spotify.com/track/0g8YSJUxWL9WqTJ9FPCGI5) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [RISERVE](https://open.spotify.com/album/355pIopHNw6bmPned9sBlg) | 3:26 |
-| 31 | [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 |
+| 31 | [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 |
 | 32 | [Forever](https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Forever](https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7) | 2:22 |
-| 33 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
-| 34 | [Dubbi](https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Dubbi](https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK) | 2:21 |
+| 33 | [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 |
+| 34 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
 | 35 | [Jap'n Cazz](https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:25 |
-| 36 | [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 |
+| 36 | [Dubbi](https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Dubbi](https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK) | 2:21 |
 | 37 | [GDPR](https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [GDPR](https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6) | 2:52 |
-| 38 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 |
-| 39 | [Nofriends](https://open.spotify.com/track/52dN2iEMEfK6lOFRdbDt8r) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Nofriends](https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob) | 2:31 |
+| 38 | [Nofriends](https://open.spotify.com/track/52dN2iEMEfK6lOFRdbDt8r) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Nofriends](https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob) | 2:31 |
+| 39 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 |
 | 40 | [Will you come?](https://open.spotify.com/track/6lwrSCgFoucyAtezdsLfIr) | [Trust The Mask](https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6), [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL) | [Will you come?](https://open.spotify.com/album/6RaLeuLs21e0vnE9aC53B6) | 2:27 |
 | 41 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 |
 | 42 | [Open Access](https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Open Access](https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF) | 2:38 |
 | 43 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
-| 44 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
-| 45 | [FOR MYSELF](https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [FOR MYSELF](https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq) | 2:09 |
-| 46 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 |
-| 47 | [Il Nuovo Mare](https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L) | [Vintage Violence](https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm) | [Il Nuovo Mare](https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8) | 2:08 |
+| 44 | [FOR MYSELF](https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [FOR MYSELF](https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq) | 2:09 |
+| 45 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
+| 46 | [Il Nuovo Mare](https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L) | [Vintage Violence](https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm) | [Il Nuovo Mare](https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8) | 2:08 |
+| 47 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 |
 | 48 | [Fragili](https://open.spotify.com/track/7d322WMHpY6G4GHV6bas2Y) | [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [RAGAZZAcd](https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15) | 3:19 |
 | 49 | [Mark Mothersbaugh Alterego](https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Mark Mothersbaugh Alterego](https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9) | 2:48 |
 | 50 | [Schifo](https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Schifo](https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1) | 3:02 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 53 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 |
 | 54 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 |
 | 55 | [CARTA, FORBICE, SESSO](https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CARTA, FORBICE, SESSO](https://open.spotify.com/album/2JTtwkyyz75fQLPfDuiNXs) | 2:49 |
-| 56 | [20 Anni](https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH) | [As We Are](https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ) | [20 Anni](https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D) | 2:30 |
-| 57 | [My Old Flame](https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [My Old Flame](https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S) | 3:52 |
-| 58 | [Dimensioni](https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Manuale Illusione](https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp) | 10:12 |
-| 59 | [Terra bruciata](https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Terra bruciata](https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI) | 3:13 |
-| 60 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 |
-| 61 | [Palle piene](https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Palle piene](https://open.spotify.com/album/6uWUi8vGKSQmx9z9zKSZEG) | 3:20 |
-| 62 | [AMERICA](https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [AMERICA](https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh) | 3:07 |
-| 63 | [Squot](https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd) | [filospada](https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ) | [Squot](https://open.spotify.com/album/6djLx5ZBsOs3m1XDchYLyq) | 2:50 |
-| 64 | [Castelli di sabbia](https://open.spotify.com/track/2SPCnoU0hUdcWdpfwu8tYL) | [Winter Dust](https://open.spotify.com/artist/29erlgFDUFpZSXENGAKO6a) | [Unisono](https://open.spotify.com/album/1arWxoywNGR6Oja3DhsmQV) | 3:45 |
-| 65 | [Una guerra da perdere](https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN) | [EX POLVERE](https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb) | [Una guerra da perdere](https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs) | 3:40 |
+| 56 | [Squot](https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd) | [filospada](https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ) | [Squot](https://open.spotify.com/album/6djLx5ZBsOs3m1XDchYLyq) | 2:50 |
+| 57 | [20 Anni](https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH) | [As We Are](https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ) | [20 Anni](https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D) | 2:30 |
+| 58 | [My Old Flame](https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [My Old Flame](https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S) | 3:52 |
+| 59 | [Dimensioni](https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Manuale Illusione](https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp) | 10:12 |
+| 60 | [Terra bruciata](https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Terra bruciata](https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI) | 3:13 |
+| 61 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 |
+| 62 | [Palle piene](https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Palle piene](https://open.spotify.com/album/6uWUi8vGKSQmx9z9zKSZEG) | 3:20 |
+| 63 | [AMERICA](https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [AMERICA](https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh) | 3:07 |
+| 64 | [Una guerra da perdere](https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN) | [EX POLVERE](https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb) | [Una guerra da perdere](https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs) | 3:40 |
+| 65 | [Castelli di sabbia](https://open.spotify.com/track/2SPCnoU0hUdcWdpfwu8tYL) | [Winter Dust](https://open.spotify.com/artist/29erlgFDUFpZSXENGAKO6a) | [Unisono](https://open.spotify.com/album/1arWxoywNGR6Oja3DhsmQV) | 3:45 |
 
-Snapshot ID: `MTY4MDUzMjUwMSwwMDAwMDAwMGUzMGY4NDI1MGNkOTdmOTk0MjU5Yjk2MjE1MGM4Nzll`
+Snapshot ID: `MTY4MDUzMjUwMSwwMDAwMDAwMDJmMDllYjNiZjFkZmRjNzdkNTEzYzkwZWFlMzEwZjZm`

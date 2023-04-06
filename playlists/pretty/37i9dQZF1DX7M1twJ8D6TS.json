@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 117633,
+  "num_followers": 117707,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDg0NTM3NjM4YjE3MzliOGFjMTg1NDk2NzA1NjM0YTlh",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDZiZjcyNzhhNWQzZmNmNGQ2NDI1ZTY0YzgwYTlkNGNk",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
-      },
-      "artists": [
-        {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Don't Even Say Bye",
         "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 237060,
       "name": "Don't Even Say Bye",
       "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+      },
+      "artists": [
+        {
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
     },
     {
-      "added_at": "2023-04-05 01:18:12",
+      "added_at": "2023-04-06 01:05:03",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "New Tattoos",
-        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
+        "name": "Heaven's Jukebox",
+        "url": "https://open.spotify.com/album/1S99G84SweuUP30hI31utF"
       },
       "artists": [
         {
-          "name": "South Texas Tweek",
-          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
+          "name": "Jaden Hamilton",
+          "url": "https://open.spotify.com/artist/2Hee241e76SakjULcG18OH"
         }
       ],
-      "duration_ms": 157660,
-      "name": "New Tattoos",
-      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
+      "duration_ms": 211075,
+      "name": "Heaven's Jukebox",
+      "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Heaven's Jukebox",
-        "url": "https://open.spotify.com/album/1S99G84SweuUP30hI31utF"
+        "name": "New Tattoos",
+        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
       },
       "artists": [
         {
-          "name": "Jaden Hamilton",
-          "url": "https://open.spotify.com/artist/2Hee241e76SakjULcG18OH"
+          "name": "South Texas Tweek",
+          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
         }
       ],
-      "duration_ms": 211075,
-      "name": "Heaven's Jukebox",
-      "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
+      "duration_ms": 157660,
+      "name": "New Tattoos",
+      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
     },
     {
-      "added_at": "2023-04-05 01:18:12",
+      "added_at": "2023-04-06 01:05:03",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1103,6 +1103,22 @@
       "duration_ms": 178469,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Cigarettes and Alcohol",
+        "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
+      },
+      "artists": [
+        {
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+        }
+      ],
+      "duration_ms": 277171,
+      "name": "Cigarettes and Alcohol",
+      "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Cigarettes and Alcohol",
-        "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn"
       },
       "artists": [
         {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+          "name": "Darrin Morris Band",
+          "url": "https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf"
         }
       ],
-      "duration_ms": 277171,
-      "name": "Cigarettes and Alcohol",
-      "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
+      "duration_ms": 208805,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 196733,
       "name": "Picture Frames",
       "url": "https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn"
-      },
-      "artists": [
-        {
-          "name": "Darrin Morris Band",
-          "url": "https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf"
-        }
-      ],
-      "duration_ms": 208805,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Any Other Guy",
-        "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Any Other Guy",
-      "url": "https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Something 'Bout a Southern Girl",
         "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 262186,
       "name": "Something 'Bout a Southern Girl",
       "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Any Other Guy",
+        "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Any Other Guy",
+      "url": "https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA"
     },
     {
       "added_at": "2022-05-27 04:00:00",

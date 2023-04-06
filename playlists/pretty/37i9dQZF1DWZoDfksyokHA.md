@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoDfksyokHA.md) - [plain]
 
 > Love was in the air this year <3 \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,649 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,734 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

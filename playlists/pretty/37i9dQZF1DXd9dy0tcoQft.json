@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDc1ZmM1Yjg1MzM0ZmQ3MDYyMDQ0OTI5NzAxY2EzY2I5",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGNiN2IyYmY2ZWJmZmY0MWFkNzM2ODAwNWEzMDI5MmIw",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Start over Again",
-        "url": "https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V"
-      },
-      "artists": [
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        }
-      ],
-      "duration_ms": 219354,
-      "name": "Start over Again",
-      "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "OVERCOME",
         "url": "https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 264760,
       "name": "Suitcase (Add The Weight)",
       "url": "https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Start over Again",
+        "url": "https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V"
+      },
+      "artists": [
+        {
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+        }
+      ],
+      "duration_ms": 219354,
+      "name": "Start over Again",
+      "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
     },
     {
       "added_at": "2023-02-23 23:00:00",

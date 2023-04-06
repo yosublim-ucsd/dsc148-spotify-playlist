@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Azimah Fada
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,147 likes - 105 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,163 likes - 105 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 |
 | 2 | [LOVE IS](https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv) | [Jason Mountario](https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Kelvin Andreas](https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd) | [LOVE IS](https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb) | 6:00 |
 | 3 | [Joni Indo](https://open.spotify.com/track/7yb4Tmncgrdz4EHTQNXpvu) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Joni Indo](https://open.spotify.com/album/06xMum9P424YVJqSIAyD9D) | 4:45 |
-| 4 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G), [Simon Cotsworth](https://open.spotify.com/artist/4CEQ0lqx5qPzZWzdksljTA) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 |
+| 4 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 |
 | 5 | [Dream Lulubye](https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Agam Hamzah](https://open.spotify.com/artist/0Q93JEJbQhqMkTZOvC764M) | [Dream Lulubye](https://open.spotify.com/album/1i43dJTiD4TFpcQ5p35J6g) | 6:30 |
 | 6 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 |
 | 7 | [Mata Kuru Made](https://open.spotify.com/track/2jUNYwyUqAU9ScJTGos3Be) | [Balawan](https://open.spotify.com/artist/3aKNBxiNR6YBHvOoi6f9Cm) | [Mata Kuru Made](https://open.spotify.com/album/5pU0oolHQu8XOxAZEjtxd8) | 4:33 |

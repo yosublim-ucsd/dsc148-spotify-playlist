@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: NMIXX\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-321 songs - 18 hr 13 min
+322 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-11-21 | 2022-09-07 |
 | [ELEVATOR](https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [ELEVATOR](https://open.spotify.com/album/54iEiUHiYVeNdKDRZqDsag) | 3:15 | 2021-11-21 | 2022-07-23 |
 | [End of the Story](https://open.spotify.com/track/6vSyVvWdfeynSlmBes22la) | [Kayy](https://open.spotify.com/artist/7dasGffT8yFvCbCvWofM2e) | [End of the Story](https://open.spotify.com/album/5qyGPeflfxlvPE7jZpPvrK) | 3:43 | 2021-11-21 | 2022-07-18 |
+| [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-04-04 |  |
 | [Euphoria](https://open.spotify.com/track/3Ixsxq6c4AFcUH5JjQTgYj) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Euphoria](https://open.spotify.com/album/17szusBUg2KhiVYBxU4AOo) | 3:10 | 2021-11-21 | 2022-07-27 |
 | [Even So](https://open.spotify.com/track/2iRrkHAH7JeDRK9oipHd3j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Even So](https://open.spotify.com/album/0Y6uM1oGRdVD4EazYhK8E9) | 3:48 | 2021-11-21 | 2022-05-22 |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2021-11-21 | 2022-07-14 |
@@ -228,7 +229,7 @@
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-06 | 2022-11-21 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-21 | 2022-07-29 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-07-07 | 2022-08-04 |
-| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 |  |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-02 | 2023-04-06 |
 | [Roomie](https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Roomie](https://open.spotify.com/album/0XIFtmJyxwfYFzTxzq4ILi) | 3:52 | 2021-11-21 | 2022-06-14 |
 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 | 2023-01-11 | 2023-03-29 |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-08-02 |

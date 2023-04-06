@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 420293,
+  "num_followers": 420424,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMDlmNWNlYWY0N2EzNWRmODNlYjExYTFhM2UzNmFhZjI0",
+  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMDIxYWRmNmE2OTQ5OTA1NDU4ZTJiYTUyMTE5MWE5MmY5",
   "tracks": [
     {
       "added_at": "2023-03-10 00:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "TJD006",
-        "url": "https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP"
+        "name": "Alfa",
+        "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
         }
       ],
-      "duration_ms": 308874,
-      "name": "WhereYouGonnaGo?",
-      "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"
+      "duration_ms": 285772,
+      "name": "Alfa",
+      "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Alfa",
-        "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
+        "name": "TJD006",
+        "url": "https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP"
       },
       "artists": [
         {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
         }
       ],
-      "duration_ms": 285772,
-      "name": "Alfa",
-      "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
+      "duration_ms": 308874,
+      "name": "WhereYouGonnaGo?",
+      "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Longing For U",
-        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
         }
       ],
-      "duration_ms": 349857,
-      "name": "Longing For U",
-      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
+      "duration_ms": 169000,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
+        "name": "Longing For U",
+        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
       },
       "artists": [
         {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+      "duration_ms": 349857,
+      "name": "Longing For U",
+      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Mellina",
-        "url": "https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        }
-      ],
-      "duration_ms": 149473,
-      "name": "Mellina",
-      "url": "https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
         "name": "lo-fi_house.zip",
         "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
+        "name": "Mellina",
+        "url": "https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "duration_ms": 149473,
+      "name": "Mellina",
+      "url": "https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
         "name": "Asakusa Light",
         "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Dromedary Twist",
-        "url": "https://open.spotify.com/album/0p25gsEFsPMCDeyWzngtPF"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 369420,
-      "name": "Dromedary Twist",
-      "url": "https://open.spotify.com/track/5MfKKuC9XnxxSJYcbEC205"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
         "name": "Pup Slushy",
         "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 329462,
       "name": "Pup Slushy",
       "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Dromedary Twist",
+        "url": "https://open.spotify.com/album/0p25gsEFsPMCDeyWzngtPF"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 369420,
+      "name": "Dromedary Twist",
+      "url": "https://open.spotify.com/track/5MfKKuC9XnxxSJYcbEC205"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
+        "name": "Invisible Man",
+        "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
+      },
+      "artists": [
+        {
+          "name": "Ayzon",
+          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
+        }
+      ],
+      "duration_ms": 176482,
+      "name": "YOU CAN DO IT",
+      "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
-        "name": "Invisible Man",
-        "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
-      },
-      "artists": [
-        {
-          "name": "Ayzon",
-          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
-        }
-      ],
-      "duration_ms": 176482,
-      "name": "YOU CAN DO IT",
-      "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
     },
     {
       "added_at": "2023-03-10 00:00:00",

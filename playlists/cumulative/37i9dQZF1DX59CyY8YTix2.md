@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: CHAI
 
-871 songs - 2 day 7 hr 31 min
+874 songs - 2 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kiss me before I rise](https://open.spotify.com/track/3Hl6OfLcfnLmAV5hOZd9uA) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ingredients](https://open.spotify.com/album/6zxpjA1B7uP84reP3udGXm) | 3:47 | 2022-05-26 | 2022-07-25 |
 | [Kodoku](https://open.spotify.com/track/74dY9HrENvoHvb1xLxyVqo) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Now I'm 19](https://open.spotify.com/album/5lDYiJtHTX3jsHR7rMJCpX) | 2:59 | 2023-03-07 |  |
+| [Koka](https://open.spotify.com/track/3jp7OJopxINpYt4OoUGE3J) | [Chikyukara 2miri Uiteruhitotachi](https://open.spotify.com/artist/7noDQtNgyA34TFE0ICDYf5) | [Koka](https://open.spotify.com/album/1YVSWgGpQcurA1c8JwmU65) | 3:23 | 2023-04-04 |  |
 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 | 2022-11-08 | 2022-12-14 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [L.I.B](https://open.spotify.com/track/3bkxrLI6XgEY1HwjM236qN) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 4:03 | 2022-07-14 | 2022-07-27 |
@@ -187,6 +188,7 @@
 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 |  |
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
 | [LiE LiE LiE](https://open.spotify.com/track/6XH4XZRcMAKfCE3fjyM6vI) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [LiE LiE LiE](https://open.spotify.com/album/3LgdW4j5F11p7tfDPfGjaD) | 2:55 | 2022-07-12 | 2022-07-15 |
+| [life on the run](https://open.spotify.com/track/5DyTRTEBWGANlW8tHHclp5) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/7vTpvDx5hHj2Bu77bHFhK0) | 4:28 | 2023-04-04 |  |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 | 2023-03-27 |
 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-23 |  |
 | [like like](https://open.spotify.com/track/3ITJU5IAi49tuu7ROVWMSt) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [like like](https://open.spotify.com/album/0UFQXjTiyoyJiB9axeHYd2) | 4:36 | 2022-10-18 | 2023-01-18 |
@@ -239,7 +241,8 @@
 | [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 | 2023-02-16 | 2023-03-08 |
 | [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-15 | 2023-02-16 |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
-| [NO SMOKING](https://open.spotify.com/track/28OEm14q3yBr8RD62XAjLK) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/0OQHX80vZ1lTHreceeY1C7) | 3:12 | 2023-04-04 |  |
+| [NO SMOKING](https://open.spotify.com/track/0FNeimJsFS79G3pW4LbDWj) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/676Jnrsbkb9Q2XGFWaZoHT) | 3:12 | 2023-04-04 |  |
+| [NO SMOKING](https://open.spotify.com/track/28OEm14q3yBr8RD62XAjLK) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/0OQHX80vZ1lTHreceeY1C7) | 3:12 | 2023-04-04 | 2023-04-06 |
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:19 | 2022-07-28 | 2023-01-13 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 | 2022-11-15 |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
@@ -662,7 +665,7 @@
 | [光](https://open.spotify.com/track/5rniqV2tMcxsALCC1zjhm2) | [スケアクロウ](https://open.spotify.com/artist/1TK3Aemi6UBQdIqok1hZNo) | [光](https://open.spotify.com/album/2GfXOS4GmpO4Cnjt1i2y1d) | 5:53 | 2022-06-02 | 2022-06-04 |
 | [光るとき](https://open.spotify.com/track/1370nNwq6I8TxBIZcDId8w) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [OOPARTS](https://open.spotify.com/album/0JVNFe0D5yp5QP28yoCCxb) | 5:51 | 2022-05-26 | 2022-07-29 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-26 | 2022-07-27 |
-| [光華](https://open.spotify.com/track/1zK39QgMM2RQMxTU2b3YeZ) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [光華](https://open.spotify.com/album/2fbmLsSDCKP85qLLdGZYJD) | 3:23 | 2023-04-04 |  |
+| [光華](https://open.spotify.com/track/1zK39QgMM2RQMxTU2b3YeZ) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [光華](https://open.spotify.com/album/2fbmLsSDCKP85qLLdGZYJD) | 3:23 | 2023-04-04 | 2023-04-06 |
 | [冗談](https://open.spotify.com/track/5hbcrOiaILZ4WtwytP2ycK) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [冗談](https://open.spotify.com/album/2nV0cyF0eKNm8eSIcCo92H) | 2:59 | 2022-06-16 | 2022-07-21 |
 | [出日和](https://open.spotify.com/track/6Zp8sDgJ0jIXmcISf4CcOe) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [出日和](https://open.spotify.com/album/46FUXEtT2s7OXcjhnWAWlN) | 4:27 | 2022-06-07 | 2022-07-17 |
 | [初恋は](https://open.spotify.com/track/7ySqZBex82WHNXxuAdtQWt) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [初恋は](https://open.spotify.com/album/50PHL83RxPE1uECcv2ZxQZ) | 4:35 | 2023-02-15 | 2023-02-22 |
@@ -850,7 +853,7 @@
 | [蹂躙](https://open.spotify.com/track/7G3Fg3Pj4u8m3SNuN7XQse) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [蹂躙](https://open.spotify.com/album/7aa22u8l3G3ylwZBYMATux) | 3:50 | 2022-06-16 | 2022-06-19 |
 | [返信不要](https://open.spotify.com/track/6ecCZ5eFVZuN4sfBFo0V5O) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [返信不要](https://open.spotify.com/album/6nZ9MDhEdR6q5oXdk5FJHh) | 4:52 | 2022-05-31 | 2022-06-15 |
 | [追憶](https://open.spotify.com/track/1S4Ti5UJh9eol0VVG5wMN2) | [meow](https://open.spotify.com/artist/2eUHtoViG2vBrLdBSXDEvC) | [追憶](https://open.spotify.com/album/6c10UiPwNuI2Us4g7zBvfv) | 5:39 | 2022-08-30 | 2022-09-15 |
-| [逃亡生活](https://open.spotify.com/track/46xFVj1wuk00nmSC5JlC4j) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/1MZlqLkh5VcVNdaUYxQ5zf) | 4:28 | 2023-04-04 |  |
+| [逃亡生活](https://open.spotify.com/track/46xFVj1wuk00nmSC5JlC4j) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/1MZlqLkh5VcVNdaUYxQ5zf) | 4:28 | 2023-04-04 | 2023-04-06 |
 | [逆光](https://open.spotify.com/track/25mnoIexUeJvsnVhddok1n) | [街鳴り](https://open.spotify.com/artist/0qIqzp7j9lHWO8EIUN0Nvp) | [逆光](https://open.spotify.com/album/0v1mLICPpVhArHCzVV4zL7) | 3:35 | 2022-07-05 | 2022-07-07 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-12-14 |
 | [週末のユートピア](https://open.spotify.com/track/73vl2RL9IjiwuZP5yLHNy6) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [週末のユートピア](https://open.spotify.com/album/0CzmcbKAeVkEaLRmwwm4v1) | 4:11 | 2022-06-02 | 2022-07-20 |

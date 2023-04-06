@@ -4,7 +4,7 @@
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-79 songs - 6 hr 24 min
+80 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 | 2022-04-02 |  |
 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 | 2022-04-02 |  |
 | [Death Was Arrested](https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9) | 5:14 | 2022-04-02 |  |
+| [Death Was Arrested / He's Alive \- Live](https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Death Was Arrested / He's Alive \(Live\)](https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE) | 6:03 | 2023-04-02 |  |
 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 | 2022-04-02 |  |
 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 | 2022-04-02 |  |
 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 | 2023-04-02 |  |
@@ -55,7 +56,7 @@
 | [Light Up the Sky](https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:41 | 2023-04-02 |  |
 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 | 2023-04-02 |  |
 | [Love Has A Name \- Studio Version](https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Love Has A Name \(Studio Version\)](https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ) | 4:23 | 2022-04-02 |  |
-| [Love Shines \- Acoustic Version](https://open.spotify.com/track/0wO8DKDFIW1RpSaVHhRmQd) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Love Shines \- EP](https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO) | 5:19 | 2023-04-02 |  |
+| [Love Shines \- Acoustic Version](https://open.spotify.com/track/0wO8DKDFIW1RpSaVHhRmQd) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Love Shines \- EP](https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO) | 5:19 | 2023-04-02 | 2023-04-06 |
 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 | 2022-04-02 |  |
 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 | 2022-04-02 |  |
 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 3:19 | 2023-04-02 |  |

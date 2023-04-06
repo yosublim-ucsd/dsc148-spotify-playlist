@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: KANA\-BOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,921 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,948 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 35 | [Lose Control \(feat\. Shungudzo\)](https://open.spotify.com/track/5IHi5WPEKTAY9YrIFAWZaB) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Lose Control \(feat\. Shungudzo\)](https://open.spotify.com/album/0vIxfwmpmqFsPFHgQFEvAu) | 3:06 |
 | 36 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 |
 | 37 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
-| 38 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 |
+| 38 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
 | 39 | [万々歳](https://open.spotify.com/track/4ZPl090JODD2F8Yz0KAQV4) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [万々歳](https://open.spotify.com/album/77XpTzNk0bmSVsbsXl8c7R) | 3:58 |
 | 40 | [KIMINOMAMA](https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [KIMINOMAMA](https://open.spotify.com/album/1zfEiFINYq6yP3aUROBvQz) | 2:57 |
 | 41 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 |
@@ -54,9 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 44 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 |
 | 45 | [Our Bright Parade](https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l) | [hololive IDOL PROJECT](https://open.spotify.com/artist/18Zr9CaElvS40S0AtizMWZ) | [Our Bright Parade](https://open.spotify.com/album/7eCf9tUxrNZ3LleQY5ofvX) | 4:29 |
 | 46 | [Give Love](https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 2:56 |
-| 47 | [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 |
-| 48 | [Unmei](https://open.spotify.com/track/1v91ZbCVhw51tlazJO3hMk) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Tamentai](https://open.spotify.com/album/1xmyMceh6akaFbhR0yV222) | 4:13 |
-| 49 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 |
-| 50 | [INTERNET YAMERO](https://open.spotify.com/track/4F2NudCv50tC2Bqc3dgn9v) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [INTERNET YAMERO](https://open.spotify.com/album/5TYShHQcZ3IpmwFec9tFmr) | 4:01 |
+| 47 | [Unmei](https://open.spotify.com/track/1v91ZbCVhw51tlazJO3hMk) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Tamentai](https://open.spotify.com/album/1xmyMceh6akaFbhR0yV222) | 4:13 |
+| 48 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 |
+| 49 | [INTERNET YAMERO](https://open.spotify.com/track/4F2NudCv50tC2Bqc3dgn9v) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [INTERNET YAMERO](https://open.spotify.com/album/5TYShHQcZ3IpmwFec9tFmr) | 4:01 |
 
-Snapshot ID: `MTY4MDQ5MzczNywwMDAwMDAwMGQ4ZjIwMzhkN2JiMzgyZDNhZjdjNzk0OTNjMmE0NmZm`
+Snapshot ID: `MTY4MDcwNDU0NywwMDAwMDAwMDU4MGVhZmQ1YmIwODU2ZDViMWVkM2IyMjg5NTlhOGMy`

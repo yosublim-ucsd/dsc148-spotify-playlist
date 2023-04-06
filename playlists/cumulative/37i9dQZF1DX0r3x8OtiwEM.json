@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 348411,
       "name": "4 Lovers",
       "url": "https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 282063,
       "name": "Cappadocia",
       "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 245927,
       "name": "Children",
       "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Die Dunkle Biene",
+        "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465833,
+      "name": "Die Dunkle Biene",
+      "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
+    },
+    {
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/5xHkztdsM3wevIdT5V5ex2"
       },
@@ -3053,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"
+    },
+    {
+      "album": {
         "name": "Sternstunde | Exhilaration",
         "url": "https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl"
       },
@@ -3228,7 +3264,7 @@
       ],
       "date_added": "2020-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 311280,
       "name": "False Reactions",
       "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
@@ -4758,7 +4794,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
@@ -6911,6 +6947,24 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
+      },
+      "artists": [
+        {
+          "name": "Agatha Pher",
+          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535081,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
+    },
+    {
+      "album": {
         "name": "IN Hz",
         "url": "https://open.spotify.com/album/1cMtR2Qfu3lAdZra8cAFtT"
       },
@@ -8541,6 +8595,24 @@
     },
     {
       "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "album": {
         "name": "Shipwreck",
         "url": "https://open.spotify.com/album/1xUmLruPIKpNE3DzRjAUv4"
       },
@@ -8862,6 +8934,24 @@
       "duration_ms": 303000,
       "name": "Solar",
       "url": "https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz"
+    },
+    {
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
+      },
+      "artists": [
+        {
+          "name": "Benzsoul",
+          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404532,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "album": {
@@ -9304,6 +9394,24 @@
       "duration_ms": 381102,
       "name": "Tachyon",
       "url": "https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC"
+    },
+    {
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205403,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG"
     },
     {
       "album": {
@@ -10376,7 +10484,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -10664,6 +10772,24 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "album": {
+        "name": "Senso Sounds Level 11",
+        "url": "https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527921,
+      "name": "Unravel Me",
+      "url": "https://open.spotify.com/track/4fKHj7e2wCouGDXIEIXEKk"
     },
     {
       "album": {
@@ -11206,7 +11332,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 223451,
       "name": "What Is Real",
       "url": "https://open.spotify.com/track/6G40wvmUlCrx5KqGFN5H4X"
@@ -11286,6 +11412,32 @@
       "duration_ms": 237500,
       "name": "When We Meet Again - Edit",
       "url": "https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb"
+    },
+    {
+      "album": {
+        "name": "Equal",
+        "url": "https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        },
+        {
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8"
     },
     {
       "album": {
@@ -11438,7 +11590,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"

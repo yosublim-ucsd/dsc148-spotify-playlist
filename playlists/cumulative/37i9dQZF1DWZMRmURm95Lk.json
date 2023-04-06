@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 269760,
       "name": "Citt\u00e0 di vetro",
       "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 148200,
       "name": "John Rambo",
       "url": "https://open.spotify.com/track/0ZtqnQ7XfuAxHmFSXCJeEl"
@@ -3853,6 +3853,28 @@
     },
     {
       "album": {
+        "name": "Per tutti",
+        "url": "https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169540,
+      "name": "Per tutti",
+      "url": "https://open.spotify.com/track/6ohpYadq50CPaaOjlf2kZ2"
+    },
+    {
+      "album": {
         "name": "Petra.",
         "url": "https://open.spotify.com/album/5cRhODEj0eIKDJXsHp1D4O"
       },
@@ -4034,7 +4056,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 202312,
       "name": "Poco Male",
       "url": "https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6"

@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 80088,
+  "num_followers": 80161,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGE1M2E5ZTY2Yzk1OTgyN2U4MzQ5ODE1MjgwNWUyY2Nl",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGEzOWFjMDFmMGY0YTNlYzRkMGI2YmFmN2JmMDU2MzVl",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -419,18 +419,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
+        "name": "The Freelance Years",
+        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Birks' Works",
-      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
+      "duration_ms": 546000,
+      "name": "Sonnymoon For Two",
+      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -455,18 +455,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Freelance Years",
-        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
+        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 546000,
-      "name": "Sonnymoon For Two",
-      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
+      "duration_ms": 297493,
+      "name": "Birks' Works",
+      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
     },
     {
       "added_at": "2020-10-12 18:15:54",

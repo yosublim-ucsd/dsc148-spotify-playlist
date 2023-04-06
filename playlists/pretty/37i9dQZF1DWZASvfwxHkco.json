@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Marshmello, Polo G, Southside",
-  "num_followers": 67292,
+  "num_followers": 67297,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE4ODQwMCwwMDAwMDAwMGE2Mzk0ODZhNGRlNmEyNWFhOGRiZTE2ZWY3YmVkMmY1",
+  "snapshot_id": "MTY4MDE4ODQwMCwwMDAwMDAwMDUwZTUwYzI4ZmE2NzAxYWVlZjU4OWQxZjFjNTNjYTJl",
   "tracks": [
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "AM:PM",
+        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "AM:PM",
+      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
-        "name": "AM:PM",
-        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "AM:PM",
-      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "Luv Me A Little",
-        "url": "https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 224615,
-      "name": "Luv Me A Little",
-      "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 170184,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "Luv Me A Little",
+        "url": "https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 224615,
+      "name": "Luv Me A Little",
+      "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
     },
     {
       "added_at": "2023-03-30 15:00:00",
@@ -1603,6 +1603,34 @@
     {
       "added_at": "2023-03-30 15:00:00",
       "album": {
+        "name": "Kx5",
+        "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2023-03-30 15:00:00",
+      "album": {
         "name": "Living Without You",
         "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
       },
@@ -1647,34 +1675,6 @@
       "duration_ms": 195268,
       "name": "Damn (You\u2019ve Got Me Saying)",
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
-    },
-    {
-      "added_at": "2023-03-30 15:00:00",
-      "album": {
-        "name": "Kx5",
-        "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
-      },
-      "artists": [
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 240445,
-      "name": "Escape (feat. Hayla)",
-      "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
     },
     {
       "added_at": "2023-03-30 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 980953,
+  "num_followers": 981135,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ3ODI1MCwwMDAwMDAwMGQ4NWU3NDdkNTQzMDg5YTViYjM2N2MxYzI3OGJjOWU5",
+  "snapshot_id": "MTY3OTQ3ODI1MCwwMDAwMDAwMDI5ZWM4YTQxODkxZjdkNTdkMzEzM2IwM2I4NDUzMjgz",
   "tracks": [
     {
       "added_at": "2023-03-15 07:51:56",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 129333,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 279626,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 147146,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "That Towering Feeling",
-        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
-      },
-      "artists": [
-        {
-          "name": "Vic Damone",
-          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Let's Fall in Love",
-      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "That Face!",
         "url": "https://open.spotify.com/album/0tTIug98cYd67md0Gtc5Iw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 184600,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/58NE4gmBGsJtXDFGo176HK"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "That Towering Feeling",
+        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
         "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
@@ -791,26 +807,6 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 176013,
-      "name": "One for My Baby (And One More for the Road)",
-      "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 176013,
+      "name": "One for My Baby (And One More for the Road)",
+      "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -911,6 +927,22 @@
       "duration_ms": 181093,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Ain't We Got Fun",
+      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -931,38 +963,6 @@
       "duration_ms": 170186,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
-      },
-      "artists": [
-        {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Ain't We Got Fun",
-      "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
-      },
-      "artists": [
-        {
-          "name": "Buddy Greco",
-          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "My Kind Of Girl",
-      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
+      },
+      "artists": [
+        {
+          "name": "Buddy Greco",
+          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "My Kind Of Girl",
+      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Taking A Chance On Love",
-        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
-      },
-      "artists": [
-        {
-          "name": "V. Duke",
-          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
-        },
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "Platinum Collection",
         "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 175866,
       "name": "Qu'est-ce que tu crois ?",
       "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Taking A Chance On Love",
+        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
+      },
+      "artists": [
+        {
+          "name": "V. Duke",
+          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
+        },
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "To Ella With Love",
         "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 166960,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH"
     },
     {
       "added_at": "2023-03-15 07:51:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-15 07:51:56",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
-    },
-    {
-      "added_at": "2023-03-15 07:51:56",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 208133,
       "name": "There's A Lull In My Life",
       "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
+    },
+    {
+      "added_at": "2023-03-15 07:51:56",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2023-03-15 07:51:56",

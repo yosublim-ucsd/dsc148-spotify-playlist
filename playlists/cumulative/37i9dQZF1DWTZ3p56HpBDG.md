@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-164 songs - 8 hr 44 min
+165 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Action](https://open.spotify.com/track/059MUIi9GmBbrFs4fYKtiu) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Action](https://open.spotify.com/album/3yG5ZTauubzoLDMIQHBmwH) | 2:12 | 2022-10-06 |  |
 | [Alive](https://open.spotify.com/track/59mrqUmhpmcfUns8BKkV30) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:48 | 2022-10-06 |  |
 | [All Alone](https://open.spotify.com/track/1Tfi8F6UsFpIZDCvpbX0y6) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [All Alone](https://open.spotify.com/album/2S8p3dJux1XY2nisIJvua2) | 3:28 | 2021-11-10 | 2022-06-21 |
-| [Almost](https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Almost](https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq) | 2:20 | 2022-10-14 |  |
+| [Almost](https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Almost](https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq) | 2:20 | 2022-10-14 | 2023-04-06 |
+| [Almost](https://open.spotify.com/track/76BaxAKDB58NoFyySHgaIW) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Almost](https://open.spotify.com/album/371w92JY495mLhPmTDj8ON) | 2:20 | 2022-11-17 |  |
 | [Alright With Me](https://open.spotify.com/track/5HbtMh180suZ6aN63T1X7I) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [SAGA\-II](https://open.spotify.com/album/00TxHLGq0npacleeiFcS0y) | 3:16 | 2021-11-10 | 2022-01-21 |
 | [Bad Girls Dream](https://open.spotify.com/track/1121Ycebu41AqMwVtiCufT) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Bad Girls Dream](https://open.spotify.com/album/3ikuwtXoKOh8Izx0bhXuan) | 3:20 | 2021-11-10 | 2022-07-19 |
 | [Bad Habits](https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Bad Habits](https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf) | 3:47 | 2021-11-10 | 2022-06-21 |

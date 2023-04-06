@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,330 likes - 121 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,320 likes - 121 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 69 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 |
 | 70 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |
 | 71 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
-| 72 | [Caffeine \(Feat\. Jun Hyung Yong Of BEAST\)](https://open.spotify.com/track/1XWHUMBimQATJmn5bg4T7P) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [The First Collage](https://open.spotify.com/album/3d45k3K0wPf2h1YkVeyOAr) | 3:35 |
+| 72 | [Caffeine \(Feat\. Jun Hyung Yong Of BEAST\)](https://open.spotify.com/track/1XWHUMBimQATJmn5bg4T7P) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [The First Collage](https://open.spotify.com/album/3d45k3K0wPf2h1YkVeyOAr) | 3:35 |
 | 73 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
 | 74 | [Special girl \(feat.Bumkey\)](https://open.spotify.com/track/0ef1V9YLnik4NIzfHQ1Zqn) | [INFINITE H](https://open.spotify.com/artist/6wG0oxTnYjwcjpdK3YRtR1), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [FLY HIGH](https://open.spotify.com/album/1sUMNikWB9JPT2oNXV2Mn5) | 4:08 |
 | 75 | [Ooh Ooh](https://open.spotify.com/track/6v6WTbgV4Hqjdjnd44ICYD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Ooh Ooh](https://open.spotify.com/album/4AFxO6gMtKC8O1ksxjFncV) | 3:15 |

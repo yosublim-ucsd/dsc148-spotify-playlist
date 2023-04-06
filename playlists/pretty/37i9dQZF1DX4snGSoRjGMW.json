@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 10327,
+  "num_followers": 10370,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDk4M2QyZWVlNDAxMTg5YTNkNGY5MGYxM2Y2M2I0MDUw",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGFjNDllN2E0OWFmMzc3MWU5MzU3YzRlOTk4MjVkZThh",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hit That Thing",
-        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
-      },
-      "artists": [
-        {
-          "name": "Bobby Wayne",
-          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
-        }
-      ],
-      "duration_ms": 320666,
-      "name": "On The Drift",
-      "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Don't Hurt No More",
         "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Royal Blue",
-        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
+        "name": "Hit That Thing",
+        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Bobby Wayne",
+          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
         }
       ],
-      "duration_ms": 321400,
-      "name": "Bring Me Some Water",
-      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
+      "duration_ms": 320666,
+      "name": "On The Drift",
+      "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,66 +659,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Into the Mystic",
-        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
+        "name": "Royal Blue",
+        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
       },
       "artists": [
         {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 184306,
-      "name": "Soul Deep",
-      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hit That Thing",
-        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
-      },
-      "artists": [
-        {
-          "name": "Bobby Wayne",
-          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
-        }
-      ],
-      "duration_ms": 437360,
-      "name": "Whisper Away",
-      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Doin' The Funky Thing",
-        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
-      },
-      "artists": [
-        {
-          "name": "Walter Wolfman Washington",
-          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
+      "duration_ms": 321400,
+      "name": "Bring Me Some Water",
+      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,34 +691,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
       },
       "artists": [
         {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Bridge to a Legacy",
-        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
+        "name": "Into the Mystic",
+        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Who's Still in Love",
-      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+      "duration_ms": 184306,
+      "name": "Soul Deep",
+      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -807,6 +743,70 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Hit That Thing",
+        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wayne",
+          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
+        }
+      ],
+      "duration_ms": 437360,
+      "name": "Whisper Away",
+      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Doin' The Funky Thing",
+        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
+      },
+      "artists": [
+        {
+          "name": "Walter Wolfman Washington",
+          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Bridge to a Legacy",
+        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Who's Still in Love",
+      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Betcha Didn't Know",
         "url": "https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3"
       },
@@ -819,38 +819,6 @@
       "duration_ms": 257373,
       "name": "Betcha Didn't Know",
       "url": "https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
-      },
-      "artists": [
-        {
-          "name": "Preston Shannon",
-          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Baby I Will",
-      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
-        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "Blues All Over You",
-      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -887,6 +855,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
+        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "Blues All Over You",
+      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
+      },
+      "artists": [
+        {
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Baby I Will",
+      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Cheatin' Habit",
         "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
       },
@@ -915,38 +915,6 @@
       "duration_ms": 265133,
       "name": "I Can't Hold It",
       "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0JBRVO8stjOO9JF4UnrWSv"
-      },
-      "artists": [
-        {
-          "name": "Carl Weathersby",
-          "url": "https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6hvJliJvOMHiKSXjPyUoZf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talkin' About Chicago",
-        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Sweet Dynamite!",
-      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -983,6 +951,38 @@
       "duration_ms": 196493,
       "name": "You Push Me to My Limit",
       "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talkin' About Chicago",
+        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Sweet Dynamite!",
+      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Tiger in a Cage",
+        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rawls",
+          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
+        }
+      ],
+      "duration_ms": 265053,
+      "name": "Reckless Heart",
+      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
     }
   ],
   "unique_name": "Soul Blues",

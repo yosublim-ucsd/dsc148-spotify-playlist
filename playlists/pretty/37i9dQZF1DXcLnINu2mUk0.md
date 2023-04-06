@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,942 likes - 68 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,012 likes - 68 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 35 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 36 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 37 | [Vida De Artista](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Vida De Artista](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 |
-| 38 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
-| 39 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 38 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 39 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
 | 40 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 41 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 42 | [OQCQZR](https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c) | [Mvza](https://open.spotify.com/artist/4XVI8cWzKF53dOj2QE0z2O), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [OQCQZR](https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI) | 3:02 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 63 | [Mereces](https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK) | [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Mereces](https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw) | 3:18 |
 | 64 | [Loco](https://open.spotify.com/track/7qUthqT3Y7dU14sBVhcMz3) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD) | [Loco](https://open.spotify.com/album/0n765dBDjHREmRlNIzQ2uu) | 3:07 |
 | 65 | [AHORA](https://open.spotify.com/track/5o7ZLRlTl9LuUzQvzDFJLU) | [La Dianna](https://open.spotify.com/artist/3Kh3D2QUAQUreGlBnyF7UD), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [AHORA](https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2) | 3:08 |
-| 66 | [Meu Tipo](https://open.spotify.com/track/2dRQYj6jjEqIgJBtUFE3bY) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Meu Tipo](https://open.spotify.com/album/39sbMlocyFsWvKbW33AsDc) | 3:24 |
-| 67 | [Vai](https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Vai](https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF) | 3:16 |
+| 66 | [Vai](https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Vai](https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF) | 3:16 |
+| 67 | [Meu Tipo](https://open.spotify.com/track/2dRQYj6jjEqIgJBtUFE3bY) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Meu Tipo](https://open.spotify.com/album/39sbMlocyFsWvKbW33AsDc) | 3:24 |
 | 68 | [Dona Do Meu Coração](https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF), [Mozzy Jr](https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB) | [Dona Do Meu Coração](https://open.spotify.com/album/766f2mw4eB8TdjXhvelZTL) | 3:57 |
 
-Snapshot ID: `MTY4MDU5NjU1NiwwMDAwMDAwMGFhNzBkMGVhM2M2MDQ1OWY5ZDdjYTJlNTMzN2I0NjUy`
+Snapshot ID: `MTY4MDU5NjU1NiwwMDAwMDAwMDQ3MGE0ZjhjNTdiMjBmZjRlYTA2OWI0YjhhOWQwNzAx`

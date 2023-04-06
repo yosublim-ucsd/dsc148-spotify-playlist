@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,949 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,963 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 39 | [Helium](https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/7tJSsud0MYEnWmD7fSd3BE) | 3:49 |
 | 40 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 |
 | 41 | [Critics \(Fifty Bucks\)](https://open.spotify.com/track/3Rj0bNJuUI2X1XD3XxEhpf) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I & II](https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q) | 4:12 |
-| 42 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/0swJRACxsbJcaG1VtnNrOm) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:38 |
+| 42 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/4EZQfjnmP76FcbrXFBK3GL) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:38 |
 | 43 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
 | 44 | [Another Love](https://open.spotify.com/track/6kUbsWrqQ17sL0Fc00FUvA) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Another Love](https://open.spotify.com/album/5TQ7eGVZjZw9Bh4i6Prhv7) | 3:46 |
 | 45 | [All I Need](https://open.spotify.com/track/5jBZSh7u8Af31hRzNbyY3z) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [All I Need](https://open.spotify.com/album/56SM0Astc88nwn9KA6KM7n) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Take Care of You](https://open.spotify.com/track/2qBCc8sGAcYZJOb2sfxYMy) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [Imposter Syndrome](https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3) | 3:35 |
 | 100 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGI4YmNiZDBkMDhjMzU3MzRkZjI1NWRjN2MxYjgxMzQz`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDMxMWIwY2Y2ZmMyNDdjOWFmN2ZlMTVlZjcyZDQ0YjAy`

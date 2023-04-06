@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 186698,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu"
@@ -2890,6 +2890,24 @@
       "duration_ms": 406000,
       "name": "Underwater Love",
       "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+    },
+    {
+      "album": {
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "album": {

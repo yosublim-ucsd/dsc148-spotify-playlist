@@ -59230,6 +59230,24 @@
     {
       "album": {
         "name": "EL ORIGEN DEL CAOS",
+        "url": "https://open.spotify.com/album/6j4T9vGSeInfrpFnvbc5x7"
+      },
+      "artists": [
+        {
+          "name": "Octavia",
+          "url": "https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225055,
+      "name": "PIEL",
+      "url": "https://open.spotify.com/track/5862BeXImRyvRS7ilX4Yx2"
+    },
+    {
+      "album": {
+        "name": "EL ORIGEN DEL CAOS",
         "url": "https://open.spotify.com/album/4MNAeZIZde6MpAaAUIK07q"
       },
       "artists": [
@@ -59258,7 +59276,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 225055,
       "name": "PIEL",
       "url": "https://open.spotify.com/track/6v8Ka08c1mSPRw9uXdKes2"

@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-224 songs - 9 hr 14 min
+227 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ballerina](https://open.spotify.com/track/4ibQoQQZV6nXlBx3vph9ts) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Ballerina](https://open.spotify.com/album/1304CozsNkUvUa0T6VC9jV) | 2:38 | 2021-12-14 |  |
 | [Beneath the Surface](https://open.spotify.com/track/5JadUKeKPDTwUXQL0p3GwJ) | [Manu Calhu](https://open.spotify.com/artist/11O4mz6CNXZKdNkzguicLf) | [Procession](https://open.spotify.com/album/19M3xeWwJfedsqzR0N8lTX) | 3:17 | 2021-12-14 |  |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-12-14 |  |
+| [Blomstre](https://open.spotify.com/track/6QWh1UBcCSxSQikQgVYp1Z) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Blomstre](https://open.spotify.com/album/2JvuwhBuL2ZCUURkQqx0ns) | 2:34 | 2023-04-05 |  |
 | [Blue Dream \(Softly\)](https://open.spotify.com/track/1EKQupLgrWvH2mVmzMvKRl) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Blue Dream \(Softly\)](https://open.spotify.com/album/6OL1SjkyAh7gy1chc1H0la) | 3:08 | 2022-04-28 |  |
 | [Blumenwiese](https://open.spotify.com/track/5LqtZQRkuuz3X6sa7vKAuN) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Blumenwiese](https://open.spotify.com/album/1y3sMt414NJdOYiHYGDGSn) | 2:40 | 2022-10-26 |  |
 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
@@ -90,7 +91,7 @@
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-14 |  |
 | [Klang](https://open.spotify.com/track/0Uu2BFQxlxYIBng7MkXUZi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Klang](https://open.spotify.com/album/1QcSE0agb1Hf3oNWdqOekb) | 2:17 | 2023-01-27 |  |
 | [Kleiner Schmetterling](https://open.spotify.com/track/7v4XLVSgxRCj8yorbZ2INL) | [David Fenger](https://open.spotify.com/artist/5m6XLwqI3BUA5zkFsxdKrS) | [Kleiner Schmetterling](https://open.spotify.com/album/4ROfZp4Tk7ygTIcixATZ95) | 3:35 | 2022-04-04 |  |
-| [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2022-09-13 |  |
+| [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2022-09-13 | 2023-04-06 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2021-12-14 |  |
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2021-12-14 |  |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-14 |  |
@@ -172,7 +173,7 @@
 | [Simpler Times](https://open.spotify.com/track/2Y5mfhY8iCRSU3jyHxMBFz) | [Christopher James Richardson](https://open.spotify.com/artist/549TBaWWzS9WNOiYT0XHw6), [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/0eHuURQcrJIDvbfy1gruAY) | 2:21 | 2021-12-14 | 2022-07-29 |
 | [Simply Love](https://open.spotify.com/track/5aQ7Lc8KEJG8dsM3Ey2TXe) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Simply Love](https://open.spotify.com/album/6YfXgEnqI8lHSH6ZCixZMK) | 2:25 | 2022-04-28 |  |
 | [Singing Bird](https://open.spotify.com/track/3afvGA8lwrXHh9X2M0hMCe) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Singing Bird](https://open.spotify.com/album/4vAXPI9XMHtIHqpITkx0Oc) | 2:31 | 2023-01-09 |  |
-| [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-09 |  |
+| [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-09 | 2023-04-06 |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-14 |  |
 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 | 2023-01-20 |  |
 | [Solarised](https://open.spotify.com/track/2NuQU5ztiWnOT8PqNmwrU8) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Solarised](https://open.spotify.com/album/6Rled6otj5AJQ4qCBiVX0u) | 2:36 | 2022-10-26 |  |
@@ -205,7 +206,7 @@
 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 | 2021-12-14 |  |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-02-15 |  |
 | [This day, a life](https://open.spotify.com/track/6rCXFCdKOrUqlt9enKauGv) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [This day, a life](https://open.spotify.com/album/6lSD6R7V14cPWVlWvPooJJ) | 2:20 | 2022-12-21 |  |
-| [Through the Leaves](https://open.spotify.com/track/5g6w540Qt7z0LZGqV9KBKx) | [Minxz](https://open.spotify.com/artist/3gItTReTbNRqMuCIQGUDc4) | [Through the Leaves](https://open.spotify.com/album/5wvzRGidyZETW8w0HIe2hs) | 3:54 | 2023-01-09 |  |
+| [Through the Leaves](https://open.spotify.com/track/5g6w540Qt7z0LZGqV9KBKx) | [Minxz](https://open.spotify.com/artist/3gItTReTbNRqMuCIQGUDc4) | [Through the Leaves](https://open.spotify.com/album/5wvzRGidyZETW8w0HIe2hs) | 3:54 | 2023-01-09 | 2023-04-06 |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-02 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-06 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-14 |  |
@@ -217,6 +218,7 @@
 | [Un Voyage Á Paris](https://open.spotify.com/track/1dKhA9m4PjSLVxDRxWPwm4) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Un Voyage Á Paris](https://open.spotify.com/album/15f6hSSftpB39OEmAZrOLm) | 2:14 | 2022-07-20 |  |
 | [Up and Away](https://open.spotify.com/track/0VwYVeHNJbZFgr1LzE5k40) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Up and Away](https://open.spotify.com/album/5YOtwhelywHTOSmzP9A3Vp) | 2:14 | 2022-04-28 |  |
 | [Up toward the sky](https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Up toward the sky](https://open.spotify.com/album/6VXJvM8qTx0kAZGNNj6KuO) | 2:18 | 2023-03-08 |  |
+| [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-05 |  |
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2021-12-14 | 2022-04-29 |
 | [Vejez](https://open.spotify.com/track/7JqiCSsdTJ8pbELhBGcTi8) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/6z16FGd8h6MyiYSJrUhu3l) | 2:18 | 2022-04-28 |  |
@@ -227,6 +229,7 @@
 | [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2021-12-14 | 2022-04-29 |
 | [Watching Juliette](https://open.spotify.com/track/0dlXqlUzzQ3yVswQb6Lpf9) | [Søme](https://open.spotify.com/artist/78vnOAl0eEZQpMzdi3zCwZ) | [Watching Juliette](https://open.spotify.com/album/25NJ7MdnSdCXylOXC5aKyU) | 3:36 | 2022-10-26 |  |
 | [Water Lilies](https://open.spotify.com/track/3Eq0VAdDj1j9xyQ5EKU85N) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Water Lilies](https://open.spotify.com/album/5NebT6I9YPVwMy0aWfgtGm) | 2:00 | 2022-10-26 |  |
+| [When Twilight Ends](https://open.spotify.com/track/58p2epzTksRN9FMFjuPP41) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [When Twilight Ends](https://open.spotify.com/album/7F8Mwos3myjAgQnvieeSF8) | 1:34 | 2023-04-05 |  |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-01-09 |  |
 | [Yamasá](https://open.spotify.com/track/5qmRevePYyVzWefMUjcdu3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:51 | 2022-10-26 |  |
 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-05-20 |  |

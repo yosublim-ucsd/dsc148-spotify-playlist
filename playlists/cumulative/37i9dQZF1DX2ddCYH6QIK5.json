@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Zylva, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: KID BE KID, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -432,6 +432,32 @@
       "duration_ms": 177464,
       "name": "Alles Scheisse",
       "url": "https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr"
+    },
+    {
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr"
+      },
+      "artists": [
+        {
+          "name": "Yannek Maunz",
+          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
+        },
+        {
+          "name": "Johanson",
+          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
+        },
+        {
+          "name": "Feral Garden",
+          "url": "https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343414,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F"
     },
     {
       "album": {
@@ -1015,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Beifahrersitz",
+        "url": "https://open.spotify.com/album/5P3FIlvGp6SwBVjgI0C5wc"
+      },
+      "artists": [
+        {
+          "name": "Holli",
+          "url": "https://open.spotify.com/artist/0mWMTIEvUdaNLWqfXg4Q7E"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313897,
+      "name": "Beifahrersitz",
+      "url": "https://open.spotify.com/track/7rs0VE9FDv69ooyms0oMMI"
+    },
+    {
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/4fxXduBgKbNpiOjq2DSZVT"
       },
@@ -1181,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Black Queens",
+        "url": "https://open.spotify.com/album/5rHj1I2UxgiUDdYXuyNeh1"
+      },
+      "artists": [
+        {
+          "name": "Queenwho",
+          "url": "https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Black Queens",
+      "url": "https://open.spotify.com/track/3YqRVv2RFWMQhcza2ZPrtc"
+    },
+    {
+      "album": {
         "name": "Black Sesame",
         "url": "https://open.spotify.com/album/1k1GjbmfI7V3vfuhQlTSEM"
       },
@@ -1282,7 +1344,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 256040,
       "name": "Blitz Und Feuer",
       "url": "https://open.spotify.com/track/0txsbML07fhtjr9cgZ9Zw4"
@@ -1344,7 +1406,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 184035,
       "name": "bloodline",
       "url": "https://open.spotify.com/track/5wYBgTWun7J3OR4hPYuUyF"
@@ -2746,7 +2808,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 206550,
       "name": "Dreamy Choices",
       "url": "https://open.spotify.com/track/69Q1bQjUYgC4EjOdrKmzGG"
@@ -3602,7 +3664,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 313986,
       "name": "Flashing Excitement",
       "url": "https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7"
@@ -3739,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Fresh Ownder",
+        "url": "https://open.spotify.com/album/1EFmBKBuSMIjIKaHxP3j1U"
+      },
+      "artists": [
+        {
+          "name": "TENH",
+          "url": "https://open.spotify.com/artist/5RXzeUUXqQa4lAM0jCqlXL"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313840,
+      "name": "Fresh Ownder",
+      "url": "https://open.spotify.com/track/7nQ5PX5BVvSbD9B9IGZQr2"
+    },
+    {
+      "album": {
         "name": "Am I Slow Enough?",
         "url": "https://open.spotify.com/album/44Q6i6BguYKfXJKGx3ZECo"
       },
@@ -3772,6 +3852,24 @@
       "duration_ms": 275153,
       "name": "Fruitarian Girl",
       "url": "https://open.spotify.com/track/2FknSy7oUAfNwbcfWRfL0U"
+    },
+    {
+      "album": {
+        "name": "Funk in the Kitchen (Dream)",
+        "url": "https://open.spotify.com/album/0DOMVwzV8rJRBpuaHEWlNO"
+      },
+      "artists": [
+        {
+          "name": "fastmusic",
+          "url": "https://open.spotify.com/artist/1w4OW3ZCKBl98RmOyYWYPG"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "Funk in the Kitchen (Dream)",
+      "url": "https://open.spotify.com/track/3PGbcUapVtltaMhNzZObxf"
     },
     {
       "album": {
@@ -4556,7 +4654,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 59863,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/79E4lV4arM5mzG8nwoNwkI"
@@ -4632,7 +4730,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 123200,
       "name": "Heavy Objects",
       "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
@@ -4690,6 +4788,24 @@
       "duration_ms": 227500,
       "name": "Hi-Res",
       "url": "https://open.spotify.com/track/2kaDDLAjDyxne96vNv1Cbj"
+    },
+    {
+      "album": {
+        "name": "Hide And Seek",
+        "url": "https://open.spotify.com/album/1KHPuMuMIVVXtJalNjkaVi"
+      },
+      "artists": [
+        {
+          "name": "DIMILA",
+          "url": "https://open.spotify.com/artist/1X7kdGnTbsIDXSDMYYpXI7"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "Hide And Seek",
+      "url": "https://open.spotify.com/track/3O7p4Q0e63OjkpD4dU7sjp"
     },
     {
       "album": {
@@ -6038,7 +6154,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 147835,
       "name": "Laura's Stern",
       "url": "https://open.spotify.com/track/4QAPoCZhTSWKO38zAmpZGh"
@@ -6540,6 +6656,24 @@
       "duration_ms": 257165,
       "name": "Love No Matter What",
       "url": "https://open.spotify.com/track/3qxO0Z9BUgFQJSiepeipts"
+    },
+    {
+      "album": {
+        "name": "Lovehandles",
+        "url": "https://open.spotify.com/album/3eqzCzNCa8zfiT779VdViv"
+      },
+      "artists": [
+        {
+          "name": "Eli Riccardi",
+          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127010,
+      "name": "Lovehandles",
+      "url": "https://open.spotify.com/track/3AsNe3RSFG6V08WBQCBXQN"
     },
     {
       "album": {
@@ -7351,6 +7485,24 @@
     },
     {
       "album": {
+        "name": "News Feed",
+        "url": "https://open.spotify.com/album/5wW5Tm8Pwo9xYpUOTeObBS"
+      },
+      "artists": [
+        {
+          "name": "KID BE KID",
+          "url": "https://open.spotify.com/artist/4rlOrE0uIPJVu8ZQy68AVD"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244674,
+      "name": "News Feed",
+      "url": "https://open.spotify.com/track/0PJ1n6xjYYcAC6hOjPqb69"
+    },
+    {
+      "album": {
         "name": "No Hero, That's Fine",
         "url": "https://open.spotify.com/album/7djkSeB0OSaTIJG1REj2A1"
       },
@@ -7398,7 +7550,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 378903,
       "name": "No Photos, No Exceptions",
       "url": "https://open.spotify.com/track/37v22hAV0P456DgqO2EbzY"
@@ -9475,6 +9627,24 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/56dqVzAD6hUdCKCzouo303"
+      },
+      "artists": [
+        {
+          "name": "Lioba",
+          "url": "https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195442,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/17EHQsJKw0njET2FH4toSc"
+    },
+    {
+      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/6pvPnoBxCmF1y7NLlTTZ0S"
       },
@@ -9529,6 +9699,24 @@
     },
     {
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/136KjenXU17uHA2hMcCZjX"
+      },
+      "artists": [
+        {
+          "name": "June Coc\u00f3",
+          "url": "https://open.spotify.com/artist/0g3Rqfcl1SIoXRZRF0uAGg"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177980,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/3ZVMe1SodbwNnUp5GgxWvL"
+    },
+    {
+      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/7L3bPL8G4KlolCW6bM8mo7"
       },
@@ -9540,7 +9728,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 208133,
       "name": "SOMA",
       "url": "https://open.spotify.com/track/2XpYV3u9TyH5xILSMIC7IJ"
@@ -10706,7 +10894,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 190000,
       "name": "Touch Base",
       "url": "https://open.spotify.com/track/6PGrQOOjHVqollpiX60S5g"
@@ -10800,7 +10988,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 162253,
       "name": "Transient Depths",
       "url": "https://open.spotify.com/track/33xs9s6sGzKcdRHNT0bkIz"
@@ -10984,6 +11172,28 @@
       "duration_ms": 148255,
       "name": "T\u00e4towier Mir Dein Namen",
       "url": "https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z"
+    },
+    {
+      "album": {
+        "name": "umgekippt",
+        "url": "https://open.spotify.com/album/7iNsOWU2ILVBKNHfAZ6bsR"
+      },
+      "artists": [
+        {
+          "name": "Akutkarl",
+          "url": "https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz"
+        },
+        {
+          "name": "DJ Test\u00f6",
+          "url": "https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160074,
+      "name": "umgekippt",
+      "url": "https://open.spotify.com/track/1LTUDOpkkw5QJ7ozohaAd3"
     },
     {
       "album": {

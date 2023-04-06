@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 689291,
+  "num_followers": 689414,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzNDkzMywwMDAwMDAwMGU0ODdlMDIyZmE3Yjc0YTdjZjNiM2U2Y2Q0NDU1M2Qw",
+  "snapshot_id": "MTY4MDAzNDkzMywwMDAwMDAwMDVjZDI2NjQ4Y2M5ZjBmM2E1YjEwNTJjY2YwN2JmZjZj",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
-      "added_at": "2023-04-05 00:42:52",
+      "added_at": "2023-04-06 00:45:05",
       "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
@@ -591,6 +591,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "the first glass beach album",
+        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "duration_ms": 138119,
+      "name": "cold weather",
+      "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Pyjamas (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
       },
@@ -611,22 +643,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "the first glass beach album",
-        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
-      },
-      "artists": [
-        {
-          "name": "glass beach",
-          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
-        }
-      ],
-      "duration_ms": 138119,
-      "name": "cold weather",
-      "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "All the Feels",
         "url": "https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 207925,
       "name": "I Just Wanna Shine",
       "url": "https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Hello, All!",
-        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "f**k it, i'm the man",
         "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "tryhard",
         "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 182840,
       "name": "Daphne Blue",
       "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Did I Make You Up?",
-        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "Did I Make You Up?",
-      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 227373,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Did I Make You Up?",
+        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "Did I Make You Up?",
+      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Live A Little",
         "url": "https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 169573,
       "name": "Live A Little",
       "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 231408,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sofa King",
-        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+      "duration_ms": 231408,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 165720,
       "name": "High",
       "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Castlecomer",
+        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+      },
+      "artists": [
+        {
+          "name": "Castlecomer",
+          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "If I Could Be Like You",
+      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Castlecomer",
-        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
-      },
-      "artists": [
-        {
-          "name": "Castlecomer",
-          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "If I Could Be Like You",
-      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD"
+        "name": "Bright Blues",
+        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
         }
       ],
-      "duration_ms": 136940,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3"
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
     }
   ],
   "unique_name": "It's ALT Good!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=XJYpcsMLTPC\-bMZw7RfAcg">Lloyiso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,948 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,071 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

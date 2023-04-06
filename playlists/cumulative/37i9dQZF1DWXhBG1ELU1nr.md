@@ -4,7 +4,7 @@
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-165 songs - 12 hr 8 min
+166 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Creep](https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 5:32 | 2020-07-07 | 2022-07-29 |
 | [Creep \- 2017 Remaster](https://open.spotify.com/track/6dmueYtoihUhlQZlImBCmm) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:34 | 2022-07-04 |  |
 | [Creep \- New Version; 2017 Remaster](https://open.spotify.com/track/0PYVTx3BHoEJ09TlTyamoF) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core \(Super Deluxe Edition\)](https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC) | 5:34 | 2022-07-04 | 2022-11-13 |
-| [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 | 2020-07-07 |  |
+| [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 | 2020-07-07 | 2023-04-06 |
+| [Cryin'](https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:08 | 2022-07-04 |  |
 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 | 2020-07-07 | 2022-09-15 |
 | [Céu Azul \- Ao Vivo](https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara: Edição Luxo \(Ao Vivo\)](https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y) | 3:20 | 2022-07-04 |  |
 | [Céu Azul \- Bônus](https://open.spotify.com/track/72ixDzGyAl95LfCKuIa7TD) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/4j8gmVMG1HM5oNyKRYNJWB) | 3:18 | 2022-07-04 | 2022-11-13 |

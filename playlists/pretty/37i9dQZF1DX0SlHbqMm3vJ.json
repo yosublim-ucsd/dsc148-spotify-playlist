@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Magixx",
-  "num_followers": 192786,
+  "num_followers": 192938,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDA2YTkyNWZmZDBlZGZkOTkyZGUwZmYwNGVlZDZmMWQw",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGIwYmRiOTY2ODhhYzY3ZThmMWYwNTE3MjZhMThjNDQw",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Sempe (Acoustic)",
-        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Sempe - Acoustic",
-      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "GANGSTER ROMANTIC",
-        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 175031,
-      "name": "IYD",
-      "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "GANGSTER ROMANTIC",
+        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 175031,
+      "name": "IYD",
+      "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
+        "name": "Gbese",
+        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
       },
       "artists": [
         {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+      "duration_ms": 162991,
+      "name": "Gbese",
+      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -995,22 +999,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Gbese",
-        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 162991,
-      "name": "Gbese",
-      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
       "added_at": "2023-03-30 23:00:00",

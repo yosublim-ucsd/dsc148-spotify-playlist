@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: CAMO\(카모\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-429 songs - 23 hr 43 min
+430 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-09-21 |  |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-02-14 | 2022-07-29 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 |  |
-| [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 |  |
+| [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2023-04-06 |
 | [Do 4 Me](https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [2nd EP Album ‘Bipolar Pt.2 Prelude of Love’](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) | 3:19 | 2022-03-22 | 2022-04-15 |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-03-22 | 2022-08-13 |
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2021-12-20 | 2022-07-23 |
@@ -111,6 +111,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-03 | 2022-04-09 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-20 |  |
 | [EMPIRE \- DJ SODA Remix](https://open.spotify.com/track/16xaH0SITy9R8nOT13pg6J) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [EMPIRE REMIXES](https://open.spotify.com/album/2faf1Ybp0M3FniNBhjD9VH) | 2:45 | 2022-02-23 | 2022-04-29 |
+| [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-31 |  |
 | [EVERYDAY \(REMIX\)](https://open.spotify.com/track/7hGOGkxcAojrklrol5kkU0) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 3:20 | 2022-03-22 | 2022-04-11 |
 | [Everywhere \(feat\. Sojung\)](https://open.spotify.com/track/6ZXE8tjsYMewC160pFbs6s) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [Sojung](https://open.spotify.com/artist/2H8ECVLR3q013YhJezQ1o7) | [Everywhere](https://open.spotify.com/album/2Sy2nTlBd6b89z1OqbUYRy) | 3:36 | 2022-07-19 | 2022-07-28 |
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2021-12-20 | 2022-04-16 |

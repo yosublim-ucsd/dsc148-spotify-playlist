@@ -1,12 +1,12 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: boygenius",
-  "num_followers": 1028131,
+  "num_followers": 1028220,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDZjODkyMjBiNmYxNzI1MWUyY2ExMjE3MzM2MWFmMjAy",
+  "snapshot_id": "MTY4MDcxMjU2NCwwMDAwMDAwMDYzY2VkMzE4NTZhNjlkYWMxZWUwZjEyNDIxYmZmYWM5",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -37,6 +37,22 @@
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 163785,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
+    },
+    {
       "added_at": "2023-03-29 04:41:36",
       "album": {
         "name": "Dive",
@@ -53,6 +69,42 @@
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "After Midnight (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "After Midnight (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Warning Sign",
@@ -67,6 +119,42 @@
       "duration_ms": 206012,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
+    },
+    {
+      "added_at": "2023-03-26 04:12:39",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "duration_ms": 248928,
+      "name": "Peppers (feat. Tommy Genesis)",
+      "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
+    },
+    {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "Salad",
+        "url": "https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 274347,
+      "name": "Salad",
+      "url": "https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -125,6 +213,30 @@
       "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
     },
     {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 588139,
+      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
+    },
+    {
       "added_at": "2023-03-21 15:53:36",
       "album": {
         "name": "Boyhood",
@@ -157,24 +269,20 @@
       "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
     },
     {
-      "added_at": "2023-03-26 04:12:39",
+      "added_at": "2023-04-05 16:36:03",
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 248928,
-      "name": "Peppers (feat. Tommy Genesis)",
-      "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
+      "duration_ms": 227760,
+      "name": "The Blonde",
+      "url": "https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -239,6 +347,22 @@
       "duration_ms": 182400,
       "name": "Momentary Sweetheart",
       "url": "https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK"
+    },
+    {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "A\u00e7a\u00ed Bowl",
+        "url": "https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "A\u00e7a\u00ed Bowl",
+      "url": "https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -653,6 +777,22 @@
       "url": "https://open.spotify.com/track/0sf3xGYw4tYQAWJpfPALJH"
     },
     {
+      "added_at": "2023-04-05 16:36:03",
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "like everyone else",
@@ -865,22 +1005,6 @@
       "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
     },
     {
-      "added_at": "2023-03-06 19:56:22",
-      "album": {
-        "name": "fuzz",
-        "url": "https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "fuzz",
-      "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
-    },
-    {
       "added_at": "2023-02-08 17:16:44",
       "album": {
         "name": "House Song",
@@ -1047,22 +1171,6 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
-    },
-    {
-      "added_at": "2023-02-21 17:11:04",
-      "album": {
-        "name": "extra life",
-        "url": "https://open.spotify.com/album/2Aievrt0QBfOlhWmvvsOsN"
-      },
-      "artists": [
-        {
-          "name": "crushed",
-          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
-        }
-      ],
-      "duration_ms": 336293,
-      "name": "milksugar",
-      "url": "https://open.spotify.com/track/0i2Jqb94Sproa7BVv9pwd8"
     },
     {
       "added_at": "2023-02-08 17:16:44",

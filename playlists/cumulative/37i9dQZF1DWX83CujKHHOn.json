@@ -1777,7 +1777,7 @@
     },
     {
       "album": {
-        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
       "artists": [
@@ -3504,6 +3504,24 @@
     {
       "album": {
         "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
       "artists": [
@@ -3514,7 +3532,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZHH9aoZjrqtFk1SX1dXy7"

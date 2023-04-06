@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: KANA\-BOON
 
-111 songs - 6 hr 16 min
+112 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 | 2023-02-09 | 2023-03-25 |
 | [Hey baby!](https://open.spotify.com/track/0MyB2GqSgFY5pK37jHSSH3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Dejavu](https://open.spotify.com/album/1wEHnUyeTsnlJFXuh5dWBY) | 2:35 | 2023-02-23 |  |
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-03-03 | 2023-03-18 |
-| [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 | 2023-03-17 |  |
+| [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 | 2023-03-17 | 2023-04-06 |
 | [Hitoriuta \~September How YOU doin'?\~](https://open.spotify.com/track/6ABICqJ7vqiDjP97ggD4TJ) | [Ujita Mai](https://open.spotify.com/artist/6AnqPUKLgWAkXJAFLrSoBf) | [Hitoriuta \~September How YOU doin'?\~](https://open.spotify.com/album/1LoaaFwNrpyiIZRx93kmGi) | 3:17 | 2023-01-26 | 2023-02-24 |
 | [Hoodstar +](https://open.spotify.com/track/1cAX2R2IHZapREX4esktMW) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Hoodstar +](https://open.spotify.com/album/5bw7lOzrONH3nG39JrSWwM) | 8:24 | 2023-01-26 | 2023-02-03 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0Ts1lnK3lYa2dwE2orDJc5) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:08 | 2023-02-23 |  |
@@ -78,7 +78,8 @@
 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 | 2023-02-02 | 2023-02-24 |
 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 | 2023-02-23 |  |
 | [Tsubomihirakeba](https://open.spotify.com/track/6pscGY4ocMjH2EUnVVgniQ) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Tsubomihirakeba](https://open.spotify.com/album/2gG2uR97vtS75PciAlDPU3) | 3:29 | 2023-01-26 | 2023-02-10 |
-| [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-02 |  |
+| [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-02 | 2023-04-06 |
+| [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-04-05 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-01 | 2023-03-25 |
 | [Twerk](https://open.spotify.com/track/1t1aGqZkoJzfVGez7vxHxk) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Twerk](https://open.spotify.com/album/79XEt2UODb6oAWgh9sGmnI) | 2:28 | 2023-02-01 | 2023-03-03 |
 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 | 2023-01-26 | 2023-03-03 |

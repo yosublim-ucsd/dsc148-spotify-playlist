@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,036 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,041 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 34 | [Up & Up](https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:09 |
 | 35 | [Wileside Government](https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9) | 3:22 |
 | 36 | [Like Dat](https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy) | 2:16 |
-| 37 | [Up Top Boss](https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07) | 3:30 |
-| 38 | [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 |
+| 37 | [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 |
+| 38 | [Up Top Boss](https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07) | 3:30 |
 | 39 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/5mAQyL3DBWxpNtpBU4LL6m) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Yuh Bad Riddim \(Soca 2020 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL) | 3:14 |
 | 40 | [Captain](https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6) | 3:50 |
 | 41 | [Ba Ba Ben \- Remix](https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Noah Powa](https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN), [Lil Rick](https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA) | [Ba Ba Ben \(Remix\)](https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug) | 3:25 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGQ1NjA3ZTBjOTBiNWI3MGIzMjQzNDExY2YzYjA4YjEy`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDI1YTgwYTIyMTBlNDk0MGY0NmE5N2RjZTRmZmJiYWNm`

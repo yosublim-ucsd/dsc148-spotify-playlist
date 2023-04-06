@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-757 songs - 2 day 1 hr 44 min
+758 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Earthbound](https://open.spotify.com/track/1MQ8iWOA8dkFLX744wq1fX) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Earthbound](https://open.spotify.com/album/6NrVNDu3HnJRPAD3eiGaKv) | 2:45 | 2023-02-10 | 2023-02-25 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
 | [Eastern Lights](https://open.spotify.com/track/0pB9l6GPqjwH46cbxLAVnJ) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Eastern Lights](https://open.spotify.com/album/1uxm5mezOuEInR9LE7By5Z) | 4:11 | 2021-12-10 | 2022-07-29 |
-| [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-03-17 |  |
+| [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-03-17 | 2023-04-06 |
 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 | 2022-01-21 | 2022-04-16 |
 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 | 2022-09-17 | 2022-10-06 |
 | [eee](https://open.spotify.com/track/0acffaX5iSeZRT6QsorKPA) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF), [Abraham Tilbury](https://open.spotify.com/artist/4aQXVB8RpVJTrpQoKdkE4M) | [eee](https://open.spotify.com/album/7rnN1mCHS0lELUTV48yDyZ) | 3:06 | 2022-02-18 | 2022-07-29 |
@@ -517,6 +517,7 @@
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2021-07-01 | 2022-11-19 |
 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 | 2022-05-20 | 2022-07-29 |
 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I) | 3:41 | 2022-05-20 | 2023-01-06 |
+| [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-03-31 |  |
 | [Peur des filles](https://open.spotify.com/track/2PfPIIxUiH9Y7miXqiQdqv) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Peur des filles](https://open.spotify.com/album/1t76mptgTSXtLPWL3Zj4xv) | 3:28 | 2021-01-08 | 2023-02-25 |
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-09 | 2023-01-21 |
 | [Picnic](https://open.spotify.com/track/1lfVngSLGVB7016sN7aT4P) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/6YkBuXdyyWlsSTI1hmcXm3) | 5:38 | 2022-03-25 | 2022-04-12 |

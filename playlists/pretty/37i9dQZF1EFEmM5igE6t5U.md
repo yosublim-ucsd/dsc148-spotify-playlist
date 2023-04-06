@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 179 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 179 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 157 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 158 | [Skydive \(Unlocked\)](https://open.spotify.com/track/2NkTPQXGYgEK1yshkio7Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:03 |
 | 159 | [Typewriter](https://open.spotify.com/track/4cW56ih15Z3qqnUHUGcXL1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:10 |
-| 160 | [Everybody Needs Love](https://open.spotify.com/track/5RUl2R5ZfqmgC7MKRH4BGX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:14 |
-| 161 | [Is It Insane \(Unlocked\)](https://open.spotify.com/track/4YtdthKvxbTT7pgtuq2tVR) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:27 |
+| 160 | [Is It Insane \(Unlocked\)](https://open.spotify.com/track/4YtdthKvxbTT7pgtuq2tVR) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:27 |
+| 161 | [Everybody Needs Love](https://open.spotify.com/track/5RUl2R5ZfqmgC7MKRH4BGX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:14 |
 | 162 | [Old Memories \(Unlocked\)](https://open.spotify.com/track/6RS5y5qPXhKajRP9jcPFPQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:52 |
 | 163 | [Lover Man](https://open.spotify.com/track/0fd2VAl5qavRPNvVHnRvve) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Try Sleeping With A Broken Heart \- EP](https://open.spotify.com/album/0O6CKntngnQvTRUvnWjVac) | 3:16 |
 | 164 | [2 Train](https://open.spotify.com/track/5GER7MdRLsONjwA1OIqjS8) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Mario](https://open.spotify.com/album/3FUuG8yhvsXhWMm776RWBQ) | 4:03 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 178 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 179 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgwMTA5MDksMDAwMDAwMDA2OTAwYWI2MDgwYjI1YmFhMmRhNzgwOWJiODlkNWEwZA==`
+Snapshot ID: `MjgwMTIzNDgsMDAwMDAwMDBhMDNjOTYzMTk3MjBjNWQyZWE4M2RhMjZlNzgzOTgwNw==`

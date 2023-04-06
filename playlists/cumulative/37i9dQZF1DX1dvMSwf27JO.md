@@ -4,7 +4,7 @@
 
 > drip down
 
-380 songs - 20 hr 33 min
+382 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2022-09-13 | 2022-10-08 |
 | [F\*\*kin' Problems \(feat\. Drake, 2 Chainz & Kendrick Lamar\)](https://open.spotify.com/track/4XoP1AkbOurU9CeZ2rMEz2) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w) | 3:53 | 2021-10-15 | 2022-07-12 |
 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 | 2022-09-02 |  |
+| [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 | 2023-04-05 |  |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2022-07-01 |  |
 | [Favorite \(feat\. Duckwrth\)](https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Ru AREYOU](https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB) | [Favorite \(feat\. Duckwrth\)](https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8) | 2:19 | 2022-01-28 |  |
 | [Feel so Good](https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:23 | 2023-03-21 |  |
@@ -196,7 +197,8 @@
 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 | 2022-07-29 | 2022-12-17 |
 | [Loud Pipes](https://open.spotify.com/track/3qkFIjYRInFasy2jeDZPgm) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 3:46 | 2022-07-20 | 2022-09-15 |
 | [Love Is Colder Than Death \- EP Version](https://open.spotify.com/track/2hVrpre59KNAjQZUFfLvsV) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins '07](https://open.spotify.com/album/2p2mm8HOAJooRqiQf7KV1O) | 3:24 | 2022-09-13 | 2022-10-08 |
-| [Love U](https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Hitler Wears Hermes 7](https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp) | 1:01 | 2023-01-17 |  |
+| [Love U](https://open.spotify.com/track/0uaYHM2SGtMr5Rav2qHo77) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Hitler Wears Hermes 7](https://open.spotify.com/album/4IpYr0pM7QsoHGBnNdrI3d) | 1:01 | 2023-03-03 |  |
+| [Love U](https://open.spotify.com/track/1crT4b1YmKckWpK23mSnnO) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Hitler Wears Hermes 7](https://open.spotify.com/album/1aefUsOlozdtYI6ukHvrpp) | 1:01 | 2023-01-17 | 2023-04-06 |
 | [Love, Love, Love](https://open.spotify.com/track/1qHiPcXSx07s8WLOkwiJcs) | [Basa Basa](https://open.spotify.com/artist/699lZFg1YHsQCg9WOQkecl) | [Homowo](https://open.spotify.com/album/4eK9uta9LmaxMUcBFbTbS2) | 4:42 | 2022-09-13 | 2022-10-08 |
 | [LOVE, STARGIRL](https://open.spotify.com/track/1AgJta10Dm76yA5uz7EuTV) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [SURF](https://open.spotify.com/album/4tqKTPbidKIGn9UIZe5I73) | 2:16 | 2022-07-29 | 2022-08-13 |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2021-08-05 | 2022-07-29 |

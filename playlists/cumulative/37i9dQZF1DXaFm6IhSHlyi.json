@@ -2703,6 +2703,28 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170156,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
+    },
+    {
+      "album": {
         "name": "Paubaya",
         "url": "https://open.spotify.com/album/10rSYwOZH2D4t1J3iu70Jz"
       },
@@ -3078,7 +3100,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"

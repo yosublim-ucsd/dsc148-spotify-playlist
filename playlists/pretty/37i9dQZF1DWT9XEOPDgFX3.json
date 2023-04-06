@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: hey, nothing",
-  "num_followers": 64000,
+  "num_followers": 64084,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyNzMwMCwwMDAwMDAwMDFlMzRiYjllMWMzOWU3ZDQ5Y2EzMTVhY2I2NjI5ZGIz",
+  "snapshot_id": "MTY4MDYyNzMwMCwwMDAwMDAwMGE4NzQ4OTE0MTZjNjA3OTUzNjVjMzA3MTk0NDUyMWVm",
   "tracks": [
     {
       "added_at": "2023-04-04 16:55:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 553213,
-      "name": "Snow Globes",
-      "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 553213,
+      "name": "Snow Globes",
+      "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 97643,
       "name": "lesson",
       "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
         "name": "Rare Feeling",
         "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 245849,
       "name": "Dear Mexico (Thank You for Joyce)",
       "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "bc i love you",
+        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 237052,
+      "name": "bc i love you",
+      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "bc i love you",
-        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 237052,
-      "name": "bc i love you",
-      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Making You Up",
-        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 219595,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Out of My Province",
         "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 287150,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "Making You Up",
+        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 219595,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Smashed Up My Fender",
-        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Smashed Up My Fender",
-      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 235587,
       "name": "Gossamer",
       "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "Smashed Up My Fender",
+        "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Smashed Up My Fender",
+      "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Old Peel",
-        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 196802,
-      "name": "Old Peel",
-      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "Old Peel",
+        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 196802,
+      "name": "Old Peel",
+      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Salt Circle",
-        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
-      },
-      "artists": [
-        {
-          "name": "Eliza McLamb",
-          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
-        }
-      ],
-      "duration_ms": 260721,
-      "name": "Salt Circle",
-      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
+        "name": "Salt Circle",
+        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "duration_ms": 260721,
+      "name": "Salt Circle",
+      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "EC",
-        "url": "https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO"
+        "name": "At the Moonbase",
+        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
       },
       "artists": [
         {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 113692,
-      "name": "EC",
-      "url": "https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR"
+      "duration_ms": 283536,
+      "name": "Do You Understand (What Has Happened to You)",
+      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "At the Moonbase",
-        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
+        "name": "EC",
+        "url": "https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO"
       },
       "artists": [
         {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
         }
       ],
-      "duration_ms": 283536,
-      "name": "Do You Understand (What Has Happened to You)",
-      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
+      "duration_ms": 113692,
+      "name": "EC",
+      "url": "https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
         "name": "Valley",
         "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 209386,
       "name": "Valley",
       "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2023-04-04 16:55:00",
+      "album": {
         "name": "needy",
         "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 232419,
       "name": "needy",
       "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
-    },
-    {
-      "added_at": "2023-04-04 16:55:00",
-      "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     },
     {
       "added_at": "2023-04-04 16:55:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2023-04-04 16:55:00",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5"
+        "name": "VBS",
+        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
       "artists": [
         {
-          "name": "Lael Neale",
-          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 170497,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7"
+      "duration_ms": 236864,
+      "name": "VBS",
+      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
     }
   ],
   "unique_name": "Folk Arc",

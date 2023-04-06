@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 920750,
+  "num_followers": 921248,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDc2OTAyODM4NDA0MzVhMjgyNTZkMzU0MjBjNzU1OGJk",
+  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDZiYzZmN2Q2YTM5MzJmNjJjOTczNDhhZjdhYWQyZjlh",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
     },
     {
-      "added_at": "2023-04-05 01:01:20",
+      "added_at": "2023-04-06 00:55:00",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 174398,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Kind Reminder",
         "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 308360,
       "name": "Whatta Man",
       "url": "https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Meters",
-        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Cissy Strut",
-      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A funk odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Meters",
+        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Saturday Songs",
-        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Get Down Saturday Night",
-      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 205162,
       "name": "Madiba Riddim",
       "url": "https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Saturday Songs",
+        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Maxwell's Urban Hang Suite",
         "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 257670,
       "name": "Sumthin' Sumthin' - Remastered 2021",
       "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "C'est Chic (2018 Remaster)",
         "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 413586,
       "name": "I Want Your Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 184938,
       "name": "Petit Prince Du Macadam",
       "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Spinning the Wheel",
-      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Children Of The World",
         "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 206160,
       "name": "You Stepped Into My Life",
       "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Spinning the Wheel",
+      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Rewind - The Collection",
         "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 237373,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/49eAIPivcw5idA57ZWnp5h"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Have A Talk With God",
-      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Much Love",
         "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
       },
@@ -2151,18 +2135,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Live from the Artists Den: Season 2",
-        "url": "https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 268853,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
+      "duration_ms": 162400,
+      "name": "Have A Talk With God",
+      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2183,18 +2167,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
+        "name": "Live from the Artists Den: Season 2",
+        "url": "https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG"
       },
       "artists": [
         {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 226840,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/64WxLGjquEiDypddXZgggY"
+      "duration_ms": 268853,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2211,6 +2195,22 @@
       "duration_ms": 217466,
       "name": "Let's Get Lifted",
       "url": "https://open.spotify.com/track/5m4rsr2D2uwMgOgORtpxSA"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/64WxLGjquEiDypddXZgggY"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2263,18 +2263,34 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Loose Tonight",
-        "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
       },
       "artists": [
         {
-          "name": "Hips",
-          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Loose Tonight",
-      "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
+      "duration_ms": 218027,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2299,34 +2315,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
+        "name": "Loose Tonight",
+        "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
       },
       "artists": [
         {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+          "name": "Hips",
+          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
         }
       ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
-      },
-      "artists": [
-        {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
-        }
-      ],
-      "duration_ms": 218027,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+      "duration_ms": 272333,
+      "name": "Loose Tonight",
+      "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Living My Life",
-        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 362293,
-      "name": "My Jamaican Guy",
-      "url": "https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 206160,
       "name": "Fool to Love",
       "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Living My Life",
+        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "My Jamaican Guy",
+      "url": "https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE"
     },
     {
       "added_at": "2023-02-10 11:00:00",

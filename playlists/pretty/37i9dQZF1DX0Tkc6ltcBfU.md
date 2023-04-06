@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,566 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,899 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is) | 2:49 |
-| 2 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 |
+| 2 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 |
 | 3 | [Honey Bun](https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Honey Bun](https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7) | 2:14 |
 | 4 | [Fight The Feeling](https://open.spotify.com/track/7l6nGz4gp6HGs5Cvmdeqe4) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Fight The Feeling](https://open.spotify.com/album/59tAwDdjCaaS05aoSHuqv0) | 2:40 |
 | 5 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |

@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-243 songs - 15 hr 14 min
+244 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-11-19 | 2023-01-04 |
 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2022-10-17 |  |
 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 | 2021-11-19 | 2023-03-01 |
+| [Patience](https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10) | 2:50 | 2022-10-17 |  |
 | [Paubaya](https://open.spotify.com/track/6KfGuMyhHwuQtMSBvQ02pI) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Paubaya](https://open.spotify.com/album/10rSYwOZH2D4t1J3iu70Jz) | 4:42 | 2021-11-19 |  |
 | [Perfect Symphony \(Ed Sheeran & Andrea Bocelli\)](https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Perfect Symphony \(Ed Sheeran & Andrea Bocelli\)](https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O) | 4:25 | 2021-11-19 |  |
 | [Photo of My Mind](https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs) | 4:32 | 2021-11-19 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [Sick](https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3) | 3:59 | 2022-10-17 |  |
 | [Sick](https://open.spotify.com/track/0PNe1yHadbi9T3hWSVn1VT) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/1xZL1jkPq4gjt116V9GrYL) | 3:59 | 2022-06-16 | 2023-03-02 |
 | [Sick](https://open.spotify.com/track/5iPUaIFK1NW6gzPxxm32Ds) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [Sick](https://open.spotify.com/album/6TTWmDPxy1IDIl6MB1ENOY) | 3:59 | 2021-11-19 | 2022-07-29 |
-| [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 |  |
+| [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 | 2023-04-06 |
 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 | 2021-11-19 |  |
 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 | 2022-06-16 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-11-19 |  |

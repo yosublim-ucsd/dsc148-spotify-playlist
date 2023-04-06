@@ -1,13 +1,29 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Tiny Habits | Visual Artist: Bailey Elder",
-  "num_followers": 34857,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Superviolet | Visual Artist: Bailey Elder",
+  "num_followers": 35011,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEwNTYwMCwwMDAwMDAwMGNkYTc4MDI1N2E0YTNkMzJhMGQyZmRmZjIzY2VhNDUw",
+  "snapshot_id": "MTY4MDcwOTgxMiwwMDAwMDAwMDQ5ODYyMjFhMzA1ODExNzA1NzU3YzY4OTI2NTUwYTAw",
   "tracks": [
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Big Songbirds Don\u2019t Cry",
+        "url": "https://open.spotify.com/album/1jRzU7XRaMYyoNAHniaWMI"
+      },
+      "artists": [
+        {
+          "name": "Superviolet",
+          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Big Songbirds Don't Cry",
+      "url": "https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4"
+    },
     {
       "added_at": "2023-03-29 16:00:00",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 231573,
       "name": "Bindi in the Dirt",
       "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Favorite Kind of High",
+        "url": "https://open.spotify.com/album/0L7jKWeMm89p7p3jqmM0SN"
+      },
+      "artists": [
+        {
+          "name": "Sun Child",
+          "url": "https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX"
+        }
+      ],
+      "duration_ms": 218325,
+      "name": "Favorite Kind of High",
+      "url": "https://open.spotify.com/track/556Fu8XOuzSrpZ8Pg6ERTW"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Far From You",
+        "url": "https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        }
+      ],
+      "duration_ms": 272315,
+      "name": "Far From You",
+      "url": "https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Missouri",
+        "url": "https://open.spotify.com/album/6pPkoDIyFQVJxQEsN6UDK5"
+      },
+      "artists": [
+        {
+          "name": "Mad Lasso",
+          "url": "https://open.spotify.com/artist/0drJ853A34mCYZu147O9qZ"
+        }
+      ],
+      "duration_ms": 201054,
+      "name": "Missouri",
+      "url": "https://open.spotify.com/track/6FBSvyX4sfOWkBJTZWh8jD"
     },
     {
       "added_at": "2023-03-29 16:00:00",
@@ -45,6 +109,22 @@
       "url": "https://open.spotify.com/track/1g9rH9FM2IFGK6hKzLt2SJ"
     },
     {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Carry On, Carry On",
+        "url": "https://open.spotify.com/album/5uO7MsWs3sWJk1srtkI2cV"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 211829,
+      "name": "Carry On, Carry On",
+      "url": "https://open.spotify.com/track/71oV1c3BbqyLnKKwxRJRCy"
+    },
+    {
       "added_at": "2023-03-29 16:00:00",
       "album": {
         "name": "Tell Me That You Love Me",
@@ -63,6 +143,22 @@
     {
       "added_at": "2023-03-29 16:00:00",
       "album": {
+        "name": "Mud-Stained Dress",
+        "url": "https://open.spotify.com/album/1ScTCc2fd94YmuOvp4JAw7"
+      },
+      "artists": [
+        {
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+        }
+      ],
+      "duration_ms": 206755,
+      "name": "Mud-Stained Dress",
+      "url": "https://open.spotify.com/track/0KGVvElibdS6uNbpfRpN8o"
+    },
+    {
+      "added_at": "2023-03-29 16:00:00",
+      "album": {
         "name": "my dove (demo)",
         "url": "https://open.spotify.com/album/5kQPmMqFJ3Nnoj1pIxevAr"
       },
@@ -77,20 +173,204 @@
       "url": "https://open.spotify.com/track/65WMXVLyYQp2B8ugWktIFC"
     },
     {
-      "added_at": "2023-03-29 16:00:00",
+      "added_at": "2023-04-05 15:42:09",
       "album": {
-        "name": "All At Once",
-        "url": "https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO"
+        "name": "All of This Beauty",
+        "url": "https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja"
       },
       "artists": [
         {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+          "name": "Izzy Heltai",
+          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
         }
       ],
-      "duration_ms": 227352,
-      "name": "All At Once",
-      "url": "https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi"
+      "duration_ms": 128266,
+      "name": "All of This Beauty",
+      "url": "https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Camp Cool",
+        "url": "https://open.spotify.com/album/3nd5cH8l7vUXU16mAZaHkN"
+      },
+      "artists": [
+        {
+          "name": "Cam Cool",
+          "url": "https://open.spotify.com/artist/3suMIzyPYmZsVVIhYKTjjx"
+        }
+      ],
+      "duration_ms": 256625,
+      "name": "Digital Game Time",
+      "url": "https://open.spotify.com/track/758Ndjv1rycBx1wvrz909k"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Birthright",
+        "url": "https://open.spotify.com/album/4sLhDDf6wLURdRLk8feDVY"
+      },
+      "artists": [
+        {
+          "name": "Finn Brodie",
+          "url": "https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Birthright",
+      "url": "https://open.spotify.com/track/5zzj3Zhdu5CJW8B9Q41HPn"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Dog or Baby",
+        "url": "https://open.spotify.com/album/6RvD4WoxEhhhEEXPOyZu7J"
+      },
+      "artists": [
+        {
+          "name": "Emma Frank",
+          "url": "https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Dog or Baby",
+      "url": "https://open.spotify.com/track/2OxIWC9FjaZueYWAfA0YAF"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Wild Wind",
+        "url": "https://open.spotify.com/album/20BjnjLcpcDGhxTyzg9Ipz"
+      },
+      "artists": [
+        {
+          "name": "Joey Hendricks",
+          "url": "https://open.spotify.com/artist/3QhaBtqxJgyreg7CO1wjCV"
+        }
+      ],
+      "duration_ms": 174020,
+      "name": "Wild Wind",
+      "url": "https://open.spotify.com/track/72EbGRAdgdlTcn3vNGfqgG"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "you make life a little better",
+        "url": "https://open.spotify.com/album/4WvvqwPScwoArXRypCm7sb"
+      },
+      "artists": [
+        {
+          "name": "valentina cy",
+          "url": "https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "you make life a little better",
+      "url": "https://open.spotify.com/track/1aNW9nydMLMKEhTozzZ9pV"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Apology From Hades",
+        "url": "https://open.spotify.com/album/5Tbe6BM9sHpbI1cJ5vHOu1"
+      },
+      "artists": [
+        {
+          "name": "Mother Juniper",
+          "url": "https://open.spotify.com/artist/0shJpWV36dxbXdniaiXDm8"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Apology From Hades",
+      "url": "https://open.spotify.com/track/1z8OSNeSVGqlJ3jiqKLc3R"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "When The Trouble's All Done",
+        "url": "https://open.spotify.com/album/29hwr6aTkvh1Oq2cXRI2aa"
+      },
+      "artists": [
+        {
+          "name": "Ellie Turner",
+          "url": "https://open.spotify.com/artist/1bPQDG6agXz5IWtuUCeJeg"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "If That Ocean's Still Blue",
+      "url": "https://open.spotify.com/track/6KzFvsUBJTyuOsnxzwwjzj"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/3CHiv61vD2CDB7Od4alOta"
+      },
+      "artists": [
+        {
+          "name": "Meredith Moon",
+          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
+        }
+      ],
+      "duration_ms": 224486,
+      "name": "I Loved That Town",
+      "url": "https://open.spotify.com/track/19ZCyJSkkhnpOS6OIn9rHz"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "You Only Get a Few",
+        "url": "https://open.spotify.com/album/02l94jHKe5qTTcSGyaGIZX"
+      },
+      "artists": [
+        {
+          "name": "Upstate",
+          "url": "https://open.spotify.com/artist/5IBYZJRx7uNdYeMBYK5g8J"
+        }
+      ],
+      "duration_ms": 175943,
+      "name": "I'll Come Around",
+      "url": "https://open.spotify.com/track/6VFQU2lCmdFQLPF5CAmUsm"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/1tcpIzJmy9nLExvj9TWYzP"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Marcyes",
+          "url": "https://open.spotify.com/artist/20XswVKXwQujBBB0s9xMwU"
+        },
+        {
+          "name": "Mikayla McVey",
+          "url": "https://open.spotify.com/artist/0EG8z93TSrPjSOi1dYVxtb"
+        },
+        {
+          "name": "Catch Prichard",
+          "url": "https://open.spotify.com/artist/4fGnksIEapOHDbvWOYPCW5"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7xRhhe1Lg7Mwi1hSjeRCaZ"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj"
+      },
+      "artists": [
+        {
+          "name": "Anna St. Louis",
+          "url": "https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk"
     },
     {
       "added_at": "2023-03-29 16:00:00",
@@ -127,6 +407,54 @@
     {
       "added_at": "2023-03-29 16:00:00",
       "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 227352,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "The Empress",
+        "url": "https://open.spotify.com/album/46rqgDr8lEce9hwnT59TRW"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "duration_ms": 118375,
+      "name": "The Empress",
+      "url": "https://open.spotify.com/track/4tFMZjv7dJxrKfKxoTv0bl"
+    },
+    {
+      "added_at": "2023-04-05 15:42:09",
+      "album": {
+        "name": "Common Nation Of Sorrow",
+        "url": "https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Some Strange Notion",
+      "url": "https://open.spotify.com/track/7qMzRL2ZVDVyZk1QCFuvE8"
+    },
+    {
+      "added_at": "2023-03-29 16:00:00",
+      "album": {
         "name": "Bug",
         "url": "https://open.spotify.com/album/33ZVNH3uSPkKWwMqBXSlyn"
       },
@@ -143,18 +471,38 @@
     {
       "added_at": "2023-03-29 16:00:00",
       "album": {
-        "name": "Mud-Stained Dress",
-        "url": "https://open.spotify.com/album/1ScTCc2fd94YmuOvp4JAw7"
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
       },
       "artists": [
         {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 206755,
-      "name": "Mud-Stained Dress",
-      "url": "https://open.spotify.com/track/0KGVvElibdS6uNbpfRpN8o"
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "added_at": "2023-03-29 16:00:00",
+      "album": {
+        "name": "multiverse",
+        "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
+      },
+      "artists": [
+        {
+          "name": "Maya Manuela",
+          "url": "https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw"
+        },
+        {
+          "name": "PEMBROKE",
+          "url": "https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE"
+        }
+      ],
+      "duration_ms": 179224,
+      "name": "multiverse",
+      "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
     },
     {
       "added_at": "2023-03-29 16:00:00",
@@ -171,6 +519,22 @@
       "duration_ms": 200837,
       "name": "Keeps Me Up At Night",
       "url": "https://open.spotify.com/track/3RR9bl1XYsfYbIi0LLQMSw"
+    },
+    {
+      "added_at": "2023-03-29 16:00:00",
+      "album": {
+        "name": "The Former",
+        "url": "https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "The Former",
+      "url": "https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT"
     },
     {
       "added_at": "2023-03-29 16:00:00",
@@ -203,26 +567,6 @@
       "duration_ms": 188709,
       "name": "Give Me The Moon",
       "url": "https://open.spotify.com/track/7a8Rfevy7Fdkhg3bvZpIYJ"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "multiverse",
-        "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
-      },
-      "artists": [
-        {
-          "name": "Maya Manuela",
-          "url": "https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw"
-        },
-        {
-          "name": "PEMBROKE",
-          "url": "https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE"
-        }
-      ],
-      "duration_ms": 179224,
-      "name": "multiverse",
-      "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
     },
     {
       "added_at": "2023-03-29 16:00:00",
@@ -1287,278 +1631,6 @@
       "duration_ms": 191200,
       "name": "Like the Fruit Falls from the Tree",
       "url": "https://open.spotify.com/track/7e6EM4XDJ1Av4i0ryu46HO"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Where I First Loved Singing",
-        "url": "https://open.spotify.com/album/2UH2bGTqpQSJQ32CZD5KW2"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 276113,
-      "name": "Where I First Loved Singing",
-      "url": "https://open.spotify.com/track/5P1am8yGUIoyxpeeP4FYdh"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "From: Your Flower",
-        "url": "https://open.spotify.com/album/1VVOHDPjCf10wznNUXvFWe"
-      },
-      "artists": [
-        {
-          "name": "Lilly Myers",
-          "url": "https://open.spotify.com/artist/7B2E74uB1zohFyMc02CZOL"
-        }
-      ],
-      "duration_ms": 226578,
-      "name": "From: Your Flower",
-      "url": "https://open.spotify.com/track/2tHHtvfSiqPhYOYoFu4Nc9"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Farm Cat",
-        "url": "https://open.spotify.com/album/6hX5lC11zIzBJDVm4Z5YSI"
-      },
-      "artists": [
-        {
-          "name": "Laney Esper",
-          "url": "https://open.spotify.com/artist/7FcC6gSlV7ONLxNUYVFiBO"
-        }
-      ],
-      "duration_ms": 145660,
-      "name": "Farm Cat",
-      "url": "https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Lose a Friend",
-        "url": "https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Lose a Friend",
-      "url": "https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Sow & Reap",
-        "url": "https://open.spotify.com/album/7mjwK763eyTi0PzS0KdMyq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Haycock",
-          "url": "https://open.spotify.com/artist/2zX44IhJh2pfvx9PHS0TH0"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Sow & Reap",
-      "url": "https://open.spotify.com/track/2fpTeDsRuXMg7fZLZoWDAm"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Practice",
-        "url": "https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu"
-      },
-      "artists": [
-        {
-          "name": "Free Range",
-          "url": "https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP"
-        }
-      ],
-      "duration_ms": 225062,
-      "name": "All My Thoughts",
-      "url": "https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy"
-      },
-      "artists": [
-        {
-          "name": "Pina Palau",
-          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
-        }
-      ],
-      "duration_ms": 192428,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Killing of a Sacred Dear (Demo)",
-        "url": "https://open.spotify.com/album/2pxaO1KYxGiqyw3aSALPMC"
-      },
-      "artists": [
-        {
-          "name": "Tessa DeNicola",
-          "url": "https://open.spotify.com/artist/5yyUO4YtfoPkaTB794DXGh"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Killing of a Sacred Dear - Demo",
-      "url": "https://open.spotify.com/track/66p4Ccug3Mn3r4FAv9ojCy"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Maybe You Never Knew,",
-        "url": "https://open.spotify.com/album/2HxlamV2rvZmp7hhZeSm1Z"
-      },
-      "artists": [
-        {
-          "name": "Cole Swensen",
-          "url": "https://open.spotify.com/artist/2Hhs5G5jxtbxhOUzm32YxR"
-        }
-      ],
-      "duration_ms": 219990,
-      "name": "Maybe You Never Knew,",
-      "url": "https://open.spotify.com/track/51MqtApspwFYiVwvvod9t8"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Watch Them Grow",
-        "url": "https://open.spotify.com/album/3r9kdIShWaBDbkLFbQykep"
-      },
-      "artists": [
-        {
-          "name": "Zach Berkman",
-          "url": "https://open.spotify.com/artist/6xbrnDxD4saadNP0lcoNOC"
-        }
-      ],
-      "duration_ms": 190208,
-      "name": "Watch Them Grow",
-      "url": "https://open.spotify.com/track/6Vy1C4HoQ29xJMpPlw8d2E"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Satanic Panic Love Song (home demo)",
-        "url": "https://open.spotify.com/album/13b0l3L1hInZm0RmcHAxNi"
-      },
-      "artists": [
-        {
-          "name": "Jake Whiskin",
-          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
-        }
-      ],
-      "duration_ms": 172174,
-      "name": "Satanic Panic Love Song (home demo)",
-      "url": "https://open.spotify.com/track/7hP9yo0ht8gbF7LvF7MsCJ"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Mending",
-        "url": "https://open.spotify.com/album/34iFpOtXBv4hhHQ275AyJi"
-      },
-      "artists": [
-        {
-          "name": "Frida Touray",
-          "url": "https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Out the Sun",
-      "url": "https://open.spotify.com/track/5IxV60b9I4WIcxHVDh02K1"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Angels Bowling",
-        "url": "https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV"
-      },
-      "artists": [
-        {
-          "name": "Darryl Rahn",
-          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Angels Bowling",
-      "url": "https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "Feels Like Falling",
-        "url": "https://open.spotify.com/album/3Ll2u7QAMbgRTd1C05LKmS"
-      },
-      "artists": [
-        {
-          "name": "Peter Groenwald",
-          "url": "https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Feels Like Falling",
-      "url": "https://open.spotify.com/track/7uV8cjskWaXNpe5Umc3Lro"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "The Former",
-        "url": "https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "The Former",
-      "url": "https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT"
-    },
-    {
-      "added_at": "2023-03-29 16:00:00",
-      "album": {
-        "name": "In Embudo",
-        "url": "https://open.spotify.com/album/3b0EBKuiYUmmpBevbOcRZZ"
-      },
-      "artists": [
-        {
-          "name": "Mary Elizabeth Remington",
-          "url": "https://open.spotify.com/artist/1OpHneno1p46i9jXB1Vk6T"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/2q8zxeRrvQa8ZTnlcamkVO"
     }
   ],
   "unique_name": "Fresh Finds Folk",

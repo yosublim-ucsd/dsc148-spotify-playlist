@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 320621,
+  "num_followers": 320648,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDA5NjcwN2MwMDRiMjUzODA4OWFkYTljN2JkZTA5MGY0",
+  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDA1M2QxNDE0OGEyMGUzNDMxNjYwZGViZjkyNjdjMGI4",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "N\u00e3o sou obrigada",
-        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "N\u00e3o sou obrigada",
-      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Rainha da Favela",
         "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 160904,
       "name": "Rainha da Favela",
       "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "N\u00e3o sou obrigada",
+        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "N\u00e3o sou obrigada",
+      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "O Velho E Bom Novo (Lado A)",
+        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Seja Gentil",
+      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 161819,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "O Velho E Bom Novo (Lado A)",
-        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Seja Gentil",
-      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Elis Por Ela",
-        "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Maria, Maria",
-      "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "De Cabe\u00e7a Pra Baixo",
         "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 191250,
       "name": "Cafe\u00edna",
       "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Elis Por Ela",
+        "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Maria, Maria",
+      "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Falei de voc\u00ea pra minha m\u00e3e",
+        "url": "https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Falei de voc\u00ea pra minha m\u00e3e",
+      "url": "https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 284040,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Falei de voc\u00ea pra minha m\u00e3e",
-        "url": "https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Falei de voc\u00ea pra minha m\u00e3e",
-      "url": "https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Iai\u00e1",
-        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 329680,
-      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
-      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 153635,
       "name": "Frank Ocean",
       "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Iai\u00e1",
+        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 329680,
+      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
+      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
     },
     {
       "added_at": "2022-10-07 03:01:33",

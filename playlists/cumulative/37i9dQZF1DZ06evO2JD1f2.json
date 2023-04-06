@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 132501,
       "name": "All I Know (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
@@ -944,6 +944,28 @@
       "duration_ms": 177011,
       "name": "IF I STOP NOW",
       "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
+    },
+    {
+      "album": {
+        "name": "Pendleton",
+        "url": "https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf"
+      },
+      "artists": [
+        {
+          "name": "FBG GOAT",
+          "url": "https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204885,
+      "name": "Jeffery's Innocent",
+      "url": "https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074"
     },
     {
       "album": {

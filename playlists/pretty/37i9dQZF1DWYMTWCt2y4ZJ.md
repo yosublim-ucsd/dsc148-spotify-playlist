@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMTWCt2y4ZJ.md) - [plain]
 
 > Bring in the new day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,716 likes - 122 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,772 likes - 122 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

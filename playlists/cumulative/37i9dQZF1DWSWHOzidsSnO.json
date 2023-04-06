@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Co-curada con La L\u00e1.",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con Susana Cala en portada.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 171280,
       "name": "Airampito",
       "url": "https://open.spotify.com/track/6qiVSgeijeice6TrfhnCKj"
@@ -351,6 +351,64 @@
     },
     {
       "album": {
+        "name": "Az\u00facar",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205398,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+    },
+    {
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127658,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5"
+    },
+    {
+      "album": {
+        "name": "Los D\u00edas",
+        "url": "https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR"
+      },
+      "artists": [
+        {
+          "name": "Ana Mar\u00eda Vahos",
+          "url": "https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7"
+        },
+        {
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "Bajo el Cielo Azul",
+      "url": "https://open.spotify.com/track/1NudI4DebuIzVpLQPZw5z3"
+    },
+    {
+      "album": {
         "name": "Almas Conectadas",
         "url": "https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z"
       },
@@ -486,6 +544,24 @@
       "duration_ms": 146128,
       "name": "Brindar\u00e9",
       "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
+    },
+    {
+      "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190912,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
     },
     {
       "album": {
@@ -912,7 +988,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
@@ -952,6 +1028,28 @@
       "duration_ms": 172546,
       "name": "En Qu\u00e9 Planeta",
       "url": "https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0"
+    },
+    {
+      "album": {
+        "name": "En Todas Partes",
+        "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
+      },
+      "artists": [
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        },
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217636,
+      "name": "En Todas Partes",
+      "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
     },
     {
       "album": {
@@ -1200,7 +1298,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 152052,
       "name": "Guayabo",
       "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
@@ -1586,7 +1684,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 337840,
       "name": "Maria Lando",
       "url": "https://open.spotify.com/track/363nd7Fxruaf0CrQnK7p0m"
@@ -1640,7 +1738,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 192391,
       "name": "Ma\u00f1ana Sale el Sol",
       "url": "https://open.spotify.com/track/2Ow881dT1aqqHsyBQtLxOQ"
@@ -1724,7 +1822,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 234478,
       "name": "Mito",
       "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
@@ -1945,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Nadie Me Vuelve A Joder",
+        "url": "https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Nadie Me Vuelve A Joder",
+      "url": "https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv"
+    },
+    {
+      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -1974,10 +2090,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 245217,
       "name": "Negro",
       "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "album": {
+        "name": "Netflix & Chill",
+        "url": "https://open.spotify.com/album/6ifGExbAC6E7OlfRiwMx7U"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Netflix & Chill",
+      "url": "https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54"
     },
     {
       "album": {
@@ -2292,7 +2426,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 268011,
       "name": "Paracas Cavernas",
       "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
@@ -2426,10 +2560,28 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 201066,
       "name": "Rep\u00edtelo",
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
+    },
+    {
+      "album": {
+        "name": "REDANBL\u00da",
+        "url": "https://open.spotify.com/album/74TXyCEug1xi0cYVHJL51T"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142192,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7lOfdVm2W1Zk12Jnd8T3ap"
     },
     {
       "album": {
@@ -2581,6 +2733,28 @@
     },
     {
       "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
+    },
+    {
+      "album": {
         "name": "Te Cre\u00ed",
         "url": "https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW"
       },
@@ -2697,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Tiempo Indefinido",
+        "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137167,
+      "name": "Tiempo Indefinido",
+      "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -2708,7 +2900,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 136706,
       "name": "Tijeras",
       "url": "https://open.spotify.com/track/5qjpID2xzQjJu67a3wP68m"
@@ -2990,7 +3182,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 208223,
       "name": "Vente pa' c\u00e1",
       "url": "https://open.spotify.com/track/0OxasKT5YFWggCIeepem9L"
@@ -3055,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Viene y va",
+        "url": "https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174922,
+      "name": "Viene y va",
+      "url": "https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9"
+    },
+    {
+      "album": {
         "name": "Volverte a Ver",
         "url": "https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta"
       },
@@ -3088,7 +3298,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 229404,
       "name": "VOLVI\u00d3 A LATIR",
       "url": "https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp"
@@ -3146,6 +3356,24 @@
       "duration_ms": 269560,
       "name": "Yo Me Llamo Cumbia",
       "url": "https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Hubiera Pasado?",
+        "url": "https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "\u00bfQu\u00e9 Hubiera Pasado?",
+      "url": "https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk"
     },
     {
       "album": {

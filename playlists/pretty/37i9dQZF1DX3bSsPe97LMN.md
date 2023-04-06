@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Rubén Figueroa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,240 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,303 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 51 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
 | 52 | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S) | 3:10 |
 | 53 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
-| 54 | [El Beso De Judas](https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Beso De Judas](https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc) | 3:06 |
-| 55 | [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 |
+| 54 | [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 |
+| 55 | [El Beso De Judas](https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Beso De Judas](https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc) | 3:06 |
 | 56 | [Barba De Herencia](https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Barba De Herencia](https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE) | 3:24 |
 | 57 | [Que Vuelvas](https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Que Vuelvas](https://open.spotify.com/album/1S7eFoVAALpAoiJXcsxF5Y) | 2:58 |
 | 58 | [El Flaco](https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [El Flaco](https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 |
 | 75 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDcwZjhkMTNhYjU0Y2NlOGQ1YzBjYWI5NjcwZDE2ODM2`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDAzMjkwNmY1OGFhMWE1ODRiNGIyMmYwMmU0YjRkYjc1`

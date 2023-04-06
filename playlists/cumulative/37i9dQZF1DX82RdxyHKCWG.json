@@ -406,7 +406,7 @@
           "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163522,
@@ -1762,6 +1762,24 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "album": {
+        "name": "Call on Me",
+        "url": "https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170102,
+      "name": "Call on Me",
+      "url": "https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Natty Natasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,379 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,435 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 68 | [Sola](https://open.spotify.com/track/5V9V77AIdanwRlHiBpvmN4) | [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Sola](https://open.spotify.com/album/1DHIYGXP4yfccuqJ5w5A1D) | 2:49 |
 | 69 | [Zarcos](https://open.spotify.com/track/0Cksf1doSAlRUjeNVAl35p) | [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [PER610CIA](https://open.spotify.com/album/2c68npvhZEpzFZw608rsTX) | 3:07 |
 | 70 | [Historia de Amor](https://open.spotify.com/track/1N9MeyioKkEBKNe4iIfAB3) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Historia de Amor](https://open.spotify.com/album/4KvZm9XQDc0pYe94UHOtLT) | 3:05 |
-| 71 | [PIEL](https://open.spotify.com/track/6v8Ka08c1mSPRw9uXdKes2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [PIEL](https://open.spotify.com/album/05WHDlqkH0sKtRutv7reQb) | 3:45 |
+| 71 | [PIEL](https://open.spotify.com/track/5862BeXImRyvRS7ilX4Yx2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [EL ORIGEN DEL CAOS](https://open.spotify.com/album/6j4T9vGSeInfrpFnvbc5x7) | 3:45 |
 | 72 | [PERREITO](https://open.spotify.com/track/0jVg5vyY2tZbbFehTz8amy) | [Greyvi](https://open.spotify.com/artist/4ZmxOjYwmOtLF1VhoYiayF) | [PERREITO](https://open.spotify.com/album/2WkjYmurvLbmOOvhGN3gQo) | 3:11 |
 | 73 | [Todo Bien, Nada en Orden](https://open.spotify.com/track/51CPCJ11fGuT00EtrHZlL3) | [Autobus](https://open.spotify.com/artist/6aaS9VlYbesvg4cBoz63sw) | [Todo Bien, Nada en Orden](https://open.spotify.com/album/6zWnnja0l2DfpRmeq7t6se) | 3:26 |
 | 74 | [Prejudicado](https://open.spotify.com/track/3nx9px7NuGBe3mxnJZtnen) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [RAIZ](https://open.spotify.com/album/1lGufkENuPKhs8ELOoFZ5q) | 2:48 |
 | 75 | [Mágica \- Ao Vivo](https://open.spotify.com/track/5v8EhStRWlvoY2qbcZR5R2) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Mágica \(Ao Vivo\)](https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8) | 2:51 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGMwYjQ3MWIwYTM2NjAwM2Q1YzhiZTQyNzM3ZjM4YTRj`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGY4OWQ2N2U4ZWUwODBiMTlhNDVjMzRiODBhZDRjNTA5`

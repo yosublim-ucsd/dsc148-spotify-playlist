@@ -4,7 +4,7 @@
 
 > Música nueva de toda la región\. Esta semana en portada: Natty Natasha
 
-3,979 songs - 8 day 23 hr 42 min
+3,980 songs - 8 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2784,8 +2784,9 @@
 | [Pichirry](https://open.spotify.com/track/3gmwr3IApaKyKU62QTIrgJ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pichirry](https://open.spotify.com/album/1in8bBo1IDDACAEEwMh3eg) | 2:37 | 2023-03-31 |  |
 | [Pide \- Remix](https://open.spotify.com/track/6dnDKVx1eLiYwc9tsy40ps) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Pide \(Remix\)](https://open.spotify.com/album/5ZZ61mqxA0JlBKTX9cS7ZK) | 2:11 | 2021-12-31 | 2022-01-15 |
 | [Piel](https://open.spotify.com/track/3YWqRb6gE2zo57kRlGQfQx) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Revelaciones](https://open.spotify.com/album/0I8Yvr2l4M4j71xuLuf23Q) | 4:22 | 2022-10-14 | 2022-10-22 |
+| [PIEL](https://open.spotify.com/track/5862BeXImRyvRS7ilX4Yx2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [EL ORIGEN DEL CAOS](https://open.spotify.com/album/6j4T9vGSeInfrpFnvbc5x7) | 3:45 | 2023-03-31 |  |
 | [PIEL](https://open.spotify.com/track/6C91907u9M2nie6b7YIrxm) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [EL ORIGEN DEL CAOS](https://open.spotify.com/album/4MNAeZIZde6MpAaAUIK07q) | 3:45 | 2023-03-31 | 2023-04-02 |
-| [PIEL](https://open.spotify.com/track/6v8Ka08c1mSPRw9uXdKes2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [PIEL](https://open.spotify.com/album/05WHDlqkH0sKtRutv7reQb) | 3:45 | 2023-03-31 |  |
+| [PIEL](https://open.spotify.com/track/6v8Ka08c1mSPRw9uXdKes2) | [Octavia](https://open.spotify.com/artist/4ooyae64t1DFiWd1UnJ5d4) | [PIEL](https://open.spotify.com/album/05WHDlqkH0sKtRutv7reQb) | 3:45 | 2023-03-31 | 2023-04-06 |
 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 | 2022-08-12 | 2022-08-20 |
 | [Piketaison](https://open.spotify.com/track/1iFY4ay3reuR14tYtuHBAY) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Piketaison](https://open.spotify.com/album/0z9dEzSRp4Cw6OUYvtxfp3) | 3:01 | 2022-04-22 | 2022-04-29 |
 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 | 2022-04-08 | 2022-04-16 |

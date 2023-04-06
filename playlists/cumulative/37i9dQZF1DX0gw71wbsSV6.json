@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Nemuranaideyo feat. Ikuko Harada",
+        "url": "https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        },
+        {
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "Nemuranaideyo feat. Ikuko Harada",
+      "url": "https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ"
+    },
+    {
+      "album": {
         "name": "The Youth Night",
         "url": "https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp"
       },
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 257440,
       "name": "\u7720\u3089\u306a\u3044\u3067\u3088 feat. \u539f\u7530\u90c1\u5b50",
       "url": "https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ"

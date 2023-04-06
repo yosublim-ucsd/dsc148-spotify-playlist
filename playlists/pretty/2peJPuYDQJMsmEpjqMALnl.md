@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 349,985 likes - 69 songs - 4 hr 45 min
+[Digster](https://open.spotify.com/user/digster.fm) - 350,008 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 50 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 51 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 52 | [Come On Eileen](https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/0QNluXFRHFyRVDiBHXmstK) | 4:47 |
-| 53 | [Heat Of The Moment](https://open.spotify.com/track/2ZBalNGwjqdKJd29O76wBV) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/7D0XjViIK0Z16HCxbRDrnm) | 3:47 |
+| 53 | [Heat Of The Moment](https://open.spotify.com/track/2ZBalNGwjqdKJd29O76wBV) | [Asia](https://open.spotify.com/artist/6uw47cwsTd4YZPsRO2e0Oo) | [Asia](https://open.spotify.com/album/7D0XjViIK0Z16HCxbRDrnm) | 3:47 |
 | 54 | [Don't You \(Forget About Me\) \- Remastered](https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Celebrate \(Greatest Hits\)](https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ) | 4:23 |
 | 55 | [Missing You](https://open.spotify.com/track/2Hw5F4S5TFmrpBoWXc2Awx) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [The Complete John Waite, Volume One: Falling Backwards](https://open.spotify.com/album/7GiN5fqIgGCmdLDsPxzFqO) | 4:30 |
 | 56 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |

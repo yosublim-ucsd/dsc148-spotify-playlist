@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "ASPHALT 8",
+        "url": "https://open.spotify.com/album/2zqtLUw2PYbyUOVnsXcyDk"
+      },
+      "artists": [
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135569,
+      "name": "ASPHALT 8",
+      "url": "https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq"
+    },
+    {
+      "album": {
         "name": "astral step",
         "url": "https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
@@ -8764,7 +8782,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 106268,
       "name": "sunder",
       "url": "https://open.spotify.com/track/1xCtcUI5hWvLxabftdq8du"
@@ -14798,7 +14816,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 109714,
       "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
       "url": "https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA"
@@ -16394,6 +16412,24 @@
       "duration_ms": 126980,
       "name": "\u041f\u0410\u041f\u0418\u041d \u0422\u0410\u041d\u041a",
       "url": "https://open.spotify.com/track/09w8NWGkVQKOWjFhuQBNIV"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u043e-\u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0435 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e",
+        "url": "https://open.spotify.com/album/5i7O30Eh932xLB6RmaJAPp"
+      },
+      "artists": [
+        {
+          "name": "Monetochka",
+          "url": "https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "\u041f\u0430\u043f\u0438\u043d\u0430 \u043b\u044e\u0431\u043e\u0432\u043d\u0438\u0446\u0430",
+      "url": "https://open.spotify.com/track/0tdRgufTWFxk2QgYyIifQH"
     },
     {
       "album": {

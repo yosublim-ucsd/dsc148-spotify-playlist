@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: PJAE. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: Annie Tracy. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 147607,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/57fjSv43kkWdFY7u9YpS9S"
@@ -1776,6 +1776,24 @@
       "duration_ms": 249545,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/2Y3HHUuQFG7IkpNGgRo83t"
+    },
+    {
+      "album": {
+        "name": "Bebecita",
+        "url": "https://open.spotify.com/album/6Ie5gyKriUs08XaFbkteKR"
+      },
+      "artists": [
+        {
+          "name": "Shade Jenifer",
+          "url": "https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134022,
+      "name": "Bebecita",
+      "url": "https://open.spotify.com/track/4XJHEvCpx3ClLZk0lyfsry"
     },
     {
       "album": {
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 206099,
       "name": "clap4me",
       "url": "https://open.spotify.com/track/6SIeF6KG8l06YDpFn0mfrT"
@@ -9378,7 +9396,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 187113,
       "name": "Impala",
       "url": "https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM"
@@ -10138,7 +10156,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
@@ -10789,6 +10807,24 @@
     },
     {
       "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/1sh3aMjik3CfTl9yzrMm8Y"
+      },
+      "artists": [
+        {
+          "name": "Kyle Lux",
+          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/1rAUaWCqT6CpHRA2L5mLHp"
+    },
+    {
+      "album": {
         "name": "Lily Apart (Live)",
         "url": "https://open.spotify.com/album/2mYYoJsSsp3Y7NhVHledjJ"
       },
@@ -11122,6 +11158,28 @@
       "duration_ms": 134249,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe"
+    },
+    {
+      "album": {
+        "name": "Loso Na Madesu",
+        "url": "https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187872,
+      "name": "Loso Na Madesu",
+      "url": "https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw"
     },
     {
       "album": {
@@ -13163,6 +13221,24 @@
     },
     {
       "album": {
+        "name": "THE SOUTHWESTERN EP",
+        "url": "https://open.spotify.com/album/3fxzoHx0tZYgcm0CG57TTK"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118419,
+      "name": "NOBODY BUT YOU",
+      "url": "https://open.spotify.com/track/5LwQZ55InyKyF488Cl53vh"
+    },
+    {
+      "album": {
         "name": "nosedive",
         "url": "https://open.spotify.com/album/3o0z53mbwaD2B3cG3M7uPd"
       },
@@ -14692,7 +14768,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 174013,
       "name": "Philophobia",
       "url": "https://open.spotify.com/track/0V1aYV1FlZH4NxOSZ5KvAv"
@@ -17072,7 +17148,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 160011,
       "name": "Sex On GPS",
       "url": "https://open.spotify.com/track/0XTnNSfnSoH8cOOUoaaKgg"
@@ -19739,6 +19815,24 @@
     },
     {
       "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
+    },
+    {
+      "album": {
         "name": "TONGUE TIED",
         "url": "https://open.spotify.com/album/0xUlkDMF8TZgODLf94Nkpm"
       },
@@ -21378,7 +21472,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 126958,
       "name": "Where I've Been",
       "url": "https://open.spotify.com/track/5vw7kEejZkEDFgZutfZ8gT"
@@ -21440,6 +21534,28 @@
       "duration_ms": 171777,
       "name": "Where You At",
       "url": "https://open.spotify.com/track/7BR0HcQah51twleQzGfVFL"
+    },
+    {
+      "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214432,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9"
     },
     {
       "album": {
@@ -22130,7 +22246,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207454,
-      "name": "You know",
+      "name": "You Know",
       "url": "https://open.spotify.com/track/4F18dT7tgxQMKIamogReCd"
     },
     {

@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Best of Indian English tracks\. Cover\- When Chai Met Toast
+> Indian English tracks we love\. Cover\- Sid Sriram
 
-165 songs - 9 hr 38 min
+166 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [lethal](https://open.spotify.com/track/12qmluxUw80kMqzzhIDFyA) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [lethal](https://open.spotify.com/album/1W1tJsWC5eU7S7ll2BZF7x) | 2:38 | 2023-01-17 | 2023-03-30 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-03-25 |  |
 | [Love Is Love](https://open.spotify.com/track/4QOhdspHbF735AWRRGJ7Zn) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 2:52 | 2022-09-30 | 2022-11-17 |
-| [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 | 2022-10-20 |  |
+| [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 | 2022-10-20 |  |
 | [Lovesong for an Apocalypse](https://open.spotify.com/track/7HzqVQQ8ZB8EmhQoWIhlBH) | [Long Distances](https://open.spotify.com/artist/6MiMbMXBsR73FeQhJc1Ya4) | [Lovesong for an Apocalypse](https://open.spotify.com/album/0kB2Om6RFqS6xnVApcz1SM) | 5:20 | 2023-02-22 | 2023-03-04 |
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 |  |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-09-26 |  |
@@ -142,6 +142,7 @@
 | [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 | 2022-12-09 | 2023-02-01 |
 | [Simpler Times](https://open.spotify.com/track/2fmBEAxGrQHfqJwv3v8e7H) | [Black Letters](https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6) | [Simpler Times](https://open.spotify.com/album/6AfEBtGTwfc9BrvMbq8QyP) | 4:51 | 2023-04-01 |  |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-25 |  |
+| [So Close](https://open.spotify.com/track/2lnJxbfhFaaPhOCZy3efn9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [So Close](https://open.spotify.com/album/6Tdb1yAL84lbjKteIF1tPC) | 2:52 | 2023-04-06 |  |
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2022-03-25 |  |
 | [Some Kind Of Nothing](https://open.spotify.com/track/2ND8gHcSdiXH2rZx82qzqu) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Some Kind Of Nothing](https://open.spotify.com/album/0xc6rSHLKuwbxt7WZ9rnvM) | 3:05 | 2023-02-15 |  |
 | [Someone To Rely On](https://open.spotify.com/track/3ObhVfAPn5qYx2ZNBvA6nK) | [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Someone To Rely On](https://open.spotify.com/album/1TMHobI2cDoQtCzullJbVG) | 3:57 | 2022-07-29 | 2023-01-13 |
@@ -168,7 +169,7 @@
 | [Void](https://open.spotify.com/track/2O2O8SvRfKz2ALOIvqBazc) | [Aanchal Bordoloi](https://open.spotify.com/artist/69JXumQlC6KoLNevtXerF1), [Sanketh](https://open.spotify.com/artist/7qNrYaYetKPxHFlAX727BB) | [Void](https://open.spotify.com/album/1DcssSPO2Dio4imihI9FbK) | 6:40 | 2022-12-23 | 2023-01-13 |
 | [Weatherman](https://open.spotify.com/track/1TqOLfxNA0nyRKanVioCMh) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Weatherman](https://open.spotify.com/album/00nclop2url6nQAx3OgJ6J) | 3:24 | 2023-02-07 |  |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-03-25 |  |
-| [Wildflower](https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW) | [Wildflower](https://open.spotify.com/album/6lYabKmdLSpFPbh29M6cI7) | 3:53 | 2022-12-20 |  |
+| [Wildflower](https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW) | [Wildflower](https://open.spotify.com/album/6lYabKmdLSpFPbh29M6cI7) | 3:53 | 2022-12-20 | 2023-04-06 |
 | [Windy](https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq), [Belinda Terry](https://open.spotify.com/artist/01r8UcTZF5qe9aodd9ypsx) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2022-03-25 | 2022-10-23 |
 | [Windy](https://open.spotify.com/track/6H1lOlpG1KTjZjUdkoosi6) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq), [Belinda Terry](https://open.spotify.com/artist/0kEYZD6hoUGbw9znLdD71p) | [Chérie](https://open.spotify.com/album/1Icgb4WlPI6TCotJlOIbtz) | 3:18 | 2022-10-20 |  |
 | [WORK](https://open.spotify.com/track/6VedreXPhq62y2Rrl8tuvU) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [WORK](https://open.spotify.com/album/10zQvCUAMF0mF2DIU2gT8Z) | 2:29 | 2022-12-02 | 2023-02-06 |

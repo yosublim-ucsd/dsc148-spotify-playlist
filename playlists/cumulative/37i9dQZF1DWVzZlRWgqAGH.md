@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Q
 
-832 songs - 2 day 1 hr 1 min
+833 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 | 2019-11-01 | 2020-02-20 |
 | [Colourblind](https://open.spotify.com/track/10yEuVTCQqGA6faDOEQC2r) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Colourblind](https://open.spotify.com/album/2kD19A5nIp6JE9jepPss3W) | 4:26 | 2020-07-18 | 2022-07-29 |
 | [Colourblind](https://open.spotify.com/track/37z4KRlnEhRforTs0t23Pa) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Current Blues](https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB) | 4:26 | 2022-10-21 |  |
+| [Come and Get It \- A COLORS SHOW](https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come and Get It \- A COLORS SHOW](https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb) | 2:25 | 2023-03-31 |  |
 | [Come Over](https://open.spotify.com/track/2M5Ua4xtwQ4TYq7bxTpz1P) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Come Over](https://open.spotify.com/album/2Bi5qaVs4IlEgp3mUGrum8) | 4:01 | 2020-09-11 | 2022-04-19 |
 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 | 2022-04-15 | 2023-03-18 |
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-05-27 | 2022-07-31 |
@@ -315,7 +316,7 @@
 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2022-12-16 |  |
 | [Gravity](https://open.spotify.com/track/280ujxycRyK4akeaAPDqNz) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Gravity](https://open.spotify.com/album/2UoXXes6BWXXoCwKDFzJKC) | 3:26 | 2020-05-15 | 2020-06-05 |
 | [Greater \(with Ari Lennox\)](https://open.spotify.com/track/3ZQpXYZZFRQyRgopMptRje) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 3:13 | 2023-03-17 |  |
-| [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
+| [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 | 2023-04-06 |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-18 | 2022-05-22 |
 | [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-08-20 | 2022-10-16 |
 | [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-11 | 2023-02-28 |

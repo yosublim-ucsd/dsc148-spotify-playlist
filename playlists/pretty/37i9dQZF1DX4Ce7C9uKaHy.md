@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,945 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,948 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 20 | [Owls of the Night](https://open.spotify.com/track/0DxFNeiT0zuSfF2IjX9vDX) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:21 |
 | 21 | [Vondelpark](https://open.spotify.com/track/2eZ1y3eY02Twb00rYOsUhr) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/6DUWrh2rpN32GmWYv1qXT4) | 2:00 |
 | 22 | [Feblu](https://open.spotify.com/track/6EHGGXkOd5APGB3bxEqekX) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Expedition, Vol\. 7 \(Moonloops\)](https://open.spotify.com/album/7HPxDRXmH8sR74ywHbuXjM) | 1:33 |
-| 23 | [Sugar Coat](https://open.spotify.com/track/3y7Mnqvvs6aor57tb8ik6p) | [Josco type beats](https://open.spotify.com/artist/5AtT9CVW7P7YuSQAxF4qbr) | [Silent Mood](https://open.spotify.com/album/0SoFjdemCnu55YP2xi0qwX) | 2:59 |
+| 23 | [Sugar Coat](https://open.spotify.com/track/4Q5SnRGF0wAluw3zY9NbYo) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/35Zg4Ksfyo1PmlztBn3UH6) | 2:59 |
 | 24 | [Tripwire](https://open.spotify.com/track/6T0qIYWEBLSik4UL4zrsQv) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Habitual Haze](https://open.spotify.com/album/5lJUqo5mEcYgcCnbADkfvO) | 2:48 |
 | 25 | [Reminiscing](https://open.spotify.com/track/0SLqAM3Jv5vKpjskuRK4aw) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA), [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs) | [Before You Go](https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea) | 2:38 |
 | 26 | [Alone without your embrace](https://open.spotify.com/track/1oSJNJPZdoeFf4zrbF7OIZ) | [d\-p](https://open.spotify.com/artist/5RdWE3BZ6xrseaVatOeUWc) | [Alone without your embrace](https://open.spotify.com/album/0Oa1ZmpCSJJChayiAZXMXI) | 2:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMDZiNTZiNDk2ODk4YTViNjcwNDUzYTFkZGJlOGEzNzFm`
+Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMGMxMmUyYThiMDZjNTcxOWU3YzY1YjEzZWU4M2ZiZWU5`

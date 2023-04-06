@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-627 songs - 1 day 22 hr 52 min
+628 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 | 2022-04-14 | 2022-11-11 |
 | [A Capriscious Stroll](https://open.spotify.com/track/7CnLK8jEEL1O7VcK2nHrx2) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [A Capriscious Stroll](https://open.spotify.com/album/10DBsEqIxXYAgK2bUXpaw4) | 3:24 | 2023-03-16 |  |
 | [A Clean Record](https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Clean Record](https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA) | 3:16 | 2022-12-08 | 2023-03-18 |
+| [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 | 2023-03-30 |  |
 | [A Foggy Day](https://open.spotify.com/track/2ntBZKDYj8NgS4nS15gnZe) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 9:04 | 2022-04-14 | 2022-10-03 |
 | [A Foggy Day](https://open.spotify.com/track/6XKW9hyxFMh8K8HrhzR91I) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [A Foggy Day](https://open.spotify.com/album/0ufANbMUnmINmTAVRjdXhX) | 2:34 | 2023-03-30 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2022-04-14 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-06-30 |  |
 | [Cycles](https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Cycles](https://open.spotify.com/album/7eP8ZPsn9f3GnR61fsIVji) | 3:40 | 2023-03-28 |  |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2022-04-14 | 2022-10-08 |
-| [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2022-04-14 |  |
+| [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2022-04-14 | 2023-04-06 |
 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-01-26 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/6q79ug6e5EVGmkeEuJtDQu) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 9:56 | 2022-04-14 | 2022-07-29 |
 | [Dear Old Thing](https://open.spotify.com/track/0pZzAYPfcYXXHkflWkV0rB) | [Nick Walters](https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2), [The Paradox Ensemble](https://open.spotify.com/artist/7qGVjaMzrfiSDgw5ZARJ18) | [Awakening](https://open.spotify.com/album/1H8iVgSGr10YYPGxjp0kt6) | 6:28 | 2022-08-29 | 2022-09-22 |

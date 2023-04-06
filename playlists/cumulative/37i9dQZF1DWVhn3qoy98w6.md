@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Artistas independientes emergentes, cada miércoles\. Foto: yavy.
+> Artistas independientes emergentes, cada miércoles\. Foto: Pan.
 
 2,004 songs - 4 day 10 hr 50 min
 

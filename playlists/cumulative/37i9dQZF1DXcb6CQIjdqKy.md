@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM?si=pi0iNXwBQ8arPDZIBu3PIw">Hillsong UNITED</a>
 
-494 songs - 1 day 10 hr 26 min
+495 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Fire In Your Eyes](https://open.spotify.com/track/14EAVGyJ21b8oxoLgpjbcY) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Fire In Your Eyes](https://open.spotify.com/album/3itnJNt4DkocE8pUQ2v6uc) | 3:52 | 2021-12-17 | 2022-01-08 |
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2022-01-21 | 2022-02-12 |
 | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/6fyNpkBi15SKd0PBMdMbsM) | 3:49 | 2022-05-06 | 2023-01-14 |
-| [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 | 2023-02-03 |  |
+| [First Things First](https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 4:11 | 2023-04-02 |  |
+| [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 | 2023-02-03 | 2023-04-06 |
 | [Follow You Into The Fire](https://open.spotify.com/track/69wTzxjSNve6gAz5WLaIps) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Flourish](https://open.spotify.com/album/7nigBw0tx1evzzcrTl8zma) | 3:37 | 2021-12-17 | 2022-01-15 |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 | 2022-04-16 |
 | [For All My Life](https://open.spotify.com/track/6qKbhIsM00FFhI1OKi74V7) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:30 | 2022-05-27 | 2023-01-14 |

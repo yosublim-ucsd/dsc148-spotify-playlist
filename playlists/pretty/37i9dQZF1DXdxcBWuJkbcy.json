@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6783564,
+  "num_followers": 6785170,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDU5NzJiN2RiYTMzOWJlNWRhNjc2MjYxYjBkMTIwNDcw",
+  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDZmMzExMjVjNDk4NmVhMDQ2OWZlZmMzMjA3NjBiMzA1",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Lavender Haze (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 171562,
       "name": "Lavender Haze - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Hold Me Closer (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 248594,
+      "name": "Hold Me Closer - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Case Of The Ex (feat. Mya Francis)",
         "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 127699,
       "name": "Case Of The Ex (feat. Mya Francis)",
       "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Hold Me Closer (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 248594,
-      "name": "Hold Me Closer - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 201259,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Dooh Dooh (Stereo Sound)",
         "url": "https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ"
       },
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 201259,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 218880,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1703,6 +1723,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1727,26 +1767,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 146756,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Don't Stop the Music",
         "url": "https://open.spotify.com/album/35bbZQhkYfP37dzTKsCvtz"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 145403,
       "name": "Don't Stop the Music",
       "url": "https://open.spotify.com/track/3LdNJc9XPe9ViFpNmfuTRT"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Believe (feat. Goodboys) [Galantis Remix]",
         "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 174283,
       "name": "Believe (feat. Goodboys) [Galantis Remix]",
       "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 139435,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -2015,6 +2015,26 @@
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Jenny From The Block",
+        "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Jenny From The Block",
+      "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -2047,26 +2067,6 @@
       "duration_ms": 140400,
       "name": "Conga",
       "url": "https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Jenny From The Block",
-        "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Jenny From The Block",
-      "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -2111,22 +2111,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Coca-Cola",
-        "url": "https://open.spotify.com/album/0m3Db6w6S8bxZFtsppsziM"
+        "name": "Heaven (feat. Sofia Quinn) [Club Mix]",
+        "url": "https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         },
         {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Coca-Cola",
-      "url": "https://open.spotify.com/track/5SBFE8l79rSAcFLyqtZW1X"
+      "duration_ms": 175773,
+      "name": "Heaven (feat. Sofia Quinn) - Club Mix",
+      "url": "https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9"
     }
   ],
   "unique_name": "Motivation Mix",

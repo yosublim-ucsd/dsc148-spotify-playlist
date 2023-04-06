@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: boygenius
 
-1,062 songs - 2 day 17 hr 14 min
+1,063 songs - 2 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,8 @@
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2021-12-17 | 2022-02-05 |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2023-02-11 |
 | [Just Around The Corner](https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Just Around The Corner](https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG) | 2:55 | 2022-01-28 | 2022-04-02 |
-| [just wanna forget you](https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:49 | 2023-03-31 |  |
+| [just wanna forget you](https://open.spotify.com/track/19FBPoxwTB7kbMEcYsDGVr) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:49 | 2023-03-31 |  |
+| [just wanna forget you](https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:49 | 2023-03-31 | 2023-04-06 |
 | [Keep Me High](https://open.spotify.com/track/431b0EbVNCgDxpmaSFVrIa) | [Jeremy Ivey](https://open.spotify.com/artist/08Gc0o3GdjIKtQVoNYaVNG) | [Keep Me High](https://open.spotify.com/album/6OqSjFEFHebGebQFPFmLuf) | 3:39 | 2022-03-11 | 2022-04-29 |
 | [Keep Moving](https://open.spotify.com/track/7MXvN7VcRzylgnmlRDAZqZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Keep Moving](https://open.spotify.com/album/06lFUQTcMPK4YtlU2cdTqb) | 4:22 | 2022-04-29 | 2022-08-13 |
 | [Keep The Rain](https://open.spotify.com/track/2xFmXeAKtzrG1ZQBT6adKc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:47 | 2022-09-30 | 2023-02-25 |

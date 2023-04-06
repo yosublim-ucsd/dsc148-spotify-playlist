@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/65nhz1EbSruHtMqqLJrRja"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296333,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3zf2eLN9Yf8ayZO5cn4Xh5"
+    },
+    {
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },

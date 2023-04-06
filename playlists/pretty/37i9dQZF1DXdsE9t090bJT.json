@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 28346,
+  "num_followers": 28492,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzMTA2OSwwMDAwMDAwMGFhYjU1YTFmYTAzZGM3ZTQ0MDQwYjAyZmZkZTAzMDQ4",
+  "snapshot_id": "MTY4MDYzMTA2OSwwMDAwMDAwMDg2YTVhMzUxOTQ4NWVhZGNmNDY0MGNmYmIxMDVlNjI0",
   "tracks": [
     {
       "added_at": "2023-03-17 06:39:57",
@@ -161,20 +161,24 @@
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
-      "added_at": "2023-03-17 06:39:57",
+      "added_at": "2023-04-06 01:28:39",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+      "duration_ms": 201993,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -195,6 +199,22 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
         "name": "Te Quiero Besar",
         "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 190334,
       "name": "Te Quiero Besar",
       "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
-    },
-    {
-      "added_at": "2023-04-05 01:04:21",
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -497,23 +497,7 @@
       "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
     },
     {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
-    },
-    {
-      "added_at": "2023-04-05 01:04:21",
+      "added_at": "2023-04-06 01:28:39",
       "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
@@ -531,6 +515,22 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -563,6 +563,26 @@
       "duration_ms": 179583,
       "name": "MMXX's",
       "url": "https://open.spotify.com/track/30CpVIIuDEXt56rm6WTkM6"
+    },
+    {
+      "added_at": "2023-04-06 01:28:39",
+      "album": {
+        "name": "Mil Maneras De Morir",
+        "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 189881,
+      "name": "Mil Maneras De Morir",
+      "url": "https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -639,22 +659,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -667,6 +671,22 @@
       "duration_ms": 278073,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -705,26 +725,6 @@
       "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
-      "added_at": "2023-04-05 01:04:21",
-      "album": {
-        "name": "Mil Maneras De Morir",
-        "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 189881,
-      "name": "Mil Maneras De Morir",
-      "url": "https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5"
-    },
-    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
         "name": "Corridos 602",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226636,
       "name": "No Te Quiero Perder",
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
+      "added_at": "2023-04-06 01:28:39",
+      "album": {
+        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "No Se Puede Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
+    },
+    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
         "name": "D\u00e9jame Ser",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Del Corazon",
-        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245201,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "Junto A T\u00ed",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
@@ -901,20 +901,36 @@
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
-      "added_at": "2023-04-05 01:04:21",
+      "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 164135,
-      "name": "No Se Puede Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
+    },
+    {
+      "added_at": "2023-04-06 01:28:39",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 124826,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -971,18 +987,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V"
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 175754,
-      "name": "No Puedo No Caer",
-      "url": "https://open.spotify.com/track/326RrTJoAvLxjUpRv1YFg8"
+      "duration_ms": 175872,
+      "name": "Platicame De Ti",
+      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V"
       },
       "artists": [
         {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 175872,
-      "name": "Platicame De Ti",
-      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+      "duration_ms": 175754,
+      "name": "No Puedo No Caer",
+      "url": "https://open.spotify.com/track/326RrTJoAvLxjUpRv1YFg8"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -1033,20 +1049,20 @@
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
     },
     {
-      "added_at": "2023-04-05 01:04:21",
+      "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 124826,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
+      "duration_ms": 152874,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/2CXEL46i2dMqQrcDtXl6jS"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -1063,22 +1079,6 @@
       "duration_ms": 204545,
       "name": "Un Hombre con Suerte",
       "url": "https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/2CXEL46i2dMqQrcDtXl6jS"
     },
     {
       "added_at": "2023-03-17 06:39:57",

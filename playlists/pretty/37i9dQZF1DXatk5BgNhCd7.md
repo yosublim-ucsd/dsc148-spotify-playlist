@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Carlos Vives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,514 likes - 74 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,561 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 15 | [Te Quise Olvidar \- Live Session](https://open.spotify.com/track/7loX0PXCTiw8D4x1hSSdzm) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Te Quise Olvidar \(Live Session\)](https://open.spotify.com/album/36lObr9v1ARpoEpjJjvGoN) | 4:05 |
 | 16 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 |
 | 17 | [AQUELLO QUE PASÓ / COMO LA FLOR \- enganchado en vivo](https://open.spotify.com/track/6TaeYg1tzzhmV8Tijk3T74) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [AQUELLO QUE PASÓ / COMO LA FLOR \(enganchado en vivo\)](https://open.spotify.com/album/3hD9yfA4XyuZhtnO5QorZ3) | 4:02 |
-| 18 | [Te Vas](https://open.spotify.com/track/6okr1j09w6bGHQNqHMv12l) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Vanina Hussein](https://open.spotify.com/artist/4cfOfh4dEjPIy4bUUTt7hu) | [Te Vas](https://open.spotify.com/album/4QdfBzwhUJg0Hgu6xyzCNK) | 3:46 |
+| 18 | [Te vas](https://open.spotify.com/track/1ImYr3aQJzEOF3gCa5xtAd) | [Vanina Hussein](https://open.spotify.com/artist/4cfOfh4dEjPIy4bUUTt7hu), [El Pepo](https://open.spotify.com/artist/50h9pAoTepeTn5TXxldZJW) | [Te vas](https://open.spotify.com/album/1V2sQ1OcfhBTtdzUo4caYW) | 3:46 |
 | 19 | [Decime Donde Voy](https://open.spotify.com/track/4yY3eMuwsX0VAwhb8svqpt) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Temporada 11](https://open.spotify.com/album/4ighTNuTJv3o2IBkWwJpZ2) | 2:19 |
 | 20 | [Secretos](https://open.spotify.com/track/6QhePdHMNM4772Muezdb30) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Secretos](https://open.spotify.com/album/1pwYqkz7KDk3EUOqNM8gT8) | 3:38 |
 | 21 | [La Despedida](https://open.spotify.com/track/6k6EKzJtK5LpCi4eTeBzUv) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [La Despedida](https://open.spotify.com/album/0hRN8YcEzqnwoaq4u2lDYV) | 2:55 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 73 | [Ya no vuelvas](https://open.spotify.com/track/0qo3TV9s4xXjDNvhn3xKIS) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Ya no vuelvas](https://open.spotify.com/album/1neUuj2OkhOvvsE8jz7gfg) | 3:04 |
 | 74 | [Plena Rkt](https://open.spotify.com/track/2cOcNId9bPrHwIVuq5sJme) | [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8) | [Plena Rkt](https://open.spotify.com/album/5QXEiMJOD1b4tTzhEEdzln) | 2:44 |
 
-Snapshot ID: `MTY4MDIzMTYwMCwwMDAwMDAwMGRjYWMwZDE2NGFiYzg1M2FkMWYxNTQ3YWEzNmZiYWVm`
+Snapshot ID: `MTY4MDIzMTYwMCwwMDAwMDAwMDMwYWUzNDcwM2VlNDBkY2EwNzhjYmE4MjVmOTRkYjU2`

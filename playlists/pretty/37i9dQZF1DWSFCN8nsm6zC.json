@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 24353,
+  "num_followers": 24383,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMDdiZWFkNGFlZTZlNjI5Yzc0MDBjMWJlMzdmOWMzZjFh",
+  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMDVkNDQ4NmMwYzU3MjhiNTUwMGZkODExMWEwZDc5ZTBk",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy"
     },
     {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
-        "name": "Youth And Young Manhood",
-        "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 134906,
-      "name": "Molly's Chambers",
-      "url": "https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04"
-    },
-    {
       "added_at": "2021-07-01 23:15:26",
       "album": {
         "name": "Resident Alien",
@@ -711,6 +695,22 @@
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "Youth And Young Manhood",
+        "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 134906,
+      "name": "Molly's Chambers",
+      "url": "https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
-    },
-    {
       "added_at": "2022-06-30 18:55:35",
       "album": {
         "name": "Them Crooked Vultures",
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Lunch, Recess & Detention",
-        "url": "https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
       "artists": [
         {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
         }
       ],
-      "duration_ms": 172486,
-      "name": "Sex And Candy",
-      "url": "https://open.spotify.com/track/3hAaCXvutknQugsPFogh8H"
+      "duration_ms": 210200,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Trouble\u2019s Coming",
+        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Trouble\u2019s Coming",
+      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
     }
   ],
   "unique_name": "Rock Road Trip",

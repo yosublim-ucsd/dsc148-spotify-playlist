@@ -2,7 +2,7 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy jams from the best bedroom producers\. Cover: Joji
+> Dreamy jams from the best bedroom producers\. Cover: Clairo
 
 832 songs - 1 day 19 hr 19 min
 

@@ -123,6 +123,28 @@
     },
     {
       "album": {
+        "name": "Schumann & Brahms",
+        "url": "https://open.spotify.com/album/4BGkbzqf7R95Ce9lrSzflR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207046,
+      "name": "Abendlied, Op. 85 No. 12 (Arr. Grosvenor)",
+      "url": "https://open.spotify.com/track/0nJzrxHup9vkQyc9Eg698s"
+    },
+    {
+      "album": {
         "name": "Aboriginal Lullaby",
         "url": "https://open.spotify.com/album/5aMHHjldNmnqUEayrOZGlj"
       },
@@ -190,7 +212,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 232000,
       "name": "Adoration (Version for Solo Violin and String Orchestra)",
       "url": "https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu"
@@ -208,7 +230,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 280591,
       "name": "Armellodie",
       "url": "https://open.spotify.com/track/3GfDVDXAs3sxsnfYJ2MG9z"
@@ -387,6 +409,32 @@
     },
     {
       "album": {
+        "name": "Mozart & Widmann: Clarinet Quintets",
+        "url": "https://open.spotify.com/album/26Avnk2l7oit96ph0OmB2P"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "J\u00f6rg Widmann",
+          "url": "https://open.spotify.com/artist/7drHkRrCNABV4BkAuVF6nu"
+        },
+        {
+          "name": "Hagen Quartett",
+          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442400,
+      "name": "Clarinet Quintet, K. 581: III. Menuetto",
+      "url": "https://open.spotify.com/track/3PmDjYUOC4AR9lghScYlxs"
+    },
+    {
+      "album": {
         "name": "Magna Carta: The Complete Works for Guitar of John Brunning",
         "url": "https://open.spotify.com/album/2KHxWVYq3BDHfwqYmsaoIA"
       },
@@ -417,6 +465,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Concerto No. 1 in D Major, BWV 972 (After Vivaldi RV 230): II. Larghetto (Arr. Perroy for Guitar)",
+        "url": "https://open.spotify.com/album/3jMn0WtRElDtRGAZWkMQoS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "Concerto No. 1 in D Major, BWV 972 (After Vivaldi RV 230): II. Larghetto (Arr. Perroy for Guitar)",
+      "url": "https://open.spotify.com/track/2fn7wn7Rl9Lgco3KjeCkJn"
+    },
+    {
+      "album": {
         "name": "Pride and Prejudice - OST",
         "url": "https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI"
       },
@@ -432,7 +502,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 158600,
       "name": "Dawn - From \"Pride & Prejudice\" Soundtrack",
       "url": "https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW"
@@ -542,7 +612,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 197877,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
@@ -660,6 +730,50 @@
       "duration_ms": 282120,
       "name": "L'Oiseau de feu (1911 Version): X. Khorovod (Ronde) des princesses",
       "url": "https://open.spotify.com/track/6oVBLpHQIR1pSwgBjMOFkO"
+    },
+    {
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/0ruVLRZy7KreVZyEKfFdXD"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "James Rhodes",
+          "url": "https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83333,
+      "name": "Largo in E-Flat Major, B. 109, Op. Posth.",
+      "url": "https://open.spotify.com/track/0IeIIRG7nKNWUjsv6cjF2Y"
+    },
+    {
+      "album": {
+        "name": "Avec Esprit: Gouvy, M\u00e9lan-Gu\u00e9roult, Saint-Saens, Ysaye",
+        "url": "https://open.spotify.com/album/6zqdSi4fgfl5Y1IGJbFgsI"
+      },
+      "artists": [
+        {
+          "name": "Louis Th\u00e9odore Gouvy",
+          "url": "https://open.spotify.com/artist/2aoB9gstGgiu0V4lL3S0c9"
+        },
+        {
+          "name": "Tal & Groethuysen",
+          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648720,
+      "name": "Lilli Bull\u00e9ro (Variations pour deux pianos sur un air anglais), Op.62",
+      "url": "https://open.spotify.com/track/0WO8q4AZuEzErSF9ehJqWG"
     },
     {
       "album": {
@@ -781,6 +895,32 @@
     },
     {
       "album": {
+        "name": "Mozart: String Quintets K. 515 & 516",
+        "url": "https://open.spotify.com/album/2Bw1ElP4NTVRByYTyDCOJj"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439877,
+      "name": "Mozart: String Quintet No. 3 in C Major, K. 515: IV. Allegro",
+      "url": "https://open.spotify.com/track/3O1IQIwr9vG6ZpqhMhntTE"
+    },
+    {
+      "album": {
         "name": "Working from Home Classical",
         "url": "https://open.spotify.com/album/1Ot45u8vTs7z6QH7emCCGp"
       },
@@ -814,7 +954,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 221731,
       "name": "Nocturne No. 1 in E Flat Major, H.24",
       "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
@@ -862,6 +1002,32 @@
       "duration_ms": 284086,
       "name": "Nocturnes, Op. 9",
       "url": "https://open.spotify.com/track/6ueTTzezzvpDXTYeusqNoB"
+    },
+    {
+      "album": {
+        "name": "Piano Sextet in D Major, Op. 110, MWV Q 16: II. Adagio",
+        "url": "https://open.spotify.com/album/0kPifhFeDgm5aJzJ1Yh74W"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Hiroaki Takenouchi",
+          "url": "https://open.spotify.com/artist/2PkZHdfGnviYLG4WqB5q4M"
+        },
+        {
+          "name": "Members of Sinfonia Cymru",
+          "url": "https://open.spotify.com/artist/4mi47fdEYh02PCeRZRXEa4"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295080,
+      "name": "Piano Sextet in D Major, Op. 110, MWV Q 16: II. Adagio",
+      "url": "https://open.spotify.com/track/0kd1EHqEpwaWFKo8fMoyzF"
     },
     {
       "album": {
@@ -1162,7 +1328,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 406240,
       "name": "Sinfonietta, FP 141: III. Andante cantabile",
       "url": "https://open.spotify.com/track/4vii1l0Y3VZB2IrVkbRSs1"

@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
 
-243 songs - 14 hr 35 min
+244 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-04-09 |  |
 | [Almacén de Datos](https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Almacén de Datos](https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx) | 3:32 | 2022-04-01 | 2022-09-01 |
 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 | 2022-09-19 | 2023-04-01 |
-| [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-07-25 |  |
+| [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-07-25 | 2023-04-06 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-09 | 2022-07-12 |
 | [Aquí seguimos](https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Aquí seguimos](https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af) | 3:23 | 2022-03-03 | 2022-10-01 |
 | [Arde](https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [Real Stylo](https://open.spotify.com/artist/0ZHdDT59jztrFM0P25fGES) | [Arde](https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0) | 3:15 | 2022-09-30 | 2023-04-01 |
@@ -250,6 +250,7 @@
 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 | 2022-09-07 | 2023-03-18 |
 | [¡Oh, Algoritmo! \(feat\. Noga Erez\)](https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 3:04 | 2022-04-22 |  |
 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [¿Por Qué Te Vas?](https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ) | 3:24 | 2022-03-30 | 2023-03-01 |
+| [Ébano](https://open.spotify.com/track/2mLjF46Pkt5V0oxVc5WKUE) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Ébano](https://open.spotify.com/album/71NpUB9I8dXtyxfH7AKhnT) | 5:42 | 2023-04-06 |  |
 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 | 2021-10-05 | 2022-04-21 |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

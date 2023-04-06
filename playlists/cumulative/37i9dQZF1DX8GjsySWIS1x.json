@@ -4666,10 +4666,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 183288,
       "name": "Feed the Machine",
       "url": "https://open.spotify.com/track/4xe3UHiQOH2RNBXcuAKDvG"
+    },
+    {
+      "album": {
+        "name": "Feed the Machine",
+        "url": "https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn"
+      },
+      "artists": [
+        {
+          "name": "Poor Mans Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Feed the Machine",
+      "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: Loggins and Messina",
-  "num_followers": 901459,
+  "num_followers": 901641,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDFjMjE5YjA3ZjE3Mjc4ZGFmMDQxOGU1MmQ0NmY3NGUw",
+  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDQ1YjYzYjg3Mzg1MmYxNjFjZjBlMDM5OTJjMzMyY2Zk",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
-    },
-    {
       "added_at": "2021-12-14 20:17:09",
       "album": {
         "name": "Life & Times",
@@ -619,6 +603,22 @@
       "duration_ms": 182240,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
     },
     {
       "added_at": "2021-12-14 20:17:09",

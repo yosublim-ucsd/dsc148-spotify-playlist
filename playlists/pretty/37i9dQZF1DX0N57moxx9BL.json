@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 114169,
+  "num_followers": 114305,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYzNDIxMCwwMDAwMDAwMDBlZmMxYWRjZGY2ODM3ODc2Y2VjODI2NGZhZGViZWQw",
+  "snapshot_id": "MTY3NjYzNDIxMCwwMDAwMDAwMDBiNDFmZDhmYjJiZDIxYzg4NzY5YTE3NzFkNjcwODQ4",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "I Won't Look Back",
         "url": "https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 200453,
       "name": "I Won't Look Back",
       "url": "https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 283741,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "All That Matters",
         "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 197336,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Sleight of Hand",
-        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
-      },
-      "artists": [
-        {
-          "name": "War Of Ages",
-          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
-        }
-      ],
-      "duration_ms": 234831,
-      "name": "Sleight of Hand",
-      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 258706,
       "name": "The Shelter",
       "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        }
+      ],
+      "duration_ms": 234831,
+      "name": "Sleight of Hand",
+      "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
     },
     {
       "added_at": "2023-02-17 11:43:30",

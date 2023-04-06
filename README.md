@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5884\)
+## Playlists \(5885\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1828,7 +1828,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#040](/playlists/pretty/37i9dQZF1DX6PGTcW7bhlj.md)
 - [Fuego \#041](/playlists/pretty/37i9dQZF1DXcdZrRTAWTVf.md)
 - [Fuego \#042](/playlists/pretty/37i9dQZF1DX5Kud7MBZwLV.md)
-- [Fuego \#043](/playlists/pretty/37i9dQZF1DX4Ftreulr4K7.md)
+- [Fuego \#043 \- Eladio Carrion's Mixtape](/playlists/pretty/37i9dQZF1DX4Ftreulr4K7.md)
 - [Fuego \#044](/playlists/pretty/37i9dQZF1DX4ZrAsKbr4qB.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
@@ -2950,6 +2950,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [NCS Releases](/playlists/pretty/7sZbq8QGyMnhKPcLJvCUFD.md)
 - [NEÓN](/playlists/pretty/37i9dQZF1DX2vWnOprRIq7.md)
 - [NFL Draft 2021](/playlists/pretty/37i9dQZF1DXbmafsRvwS7L.md)
+- [NGHTMRE's DJ Mix](/playlists/pretty/37i9dQZF1DX2WFMdfNdpBt.md)
 - [NIGHT TRAVELER Radio](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md)
 - [NIOH \-仁王\-](/playlists/pretty/37i9dQZF1DX9o0sjdAbiLJ.md)
 - [NIÑXS HÉROES](/playlists/pretty/37i9dQZF1DXcm1CGW3MuuF.md)

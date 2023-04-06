@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-585 songs - 1 day 10 hr 21 min
+586 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [เดอะแบก \(Baggage\)](https://open.spotify.com/track/6bi1KEQMr9oOSBodFj5QD2) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [เดอะแบก \(Baggage\)](https://open.spotify.com/album/71GYrawD0oeNzpXfrkDiDq) | 5:06 | 2021-10-18 | 2021-11-27 |
 | [เดอะแบก \(Baggage\)](https://open.spotify.com/track/46qO3ZNfXCH264ew36lDow) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 5:07 | 2021-11-27 | 2021-12-03 |
 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 | 2021-03-27\* | 2021-08-09 |
-| [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 | 2023-03-06 |  |
+| [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 | 2023-03-06 | 2023-04-06 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/6DDPLoOXlHq44YrJGbhLYF) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/24cbTGdqDMQqIuhHqg39Dj) | 4:37 | 2023-03-13 |  |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2021-12-28 | 2022-05-28 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 | 2021-04-18 | 2021-06-18 |
@@ -587,6 +587,7 @@
 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 | 2022-03-04 | 2022-04-29 |
 | [ไม่ยินดี](https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ไม่ยินดี](https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns) | 3:53 | 2021-07-23 | 2022-07-12 |
 | [ไม่อยากฟัง](https://open.spotify.com/track/5NHUdpYUEHL8fDLmR1qFd8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่อยากฟัง](https://open.spotify.com/album/3q1bjaW7no3BHSRS2QOajV) | 4:38 | 2021-03-27\* | 2021-06-21 |
+| [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2023-04-05 |  |
 | [ไม่ได้ก็ไม่เอา \- Whatever](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2022-10-13 | 2023-04-02 |
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2021-03-27\* | 2021-09-18 |
 | [ไหนบอกเลิกแล้ว](https://open.spotify.com/track/1Fs20RsWqb8I510IkvwcqL) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไหนบอกเลิกแล้ว](https://open.spotify.com/album/24vyAn4mArLobmLat8MCOL) | 3:36 | 2023-04-01 |  |

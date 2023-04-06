@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,229 likes - 101 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,183 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 72 | [Move \(Remix\) \(with KenTheMan\)](https://open.spotify.com/track/4ZB1XkV5RBj7fGcPfNCRDb) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Move \(Remix\)](https://open.spotify.com/album/2auMLHZt7nKNinSmNHZC7i) | 2:50 |
 | 73 | [Studio Junkie](https://open.spotify.com/track/2hnijnBaiR6v7NmvYB3me2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Studio Junkie](https://open.spotify.com/album/7dgC3SvEf9lxsYhbc27Lwm) | 2:26 |
 | 74 | [giftbag](https://open.spotify.com/track/1xi2Knd4pP48wp0Jxy5Frk) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [giftbag](https://open.spotify.com/album/4GPhMblkfeLwJkTXDxaYBx) | 2:49 |
-| 75 | [Payroll](https://open.spotify.com/track/6SQNgA5pcjrYCjXdyPXP8t) | [DizzyGotBands](https://open.spotify.com/artist/2aBGXTF6O3PsruYiUI9OTd), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Payroll](https://open.spotify.com/album/4rOvoThodUm7MIxp1cXUjP) | 2:59 |
+| 75 | [Payroll](https://open.spotify.com/track/6SQNgA5pcjrYCjXdyPXP8t) | [DizzyGotBands](https://open.spotify.com/artist/2aBGXTF6O3PsruYiUI9OTd), [Sleepy Hallow](https://open.spotify.com/artist/1XXm5XvjAKaIMtKM7V5xbo) | [Payroll](https://open.spotify.com/album/4rOvoThodUm7MIxp1cXUjP) | 2:59 |
 | 76 | [BREAK STUFF \- Cover](https://open.spotify.com/track/0cKLDHdqHos9GYl674FDQN) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [BREAK STUFF \(Cover\)](https://open.spotify.com/album/3vEUtPbOqwVq3u7xbA6IXp) | 2:43 |
 | 77 | [Temperatures Rise](https://open.spotify.com/track/4oTG7A2xcJHdBM7671td9p) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [Temperatures Rise](https://open.spotify.com/album/4aIAQTNYaxAqY7E6KIX3YB) | 2:48 |
 | 78 | ["CEVICHE"...](https://open.spotify.com/track/0Lhz8qMfRXQFoLYivW36cQ) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [THIS LAKE IS SUCCESSFUL](https://open.spotify.com/album/4AgoGCem8ILqsZS63YTmo3) | 2:58 |

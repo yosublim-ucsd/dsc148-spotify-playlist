@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: DIKKE
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Zoë Tauran
 
-113 songs - 6 hr 0 min
+115 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-18 | 2022-08-26 |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2021-12-10 | 2022-03-19 |
 | [Emotional](https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Emotional](https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM) | 3:00 | 2022-02-25 | 2022-06-17 |
+| [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-05 |  |
 | [Fist In My Pocket](https://open.spotify.com/track/3dO1OecfYAGfiB3GFcPWnd) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 5:07 | 2022-11-03 |  |
 | [Fuck the World \(feat\. Boslen\)](https://open.spotify.com/track/2tQtz7I7B8bHJyVsh3pdsu) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Fuck the World \(feat\. Boslen\)](https://open.spotify.com/album/6ZTXNtbfkNghi8H69m36JU) | 2:26 | 2023-03-10 |  |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-02-03 | 2022-03-19 |
@@ -105,6 +106,7 @@
 | [Ten Onder](https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ten Onder](https://open.spotify.com/album/3SlyGq2hf3mGf6kV1oU5CC) | 3:43 | 2022-05-14 | 2022-07-08 |
 | [The Things That You Are Not \(Part 1\)](https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Manic Pixie Dream Girl](https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n) | 2:52 | 2022-03-18 |  |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-02-03 |  |
+| [Therapie](https://open.spotify.com/track/01vJrmmK189tfubjoU0jOw) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 3:01 | 2023-04-05 |  |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-10-17 |  |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 | 2022-10-18 |

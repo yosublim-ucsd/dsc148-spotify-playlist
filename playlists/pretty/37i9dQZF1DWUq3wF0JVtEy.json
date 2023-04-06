@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 905406,
+  "num_followers": 905675,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDE4YTk3MDQxMTNlMzhiYTZjMTBhM2RmYzI1ZDgxNmE4",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDljZWY2MzI1NzcyNDM4OGMwYzM4NjYxYTAxNGExZGYx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 171984,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 171984,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 169117,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 169117,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "duration_ms": 219523,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Miami (\u00d6wnboss Remix) [feat. Nile Rodgers]",
         "url": "https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 225600,
       "name": "Miami (\u00d6wnboss Extended Remix) [feat. Nile Rodgers]",
       "url": "https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        }
-      ],
-      "duration_ms": 219523,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/0P21RvD1R1hN7j27eRCrlL"
       },
@@ -1439,6 +1459,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1459,22 +1495,6 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1627,26 +1647,6 @@
       "duration_ms": 138750,
       "name": "Push And Pull",
       "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        }
-      ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Hypno",
         "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 124761,
       "name": "Rave Shake",
       "url": "https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2023-03-31 04:00:00",

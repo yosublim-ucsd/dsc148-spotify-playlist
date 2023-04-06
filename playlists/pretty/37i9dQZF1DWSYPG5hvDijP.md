@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover\- Raftaar & Prabh Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,736 likes - 77 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,775 likes - 77 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 5 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 |
 | 6 | [GHAM](https://open.spotify.com/track/3k1WE3i06G4xQb7ZrOWF15) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [GHAM](https://open.spotify.com/album/2ERqJtsLSUW44zqdAs4ixM) | 3:03 |
 | 7 | [100](https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 1:47 |
-| 8 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 |
+| 8 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 |
 | 9 | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 |
 | 10 | [Aaj Kya Karu?](https://open.spotify.com/track/5fWTE8vJR97JJmqjyhGli4) | [Shuman](https://open.spotify.com/artist/37RVI9e6Cg0mE3QZ3aDcpd) | [Aaj Kya Karu?](https://open.spotify.com/album/33lk0F1GAKHxbKCGMAgZZl) | 3:02 |
 | 11 | [First Time](https://open.spotify.com/track/3t12V5tOhYpII5lnsOPSWp) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Darcy](https://open.spotify.com/artist/3xvADMpYPWtCgilD8EljCp) | [First Time](https://open.spotify.com/album/7nst6x6pfFRYSYtBrw9BYp) | 2:55 |

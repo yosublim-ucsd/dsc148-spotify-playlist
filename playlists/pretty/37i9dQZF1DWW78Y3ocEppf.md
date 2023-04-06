@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > The feelings you can't put into words...only songs\. Cover: THEY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,480 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,491 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 63 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 64 | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I) | 3:03 |
 | 65 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
-| 66 | [No Drama](https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [No Drama](https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda) | 3:09 |
-| 67 | [Ultimatum](https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or) | 2:34 |
+| 66 | [Ultimatum](https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or) | 2:34 |
+| 67 | [No Drama](https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [No Drama](https://open.spotify.com/album/0i7WmU3wYCP6DL0Mybqwda) | 3:09 |
 | 68 | [Scorpio Moon](https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Scorpio Moon](https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv) | 2:57 |
 | 69 | [Party](https://open.spotify.com/track/1MSKQ5sxTezNLajz0CBlWk) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Myself](https://open.spotify.com/album/3PsH9MTBkf2eyhFb8mHB6a) | 2:32 |
 | 70 | [Fuckin' Sound](https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 2:44 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 78 | [Out The Way](https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out The Way](https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO) | 2:35 |
 | 79 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 |
 | 80 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 |
-| 81 | [DOWN BAD](https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:21 |
-| 82 | [Glowin 4 Me](https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Glowin 4 Me](https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds) | 2:25 |
-| 83 | [Bad Decisions](https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK) | 2:47 |
-| 84 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 |
+| 81 | [Glowin 4 Me](https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Glowin 4 Me](https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds) | 2:25 |
+| 82 | [DOWN BAD](https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:21 |
+| 83 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 |
+| 84 | [Bad Decisions](https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Bad Decisions](https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK) | 2:47 |
 | 85 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 |
 | 86 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 |
 | 87 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 93 | [Sock It 2 Me](https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sock It 2 Me](https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35) | 3:21 |
 | 94 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 95 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 |
-| 96 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
-| 97 | [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 |
+| 96 | [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 |
+| 97 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 |
 | 98 | [YOU](https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [YOU](https://open.spotify.com/album/2BAYApB6DoC15IToR95xSk) | 4:00 |
 | 99 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 |
 | 100 | [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDg4YmI0Yjg2OTY4OGE0ZTE5ZjQwN2I3MmEzMjI2MjZi`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGExMGI3MjkxMGM1Yjg2ZGU1YmQ2NzU3YjA5YTk0MDBh`

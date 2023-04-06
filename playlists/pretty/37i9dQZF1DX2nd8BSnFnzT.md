@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Plebe Rude
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,902 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,901 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 71 | [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 |
 | 72 | [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 |
 | 73 | [Fábula de uma Granada](https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Fábula de uma Granada](https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK) | 3:49 |
-| 74 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 |
+| 74 | [Permita\-Se](https://open.spotify.com/track/2Fb72sBmDASbLhiuTEjTxW) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [A Vida Sempre Se Vai, Ela Nunca Volta](https://open.spotify.com/album/12d5gyh018ffIjCvn0LnrS) | 3:11 |
 | 75 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 |
 
-Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMGM3YTk4MTg3MWMzM2Y5YzlmMjM0YzlhYzA0NTlmZmYw`
+Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMDFmMTFlNjMzMDVkYzY0ZjhlZjhmNjVlMThjMTAwNDcw`

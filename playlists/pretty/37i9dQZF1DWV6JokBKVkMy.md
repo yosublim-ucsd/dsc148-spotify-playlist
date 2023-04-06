@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 9 | [Trottinette](https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Abdoul](https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Trottinette](https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z) | 3:04 |
 | 10 | [Rève nou ancètre](https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Séparation \(Zenfants perdi simé\)](https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY) | 5:06 |
 | 11 | [Kifer to Pale Danse](https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK) | [Nou Sime](https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6) | 3:45 |
-| 12 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
-| 13 | [Zoli](https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Madii](https://open.spotify.com/artist/4WVU7WxxBuOaOvzT5cvUwN) | [Zoli](https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T) | 5:16 |
+| 12 | [Zoli](https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Madii](https://open.spotify.com/artist/4WVU7WxxBuOaOvzT5cvUwN) | [Zoli](https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T) | 5:16 |
+| 13 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
 | 14 | [Di pain griyé](https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk) | [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9), [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Di pain griyé](https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr) | 4:02 |
 | 15 | [Alimé difé \- Version originale](https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ) | [Cariño](https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0) | [Alimé difé \(Ile Maurice\)](https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb) | 5:13 |
 | 16 | [Ena Ennta Zetwal](https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 4:12 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 25 | [Longanis](https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 3:29 |
 | 26 | [Eliana](https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [Kol Kole](https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN) | 5:02 |
 | 27 | [Viré](https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1), [Le Groupe Ravanna](https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3) | [Main dans la main](https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv) | 5:04 |
-| 28 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
-| 29 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 28 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 29 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
 | 30 | [Ti lipié fer rozet](https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Julien Verloppe](https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:10 |
 | 31 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
 | 32 | [La Route Karanbol](https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [La Route Karanbol](https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDViN2E3YTNmZTE5YWYxYmI5YjEyNGEyOTkyN2Q3Mzcy`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDBjYzI0YjIxNGVlMTcxODcxMzQyMjQ4YzcxODdhNDlh`

@@ -1,12 +1,12 @@
 {
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 100612,
+  "num_followers": 100731,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1NzU5OCwwMDAwMDAwMDc1NDI5NTNkMDkzZTQxY2ZjNTA3YjUzY2IyOTBkYzgy",
+  "snapshot_id": "MTY2MjY1NzU5OCwwMDAwMDAwMDM2YWRjNTA1MmJhNjU3MDAxZjg4OWJmYTZkZDU2NmQz",
   "tracks": [
     {
       "added_at": "2022-09-08 17:19:57",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
-      },
-      "artists": [
-        {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Mediterraneo (Club Favourites Collection '90/98)",
         "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 406200,
       "name": "Alone - Paradise",
       "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+      },
+      "artists": [
+        {
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
     },
     {
       "added_at": "2022-09-08 17:19:57",

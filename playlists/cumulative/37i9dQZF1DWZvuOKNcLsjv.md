@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: タイラー・ザ・クリエイター
 
-627 songs - 1 day 12 hr 15 min
+628 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [SPARK](https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:08 | 2023-03-26 |  |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-12 | 2023-03-06 |
 | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk) | 2:46 | 2023-03-19 | 2023-04-03 |
-| [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-04-02 |  |
+| [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-04-02 | 2023-04-06 |
 | [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/track/3YxxvRxUolgQP4HDZPAxI7) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/album/52QtwQu8LAtmVOdrLmEC6P) | 3:18 | 2023-03-26 | 2023-04-03 |
 | [STARS](https://open.spotify.com/track/6zKX0ZVgLoq784WtHN9lRu) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [STARS](https://open.spotify.com/album/32eOofRGrmZIGfGteyrqxW) | 3:41 | 2023-02-05 | 2023-02-13 |
 | [Start Again](https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again](https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX) | 3:05 | 2023-02-05 | 2023-02-13 |
@@ -591,6 +591,7 @@
 | [呼吸率](https://open.spotify.com/track/5Ll0FDp02V7fqi3x6pykqi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [呼吸率](https://open.spotify.com/album/1uNlZms7aHHagkz2wHcnsk) | 2:50 | 2023-04-02 |  |
 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 | 2023-03-05 | 2023-03-13 |
 | [回春](https://open.spotify.com/track/2pLINOdB1UVzBrgKMLpE4D) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 5:00 | 2023-02-05 | 2023-02-13 |
+| [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2023-04-05 |  |
 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2023-03-05 | 2023-03-20 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-29 | 2023-02-13 |
 | [嫌嫌](https://open.spotify.com/track/73beY6Yn4Jg0CyfN8txrfz) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [嫌嫌](https://open.spotify.com/album/4Qw1FoecWUEh2PGbKYm7Sd) | 3:41 | 2023-03-19 | 2023-04-03 |

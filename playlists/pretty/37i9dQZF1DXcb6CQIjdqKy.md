@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM?si=pi0iNXwBQ8arPDZIBu3PIw">Hillsong UNITED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534,350 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,534,757 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 68 | [Holy \- Live](https://open.spotify.com/track/3gzb78asf6noEszQfOonE0) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Holy \(Live\)](https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq) | 5:31 |
 | 69 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 |
 | 70 | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 |
-| 71 | [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 |
+| 71 | [First Things First](https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 4:11 |
 | 72 | [Anxious Heart](https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:57 |
 | 73 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 |
 | 74 | [God Help Me](https://open.spotify.com/track/3WsSOoRRD2imyL2qJhUnzk) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/7motMWkiG6JGWmRCvKL29v) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 | 100 | [Take It To Jesus](https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Take It To Jesus](https://open.spotify.com/album/2tPojTbfapvOHxUcdiWwkO) | 4:32 |
 
-Snapshot ID: `MTY4MDQxNjkwOCwwMDAwMDAwMDI3ZWM4ZTRjZDg0ODNiMGEzNzkwZGJmMzI5N2YzMWU2`
+Snapshot ID: `MTY4MDQxNjkwOCwwMDAwMDAwMGFiMGYxMzUzZWUwYWUwYmY3YTNjMjhhOWVjZjgyYWE4`

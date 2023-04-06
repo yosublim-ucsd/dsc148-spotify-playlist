@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Luke Combs",
-  "num_followers": 8853,
+  "num_followers": 9178,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzNDQxMCwwMDAwMDAwMGUxZTRlZWE4OGUyMTQzYmVjYzYxNDU0ZGQ5Y2M4YTgy",
+  "snapshot_id": "MTY4MDUzNDQxMCwwMDAwMDAwMGI2ZTVhOTRjZTUzMTE0NTE0NzgyZDQ1OWQwMjkyNmYw",
   "tracks": [
     {
       "added_at": "2023-03-31 18:48:50",
@@ -409,24 +409,20 @@
       "url": "https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS"
     },
     {
-      "added_at": "2023-03-31 18:48:50",
+      "added_at": "2023-04-06 00:29:31",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2023-03-31 18:48:50",
@@ -461,20 +457,24 @@
       "url": "https://open.spotify.com/track/4JirGOs4LxL71MMiZ2VCba"
     },
     {
-      "added_at": "2023-04-05 00:54:44",
+      "added_at": "2023-03-31 18:48:50",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+      "duration_ms": 167480,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
       "added_at": "2023-03-31 18:48:50",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-31 18:48:50",
       "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV"
-    },
-    {
-      "added_at": "2023-03-31 18:48:50",
-      "album": {
         "name": "Jade Eagleson",
         "url": "https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 189573,
       "name": "Got Your Name On It",
       "url": "https://open.spotify.com/track/5hRyy1AIJMc5wyizJcSIEa"
+    },
+    {
+      "added_at": "2023-03-31 18:48:50",
+      "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV"
     },
     {
       "added_at": "2023-03-31 18:48:50",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-03-31 18:48:50",
       "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 180301,
-      "name": "She's with Me",
-      "url": "https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6"
-    },
-    {
-      "added_at": "2023-03-31 18:48:50",
-      "album": {
         "name": "The Lemonade Stand",
         "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 221025,
       "name": "Give Me Tonight",
       "url": "https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr"
+    },
+    {
+      "added_at": "2023-03-31 18:48:50",
+      "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 180301,
+      "name": "She's with Me",
+      "url": "https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6"
     },
     {
       "added_at": "2023-03-31 18:48:50",

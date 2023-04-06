@@ -1327,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Independently Owned | Shucked (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2nbfi3Cu6RUmwB1VvyeE4p"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
+          "name": "Original Broadway Cast of Shucked",
+          "url": "https://open.spotify.com/artist/2Dc5cmoiYcZNXnI6BkDHDj"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "Independently Owned",
+      "url": "https://open.spotify.com/track/3iOL9G1ENCSNUw0X6yv5pF"
+    },
+    {
+      "album": {
         "name": "A Strange Loop (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/5z6tSjQBM6N8jhJKANN7pS"
       },

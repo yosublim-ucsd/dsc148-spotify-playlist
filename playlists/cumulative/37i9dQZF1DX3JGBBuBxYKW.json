@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 222361,
       "name": "No Te Ir\u00e1s",
       "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 262480,
       "name": "Si se fue, se fue",
       "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
@@ -2092,6 +2092,28 @@
       "duration_ms": 226266,
       "name": "Suavecito, Suavecito",
       "url": "https://open.spotify.com/track/6lOSfxnf4BCGdECIW5agSO"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/2uZ1VaFkTWkDGh3QJRz3E8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Europa",
+          "url": "https://open.spotify.com/artist/1nmR8qemtRdHtpuN4IYIeO"
+        },
+        {
+          "name": "Flor Cazzuchelli",
+          "url": "https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222384,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/0FjwCoow8qR8XTavdBG48z"
     },
     {
       "album": {
@@ -2348,7 +2370,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 240091,
       "name": "Yo Tonta, No",
       "url": "https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1"

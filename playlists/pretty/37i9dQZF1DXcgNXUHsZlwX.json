@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 107672,
+  "num_followers": 107687,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQ1NzQ4MywwMDAwMDAwMDk3ZWJhNjBmZjMwYzI2OTE0MGM1MGI1ZWUwMjFmNzc3",
+  "snapshot_id": "MTY4MDQ1NzQ4MywwMDAwMDAwMGEyZWI2MDYwMWE3NDFlYjAwMjU0NjJkNDI1MjQwZjQx",
   "tracks": [
     {
       "added_at": "2023-04-02 17:44:43",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "Afternoon Bike Ride",
+        "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Before the Fall",
+      "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -431,22 +451,6 @@
       "duration_ms": 218160,
       "name": "Sweetpie",
       "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -467,22 +471,18 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Afternoon Bike Ride",
-        "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 179141,
-      "name": "Before the Fall",
-      "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Je retourne \u00e0 la maison",
-        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
-      },
-      "artists": [
-        {
-          "name": "Meghan Oak",
-          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
-        },
-        {
-          "name": "Laurence Castera",
-          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
-        }
-      ],
-      "duration_ms": 200397,
-      "name": "Je retourne \u00e0 la maison",
-      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 198928,
       "name": "Ma chanson Natashquan",
       "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Je retourne \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        },
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "duration_ms": 200397,
+      "name": "Je retourne \u00e0 la maison",
+      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -991,38 +991,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "La nuit est une panth\u00e8re",
-        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
-      },
-      "artists": [
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 177116,
-      "name": "Platane",
-      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1043,6 +1011,38 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "La nuit est une panth\u00e8re",
+        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Platane",
+      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "No Water, No Flowers",
         "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 195235,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "1, 2, 3, 4",
+      "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1103,22 +1119,6 @@
       "duration_ms": 166306,
       "name": "C'est Plus Comme Avant - Version Acoustique",
       "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "1, 2, 3, 4",
-      "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
-        "name": "Les artifices",
-        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Les artifices",
-      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 188516,
       "name": "Tu pars",
       "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
+        "name": "Les artifices",
+        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Les artifices",
+      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
     },
     {
       "added_at": "2023-04-02 17:44:43",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-04-02 17:44:43",
       "album": {
+        "name": "La fum\u00e9e des bougies",
+        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "La fum\u00e9e des bougies",
+      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
+    },
+    {
+      "added_at": "2023-04-02 17:44:43",
+      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2023-04-02 17:44:43",
-      "album": {
-        "name": "La fum\u00e9e des bougies",
-        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "La fum\u00e9e des bougies",
-      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
     },
     {
       "added_at": "2023-04-02 17:44:43",

@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chuu & KIM YOHAN)",
-  "num_followers": 384171,
+  "num_followers": 384260,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTk4MSwwMDAwMDAwMGQyOThkM2VhNDllMmM4NmI2MmM1ZjExMjA0MDdmNjBk",
+  "snapshot_id": "MTY3OTkwNTk4MSwwMDAwMDAwMDQyZDg3MzMyMmM4MjVkZjdiNDA0MWYxMDQ3MmVkYjE2",
   "tracks": [
     {
       "added_at": "2023-03-24 07:42:54",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-03-24 07:42:54",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-03-24 07:42:54",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 202683,
       "name": "1, 2",
       "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
+    },
+    {
+      "added_at": "2023-03-24 07:42:54",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     },
     {
       "added_at": "2023-03-24 07:42:54",

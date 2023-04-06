@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,293 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,333 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 61 | [Goin' Back Down](https://open.spotify.com/track/76qjyCW5AlcxArP0X988IW) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Rowdy Down South](https://open.spotify.com/album/0VFRJoC5VT92Z8CcoG58sT) | 3:45 |
 | 62 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 |
 | 63 | [Dam](https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Southern Son](https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0) | 3:06 |
-| 64 | [Field Party](https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [JJ Lawhorn](https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 4:23 |
-| 65 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
-| 66 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
+| 64 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
+| 65 | [Field Party](https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [JJ Lawhorn](https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 4:23 |
+| 66 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
 | 67 | [Stomp Them Boots](https://open.spotify.com/track/5JGPBq7QfcAq19MviRkbpf) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2WsT4YurJw25uWF3ESj6Oy) | 3:55 |
 | 68 | [Shawty In The Truck](https://open.spotify.com/track/0gvThRb8Wfo7Lotup0uVTg) | [DJ CANNON BANYON](https://open.spotify.com/artist/2LRrFl4GOEkg86nmlQiGCG), [Samroc](https://open.spotify.com/artist/1m4hS0iTIVDX3LuYAXkvSb), [T.J\. Freeq](https://open.spotify.com/artist/5E1uNCtJkKkFFJe5NvIeiq), [Big Jimmy](https://open.spotify.com/artist/09CKHoyg9Icjir1uOOYKSl), [Mo Beatz](https://open.spotify.com/artist/3PMIDJZdpCViOzn3XZ5Wjt) | [Shawty In The Truck](https://open.spotify.com/album/3rzBqaNxEiFZ0Qjd0Isf8A) | 4:33 |
 | 69 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 70 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
 | 71 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 | 72 | [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 |
-| 73 | [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 |
-| 74 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
-| 75 | [Southern Boy](https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk) | 3:14 |
+| 73 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
+| 74 | [Southern Boy](https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk) | 3:14 |
+| 75 | [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDFjMGQ2YWY2YzllNTNhZTk4YzhlZDI5NGYyNTRmZjZk`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDAyNDcwNmE4YWY2ZTljNjEzYmI1NzNhYTMwYTdiZmVi`

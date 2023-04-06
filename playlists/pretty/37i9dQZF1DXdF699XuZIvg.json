@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 603536,
+  "num_followers": 604105,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcyOTE5NSwwMDAwMDAwMDg4NjIwODg5YzNjNjI3Y2EyMDQ4YzhmMWVhNGJmYThh",
+  "snapshot_id": "MTY3ODcyOTE5NSwwMDAwMDAwMDU5Mzk0YWJkNTNjZTQ3OGI2MjNiMmY2MDNlOWU0MDFk",
   "tracks": [
     {
       "added_at": "2023-03-13 17:39:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Balls To The Wall",
-        "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 342600,
-      "name": "Balls to the Wall",
-      "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -879,18 +863,34 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+        "name": "Balls To The Wall",
+        "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
       },
       "artists": [
         {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
         }
       ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
+      "duration_ms": 342600,
+      "name": "Balls to the Wall",
+      "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
+        "name": "Master of Reality (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 317206,
+      "name": "Children of the Grave - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Master of Reality (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
         }
       ],
-      "duration_ms": 317206,
-      "name": "Children of the Grave - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "23 Singles",
-        "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
+        "name": "Talk To Me (feat. Lzzy Hale)",
+        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
       "artists": [
         {
-          "name": "Beatsteaks",
-          "url": "https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
         }
       ],
-      "duration_ms": 169066,
-      "name": "Hand In Hand",
-      "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
+      "duration_ms": 208021,
+      "name": "Talk To Me (feat. Lzzy Hale)",
+      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Talk To Me (feat. Lzzy Hale)",
-        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
+        "name": "23 Singles",
+        "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+          "name": "Beatsteaks",
+          "url": "https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX"
         }
       ],
-      "duration_ms": 208021,
-      "name": "Talk To Me (feat. Lzzy Hale)",
-      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+      "duration_ms": 169066,
+      "name": "Hand In Hand",
+      "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
     },
     {
       "added_at": "2023-03-13 17:39:55",

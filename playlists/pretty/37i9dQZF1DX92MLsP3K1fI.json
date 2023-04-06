@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS y Reik en portada.",
-  "num_followers": 64109,
+  "num_followers": 64182,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDUyOCwwMDAwMDAwMGQ1ZmFiNDdkYjY3ZjBmOTY3MmYzZjk4ZjVjMWRkNDFh",
+  "snapshot_id": "MTY4MDI5MDUyOCwwMDAwMDAwMGYyNTNlMGYwYmIwM2ZiODhlYjBlYjcyYTUzYTliY2E2",
   "tracks": [
     {
       "added_at": "2023-03-31 19:22:08",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-03-31 19:22:08",
       "album": {
-        "name": "sanvalent\u00edn:(",
-        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "sanvalent\u00edn:(",
-      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
-    },
-    {
-      "added_at": "2023-03-31 19:22:08",
-      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": "2023-03-31 19:22:08",
+      "album": {
+        "name": "sanvalent\u00edn:(",
+        "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
     },
     {
       "added_at": "2023-03-31 19:22:08",
@@ -711,18 +711,26 @@
     {
       "added_at": "2023-03-31 19:22:08",
       "album": {
-        "name": "No Es Mi Culpa",
-        "url": "https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37"
+        "name": "La Reina del Flow 2 (Banda Sonora Oficial de la Serie de Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        },
+        {
+          "name": "Alejo Valencia",
+          "url": "https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj"
+        },
+        {
+          "name": "Guita",
+          "url": "https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd"
         }
       ],
-      "duration_ms": 127016,
-      "name": "No Es Mi Culpa",
-      "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
+      "duration_ms": 201702,
+      "name": "Mi Destino",
+      "url": "https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV"
     },
     {
       "added_at": "2023-03-31 19:22:08",
@@ -767,26 +775,18 @@
     {
       "added_at": "2023-03-31 19:22:08",
       "album": {
-        "name": "La Reina del Flow 2 (Banda Sonora Oficial de la Serie de Televisi\u00f3n)",
-        "url": "https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5"
+        "name": "No Es Mi Culpa",
+        "url": "https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37"
       },
       "artists": [
         {
-          "name": "Caracol Televisi\u00f3n",
-          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        },
-        {
-          "name": "Alejo Valencia",
-          "url": "https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj"
-        },
-        {
-          "name": "Guita",
-          "url": "https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 201702,
-      "name": "Mi Destino",
-      "url": "https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV"
+      "duration_ms": 127016,
+      "name": "No Es Mi Culpa",
+      "url": "https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d"
     },
     {
       "added_at": "2023-03-31 19:22:08",

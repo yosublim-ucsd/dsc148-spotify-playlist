@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-368 songs - 1 day 8 hr 3 min
+369 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
 | [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 | 2022-07-13 |  |
+| [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 |  |
 | [Dissociation of the Extinguished Mind](https://open.spotify.com/track/5Ucq7WMc4ouHggTqo09ITX) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Dissociation of the Extinguished Mind](https://open.spotify.com/album/3gHYXJp2doaScSI6pEbsHq) | 6:56 | 2022-04-01 | 2022-05-07 |
 | [Dissolve](https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Dissolve](https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1) | 3:06 | 2022-08-12 | 2022-09-20 |
 | [Diviner](https://open.spotify.com/track/3iXwVC24spjmldA84JCjuz) | [Inborn Tendency](https://open.spotify.com/artist/5I5qsax1FbMfnJ52k5iADw) | [Godkiller](https://open.spotify.com/album/7LBSl4Et96Km08oDAa2kxP) | 3:38 | 2021-12-17 | 2022-05-21 |
@@ -273,7 +274,7 @@
 | [Sadist](https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Sadist](https://open.spotify.com/album/5ckNNJmh051xpFqHzPstQM) | 2:58 | 2021-12-17 | 2022-07-28 |
 | [Salomon's Gate](https://open.spotify.com/track/6BcdUH19ScZk69Sj4oXArV) | [Beherit](https://open.spotify.com/artist/3EHztVB0kFpqp0N8MlmD1X) | [Drawing Down the Moon](https://open.spotify.com/album/3tcK4M3vx2yKtPRm9WbDm4) | 3:39 | 2022-07-13 | 2022-07-24 |
 | [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 | 2022-07-13 | 2023-03-13 |
-| [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 |  |
+| [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 | 2023-04-06 |
 | [Scars In The Landscape Of God](https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w) | [Abigor](https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR) | [Nachthymnen / Orkblut \- The Retaliation](https://open.spotify.com/album/5DlUPLWGhIW5KcsS4zMYMI) | 6:13 | 2022-07-13 | 2022-07-24 |
 | [Scorched Quadrant](https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Scorched Quadrant](https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf) | 5:05 | 2023-03-31 |  |
 | [Scourge of the Offspring](https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Scourge of the Offspring](https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN) | 4:28 | 2023-03-31 |  |

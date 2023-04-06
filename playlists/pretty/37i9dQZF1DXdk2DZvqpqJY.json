@@ -1,29 +1,13 @@
 {
   "description": "Swinging jazz and soft beats for relaxing and unwinding.",
-  "num_followers": 41494,
+  "num_followers": 41619,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0ODUwNCwwMDAwMDAwMDY1YTJiZmI5MWI2ZTU1OTM2YTJhZjE0YjY0ZTNmMjk5",
+  "snapshot_id": "MTY3OTY0ODUwNCwwMDAwMDAwMDkxY2M0OWMyMGVhODQxYjk5NzMyMTEzYjA1Yjg4Njk1",
   "tracks": [
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
-        "name": "Life in Space",
-        "url": "https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 183776,
-      "name": "Barney's",
-      "url": "https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip"
-    },
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 291319,
       "name": "Beautiful Sunrise",
       "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
+        "name": "Life in Space",
+        "url": "https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 183776,
+      "name": "Barney's",
+      "url": "https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
+        "name": "Live Off The Juice",
+        "url": "https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA"
+      },
+      "artists": [
+        {
+          "name": "Garry Cooper Trio",
+          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
+        }
+      ],
+      "duration_ms": 202207,
+      "name": "Live Off The Juice",
+      "url": "https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
         "name": "I Saw The Sun",
         "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
       },
@@ -411,38 +427,6 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Trio",
-          "url": "https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
-        "name": "Live Off The Juice",
-        "url": "https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA"
-      },
-      "artists": [
-        {
-          "name": "Garry Cooper Trio",
-          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
-        }
-      ],
-      "duration_ms": 202207,
-      "name": "Live Off The Juice",
-      "url": "https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
         "name": "Clowns And Crowns",
         "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 241516,
       "name": "Clowns And Crowns",
       "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Trio",
+          "url": "https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "Love In Your Arms",
-        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
-      },
-      "artists": [
-        {
-          "name": "Paul Moretti Trio",
-          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
-        }
-      ],
-      "duration_ms": 202872,
-      "name": "Love In Your Arms",
-      "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
         "name": "Something About Her Smile",
         "url": "https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 238107,
       "name": "Tip Your Hat",
       "url": "https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
+        "name": "Love In Your Arms",
+        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
+      },
+      "artists": [
+        {
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
+        }
+      ],
+      "duration_ms": 202872,
+      "name": "Love In Your Arms",
+      "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "Everytime We Say Goodbye",
-        "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 280734,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
         "name": "Bluewerks Vol. 9: Wash Away",
         "url": "https://open.spotify.com/album/447z6KiTpRlrMDrCcK6rlz"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 144000,
       "name": "Forgotten In Time",
       "url": "https://open.spotify.com/track/11h4l3EgeolFw8ELwimXKd"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
+        "name": "Everytime We Say Goodbye",
+        "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "duration_ms": 280734,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "Through The Years",
-        "url": "https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0"
-      },
-      "artists": [
-        {
-          "name": "Will Rivers Trio",
-          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
-        }
-      ],
-      "duration_ms": 236931,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/1uMrSU3YkCa8yP9ymLFaTd"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 132000,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/30f3b4Ths4zd2na9tip4CP"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
+        "name": "Through The Years",
+        "url": "https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0"
+      },
+      "artists": [
+        {
+          "name": "Will Rivers Trio",
+          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
+        }
+      ],
+      "duration_ms": 236931,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -1355,6 +1355,30 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm"
+      },
+      "artists": [
+        {
+          "name": "Homson",
+          "url": "https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2"
+        },
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        },
+        {
+          "name": "tonbo",
+          "url": "https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
         "name": "Bobbi",
         "url": "https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 240714,
       "name": "One Day We'll Meet Again",
       "url": "https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm"
-      },
-      "artists": [
-        {
-          "name": "Homson",
-          "url": "https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2"
-        },
-        {
-          "name": "azayaka",
-          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
-        },
-        {
-          "name": "tonbo",
-          "url": "https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -1515,18 +1515,26 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "You're A Girl For One Man Only",
-        "url": "https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2"
+        "name": "Shroomin'",
+        "url": "https://open.spotify.com/album/1ogdrLRi9fNZl7XpEytaAR"
       },
       "artists": [
         {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        },
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
         }
       ],
-      "duration_ms": 238569,
-      "name": "You're A Girl For One Man Only",
-      "url": "https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud"
+      "duration_ms": 148970,
+      "name": "Shroomin'",
+      "url": "https://open.spotify.com/track/4kt2mS8GfHLZETTXg3aO4j"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -1543,6 +1551,22 @@
       "duration_ms": 346000,
       "name": "Bitter Suite",
       "url": "https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES"
+    },
+    {
+      "added_at": "2023-03-24 09:01:44",
+      "album": {
+        "name": "You're A Girl For One Man Only",
+        "url": "https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 238569,
+      "name": "You're A Girl For One Man Only",
+      "url": "https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud"
     },
     {
       "added_at": "2023-03-24 09:01:44",
@@ -1571,22 +1595,6 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "Floatin'",
-        "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
-      },
-      "artists": [
-        {
-          "name": "Charlie Calz Beats",
-          "url": "https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp"
-        }
-      ],
-      "duration_ms": 112985,
-      "name": "Floatin'",
-      "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
-    },
-    {
-      "added_at": "2023-03-24 09:01:44",
-      "album": {
         "name": "Big Apple",
         "url": "https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb"
       },
@@ -1603,26 +1611,18 @@
     {
       "added_at": "2023-03-24 09:01:44",
       "album": {
-        "name": "Shroomin'",
-        "url": "https://open.spotify.com/album/1ogdrLRi9fNZl7XpEytaAR"
+        "name": "Floatin'",
+        "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
       },
       "artists": [
         {
-          "name": "Clifford",
-          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
-        },
-        {
-          "name": "Melatone",
-          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
-        },
-        {
-          "name": "Howden",
-          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+          "name": "Charlie Calz Beats",
+          "url": "https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp"
         }
       ],
-      "duration_ms": 148970,
-      "name": "Shroomin'",
-      "url": "https://open.spotify.com/track/4kt2mS8GfHLZETTXg3aO4j"
+      "duration_ms": 112985,
+      "name": "Floatin'",
+      "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
     },
     {
       "added_at": "2023-03-24 09:01:44",

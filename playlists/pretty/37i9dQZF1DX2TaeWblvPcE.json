@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6310,
+  "num_followers": 6323,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGEwNjI3ZGQ0ODUxYTc3NDNhZWZmYmFmYmFkMWRhMDAw",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDBkYmExODJmMGFmYzIwNTkyMjAyZjRmODgzMTBjOTZm",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "Say I Love U - Instrumental",
+      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Mr. Sunshine (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 290078,
       "name": "Sad Ending",
       "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "Say I Love U - Instrumental",
-      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -335,26 +335,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
-      },
-      "artists": [
-        {
-          "name": "Nam Hye Seung",
-          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
-        },
-        {
-          "name": "Park Sang Hee",
-          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
-        }
-      ],
-      "duration_ms": 202566,
-      "name": "Be a Flame",
-      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
       },
@@ -367,22 +347,6 @@
       "duration_ms": 253186,
       "name": "Breath - instrumental",
       "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "More Than Words - Instrumental",
-      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -403,18 +367,38 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
         }
       ],
-      "duration_ms": 234093,
-      "name": "You're Cold - Instrumental",
-      "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
+      "duration_ms": 202566,
+      "name": "Be a Flame",
+      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "More Than Words - Instrumental",
+      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "duration_ms": 256526,
+      "name": "Love Poem",
+      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "KPOP Piano Collection, Vol. 1",
         "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
       "artists": [
         {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 256526,
-      "name": "Love Poem",
-      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+      "duration_ms": 234093,
+      "name": "You're Cold - Instrumental",
+      "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
+        "name": "Romance is a Bonus Book OST Part.4",
+        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
         }
       ],
-      "duration_ms": 157000,
-      "name": "My Eyes - Instrumental",
-      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
+      "duration_ms": 227936,
+      "name": "I pray (Inst.) (Instrumental)",
+      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Romance is a Bonus Book OST Part.4",
-        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
+        "name": "Guardian (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
       },
       "artists": [
         {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 227936,
-      "name": "I pray (Inst.) (Instrumental)",
-      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
+      "duration_ms": 157000,
+      "name": "My Eyes - Instrumental",
+      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 245367,
+      "name": "Bravo, My Life! - Instrumental",
+      "url": "https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 212480,
       "name": "Raindrops - Instrumental",
       "url": "https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 245367,
-      "name": "Bravo, My Life! - Instrumental",
-      "url": "https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Men Are Men (Original Television Soundtrack), Pt.4",
-        "url": "https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "Not Clumsy Anymore - Inst.",
-      "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream (Inst.)",
       "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Men Are Men (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Not Clumsy Anymore - Inst.",
+      "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Kkondae Intern OST Part 3",
-        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 307426,
-      "name": "Uphill (Inst.)",
-      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 230768,
       "name": "Please Forget Me - Instrumental",
       "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Kkondae Intern OST Part 3",
+        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 307426,
+      "name": "Uphill (Inst.)",
+      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+        "name": "Blood Sweat & Tears",
+        "url": "https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 311855,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/7aLqXOGrYH4tMkQcCE2uMa"
+      "duration_ms": 241992,
+      "name": "Blood Sweat & Tears",
+      "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
     }
   ],
   "unique_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",

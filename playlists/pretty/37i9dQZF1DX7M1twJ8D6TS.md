@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,633 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,707 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 28 | [Ranch Girl Dream](https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Muchos Sonidos](https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE) | 3:43 |
 | 29 | [Happier Alone](https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP) | 3:44 |
 | 30 | [Austin](https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG) | 4:34 |
-| 31 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
-| 32 | [Don't Even Say Bye](https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Don't Even Say Bye](https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r) | 3:57 |
+| 31 | [Don't Even Say Bye](https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Don't Even Say Bye](https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r) | 3:57 |
+| 32 | [Don't Tell Me](https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:40 |
 | 33 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
 | 34 | [This Damn Song](https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers](https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7) | 4:06 |
 | 35 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 60 | [Boots](https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [American Soul](https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe) | 3:09 |
 | 61 | [Queen for a Night](https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [One Light Town](https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa) | 3:16 |
 | 62 | [Bad Reputation](https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Bad Reputation](https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw) | 3:39 |
-| 63 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 |
+| 63 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 |
 | 64 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 |
-| 65 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 |
+| 65 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 |
 | 66 | [Sticks and Stones](https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side A\)](https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D) | 3:30 |
 | 67 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
-| 68 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
-| 69 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 |
-| 70 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
-| 71 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
+| 68 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 |
+| 69 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
+| 70 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
+| 71 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
 | 72 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 73 | [Loser Mentality](https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Loser Mentality](https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6) | 3:13 |
 | 74 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 86 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
 | 87 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
 | 88 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
-| 89 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 |
-| 90 | [Something 'Bout a Southern Girl](https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Something 'Bout a Southern Girl](https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5) | 4:22 |
+| 89 | [Something 'Bout a Southern Girl](https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Something 'Bout a Southern Girl](https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5) | 4:22 |
+| 90 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 |
 | 91 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
 | 92 | [In the Dark](https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [In the Dark](https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX) | 3:52 |
 | 93 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 99 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 |
 | 100 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDg0NTM3NjM4YjE3MzliOGFjMTg1NDk2NzA1NjM0YTlh`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDZiZjcyNzhhNWQzZmNmNGQ2NDI1ZTY0YzgwYTlkNGNk`

@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 3375,
+  "num_followers": 3380,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGU2NGQ3NDQ1OTMzZmNkODdjZmY3Y2NiZGY2MmRmNzc2",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGY3OTQwZDA5YzkzYjUwY2IzNTU1OTk4N2YxYmE4Mjkx",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Scott Joplin Greatest Hits",
-        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
-      },
-      "artists": [
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sugar Cane",
-      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
         "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 177000,
       "name": "Great Scott Rag",
       "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+      },
+      "artists": [
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -499,18 +499,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
-        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
+        "name": "Grace And Beauty - Ragtime Classics",
+        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
       },
       "artists": [
         {
-          "name": "Bryan Wright",
-          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
+          "name": "Scott Kirby",
+          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
         }
       ],
-      "duration_ms": 255826,
-      "name": "Weeping Willow (Scott Joplin)",
-      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
+      "duration_ms": 180773,
+      "name": "Evergreen Rag (1915 - James Scott)",
+      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Grace And Beauty - Ragtime Classics",
-        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
+        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
       },
       "artists": [
         {
-          "name": "Scott Kirby",
-          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+          "name": "Bryan Wright",
+          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
         }
       ],
-      "duration_ms": 180773,
-      "name": "Evergreen Rag (1915 - James Scott)",
-      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
+      "duration_ms": 255826,
+      "name": "Weeping Willow (Scott Joplin)",
+      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Christmas Eve 1915",
-        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
-      },
-      "artists": [
-        {
-          "name": "Bill Edwards",
-          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Reindeer Rag",
-      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Ragtime, Vol. 1",
         "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 217373,
       "name": "Broadway Rag",
       "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Christmas Eve 1915",
+        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
+      },
+      "artists": [
+        {
+          "name": "Bill Edwards",
+          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Reindeer Rag",
+      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
     },
     {
       "added_at": "2020-08-19 17:18:36",

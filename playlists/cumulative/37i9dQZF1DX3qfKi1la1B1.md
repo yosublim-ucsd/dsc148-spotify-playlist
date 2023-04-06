@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-173 songs - 11 hr 21 min
+174 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-01-24 | 2023-03-15 |
 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-10-20 |  |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-14 |  |
+| [Make Me Me](https://open.spotify.com/track/569UadBl6Ivq7BqUsWp0va) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Grand Salvo](https://open.spotify.com/artist/1FiSrNywfLIXqMjB1fTfVh) | [Make Me Me](https://open.spotify.com/album/7gwA2KDKOKoPgQRJMoWsZ2) | 3:56 | 2023-04-04 |  |
 | [Make My Way Back Home](https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Make My Way Back Home](https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42) | 3:56 | 2023-03-31 |  |
-| [Makes Me Me](https://open.spotify.com/track/15CXnDpIKFFDgL3cx86CgW) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Grand Salvo](https://open.spotify.com/artist/1FiSrNywfLIXqMjB1fTfVh) | [Make Me Me](https://open.spotify.com/album/5L2fM1oYpraPhYIMt7rjWq) | 3:58 | 2023-04-04 |  |
+| [Makes Me Me](https://open.spotify.com/track/15CXnDpIKFFDgL3cx86CgW) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Grand Salvo](https://open.spotify.com/artist/1FiSrNywfLIXqMjB1fTfVh) | [Make Me Me](https://open.spotify.com/album/5L2fM1oYpraPhYIMt7rjWq) | 3:58 | 2023-04-04 | 2023-04-06 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-10-20 |  |
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-10-20 | 2023-03-15 |
 | [Mercy through the Clouds](https://open.spotify.com/track/5D6GPHLuelrjivumi4YWwt) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Mercy through the Clouds](https://open.spotify.com/album/4sU68bQNkqQrIZGtxCYYqb) | 4:39 | 2022-12-15 | 2023-01-27 |

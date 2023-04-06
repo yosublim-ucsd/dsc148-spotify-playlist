@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 結城佑莉
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,100 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,129 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 77 | [各停で行こう](https://open.spotify.com/track/3kcEuewP2VldWBrKC5pNIr) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [各停で行こう](https://open.spotify.com/album/1mRuiPEhuXNmrv5LIbHIqX) | 2:47 |
 | 78 | [MELTDOWN](https://open.spotify.com/track/4ZRpN74Bcc54Sh1v2h4CE3) | [シトナユイ](https://open.spotify.com/artist/0kWlfrKUtyyjipOtWz5gkB) | [MUSEUM](https://open.spotify.com/album/1dlyh4WWmk1B5ERPXv3An3) | 3:28 |
 | 79 | [Reminiscence](https://open.spotify.com/track/5xZwYr9af0yLdiJq0BDns0) | [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr), [maako](https://open.spotify.com/artist/1v9yzk9YBTe18JroIG4Yo6) | [Reminiscence](https://open.spotify.com/album/3L8GfhK8uO7vuUybyMzpn1) | 3:45 |
-| 80 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 |
+| 80 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
 
-Snapshot ID: `MTY4MDU2MjUzNywwMDAwMDAwMGM2ZjRkYmU0YThhYzdjZDlmYmJkOGYwNGViYTlhMGI1`
+Snapshot ID: `MTY4MDU2MjUzNywwMDAwMDAwMDkwOWVlZTc2MDc2YmI1YmJkYTQ3OWZkOGYzMzQzNTc1`

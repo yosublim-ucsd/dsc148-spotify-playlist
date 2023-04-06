@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,945 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,514 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 25 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 |
 | 26 | [テレパス](https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [テレパス](https://open.spotify.com/album/2UGjDQb2VvvfasGe7n1hxN) | 4:53 |
 | 27 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 |
-| 28 | [逆転劇](https://open.spotify.com/track/6EfKm8UXtBQqQXz2epsiwc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [逆転劇](https://open.spotify.com/album/1SCbaRbu0FCUySzlPDPO9r) | 3:02 |
+| 28 | [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 |
 | 29 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
 | 30 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 |
 | 31 | [勇敢な君に](https://open.spotify.com/track/1F4Hv0bnA7Nq5ixKUOoMmE) | [長瀞さん\(CV.上坂すみれ\)](https://open.spotify.com/artist/5ZdJyfAOmOzp8GTVx3krLl) | [勇敢な君に/君のためなら](https://open.spotify.com/album/19x44ioB8AIAvlMta296Ni) | 3:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 89 | [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 |
 | 90 | [Decided \- TV Ver.](https://open.spotify.com/track/5rynUgMeny61eYuypw44eG) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Decided \(TV Ver.\)](https://open.spotify.com/album/2bpsGGYNMrK0Iw2dDN2eyQ) | 1:31 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDE4MzI1MTY2OGY1MDQ1YzkzOTgwZWFkOTZiMTBhM2E5`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGUwNmVhOGI3YmE1ZjMzODRmYzM2ZjcyMTZkNTZmNTA5`

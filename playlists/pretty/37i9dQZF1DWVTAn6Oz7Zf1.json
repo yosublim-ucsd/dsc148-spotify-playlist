@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 166756,
+  "num_followers": 166767,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NDcxNywwMDAwMDAwMGQ4MDkyYjVhMzg1YTg5MmNjNWFkMDdlNjg3MDY4YTAx",
+  "snapshot_id": "MTY3OTA0NDcxNywwMDAwMDAwMDQ5ZWJkOWZkMjYwYTQwMTc2NWZmMWRjNjc4M2U5MWE2",
   "tracks": [
     {
       "added_at": "2023-03-17 09:18:37",
@@ -611,22 +611,22 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 147139,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -691,22 +691,22 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+      "duration_ms": 147139,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "DJ Craig Gorman",
+          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Talk About",
+      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
-        "name": "Talk About",
-        "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "DJ Craig Gorman",
-          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Talk About",
-      "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 186184,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 140011,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Fading Like A Flower",
-        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 145807,
-      "name": "Fading Like A Flower",
-      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 177213,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Fading Like A Flower",
+        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 145807,
+      "name": "Fading Like A Flower",
+      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Happy Machine",
-        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 135265,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -1411,18 +1391,38 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Hungry (For Love)",
-        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+        "name": "Happy Machine",
+        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
         }
       ],
-      "duration_ms": 129375,
-      "name": "Hungry (For Love)",
-      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
+      "duration_ms": 135265,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1443,6 +1443,22 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1487,38 +1503,6 @@
       "duration_ms": 177560,
       "name": "Take Me To The Sunshine (feat. BullySongs)",
       "url": "https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1575,6 +1559,22 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2023-03-17 09:18:37",

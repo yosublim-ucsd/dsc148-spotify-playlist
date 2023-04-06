@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 725672,
+  "num_followers": 725902,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzNTcyMCwwMDAwMDAwMDhlMjA5OGFiY2I2YmY0MTI5MzNlZGYzMzcyOTcwNWU1",
+  "snapshot_id": "MTY3OTkzNTcyMCwwMDAwMDAwMGE1ZTIyMmY3MmYzN2YzY2IwM2YxNGYxMDdhYmEzMjZi",
   "tracks": [
     {
       "added_at": "2023-01-03 16:27:37",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Hell's Comin' with Me",
-        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
-      },
-      "artists": [
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "duration_ms": 212996,
-      "name": "Hell's Comin' with Me",
-      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Seven + Mary",
         "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
       },
@@ -59,22 +43,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -87,6 +55,22 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -139,6 +123,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -231,22 +215,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -259,6 +227,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -291,22 +275,6 @@
       "duration_ms": 249739,
       "name": "Beggin For Thread",
       "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -359,18 +327,18 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -425,22 +393,6 @@
       "url": "https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja"
     },
     {
-      "added_at": "2023-04-05 01:09:15",
-      "album": {
-        "name": "John Came Home",
-        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
       "added_at": "2023-01-03 16:27:37",
       "album": {
         "name": "Killer + The Sound",
@@ -481,20 +433,36 @@
       "url": "https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY"
     },
     {
-      "added_at": "2023-01-03 16:27:37",
+      "added_at": "2023-04-06 00:41:52",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
         }
       ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -515,6 +483,22 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -567,6 +551,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Turn Out the Lights",
+        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Appointments",
+      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "Nocturne EP",
         "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "Turn Out the Lights",
-        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Appointments",
-      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -1295,6 +1263,22 @@
       "duration_ms": 210613,
       "name": "Dream State...",
       "url": "https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 180067,
-      "name": "Sleep Baby Sleep",
-      "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Before We Forgot How To Dream",
         "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
       },
@@ -1443,6 +1411,22 @@
       "duration_ms": 288140,
       "name": "B a noBody",
       "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 180067,
+      "name": "Sleep Baby Sleep",
+      "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1543,22 +1527,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Farm b/w Lift",
         "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
       },
@@ -1571,6 +1539,22 @@
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1667,6 +1651,22 @@
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Glass Balloon",
+        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
+      },
+      "artists": [
+        {
+          "name": "Twin Caverns",
+          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
+        }
+      ],
+      "duration_ms": 243667,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
     }
   ],
   "unique_name": "Dark & Stormy",

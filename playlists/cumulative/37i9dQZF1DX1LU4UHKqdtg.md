@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: STAYC
 
-546 songs - 1 day 6 hr 3 min
+547 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/5fHS1iSqjQfrQ7D0iLykav) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short \(English Version\)](https://open.spotify.com/album/3CwbWCk3lGoKaqdQ4Qtpkq) | 2:58 | 2022-06-23 | 2022-07-29 |
 | [Lighthouse](https://open.spotify.com/track/77FgO272LaNIQklzQIVlJt) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Life goes on](https://open.spotify.com/album/0f7HOkgm4MtnKgtVlcQqnK) | 4:09 | 2022-06-28 | 2022-08-12 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 |  |
+| [LIKE IT LIKE IT](https://open.spotify.com/track/6VgpwRvDpTt880tIhkGjap) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 | 2023-04-05 |  |
 | [LIKE IT LIKE IT](https://open.spotify.com/track/7ISeBBHzZgNWiDjJEcv3YH) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/78pg93B2eu8AMtNtCyWyA2) | 3:08 | 2023-03-03 |  |
 | [Like Snow\-White](https://open.spotify.com/track/4UWMq8MZLZoYp6sPfau7bj) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Epitaph](https://open.spotify.com/album/0G2cUavLBvDifRqcO1d9qJ) | 3:04 | 2022-03-15 | 2022-04-13 |
 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 | 2023-03-21 |  |

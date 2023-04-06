@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 315110,
+  "num_followers": 315190,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5Mzg2MSwwMDAwMDAwMDhjYjE3NmMxZGIwMDJjYmYxNWExMDI5NDZiZjJmNTgy",
+  "snapshot_id": "MTY4MDI5Mzg2MSwwMDAwMDAwMDkyNzE0N2ZlZjIzZTMyNWE3YzE4MWY3Nzk5N2RlYWQ4",
   "tracks": [
     {
       "added_at": "2023-03-31 20:17:41",
@@ -455,6 +455,34 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Emily I'm Sorry",
+      "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -503,34 +531,6 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
-        "name": "Driving Songs",
-        "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Virtual Insanity - Remastered",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-03-31 20:17:41",
       "album": {
+        "name": "Driving Songs",
+        "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Virtual Insanity - Remastered",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2023-03-31 20:17:41",
+      "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
     },
     {
       "added_at": "2023-03-31 20:17:41",
@@ -703,22 +719,6 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-03-31 20:17:41",
-      "album": {
-        "name": "Eucalyptus",
-        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Eucalyptus",
-      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
     },
     {
       "added_at": "2023-03-31 20:17:41",

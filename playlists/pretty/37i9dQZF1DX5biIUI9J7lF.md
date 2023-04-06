@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,694 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 34 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 |
 | 35 | [Money Bag](https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Money Bag](https://open.spotify.com/album/1DljXwHBRFBGAnKqJKOt3D) | 2:36 |
 | 36 | [Just Because](https://open.spotify.com/track/0YL65Oqm2oVKSC2GIdZf69) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Just Because](https://open.spotify.com/album/1nNcCg5KTRsySgCji6NvcS) | 3:12 |
-| 37 | [Dinaledi](https://open.spotify.com/track/5VLElSNqpJk1XNfvxOxspv) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Ke Dezemba](https://open.spotify.com/album/2KIglHux9xCbLwlzoNe0hX) | 8:15 |
+| 37 | [Dinaledi](https://open.spotify.com/track/4iV5jLDicfTHyAj3XN3ISk) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Pianonation!](https://open.spotify.com/album/7gOrIULeT9Ad1IsaT6x6Uw) | 8:15 |
 | 38 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
 | 39 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 | 40 | [Enjoy](https://open.spotify.com/track/1LCy7LSknQSMxxflErjKqO) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Enjoy](https://open.spotify.com/album/1MbsUNijqaPrfESRq6jz7c) | 2:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 59 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
 | 60 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 |
 
-Snapshot ID: `MTY3OTA1NDEwOSwwMDAwMDAwMDdiZGI2ZTI5MzgyMzJlNjc1YjlkZThkYzJkNGM2MDcw`
+Snapshot ID: `MTY3OTA1NDEwOSwwMDAwMDAwMDIzZjQyNzE4NThiYzcxZGZmMzUzYzRjYTdmNTRmZWI2`

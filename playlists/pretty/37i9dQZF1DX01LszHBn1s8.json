@@ -1,12 +1,12 @@
 {
   "description": "me sitting in an office making this playlist for you hoping yall will like it ",
-  "num_followers": 177216,
+  "num_followers": 177343,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGQwYzFhNThiMWZiYzViZmRmNTNmMTRmZTZhMjUzNTEz",
+  "snapshot_id": "MTY4MDY4NzkxNywwMDAwMDAwMDczMjA3MTI3Y2EyNDk5NmYyZTBhNDAxOWQxYmJkMTc5",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 176286,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -71,6 +55,22 @@
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
+      "added_at": "2023-04-05 09:31:21",
+      "album": {
+        "name": "I know it won't work (Live)",
+        "url": "https://open.spotify.com/album/4iRWUVgDWkUoMPjz7YTXpy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "I know it won't work - Live",
+      "url": "https://open.spotify.com/track/304UU8a3Zv0n06JGOUuJh0"
+    },
+    {
       "added_at": "2023-03-30 23:00:00",
       "album": {
         "name": "Miracle (with Ellie Goulding) [Church Version]",
@@ -139,22 +155,6 @@
       "duration_ms": 164608,
       "name": "Miracle (with Ellie Goulding) - Church Version",
       "url": "https://open.spotify.com/track/5ZPNgsEfH0yiwYSQUe6D8n"
-    },
-    {
-      "added_at": "2023-03-29 07:25:13",
-      "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -547,6 +547,22 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb"
+    },
+    {
+      "added_at": "2023-03-29 07:25:13",
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -5584,7 +5600,7 @@
       "added_at": "2023-03-23 23:00:00",
       "album": {
         "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi"
+        "url": "https://open.spotify.com/album/7AHXqAmIXflf6V96wJ33Q9"
       },
       "artists": [
         {
@@ -5594,7 +5610,7 @@
       ],
       "duration_ms": 114375,
       "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6"
+      "url": "https://open.spotify.com/track/5NBCTiyU4o57c3ClTFI3Wk"
     },
     {
       "added_at": "2023-03-23 23:00:00",

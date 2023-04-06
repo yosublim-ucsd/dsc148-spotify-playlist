@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=lsdcKdofRAOEWWUBZtXtMw"> Mercy Chinwo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,935 likes - 70 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,970 likes - 70 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

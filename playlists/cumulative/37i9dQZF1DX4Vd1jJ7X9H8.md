@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-398 songs - 23 hr 43 min
+399 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 | 2022-07-29 |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2022-07-27 | 2022-10-15 |
 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 | 2022-05-31 |  |
-| [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 | 2022-08-16 |  |
+| [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 | 2022-08-16 | 2023-04-06 |
 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 | 2022-07-22 |  |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2022-05-31 |  |
 | [I Feel High \(with L'Impératrice\)](https://open.spotify.com/track/4OMmBb1DjcGzGGuWQ9BrEa) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [I Feel High \(with L'Impératrice\)](https://open.spotify.com/album/7nK79Wl7itsufai62toTky) | 4:22 | 2021-06-25 | 2022-07-29 |
@@ -258,6 +258,7 @@
 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 | 2020-12-31 |  |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2020-12-31 | 2022-08-12 |
 | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY) | 3:20 | 2021-11-19 | 2022-07-29 |
+| [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:05 | 2023-04-06 |  |
 | [Now](https://open.spotify.com/track/09n07inA9RsJle5882HH6j) | [Adam K](https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb), [Drew North](https://open.spotify.com/artist/6OhAFFlcJDyR2IfV6GWL44), [JUICEB☮X](https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR) | [Drew North](https://open.spotify.com/album/7vMwyjIKzorFNHapXG8Gwb) | 3:40 | 2021-11-12 | 2022-07-25 |
 | [Oblivion](https://open.spotify.com/track/2RtNSM8cPCAOZ5bvQbW6y3) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/2jXthXcPiAdhatxYPv4yPk) | 4:11 | 2021-11-12 | 2022-06-28 |
 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 | 2022-07-22 | 2022-08-12 |

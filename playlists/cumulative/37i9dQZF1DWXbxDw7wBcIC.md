@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-87 songs - 4 hr 21 min
+88 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Mojo Hand](https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 2:59 | 2017-11-02 |  |
 | [Mojo Hand](https://open.spotify.com/track/1WE055A5d1019EAx79Rg8Q) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Roots of Led Zeppelin](https://open.spotify.com/album/2COvDjzoJTRf7Nliwcygz7) | 3:02 | 2017-11-02 | 2022-07-29 |
 | [Mr\. McTell Got the Blues \- 2003 Remastered](https://open.spotify.com/track/5w3davI2J6IeUfBZ4cE2qq) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Statesboro Blues \- When The Sun Goes Down Series](https://open.spotify.com/album/7EKSJCGavez0TJwIiLk1aq) | 2:17 | 2017-11-02 |  |
-| [No More, My Lawd](https://open.spotify.com/track/6LYtBOkkTUNQ6RTHAyFflL) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:09 | 2017-11-02 |  |
+| [No More, My Lawd](https://open.spotify.com/track/6LYtBOkkTUNQ6RTHAyFflL) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:09 | 2017-11-02 | 2023-04-06 |
+| [No More, My Lawd](https://open.spotify.com/track/6IagJtC3ilidFaJS2PCMe1) | [Jimpson And Men With Axes](https://open.spotify.com/artist/3auTn6o3PnUdeTZnn2b7YU), [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Songs from the Mississippi State Penitentiary Recorded by Alan Lomax](https://open.spotify.com/album/7J1vB1yn7iaNR6GX3htJiy) | 2:07 | 2017-11-02 |  |
 | [Parchman Farm Blues](https://open.spotify.com/track/71D4KuZap7aSf05yzc5ZIG) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Broadcasting the Blues: Black Blues in the Segregation Era \(Compiled and Edited by Paul Oliver\)](https://open.spotify.com/album/6TLaynGmOsWHthN5n47hU0) | 2:42 | 2017-11-02 | 2022-07-29 |
 | [Parchman Farm Blues](https://open.spotify.com/track/5cQ7tg9pZauOxt7K7GuUQS) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Presenting Bukka White](https://open.spotify.com/album/6MPjSoHLOZSsu047TOjWPo) | 2:42 | 2017-11-02 |  |
 | [Parchman Farm Blues](https://open.spotify.com/track/5NTAzjN9cI8GIyzMQgjCxM) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp), [Washboard Sam](https://open.spotify.com/artist/7lTZRLYcjbgGHXCA1VCYDT) | [Bukka White \(Doxy Collection\)](https://open.spotify.com/album/2gC8mucP4T5CBv2KBkhUkp) | 2:39 | 2017-11-02 | 2022-11-14 |

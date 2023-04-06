@@ -18965,6 +18965,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Song",
+        "url": "https://open.spotify.com/album/5TTTrEZ7oNZK10qmZp7MWw"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212552,
+      "name": "Karaoke Song",
+      "url": "https://open.spotify.com/track/5fxhtFc0h2TZ7SpezVl9SY"
+    },
+    {
+      "album": {
         "name": "Karlaplan",
         "url": "https://open.spotify.com/album/06Kk4K3I7aXSSzZ0HWQh1r"
       },

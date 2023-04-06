@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 151649,
+  "num_followers": 152033,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDU3MmU5MWZjZTdmNTk5MDViZjBkMDUyNGU5OTg2OWJi",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMGU1MmRiODU3ZjRkZDEyNDIxODdhZTA2OWU0MWE1ZjI2",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
+        "name": "Carboot Soul",
+        "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 379367,
+      "name": "Les Nuits",
+      "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
         "name": "So Far",
         "url": "https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Carboot Soul",
-        "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 379367,
-      "name": "Les Nuits",
-      "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 213546,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
-        "name": "Donna Summer",
-        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "State of Independence",
-      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -723,6 +707,22 @@
       "duration_ms": 849960,
       "name": "Music Is the Answer - Original Extended 12-Inch Mix",
       "url": "https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Donna Summer",
+        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "State of Independence",
+      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
     },
     {
       "added_at": "2022-04-13 15:02:41",

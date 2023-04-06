@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg"
+      },
+      "artists": [
+        {
+          "name": "Rotten Sound",
+          "url": "https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76972,
+      "name": "Digital Bliss",
+      "url": "https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG"
+    },
+    {
+      "album": {
         "name": "Dissociation of the Extinguished Mind",
         "url": "https://open.spotify.com/album/3gHYXJp2doaScSI6pEbsHq"
       },
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"

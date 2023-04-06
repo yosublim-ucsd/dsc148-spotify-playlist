@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,426 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,465 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 59 | [Lupita](https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [La Industria Salsera](https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq) | 3:48 |
 | 60 | [Amor Perfecto](https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ) | 4:35 |
 | 61 | [La Hija De Lola](https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [El Gigante del Teclado](https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp) | 4:32 |
-| 62 | [Llanto De Cocodrilo](https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Indestructible](https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC) | 3:54 |
+| 62 | [A Las Seis](https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Steppin' Out](https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI) | 2:43 |
 | 63 | [Hermano](https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:54 |
-| 64 | [A Las Seis](https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Steppin' Out](https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI) | 2:43 |
+| 64 | [Llanto De Cocodrilo](https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Indestructible](https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC) | 3:54 |
 | 65 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
 | 66 | [Carbonerito](https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [35th Anniversary\- 35 Years Around the World](https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn) | 5:01 |
 | 67 | [No Sirvo Pa' Queso](https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa) | [La Maxima 79](https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94) | [Regresando al Guaguancò](https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX) | 4:00 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 71 | [Esta Pegao](https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 4:38 |
 | 72 | [Carro de Fuego](https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:31 |
 | 73 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
-| 74 | [Mi Lindo Yambú](https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Unchained Force](https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH) | 5:50 |
-| 75 | [A El](https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:44 |
+| 74 | [A El](https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:44 |
+| 75 | [Mi Lindo Yambú](https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Unchained Force](https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH) | 5:50 |
 | 76 | [Rumba Rumbero](https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 4:03 |
 | 77 | [La Lotería](https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW) | [Andy Harlow](https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG) | [Sorpresa La Flauta](https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ) | 3:16 |
 | 78 | [Mujer de Carne y Hueso](https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:53 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MTY3OTAxNDM3NiwwMDAwMDAwMDYxZjljNTU5NmMzNTViMzNkNDE4Nzk3OTVlMDc3ZThl`
+Snapshot ID: `MTY3OTAxNDM3NiwwMDAwMDAwMGYyNzRlYzVkZTMwMzE5NzhjNzU1NGEzZjJiNzliYjU2`

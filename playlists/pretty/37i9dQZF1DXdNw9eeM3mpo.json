@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 417738,
+  "num_followers": 417887,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGU1MjNlY2IzOTc0M2JiNDRlNDE1YThkZmIzYWVhNmIz",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDYxOTEwYzFhZDA1NTFlZTNmMDNlNjI5Yjc3ZjVlMmMy",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "L\u00e1grimas y Risas",
-        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "O\u00edr Tu Voz",
-      "url": "https://open.spotify.com/track/68gi1yEZqkzKJPiUeZe8bI"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 193453,
       "name": "No Tengo Amigos",
       "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "L\u00e1grimas y Risas",
+        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "O\u00edr Tu Voz",
+      "url": "https://open.spotify.com/track/68gi1yEZqkzKJPiUeZe8bI"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "El Club del Amigo",
-        "url": "https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB"
-      },
-      "artists": [
-        {
-          "name": "Guachup\u00e9",
-          "url": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Todo va lento",
-      "url": "https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Radio Ghetto",
         "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "El Club del Amigo",
+        "url": "https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Guachup\u00e9",
+          "url": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+      "duration_ms": 210586,
+      "name": "Todo va lento",
+      "url": "https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1291,6 +1275,22 @@
       "duration_ms": 186540,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/3HEIbdp1ZmSYEgHBoZfS5c"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 186848,
-      "name": "Bailando Como Mono",
-      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1579,34 +1579,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Mi Vida En Otro Lado",
-        "url": "https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
+      "duration_ms": 186848,
+      "name": "Bailando Como Mono",
+      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1623,6 +1607,22 @@
       "duration_ms": 219649,
       "name": "Sanguchito",
       "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Mi Vida En Otro Lado",
+        "url": "https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Contra El Viento",
-        "url": "https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k"
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
       },
       "artists": [
         {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
-        },
-        {
-          "name": "Jorge Serrano De Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/2URqV9qzDLQghUs8FcWPBY"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 213011,
-      "name": "Como Saber",
-      "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     },
     {
       "added_at": "2021-12-21 17:00:46",

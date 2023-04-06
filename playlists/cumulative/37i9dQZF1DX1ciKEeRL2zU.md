@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-93 songs - 6 hr 59 min
+94 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 | 2022-02-11 | 2023-02-11 |
 | [Dream About You](https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Dream About You](https://open.spotify.com/album/01feIntmkFDFp5WXym3hHs) | 3:20 | 2022-02-11 |  |
 | [Ekuseni](https://open.spotify.com/track/6Lp9DthIyhlSKN2sPI4kWt) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Ndim Lo](https://open.spotify.com/album/25ZJjabKW4zoLouY7kkCTg) | 5:59 | 2022-02-11 | 2023-02-11 |
-| [Emlanjeni](https://open.spotify.com/track/0cPX6PUuCJYWmsXS5aH5Xs) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/1DrtoezNJN35zLlyJSCTLi) | 4:02 | 2022-02-11 |  |
+| [Emlanjeni](https://open.spotify.com/track/0cPX6PUuCJYWmsXS5aH5Xs) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/1DrtoezNJN35zLlyJSCTLi) | 4:02 | 2022-02-11 | 2023-04-06 |
+| [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 | 2023-02-10 |  |
 | [Ex](https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Ex](https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR) | 3:24 | 2022-02-11 | 2023-02-11 |
 | [Feelin U](https://open.spotify.com/track/7vKpE6Nvrh7viO8Q0croIW) | [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Feelin U](https://open.spotify.com/album/1qYpOAYbKEZp5Dr5s87quL) | 3:54 | 2022-02-11 | 2023-02-11 |
 | [Fool's Love](https://open.spotify.com/track/50SwljHvTm8xmC0z69qHPV) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [BlackRose](https://open.spotify.com/artist/3cJr6Nd7eupCOoGTAsDyMI) | [Fool's Love](https://open.spotify.com/album/23MYXCv95Y6WSOF4D0B906) | 3:21 | 2022-02-11 |  |

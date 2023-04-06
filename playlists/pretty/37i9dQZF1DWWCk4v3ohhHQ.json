@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 154204,
+  "num_followers": 154389,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMGJkMTIwNmE4MTVhZmFmMGE2ZjVkNjEzNzY0OTA0YmZk",
+  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDE4OGRkMmVjYTViM2RiNTU0ZDZlY2ViZGI0MDFhMTY2",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 277040,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 199773,
       "name": "Dangerous Night",
       "url": "https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+        "name": "We Won't Be Shaken",
+        "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 222053,
-      "name": "Different Colors",
-      "url": "https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ"
+      "duration_ms": 236546,
+      "name": "We Won't Be Shaken",
+      "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "We Won't Be Shaken",
-        "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
       "artists": [
         {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 236546,
-      "name": "We Won't Be Shaken",
-      "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
+      "duration_ms": 222053,
+      "name": "Different Colors",
+      "url": "https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ"
     },
     {
       "added_at": "2022-11-17 15:48:46",

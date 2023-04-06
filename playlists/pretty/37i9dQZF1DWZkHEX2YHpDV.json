@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 444056,
+  "num_followers": 444133,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMGQ3MTA1MWI1ZDZmMjdhZjMwMjQ5MTVhZTYwZjdlZTkz",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDQyNmIwZDE4NjRjYmY5MzA2ZjEwMmIwYWY1ZWQyYTY3",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Earthquake (feat. jxdn)",
         "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 137052,
       "name": "10 for 10",
       "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Chemical Warfare",
         "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 166858,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "DIRTY WHITE VANS//",
         "url": "https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 141090,
       "name": "DIRTY WHITE VANS//",
       "url": "https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Face Down (Symphonic Edition)",
-        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
       "artists": [
         {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Face Down - Symphonic Edition",
-      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+        "name": "Face Down (Symphonic Edition)",
+        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
       },
       "artists": [
         {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+      "duration_ms": 207272,
+      "name": "Face Down - Symphonic Edition",
+      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "CESSATION",
-        "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "PARANOIA (with FEVER 333 & Point North) [Remix]",
         "url": "https://open.spotify.com/album/4efWmhXUdjNRQ2ZzBQpMyW"
       },
@@ -2299,6 +2283,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "CESSATION",
+        "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wish U Were Here",
-        "url": "https://open.spotify.com/album/02oi3rIz1xSiDAt3DUrky0"
-      },
-      "artists": [
-        {
-          "name": "Makeout",
-          "url": "https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Wish U Were Here",
-      "url": "https://open.spotify.com/track/3egjkRdPlspVey0i0RCPEx"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Garamond",
         "url": "https://open.spotify.com/album/7FV2SMlamWIJ9q0cSGZ1lj"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 179923,
       "name": "Garamond",
       "url": "https://open.spotify.com/track/5FqwQC3C7VEO62zpVR6RHt"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Wish U Were Here",
+        "url": "https://open.spotify.com/album/02oi3rIz1xSiDAt3DUrky0"
+      },
+      "artists": [
+        {
+          "name": "Makeout",
+          "url": "https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Wish U Were Here",
+      "url": "https://open.spotify.com/track/3egjkRdPlspVey0i0RCPEx"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "SORRY 4 MYSELF",
         "url": "https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 200999,
       "name": "SORRY 4 MYSELF",
       "url": "https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2631,22 +2631,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         },
         {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+          "name": "Derek Sanders",
+          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
         }
       ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+      "duration_ms": 180472,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
     }
   ],
   "unique_name": "The Scene",

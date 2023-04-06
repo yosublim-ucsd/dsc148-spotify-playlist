@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 
 > All the essentials, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,621 likes - 68 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,691 likes - 68 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 | 28 | [God Of This City](https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 4:57 |
 | 29 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Double Take \- Chris Tomlin](https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d) | 4:27 |
 | 30 | [Lord, I Need You \- Live](https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:34 |
-| 31 | [Indescribable \- Arriving Album Version](https://open.spotify.com/track/1GoE6xwwZ20NbxCKVA5nz2) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 3:58 |
+| 31 | [Indescribable](https://open.spotify.com/track/1GoE6xwwZ20NbxCKVA5nz2) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 3:58 |
 | 32 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 |
 | 33 | [God's Great Dance Floor](https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 3:38 |
 | 34 | [I Will Rise](https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:00 |

@@ -2,7 +2,7 @@
 
 ### [Soft 10s](https://open.spotify.com/playlist/37i9dQZF1DX1uHCeFHcn8X)
 
-> Mellow songs from the 2010s\. Cover: James Blake\. Cover: <a href="spotify:artist:5Mq7iqCWBzofK39FBqblNc">Jessie Ware</a>
+> Mellow songs from the 2010s\. Cover: James Blake
 
 432 songs - 1 day 2 hr 46 min
 

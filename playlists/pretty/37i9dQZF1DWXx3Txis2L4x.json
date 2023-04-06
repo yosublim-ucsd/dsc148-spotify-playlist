@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 555579,
+  "num_followers": 555901,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTI1MywwMDAwMDAwMDdkNzY4MWFkODIxMGE1ZmE2ZmZkNGRiYjdkZWIyZTFk",
+  "snapshot_id": "MTY3OTUwMTI1MywwMDAwMDAwMDZkMWU1MGIyNTM0YzRkMjM0NWUwNTQyNDg2M2EzZTY0",
   "tracks": [
     {
       "added_at": "2023-03-07 16:54:09",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
     },
     {
-      "added_at": "2023-04-05 00:47:09",
+      "added_at": "2023-04-06 00:41:19",
       "album": {
         "name": "Heartbreak Feels So Good",
         "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Hash Pipe",
-      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "What Separates Me From You",
         "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 202640,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
+      "added_at": "2023-04-06 00:41:19",
+      "album": {
+        "name": "Billy Talent II",
+        "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC"
+    },
+    {
       "added_at": "2023-03-07 16:54:09",
       "album": {
         "name": "Wolfmother",
@@ -311,22 +327,6 @@
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
-    },
-    {
-      "added_at": "2023-04-05 00:47:09",
-      "album": {
-        "name": "Billy Talent II",
-        "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
-      "added_at": "2023-04-05 00:47:09",
+      "added_at": "2023-04-06 00:41:19",
       "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
-      "added_at": "2023-04-05 00:47:09",
+      "added_at": "2023-04-06 00:41:19",
       "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "With Confidence",
-        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "What You Make It",
-      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "With Confidence",
+        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "What You Make It",
+      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
     },
     {
       "added_at": "2023-03-07 16:54:09",

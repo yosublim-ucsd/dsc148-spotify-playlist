@@ -1,12 +1,12 @@
 {
   "description": "Nuevos temas de g\u00e9neros tropicales. Foto: Carlos Vives.",
-  "num_followers": 38514,
+  "num_followers": 38561,
   "original_name": "Novedades Tropicales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMGRjYWMwZDE2NGFiYzg1M2FkMWYxNTQ3YWEzNmZiYWVm",
+  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMDMwYWUzNDcwM2VlNDBkY2EwNzhjYmE4MjVmOTRkYjU2",
   "tracks": [
     {
       "added_at": "2023-03-31 03:00:00",
@@ -307,22 +307,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/4QdfBzwhUJg0Hgu6xyzCNK"
+        "name": "Te vas",
+        "url": "https://open.spotify.com/album/1V2sQ1OcfhBTtdzUo4caYW"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
           "name": "Vanina Hussein",
           "url": "https://open.spotify.com/artist/4cfOfh4dEjPIy4bUUTt7hu"
+        },
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/50h9pAoTepeTn5TXxldZJW"
         }
       ],
       "duration_ms": 226956,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/6okr1j09w6bGHQNqHMv12l"
+      "name": "Te vas",
+      "url": "https://open.spotify.com/track/1ImYr3aQJzEOF3gCa5xtAd"
     },
     {
       "added_at": "2023-03-31 03:00:00",

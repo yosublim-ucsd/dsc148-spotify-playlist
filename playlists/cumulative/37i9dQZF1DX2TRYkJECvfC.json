@@ -4291,6 +4291,28 @@
     },
     {
       "album": {
+        "name": "Out Of The Woods",
+        "url": "https://open.spotify.com/album/49WuLA5VuGqvSnat6CGcQ5"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Saint Rock",
+          "url": "https://open.spotify.com/artist/2lbMcFBLe4XhGSrfLFK5E2"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275600,
+      "name": "Out Of The Woods",
+      "url": "https://open.spotify.com/track/4kXibedUZqFewRsRQGzxjh"
+    },
+    {
+      "album": {
         "name": "Sine Wave Party EP",
         "url": "https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm"
       },
@@ -5276,7 +5298,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 249836,
       "name": "Sinuous",
       "url": "https://open.spotify.com/track/6v6YqwH38kDXhTxPHGi1UN"

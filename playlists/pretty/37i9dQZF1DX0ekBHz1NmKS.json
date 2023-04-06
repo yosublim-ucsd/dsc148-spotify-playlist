@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 193960,
+  "num_followers": 193950,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODYyMiwwMDAwMDAwMDhlNmExODViOWU0M2IxYjgzODdlZjViN2EyM2U0YWI3",
+  "snapshot_id": "MTY4MDI1ODYyMiwwMDAwMDAwMDYyNTRlNmMxZWQ0YjVlYmQ5NWFlODAyNTZmYTM3NTIy",
   "tracks": [
     {
       "added_at": "2023-03-30 22:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 129985,
       "name": "Samma gamla vanliga",
       "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "En liten l\u00e5tid\u00e9",
+        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Hon sa",
+      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Chasing (feat. NEIMY)",
         "url": "https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 148460,
       "name": "Chasing (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "En liten l\u00e5tid\u00e9",
-        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Hon sa",
-      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Neon Lights",
+        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Har du sett henne i bl\u00e5tt",
         "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Neon Lights",
-        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
+        "name": "Don't Run",
+        "url": "https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Josefine",
+          "url": "https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
+      "duration_ms": 155226,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 180617,
       "name": "Cute & Cruel (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Don't Run",
-        "url": "https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl"
-      },
-      "artists": [
-        {
-          "name": "Josefine",
-          "url": "https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Don't Run",
-      "url": "https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "V\u00e5gar",
+        "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 158644,
+      "name": "V\u00e5gar",
+      "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Gr\u00e5ter om du vill",
         "url": "https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "V\u00e5gar",
-        "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 158644,
-      "name": "V\u00e5gar",
-      "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Hatar att du l\u00e4t oss g\u00e5",
         "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 198217,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "I Feel It In The Wind",
         "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
@@ -939,22 +923,6 @@
       "duration_ms": 213717,
       "name": "I Feel It In The Wind",
       "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "S\u00e4g N\u00e5t",
-        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "S\u00e4g N\u00e5t",
-      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -979,6 +947,38 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Som ett minne blott",
         "url": "https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
         }
       ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+      "duration_ms": 161906,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1031,6 +1031,38 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Fram\u00e5t",
+        "url": "https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Fram\u00e5t",
+      "url": "https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Every Little Heart",
         "url": "https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2"
       },
@@ -1043,22 +1075,6 @@
       "duration_ms": 189920,
       "name": "Every Little Heart",
       "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW"
-      },
-      "artists": [
-        {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Henry St.",
-      "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Fram\u00e5t",
-        "url": "https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Fram\u00e5t",
-      "url": "https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "\u00c4nnu mer",
         "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 184482,
       "name": "\u00c4nnu mer",
       "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Golvet i hallen",
+        "url": "https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 186911,
+      "name": "Golvet i hallen",
+      "url": "https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Henry St.",
+      "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 323186,
       "name": "V\u00e4ntar p\u00e5 en solig dag",
       "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Golvet i hallen",
-        "url": "https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 186911,
-      "name": "Golvet i hallen",
-      "url": "https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1277,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
     },
     {
-      "added_at": "2023-04-05 01:05:09",
+      "added_at": "2023-04-06 00:16:56",
       "album": {
         "name": "Dina \u00d6gon",
         "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Zlatan Ibrahimovi\u0107",
+        "url": "https://open.spotify.com/album/46XuTYTVVCOTWrsmLFH8XG"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "Zlatan Ibrahimovi\u0107",
+      "url": "https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -1393,7 +1409,7 @@
       "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
     },
     {
-      "added_at": "2023-04-05 01:05:09",
+      "added_at": "2023-04-06 00:16:56",
       "album": {
         "name": "Dina \u00d6gon",
         "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
@@ -1407,22 +1423,6 @@
       "duration_ms": 237986,
       "name": "Tombola 94",
       "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Zlatan Ibrahimovi\u0107",
-        "url": "https://open.spotify.com/album/46XuTYTVVCOTWrsmLFH8XG"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Zlatan Ibrahimovi\u0107",
-      "url": "https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
     },
     {
-      "added_at": "2023-04-05 01:05:09",
+      "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1525,20 +1525,20 @@
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
-      "added_at": "2023-03-30 22:00:00",
+      "added_at": "2023-04-06 00:16:56",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Can\u2019t Stay Away",
-        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+        "name": "Airforce blue",
+        "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 179761,
-      "name": "Can\u2019t Stay Away",
-      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
+      "duration_ms": 168982,
+      "name": "Airforce blue",
+      "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1603,6 +1603,38 @@
       "duration_ms": 150133,
       "name": "Bon Appetit",
       "url": "https://open.spotify.com/track/1MolHrXegbSaKOsAoljmUe"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Regnar",
+        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "duration_ms": 132352,
+      "name": "Regnar",
+      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Can\u2019t Stay Away",
+        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 179761,
+      "name": "Can\u2019t Stay Away",
+      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1629,23 +1661,7 @@
       "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
     },
     {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Hungover (Head In A Can)",
-        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 224077,
-      "name": "Hungover (Head In A Can)",
-      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
-    },
-    {
-      "added_at": "2023-04-05 01:05:09",
+      "added_at": "2023-04-06 00:16:56",
       "album": {
         "name": "Oas",
         "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
@@ -1663,34 +1679,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Regnar",
-        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
+        "name": "Hungover (Head In A Can)",
+        "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
       },
       "artists": [
         {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
         }
       ],
-      "duration_ms": 132352,
-      "name": "Regnar",
-      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Brinner",
-        "url": "https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK"
+      "duration_ms": 224077,
+      "name": "Hungover (Head In A Can)",
+      "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
     },
     {
       "added_at": "2023-03-30 22:00:00",

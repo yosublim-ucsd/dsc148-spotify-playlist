@@ -144,7 +144,7 @@
           "url": "https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254795,
@@ -664,7 +664,7 @@
           "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254867,
@@ -688,6 +688,24 @@
       "duration_ms": 277906,
       "name": "Again",
       "url": "https://open.spotify.com/track/0lZdUSih2JxtWvQg1YYQsZ"
+    },
+    {
+      "album": {
+        "name": "ai no hana",
+        "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240044,
+      "name": "ai no hana",
+      "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
     },
     {
       "album": {
@@ -1378,7 +1396,7 @@
           "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254760,
@@ -1826,6 +1844,24 @@
       "duration_ms": 218552,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF"
+    },
+    {
+      "album": {
+        "name": "Blue light",
+        "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Blue light",
+      "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
     },
     {
       "album": {
@@ -2428,7 +2464,7 @@
           "url": "https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176857,
@@ -4464,6 +4500,24 @@
       "duration_ms": 199657,
       "name": "GOOD GAME",
       "url": "https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo"
+    },
+    {
+      "album": {
+        "name": "Good luck ga kikoenai",
+        "url": "https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151145,
+      "name": "Good luck ga kikoenai",
+      "url": "https://open.spotify.com/track/55glgkUrI4v10ThfniBh0B"
     },
     {
       "album": {
@@ -6684,7 +6738,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 195059,
       "name": "Little Red Riding Hood",
       "url": "https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360"
@@ -6800,7 +6854,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 202658,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ"
@@ -7248,7 +7302,7 @@
           "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241323,
@@ -9162,7 +9216,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 249227,
       "name": "Presence",
       "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
@@ -9302,7 +9356,7 @@
           "url": "https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203481,
@@ -10666,7 +10720,7 @@
           "url": "https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239536,
@@ -10742,7 +10796,7 @@
           "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141312,
@@ -12816,7 +12870,7 @@
           "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184024,
@@ -13291,6 +13345,24 @@
     },
     {
       "album": {
+        "name": "HANAYODO -flower and dust-",
+        "url": "https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261282,
+      "name": "Yae",
+      "url": "https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb"
+    },
+    {
+      "album": {
         "name": "Yokan",
         "url": "https://open.spotify.com/album/3Ugu39FJ8fT7FX6yKc5Lbm"
       },
@@ -13462,6 +13534,24 @@
       "duration_ms": 237400,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5PJ6n1jiW3JGLoXt7cUVwH"
+    },
+    {
+      "album": {
+        "name": "Yume wa Sametemo",
+        "url": "https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221773,
+      "name": "Yume wa Sametemo",
+      "url": "https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm"
     },
     {
       "album": {
@@ -14880,7 +14970,7 @@
           "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238057,
@@ -15048,7 +15138,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 261282,
       "name": "\u3084\u3048",
       "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
@@ -15856,7 +15946,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 151145,
       "name": "\u30b0\u30c3\u30c9\u30e9\u30c3\u30af\u304c\u805e\u3053\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/79BXTDSbfXRRkWp44BfE51"
@@ -16794,7 +16884,7 @@
           "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221360,
@@ -16894,7 +16984,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 252546,
       "name": "\u30d2\u30c8\u30df\u30ca\u30ab",
       "url": "https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW"
@@ -17060,7 +17150,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 235500,
       "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
@@ -17626,7 +17716,7 @@
           "url": "https://open.spotify.com/artist/5EWZDgOZUtzKDXiGnBzdUP"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204146,
@@ -18786,7 +18876,7 @@
           "url": "https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 465000,
@@ -19604,7 +19694,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 221773,
       "name": "\u5922\u306f\u3055\u3081\u3066\u3082",
       "url": "https://open.spotify.com/track/6qGRdMmPJzb5hA6eqTegnG"
@@ -20428,7 +20518,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 240044,
       "name": "\u611b\u306e\u82b1",
       "url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3"
@@ -22638,7 +22728,7 @@
           "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "date_added": "2023-04-05",
+      "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242633,

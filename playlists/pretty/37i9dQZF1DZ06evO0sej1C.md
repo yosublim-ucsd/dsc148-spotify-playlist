@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,028 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,055 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 41 | [La Nena](https://open.spotify.com/track/2Puro9CnRw2gJFogRiMy83) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [La Nena](https://open.spotify.com/album/05T9Ikq2YZWYh8RVrM96HF) | 3:22 |
 | 42 | [Dinero](https://open.spotify.com/track/1LPYZDxFTebhvqwX2gTu0j) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Dinero](https://open.spotify.com/album/7oo7MqceHqBozYOfjWPx3r) | 2:31 |
 | 43 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
-| 44 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
-| 45 | [No Lo Intentes](https://open.spotify.com/track/2xaGi87tVkAXPBpT0qRl7L) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Lo Intentes](https://open.spotify.com/album/50tdaxXkU51BG1BYonYHZx) | 3:16 |
+| 44 | [No Lo Intentes](https://open.spotify.com/track/2xaGi87tVkAXPBpT0qRl7L) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Lo Intentes](https://open.spotify.com/album/50tdaxXkU51BG1BYonYHZx) | 3:16 |
+| 45 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 | 46 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 |
 | 47 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 |
 | 48 | [Bien](https://open.spotify.com/track/3WNSy6s729D5dwreu1SsNi) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bien](https://open.spotify.com/album/3RI5pKpWlcKFe0ziDizIMX) | 3:27 |
-| 49 | [Cicatrices](https://open.spotify.com/track/2noBdQ7C3V9BTbNlXtQGyc) | [Zoop One](https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Cicatrices](https://open.spotify.com/album/0F3fEUFRSIGRCEVsyAjfBJ) | 4:10 |
-| 50 | [M4KYNA](https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [M4KYNA](https://open.spotify.com/album/3cP5gKulWySdg1pwA7vbVB) | 2:54 |
+| 49 | [M4KYNA](https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [M4KYNA](https://open.spotify.com/album/3cP5gKulWySdg1pwA7vbVB) | 2:54 |
+| 50 | [Cicatrices](https://open.spotify.com/track/2noBdQ7C3V9BTbNlXtQGyc) | [Zoop One](https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Cicatrices](https://open.spotify.com/album/0F3fEUFRSIGRCEVsyAjfBJ) | 4:10 |
 
-Snapshot ID: `MjgwMTAxNzUsMDAwMDAwMDAwMWM5ODM5NDFhNjIzZWY1M2U3ZWVmNjQ3MmU1MTk0NA==`
+Snapshot ID: `MjgwMTE2ODAsMDAwMDAwMDA3NjA5MjljYzkyNDMyMWYzODk4NTI0N2ZhYzQwNDhhNw==`

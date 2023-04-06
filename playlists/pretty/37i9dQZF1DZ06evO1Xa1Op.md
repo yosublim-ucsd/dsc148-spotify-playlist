@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,711 likes - 40 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,732 likes - 40 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 39 | [I Go Ka \- 2017 Remastered Version](https://open.spotify.com/track/6J2fUEVtSk5oDxJnloWs7g) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 4:01 |
 | 40 | [Goye Kur \- 2017 Remastered Version](https://open.spotify.com/track/5VkD522syW1UKAEMHPNhF2) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 6:17 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBjNjNhYjViYmY4NmI5YWU2OTU1MmQ4Yjk1MDliM2U3Yg==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDBjMTJhMjU3MWZkYzVmYzFmMjQzMzgxMmQxNWM0Zjk1OQ==`

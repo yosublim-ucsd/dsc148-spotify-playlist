@@ -4,16 +4,17 @@
 
 > Wake up in your own pace with piano music.
 
-113 songs - 5 hr 4 min
+117 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2021-04-21 |  |
+| [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-04-05 |  |
 | [A Long Goodbye](https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [My Soul Is a Strange Country \(Solo Piano\)](https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS) | 3:00 | 2021-04-21 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-04-21 |  |
 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 | 2021-04-21 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2021-04-21 |  |
-| [Arkata \(Munich Session\)](https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:02 | 2022-03-18 |  |
+| [Arkata \(Munich Session\)](https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:02 | 2022-03-18 | 2023-04-06 |
 | [Arkata \(Munich Session\)](https://open.spotify.com/track/5rnpFhTerQAtva8IuFHMnS) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Arkata \(Munich Session\)](https://open.spotify.com/album/16s4ccY0RG8YM6rw1Sr6Hk) | 4:02 | 2021-04-21 | 2022-07-29 |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2021-04-21 |  |
 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 | 2021-04-21 |  |
@@ -43,6 +44,7 @@
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2021-04-21 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2021-04-21 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2021-04-21 |  |
+| [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-04-05 |  |
 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 | 2021-04-21 |  |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2021-04-21 |  |
 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 | 2021-04-21 |  |
@@ -88,6 +90,7 @@
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2021-04-21 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-04-21 |  |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2021-04-21 |  |
+| [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-04-05 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-04-21 |  |
 | [Rouen Les Essarts](https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rouen Les Essarts](https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf) | 3:31 | 2021-04-21 |  |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2021-04-21 |  |
@@ -114,6 +117,7 @@
 | [Tinamou](https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Tinamou](https://open.spotify.com/album/5OjbY0PN6lQmDdaXWMiPJM) | 2:35 | 2021-04-21 |  |
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2021-04-21 |  |
 | [Tu me fascines](https://open.spotify.com/track/3TuBgx3BBnkN1TiKZEmvEZ) | [Romaine LaGrande](https://open.spotify.com/artist/6riCYP1IMxMHrg4bEyOGpD) | [Tu me fascines](https://open.spotify.com/album/0OViSTWlnkvga0OGrYzMxx) | 2:04 | 2021-04-21 |  |
+| [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 | 2023-04-05 |  |
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2021-04-21 |  |
 | [Waves](https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ) | [Waves](https://open.spotify.com/album/1othuB5lIGVpjNe7OUvzln) | 2:07 | 2021-04-21 |  |
 | [We Contain Multitudes \(from home\)](https://open.spotify.com/track/13MOQ6oQqkrZEDkZOHukCw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes \(from home\)](https://open.spotify.com/album/6s61oZwe1dZuqBFi1pPo09) | 3:10 | 2021-04-21 |  |

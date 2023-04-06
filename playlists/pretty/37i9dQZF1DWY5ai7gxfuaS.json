@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 229427,
+  "num_followers": 229709,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGNjYzE4ZGQ0OTQ4OTlhYmQ1OGNlZTVjNWI3MzJmMjZi",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGQ2ZjQ1Y2EyMjFhY2Q3OTQzYzgyY2JhNDAzMTkzMjZi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Paranoid (Crash & Burn)",
-        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 235736,
-      "name": "Paranoid (Crash & Burn)",
-      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Paranoid (Crash & Burn)",
+        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 183900,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Plantgazer",
         "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
       },
@@ -771,18 +787,34 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+        "name": "Whispers of Your Death",
+        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
       },
       "artists": [
         {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
+      "duration_ms": 174213,
+      "name": "Whispers of Your Death",
+      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "They Fear Us",
+        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -803,38 +835,6 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "They Fear Us",
-        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Whispers of Your Death",
-        "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Whispers of Your Death",
-      "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "The Weight That Holds Me Here",
         "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 186502,
       "name": "With You",
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Into The Void",
-        "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Into The Void - Single Edit",
-      "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "WHATS UP?",
         "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 168160,
       "name": "WHATS UP?",
       "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Into The Void",
+        "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 212530,
       "name": "Envy",
       "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
       "added_at": "2022-11-18 01:42:16",

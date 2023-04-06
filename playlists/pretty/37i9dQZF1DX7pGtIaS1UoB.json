@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 89046,
+  "num_followers": 89070,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQ5Mzc1OSwwMDAwMDAwMDEzMWIxY2IzNGQ0YzRiMzA2MTYxMjFiMTQ4NDU5ZGYw",
+  "snapshot_id": "MTY4MDQ5Mzc1OSwwMDAwMDAwMGY1YTEyZTkxOTEyZTg1OTk1NWFkYmM5MGY5Njc2MTg1",
   "tracks": [
     {
       "added_at": "2023-03-20 07:17:17",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 177757,
-      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
         "name": "\u6162\u6162\u61c2",
         "url": "https://open.spotify.com/album/65i87rD1htDv82zSh6hTVn"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 196885,
       "name": "\u5c0f\u661f\u661f",
       "url": "https://open.spotify.com/track/2bRdjYBHfm2dCBOAXHKIyI"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
+        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 177757,
+      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "\u7f8e",
-        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
-      },
-      "artists": [
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u7f8e",
-      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
         "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
         "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 245160,
       "name": "\u9ecf\u9ecf (feat. \u8a31\u744b\u752f)",
       "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
+        "name": "\u7f8e",
+        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u7f8e",
+      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
         "name": "\u7535\u89c6\u5267\u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b\u5f71\u89c6\u539f\u58f0\u5e26",
         "url": "https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208998,
       "name": "\u7b2c\u4e00\u9ed8\u5951 (\u7535\u89c6\u5267 \u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b \u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "\u6c27\u5316\u6c22",
-        "url": "https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u5c16\u5c16",
-          "url": "https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "\u6c27\u5316\u6c22",
-      "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 239000,
       "name": "Only Have Feelings For You",
       "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
+        "name": "\u6c27\u5316\u6c22",
+        "url": "https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5c16\u5c16",
+          "url": "https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "\u6c27\u5316\u6c22",
+      "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
     },
     {
       "added_at": "2023-03-20 07:17:17",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-03-20 07:17:17",
       "album": {
-        "name": "\u5fc3\u52a8\u51b3\u5b9a",
-        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
-      },
-      "artists": [
-        {
-          "name": "\u53f6\u743c\u7433",
-          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
-        },
-        {
-          "name": "\u9ec3\u79ae\u683c",
-          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
-        }
-      ],
-      "duration_ms": 203331,
-      "name": "\u5fc3\u52a8\u51b3\u5b9a",
-      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
-    },
-    {
-      "added_at": "2023-03-20 07:17:17",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/1KGzv9nQNAJBEBmmljDIbC"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 237473,
       "name": "Melody",
       "url": "https://open.spotify.com/track/4zoAOEGIrfR43iDOtxQqgg"
+    },
+    {
+      "added_at": "2023-03-20 07:17:17",
+      "album": {
+        "name": "\u5fc3\u52a8\u51b3\u5b9a",
+        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
+      },
+      "artists": [
+        {
+          "name": "\u53f6\u743c\u7433",
+          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
+        },
+        {
+          "name": "\u9ec3\u79ae\u683c",
+          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
+        }
+      ],
+      "duration_ms": 203331,
+      "name": "\u5fc3\u52a8\u51b3\u5b9a",
+      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
     },
     {
       "added_at": "2023-03-20 07:17:17",

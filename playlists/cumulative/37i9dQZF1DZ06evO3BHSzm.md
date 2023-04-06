@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 7 min
+80 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [5:15](https://open.spotify.com/track/73awNm2nHlTkUilOkrk7MR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 4:59 | 2022-12-08 |  |
 | [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:00 | 2022-09-17 | 2022-12-09 |
 | [A Quick One While He's Away \- Remastered 2018](https://open.spotify.com/track/4611nkfmcc1bCYRVqeSCHN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Rolling Stones Rock And Roll Circus \(Expanded\)](https://open.spotify.com/album/6HukFdvHHvXI3EAhjvtnF3) | 7:32 | 2022-09-17 | 2022-10-13 |
-| [All This Music Must Fade](https://open.spotify.com/track/6Oi0qvf8bhPMdlmbfxBpYy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:20 | 2022-09-17 |  |
+| [All This Music Must Fade](https://open.spotify.com/track/6Oi0qvf8bhPMdlmbfxBpYy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:20 | 2022-09-17 | 2023-04-06 |
 | [Another Tricky Day](https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 4:56 | 2022-09-17 |  |
 | [Anyway Anyhow Anywhere \- Stereo Version](https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 | 2022-09-17 |  |
 | [Athena](https://open.spotify.com/track/255k7GWdOau9yOsewX85lg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A) | 3:47 | 2022-09-17 |  |
@@ -36,6 +36,7 @@
 | [Heat Wave \- Mono Version](https://open.spotify.com/track/3IB71F5yOKijAjhzEMpwpk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Mono Version\)](https://open.spotify.com/album/29Qv1bgwsrukJKDHU5MfY0) | 1:59 | 2022-09-17 | 2023-03-05 |
 | [Heinz Baked Beans](https://open.spotify.com/track/0e9e7vOTvNcofMQUOxoRbs) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Expanded Edition\)](https://open.spotify.com/album/2nSduHVT17MPQCehfMRPG6) | 1:00 | 2022-09-17 | 2023-03-25 |
 | [Helpless Dancer](https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:33 | 2022-11-22 | 2022-12-24 |
+| [Hero Ground Zero \- Live At Wembley, UK / 2019](https://open.spotify.com/track/1cIsreCkMrWc5o5cqvtTER) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:50 | 2023-04-05 |  |
 | [I Am The Sea](https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:09 | 2022-10-13 |  |
 | [I Can See For Miles \- Mono Version](https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 4:07 | 2022-09-17 |  |
 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 | 2022-09-17 | 2022-09-25 |

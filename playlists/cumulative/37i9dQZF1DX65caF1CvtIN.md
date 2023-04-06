@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-173 songs - 7 hr 48 min
+175 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,11 +164,13 @@
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 |  |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The Rain](https://open.spotify.com/track/2PWiufRrW02EtmSYIokhHr) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [The Rain](https://open.spotify.com/album/1ZNO8N4VKuOTIqUuMucY1g) | 3:07 | 2022-12-06 |  |
-| [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
+| [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 | 2023-04-06 |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2022-08-03 |  |
+| [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 | 2023-04-05 |  |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-08-26 |  |
 | [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-01-26 |  |
 | [Tournon](https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE) | [Pazice](https://open.spotify.com/artist/5so0FZWVgBOL7MDkSueVCj) | [Tournon](https://open.spotify.com/album/0Wk3Fd60WAcDGFZf5esowg) | 2:09 | 2022-08-03 |  |
+| [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2023-04-05 |  |
 | [Trzymaj Mnie](https://open.spotify.com/track/75aSMYjVgAcknIrIJ9JEvA) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Trzymaj Mnie](https://open.spotify.com/album/6jDUMlLOOr5BU6O42NV8Ip) | 2:06 | 2022-08-03 |  |
 | [Tuesday](https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Hertz](https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD) | 3:11 | 2022-08-03 |  |
 | [Un esprit vide](https://open.spotify.com/track/70hhkbMZsG1d0sEwMPzMfk) | [Chordialilies](https://open.spotify.com/artist/52Zsdd1lO36Y5DdJ19YVwp) | [Un esprit vide](https://open.spotify.com/album/28xxY2jYebRL2x24Qa3jTE) | 3:03 | 2022-12-06 |  |

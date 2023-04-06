@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,199 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,387 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 3 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 |
 | 4 | [\[oops\]](https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy) | 2:22 |
 | 5 | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/0wbC3G2o0lXDY9xxxXqWDZ) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/0xWns05vgbslYeVkNx0Xaf) | 2:44 |
-| 6 | [i’m sorry](https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Majestic Casual \- Chapter 3](https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6) | 2:37 |
+| 6 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 7 | [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 |
 | 8 | [One Summer Day \(Spirited Away\)](https://open.spotify.com/track/7eo2HVkRxrDU3bQPwEiIBT) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:25 |
 | 9 | [my new love](https://open.spotify.com/track/41mSgeV5WCS7usBrA3H6RX) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:05 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 26 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
 | 27 | [Sharing an Umbrella](https://open.spotify.com/track/2JrNwqjn3Uf5dA6tKLaJl2) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:44 |
 | 28 | [Blue Boi](https://open.spotify.com/track/4SKBaun9EERfPsuLYqF1Fm) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Blue Boi](https://open.spotify.com/album/67hMzoTlWnFdxR5ncL9ioL) | 1:45 |
-| 29 | [i’m sorry](https://open.spotify.com/track/7MIxz8un6IEkwPndC43mFU) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Majestic Casual \- Chapter 3](https://open.spotify.com/album/44V3WyInCRGZ1Zk6gBZLn6) | 2:37 |
+| 29 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 30 | [Will You Stay Here with Me](https://open.spotify.com/track/6RUIaR18qGtO1TYS4m3q8b) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:11 |
 | 31 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 32 | [sundown](https://open.spotify.com/track/5LKVbgGeC5UAKoORA0rnKU) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/6A9dbXAqZKVf31i5TzxUw4) | 1:52 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3ODQ1MjA5NCwwMDAwMDAwMDdhOTAzOTRhMGNhNDM2MDkxMjdjNjhhMzI4YmZiZWQx`
+Snapshot ID: `MTY3ODQ1MjA5NCwwMDAwMDAwMGYxMTU4ODg5OTc2Y2VkOTU2YTYyZDdjZmY3NDdlYjc5`

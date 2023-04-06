@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,118 likes - 143 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,110 likes - 143 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Queen Latifah
+> Taking it way back! Cover: Snoop Dogg
 
 221 songs - 15 hr 48 min
 

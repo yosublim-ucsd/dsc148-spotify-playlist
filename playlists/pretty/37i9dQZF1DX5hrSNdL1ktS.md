@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,785 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,814 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 17 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
 | 18 | [Waii](https://open.spotify.com/track/1YV4LaJpgdEzqLhzScQWuw) | [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [Waii](https://open.spotify.com/album/2lWsYpwRzt5eocRtcFaaB9) | 3:29 |
 | 19 | [Papi Quiero Perrear](https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Papi Quiero Perrear](https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY) | 2:15 |
-| 20 | [Fumale Y Siga](https://open.spotify.com/track/1AQeXJVSw6pqJWHJxtaAYO) | [Slam](https://open.spotify.com/artist/4IoNEWLZ0VzWmQ2ZRmwrts), [JLboy](https://open.spotify.com/artist/4ksA9gv0gl3Ku6JbhkYO4T) | [Fumale Y Siga](https://open.spotify.com/album/1u5ybhx5zUye6Utkr1zD4N) | 2:50 |
+| 20 | [Fumale Y Siga](https://open.spotify.com/track/1AQeXJVSw6pqJWHJxtaAYO) | [Slam](https://open.spotify.com/artist/4IoNEWLZ0VzWmQ2ZRmwrts), [JL Boy](https://open.spotify.com/artist/6bWvG6kLaUol0stttO1a3l) | [Fumale Y Siga](https://open.spotify.com/album/1u5ybhx5zUye6Utkr1zD4N) | 2:50 |
 | 21 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 22 | [Discotequera](https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5) | [Fran Lorenz](https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Discotequera](https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI) | 2:53 |
 | 23 | [Bien Bebé](https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk) | 2:43 |

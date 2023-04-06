@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aaina",
+        "url": "https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Muheet Bharti",
+          "url": "https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192230,
+      "name": "Aaina",
+      "url": "https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl"
+    },
+    {
+      "album": {
         "name": "Farida Khanum In Concert (Live)",
         "url": "https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws"
       },
@@ -839,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Kabhi Ishq Ka",
+        "url": "https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f"
+      },
+      "artists": [
+        {
+          "name": "Ranjeet Rajwada",
+          "url": "https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336254,
+      "name": "Kabhi Ishq Ka",
+      "url": "https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV"
+    },
+    {
+      "album": {
         "name": "Romantic Evening with Jagjit Singh",
         "url": "https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa"
       },
@@ -1060,7 +1100,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 324253,
       "name": "Na Kajare Ki Dhar (From \"Mohra\")",
       "url": "https://open.spotify.com/track/2D8Cpa8hDGMHygcdrsXfS8"
@@ -1280,7 +1320,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 289681,
       "name": "Rehna Chai Da",
       "url": "https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Nolan Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,340 likes - 135 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,604 likes - 135 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

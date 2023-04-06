@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-145 songs - 7 hr 55 min
+146 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Emmenez\-moi](https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Entre deux rêves \(Remastered 2014\)](https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd) | 3:32 | 2021-03-21 |  |
 | [Emmenez\-moi](https://open.spotify.com/track/3K0YkxwQ1YMI8hykY1pQeH) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Liebeslieder in Paris](https://open.spotify.com/album/1brB2FXR4rjxbGr4iUCsOB) | 3:35 | 2021-03-21 | 2022-11-13 |
 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 | 2021-03-21 |  |
-| [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 | 2021-03-21 |  |
+| [Fais Comme L'Oiseau](https://open.spotify.com/track/0VmaDYLdOKuokOL1tJOFMz) | [Michel Fugain](https://open.spotify.com/artist/3Uitc0uNSbhVrqJON4NCMY) | [Fais comme l'oiseau](https://open.spotify.com/album/3OElRBTgFwCluz9sF4wlSt) | 3:05 | 2023-01-17 |  |
+| [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 | 2021-03-21 | 2023-04-06 |
 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 | 2021-03-21 |  |
 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 | 2021-03-21 |  |
 | [Il venait d'avoir 18 ans \- French Version](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 | 2021-03-21 | 2022-07-29 |

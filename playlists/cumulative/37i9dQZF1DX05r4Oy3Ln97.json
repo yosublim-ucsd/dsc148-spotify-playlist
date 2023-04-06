@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 140357,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0xV1SugUe8sTfoscbx4sp8"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0"
@@ -1870,6 +1870,24 @@
       "duration_ms": 186058,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/2TG5LZkJS71E4ps1MbwmZU"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "album": {
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 199679,
       "name": "Ke Shy",
       "url": "https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F"

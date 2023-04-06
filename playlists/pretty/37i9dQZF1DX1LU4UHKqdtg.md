@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: STAYC
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,812 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,266 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 15 | [tOgether fOrever](https://open.spotify.com/track/4lEyfMaUwdioK1MxfSVBPw) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-BY> \- Special Edition \-](https://open.spotify.com/album/3knTfpvtA87E82OLyDJJWS) | 3:31 |
 | 16 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 |
 | 17 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 |
-| 18 | [LIKE IT LIKE IT](https://open.spotify.com/track/7ISeBBHzZgNWiDjJEcv3YH) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/78pg93B2eu8AMtNtCyWyA2) | 3:08 |
+| 18 | [LIKE IT LIKE IT](https://open.spotify.com/track/6VgpwRvDpTt880tIhkGjap) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [LIKE IT LIKE IT](https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv) | 3:08 |
 | 19 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 |
 | 20 | [Beatbox \- English Version](https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \(English Version\)](https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0) | 3:25 |
 | 21 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 74 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
 | 75 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDcyZGFlYjczZDJhNWVjOWU3NmU4NTZjYTY2MTU3ZGVi`
+Snapshot ID: `MTY4MDY4OTAzOCwwMDAwMDAwMDUxZTk3MDAxMGIzODU0YzY4MGEzOWZjOWJlYzdiZTBm`

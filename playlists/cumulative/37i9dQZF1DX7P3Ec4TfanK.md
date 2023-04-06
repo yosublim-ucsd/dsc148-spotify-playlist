@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-158 songs - 8 hr 22 min
+159 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-05-06 | 2022-07-29 |
 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 | 2022-05-06 |  |
 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 | 2022-07-14 |  |
+| [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2023-02-24 |  |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-14 |  |
 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2022-05-06 |  |
 | [LAUREA AD HONOREM \(feat\. Calcutta\)](https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:15 | 2022-05-06 | 2022-05-20 |
@@ -89,7 +90,7 @@
 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 | 2022-05-06 | 2022-07-29 |
 | [Litoranea \(con Matilda De Angelis\)](https://open.spotify.com/track/4nitQHpvx1XGehP3y5cIyd) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Matilda De Angelis](https://open.spotify.com/artist/1KmWMGs4c4gefrodKrV0g2) | [Ritorno Al Futuro / Back To The Future](https://open.spotify.com/album/5pRIJzzXRB5cgKcDviHMIk) | 3:33 | 2022-07-14 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 | 2022-05-06 |  |
-| [Love Somebody](https://open.spotify.com/track/2IzUjVfO3UrAY73UjHHsGi) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Without You](https://open.spotify.com/album/6WtvmIQ1CPfH7vI2C0wn1E) | 2:22 | 2022-11-24 |  |
+| [Love Somebody](https://open.spotify.com/track/2IzUjVfO3UrAY73UjHHsGi) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Without You](https://open.spotify.com/album/6WtvmIQ1CPfH7vI2C0wn1E) | 2:22 | 2022-11-24 | 2023-04-06 |
 | [Love To Lose](https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Love To Lose](https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q) | 2:57 | 2022-05-06 | 2022-07-29 |
 | [LUNA FORTUNA](https://open.spotify.com/track/6UtWP6ifMN8XkBspElQbCG) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy), [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [LUNA FORTUNA](https://open.spotify.com/album/5p4J4i42YhpU0dBwLunCiY) | 3:03 | 2022-05-26 | 2022-06-10 |
 | [L’Eccezione \- from the Amazon Original Series BANG BANG BABY](https://open.spotify.com/track/2MyEwJpLReYHq7b8P2ABtk) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L’Eccezione \(from the Amazon Original Series BANG BANG BABY\)](https://open.spotify.com/album/5dO9NfA6d8iRST4CR1JUk8) | 3:49 | 2022-06-12 | 2022-07-29 |

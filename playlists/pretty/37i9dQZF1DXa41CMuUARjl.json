@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Uncle Waffles.",
-  "num_followers": 428949,
+  "num_followers": 429036,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NzAzNSwwMDAwMDAwMDZjZmY3ZmM3Yzc4NWQ2Y2IwY2Y2MzIxZDEyMWRlMDRj",
+  "snapshot_id": "MTY4MDI3NzAzNSwwMDAwMDAwMDA2YzQ1ZThiNzRmMjAwM2JhOWQ1ODBhZWM4NDlmNjA4",
   "tracks": [
     {
       "added_at": "2023-03-31 15:37:15",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
+        "name": "Out Of Orbit",
+        "url": "https://open.spotify.com/album/7CQQhAFtWh0iVQWshzJPN6"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Out Of Orbit",
+      "url": "https://open.spotify.com/track/0jSblr1ZGJUxyX5lAABrN6"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
         "name": "Arpeggio",
         "url": "https://open.spotify.com/album/3yc46nwWWvYQ6Gv24lN916"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 240000,
       "name": "Arpeggio",
       "url": "https://open.spotify.com/track/3yyUCi2aug4daXsYQa4x1L"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
-        "name": "Out Of Orbit",
-        "url": "https://open.spotify.com/album/7CQQhAFtWh0iVQWshzJPN6"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Out Of Orbit",
-      "url": "https://open.spotify.com/track/0jSblr1ZGJUxyX5lAABrN6"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/2mNc6DXC1qHBzcZdKsqWxe"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        }
+      ],
+      "duration_ms": 182113,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/6arHrJv28C4X7meSbtXZUG"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
         "name": "Little Darling (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 361877,
       "name": "FKA MESS",
       "url": "https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/2mNc6DXC1qHBzcZdKsqWxe"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Max Mylo",
-          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
-        }
-      ],
-      "duration_ms": 182113,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/6arHrJv28C4X7meSbtXZUG"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
+        "name": "Deep Space",
+        "url": "https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Deep Space",
+      "url": "https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
         "name": "Yes Future (Extended)",
         "url": "https://open.spotify.com/album/5vlb85GzKY1s8JixRv9ZyA"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 371612,
       "name": "Amateur",
       "url": "https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
-        "name": "Deep Space",
-        "url": "https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Deep Space",
-      "url": "https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "WASTED ON ME",
-        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "WASTED ON ME",
-      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "Super C",
         "url": "https://open.spotify.com/album/7q5deyyiikBOhpPuCakqs5"
       },
@@ -1067,22 +1051,18 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/73HvPGM2CCwsbshJz3YkfJ"
+        "name": "WASTED ON ME",
+        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
       },
       "artists": [
         {
-          "name": "DARK CHANELL",
-          "url": "https://open.spotify.com/artist/2vnkAEu45tNiUctE7pPBJr"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
         }
       ],
-      "duration_ms": 273582,
-      "name": "Verheij",
-      "url": "https://open.spotify.com/track/5HkBI8dsZZUahXDinCGS6y"
+      "duration_ms": 182479,
+      "name": "WASTED ON ME",
+      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1103,6 +1083,42 @@
       "duration_ms": 435468,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1ZEwAUD9knWugDYjYiyKFM"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/6wnNv8gRhk751W2ozz7bNy"
+      },
+      "artists": [
+        {
+          "name": "Justmyl\u00f8rd",
+          "url": "https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/367w4FMWOyBqp60wWENjX8"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/73HvPGM2CCwsbshJz3YkfJ"
+      },
+      "artists": [
+        {
+          "name": "DARK CHANELL",
+          "url": "https://open.spotify.com/artist/2vnkAEu45tNiUctE7pPBJr"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "duration_ms": 273582,
+      "name": "Verheij",
+      "url": "https://open.spotify.com/track/5HkBI8dsZZUahXDinCGS6y"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Feels Like",
-        "url": "https://open.spotify.com/album/6wnNv8gRhk751W2ozz7bNy"
-      },
-      "artists": [
-        {
-          "name": "Justmyl\u00f8rd",
-          "url": "https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/367w4FMWOyBqp60wWENjX8"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "Heat Of The Sun",
         "url": "https://open.spotify.com/album/4fBTosfMAtCoOYBDUJ9py0"
       },
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/0Cooxxp3LNfSRLdpGENkdg"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
-        }
-      ],
-      "duration_ms": 171580,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/1BX9C8u8C9kKYkPgjKUKwy"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
       },
@@ -1207,6 +1187,22 @@
       "duration_ms": 123488,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "PRODUCE (CHOPPED)",
+        "url": "https://open.spotify.com/album/2CKZGKMWdE0xcTrhDndtx4"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "BROKEN RECORD",
+      "url": "https://open.spotify.com/track/5UNiI0WZWGD9OCMvGQxl2Q"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1235,18 +1231,38 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "PRODUCE (CHOPPED)",
-        "url": "https://open.spotify.com/album/2CKZGKMWdE0xcTrhDndtx4"
+        "name": "1949",
+        "url": "https://open.spotify.com/album/0AhaMd9g6mqHrmqlQGoR8g"
       },
       "artists": [
         {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
         }
       ],
-      "duration_ms": 164250,
-      "name": "BROKEN RECORD",
-      "url": "https://open.spotify.com/track/5UNiI0WZWGD9OCMvGQxl2Q"
+      "duration_ms": 133333,
+      "name": "1949",
+      "url": "https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        }
+      ],
+      "duration_ms": 211024,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1299,6 +1315,26 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/0Cooxxp3LNfSRLdpGENkdg"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 171580,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/1BX9C8u8C9kKYkPgjKUKwy"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
         "name": "Future Call",
         "url": "https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y"
       },
@@ -1319,22 +1355,18 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "1949",
-        "url": "https://open.spotify.com/album/0AhaMd9g6mqHrmqlQGoR8g"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2ROnZNlRvbUruUelzeu12x"
       },
       "artists": [
         {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        },
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
         }
       ],
-      "duration_ms": 133333,
-      "name": "1949",
-      "url": "https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk"
+      "duration_ms": 160000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4pNTlWO7HN9Tsos7QXIPo1"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1355,34 +1387,18 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2ROnZNlRvbUruUelzeu12x"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4IQKOWKvRhgZyxGvhYTakE"
       },
       "artists": [
         {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4pNTlWO7HN9Tsos7QXIPo1"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95"
-      },
-      "artists": [
-        {
-          "name": "Montee",
-          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
-        }
-      ],
-      "duration_ms": 211024,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz"
+      "duration_ms": 185487,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/6rC1NzJxtAv9vkpx9sJd9Z"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1407,18 +1423,22 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/4IQKOWKvRhgZyxGvhYTakE"
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/5F9nm7IV9JaTlNVNlhflz6"
       },
       "artists": [
         {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "Alchimyst",
+          "url": "https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy"
+        },
+        {
+          "name": "Supernature",
+          "url": "https://open.spotify.com/artist/46svYCPiWA3zQdU0zoO2re"
         }
       ],
-      "duration_ms": 185487,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/6rC1NzJxtAv9vkpx9sJd9Z"
+      "duration_ms": 172500,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/3WZSK2bEx5nvLT9gMxocaN"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1439,26 +1459,6 @@
       "duration_ms": 260560,
       "name": "Changed - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/13b85juYDA82zhJ3i6vtSh"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
-        "name": "Take Me There",
-        "url": "https://open.spotify.com/album/5F9nm7IV9JaTlNVNlhflz6"
-      },
-      "artists": [
-        {
-          "name": "Alchimyst",
-          "url": "https://open.spotify.com/artist/2yrruLNIgKetksilWBdJHy"
-        },
-        {
-          "name": "Supernature",
-          "url": "https://open.spotify.com/artist/46svYCPiWA3zQdU0zoO2re"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Take Me There",
-      "url": "https://open.spotify.com/track/3WZSK2bEx5nvLT9gMxocaN"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Beyond Control",
-        "url": "https://open.spotify.com/album/5dAhZLZ3qgaPQGpxwJCSDw"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Man",
-          "url": "https://open.spotify.com/artist/2eiwJhqnolYJf3iUMLFDpy"
-        }
-      ],
-      "duration_ms": 374775,
-      "name": "Beyond Control",
-      "url": "https://open.spotify.com/track/6WhTKGrJaMbTbEtQvU5yKR"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
       },
@@ -1527,22 +1511,6 @@
       "duration_ms": 190449,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
-        "name": "Affection EP",
-        "url": "https://open.spotify.com/album/5Nlp3GCpAH2FqqBr6ZmD4S"
-      },
-      "artists": [
-        {
-          "name": "S\u00d8NIN",
-          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
-        }
-      ],
-      "duration_ms": 212977,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/0C9BsO77o3oNP0vCbMFFnV"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1567,34 +1535,34 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "I Love This",
-        "url": "https://open.spotify.com/album/3v2kXhB9ttUu3LeKXdpN07"
+        "name": "Affection EP",
+        "url": "https://open.spotify.com/album/5Nlp3GCpAH2FqqBr6ZmD4S"
       },
       "artists": [
         {
-          "name": "Lamorn",
-          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
         }
       ],
-      "duration_ms": 240297,
-      "name": "I Love This",
-      "url": "https://open.spotify.com/track/1rZA151rIhOBq1pL5l5pay"
+      "duration_ms": 212977,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/0C9BsO77o3oNP0vCbMFFnV"
     },
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Central City Freestyle",
-        "url": "https://open.spotify.com/album/5LW5BDzt4h7aKaXUQ8bZoO"
+        "name": "Beyond Control",
+        "url": "https://open.spotify.com/album/5dAhZLZ3qgaPQGpxwJCSDw"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "Fantastic Man",
+          "url": "https://open.spotify.com/artist/2eiwJhqnolYJf3iUMLFDpy"
         }
       ],
-      "duration_ms": 198868,
-      "name": "Central City Freestyle",
-      "url": "https://open.spotify.com/track/7vp5PiZ9CVA3vSY7pqCloc"
+      "duration_ms": 374775,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/6WhTKGrJaMbTbEtQvU5yKR"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1615,22 +1583,18 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Perfect Life",
-        "url": "https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G"
+        "name": "Central City Freestyle",
+        "url": "https://open.spotify.com/album/5LW5BDzt4h7aKaXUQ8bZoO"
       },
       "artists": [
         {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
-        },
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         }
       ],
-      "duration_ms": 237250,
-      "name": "Perfect Life",
-      "url": "https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj"
+      "duration_ms": 198868,
+      "name": "Central City Freestyle",
+      "url": "https://open.spotify.com/track/7vp5PiZ9CVA3vSY7pqCloc"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1647,6 +1611,42 @@
       "duration_ms": 206586,
       "name": "wasted",
       "url": "https://open.spotify.com/track/7s7K9Z5YkIMGj1i8lDbucR"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "I Love This",
+        "url": "https://open.spotify.com/album/3v2kXhB9ttUu3LeKXdpN07"
+      },
+      "artists": [
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "duration_ms": 240297,
+      "name": "I Love This",
+      "url": "https://open.spotify.com/track/1rZA151rIhOBq1pL5l5pay"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "Perfect Life",
+        "url": "https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        },
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "Perfect Life",
+      "url": "https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 151965,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "The Future Is Intelligent",
         "url": "https://open.spotify.com/album/2CHeo5uMuyNMOzwSC5ogOC"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 241000,
       "name": "Earth",
       "url": "https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 151965,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2023-03-31 15:37:15",
@@ -1831,6 +1831,30 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/7Fz9Q4aDTQyKLbikWBf2kF"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Clemente",
+          "url": "https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn"
+        },
+        {
+          "name": "Lewis Beards",
+          "url": "https://open.spotify.com/artist/4nKKS5hdLk4R9C9pSUwlft"
+        }
+      ],
+      "duration_ms": 369094,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/3Pslm9t0V78vjtYtLuCt6h"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/4OgrRzm4w3w6Brborvb1HC"
       },
@@ -1863,30 +1887,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/7Fz9Q4aDTQyKLbikWBf2kF"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        },
-        {
-          "name": "Clemente",
-          "url": "https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn"
-        },
-        {
-          "name": "Lewis Beards",
-          "url": "https://open.spotify.com/artist/4nKKS5hdLk4R9C9pSUwlft"
-        }
-      ],
-      "duration_ms": 369094,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/3Pslm9t0V78vjtYtLuCt6h"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "Thin End of The Wedge",
         "url": "https://open.spotify.com/album/1TKHWepuyDN4OlTA2OYaCX"
       },
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-03-31 15:37:15",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 190312,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/2ClTrd8Yob4FclId0VyjiV"
-    },
-    {
-      "added_at": "2023-03-31 15:37:15",
-      "album": {
         "name": "Don't Stop Now",
         "url": "https://open.spotify.com/album/4su9dDMywIGE09MMCB37hi"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 241875,
       "name": "Don't Stop Now",
       "url": "https://open.spotify.com/track/0syZZOgrNcpBNgPi6E66Nv"
+    },
+    {
+      "added_at": "2023-03-31 15:37:15",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "duration_ms": 190312,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2ClTrd8Yob4FclId0VyjiV"
     },
     {
       "added_at": "2023-03-31 15:37:15",

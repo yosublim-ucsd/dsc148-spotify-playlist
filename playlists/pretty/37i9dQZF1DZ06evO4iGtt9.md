@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 124 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 16 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
 | 17 | [Mind over Matter \(feat\. D'banj\)](https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Mind over Matter \(feat\. D'banj\)](https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk) | 3:10 |
 | 18 | [Gbagam \(feat\. Deettii & Phyno\)](https://open.spotify.com/track/2T7w6niKZZ3pQWR8MxwGim) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Deettii](https://open.spotify.com/artist/22B60sKa0PpmhadrNHuyJD), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Gbagam \(feat\. Deettii & Phyno\)](https://open.spotify.com/album/08OTfvY73KcSjiflKgiv3R) | 3:07 |
-| 19 | [Appreciation \(feat\. 2face\)](https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Face](https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3) | [Appreciation \(feat\. 2face\)](https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL) | 2:54 |
-| 20 | [Balance](https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:03 |
+| 19 | [Balance](https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:03 |
+| 20 | [Appreciation \(feat\. 2face\)](https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Face](https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3) | [Appreciation \(feat\. 2face\)](https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL) | 2:54 |
 | 21 | [Shake Yuh Bum](https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:30 |
 | 22 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 |
 | 23 | [Better Than Them](https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 43 | [I Concur](https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg) | 4:05 |
 | 44 | [Number One](https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:12 |
 | 45 | [To U](https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [To U](https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9) | 3:44 |
-| 46 | [Woyo](https://open.spotify.com/track/4tbVAVxiGJAZNiFRBHhGwV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Woyo](https://open.spotify.com/album/6ZWbdO3QrtR8YI193q5K2O) | 2:43 |
-| 47 | [Dem Mama](https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:09 |
-| 48 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 |
-| 49 | [Something Must to Kill a Man](https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:06 |
-| 50 | [Alkayida](https://open.spotify.com/track/0tXjdxP16Xee1wBNo9CZCK) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alkayida](https://open.spotify.com/album/09V8ahQAvn922cCNx6iJ0a) | 3:39 |
+| 46 | [Dem Mama](https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:09 |
+| 47 | [Woyo](https://open.spotify.com/track/4tbVAVxiGJAZNiFRBHhGwV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Woyo](https://open.spotify.com/album/6ZWbdO3QrtR8YI193q5K2O) | 2:43 |
+| 48 | [Alkayida](https://open.spotify.com/track/0tXjdxP16Xee1wBNo9CZCK) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alkayida](https://open.spotify.com/album/09V8ahQAvn922cCNx6iJ0a) | 3:39 |
+| 49 | [Bom Bom](https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:38 |
+| 50 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBhZGU3YmQyNzk5ZjJmZjcyYjkyNmU1M2I0YTkyODI4ZA==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDA4NGY0NzUxMWQzMDIzM2MyMzg2NDEyNDZhYjY1NTc1Yw==`

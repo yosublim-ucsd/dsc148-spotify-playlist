@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 188000,
       "name": "Marea Turquesa",
       "url": "https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc"
@@ -8580,6 +8580,24 @@
       "duration_ms": 237931,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi"
+    },
+    {
+      "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176444,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377826,
+  "num_followers": 377859,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDQ0MGU4OTZhOGQ0ZGQ1ZGFhMTg3Nzg4MjM5MDcyMzNm",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDlmMGM2MTBiODg1MmFlZDliMjIyZWU0YTNjY2FiZjY3",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Why Do We Shake In The Cold?",
         "url": "https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 202106,
       "name": "Back To My Bed",
       "url": "https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Chewing Cotton Wool",
         "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
-      },
-      "artists": [
-        {
-          "name": "New Friends",
-          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
-        }
-      ],
-      "duration_ms": 255847,
-      "name": "Purple Candy",
-      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
+      },
+      "artists": [
+        {
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
+        }
+      ],
+      "duration_ms": 255847,
+      "name": "Purple Candy",
+      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
       },
       "artists": [
         {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+          "name": "Sam Sure",
+          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
         }
       ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
+      "duration_ms": 192792,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
-      },
-      "artists": [
-        {
-          "name": "Sam Sure",
-          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
-        }
-      ],
-      "duration_ms": 192792,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Friend Goals",
         "url": "https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 260338,
+      "name": "Edge of the Dark",
+      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Heart (Alternative Version)",
         "url": "https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 215173,
       "name": "Hummed Low",
       "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 260338,
-      "name": "Edge of the Dark",
-      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Gold (Flume Re-Work)",
         "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
       },
@@ -1631,6 +1615,42 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "September Come",
+        "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
+      },
+      "artists": [
+        {
+          "name": "Mo\u00ebl",
+          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
+        },
+        {
+          "name": "The Accents",
+          "url": "https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ"
+        }
+      ],
+      "duration_ms": 240131,
+      "name": "September Come",
+      "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Losing Sleep",
         "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
       },
@@ -1643,30 +1663,6 @@
       "duration_ms": 222885,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Run Run (Japanese Wallpaper Remix)",
-        "url": "https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        },
-        {
-          "name": "Samuraii",
-          "url": "https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO"
-        },
-        {
-          "name": "Japanese Wallpaper",
-          "url": "https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Run Run - Japanese Wallpaper Remix",
-      "url": "https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1691,22 +1687,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "September Come",
-        "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
+        "name": "Run Run (Japanese Wallpaper Remix)",
+        "url": "https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr"
       },
       "artists": [
         {
-          "name": "Mo\u00ebl",
-          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         },
         {
-          "name": "The Accents",
-          "url": "https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ"
+          "name": "Samuraii",
+          "url": "https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO"
+        },
+        {
+          "name": "Japanese Wallpaper",
+          "url": "https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM"
         }
       ],
-      "duration_ms": 240131,
-      "name": "September Come",
-      "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
+      "duration_ms": 205002,
+      "name": "Run Run - Japanese Wallpaper Remix",
+      "url": "https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX"
     },
     {
       "added_at": "2023-01-11 21:01:15",

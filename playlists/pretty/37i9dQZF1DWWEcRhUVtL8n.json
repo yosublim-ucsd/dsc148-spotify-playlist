@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Jesse\u00ae",
-  "num_followers": 1703313,
+  "num_followers": 1703344,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGFkMmIyMDUwMTUzY2I1N2QzMjY2NjBiZjQwNGNiY2Zi",
+  "snapshot_id": "MTY4MDcyNjc1MiwwMDAwMDAwMDNiMDYyOWUxODY0OGY5NmFiMjU0ZTNiNmZlNjZiMWU3",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -557,6 +557,30 @@
       "url": "https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ"
     },
     {
+      "added_at": "2023-04-05 20:32:32",
+      "album": {
+        "name": "In Or In-Between (Remix)",
+        "url": "https://open.spotify.com/album/7q6NYmqtJPUX8oQmbePCmY"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 188552,
+      "name": "In Or In-Between (Remix)",
+      "url": "https://open.spotify.com/track/6dGPZFOXEAtTeTt98g8Qgn"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Desire, I Want To Turn Into You",
@@ -683,22 +707,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Yippie Ki Yay",
         "url": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
       },
@@ -711,6 +719,22 @@
       "duration_ms": 266911,
       "name": "Yippie Ki Yay",
       "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -767,22 +791,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "blotter baby",
-        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 156141,
-      "name": "are you feeling it now",
-      "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Kick in the Teeth",
         "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
       },
@@ -799,6 +807,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "blotter baby",
+        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 156141,
+      "name": "are you feeling it now",
+      "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
       },
@@ -811,22 +835,6 @@
       "duration_ms": 150706,
       "name": "I Need That",
       "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -859,6 +867,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -909,6 +933,54 @@
       "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "free flow",
+        "url": "https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "free flow",
+      "url": "https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "MUNA",
@@ -927,18 +999,34 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "free flow",
-        "url": "https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK"
+        "name": "Petals on the Moon",
+        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 203624,
-      "name": "free flow",
-      "url": "https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy"
+      "duration_ms": 256945,
+      "name": "Petals on the Moon",
+      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -975,54 +1063,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Petals on the Moon",
-        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 256945,
-      "name": "Petals on the Moon",
-      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "I Can't Get My Head Around You",
         "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
       },
@@ -1035,22 +1075,6 @@
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1087,22 +1111,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "The Living End",
         "url": "https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B"
       },
@@ -1115,6 +1123,22 @@
       "duration_ms": 208013,
       "name": "I'm So Bored",
       "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1187,22 +1211,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -1219,18 +1227,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
     }
   ],
   "unique_name": "Indie Pop",

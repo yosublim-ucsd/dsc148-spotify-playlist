@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 168907,
+  "num_followers": 168900,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGNhMmVlYmE0NzExMDNiNjg2NDBmZGYxN2UyOTQxZDNk",
+  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGY5ODdlMmQwZWIxMzYyNTU4NGVmOTcxYTBjOGRlMzJl",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "8 Days Of Christmas",
-        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "8 Days of Christmas",
-      "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Christmas",
@@ -143,6 +127,22 @@
       "duration_ms": 418706,
       "name": "Now Behold the Lamb",
       "url": "https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "8 Days Of Christmas",
+        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "8 Days of Christmas",
+      "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 181365,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 305226,
       "name": "Every Year, Every Christmas",
       "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 181365,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "One Wish / The Holiday Album",
-        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "Deck the Halls / Silent Night",
-      "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Litmas",
         "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 188889,
       "name": "Litmas",
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "Deck the Halls / Silent Night",
+      "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "His Gift",
         "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -979,22 +963,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "A Mary Christmas",
-        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 264186,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1015,6 +995,26 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Mary Christmas",
+        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "December Baby",
+        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 237660,
+      "name": "Wishlist (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "He Is Christmas",
         "url": "https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR"
       },
@@ -1151,22 +1171,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "December Baby",
-        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
       },
       "artists": [
         {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
         }
       ],
-      "duration_ms": 237660,
-      "name": "Wishlist (feat. PJ Morton)",
-      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1183,22 +1199,6 @@
       "duration_ms": 214183,
       "name": "Wrap Me Up",
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Never Knew Christmas",
-        "url": "https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6"
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
       },
       "artists": [
         {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 334546,
-      "name": "Never Knew Christmas",
-      "url": "https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn"
+      "duration_ms": 308640,
+      "name": "O Come",
+      "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "A Timeless Christmas",
-        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
+        "name": "Never Knew Christmas",
+        "url": "https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
         }
       ],
-      "duration_ms": 308640,
-      "name": "O Come",
-      "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
+      "duration_ms": 334546,
+      "name": "Never Knew Christmas",
+      "url": "https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn"
     },
     {
       "added_at": "2022-11-25 20:23:30",

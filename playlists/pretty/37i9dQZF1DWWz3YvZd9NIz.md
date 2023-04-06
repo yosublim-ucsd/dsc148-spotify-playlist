@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,036 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,682 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 38 | [Outside \- Hardstyle Remix](https://open.spotify.com/track/0lKFwVERbOAEjst5CfH7tb) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Outside \(Hardstyle Remix\)](https://open.spotify.com/album/1KHgzKZGHatLlCtlQnI0y7) | 2:37 |
 | 39 | [Heaven \- DJ Isaac Remix](https://open.spotify.com/track/6If6tXpbwYs5zBop1AqfwG) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Heaven \(Remixes\)](https://open.spotify.com/album/7FamurxHc0oaPYDoQ6F3jF) | 3:18 |
 | 40 | [I Like To Move It](https://open.spotify.com/track/6kZGXEU0mBb3KZog583f21) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Hardstyle Remixes of Popular Songs Vol\. 1](https://open.spotify.com/album/6O1ZSw3RQnUIhW9LNLZaLy) | 3:20 |
-| 41 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
-| 42 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
+| 41 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
+| 42 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
 | 43 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
 | 44 | [Infinity \(Zatox Remix\)](https://open.spotify.com/track/24ziSHYA1GWg5hrNbpLg4E) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Hardstyle Remixes of Popular Songs Vol\. 1](https://open.spotify.com/album/6O1ZSw3RQnUIhW9LNLZaLy) | 2:58 |
 | 45 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 66 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
 | 67 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 |
 | 68 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 |
-| 69 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 |
-| 70 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
+| 69 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
+| 70 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDQ0ODIwODc0ZDY5MGNkZDA4NWM2YjZmYjkxZTE1NmFi`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDQ1MTkyNTBkZmRjYzUyMDliMzYzN2VkOTA2OTM0Njg2`

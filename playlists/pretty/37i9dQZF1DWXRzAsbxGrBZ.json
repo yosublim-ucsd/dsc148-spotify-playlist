@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 12376,
+  "num_followers": 12489,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDI0MzA5MmZiNDk0ODc2MmI5ZDBiMjM4M2Y0ODRlNjA5",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMGM3NTU0ZjdlZTI0ODczOGEwNTg0NTQzOTI5ZWVhYjBj",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Confindent",
         "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 463348,
       "name": "Confident - China The Charmeleon The Animal Remix",
       "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "NEO",
         "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 332000,
       "name": "My Heartbeat For You",
       "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -803,26 +803,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Dark Snow",
-        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
       "artists": [
         {
-          "name": "The Rudeman",
-          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
-        },
-        {
-          "name": "Keegs Bantom",
-          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
-        },
-        {
-          "name": "Bones",
-          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
         }
       ],
-      "duration_ms": 367124,
-      "name": "Dark Snow - Bones Remix",
-      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -859,18 +851,26 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+        "name": "Dark Snow",
+        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "The Rudeman",
+          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
+        },
+        {
+          "name": "Keegs Bantom",
+          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
+        },
+        {
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
         }
       ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+      "duration_ms": 367124,
+      "name": "Dark Snow - Bones Remix",
+      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -907,22 +907,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+        "name": "See the Light",
+        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
       "artists": [
         {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+          "name": "Bless_SA",
+          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
         },
         {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+          "name": "Kyika DeSoul",
+          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
         }
       ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
+      "duration_ms": 405420,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -943,22 +943,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Seeking",
-        "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
       },
       "artists": [
         {
-          "name": "Buder Prince",
-          "url": "https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a"
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
         },
         {
-          "name": "Ruthes Ma",
-          "url": "https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c"
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
         }
       ],
-      "duration_ms": 397355,
-      "name": "Seeking",
-      "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+      "duration_ms": 402000,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
     }
   ],
   "unique_name": "Deep House Session",

@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 176952,
       "name": "Robot Riot",
       "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
@@ -4086,6 +4086,24 @@
       "duration_ms": 237013,
       "name": "She's Lost Control - 2007 Remaster",
       "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "album": {

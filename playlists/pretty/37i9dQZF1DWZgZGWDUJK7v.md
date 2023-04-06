@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Love Revolution \(연애혁명\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,662 likes - 101 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,754 likes - 101 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 55 | [A long dream \(Full Ver.\)](https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi) | [ThorThor](https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V) | [Zombie daughter \(Original Soundtrack\) : A long dream](https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd) | 3:33 |
 | 56 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 |
 | 57 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 |
-| 58 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
+| 58 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 59 | [The day](https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI) | [승희](https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.1](https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c) | 3:16 |
 | 60 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 |
 | 61 | [The two of us](https://open.spotify.com/track/211qUU0CXl8NqovMvW3LSc) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [The Crush Of Spring OST Part.9](https://open.spotify.com/album/7uA5KDUQnGaPpE1Ccs8gwf) | 3:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 96 | [Last trip \(The stairway of Time X Kim Namjoo \(Apink\)\)](https://open.spotify.com/track/1knhMBYdhLHleCJwPbJtvi) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [The stairway of Time OST Part 2\. Last trip](https://open.spotify.com/album/52xTAL9ScEQC9OzO2tCdLm) | 4:05 |
 | 97 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 |
 | 98 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
-| 99 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 |
+| 99 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 |
 | 100 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 |
 | 101 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 |
 

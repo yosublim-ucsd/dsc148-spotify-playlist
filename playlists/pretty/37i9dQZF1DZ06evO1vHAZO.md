@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,068 likes - 46 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,338 likes - 46 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 45 | [Force Of Nature](https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:51 |
 | 46 | [It's Gettin' Better \(Man!!\) \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/19r7EyyRHEzagsDFZxQBmH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:56 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDA5YTM2N2E0N2ZhMjY1N2FlOWMzNzhmMDU5NTY0NDEyZQ==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDBmZjRmMmM4MTBhMGNkYWM5MGMyMzg4MDQ3OTQxOGI2Ng==`

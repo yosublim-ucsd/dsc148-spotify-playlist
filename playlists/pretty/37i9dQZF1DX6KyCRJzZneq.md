@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,261 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,301 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 24 | [Daahoud](https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 4:05 |
 | 25 | [Rhythm\-A\-Ning](https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Art Blakey's Jazz Messengers With Thelonious Monk \(Deluxe Edition\)](https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe) | 7:17 |
 | 26 | [Straight, No Chaser \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 10:35 |
-| 27 | [Taking A Chance On Love](https://open.spotify.com/track/0j8bnD1EGeUPjHBnXPHibI) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Complete Verve Sessions](https://open.spotify.com/album/1esWnRTGtgRaLC3QdkRv3x) | 4:44 |
+| 27 | [Taking A Chance On Love](https://open.spotify.com/track/0j8bnD1EGeUPjHBnXPHibI) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Complete Verve Sessions](https://open.spotify.com/album/1esWnRTGtgRaLC3QdkRv3x) | 4:44 |
 | 28 | [I Know That You Know](https://open.spotify.com/track/44wLu2rDfUUYMmiva3tzch) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:26 |
 | 29 | [Hot House](https://open.spotify.com/track/5CMVEnnJC2tATWKbvx6Wc8) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 3:13 |
 | 30 | [Locomotion](https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:14 |

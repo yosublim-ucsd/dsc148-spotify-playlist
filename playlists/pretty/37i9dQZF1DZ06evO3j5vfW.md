@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,696 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,703 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 38 | [Falling](https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Falling](https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI) | 3:10 |
 | 39 | [Dynamite](https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Dynamite](https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR) | 3:22 |
 | 40 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 |
-| 41 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 |
-| 42 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 |
+| 41 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 |
+| 42 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 |
 | 43 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
 | 44 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 45 | [Where Would We Be](https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be](https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [You Used To](https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Used To](https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9) | 2:54 |
 | 50 | [Distance](https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Distance](https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw) | 2:48 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDA1MzlkYmY2NGMxM2YyMWEzMzZlYzZmMzQ1YjBlYTliNA==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDAyYWZiYmQxYjM5MjczOWIyNTgxMzZhMmU4ZDBlYzdhYw==`

@@ -1,12 +1,12 @@
 {
   "description": "Run to this collection of rock jams.",
-  "num_followers": 863673,
+  "num_followers": 864053,
   "original_name": "Born To Run 150 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwOTY1MiwwMDAwMDAwMDhkNzJlZDE3NzE1MTdiNTg5MWRjMzQxOWRmMzI0ZTNl",
+  "snapshot_id": "MTY3NDgwOTY1MiwwMDAwMDAwMDcxZjI4YmJhN2Q5MTgxNDlkODUxMjU4NmQ1YWY4MjYx",
   "tracks": [
     {
       "added_at": "2023-01-27 08:54:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-27 08:54:12",
       "album": {
-        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Every Rose Has Its Thorn - Remastered 2003",
-      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
-    },
-    {
-      "added_at": "2023-01-27 08:54:12",
-      "album": {
         "name": "...And Justice for All (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 446145,
       "name": "One (Remastered)",
       "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
+    },
+    {
+      "added_at": "2023-01-27 08:54:12",
+      "album": {
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Every Rose Has Its Thorn - Remastered 2003",
+      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
     },
     {
       "added_at": "2023-01-27 08:54:12",

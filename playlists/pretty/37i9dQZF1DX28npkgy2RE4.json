@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Scott McMicken and THE EVER-EXPANDING",
-  "num_followers": 399397,
+  "num_followers": 399490,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGM2MzlmMmQ1MDRlN2YyNjBkOTQzNTExNzY4MGFiMzU5",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDg0NzMzMjE0YjNhOGE5NjgxYWJkYTMzMWUxNzBiODll",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Mermaid Salt",
-        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        }
-      ],
-      "duration_ms": 335859,
-      "name": "Microdose",
-      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Mermaid Salt",
+        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "duration_ms": 335859,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 254735,
       "name": "First Time",
       "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Tales Of America",
         "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 217360,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/295AV2PI6PUduX585IekdQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "San Isabel",
         "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 280813,
       "name": "Crazy World (Judgement Day)",
       "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Fever Breaks",
+        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Old Black Magic",
+      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "On A Beach",
         "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Fever Breaks",
-        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Old Black Magic",
-      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "August",
-      "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 218740,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "August",
+      "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Marika Hackman (7 Layers Session)",
-        "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 116040,
-      "name": "Cigarette - 7 Layers Session",
-      "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Marika Hackman (7 Layers Session)",
+        "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 116040,
+      "name": "Cigarette - 7 Layers Session",
+      "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
     },
     {
       "added_at": "2023-03-31 04:00:00",

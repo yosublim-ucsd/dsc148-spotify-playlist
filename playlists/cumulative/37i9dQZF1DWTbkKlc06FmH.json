@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
+    },
+    {
+      "album": {
         "name": "DOGTOOTH",
         "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
       },

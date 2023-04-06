@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,670 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,836 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 6 | [Out of Time](https://open.spotify.com/track/3MSM95kg9IQa9SYmB5f3bG) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud) | 3:18 |
 | 7 | [So Alone](https://open.spotify.com/track/6ZGYEIAm0dMsyQP6wAZuXd) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [So Alone](https://open.spotify.com/album/3cJ6B0jqvTJNvu5AkYRaNG) | 3:58 |
 | 8 | [Scourge of the Offspring](https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Scourge of the Offspring](https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN) | 4:28 |
-| 9 | [Electric Red \- 2023, 15th Anniversary Remastered Edition](https://open.spotify.com/track/6QdPBQrxyRq5u37GbWNnPL) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Electric Red \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/60nRLEmUW0uD9np0pNzhO9) | 5:51 |
+| 9 | [Electric Red \- 15th Anniversary 2023 Remastered Edition](https://open.spotify.com/track/6QdPBQrxyRq5u37GbWNnPL) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Electric Red \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/60nRLEmUW0uD9np0pNzhO9) | 5:51 |
 | 10 | [Nothing Gold](https://open.spotify.com/track/1WGC4W2dBxxxvH97h9qCP1) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Embrace the Infinity](https://open.spotify.com/album/7HL5kk9mZEYfijS8K5YzEK) | 4:16 |
 | 11 | [The Migrant](https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Migrant](https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO) | 4:00 |
 | 12 | [Dead Again Jayne](https://open.spotify.com/track/6x57fN3xAvrYq2cEFIP1iL) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Screem Writers Guild](https://open.spotify.com/album/5rZvHeDbrAp0bA4aLYGll3) | 4:33 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 86707,
+  "num_followers": 86834,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGRkMDhmNjg2NTFjMjA3NzM4NTA2NjE0OTdkNDA5MmY1",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDgwOWE3ZDdmMzdlMDE5NTRmNjNkODI1NGZmMzFmYjNj",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "The Garden of Eden",
         "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 241875,
       "name": "The Garden of Eden (A Himalayan Song)",
       "url": "https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
     },
     {
       "added_at": "2021-10-22 11:07:27",

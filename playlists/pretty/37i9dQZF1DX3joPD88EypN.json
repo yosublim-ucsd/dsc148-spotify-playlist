@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 24675,
+  "num_followers": 24704,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MTU2OSwwMDAwMDAwMGMyYTczMzFmMWViMzgwOWUwY2Y5NGIwMzU0ZWU4MDc4",
+  "snapshot_id": "MTY3OTY0MTU2OSwwMDAwMDAwMGJlY2YxOWQyY2UwYTkzOWI5MTBlOGM3ZDcwYzhkZTNh",
   "tracks": [
     {
       "added_at": "2023-03-15 12:59:23",
@@ -299,6 +299,46 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
+        "name": "Tantum",
+        "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
+      },
+      "artists": [
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Jonas Simonson",
+          "url": "https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG"
+        },
+        {
+          "name": "Karin Nelson",
+          "url": "https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Doubt Thou the Stars",
+      "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -319,22 +359,6 @@
       "duration_ms": 253973,
       "name": "Remembrance IV",
       "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -367,30 +391,6 @@
       "duration_ms": 352746,
       "name": "Oktoberhavet",
       "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
-        "name": "Tantum",
-        "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
-      },
-      "artists": [
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Jonas Simonson",
-          "url": "https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG"
-        },
-        {
-          "name": "Karin Nelson",
-          "url": "https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Doubt Thou the Stars",
-      "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
+        "name": "Fisherman's Wharf",
+        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Fisherman's Wharf",
+      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
         "name": "Snow Catches on Her Eyelashes",
         "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 183210,
       "name": "Before the Wedding",
       "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
-        "name": "Fisherman's Wharf",
-        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Fisherman's Wharf",
-      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 474106,
-      "name": "Helsinki Song",
-      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
         "name": "No City, No Tree, No Lake",
         "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 155000,
       "name": "Almost Romance",
       "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 474106,
+      "name": "Helsinki Song",
+      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
         "name": "Nipa Revisited",
         "url": "https://open.spotify.com/album/5ccXz0QirHwa98idqSWR1R"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 299995,
       "name": "Nipa Revisited",
       "url": "https://open.spotify.com/track/28PMFJ4TCFmNC1xjEfuJdY"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
         "name": "As If The Ghost \u2026 Was Me!?",
         "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 343213,
       "name": "As If The Ghost \u2026 Was Me!?",
       "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
         }
       ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+      "duration_ms": 411640,
+      "name": "Polska Of Despair (1)",
+      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1131,22 +1131,6 @@
       "duration_ms": 323176,
       "name": "Fanfar",
       "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 411640,
-      "name": "Polska Of Despair (1)",
-      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
         "name": "Krystall Revisited",
         "url": "https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde"
       },
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
       },
       "artists": [
         {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
         }
       ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
+        "name": "Dansere",
+        "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 903733,
+      "name": "Dansere",
+      "url": "https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
         "name": "So I Write",
         "url": "https://open.spotify.com/album/4vAwdCMgU6JptyBoGx85rH"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
-        "name": "Dansere",
-        "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
-        }
-      ],
-      "duration_ms": 903733,
-      "name": "Dansere",
-      "url": "https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "What Are You Doing the Rest of Your Life",
-        "url": "https://open.spotify.com/album/2BVN35fZ4R97yOoq4MB3H3"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 292623,
-      "name": "Hymne",
-      "url": "https://open.spotify.com/track/1VlE5KmU2VZ262ZMfw421w"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 306826,
       "name": "The Lilly Flower - Liljankukka",
       "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
+        "name": "What Are You Doing the Rest of Your Life",
+        "url": "https://open.spotify.com/album/2BVN35fZ4R97yOoq4MB3H3"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "duration_ms": 292623,
+      "name": "Hymne",
+      "url": "https://open.spotify.com/track/1VlE5KmU2VZ262ZMfw421w"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
-        "name": "Kurzsam and Fulger",
-        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
-      },
-      "artists": [
-        {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
-        }
-      ],
-      "duration_ms": 373899,
-      "name": "Langsam",
-      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
         "name": "The Land That Is Not",
         "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 375653,
       "name": "Triumph Of Being",
       "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
+        "name": "Kurzsam and Fulger",
+        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 373899,
+      "name": "Langsam",
+      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
     },
     {
       "added_at": "2023-03-15 12:59:23",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2023-03-15 12:59:23",
       "album": {
+        "name": "Kautokeino Undercover",
+        "url": "https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5vard Stub\u00f8 Quartet",
+          "url": "https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Blodspredikan",
+      "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
+    },
+    {
+      "added_at": "2023-03-15 12:59:23",
+      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2023-03-15 12:59:23",
-      "album": {
-        "name": "Kautokeino Undercover",
-        "url": "https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5vard Stub\u00f8 Quartet",
-          "url": "https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Blodspredikan",
-      "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
     }
   ],
   "unique_name": "Nordic Jazz",

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 135033,
+  "num_followers": 135071,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGY3NjFmY2FkODMyMDhkNDJiYTIyZDBlYjM5ZWNlMDU1",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDMyYWY2ODQ3YjUwMmRjYWNmNjhkMTcyMzA0ZmU0MjM2",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "added_at": "2023-01-07 03:41:31",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 153303,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -623,22 +643,18 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
+        "name": "Amsterdam Twerk Music",
+        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
         }
       ],
-      "duration_ms": 153303,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+      "duration_ms": 211776,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -663,22 +679,6 @@
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Amsterdam Twerk Music",
-        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 211776,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 135499,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 248780,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1339,34 +1339,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Do It!",
-        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Do It! - Dimitri Vegas Radio Edit",
-      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -1391,6 +1363,34 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Do It!",
+        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Do It! - Dimitri Vegas Radio Edit",
+      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2022-10-12 15:43:07",

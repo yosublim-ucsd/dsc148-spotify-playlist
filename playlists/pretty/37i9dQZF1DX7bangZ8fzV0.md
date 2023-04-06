@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI?si=pjdnxAhLSRGO9uzZ83kWPg">Nicholis Louw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,682 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,717 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

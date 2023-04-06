@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,555 likes - 47 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,597 likes - 47 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 8 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 |
 | 9 | [Ven y Lléname](https://open.spotify.com/track/4Lp4it382mVKgfUDHsh04t) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 9:58 |
 | 10 | [Dios Conmigo Estás](https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Dios Conmigo Estás](https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm) | 5:52 |
-| 11 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 |
-| 12 | [Blanco y Negro](https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
+| 11 | [Blanco y Negro](https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
+| 12 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 |
 | 13 | [Eres Todo Para Mi \(feat\. Alex Campos\)\)](https://open.spotify.com/track/3vAnKEiuCiAMhrCTHrVB28) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 4:40 |
 | 14 | [Tu Nombre Santo Es \(Feat\. Miel San Marcos\)](https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 7:49 |
 | 15 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 30 | [Tu Gracia](https://open.spotify.com/track/4pnVqsh2SpbKBKVR0wOVJd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 8:11 |
 | 31 | [Dios De Avivamiento](https://open.spotify.com/track/2oK5Vp8bA0vaRJhQmhdC7B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Dios De Avivamiento](https://open.spotify.com/album/0nwOb0NwaqHCH2BO5sKxFp) | 4:02 |
 | 32 | [Gracias](https://open.spotify.com/track/33dFdcaqLv97oVBHCo6Wcz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:42 |
-| 33 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
-| 34 | [Eres Tú](https://open.spotify.com/track/0l5Q4QKITYaO1w7nrM75kd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Músiko](https://open.spotify.com/artist/468bq1o2WymC4iUN9cCXly) | [Eres Tú](https://open.spotify.com/album/7qC6N9vB5cPCzUgRLbhMVw) | 3:42 |
+| 33 | [Eres Tú](https://open.spotify.com/track/0l5Q4QKITYaO1w7nrM75kd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Músiko](https://open.spotify.com/artist/468bq1o2WymC4iUN9cCXly) | [Eres Tú](https://open.spotify.com/album/7qC6N9vB5cPCzUgRLbhMVw) | 3:42 |
+| 34 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
 | 35 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
 | 36 | [Una Nueva Historia](https://open.spotify.com/track/6sxc2kDoRsWDRUeyGKmoTg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 6:06 |
 | 37 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 46 | [Me Vuelvo a Ti](https://open.spotify.com/track/7IhUvHVUMPpPqnt6wSSbGf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 4:34 |
 | 47 | [Amanecer](https://open.spotify.com/track/5c9oAzlvPVPpxKCrhRccYm) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Emanuel](https://open.spotify.com/album/27dOnvXZkbLhiGusdxPkWY) | 4:37 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBlNTBiMWIzNDk2YWY3ODFkMGM1ZGMyMGRmY2MyNDQyZg==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDBlMGYwZWZiY2ZmYzNhZWM3NDUxOWE0OGFjNzg0NTZhZQ==`

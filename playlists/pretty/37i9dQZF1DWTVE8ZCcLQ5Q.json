@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421757,
+  "num_followers": 421767,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDRhZDc4ZWY0MDFiYzlhODFlODg0NzYyMWNhM2MyNTc0",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDFlNjg1MmViYTlmZTZkODgxZTBjY2E2MDU4ZmZkM2Zi",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Eu e Eu",
         "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
     },
     {
       "added_at": "2023-02-10 03:00:00",

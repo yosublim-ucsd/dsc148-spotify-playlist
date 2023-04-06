@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,142 songs - 2 day 15 hr 27 min
+1,143 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Espíritu Guanacasteco](https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O) | [Mauricio Penagos Villegas](https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec) | [Costa Rica Pura Vida, Vol\. 1](https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN) | 3:09 | 2022-07-26 | 2022-08-01 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-25 | 2022-06-01 |
 | [Estrella Fugaz](https://open.spotify.com/track/0tCN6oTrCLcgyietoPeIlU) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Estrella Fugaz](https://open.spotify.com/album/25off3TYlfdipMDUwDOz5W) | 3:18 | 2022-03-15 | 2022-03-28 |
+| [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-04-05 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-21 | 2022-11-13 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2022-12-26 | 2022-12-28 |
 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-08 | 2022-08-10 |
@@ -525,7 +526,7 @@
 | [La Noche Mas Linda](https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9) | [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Sex Symbol](https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst) | 5:43 | 2022-07-20 | 2022-09-25 |
 | [La Patriotica Costarricense](https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn) | [Arnoldo Castillo](https://open.spotify.com/artist/35IYBNPrQOEKcVkGSmu6jc) | [Encuentro](https://open.spotify.com/album/6LFocODxqxcp26CzAphOL9) | 2:54 | 2022-09-16 | 2022-09-24 |
 | [LA QUE ME HIZO LLORAR](https://open.spotify.com/track/7yyUsqAbI09cq7K7uqgyAU) | [Dimelo Siru](https://open.spotify.com/artist/43qI3XmeUHEEH7wzGzpGNk), [Yeziell Yeziell](https://open.spotify.com/artist/1ZpejZEeZNKmelol7PdeIc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [LA QUE ME HIZO LLORAR](https://open.spotify.com/album/1UoyxMjFrxcgrSiT5K62bY) | 3:20 | 2022-06-27 | 2022-07-20 |
-| [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-04-04 |  |
+| [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-04-04 | 2023-04-06 |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-10-18 | 2022-11-02 |
 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2022-02-23 | 2022-02-26 |
 | [La Solicitud](https://open.spotify.com/track/5v4r7uJvAfOPn8TzmZWxWu) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW), [Mr\. Perez](https://open.spotify.com/artist/0mFKtQlzvU9l8gD4NbCnf0), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trinity La Marca](https://open.spotify.com/album/3WFquJ19COO8M5MUDKaooQ) | 3:57 | 2023-03-29 | 2023-04-04 |

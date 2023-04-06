@@ -1,15 +1,15 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 137618,
+  "num_followers": 137689,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0ODI3OSwwMDAwMDAwMDc4MTE0NTIyNmVjZTZhZWVhZjM2MmIzOWRkNjU0ODA5",
+  "snapshot_id": "MTY4MDI0ODI3OSwwMDAwMDAwMDQ3ZjZmODMzYTc5MWRkMmVlYzA2YTVmOThmYzZiMjA0",
   "tracks": [
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
         "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "Tiempos de Plan B",
         "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "Cuerpecito",
         "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2023-04-05 01:30:36",
+      "added_at": "2023-04-06 01:38:46",
       "album": {
         "name": "ALGARETE",
         "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-17 07:54:23",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
+    },
+    {
+      "added_at": "2023-03-17 07:54:23",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": "2023-03-17 07:54:23",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
     },
     {
       "added_at": "2023-03-17 07:54:23",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2023-03-17 07:54:23",
       "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
+    },
+    {
+      "added_at": "2023-03-17 07:54:23",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -2123,26 +2143,6 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
-    },
-    {
-      "added_at": "2023-03-17 07:54:23",
-      "album": {
-        "name": "ELEVATION",
-        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223352,
-      "name": "BAILAR CONTIGO",
-      "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
     },
     {
       "added_at": "2023-03-17 07:54:23",
@@ -2411,6 +2411,26 @@
     {
       "added_at": "2023-03-17 07:54:23",
       "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
+    },
+    {
+      "added_at": "2023-03-17 07:54:23",
+      "album": {
         "name": "LYKE MIKE",
         "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
       },
@@ -2447,26 +2467,6 @@
       "duration_ms": 255363,
       "name": "Malo",
       "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
-    },
-    {
-      "added_at": "2023-03-17 07:54:23",
-      "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 187312,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
     },
     {
       "added_at": "2023-03-17 07:54:23",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2023-03-17 07:54:23",
       "album": {
-        "name": "G Wagon",
-        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "G Wagon",
-      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
-    },
-    {
-      "added_at": "2023-03-17 07:54:23",
-      "album": {
         "name": "Diamantes En Mis Dientes",
         "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
       },
@@ -2683,6 +2667,22 @@
       "duration_ms": 344602,
       "name": "Diamantes en Mis Dientes",
       "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
+    },
+    {
+      "added_at": "2023-03-17 07:54:23",
+      "album": {
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
     },
     {
       "added_at": "2023-03-17 07:54:23",

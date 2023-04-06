@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 331258,
+  "num_followers": 331407,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDk2ZDUwZTc0Mzc2ZDYxNjA5OTc1MjQxMGQ3NmQ0OWEz",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDhkMWQ0ZDBhYTg5NzZkODJiMmQzMzNmZTAwOTlhMjE5",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Our Kind of Movement",
         "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 232140,
       "name": "Monster Funk",
       "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -645,20 +645,20 @@
       "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "I Told You So",
-        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
       },
       "artists": [
         {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
         }
       ],
-      "duration_ms": 274853,
-      "name": "Hole In One",
-      "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
+      "duration_ms": 179546,
+      "name": "The Wrangler",
+      "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 274853,
+      "name": "Hole In One",
+      "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Baked, Broiled & Fried",
@@ -691,22 +707,6 @@
       "duration_ms": 275200,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 179546,
-      "name": "The Wrangler",
-      "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Good Luck With That",
@@ -863,6 +847,22 @@
       "duration_ms": 191761,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
-      },
-      "artists": [
-        {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
-        }
-      ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+      },
+      "artists": [
+        {
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+        }
+      ],
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1307,34 +1307,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Greasin The Wheels",
-        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
+        "name": "Soul Jazz Express",
+        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
       },
       "artists": [
         {
-          "name": "The Sound Stylistics",
-          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
+          "name": "Soul Jazz Express",
+          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
         }
       ],
-      "duration_ms": 293880,
-      "name": "THE CRISIS GENERATOR",
-      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
+      "duration_ms": 317000,
+      "name": "Couple A Brownies",
+      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1351,22 +1335,6 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Soul Jazz Express",
-        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
-      },
-      "artists": [
-        {
-          "name": "Soul Jazz Express",
-          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Couple A Brownies",
-      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1387,6 +1355,38 @@
       "duration_ms": 133093,
       "name": "Bruise Cruise",
       "url": "https://open.spotify.com/track/7HhEOS1ofdOux6MjupAjV1"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Greasin The Wheels",
+        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
+      },
+      "artists": [
+        {
+          "name": "The Sound Stylistics",
+          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
+        }
+      ],
+      "duration_ms": 293880,
+      "name": "THE CRISIS GENERATOR",
+      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
     }
   ],
   "unique_name": "Instrumental Funk",

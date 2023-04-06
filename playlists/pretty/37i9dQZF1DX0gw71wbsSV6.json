@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43132,
+  "num_followers": 43136,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyMDQwMCwwMDAwMDAwMDcwMjNlOTliYzRkOTgyM2FjMTA0Y2Y3NDg4OGE4NDZi",
+  "snapshot_id": "MTY4MDYyMDQwMCwwMDAwMDAwMDRiN2E0YjMxYzQ4MDdjNTBkMGM1ZmRmZTAwOTFlZWU4",
   "tracks": [
     {
       "added_at": "2023-04-04 15:00:00",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "\u7720\u3089\u306a\u3044\u3067\u3088 feat. \u539f\u7530\u90c1\u5b50",
-        "url": "https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr"
+        "name": "Nemuranaideyo feat. Ikuko Harada",
+        "url": "https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g"
       },
       "artists": [
         {
@@ -729,8 +729,8 @@
         }
       ],
       "duration_ms": 257440,
-      "name": "\u7720\u3089\u306a\u3044\u3067\u3088 feat. \u539f\u7530\u90c1\u5b50",
-      "url": "https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ"
+      "name": "Nemuranaideyo feat. Ikuko Harada",
+      "url": "https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "306",
-        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "\u30df\u30a2\u30cd",
-      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
+        "name": "306",
+        "url": "https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "\u30df\u30a2\u30cd",
+      "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
     },
     {
       "added_at": "2023-04-04 15:00:00",

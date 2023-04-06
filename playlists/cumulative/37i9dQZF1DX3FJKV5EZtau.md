@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-349 songs - 20 hr 9 min
+350 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Reality Surf](https://open.spotify.com/track/7bN1xfvn1fB0mhKcdCK4un) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/6RKwoaGftOUrIugxRIBPqZ) | 2:03 | 2022-07-14 | 2022-08-06 |
 | [Remember](https://open.spotify.com/track/60NupHAR0J54haO984RG5t) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Remember](https://open.spotify.com/album/1LIS9D8Or6SmqFK8RPLiMH) | 3:58 | 2022-01-07 | 2023-01-27 |
 | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky) | 3:37 | 2022-07-14 | 2022-08-06 |
+| [Runaway](https://open.spotify.com/track/1ojGSqkSVnxU5tlu5JWlel) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/1R0DbDkDysbJ6sb67stjMU) | 3:55 | 2023-03-10 |  |
 | [Runaway](https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/7uWgf6BGGUW6E2y9Pljzxa) | 3:55 | 2022-01-07 | 2023-02-16 |
 | [Rush](https://open.spotify.com/track/09SNUbxd7e1cn6MTYhdz6P) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/6TzwR0RkTOWE4Z1UO8dXZD) | 2:52 | 2022-12-16 | 2023-03-02 |
 | [Ryu's Theme \- The Moe’s Pizzeria Steve Aoki Remix](https://open.spotify.com/track/0IT73kNAnWd3UUsVToD79B) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ryu's Theme \(The Moe’s Pizzeria Steve Aoki Remix\)](https://open.spotify.com/album/7jwd71HeseQVzYyJ4WiEev) | 3:54 | 2022-01-07 | 2022-05-09 |
@@ -312,7 +313,7 @@
 | [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 | 2023-03-11 |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2022-01-07 | 2022-07-26 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-14 | 2022-08-18 |
-| [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 |  |
+| [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 | 2023-04-06 |
 | [talk \- KOTONOHOUSE Remix](https://open.spotify.com/track/7oUKu47V3HhOOyqkGK4F4E) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:47 | 2022-01-07 |  |
 | [Tate \(how i feel\)](https://open.spotify.com/track/521n5wagIZ1522mA2ynHDL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:42 | 2022-07-14 | 2022-08-06 |
 | [The Pain From U](https://open.spotify.com/track/23z6eKdO7HahLfmYdcwrc6) | [Ducky](https://open.spotify.com/artist/5e1I1C0g7epGwRxDGZ4tt9) | [The Pain From U](https://open.spotify.com/album/439xuuvfUKTBaf4wDkd3ef) | 3:06 | 2022-01-07 | 2022-09-26 |

@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 21630,
+  "num_followers": 22060,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGM4Zjg2NjNiZmRiZWExYmU2YzgyZGQ5OTNlNjdiOTIy",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDNjMWE2OTliN2JlMWIxOTQzZTRlMjY3ZmI0OGZjY2Q5",
   "tracks": [
     {
       "added_at": "2023-02-09 18:38:29",
@@ -281,6 +281,34 @@
       "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
     },
     {
+      "added_at": "2023-02-09 18:41:55",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
+    },
+    {
       "added_at": "2023-02-09 18:38:29",
       "album": {
         "name": "Chamber of Reflection (Remixes)",
@@ -329,34 +357,6 @@
       "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
     },
     {
-      "added_at": "2023-02-09 18:41:55",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
-    },
-    {
       "added_at": "2023-02-09 18:38:29",
       "album": {
         "name": "Healing Process",
@@ -375,22 +375,18 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Imperfect Girl",
-        "url": "https://open.spotify.com/album/6FeYrUiHiN0ltYFdjybWKf"
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        },
-        {
-          "name": "thekid.ACE",
-          "url": "https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM"
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         }
       ],
-      "duration_ms": 170302,
-      "name": "Imperfect Girl",
-      "url": "https://open.spotify.com/track/7Hya7qJ4sbLuuD7821TXEB"
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -411,18 +407,22 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+        "name": "Imperfect Girl",
+        "url": "https://open.spotify.com/album/6FeYrUiHiN0ltYFdjybWKf"
       },
       "artists": [
         {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        },
+        {
+          "name": "thekid.ACE",
+          "url": "https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM"
         }
       ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+      "duration_ms": 170302,
+      "name": "Imperfect Girl",
+      "url": "https://open.spotify.com/track/7Hya7qJ4sbLuuD7821TXEB"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 141698,
       "name": "Suicide Cleanup",
       "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "duration_ms": 107590,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
         "name": "fairies in our house",
         "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 242160,
       "name": "Fall With Me",
       "url": "https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
-      },
-      "artists": [
-        {
-          "name": "Birth Day",
-          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
-        }
-      ],
-      "duration_ms": 107590,
-      "name": "Fight Club",
-      "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -801,6 +801,30 @@
       "url": "https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz"
     },
     {
+      "added_at": "2023-03-23 18:08:45",
+      "album": {
+        "name": "Done Chasing",
+        "url": "https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        },
+        {
+          "name": "diveliner",
+          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
+        },
+        {
+          "name": "Luke Wild",
+          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Done Chasing",
+      "url": "https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU"
+    },
+    {
       "added_at": "2023-02-09 18:38:29",
       "album": {
         "name": "If Blue Could Be Happiness",
@@ -831,30 +855,6 @@
       "duration_ms": 216299,
       "name": "Japan",
       "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
-    },
-    {
-      "added_at": "2023-03-23 18:08:45",
-      "album": {
-        "name": "Done Chasing",
-        "url": "https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl"
-      },
-      "artists": [
-        {
-          "name": "No Love For The Middle Child",
-          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
-        },
-        {
-          "name": "diveliner",
-          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
-        },
-        {
-          "name": "Luke Wild",
-          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Done Chasing",
-      "url": "https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU"
     }
   ],
   "unique_name": "side effects",

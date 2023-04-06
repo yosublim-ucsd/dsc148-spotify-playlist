@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Loyal Lobos",
-  "num_followers": 19364,
+  "num_followers": 19381,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMGM3ZDczOTBhZTVjMTNiNWIzN2JmYjRlMGY4ZDdmYzI1",
+  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMGU5ZTMxOWUwOWQ3NzYyNWM2YjljNjViZjE2MWEyN2M1",
   "tracks": [
     {
       "added_at": "2023-03-31 07:57:05",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
     },
     {
-      "added_at": "2023-04-05 00:42:49",
+      "added_at": "2023-04-06 00:51:14",
       "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/4O6GIo4XMXM80d4Ew0CB63"
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Make it Norte\u00f1o Vol. 1",
-        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
-      },
-      "artists": [
-        {
-          "name": "EZ Band",
-          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Te Conoc\u00ed",
         "url": "https://open.spotify.com/album/22O1jcpwaCovtabMwk0kEm"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 158133,
       "name": "Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/0p0NODSyeAC6Pe4gKyDNOx"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Make it Norte\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
+      },
+      "artists": [
+        {
+          "name": "EZ Band",
+          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "KPASA (feat. Drty Tropix)",
         "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 161280,
       "name": "KPASA (feat. Drty Tropix)",
       "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "TQD",
-        "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
-      },
-      "artists": [
-        {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
-        }
-      ],
-      "duration_ms": 200022,
-      "name": "TQD",
-      "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Del Amor Al Odio",
         "url": "https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 133060,
       "name": "Olvidar De Ti",
       "url": "https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "TQD",
+        "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "duration_ms": 200022,
+      "name": "TQD",
+      "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "P.O.V",
-        "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 117760,
-      "name": "P.O.V",
-      "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Amor No Correspondido",
         "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 163124,
       "name": "Amor No Correspondido",
       "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "P.O.V",
+        "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 117760,
+      "name": "P.O.V",
+      "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Lucid Dreaming",
-        "url": "https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW"
-      },
-      "artists": [
-        {
-          "name": "Karina Magallon",
-          "url": "https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Lucid Dreaming",
-      "url": "https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 190480,
       "name": "El Raulito",
       "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Lucid Dreaming",
+        "url": "https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW"
+      },
+      "artists": [
+        {
+          "name": "Karina Magallon",
+          "url": "https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Lucid Dreaming",
+      "url": "https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq"
     },
     {
       "added_at": "2023-03-31 07:57:05",

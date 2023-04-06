@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,078 songs - 2 day 10 hr 20 min
+1,079 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [MH ME PAIZEIS](https://open.spotify.com/track/579VIq1bwcXL7xB4nU1a9v) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Gio Melody](https://open.spotify.com/artist/0Sh0w5zB1VEVANn4VO0GEp) | [MH ME PAIZEIS](https://open.spotify.com/album/7IqCVBZVWFGuDXvU8LLUBL) | 3:55 | 2021-08-15 | 2021-08-18 |
 | [MHB](https://open.spotify.com/track/5RUaVfg9K8BxadxIIg1k8C) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [BOSSIDONAS](https://open.spotify.com/album/7xpeeJKLPPbfvrKPjSYkHz) | 2:46 | 2022-07-02 | 2022-07-08 |
 | [Mi Koitas Tin Ora](https://open.spotify.com/track/6750yVgCrAoOp3seWLy2tC) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack \(Deluxe Edition\)](https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1) | 3:09 | 2021-08-21 | 2021-09-20 |
+| [Mi Milas](https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Mi Milas](https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX) | 2:58 | 2023-04-05 |  |
 | [Mia Klisi](https://open.spotify.com/track/38ztkalYixz4hYX3R9K27K) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 2:30 | 2021-06-20 | 2021-06-22 |
 | [Mia Zoi](https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:51 | 2021-04-18 | 2022-05-02 |
 | [MIAMI](https://open.spotify.com/track/4zk4Q1nwAC0zB2maZ2zyW9) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:13 | 2022-01-14 | 2022-04-29 |
@@ -971,7 +972,7 @@
 | [TIRANA](https://open.spotify.com/track/1zVSvXZbu4P5JTUzM3PmlZ) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [TIRANA](https://open.spotify.com/album/1cM4UH9X81c2e6F8i4kIRf) | 2:44 | 2023-01-28 | 2023-03-18 |
 | [Tn](https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [Tn](https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln) | 2:28 | 2022-11-26 |  |
 | [To 'Xoun Kapsei](https://open.spotify.com/track/6rCfFX21lHuDFfexga27F1) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [To 'Xoun Kapsei](https://open.spotify.com/album/7sOaVrDhibrYHjUsvYJgck) | 3:05 | 2022-03-01 | 2022-03-06 |
-| [TO AMAKSI](https://open.spotify.com/track/3xj4zxZORFIQolroh9Mjyb) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB) | [CASH OUT](https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7) | 3:13 | 2023-04-01 |  |
+| [TO AMAKSI](https://open.spotify.com/track/3xj4zxZORFIQolroh9Mjyb) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB) | [CASH OUT](https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7) | 3:13 | 2023-04-01 | 2023-04-06 |
 | [To Kserw](https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [To Kserw](https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu) | 2:57 | 2022-10-29 | 2023-03-19 |
 | [To Megalytero Mou Lathos](https://open.spotify.com/track/635XpN7rKrEbmCoaidGRrY) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [dPans](https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm), [Geo RVSD](https://open.spotify.com/artist/6VSpS9nABDMDVGYQwl49t4) | [Chica](https://open.spotify.com/album/47NOrUHeB9XJOGR26XxamC) | 3:39 | 2021-06-27 | 2021-06-28 |
 | [TO MEROS](https://open.spotify.com/track/6wpJx3bMzAWaPkhPAV54WF) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Rackattack 2](https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8) | 4:35 | 2022-07-15 | 2022-08-08 |

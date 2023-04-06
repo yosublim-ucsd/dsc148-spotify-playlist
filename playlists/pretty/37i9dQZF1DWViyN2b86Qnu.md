@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Quinn Christopherson
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,413 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,447 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

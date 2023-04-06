@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48313,
+  "num_followers": 48325,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxMDQyNCwwMDAwMDAwMGE5NWVhYmU1ZTcxYWU3OTk1NzBlYjM0NjI2MTIwNmM2",
+  "snapshot_id": "MTY4MDY4ODI4NSwwMDAwMDAwMGIxZTJjMjkyZjkxOGMwNzE1ZDg2NzQ3ZWY5ODgzNDg3",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -211,6 +211,26 @@
       "duration_ms": 198276,
       "name": "Bad Manners Title Track (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/5CmJFan6BVZEJDBIkBbi56"
+    },
+    {
+      "added_at": "2023-04-05 09:51:25",
+      "album": {
+        "name": "Magale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5oNtJR97mFzTwuETjkN8Ir"
+      },
+      "artists": [
+        {
+          "name": "A B M",
+          "url": "https://open.spotify.com/artist/27TjKmlCpVl5DVrG7pOJj1"
+        },
+        {
+          "name": "Rashmi D",
+          "url": "https://open.spotify.com/artist/6W3jiCR6bPIMUbfSFKQ9Td"
+        }
+      ],
+      "duration_ms": 256420,
+      "name": "Hodeya Doora Nee",
+      "url": "https://open.spotify.com/track/0ZceismjoPxbLhkZQSEbpm"
     },
     {
       "added_at": "2023-03-22 11:13:26",

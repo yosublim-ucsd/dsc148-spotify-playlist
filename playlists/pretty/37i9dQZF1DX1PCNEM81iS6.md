@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,228 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,313 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

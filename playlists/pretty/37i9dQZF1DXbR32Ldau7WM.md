@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: BAWDIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,363 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,418 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 |
+| 1 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 |
 | 2 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
 | 3 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 4 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 8 | [Let's go down the street](https://open.spotify.com/track/09AwmUuIDnRtpCMVqRXUM3) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:20 |
 | 9 | [窓の中から](https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [窓の中から](https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd) | 6:39 |
 | 10 | [This Is Not The Ending](https://open.spotify.com/track/7h0F0qv2vExZ5Kv2ZincA8) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 2:52 |
-| 11 | [Boogie Woogie](https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU) | 3:57 |
+| 11 | [Boogie Woogie](https://open.spotify.com/track/5cjc6nSoDwQSSYDpv1AEK5) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/6wFmiLqNWEe3jvu5I9gZkJ) | 3:57 |
 | 12 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 |
 | 13 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 |
 | 14 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 30 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
 | 31 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
 | 32 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
-| 33 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
-| 34 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
+| 33 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
+| 34 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 35 | [yes\. I\. do](https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [yes\. I\. do](https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40) | 4:48 |
 | 36 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 37 | [限界突破](https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [HC 2023 episode 1 \-THE GHOST/限界突破\-](https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI) | 3:30 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 43 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 44 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 |
 | 45 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 |
-| 46 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
-| 47 | [のら犬にさえなれない](https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [のら犬にさえなれない](https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4) | 4:32 |
-| 48 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
+| 46 | [のら犬にさえなれない](https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [のら犬にさえなれない](https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4) | 4:32 |
+| 47 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
+| 48 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
 | 49 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 |
 | 50 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
 | 51 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 55 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 |
 | 56 | [THE KEBABSを抱きしめて](https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a) | [THE KEBABS](https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie) | [幸せにしてくれいーぴー](https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ) | 3:33 |
 | 57 | [ゆうがたフレンド \(USEFUL SONG\)](https://open.spotify.com/track/44vZrqSjWSDwjiUmoDY2RV) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0), [Keiichi Suzuki](https://open.spotify.com/artist/6qz1QFUOn2Pfc3P5nm9x1G) | [大滝詠一 NOVELTY SONG BOOK](https://open.spotify.com/album/1gIUCFC81qiFPpisdcOCLU) | 4:00 |
-| 58 | [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 |
-| 59 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 |
-| 60 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 |
+| 58 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 |
+| 59 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 |
+| 60 | [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 |
 | 61 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 |
 | 62 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 63 | [道化者のゆううつ](https://open.spotify.com/track/1HA30W5N5vMKKURq70t7k4) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:59 |
-| 64 | [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 |
+| 63 | [月夜の道を俺が行く](https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 3:17 |
+| 64 | [道化者のゆううつ](https://open.spotify.com/track/1HA30W5N5vMKKURq70t7k4) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:59 |
 | 65 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:55 |
 | 66 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 |
 | 67 | [暁](https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [暁](https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm) | 4:10 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 76 | [愛の痛手が一晩中](https://open.spotify.com/track/7xZiOPJ8AJAruSzvkesK0E) | [YONCE \(Suchmos\)](https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 7:43 |
 | 77 | [EASY ACTION](https://open.spotify.com/track/4CzwrQKa05ePQQqxEDOhPn) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:02 |
 | 78 | [still in me](https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:45 |
-| 79 | [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 |
+| 79 | [Lightning\-Syndrome](https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY) | 3:39 |
 | 80 | [Boys Jump The Midnight](https://open.spotify.com/track/3VW1vYhEHtz3NqszJuBSHA) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:31 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDUzY2IzYmRkMTg1MTNhZDNjMTZjN2ExNWVhNGQ1YTY2`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDE1ZmQ4M2Y0M2RlNTM2MzJmYTg5NWQ5NGY4Nzc2Y2Ni`

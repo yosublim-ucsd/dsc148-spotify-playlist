@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,759 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,805 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 3:00 |
 | 100 | [Maps \- Live In Manchester](https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:22 |
 
-Snapshot ID: `MTY3MDU4ODcwMCwwMDAwMDAwMGI1ODA3YzhiODU3OWI4MjI2MzJlNDdmOGFmMzMzZWVi`
+Snapshot ID: `MTY3MDU4ODcwMCwwMDAwMDAwMDc3NzRmMTJiZTQ0MTM2YzM2YzU4YzEwNGYyMjNkNWNh`

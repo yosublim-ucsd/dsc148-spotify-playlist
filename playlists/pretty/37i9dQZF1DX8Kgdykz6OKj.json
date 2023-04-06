@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1097815,
+  "num_followers": 1098805,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzYwMCwwMDAwMDAwMGJlMGUzZjNkMTI0MWI1NzI2Y2M3YTY1ZDJlMzVkMTJi",
+  "snapshot_id": "MTY4MDIxMzYwMCwwMDAwMDAwMGIyMTFlYzZkYmRlZmZlNWRhMjc2OGFlOTJiZjFhZTA5",
   "tracks": [
     {
       "added_at": "2023-03-30 22:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Donny In Valdez (PJ's Flip)",
         "url": "https://open.spotify.com/album/6QcDKB0L4Hr2LcyPLLQFlP"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 113747,
       "name": "Donny In Valdez - PJ's Flip",
       "url": "https://open.spotify.com/track/1aZ2te6hhXVJOYumYrZkAt"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -515,18 +515,30 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+        "name": "After The Storm (Pete Rock Remix)",
+        "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
         }
       ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
+      "duration_ms": 225026,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
+      "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -555,30 +567,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "After The Storm (Pete Rock Remix)",
-        "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
         }
       ],
-      "duration_ms": 225026,
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
-      "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -647,30 +647,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
-        }
-      ],
-      "duration_ms": 179463,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Blowout Comb",
         "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
@@ -707,6 +683,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -727,22 +719,6 @@
       "duration_ms": 259906,
       "name": "Cookie Chips",
       "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -775,6 +751,30 @@
       "duration_ms": 253068,
       "name": "2000 Seasons",
       "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "duration_ms": 179463,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Call You?",
         "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 205865,
       "name": "Call You?",
       "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
       "artists": [
         {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         },
         {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
         }
       ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
         },
         {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
         }
       ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1767,38 +1767,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Rosy Lee",
         "url": "https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK"
       },
@@ -1827,6 +1795,38 @@
       "duration_ms": 218240,
       "name": "Sunlit Days",
       "url": "https://open.spotify.com/track/5dE76qLE8k9bK3e61dkZzA"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1943,38 +1943,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Rosy Lee",
-        "url": "https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK"
-      },
-      "artists": [
-        {
-          "name": "Syrup",
-          "url": "https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc"
-        },
-        {
-          "name": "Twit One",
-          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
-        },
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "Politickin",
-      "url": "https://open.spotify.com/track/180Ul0jLSJ1YmfxmIc1QaT"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Eterea - EP",
         "url": "https://open.spotify.com/album/5I9EioV66WFu1wZcW00zan"
       },
@@ -2023,6 +1991,38 @@
       "duration_ms": 92053,
       "name": "One from the Tap",
       "url": "https://open.spotify.com/track/7yKwYibH6UtJfM1Cz1zOuI"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Rosy Lee",
+        "url": "https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK"
+      },
+      "artists": [
+        {
+          "name": "Syrup",
+          "url": "https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "Politickin",
+      "url": "https://open.spotify.com/track/180Ul0jLSJ1YmfxmIc1QaT"
     },
     {
       "added_at": "2023-03-30 22:00:00",

@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-236 songs - 15 hr 39 min
+237 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 | 2022-05-19 | 2023-03-21 |
 | [Maneras de vivir \- Rosendo, Barricada y Aurora Beltrán directo 2008](https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Otra noche sin dormir](https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL) | 4:42 | 2022-05-19 | 2022-07-28 |
 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 | 2022-05-26 |  |
-| [Mar Antiguo \- En Directo](https://open.spotify.com/track/0kaXTiic9ZOOAxBc1cmO01) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:37 | 2022-06-30 |  |
+| [Mar Antiguo \- En Directo](https://open.spotify.com/track/0kaXTiic9ZOOAxBc1cmO01) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:37 | 2022-06-30 | 2023-04-06 |
 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 | 2022-05-26 | 2022-08-30 |
 | [Mañana](https://open.spotify.com/track/5aKA1rNc6fvBfa8m6grIos) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Mañana](https://open.spotify.com/album/1cmjNQAH15i7RZ8E71glVT) | 4:31 | 2022-06-02 | 2022-06-17 |
 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 | 2022-05-19 |  |
@@ -234,6 +234,7 @@
 | [Una Noche Sin Ti](https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:19 | 2022-06-09 | 2022-07-13 |
 | [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 | 2023-03-31 |
 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 | 2022-05-26 |  |
+| [Vicio](https://open.spotify.com/track/7c9sDyogsPK8XUAubCK69Y) | [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Algazara](https://open.spotify.com/album/5fIkEumurdjUnGydTfqKBZ) | 2:52 | 2023-03-30 |  |
 | [Volando en círculos](https://open.spotify.com/track/3DsVJcC0vbrVogSnClLEWp) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Trece](https://open.spotify.com/album/612vcTVFD6ELo7NF3Xet1U) | 4:14 | 2022-09-15 | 2022-10-07 |
 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 | 2022-05-26 |  |
 | [Whisky barato](https://open.spotify.com/track/25uN86jLVXNnusQDA3il8S) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 3:18 | 2022-05-19 | 2022-07-29 |

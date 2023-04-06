@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 432754,
+  "num_followers": 432843,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDU2M2Y0OTNmMGNhNWQ3MTI0OTQyYTAxNzA2MzdiM2Qz",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDdlZjcxMjMzOTc1MmQ3MDY0M2I2YTMxMjg2MzdhM2I0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 231106,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Stateless",
+          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
         }
       ],
-      "duration_ms": 244906,
-      "name": "It Won't Always Be Like This",
-      "url": "https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN"
+      "duration_ms": 313800,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
       },
       "artists": [
         {
-          "name": "Stateless",
-          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 313800,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+      "duration_ms": 244906,
+      "name": "It Won't Always Be Like This",
+      "url": "https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Growing/Dying",
-        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Growing/Dying",
-      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Growing/Dying",
+        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 202694,
-      "name": "Astronaut (Something About Your Love)",
-      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 125830,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 202694,
+      "name": "Astronaut (Something About Your Love)",
+      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 248399,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Desert Snow / Hourglass",
         "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 215853,
       "name": "Desert Snow",
       "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
-      },
-      "artists": [
-        {
-          "name": "The Brinks",
-          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
-        }
-      ],
-      "duration_ms": 205129,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Jungle (Radio Edit)",
-        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
         }
       ],
-      "duration_ms": 236876,
-      "name": "Jungle (Radio Edit)",
-      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 224343,
       "name": "Just Say When (Version 2.0)",
       "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Jungle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 236876,
+      "name": "Jungle (Radio Edit)",
+      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Ocean by Ocean",
-        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
-      },
-      "artists": [
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Big Ideas",
-      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Talking in Circles",
         "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 227121,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Ocean by Ocean",
+        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Draw Down The Moon",
         "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
@@ -1939,18 +1923,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Come Follow Me Down",
-        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
       },
       "artists": [
         {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Come Follow Me Down",
-      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1967,6 +1951,22 @@
       "duration_ms": 201146,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Come Follow Me Down",
+        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Come Follow Me Down",
+      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Nearer My God",
+        "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Nearer My God",
+      "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Sun Leads Me On",
         "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 241866,
       "name": "Turn Your Love",
       "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "basketball",
-        "url": "https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs"
-      },
-      "artists": [
-        {
-          "name": "diveliner",
-          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "basketball",
-      "url": "https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206"
     }
   ],
   "unique_name": "License To Chill",

@@ -5273,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/7HSmrXg2SoYiNTg6Kodbjs"
+      },
+      "artists": [
+        {
+          "name": "Aiden Kelly",
+          "url": "https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147029,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7rzmt5jOm1lJn7bEaVSY5s"
+    },
+    {
+      "album": {
         "name": "Glacier",
         "url": "https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK"
       },
@@ -5288,6 +5306,24 @@
       "duration_ms": 143500,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
+    },
+    {
+      "album": {
+        "name": "Zindiennet",
+        "url": "https://open.spotify.com/album/5rW3WxkcWdRL3VYvIlTCSy"
+      },
+      "artists": [
+        {
+          "name": "Finn Lenoir",
+          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146808,
+      "name": "Zindiennet",
+      "url": "https://open.spotify.com/track/6KGuWUEMFudz66Voh38HVc"
     },
     {
       "album": {

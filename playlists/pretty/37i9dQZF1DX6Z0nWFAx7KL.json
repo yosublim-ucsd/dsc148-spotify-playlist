@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 30550,
+  "num_followers": 30573,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGRkZTI4NmYwYTY0MjkzZDk4ZWQ0NDEwODIzNzJmYmMw",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDg1MTY2OTYwNzAzZGFmM2RlOGQwOTg2Y2IxM2VlYjRk",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 158031,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -203,34 +203,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Sweet Harmony",
-        "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Dario Trapani",
-          "url": "https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM"
-        },
-        {
-          "name": "Ivan Cappello",
-          "url": "https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR"
-        },
-        {
-          "name": "Sh3",
-          "url": "https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW"
-        }
-      ],
-      "duration_ms": 162310,
-      "name": "Sweet Harmony",
-      "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Freeze",
         "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
       },
@@ -263,6 +235,34 @@
       "duration_ms": 159180,
       "name": "Body on Fire",
       "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Dario Trapani",
+          "url": "https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM"
+        },
+        {
+          "name": "Ivan Cappello",
+          "url": "https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR"
+        },
+        {
+          "name": "Sh3",
+          "url": "https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW"
+        }
+      ],
+      "duration_ms": 162310,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 156923,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "In The Sun",
+      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "In The Sun",
-      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -855,30 +855,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -939,8 +915,32 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
       "artists": [
         {
@@ -948,25 +948,9 @@
           "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Live In The Moment",
-        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Live In The Moment",
-      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 138026,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Live In The Moment",
+        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1287,22 +1311,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -1323,6 +1331,22 @@
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1359,22 +1383,6 @@
       "duration_ms": 191000,
       "name": "Like Home",
       "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
-      },
-      "artists": [
-        {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1439,6 +1447,38 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Feeling Lost Tonight",
+        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 106315,
+      "name": "Feeling Lost Tonight",
+      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1479,22 +1519,6 @@
       "duration_ms": 164531,
       "name": "Feelings After Dark (feat. NISHA)",
       "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Feeling Lost Tonight",
-        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 106315,
-      "name": "Feeling Lost Tonight",
-      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1547,30 +1571,6 @@
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Some Kind Of Love",
-        "url": "https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        },
-        {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z"
     }
   ],
   "unique_name": "Dance Chill",

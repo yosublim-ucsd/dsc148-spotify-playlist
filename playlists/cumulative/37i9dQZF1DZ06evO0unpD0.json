@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 289333,
       "name": "Sina (Soumbouya)",
       "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
@@ -1304,6 +1304,36 @@
       "duration_ms": 388933,
       "name": "We Are All Africans",
       "url": "https://open.spotify.com/track/6frehrOUQYph3hpqJQvsUn"
+    },
+    {
+      "album": {
+        "name": "We Will Not Go (From The Virunga Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zdVN4O8J16RAoXMC7D6kt"
+      },
+      "artists": [
+        {
+          "name": "J. Ralph",
+          "url": "https://open.spotify.com/artist/2GPriNLwjGv7sjsgIex8Wv"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "We Will Not Go",
+      "url": "https://open.spotify.com/track/0Het9TxYRogHzBHy7uRXCe"
     },
     {
       "album": {

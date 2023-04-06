@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,593 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,707 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 2 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
 | 3 | [Bobby Babylon](https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 2:27 |
-| 4 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
-| 5 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
+| 4 | [Addis Ababa](https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ) | 2:24 |
+| 5 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
 | 6 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 7 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
 | 8 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
 | 60 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDQ5MjY2N2YzZDg4MTAwMWRmN2M4MjViODczMTU2NmU0`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMGMyMzhkMWM1OGQ2NTBmOTZmMDlmZTYzYzU1ZWY3MWY1`

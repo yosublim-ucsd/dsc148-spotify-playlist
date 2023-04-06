@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Bagaimana (Pano)",
+        "url": "https://open.spotify.com/album/1LCDXgEwtK83RCzDa96GaW"
+      },
+      "artists": [
+        {
+          "name": "Khai Bahar",
+          "url": "https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Bagaimana - Pano",
+      "url": "https://open.spotify.com/track/2mI4gvSAVCjNajeOqEQEud"
+    },
+    {
+      "album": {
         "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
         "url": "https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo"
       },
@@ -464,6 +482,28 @@
       "duration_ms": 234392,
       "name": "Buai",
       "url": "https://open.spotify.com/track/2EPCdcUMsvD92RYG1MtleX"
+    },
+    {
+      "album": {
+        "name": "Bukan Dengan Kita",
+        "url": "https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy"
+      },
+      "artists": [
+        {
+          "name": "Dalia Farhana",
+          "url": "https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg"
+        },
+        {
+          "name": "Irfan Haris",
+          "url": "https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273529,
+      "name": "Bukan Dengan Kita",
+      "url": "https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6"
     },
     {
       "album": {
@@ -870,7 +910,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 262826,
       "name": "Genggam",
       "url": "https://open.spotify.com/track/4ymk5xUFpoevOYcE8gvw8v"
@@ -1257,6 +1297,46 @@
     },
     {
       "album": {
+        "name": "Iktiraf",
+        "url": "https://open.spotify.com/album/0xMgXeHNNYQFD0MxJ0A8gr"
+      },
+      "artists": [
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        },
+        {
+          "name": "Nuha Bahrin",
+          "url": "https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Iktiraf",
+      "url": "https://open.spotify.com/track/26Nwi7bdu86SoIKmIFJY6K"
+    },
+    {
+      "album": {
+        "name": "Ilusi Keliru",
+        "url": "https://open.spotify.com/album/59MK6hD6j3Hd2m1t6WXgSV"
+      },
+      "artists": [
+        {
+          "name": "Amir Masdi",
+          "url": "https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Ilusi Keliru",
+      "url": "https://open.spotify.com/track/0itY5LK5FZtLXu5LmvRJDU"
+    },
+    {
+      "album": {
         "name": "Inilah JalanNya",
         "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
       },
@@ -1362,7 +1442,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 258173,
       "name": "janji kita bertemu lagi",
       "url": "https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL"
@@ -1424,7 +1504,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 163425,
       "name": "JARAK",
       "url": "https://open.spotify.com/track/4jjLmbtRO9PjGARABzxya7"
@@ -1826,7 +1906,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 169428,
       "name": "LANTAKLAH",
       "url": "https://open.spotify.com/track/4FHqdFddhbFpxUgvw5HVu0"
@@ -1916,7 +1996,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 169133,
       "name": "Look At This",
       "url": "https://open.spotify.com/track/2sIBt75HNRZMFtFEoPgV3j"
@@ -2551,6 +2631,28 @@
     },
     {
       "album": {
+        "name": "Raya Last Minit",
+        "url": "https://open.spotify.com/album/7vadqVTyvXaNgmTJcUfjHY"
+      },
+      "artists": [
+        {
+          "name": "Andi Bernadee",
+          "url": "https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9"
+        },
+        {
+          "name": "Ryan Bakery",
+          "url": "https://open.spotify.com/artist/0r5b3GOWxBsLkJX3H4Dc8L"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Raya Last Minit",
+      "url": "https://open.spotify.com/track/1NydXnZZF959b1cf1ZG9P9"
+    },
+    {
+      "album": {
         "name": "Resah Kerinduan",
         "url": "https://open.spotify.com/album/2IjeneKtJJ6WBd7XhlgMgw"
       },
@@ -3146,7 +3248,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 184000,
       "name": "Sudi",
       "url": "https://open.spotify.com/track/13j1GXauy306qxQmmBPRQm"
@@ -3580,6 +3682,28 @@
       "duration_ms": 224000,
       "name": "Top Boi",
       "url": "https://open.spotify.com/track/49dHs04lUC9EmyhuXRFaJQ"
+    },
+    {
+      "album": {
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/5zmZM7kyMQZwr6Gs4PSUMU"
+      },
+      "artists": [
+        {
+          "name": "Adi Priyo",
+          "url": "https://open.spotify.com/artist/6en0fgNdzRrJ22yM7Hl1zi"
+        },
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Tulus",
+      "url": "https://open.spotify.com/track/3IXfUTUTICN5nvlTtrbf4C"
     },
     {
       "album": {

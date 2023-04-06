@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 結城佑莉
 
-3,196 songs - 8 day 3 hr 34 min
+3,197 songs - 8 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1617,7 +1617,8 @@
 | [Trust on Me \-Theme of E.T.E\-](https://open.spotify.com/track/06qM1s3eNc2kz0RdCf3aMx) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH), [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Trust on Me \-Theme of E.T.E\-](https://open.spotify.com/album/2ollF1EGNOoMoaeNgRBQJL) | 4:30 | 2022-10-17 | 2022-11-01 |
 | [Try](https://open.spotify.com/track/7booMugGbml6EB2NWMU4H1) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Try](https://open.spotify.com/album/4846yTyO3lQplgOqPy5YNH) | 2:35 | 2021-12-14 | 2022-01-17 |
 | [Tsumasakitobigaku](https://open.spotify.com/track/4M20jWZfN4TtTN0l5syJLK) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Tsumasakitobigaku](https://open.spotify.com/album/74MVMZJWsmCTPLidrvgi6Y) | 3:45 | 2023-03-14 | 2023-03-28 |
-| [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-06 |  |
+| [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-06 | 2023-04-06 |
+| [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-04-03 |  |
 | [TV SHOW](https://open.spotify.com/track/4vg4jaBzzfuorGHqEaQIIN) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [ongaku](https://open.spotify.com/album/7cmXn8tyiU7l9KpG33f2RD) | 2:56 | 2023-03-14 | 2023-04-04 |
 | [Twerk](https://open.spotify.com/track/1t1aGqZkoJzfVGez7vxHxk) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Twerk](https://open.spotify.com/album/79XEt2UODb6oAWgh9sGmnI) | 2:28 | 2022-07-18 | 2022-07-26 |
 | [Twilight Zone](https://open.spotify.com/track/4s9Egj5XxzwzOORXXLXq2J) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Twilight Zone](https://open.spotify.com/album/5daf9bazmVTii9HXnCgieR) | 3:33 | 2022-05-10 | 2022-05-17 |

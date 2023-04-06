@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,781 likes - 96 songs - 4 hr 56 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,792 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 63 | [Starting Fires](https://open.spotify.com/track/7jcgwQzZOMCrsXI2aM7hk6) | [Mutual](https://open.spotify.com/artist/2p9QfYogiem7dvEoiyIQ2N), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [Starting Fires](https://open.spotify.com/album/1YpR18EkKbNLaJhGS2EB5w) | 3:14 |
 | 64 | [Heartless](https://open.spotify.com/track/242caqTlxTuTnnuOdxtjAL) | [£lmoe Bands](https://open.spotify.com/artist/5QVJCQrctfzvvBlodvbWlz) | [Heartless](https://open.spotify.com/album/4KGWlDWZWhVDRyQRmMfr9U) | 2:52 |
 | 65 | [O Meu Amor é Seu](https://open.spotify.com/track/6VBqEj4qQaby8Sen3W0aG9) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ), [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [O Meu Amor é Seu](https://open.spotify.com/album/6a2QvOmHAvEg4r8ET5T6xC) | 4:27 |
-| 66 | [Damag](https://open.spotify.com/track/05n2XWv0UZmW7OloRKKpTk) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2), [shortone](https://open.spotify.com/artist/673NGwjlLqYpDrMEHBXknW) | [Damag](https://open.spotify.com/album/0I2s97FIlAO4sUYV7EjyQh) | 4:26 |
+| 66 | [Damag](https://open.spotify.com/track/05n2XWv0UZmW7OloRKKpTk) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2), [Shortone](https://open.spotify.com/artist/6xcpXFMC1dMuK7ay8TX3o6) | [Damag](https://open.spotify.com/album/0I2s97FIlAO4sUYV7EjyQh) | 4:26 |
 | 67 | [Please God](https://open.spotify.com/track/5virm6VOVtLaH7N4mgYZ60) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [CATFISH](https://open.spotify.com/album/60BbQVTVYdnFPiK6iUeKDa) | 3:35 |
 | 68 | [Feast Is Over](https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Feast Is Over](https://open.spotify.com/album/5iTnzg9NyoAOmkAdSDv9ox) | 3:12 |
 | 69 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 |

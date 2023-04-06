@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Jay Park, KATIE, WOOGIE)",
-  "num_followers": 834680,
+  "num_followers": 834825,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI2MjczMiwwMDAwMDAwMDZiMTgwZWIyMzU0ZTk1N2EzNDBkODQ0YTYyMjVlYmIx",
+  "snapshot_id": "MTY4MDI2MjczMiwwMDAwMDAwMGUzMzY1ZTYxZTViMDkzM2M5M2UwOGRlNjZlYTVlYmVl",
   "tracks": [
     {
       "added_at": "2023-03-31 11:38:52",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
-    },
-    {
-      "added_at": "2023-03-31 11:38:52",
-      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "added_at": "2023-03-31 11:38:52",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
-    },
-    {
-      "added_at": "2023-03-31 11:38:52",
-      "album": {
         "name": "Birthday - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+    },
+    {
+      "added_at": "2023-03-31 11:38:52",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
-    },
-    {
-      "added_at": "2023-03-31 11:38:52",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "added_at": "2023-03-31 11:38:52",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -791,26 +791,22 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "Gotta Get Back (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 224098,
-      "name": "What 2 Do",
-      "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+      "duration_ms": 179333,
+      "name": "Gotta Get Back (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -831,22 +827,26 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "Gotta Get Back (feat. Pink Sweat$)",
-        "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         },
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Gotta Get Back (feat. Pink Sweat$)",
-      "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
+      "duration_ms": 224098,
+      "name": "What 2 Do",
+      "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -987,18 +987,22 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "B",
-        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
       "artists": [
         {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
         }
       ],
-      "duration_ms": 152666,
-      "name": "Slow Mo",
-      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+        "name": "B",
+        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
         }
       ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+      "duration_ms": 152666,
+      "name": "Slow Mo",
+      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
-    },
-    {
-      "added_at": "2023-03-31 11:38:52",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2023-03-31 11:38:52",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+    },
+    {
+      "added_at": "2023-03-31 11:38:52",
+      "album": {
         "name": "Irene",
         "url": "https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 199672,
       "name": "Irene",
       "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
-    },
-    {
-      "added_at": "2023-03-31 11:38:52",
-      "album": {
-        "name": "Animal Farm",
-        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 203945,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -1163,6 +1147,38 @@
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
+    },
+    {
+      "added_at": "2023-03-31 11:38:52",
+      "album": {
+        "name": "Animal Farm",
+        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 203945,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
+    },
+    {
+      "added_at": "2023-03-31 11:38:52",
+      "album": {
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-03-31 11:38:52",
@@ -1199,22 +1215,6 @@
       "duration_ms": 197413,
       "name": "Make Me Happy",
       "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
-    },
-    {
-      "added_at": "2023-03-31 11:38:52",
-      "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-03-31 11:38:52",

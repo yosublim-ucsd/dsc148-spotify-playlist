@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-622 songs - 1 day 14 hr 37 min
+623 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Hodalo Bittu Hodalo \(from "Veeram"\)](https://open.spotify.com/track/13MCBoyvRHTmFVvikqlzAk) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Supriyaa Ram](https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp) | [Hodalo Bittu Hodalo \(from "Veeram"\)](https://open.spotify.com/album/7yDG6VIfWfv5xXpFGlwGB8) | 3:55 | 2023-04-04 |  |
 | [Hodare Hogu Yaarige Beku](https://open.spotify.com/track/7aGVMy9HJ5UBvZiYfWb2y9) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Raymo](https://open.spotify.com/album/2d73atLAA3Mr9CdG4nYTNO) | 4:27 | 2022-10-27 | 2023-04-02 |
 | [Hodare Hogu Yaarige Beku \- Raymo](https://open.spotify.com/track/1Rf7eNXrYeYRk7zbF3OryU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Hodare Hogu Yaarige Beku \(Raymo\)](https://open.spotify.com/album/5vd35RkFioo7v6cCcaK43L) | 4:27 | 2022-10-27 | 2023-04-05 |
+| [Hodeya Doora Nee](https://open.spotify.com/track/0ZceismjoPxbLhkZQSEbpm) | [A B M](https://open.spotify.com/artist/27TjKmlCpVl5DVrG7pOJj1), [Rashmi D](https://open.spotify.com/artist/6W3jiCR6bPIMUbfSFKQ9Td) | [Magale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oNtJR97mFzTwuETjkN8Ir) | 4:16 | 2023-04-05 |  |
 | [Hodre Hogli Anta \(From "Maha Purusha"\)](https://open.spotify.com/track/71cogjMivE2Klc7gXBTJuq) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Mahalingam](https://open.spotify.com/artist/2MPdHKsDL3AQ1dfKfCjbr0) | [Hodre Hogli Anta \(From "Maha Purusha"\)](https://open.spotify.com/album/4zgPxGjqCuGXTTGK53PXx4) | 3:23 | 2022-02-02 | 2022-02-16 |
 | [Hogatlaga \(From "Ranga Samudra"\)](https://open.spotify.com/track/3waY6CRqXEoulHkwXopgLM) | [Desi Mohan](https://open.spotify.com/artist/3ulgjGAAoPrw7rHaMfR9sa), [Vagish Channagiri](https://open.spotify.com/artist/7fLsKdmYi0nnKNRnydobpO) | [Hogatlaga \(From "Ranga Samudra"\)](https://open.spotify.com/album/1FgZSNgWnri0h1p5Aga9C1) | 4:08 | 2023-02-15 |  |
 | [Honey Bunny \- From "Trivikrama"](https://open.spotify.com/track/68Ij3M9Ux9H2n5AXEDGPyj) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Honey Bunny \(From "Trivikrama"\)](https://open.spotify.com/album/3Duz11UbRxnWCYMsJHZzTq) | 3:41 | 2022-06-13 | 2023-01-13 |

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 146104,
+  "num_followers": 146144,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTY2MCwwMDAwMDAwMGQ2MGIwZWYzZjBjZDUzMTgzNjYzYzExYTBiZGJlN2Fm",
+  "snapshot_id": "MTY4MDIzMTY2MCwwMDAwMDAwMDNhMzRjMTI1N2NlNGFkNjE0ZmU0NTRmNmEwMWMzOTUz",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
     },
     {
-      "added_at": "2023-04-05 00:44:29",
+      "added_at": "2023-04-06 00:05:07",
       "album": {
         "name": "Minha Vida \u00e9 um Filme",
         "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
@@ -807,6 +807,30 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Mais um Som de Amor",
+        "url": "https://open.spotify.com/album/6s8zmjO54RlZqp76NmViiy"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "Bella Mattar",
+          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+        }
+      ],
+      "duration_ms": 214490,
+      "name": "Mais um Som de Amor",
+      "url": "https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Nada Comum",
         "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Mais um Som de Amor",
-        "url": "https://open.spotify.com/album/6s8zmjO54RlZqp76NmViiy"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "Bella Mattar",
-          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "Mais um Som de Amor",
-      "url": "https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-03-24 03:01:00",

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-746 songs - 2 day 1 hr 10 min
+747 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [Sun King](https://open.spotify.com/track/6LeELseYz1Q0T93DXCnP2d) | [The Bright Light Social Hour](https://open.spotify.com/artist/7oIZ8VPQ688hUQ3dQ4y6rD) | [Sun King](https://open.spotify.com/album/4kDpmJukV4Tt092cMUIkSJ) | 3:10 | 2021-04-02 | 2022-07-29 |
 | [Sunder](https://open.spotify.com/track/40fJLwKFxTruHgLUkFH0DU) | [Hibou](https://open.spotify.com/artist/60S3PHPmmVaBxa0zrcAiHq) | [Hibou](https://open.spotify.com/album/6qXnFyqPO869XScbRye58W) | 3:19 | 2021-04-02 | 2022-04-21 |
 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 | 2023-01-27 |  |
+| [Sunset For The Dead](https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:23 | 2023-04-05 |  |
 | [Sunshine](https://open.spotify.com/track/6BmOUlxE0nuvMgpizNfehS) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 2:56 | 2023-03-06 |  |
 | [Sweat](https://open.spotify.com/track/3cwYD4WLId4knMeRVzdKwp) | [Sunshine & the Blue Moon](https://open.spotify.com/artist/0d4GLHxNSeIWC0cJEiwtcy) | [Born 2 Boogie](https://open.spotify.com/album/0LrEhKT31qk5g5eIyitHyV) | 5:41 | 2021-06-25 | 2022-04-21 |
 | [Swim and Sleep \(Like a Shark\)](https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 2:45 | 2022-07-22 | 2023-02-10 |

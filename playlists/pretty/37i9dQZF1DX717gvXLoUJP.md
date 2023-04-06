@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,653 likes - 53 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,668 likes - 53 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

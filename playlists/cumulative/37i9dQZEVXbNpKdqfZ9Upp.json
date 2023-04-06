@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "3 de Abril",
+        "url": "https://open.spotify.com/album/6Gh5R4vcLYok8Lv4FGv8UP"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "3 de Abril",
+      "url": "https://open.spotify.com/track/1c2oYPFni5vth1v9M7fYZb"
+    },
+    {
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
       },
@@ -4827,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Ra\u00edzes",
+        "url": "https://open.spotify.com/album/6t8AwDUwYp3jk6CgRo5PNP"
+      },
+      "artists": [
+        {
+          "name": "Nininho",
+          "url": "https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185826,
+      "name": "E Agora",
+      "url": "https://open.spotify.com/track/5x5R8UaaC0qwRz7i9ugsKw"
+    },
+    {
+      "album": {
         "name": "De Mi Para Ti",
         "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
       },
@@ -6124,7 +6160,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 338015,
       "name": "Fiesta en el desierto (la la la)",
       "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
@@ -7008,7 +7044,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
@@ -7456,7 +7492,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7852,7 +7888,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS"
@@ -8566,7 +8602,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
@@ -16216,7 +16252,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 217000,
       "name": "Tell me (Sampling From `Two Of Hearts`)",
       "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"

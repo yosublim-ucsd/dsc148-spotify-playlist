@@ -1,12 +1,12 @@
 {
   "description": "New music from Tyler, The Creator, Polo G, Quavo and Gucci Mane. ",
-  "num_followers": 15172070,
+  "num_followers": 15175843,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzMzY0OCwwMDAwMDAwMDFmMjE4ODYzOGU4ZWY3MzVmM2Y4NTU4MjU0MTgyZDFl",
+  "snapshot_id": "MTY4MDUzMzY0OCwwMDAwMDAwMDA1OTFiZWJmMDk0YWMyODhhMGY3MDU3MDg4YjU5NDQ4",
   "tracks": [
     {
       "added_at": "2023-04-03 14:54:08",
@@ -426,6 +426,10 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
       "duration_ms": 168856,

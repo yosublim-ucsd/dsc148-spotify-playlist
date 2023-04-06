@@ -1,12 +1,12 @@
 {
   "description": "Good vibes for good times!",
-  "num_followers": 253885,
+  "num_followers": 254003,
   "original_name": "Reggae Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE4MTIwMCwwMDAwMDAwMDY3NzRkMzY1YTc5ZDEwNTM2MGRjNmMwMWY2MzRkZTA4",
+  "snapshot_id": "MTY4MDE4MTIwMCwwMDAwMDAwMDhhZDZiZmE3NjhlNDM0Mzc1NTYxMWJjZDRlZTA3MzQ3",
   "tracks": [
     {
       "added_at": "2023-03-30 13:00:00",
@@ -295,30 +295,6 @@
       "duration_ms": 204333,
       "name": "Circus Slave",
       "url": "https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT"
-    },
-    {
-      "added_at": "2023-03-30 13:00:00",
-      "album": {
-        "name": "Corona and Lime",
-        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Corona and Lime",
-      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
     },
     {
       "added_at": "2023-03-30 13:00:00",
@@ -805,7 +781,7 @@
         }
       ],
       "duration_ms": 204293,
-      "name": "Souljah Feeling",
+      "name": "Souljah Feeling (with Chad Chambers)",
       "url": "https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn"
     },
     {

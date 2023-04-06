@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: Misterwives
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,739 likes - 126 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,352 likes - 126 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

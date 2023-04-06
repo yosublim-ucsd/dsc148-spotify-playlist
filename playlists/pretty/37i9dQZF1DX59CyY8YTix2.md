@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: CHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,198 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,213 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 20 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 |
 | 21 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 |
 | 22 | [さよならを言えたかな](https://open.spotify.com/track/4VP5WUKSbviGuoLy6c46Ea) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [さよならを言えたかな](https://open.spotify.com/album/0JcjkBE4V8o679zLmzfJdf) | 3:14 |
-| 23 | [逃亡生活](https://open.spotify.com/track/46xFVj1wuk00nmSC5JlC4j) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/1MZlqLkh5VcVNdaUYxQ5zf) | 4:28 |
+| 23 | [life on the run](https://open.spotify.com/track/5DyTRTEBWGANlW8tHHclp5) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/7vTpvDx5hHj2Bu77bHFhK0) | 4:28 |
 | 24 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
 | 25 | [お裁縫リフレッシュ](https://open.spotify.com/track/2bR2b6HB6X3BCpC7zVJlZJ) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [お裁縫リフレッシュ](https://open.spotify.com/album/4IpoANH6ZchRcz9puHW5kZ) | 3:42 |
 | 26 | [1](https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [1](https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh) | 3:49 |
-| 27 | [光華](https://open.spotify.com/track/1zK39QgMM2RQMxTU2b3YeZ) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [光華](https://open.spotify.com/album/2fbmLsSDCKP85qLLdGZYJD) | 3:23 |
+| 27 | [Koka](https://open.spotify.com/track/3jp7OJopxINpYt4OoUGE3J) | [Chikyukara 2miri Uiteruhitotachi](https://open.spotify.com/artist/7noDQtNgyA34TFE0ICDYf5) | [Koka](https://open.spotify.com/album/1YVSWgGpQcurA1c8JwmU65) | 3:23 |
 | 28 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
 | 29 | [楽園](https://open.spotify.com/track/0fPsrFwSDZqcqgjItjym58) | [Faiyu](https://open.spotify.com/artist/1gviIQve37l22dpFpEB6Fa) | [楽園](https://open.spotify.com/album/3w0za8WPIG7tvByBiWfeeS) | 3:51 |
 | 30 | [METAL KINGDOM](https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 5:51 |
 | 31 | [シモキタ☆ブルース](https://open.spotify.com/track/5eNBixlMmW8OvhN01ivNmq) | [桐生ちあり](https://open.spotify.com/artist/4WDwuJkUyjRpFACkXoCh4J) | [燈](https://open.spotify.com/album/7dJ2mLZd6FbjIK9ojOkrhl) | 3:20 |
 | 32 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
-| 33 | [NO SMOKING](https://open.spotify.com/track/28OEm14q3yBr8RD62XAjLK) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/0OQHX80vZ1lTHreceeY1C7) | 3:12 |
+| 33 | [NO SMOKING](https://open.spotify.com/track/0FNeimJsFS79G3pW4LbDWj) | [リスキーシフト](https://open.spotify.com/artist/3waqcE7rnbuHkLJJZ9CjHg) | [NO SMOKING](https://open.spotify.com/album/676Jnrsbkb9Q2XGFWaZoHT) | 3:12 |
 | 34 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 35 | [メランコリー \- シングルバージョン](https://open.spotify.com/track/3wmeOp3TC1K0tiOk5uxbIm) | [熱帯魚とものくろーむ](https://open.spotify.com/artist/0T1bNrNb98EsqDEqLJnwd2) | [メランコリー \(シングルバージョン\)](https://open.spotify.com/album/6BemMnTGqXLznQN3FqDLrs) | 3:22 |
 | 36 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/77rj86ejZIot8ctbOFIBz5) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:38 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 51 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
 | 52 | [眠れない夜を君に](https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [眠れない夜を君に](https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk) | 4:04 |
 | 53 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 |
-| 54 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 |
+| 54 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
 | 55 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 |
-| 56 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
+| 56 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 |
 | 57 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
 | 58 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 |
 | 59 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 |
 | 70 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDI2Y2I5MTJlNjhlM2E1NjlkMzYzNDI5N2FhYzkyNWQw`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGMyOWU2NGI5MjJjMGVmZjRkMjhjOTAyYTljNjE5Yjdk`

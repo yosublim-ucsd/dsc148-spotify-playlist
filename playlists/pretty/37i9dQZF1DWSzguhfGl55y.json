@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 599470,
+  "num_followers": 599612,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMGUyMTMwOTY0ZjNlNDhmN2M5OGUwMDVmN2YzZTNlMTg1",
+  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMGE5M2RkMWNhM2IwNzBhZmMzYWVlMjdhNmRmMTM5MjI2",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Party 2020",
         "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
       },
@@ -511,22 +495,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "CLA$$IC",
         "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
       },
@@ -543,6 +511,38 @@
       "duration_ms": 226186,
       "name": "CLA$$IC",
       "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
       },
       "artists": [
         {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -711,8 +711,24 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
+      "duration_ms": 232280,
+      "name": "Wenn wir kommen",
+      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -815,22 +831,6 @@
       "duration_ms": 364720,
       "name": "Bossaura",
       "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Wenn wir kommen",
-      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2022-12-21 12:27:58",

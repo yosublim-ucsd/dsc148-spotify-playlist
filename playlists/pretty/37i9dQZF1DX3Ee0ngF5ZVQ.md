@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,961 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,027 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 62 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 |
 | 63 | [Telling on My Heart](https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 3:37 |
 | 64 | [Chisholm Trail](https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK) | [Dalton Torres](https://open.spotify.com/artist/1ZsoliRwhFnXJi0baBcFqL) | [Chisholm Trail](https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B) | 3:07 |
-| 65 | [That Ain't No Way To Go](https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [That Ain't No Way To Go](https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6) | 3:33 |
-| 66 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
+| 65 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
+| 66 | [That Ain't No Way To Go](https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [That Ain't No Way To Go](https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6) | 3:33 |
 | 67 | [Beautiful Morning](https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Down the Stairwell – Side A](https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO) | 2:58 |
 | 68 | [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 |
 | 69 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 |
 | 100 | [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 |
 
-Snapshot ID: `MTY4MDUzNTAxNCwwMDAwMDAwMGEzYjgzOGNlODU2ZmMyYTY0MTBlNmY4ODYzNmU1Mzkw`
+Snapshot ID: `MTY4MDUzNTAxNCwwMDAwMDAwMGY5MDIyZmU3ZjA3MWQyYzgwYjE2M2FkNmI1NjI5MmY5`

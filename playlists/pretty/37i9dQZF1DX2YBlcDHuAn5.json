@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2540,
+  "num_followers": 2555,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGRmMmExZTg0Mjk0ZTYxZjVjOWY2Njk2YzAyMjJiYTk4",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDRiN2NiODJhZDQyMzNlNmFiMzE0M2ZhODE5OGQxNmQ3",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Loose Future",
-        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
+        "name": "Lightyears Better",
+        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Loose Future",
-      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
+      "duration_ms": 184053,
+      "name": "Lightyears Better",
+      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Lightyears Better",
-        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
+        "name": "Loose Future",
+        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
       },
       "artists": [
         {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 184053,
-      "name": "Lightyears Better",
-      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
+      "duration_ms": 208933,
+      "name": "Loose Future",
+      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
     },
     {
       "added_at": "2023-03-30 23:00:00",

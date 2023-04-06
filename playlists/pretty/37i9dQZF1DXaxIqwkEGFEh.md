@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,860 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,939 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is) | 2:49 |
 | 2 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |
-| 3 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 |
+| 3 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 |
 | 4 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 |
 | 5 | [Levels](https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8) | 2:37 |
 | 6 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 69 | [Two in One](https://open.spotify.com/track/3EHQxxp6ronM53JLvD0PVO) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Two in One](https://open.spotify.com/album/1Ynyn03pZHQoDcHkL0lUv0) | 2:25 |
 | 70 | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG) | 3:20 |
 | 71 | [Oowee](https://open.spotify.com/track/3KK7yTK1jSDXLPKDGEsc7c) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Oowee](https://open.spotify.com/album/5IUYuj8QpII4Ve2X8rXoLo) | 3:04 |
-| 72 | [Can’t Move Wrong \(feat\. Trapland Pat\)](https://open.spotify.com/track/082vuRNCVzdakvsW0P1F8Q) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [TapeKid](https://open.spotify.com/artist/4ErsqECs4ziVDK1GpdEtcS) | [Can’t Move Wrong \(feat\. Trapland Pat\)](https://open.spotify.com/album/7st6zjgHJkEIWN0IZIy1ud) | 3:24 |
+| 72 | [Can’t Move Wrong \(feat\. Trapland Pat\)](https://open.spotify.com/track/082vuRNCVzdakvsW0P1F8Q) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Can’t Move Wrong \(feat\. Trapland Pat\)](https://open.spotify.com/album/7st6zjgHJkEIWN0IZIy1ud) | 3:24 |
 | 73 | [Out of Time](https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Out of Time](https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM) | 1:57 |
 | 74 | [5AM](https://open.spotify.com/track/3gYut1o4Wp1yPtpw8vLymj) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT) | [5AM](https://open.spotify.com/album/0OV7ADd4vn1iTdB1h3g0R9) | 2:18 |
 | 75 | [Skipper](https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be 2](https://open.spotify.com/album/3Dh9beBJOjHIeIvwJBGgcf) | 1:42 |

@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Billianne
 
-383 songs - 23 hr 6 min
+384 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,8 +181,9 @@
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-01-13 |  |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 | 2022-12-03 |
-| [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/0swJRACxsbJcaG1VtnNrOm) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:38 | 2023-03-24 |  |
+| [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/0swJRACxsbJcaG1VtnNrOm) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:38 | 2023-03-24 | 2023-04-06 |
 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/2HngnvK7LVC7y6FkTMQc8n) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:38 | 2023-03-17 | 2023-03-29 |
+| [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/4EZQfjnmP76FcbrXFBK3GL) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:38 | 2023-03-31 |  |
 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/52xOiplF4RbYstcdHhWL1l) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:38 | 2023-03-10 | 2023-03-22 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
 | [just wanna forget you](https://open.spotify.com/track/19FBPoxwTB7kbMEcYsDGVr) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:49 | 2023-03-31 |  |

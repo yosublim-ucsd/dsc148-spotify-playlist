@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 337920,
+  "num_followers": 338353,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDgwMThhY2IyNmE5ZDZjNGFkOWRkYzJhZGE2NTQ1ZDBh",
+  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDI0ZGZlNjVkZWQxZGY1YWIxMTc2MGM4ODc4NWE0NTE2",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -18,6 +18,10 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
       "duration_ms": 191000,
@@ -787,22 +791,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Mr. Vain Recall",
-        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Mr. Vain Recall - Radio Edit",
-      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Pretty Green Eyes (Remixes)",
         "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
       },
@@ -815,6 +803,22 @@
       "duration_ms": 201920,
       "name": "Pretty Green Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Mr. Vain Recall",
+        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Mr. Vain Recall - Radio Edit",
+      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -963,6 +967,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "In For The Kill",
+      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -991,22 +1011,6 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "In For The Kill",
-      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
     },
     {
       "added_at": "2021-04-29 18:40:15",

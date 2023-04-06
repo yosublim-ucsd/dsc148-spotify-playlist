@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,716 likes - 71 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,739 likes - 71 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Freedom](https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj) | 3:00 |
 | 2 | [United Nations Stomp](https://open.spotify.com/track/0BT3RQsdS84xswE0YHkJo2) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 5:47 |
-| 3 | [Chills and Thrills \(feat\. Mike Campbell\)](https://open.spotify.com/track/3O4lx0iWB6jVKAFcJ07C8n) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Mike Campbell](https://open.spotify.com/artist/3D7yLi22OE0n2gUPzWXhjc) | [Chills and Thrills \(feat\. Mike Campbell\)](https://open.spotify.com/album/60e22k3sYb5f9lz3fuzlZ3) | 5:20 |
+| 3 | [Chills and Thrills \(feat\. Mike Campbell\)](https://open.spotify.com/track/3O4lx0iWB6jVKAFcJ07C8n) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Chills and Thrills \(feat\. Mike Campbell\)](https://open.spotify.com/album/60e22k3sYb5f9lz3fuzlZ3) | 5:20 |
 | 4 | [Chicken Heads](https://open.spotify.com/track/0Mc5onRXu2mgLHgb0nfFxe) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Chicken Heads 50th Anniversary](https://open.spotify.com/album/6VOnwHoW4Hn2mxZt7HXzaR) | 5:19 |
 | 5 | [Funky Guitar Blues](https://open.spotify.com/track/2dqkDzJPwSIduZlKJh0lvB) | [Bryce Janey](https://open.spotify.com/artist/09ZFZmc7XNCwnDYB3R48qr) | [Blues In My Soul](https://open.spotify.com/album/1ULW18kqQ47Qp3YUATkvFQ) | 4:21 |
 | 6 | [True Lies](https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:48 |

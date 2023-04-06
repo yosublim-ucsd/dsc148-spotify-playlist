@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Caylee Hammack\n",
-  "num_followers": 522438,
+  "num_followers": 523020,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDg0Mzg4M2JkM2I5YzM5MTc5OTVlNzU3YjY5M2EzZjI1",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDZhNDY5ZDc1ZTk0YTMzNDUxNGEwZTVkNDY3MWIyYTA3",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 236823,
+      "name": "Met the Devil in Oklahoma",
+      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Ride It Hard",
         "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 236823,
-      "name": "Met the Devil in Oklahoma",
-      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "She's No Good for Me",
         "url": "https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 156973,
       "name": "Fire On Wheels",
       "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
         "url": "https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 207229,
       "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
       "url": "https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Wolf",
+        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 337239,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Hurt No More",
         "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Wrong Turns",
-      "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Wolf",
-        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 337239,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
+      "duration_ms": 208480,
+      "name": "Wrong Turns",
+      "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "No Reservations",
-        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
-      },
-      "artists": [
-        {
-          "name": "Alex Williams",
-          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "No Reservations",
-      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Whole World Gone Crazy",
         "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 184760,
       "name": "Whole World Gone Crazy",
       "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "No Reservations",
+        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Antioch",
+        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 245643,
+      "name": "Antioch",
+      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "High Country Sound",
         "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 218936,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Boy From Anderson County To The Moon",
         "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 217993,
       "name": "Are We On Fire",
       "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Antioch",
-        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 245643,
-      "name": "Antioch",
-      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
     },
     {
       "added_at": "2023-03-31 04:00:00",

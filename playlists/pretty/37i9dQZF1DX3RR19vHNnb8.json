@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 9023,
+  "num_followers": 9061,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4ODk1OCwwMDAwMDAwMGU1NDIzZjg5ZGNjNmZmZjhlNTAzZGMxNmY3MjFhMjZm",
+  "snapshot_id": "MTY4MDI4ODk1OCwwMDAwMDAwMGE0NzhkZGNlODRmZjliNTYzNzE4NzgwNDViYTQxYmNj",
   "tracks": [
     {
       "added_at": "2023-03-31 18:55:58",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-03-31 18:55:58",
       "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-03-31 18:55:58",
+      "album": {
         "name": "Walking On Water",
         "url": "https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 186900,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
-    },
-    {
-      "added_at": "2023-03-31 18:55:58",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-03-31 18:55:58",

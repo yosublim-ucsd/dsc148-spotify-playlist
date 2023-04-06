@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ke9w06Dmd4.md) - [plain]
 
 > JTBC's Crossover Men's Quartet Project <Phantom Singer> Official Playlist\. \(JTBC의 크로스오버 남성 4중창 프로젝트 '팬텀싱어'의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,870 likes - 164 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 164 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [E’ mezzanotte](https://open.spotify.com/track/02LntwSKvu51iz5E49d3ub) | [LEE SEUNG MIN](https://open.spotify.com/artist/6wXu4ygVzi4uoPQhxOjyNF), [ROH HYUN WOO](https://open.spotify.com/artist/1KDRNEl5dzCd5gLJcvim5C), [LEE HAN BEOM](https://open.spotify.com/artist/6oQsSgP5uIBJrsSDtZoMVR) | [<Phantom Singer 4> Episode 1](https://open.spotify.com/album/44eXsnZ4IpsqYb4MO9MrBL) | 4:22 |
-| 2 | [D'istinto e di cuore](https://open.spotify.com/track/5pZ9l8u590v9jXgkD8IEK8) | [RIM PARK](https://open.spotify.com/artist/75R0fZngf4BNYaGqfCQFSN), [SEO YEONG TAEK](https://open.spotify.com/artist/2cyRG8cE4xa1l76I4hI2Qj) | [<Phantom Singer 4> Episode 1](https://open.spotify.com/album/44eXsnZ4IpsqYb4MO9MrBL) | 3:30 |
+| 1 | [E’ mezzanotte](https://open.spotify.com/track/02LntwSKvu51iz5E49d3ub) | [LEE SEUNG MIN](https://open.spotify.com/artist/6wXu4ygVzi4uoPQhxOjyNF), [ROH HYUN WOO](https://open.spotify.com/artist/1KDRNEl5dzCd5gLJcvim5C), [LEE HAN BEOM](https://open.spotify.com/artist/6oQsSgP5uIBJrsSDtZoMVR) | [<Phantom Singer 4> Episode\. 1](https://open.spotify.com/album/44eXsnZ4IpsqYb4MO9MrBL) | 4:22 |
+| 2 | [D'istinto e di cuore](https://open.spotify.com/track/5pZ9l8u590v9jXgkD8IEK8) | [RIM PARK](https://open.spotify.com/artist/75R0fZngf4BNYaGqfCQFSN), [SEO YEONG TAEK](https://open.spotify.com/artist/2cyRG8cE4xa1l76I4hI2Qj) | [<Phantom Singer 4> Episode\. 1](https://open.spotify.com/album/44eXsnZ4IpsqYb4MO9MrBL) | 3:30 |
 | 3 | [My own hero](https://open.spotify.com/track/1Fw4tMSGEcgwGVfTLJWAhE) | [흉스프레소](https://open.spotify.com/artist/4KShgpyuxbzoFSQurWmKhk) | [Phantom Singer All Stars Episode.1](https://open.spotify.com/album/0Dc1iNV9H7YXr7zbzLk1qk) | 5:08 |
 | 4 | [몽금포타령](https://open.spotify.com/track/4t3MYddgAYSqsWs85rMHV5) | [라비던스](https://open.spotify.com/artist/6r6fKyzC087tFeqH8AfkuW) | [Phantom Singer All Stars Episode.1](https://open.spotify.com/album/0Dc1iNV9H7YXr7zbzLk1qk) | 7:20 |
 | 5 | [Sinful Passion \(Грешная страсть\)](https://open.spotify.com/track/2BFKlFNCtB4r8IeVS8PMrQ) | [인기현상](https://open.spotify.com/artist/6Bdo28WMmctM7DUDEJAp70) | [Phantom Singer All Stars Episode.1](https://open.spotify.com/album/0Dc1iNV9H7YXr7zbzLk1qk) | 6:26 |

@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Return to Paradise",
+        "url": "https://open.spotify.com/album/2Vy7CHmUrL7HVxLVfP5n4w"
+      },
+      "artists": [
+        {
+          "name": "Sam Sparro",
+          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218025,
+      "name": "Happiness - The Magician Remix",
+      "url": "https://open.spotify.com/track/5bgR2f3sCS135kzxjIlDD3"
+    },
+    {
+      "album": {
         "name": "Heads Will Roll",
         "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 355520,
       "name": "I Get Around - Midnight Juggernauts Remix",
       "url": "https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6"

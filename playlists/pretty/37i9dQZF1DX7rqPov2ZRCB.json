@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 60596,
+  "num_followers": 60628,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGE0Yzc4NDAwNThjNjMxMTE5ZTkwM2JkODBjMzYwOGJh",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGFjNjA0NTBhNDViNDNmYzMzMTExOTAzMTBkOTY1YWFh",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -655,6 +655,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Merengues Tipicos Que Hicieron Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z"
+      },
+      "artists": [
+        {
+          "name": "El Ciego De Nagua",
+          "url": "https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Diente de Oro",
+      "url": "https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "Los Numero 1",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 268373,
       "name": "Por Esa Mujer",
       "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Merengues Tipicos Que Hicieron Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z"
-      },
-      "artists": [
-        {
-          "name": "El Ciego De Nagua",
-          "url": "https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Diente de Oro",
-      "url": "https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P"
     },
     {
       "added_at": "2019-09-09 17:49:24",

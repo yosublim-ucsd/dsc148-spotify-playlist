@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 299272,
+  "num_followers": 299371,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDI4ODlmOGE1MzY5M2U1MDhhNjZmNDZkMmQ0YmFhZTU4",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGYwZmRmY2MzYzEzM2U1YTJjNDkzODkxYWNlZTMzMjJi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -787,6 +787,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
-      },
-      "artists": [
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 239178,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Pleasure (Now & Forever)",
         "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 246760,
       "name": "Boy Blue",
       "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 239178,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 376981,
-      "name": "Aquaself",
-      "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 376981,
+      "name": "Aquaself",
+      "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
     }
   ],
   "unique_name": "Soultronic",

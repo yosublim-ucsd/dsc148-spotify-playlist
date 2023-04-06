@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 89273,
+  "num_followers": 89431,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDRmMWI2ZjlhMjJmZTVlMzM0ZTFjZWIyNjQyMDc0NGE0",
+  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMGY5ZWNjY2M3Y2U4MmFhM2QxZTE2ZjMwMmRkNzZjMTg2",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "What It Takes: The Chess Years",
-        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187240,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "What It Takes: The Chess Years",
+        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2023-03-03 18:13:49",

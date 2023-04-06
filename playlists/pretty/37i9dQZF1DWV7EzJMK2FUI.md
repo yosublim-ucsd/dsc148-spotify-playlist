@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,582 likes - 551 songs - 1 day 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,441 likes - 551 songs - 1 day 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

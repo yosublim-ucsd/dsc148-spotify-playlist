@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,592 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,739 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 89 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 |
 | 90 | [I Wanna Know \(feat\. Bea Miller\)](https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [I Wanna Know \(feat\. Bea Miller\)](https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV) | 3:17 |
 | 91 | [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 |
-| 92 | [Tsunami](https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8) | 3:56 |
-| 93 | [Sing Me to Sleep](https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:07 |
+| 92 | [Sing Me to Sleep](https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:07 |
+| 93 | [Tsunami](https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8) | 3:56 |
 | 94 | [Don't Wake Me Up](https://open.spotify.com/track/18VfHIPaCo0s6FTi1Fnp6T) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fortune \(Expanded Edition\)](https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7) | 3:42 |
 | 95 | [REMEDY](https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [REMEDY](https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe) | 3:10 |
 | 96 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 100 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 |
 
-Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMGEwY2FiYjljMTc1NThkOTA5MWI0NjMyNGJlYTNiMDQy`
+Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMGEyYjlmOTFiZThiNDI4ZTI0N2EyNTAwZTI2MWViNzU4`

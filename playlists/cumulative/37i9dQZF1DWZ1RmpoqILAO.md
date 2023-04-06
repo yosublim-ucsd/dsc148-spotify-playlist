@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-69 songs - 4 hr 39 min
+70 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 | 2023-02-23 |  |
 | [Passing Sun](https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8), [Jacob Cummings](https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm) | [Passing Sun](https://open.spotify.com/album/103zyTkSJ2fNbHOjwNslR9) | 3:37 | 2023-02-23 |  |
 | [Pieces of Gold](https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy) | [Ziggy Katz](https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI) | [Pieces of Gold](https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3) | 4:01 | 2023-02-23 |  |
+| [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-04-05 |  |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2023-02-23 |  |
 | [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2023-02-23 |  |
 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 | 2023-02-23 |  |

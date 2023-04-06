@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10977,
+  "num_followers": 10989,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMGNmYzMzOGY2MzAyOWQ5YjU5MjE0NmVjMjA1Y2MxMWRk",
+  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMDQ4OWIwOTk5YTQ2YTEyYmQ3ZWI0ZDY2ZmY2ZDZkYTcw",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:44",
@@ -339,18 +339,26 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
         }
       ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -367,6 +375,22 @@
       "duration_ms": 256146,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -403,26 +427,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Way U Are (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Way U Are (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
       },
@@ -439,26 +443,22 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+        "name": "Way U Are (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
         },
         {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+      "duration_ms": 163773,
+      "name": "Way U Are (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
+        "name": "INTERVIEW",
+        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 177831,
-      "name": "ONLY YOU",
-      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+      "duration_ms": 195293,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

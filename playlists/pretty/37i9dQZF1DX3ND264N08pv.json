@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 39152,
+  "num_followers": 39292,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGVjYmIxOTZiOWUzNjI2OWJmZGE3NDcwNWFlZmEzMzY4",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDA5OWIzMTAzMjQ4YTAwM2Y0MzUxOTAxNjA0ZjdhZTg4",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -559,22 +559,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
         },
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+      "duration_ms": 237714,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
-      },
-      "artists": [
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "M.D.E.",
         "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 152253,
       "name": "M.D.E.",
       "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/7pSS3fffGxnngajOo32c9F"
       },
@@ -947,38 +963,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "DANCEFLOOR SLAYER",
         "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
       "artists": [
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Mr. Hyde",
-          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
         }
       ],
-      "duration_ms": 279157,
-      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
-      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1067,6 +1047,26 @@
       "duration_ms": 183000,
       "name": "Burn MF",
       "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Mr. Hyde",
+          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
+        }
+      ],
+      "duration_ms": 279157,
+      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
+      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1131,26 +1131,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Ready to Explode",
-        "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
+        "name": "HIT THA CLUB",
+        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
         }
       ],
-      "duration_ms": 167997,
-      "name": "Ready to Explode",
-      "url": "https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP"
+      "duration_ms": 166615,
+      "name": "HIT THA CLUB",
+      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1171,22 +1163,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "HIT THA CLUB",
-        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "HIT THA CLUB",
-      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Ready to Explode",
+        "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 167997,
+      "name": "Ready to Explode",
+      "url": "https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 324300,
       "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
       "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+        "name": "Kingdom (Sefa Remix)",
+        "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
       },
       "artists": [
         {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+      "duration_ms": 302739,
+      "name": "Kingdom - Sefa Remix",
+      "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Kingdom (Sefa Remix)",
-        "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
       },
       "artists": [
         {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
         }
       ],
-      "duration_ms": 302739,
-      "name": "Kingdom - Sefa Remix",
-      "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Buried Alive",
-        "url": "https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa"
-      },
-      "artists": [
-        {
-          "name": "Cryex",
-          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa"
+      },
+      "artists": [
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Adrenaline Kicks",
         "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-03-30 23:00:00",

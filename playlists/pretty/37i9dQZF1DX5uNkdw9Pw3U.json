@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 61836,
+  "num_followers": 61864,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGM0MjRlNmE3NDVhMDY4NDQyZTYxNWExZDg4MTA3ZGVh",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDVhZjRlZDllOTFlYTM1MGMwMjVmMTg5M2Q0YTM2Yzdm",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -495,6 +495,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 208395,
+      "name": "Jet Black (feat. Brandy)",
+      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 192823,
       "name": "Mixer",
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 208395,
-      "name": "Jet Black (feat. Brandy)",
-      "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/3cn94Lk8pmA6CN8K25dIdM"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 266812,
       "name": "Come Home (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/3cn94Lk8pmA6CN8K25dIdM"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Holding the Gun",
-      "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Don't Pretend",
         "url": "https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 165840,
       "name": "Don't Pretend",
       "url": "https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Holding the Gun",
+      "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "You Got The Body",
-        "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 176619,
-      "name": "You Got The Body",
-      "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "sukkerspinn & hodepine (Del 2)",
         "url": "https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "You Got The Body",
+        "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 176619,
+      "name": "You Got The Body",
+      "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
         "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 377852,
       "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
       "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "TyrTape (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Natnael",
-          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "I Blodet (feat. Natnael)",
-      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "like you",
         "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 194831,
       "name": "like you",
       "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+        "name": "Orbit (Live from Air Studios)",
+        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
       },
       "artists": [
         {
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+      "duration_ms": 234313,
+      "name": "Orbit - Live from Air Studios",
+      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1666,27 +1666,15 @@
         {
           "name": "Gallant",
           "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 216837,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Sympati For Djevelen",
-        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
-      },
-      "artists": [
+        },
         {
-          "name": "L.U:N.A",
-          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 183692,
-      "name": "Sympati For Djevelen",
-      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1707,8 +1695,24 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Orbit (Live from Air Studios)",
-        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
+        "name": "Sympati For Djevelen",
+        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+      },
+      "artists": [
+        {
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Sympati For Djevelen",
+      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
       "artists": [
         {
@@ -1716,9 +1720,9 @@
           "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 234313,
-      "name": "Orbit - Live from Air Studios",
-      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     },
     {
       "added_at": "2023-01-12 23:00:00",

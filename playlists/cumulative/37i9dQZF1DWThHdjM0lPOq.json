@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Duets: Piano Covers",
+        "url": "https://open.spotify.com/album/3wHDQxtZuim5vgaGFGEREf"
+      },
+      "artists": [
+        {
+          "name": "Piano Peace",
+          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291136,
+      "name": "Come What May (from \"Moulin Rouge!\")",
+      "url": "https://open.spotify.com/track/6iGgy83UlNtlVD44IIxZPa"
+    },
+    {
+      "album": {
         "name": "Great Songs from the Movies",
         "url": "https://open.spotify.com/album/35rfczRSyFq684lZjGu3ZL"
       },
@@ -384,6 +402,24 @@
       "duration_ms": 227858,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d"
+    },
+    {
+      "album": {
+        "name": "Pop Piano: Pop Songs Performed On the Piano for Relaxation and Background Music",
+        "url": "https://open.spotify.com/album/0PU3oNDsxsN1xOc20mQzQz"
+      },
+      "artists": [
+        {
+          "name": "Robbins Island Music Group",
+          "url": "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309506,
+      "name": "For Your Eyes Only (Pop Solo Piano)",
+      "url": "https://open.spotify.com/track/7AFkCBh3aSFQeV7NsZ4USu"
     },
     {
       "album": {
@@ -921,6 +957,24 @@
     },
     {
       "album": {
+        "name": "No Time to Die (James Bond Theme) [Piano Version]",
+        "url": "https://open.spotify.com/album/4VTQ29qlhbZYF5h488ateu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Coponat",
+          "url": "https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "No Time to Die (James Bond Theme) - Piano Version",
+      "url": "https://open.spotify.com/track/4BEgCQdTR2NOuXMeM2HhKv"
+    },
+    {
+      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF"
       },
@@ -1436,10 +1490,28 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 145469,
       "name": "When a Man Loves a Woman (Arr. for Piano)",
       "url": "https://open.spotify.com/track/3LhwkmVSfe2FPTItQ9GoZ3"
+    },
+    {
+      "album": {
+        "name": "When a man loves a woman (Piano Version)",
+        "url": "https://open.spotify.com/album/2cJOeEGCWruhZjYiexj0mC"
+      },
+      "artists": [
+        {
+          "name": "Ebony and Ivory",
+          "url": "https://open.spotify.com/artist/0i0md3QWNj6WJnMEx5vsj8"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206366,
+      "name": "When a man loves a woman - Piano version",
+      "url": "https://open.spotify.com/track/4zvqPeUQytCXTefGkRyc5a"
     },
     {
       "album": {
@@ -1566,6 +1638,24 @@
       "duration_ms": 174000,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv"
+    },
+    {
+      "album": {
+        "name": "James Bond Themes: Peaceful Piano",
+        "url": "https://open.spotify.com/album/7kucI6ukXGZ5VMW7qEv7XH"
+      },
+      "artists": [
+        {
+          "name": "Patrik Jablonski",
+          "url": "https://open.spotify.com/artist/4jt6GmDFrRnnxgs6pQDKMi"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137871,
+      "name": "You Only Live Twice - From \"You Only Live Twice\"",
+      "url": "https://open.spotify.com/track/62TXy7eoFCbm3Majfqtu0g"
     },
     {
       "album": {

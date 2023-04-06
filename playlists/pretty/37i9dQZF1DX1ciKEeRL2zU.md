@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 55 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994 likes - 55 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Emlanjeni](https://open.spotify.com/track/0cPX6PUuCJYWmsXS5aH5Xs) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/1DrtoezNJN35zLlyJSCTLi) | 4:02 |
+| 1 | [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 |
 | 2 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 |
 | 3 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
 | 4 | [Tigi Tigi.](https://open.spotify.com/track/7kIApWELVj8I4eOKJs04JW) | [Sands](https://open.spotify.com/artist/3uYNluWtBu0ksu049wbLVW) | [Azgo Festival Compilation 2019](https://open.spotify.com/album/0QvN86SujsP2OjxEyXBtAw) | 5:22 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 54 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 55 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MTY3NjAxNjg4NSwwMDAwMDAwMGExYTc4MTE0MDVhYzg5ZThiNDc4ZmVjN2EzNzkwNzQ2`
+Snapshot ID: `MTY3NjAxNjg4NSwwMDAwMDAwMGEyM2Y1Y2U4ODI0OTliYzk1ZTIxOWU5ZWI4YTY3MTE3`

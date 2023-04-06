@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 305741,
       "name": "Dancer In The Dark",
       "url": "https://open.spotify.com/track/3pYyBOW5DEfM5CjNLknnRZ"
@@ -1330,6 +1330,24 @@
       "duration_ms": 372335,
       "name": "Deep Gone Far",
       "url": "https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW"
+    },
+    {
+      "album": {
+        "name": "Deeper Feelings EP",
+        "url": "https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr"
+      },
+      "artists": [
+        {
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442622,
+      "name": "Deeper Feelings",
+      "url": "https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r"
     },
     {
       "album": {
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 414000,
       "name": "De\u00eda - AVEM Remix",
       "url": "https://open.spotify.com/track/4pgBB90REWf829lym8RE6N"
@@ -2379,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
+    },
+    {
+      "album": {
         "name": "The Pictures",
         "url": "https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1"
       },
@@ -2882,6 +2918,28 @@
       "duration_ms": 342295,
       "name": "KayCee",
       "url": "https://open.spotify.com/track/1kaVJgf1xCcoDHYGqa1vZv"
+    },
+    {
+      "album": {
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/5vpgVxoFm2Jzw8NKhe6pUh"
+      },
+      "artists": [
+        {
+          "name": "Kaempe",
+          "url": "https://open.spotify.com/artist/47PU6fKivO2k8QkZXTI4Sk"
+        },
+        {
+          "name": "Latteo",
+          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334146,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/2wjDWSYtQUF4BiHmqS9ka6"
     },
     {
       "album": {
@@ -4437,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "R U 4REAL (feat. Marina Maximilian)",
+        "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "R U 4REAL (feat. Marina Maximilian)",
+      "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
@@ -4762,7 +4842,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 251520,
       "name": "Second Line",
       "url": "https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh"
@@ -6248,7 +6328,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 214167,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3GNR7g7jIQcRC6Q0sZtqmw"

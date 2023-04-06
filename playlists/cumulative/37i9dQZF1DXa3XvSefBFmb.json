@@ -3258,7 +3258,7 @@
     {
       "album": {
         "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs"
+        "url": "https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS"
       },
       "artists": [
         {
@@ -3269,6 +3269,24 @@
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228479,
+      "name": "h\u00e1-de sarar",
+      "url": "https://open.spotify.com/track/788WoYnjW12ZWyksEr6qsq"
+    },
+    {
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
       "duration_ms": 228479,
       "name": "h\u00e1-de sarar",
       "url": "https://open.spotify.com/track/7BqKrhHn3BpuyCMpgy648a"

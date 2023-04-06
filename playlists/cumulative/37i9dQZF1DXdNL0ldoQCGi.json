@@ -525,7 +525,7 @@
       "artists": [
         {
           "name": "Grand\u00e3o Vaqueiro",
-          "url": "https://open.spotify.com/artist/1ZKenHfXkJ1aI1IKkzs3Bx"
+          "url": "https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH"
         }
       ],
       "date_added": "2023-03-23",
@@ -4202,7 +4202,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ"
@@ -5818,6 +5818,10 @@
         {
           "name": "Kizzy",
           "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
       "date_added": "2022-11-01",

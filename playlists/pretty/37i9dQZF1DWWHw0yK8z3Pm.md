@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,458 likes - 101 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,473 likes - 101 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -7462,7 +7462,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 124768,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln"
@@ -10985,6 +10985,24 @@
     },
     {
       "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
@@ -11108,6 +11126,24 @@
       "duration_ms": 224760,
       "name": "I Am a Very Rude Person",
       "url": "https://open.spotify.com/track/6CbeTloXS88ShOW42RYqGz"
+    },
+    {
+      "album": {
+        "name": "I Am The River",
+        "url": "https://open.spotify.com/album/7Job88Kj5h04wC1YTI41xm"
+      },
+      "artists": [
+        {
+          "name": "Lael Neale",
+          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "I Am The River",
+      "url": "https://open.spotify.com/track/19pCbEQLNVyHvXdTf55OqV"
     },
     {
       "album": {
@@ -19421,6 +19457,24 @@
     },
     {
       "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -23870,7 +23924,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 433360,
       "name": "The Place Where He Inserted the Blade",
       "url": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
@@ -26434,7 +26488,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 238826,
       "name": "weak",
       "url": "https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc"

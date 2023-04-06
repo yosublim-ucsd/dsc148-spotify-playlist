@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: REXORIA",
-  "num_followers": 724654,
+  "num_followers": 724844,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDFkOGI5YzYzYWQxMjM4ODEyMzAzZmM5OTQ0NDZiYzE1",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDUzZTg3Mjk5ZTAxNmYwYTQ3YWM2ZGNmNzZhNzFiMzRj",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
-      },
-      "artists": [
-        {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 227796,
       "name": "What Else Is There?",
       "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -331,18 +331,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Federica Lanna",
+          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
         }
       ],
-      "duration_ms": 226128,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+      "duration_ms": 300560,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -379,22 +383,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
       "artists": [
         {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Federica Lanna",
-          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "The Wonders Still Awaiting",
         "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
       },
@@ -639,42 +655,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Nekonomicon",
-        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
-      },
-      "artists": [
-        {
-          "name": "Nekonomicon",
-          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
-        },
-        {
-          "name": "Kylee Brielle",
-          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
-        }
-      ],
-      "duration_ms": 237031,
-      "name": "Dismantled",
-      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Of Silence",
         "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 230480,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Nekonomicon",
+        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
+      },
+      "artists": [
+        {
+          "name": "Nekonomicon",
+          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
+        },
+        {
+          "name": "Kylee Brielle",
+          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
+        }
+      ],
+      "duration_ms": 237031,
+      "name": "Dismantled",
+      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "The Widow Maker",
         "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 235453,
       "name": "The Widow Maker - feat. Gunship",
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "After Forever (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
-      },
-      "artists": [
-        {
-          "name": "After Forever",
-          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Elements of Power",
         "url": "https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A"
       },
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Ishimura",
-        "url": "https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y"
+        "name": "After Forever (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
       "artists": [
         {
-          "name": "Jason Richardson",
-          "url": "https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY"
-        },
-        {
-          "name": "Luke Holland",
-          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+          "name": "After Forever",
+          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
         }
       ],
-      "duration_ms": 340280,
-      "name": "Ishimura",
-      "url": "https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo"
+      "duration_ms": 206400,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 426160,
       "name": "Time Machine (feat. Kai Hansen & Piet Sielck)",
       "url": "https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Ishimura",
+        "url": "https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y"
+      },
+      "artists": [
+        {
+          "name": "Jason Richardson",
+          "url": "https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY"
+        },
+        {
+          "name": "Luke Holland",
+          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+        }
+      ],
+      "duration_ms": 340280,
+      "name": "Ishimura",
+      "url": "https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1139,58 +1139,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "A Cloak Woven of Stars",
-        "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
-      },
-      "artists": [
-        {
-          "name": "Lacrimas Profundere",
-          "url": "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "A Cloak Woven of Stars",
-      "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Emerge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b"
-      },
-      "artists": [
-        {
-          "name": "Chaos Magic",
-          "url": "https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC"
-        },
-        {
-          "name": "Caterina Nix",
-          "url": "https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S"
-        }
-      ],
-      "duration_ms": 280750,
-      "name": "Beneath Your Skin",
-      "url": "https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Romance",
-          "url": "https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Load Your Cannons",
         "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
       },
@@ -1203,6 +1151,22 @@
       "duration_ms": 210080,
       "name": "Load Your Cannons",
       "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "A Cloak Woven of Stars",
+        "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
+      },
+      "artists": [
+        {
+          "name": "Lacrimas Profundere",
+          "url": "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "A Cloak Woven of Stars",
+      "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1239,18 +1203,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+        "name": "Emerge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6U4G96P03Ozny2EURgrx4b"
       },
       "artists": [
         {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+          "name": "Chaos Magic",
+          "url": "https://open.spotify.com/artist/42OynfArWdfEeCmkvUV4qC"
+        },
+        {
+          "name": "Caterina Nix",
+          "url": "https://open.spotify.com/artist/3ujLgYPCCryc7HfFjxMM2S"
         }
       ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+      "duration_ms": 280750,
+      "name": "Beneath Your Skin",
+      "url": "https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1271,6 +1239,38 @@
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Romance",
+          "url": "https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Deadnight Warrior",
-        "url": "https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK"
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Rioghan",
+          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
         }
       ],
-      "duration_ms": 173234,
-      "name": "Deadnight Warrior",
-      "url": "https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16"
+      "duration_ms": 224200,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g"
+        "name": "Deadnight Warrior",
+        "url": "https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK"
       },
       "artists": [
         {
-          "name": "Rioghan",
-          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
+      "duration_ms": 173234,
+      "name": "Deadnight Warrior",
+      "url": "https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16"
     },
     {
       "added_at": "2023-03-24 04:01:00",

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-925 songs - 2 day 8 hr 34 min
+926 songs - 2 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Aqui](https://open.spotify.com/track/5hKjTCIKRc4xGJlmzxlEw8) | [De Trueno](https://open.spotify.com/artist/6QPxvCeqJ4kJ12x5VAtscJ) | [Elemento](https://open.spotify.com/album/4S7xoXOFYE2aT1PK0TXjdb) | 1:23 | 2022-03-24 | 2022-03-31 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-03-28 | 2022-04-19 |
 | [Arde la Ciudad](https://open.spotify.com/track/3tBDMih3NYaLGWP3RqusrA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rock & Tekis](https://open.spotify.com/album/4WnbIMi6p4bYlPdadsqnRn) | 4:23 | 2022-03-24 | 2022-04-04 |
-| [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 | 2021-12-24 |  |
+| [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 | 2021-12-24 | 2023-04-06 |
 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 | 2022-04-13 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 |  |
 | [Ausente](https://open.spotify.com/track/5exqYvTUN4tm2TS2NT94tt) | [Lucas Heredia](https://open.spotify.com/artist/2kyFUFJ61joLNbZb9dnWlc) | [Ausente](https://open.spotify.com/album/4WwabDUI3p9Mcii2qqRDNC) | 3:26 | 2022-04-13 | 2022-04-21 |
@@ -673,6 +673,7 @@
 | [Porque Te Vas](https://open.spotify.com/track/0gIYEcz6TwJBFyQVcZa169) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli), [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Porque Te Vas](https://open.spotify.com/album/6Y4pNWxQL6DDIcgfpee7Dz) | 3:48 | 2022-03-28 | 2022-04-19 |
 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 | 2022-03-24 | 2022-04-21 |
 | [Primavera](https://open.spotify.com/track/6r6GgoTmwSBBUf78E5iWpr) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Primavera](https://open.spotify.com/album/1fTQQxzsm3FLidMc52dKfk) | 3:52 | 2022-03-24 | 2022-07-19 |
+| [Prisionero](https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Prisionero](https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq) | 3:55 | 2023-04-06 |  |
 | [Profundidad](https://open.spotify.com/track/3KQaM03bZXWRPCtewW5eGI) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Que Esperas \(Versión Exclusiva\)](https://open.spotify.com/album/2vd3SPSRppBEPjRWoFTDRp) | 4:10 | 2022-01-28 | 2022-04-09 |
 | [Profundo](https://open.spotify.com/track/6TK99qUs7Cep7TQ4VXDjqv) | [Melaní Luraschi](https://open.spotify.com/artist/5PBojwvlt5Smdc4alC9xZw), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Profundo](https://open.spotify.com/album/0t9VcYXdHlMRyC2JGmsNCK) | 2:57 | 2022-04-01 | 2022-04-04 |
 | [Promesas Sobre El Bidet \- Live](https://open.spotify.com/track/18q9HXSEKJ7w1nTAST38jB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 3:06 | 2022-03-28 | 2022-04-01 |

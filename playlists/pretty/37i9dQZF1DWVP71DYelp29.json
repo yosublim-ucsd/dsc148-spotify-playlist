@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Taylor Swift. ",
-  "num_followers": 736028,
+  "num_followers": 736094,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2Njg4OCwwMDAwMDAwMDY4ODQ1NzM4ZDJlZDE2ZDU5MTJmZTJmZDVkMTdhZGQx",
+  "snapshot_id": "MTY3MzQ2Njg4OCwwMDAwMDAwMDhmYjY2YjRkYWRmY2E5OTk3YmQyZmYwN2E5ZGU5MjEy",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -220,22 +220,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
@@ -247,6 +231,22 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -388,22 +388,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
-      },
-      "artists": [
-        {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
       "artists": [
@@ -415,6 +399,22 @@
       "duration_ms": 175003,
       "name": "Stay - Spotify Singles",
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1008,6 +1008,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7"
       },
       "artists": [
@@ -1027,22 +1043,6 @@
       "duration_ms": 163917,
       "name": "Girls Just Wanna Have Fun - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1788,22 +1788,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 209490,
-      "name": "Drama - Live from Spotify",
-      "url": "https://open.spotify.com/track/0TRN3A7jUi9F72HvZBqg3G"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z"
       },
       "artists": [
@@ -1815,6 +1799,22 @@
       "duration_ms": 193610,
       "name": "Congratulations - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Drama - Live from Spotify",
+      "url": "https://open.spotify.com/track/0TRN3A7jUi9F72HvZBqg3G"
     },
     {
       "added_at": "2023-01-11 19:54:48",

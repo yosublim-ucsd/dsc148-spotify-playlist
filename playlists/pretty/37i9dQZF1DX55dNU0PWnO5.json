@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 548541,
+  "num_followers": 548686,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkyMjA4NywwMDAwMDAwMGNjNGMxNWVkYzc2MmM3MmIyYjc1MjQwOWQ2NTU2MzYw",
+  "snapshot_id": "MTY3OTkyMjA4NywwMDAwMDAwMGJiN2NkYjhjNjRkZTRhNjUxNTRiODQyOGUyY2Y5YTRm",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
     },
     {
-      "added_at": "2021-03-12 05:00:00",
-      "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 166448,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Flowers, a snail & insects",
@@ -403,6 +387,22 @@
       "duration_ms": 140000,
       "name": "Flowers, a snail & insects",
       "url": "https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy"
+    },
+    {
+      "added_at": "2021-03-12 05:00:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
     },
     {
       "added_at": "2021-02-12 05:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "Modern Life",
-        "url": "https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp"
-      },
-      "artists": [
-        {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "HULO",
-      "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
         "name": "SAMURAI",
         "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "HULO",
+      "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/5MLyDyUI1yxlzPeoXuj8mn"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Moonlight Love Affair",
+        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Dirty Mariposa",
+      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Cloud Bounce",
@@ -1065,20 +1081,24 @@
       "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Moonlight Love Affair",
-        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
+        "name": "Sunday Kitchen",
+        "url": "https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x"
       },
       "artists": [
         {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Dirty Mariposa",
-      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+      "duration_ms": 185806,
+      "name": "Sunday Kitchen",
+      "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1109,24 +1129,20 @@
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Sunday Kitchen",
-        "url": "https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x"
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
       },
       "artists": [
         {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Sunday Kitchen",
-      "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
-      },
-      "artists": [
-        {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        }
-      ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Golden",
@@ -1259,62 +1243,6 @@
       "duration_ms": 466627,
       "name": "Golden",
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Healthy Habits",
-        "url": "https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV"
-      },
-      "artists": [
-        {
-          "name": "Noa Erni",
-          "url": "https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU"
-        },
-        {
-          "name": "Gr\u00e9goire Pign\u00e8de",
-          "url": "https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y"
-        }
-      ],
-      "duration_ms": 129166,
-      "name": "Om Drip",
-      "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Tin Tin Deo (NerdStar Remix)",
-        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "NerdStar",
-          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
-        }
-      ],
-      "duration_ms": 202900,
-      "name": "Tin Tin Deo - NerdStar Remix",
-      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1337,6 +1265,58 @@
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+    },
+    {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Tin Tin Deo (NerdStar Remix)",
+        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "NerdStar",
+          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
+        }
+      ],
+      "duration_ms": 202900,
+      "name": "Tin Tin Deo - NerdStar Remix",
+      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
+    },
+    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Between Days",
@@ -1351,6 +1331,26 @@
       "duration_ms": 280000,
       "name": "Friends",
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Healthy Habits",
+        "url": "https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV"
+      },
+      "artists": [
+        {
+          "name": "Noa Erni",
+          "url": "https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU"
+        },
+        {
+          "name": "Gr\u00e9goire Pign\u00e8de",
+          "url": "https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y"
+        }
+      ],
+      "duration_ms": 129166,
+      "name": "Om Drip",
+      "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
     },
     {
+      "added_at": "2022-04-11 13:55:08",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Tiger's Den (Radio Edit)",
@@ -1457,22 +1473,6 @@
       "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Afro Cello (Super Full Moon Rework)",
-        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
-      },
-      "artists": [
-        {
-          "name": "Danny Keane",
-          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
-        }
-      ],
-      "duration_ms": 248250,
-      "name": "Afro Cello - Super Full Moon Rework",
-      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "PRNDL.wav",
@@ -1487,6 +1487,22 @@
       "duration_ms": 177036,
       "name": "PRNDL.exe",
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "Afro Cello (Super Full Moon Rework)",
+        "url": "https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF"
+      },
+      "artists": [
+        {
+          "name": "Danny Keane",
+          "url": "https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "Afro Cello - Super Full Moon Rework",
+      "url": "https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 223302,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Nu Jump",
-        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Nu Jump",
-      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
     }
   ],
   "unique_name": "Jazztronica",

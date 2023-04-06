@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-675 songs - 1 day 11 hr 47 min
+676 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
 | [ABYSS](https://open.spotify.com/track/6gypzqa8LCZuGUnyPPCZCN) | [Franklin](https://open.spotify.com/artist/1QiIaPCrDLhnRfAg6xz8tT) | [ABYSS](https://open.spotify.com/album/5SO5qSja0Nm03HJcnJWzBq) | 2:08 | 2022-03-10 | 2022-05-08 |
 | [Afterlife](https://open.spotify.com/track/4bj8WRDUFsguMFAxG22e8c) | [Siqu](https://open.spotify.com/artist/29naRiyir00pkFnYm5H2X2) | [Afterlife](https://open.spotify.com/album/6vulfTqSVGblktuJ1K19Jx) | 2:38 | 2022-03-10 | 2022-06-24 |
+| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-30 |  |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-12-16 | 2022-03-11 |
 | [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 | 2023-01-16 |
 | [Aldrig Nu](https://open.spotify.com/track/3qoMs4kUASB2z2wTyO8hJf) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Aldrig Nu](https://open.spotify.com/album/5RO32hFSccBxgZkxHxOwuo) | 3:50 | 2021-12-16 | 2022-03-11 |
@@ -85,7 +86,7 @@
 | [Breaking Up With A Friend](https://open.spotify.com/track/6Chhg96KqjbU3WU8GDEdsI) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Breaking Up With A Friend](https://open.spotify.com/album/3k8fo6a1vGdL9IVKkkeHRp) | 3:07 | 2022-04-01 | 2022-05-13 |
 | [Breathing](https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Breathing](https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH) | 2:33 | 2023-02-09 |  |
 | [Brev från botten](https://open.spotify.com/track/1cAwcnrI8oYYC4B1MMrrdr) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Brev från botten](https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2) | 3:10 | 2022-09-15 | 2022-10-16 |
-| [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 |  |
+| [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-04-06 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 |  |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |

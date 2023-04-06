@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 
-1,957 songs - 4 day 13 hr 52 min
+1,958 songs - 4 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,6 +966,7 @@
 | [Kahan \(Last Year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(Last Year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-19 | 2022-01-22 |
 | [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 | 2022-08-19 | 2022-10-22 |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2020-09-15 | 2021-04-03 |
+| [Karaoke Song](https://open.spotify.com/track/5fxhtFc0h2TZ7SpezVl9SY) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Karaoke Song](https://open.spotify.com/album/5TTTrEZ7oNZK10qmZp7MWw) | 3:32 | 2023-04-05 |  |
 | [Karlaplan](https://open.spotify.com/track/4Wm7v3q3zEAsh5wgyP7iE8) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Karlaplan](https://open.spotify.com/album/06Kk4K3I7aXSSzZ0HWQh1r) | 3:38 | 2020-09-16 | 2020-11-21 |
 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-04-17 | 2021-08-14 |
 | [Keep It Lo](https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Keep It Lo](https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ) | 2:33 | 2022-10-14 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: Sullivan King \\m/
 
-288 songs - 16 hr 35 min
+289 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Tormenta](https://open.spotify.com/track/5FMhAFg7cJqXsBxZ50e59O) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Tormenta](https://open.spotify.com/album/76T2WNMoqGig23FC6ZEwEh) | 3:19 | 2021-12-10 | 2022-06-25 |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-12-10 | 2022-06-25 |
 | [Trouble \(with Talk Show\)](https://open.spotify.com/track/4gPswM6V3BkFv0jXVm7lIP) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Trouble \(with Talk Show\)](https://open.spotify.com/album/5HCNTih9CVGnCUMwjepDjn) | 3:17 | 2022-04-01 | 2022-06-08 |
+| [Turn Me On](https://open.spotify.com/track/06OUxYW7Ck7Nav8iWp9600) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Turn Me On](https://open.spotify.com/album/6xL7AyotH5lcbJxLFvyiQE) | 2:43 | 2023-04-06 |  |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-02-03 |  |
 | [UH OH](https://open.spotify.com/track/05NuHlIajgAqYbzs6DNuHf) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [UH OH](https://open.spotify.com/album/7LlF6ZKs4lM3FUEDrqWmMp) | 3:15 | 2021-12-10 | 2022-04-20 |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-03-04 |  |
@@ -286,7 +287,7 @@
 | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-18 |  |
 | [War](https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [War](https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW) | 3:15 | 2023-01-30 |  |
 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 | 2022-02-25 |  |
-| [Watch Me Now \(feat\. Koda & VAAAL\)](https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Koda](https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu), [VAAAL](https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng) | [The Trip Out](https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b) | 3:21 | 2022-04-15 |  |
+| [Watch Me Now \(feat\. Koda & VAAAL\)](https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Koda](https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu), [VAAAL](https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng) | [The Trip Out](https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b) | 3:21 | 2022-04-15 | 2023-04-06 |
 | [We Did It!!!](https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 2:48 | 2021-12-10 | 2022-11-12 |
 | [We Got It](https://open.spotify.com/track/5AAiUVQeQ0fIDOTG6mc0Sq) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [We Got It](https://open.spotify.com/album/2J7UItkGL3R1GQVlAMCGSk) | 3:02 | 2021-12-10 | 2022-06-25 |
 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 | 2023-03-03 |  |

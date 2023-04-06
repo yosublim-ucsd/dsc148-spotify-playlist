@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 470870,
+  "num_followers": 470951,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMGNjYWYzZGY0YzIzOTQyY2E2ZGZlNjc2MzlkYTBmYmUy",
+  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMGY0NmU3MTMwMTkzMmY0NzNjNThlNTIzZWM0ZjlhM2I1",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+        "name": "Idlewild South (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
       },
       "artists": [
         {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 188066,
-      "name": "Hard To Handle",
-      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
+      "duration_ms": 180066,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Idlewild South (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2"
+      "duration_ms": 188066,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Heart Like A Wheel",
         "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
     },
     {
       "added_at": "2023-01-18 21:52:55",

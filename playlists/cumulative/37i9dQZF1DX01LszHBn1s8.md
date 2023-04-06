@@ -4,7 +4,7 @@
 
 > me sitting in an office making this playlist for you hoping yall will like it
 
-1,037 songs - 2 day 6 hr 34 min
+1,039 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-05-19 | 2022-10-07 |
 | [I Hope You Never Fall in Love Again](https://open.spotify.com/track/21c3VdDYCVluQnEOyOLjfe) | [KiD RAiN](https://open.spotify.com/artist/3JQMhGLU0F6IeOzlDZiUNW) | [I Hope You Never Fall in Love Again](https://open.spotify.com/album/4RLz2uf4PMtzuMMVQs9gap) | 2:03 | 2022-05-19 |  |
 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 | 2023-03-23 |  |
+| [I know it won't work \- Live](https://open.spotify.com/track/304UU8a3Zv0n06JGOUuJh0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I know it won't work \(Live\)](https://open.spotify.com/album/4iRWUVgDWkUoMPjz7YTXpy) | 3:46 | 2023-04-05 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-02 |  |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-23 |  |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-28 | 2023-01-06 |
@@ -574,7 +575,8 @@
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-19 |  |
 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-01 | 2023-01-06 |
 | [Maya](https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Maya](https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr) | 3:27 | 2022-12-29 | 2023-01-05 |
-| [Maybe My Soulmate Died](https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi) | 1:54 | 2022-11-24 |  |
+| [Maybe My Soulmate Died](https://open.spotify.com/track/5NBCTiyU4o57c3ClTFI3Wk) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/7AHXqAmIXflf6V96wJ33Q9) | 1:54 | 2023-03-23 |  |
+| [Maybe My Soulmate Died](https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi) | 1:54 | 2022-11-24 | 2023-04-06 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-06-15 | 2022-12-01 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-19 | 2022-10-14 |
 | [Me and Your Mama](https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 6:19 | 2022-10-06 |  |

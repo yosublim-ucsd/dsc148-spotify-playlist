@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Hadassah Perez",
-  "num_followers": 63262,
+  "num_followers": 63326,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGVkNjVkNTgyMjNjYzc2YzBmOWE4NGQyMjk3YjU0MGYx",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDRiZTYwMjdmZTM5NTZlZmZmNDAzODI5NDRhYjcyNjYw",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Daqui pra Frente",
         "url": "https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 271631,
       "name": "Daqui pra Frente",
       "url": "https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Leif Bessa - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 280235,
-      "name": "Caminhada",
-      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Leif Bessa - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 280235,
+      "name": "Caminhada",
+      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+        "name": "Tens o Meu Sim",
+        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Amanda Dutra",
+          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
         }
       ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+      "duration_ms": 224000,
+      "name": "Tens o Meu Sim",
+      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -683,34 +683,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Tens o Meu Sim",
-        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
       "artists": [
         {
-          "name": "Amanda Dutra",
-          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Tens o Meu Sim",
-      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Nasce o Sol (Remix)",
-        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Nasce o Sol - Remix",
-      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Nasce o Sol (Remix)",
+        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Nasce o Sol - Remix",
+      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "A Voz do Brasil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/59AQfJCPFSvEje7t1ocCaO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 180263,
       "name": "A Voz do Brasil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Manuscrito",
-        "url": "https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB"
-      },
-      "artists": [
-        {
-          "name": "JARDENYA",
-          "url": "https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66"
-        }
-      ],
-      "duration_ms": 223111,
-      "name": "Manuscrito",
-      "url": "https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 235997,
       "name": "Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Manuscrito",
+        "url": "https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB"
+      },
+      "artists": [
+        {
+          "name": "JARDENYA",
+          "url": "https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66"
+        }
+      ],
+      "duration_ms": 223111,
+      "name": "Manuscrito",
+      "url": "https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Teu Calor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 224083,
       "name": "Teu Calor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
     },
     {
       "added_at": "2023-03-24 03:00:00",

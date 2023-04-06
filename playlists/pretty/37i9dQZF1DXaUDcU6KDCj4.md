@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,727 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,842 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 3 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 |
 | 4 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 5 | [My Mind](https://open.spotify.com/track/7AKmC6zdD5NMMGbDO11wun) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [My Mind](https://open.spotify.com/album/4mvGNWKMezeXrEV6Wyh2XM) | 3:47 |
-| 6 | [just wanna forget you](https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 4:49 |
+| 6 | [just wanna forget you](https://open.spotify.com/track/19FBPoxwTB7kbMEcYsDGVr) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:49 |
 | 7 | [End of the Night](https://open.spotify.com/track/7MrpbCBInw4rkfLZ7v6jDU) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Frame](https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg) | 2:27 |
 | 8 | [Be Yourself](https://open.spotify.com/track/6P0actEG7h74NHvxqRB321) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 |
 | 9 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [End Scene](https://open.spotify.com/track/6unRqbvDOqlZMYIb0b2W4R) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [End Scene](https://open.spotify.com/album/41dMiuSKeuRHW6tDBEEb0g) | 6:30 |
 | 150 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDZhZWM5YWM2ODJiMDhiZGMxYmUwYzExNTdkNTYwMGMz`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDU0YWVlNmNiNGIxZDJkMjc2ZDAxNGJkMzE3MDYxODBi`

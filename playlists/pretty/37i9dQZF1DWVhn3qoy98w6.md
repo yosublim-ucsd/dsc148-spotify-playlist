@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Artistas independientes emergentes, cada miércoles\. Foto: yavy.
+> Artistas independientes emergentes, cada miércoles\. Foto: Pan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,990 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,016 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Misty](https://open.spotify.com/track/6DV3JQ9AF45ZFtEsnxO6rG) | [Sara Zozaya](https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n) | [Misty](https://open.spotify.com/album/66IdwSZMC88kbz1TjUpV7F) | 3:42 |
 | 50 | [Con tus manos](https://open.spotify.com/track/5t14YQKv7Qv6EEe0BHxiDn) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [Con tus manos](https://open.spotify.com/album/4lC2woIOgiD2mlss3Odg8f) | 3:24 |
 
-Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMDhkY2ZmY2RjZmExZDQyYjUyODIzYmJiZGY0MDA5MGQz`
+Snapshot ID: `MTY4MDY3ODA2NCwwMDAwMDAwMDZjNzhhMzBjYTNjNzI1NDY2ZWNiYjJmMDk0ZmY1OTFh`

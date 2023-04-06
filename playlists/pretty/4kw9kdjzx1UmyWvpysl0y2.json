@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127096,
+  "num_followers": 127091,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDEwMyxmZGFlNjg3NzE0YzU2MDhiYzk3MzQ5NjBlNjkyNGJiYzQyY2NkNDk5",
+  "snapshot_id": "NDEwNixlNTA3NTNmZWJjYWUyNTExOThmYjAwNWI5NmMxNjk1NWUwN2U2YTc3",
   "tracks": [
+    {
+      "added_at": "2023-04-05 17:07:16",
+      "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 176444,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5"
+    },
     {
       "added_at": "2023-04-04 16:26:07",
       "album": {
@@ -1087,22 +1103,6 @@
       "duration_ms": 204482,
       "name": "Get Through",
       "url": "https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW"
-    },
-    {
-      "added_at": "2023-01-23 08:32:18",
-      "album": {
-        "name": "Marea Turquesa",
-        "url": "https://open.spotify.com/album/2z7jQZ0dnfYMErTg4CVnp4"
-      },
-      "artists": [
-        {
-          "name": "Flexible Fire",
-          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Marea Turquesa",
-      "url": "https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: BAWDIES
 
-566 songs - 1 day 13 hr 41 min
+568 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [As long as I love](https://open.spotify.com/track/4Ffc5nmb7MkNyLLpSAH2er) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [As long as I love / Scratch](https://open.spotify.com/album/0MSYKvvoxhGFpMykGLUCVF) | 4:10 | 2022-06-02 | 2022-07-28 |
 | [August](https://open.spotify.com/track/2iORIDxw0qWn5ezfmG4Crv) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [August](https://open.spotify.com/album/6jMFeJN63salxChERxBq2z) | 3:52 | 2022-09-15 | 2022-10-05 |
 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 | 2022-05-24 | 2022-08-31 |
-| [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 | 2023-02-14 |  |
+| [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 | 2023-02-14 | 2023-04-06 |
 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 | 2022-07-12 |  |
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 |  |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/13rKSOM1pQ3JFs7WQrlwxu) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:41 | 2022-11-22 | 2022-11-24 |
@@ -39,7 +39,8 @@
 | [BLACK TOWN \- Acoustic Version](https://open.spotify.com/track/0R4IVPXo99eHM52nvT23tn) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [BLACK TOWN \(Acoustic Version\)](https://open.spotify.com/album/4Uko8iIzKup2aamDdaCUyx) | 4:09 | 2022-05-12 | 2022-05-24 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 | 2023-03-22 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2023-02-08 |
-| [Boogie Woogie](https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU) | 3:57 | 2023-04-04 |  |
+| [Boogie Woogie](https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU) | 3:57 | 2023-04-04 | 2023-04-06 |
+| [Boogie Woogie](https://open.spotify.com/track/5cjc6nSoDwQSSYDpv1AEK5) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/6wFmiLqNWEe3jvu5I9gZkJ) | 3:57 | 2023-04-04 |  |
 | [Boots](https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Boots](https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh) | 3:22 | 2022-05-24 | 2022-07-14 |
 | [BOY 2022](https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [BOY 2022](https://open.spotify.com/album/3PGIfAOfGxRg5jTvZRXC8s) | 4:45 | 2022-08-23 | 2022-09-15 |
 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 | 2023-03-21 |  |
@@ -154,7 +155,7 @@
 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-28 |  |
 | [Light It Up](https://open.spotify.com/track/27H9AHFWDxMjxbUzIAzqwg) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light It Up](https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd) | 3:10 | 2022-09-08 | 2022-11-02 |
 | [Light it up](https://open.spotify.com/track/2vMoL8XqftPhCFE38Z8abj) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light it up](https://open.spotify.com/album/4sVEnfI07lxARCXUyTtZ6q) | 3:10 | 2022-09-08 | 2022-09-10 |
-| [Lightning\-Syndrome](https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY) | 3:39 | 2023-03-28 | 2023-04-05 |
+| [Lightning\-Syndrome](https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY) | 3:39 | 2023-03-28 |  |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-02-28 | 2023-04-05 |
 | [Live or Die](https://open.spotify.com/track/6I1eiMvVLb4xS5TgSdfa2O) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Live or Die](https://open.spotify.com/album/4a4v5WK42X49fBKtWcUtpE) | 2:57 | 2022-06-14 | 2022-06-20 |
 | [Lonely Girl, Dreaming Girl](https://open.spotify.com/track/6oHJLXkgQIlpoTD0vMbX0r) | [PORTABLE ROCK](https://open.spotify.com/artist/1vKnlXAnuztfdvpAsZ3yDg) | [Lonely Girl, Dreaming Girl](https://open.spotify.com/album/6TaeLymFoZzPRnxBgSzkSy) | 3:43 | 2022-05-10 | 2022-05-18 |
@@ -225,7 +226,8 @@
 | [REBORN](https://open.spotify.com/track/3EMplgOM0a9IPsDckKBPWk) | [Tsuyoshi Nagabuchi](https://open.spotify.com/artist/5hHNaYRpbcz1qo09jeVcg8) | [REBORN](https://open.spotify.com/album/1EAgEUIDCIrmB6eDoAORGX) | 4:36 | 2022-05-19 | 2022-06-17 |
 | [Recall](https://open.spotify.com/track/1yWFRDAZKc7meT6dHxnhEq) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [ANSWER](https://open.spotify.com/album/12VTEljum1oSE0Tn0VlLVV) | 3:28 | 2022-05-12 | 2022-07-28 |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-05-10 | 2022-06-01 |
-| [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 |  |
+| [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 | 2023-04-06 |
+| [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 |  |
 | [Ring Em Up](https://open.spotify.com/track/7hCeKuxSSVEQ8qvisUXcnR) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Ring Em Up](https://open.spotify.com/album/1BTy9dpLQhW3ITJM7yMv5O) | 3:03 | 2022-11-19 | 2022-11-23 |
 | [ROCKIN' FROM THE GRAVE](https://open.spotify.com/track/4JWHBf2cmwGLiUwT1fsW5g) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [FREAKS IN THE GARAGE \- EP](https://open.spotify.com/album/4g1lt4vvZIwRr6nubqmpm8) | 3:05 | 2022-05-24 | 2022-06-01 |
 | [Rolling Thunder Baby](https://open.spotify.com/track/2dFT2rdGLqIYAModMWFvBR) | [Rockon Social Club](https://open.spotify.com/artist/597cgbM5AF6IgCGKlZLEru) | [1988](https://open.spotify.com/album/0MfnIe4mQ2XaPNYAJkpaw0) | 3:41 | 2023-03-26 | 2023-04-05 |

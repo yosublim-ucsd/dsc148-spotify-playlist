@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 135223,
+  "num_followers": 135410,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDNmNGQwOGYwNWM5ODUyOTRiMzM1ZDA3MmZkYzQwMDQ1",
+  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMGJiOGI1MTlmNmRkNGJiZmM3OTdhZTNjN2IxZWI1MTQ4",
   "tracks": [
     {
       "added_at": "2023-03-23 23:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 280529,
-      "name": "Don't Think Twice, It's Alright",
-      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "The New Sound of Brazil",
         "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 189306,
       "name": "Manha de Carnaval",
       "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 280529,
+      "name": "Don't Think Twice, It's Alright",
+      "url": "https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Jazz + Bossa",
+        "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen",
+          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "In a mellow tone",
+      "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Drivers License (Bossa Nova)",
         "url": "https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 248253,
       "name": "Drivers License - Bossa Nova",
       "url": "https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Prelude In E Minor",
-      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Jazz + Bossa",
-        "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
       "artists": [
         {
-          "name": "Delicatessen",
-          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
         }
       ],
-      "duration_ms": 187613,
-      "name": "In a mellow tone",
-      "url": "https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg"
+      "duration_ms": 256533,
+      "name": "Prelude In E Minor",
+      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 205502,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "P\u00e3o de A\u00e7\u00facar",
         "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 222402,
       "name": "P\u00e3o de A\u00e7\u00facar",
       "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Cosme Velho",
-        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 173943,
-      "name": "Cosme Velho",
-      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
       },
@@ -1003,22 +987,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Green Grapes",
         "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
       },
@@ -1035,6 +1003,38 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Cosme Velho",
+        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 173943,
+      "name": "Cosme Velho",
+      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 230750,
       "name": "how insensitive",
       "url": "https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Chega de Saudade / O Amor o Sorriso e a Flor / Jo\u00e3o Gilberto (1961) [Ultimate Mix]",
+        "url": "https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 122773,
+      "name": "Chega de Saudade - Ultimate Mix",
+      "url": "https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Chega de Saudade / O Amor o Sorriso e a Flor / Jo\u00e3o Gilberto (1961) [Ultimate Mix]",
-        "url": "https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb"
+        "name": "Mestre Sala",
+        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
         }
       ],
-      "duration_ms": 122773,
-      "name": "Chega de Saudade - Ultimate Mix",
-      "url": "https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X"
+      "duration_ms": 305006,
+      "name": "Maua",
+      "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1199,38 +1215,6 @@
       "duration_ms": 137800,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "S'Wonderful",
-      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Mestre Sala",
-        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Olivieira",
-          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
-        }
-      ],
-      "duration_ms": 305006,
-      "name": "Maua",
-      "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "S'Wonderful",
+      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o Madura",
         "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
       },
@@ -1299,6 +1299,38 @@
       "duration_ms": 120810,
       "name": "Cora\u00e7\u00e3o Madura",
       "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Summer Samba! - Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 136066,
+      "name": "De Conversa Em Conversa",
+      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Bel\u00ea",
+        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
+      },
+      "artists": [
+        {
+          "name": "Affonsinho",
+          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Aquela Bossa Ax\u00e9",
+      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1323,38 +1355,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Bel\u00ea",
-        "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
-      },
-      "artists": [
-        {
-          "name": "Affonsinho",
-          "url": "https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Aquela Bossa Ax\u00e9",
-      "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 307520,
-      "name": "Fusion",
-      "url": "https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Lembran\u00e7as",
         "url": "https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 244711,
       "name": "Lembran\u00e7as",
       "url": "https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Summer Samba! - Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 136066,
-      "name": "De Conversa Em Conversa",
-      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "I've Never Been in Love Before",
+        "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 236677,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "I've Never Been in Love Before",
-        "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU"
       },
       "artists": [
         {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
         }
       ],
-      "duration_ms": 236677,
-      "name": "I've Never Been in Love Before",
-      "url": "https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz"
+      "duration_ms": 307520,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
+      },
+      "artists": [
+        {
+          "name": "Lighthouse Lounge Band",
+          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
+        }
+      ],
+      "duration_ms": 263536,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 271584,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
-      },
-      "artists": [
-        {
-          "name": "Lighthouse Lounge Band",
-          "url": "https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc"
-        }
-      ],
-      "duration_ms": 263536,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1639,42 +1639,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Studio Rio Presents: The Brazil Connection",
-        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Studio Rio",
-          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "You've Changed - Studio Rio Version",
-      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "Que Reste-t-il de nos Amours",
-      "url": "https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
       },
@@ -1707,22 +1671,38 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Que Reste-t-il de nos Amours",
+      "url": "https://open.spotify.com/track/4p0UoEtE573xvUQclWvJoU"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         },
         {
           "name": "Studio Rio",
           "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
         }
       ],
-      "duration_ms": 293280,
-      "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
-      "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
+      "duration_ms": 226906,
+      "name": "You've Changed - Studio Rio Version",
+      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1739,6 +1719,26 @@
       "duration_ms": 172162,
       "name": "Verano",
       "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Studio Rio Presents: The Brazil Connection",
+        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Studio Rio",
+          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+        }
+      ],
+      "duration_ms": 293280,
+      "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
+      "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "North Carolina",
+        "url": "https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81"
+      },
+      "artists": [
+        {
+          "name": "Henry Albert Trio",
+          "url": "https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm"
+        }
+      ],
+      "duration_ms": 174439,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "We Could Be Lovers",
         "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 208773,
       "name": "Quoi, Quoi, Quoi",
       "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
     }
   ],
   "unique_name": "Bossa Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,704 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,722 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/4kE5gZGXZ6kWmsrD8N2n8u) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 4:01 |
 | 7 | [Auto Salon](https://open.spotify.com/track/5Xw5KbzT7LuvTv07LukrOE) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Auto Salon](https://open.spotify.com/album/4osvPLfw5tgtAbdxO6pp7q) | 2:33 |
 | 8 | [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 |
-| 9 | [Take Me](https://open.spotify.com/track/5U0bTkHatvWGP1B5SGC96X) | [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI) | [Take Me](https://open.spotify.com/album/6pRRFvLRqDQUYH8CDjGZ9E) | 3:20 |
+| 9 | [Take Me](https://open.spotify.com/track/6YcHYJZq0fyqU41rlpIoh9) | [Boy Sim](https://open.spotify.com/artist/3bfT2u8Dz3hoSDvSZ8KyqH), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Pink Noise](https://open.spotify.com/album/45h2tvlBBKHQe7d5p0uSNU) | 3:20 |
 | 10 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 11 | [Girls Night Out](https://open.spotify.com/track/7jspeyAKVWaBYvPGPe6u46) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Girls Night Out](https://open.spotify.com/album/1JAutav4UH5YKUyuixDkRH) | 3:41 |
 | 12 | [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 44 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
 | 45 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/2DyongA2O2BVHxmOqgCreE) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Sweat \(SOPHIE Remix\)](https://open.spotify.com/album/3jlEeZAHKsFfVqUHIfljkN) | 4:18 |
 | 46 | [Legendary Member](https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Legendary Member](https://open.spotify.com/album/7hpf92OLaz5UgW71sPMkaQ) | 2:35 |
-| 47 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
+| 47 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
 | 48 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 49 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 |
 | 50 | [Confusion \- Pump Panel Reconstruction Mix](https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 10:12 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGMxOTI0ZDAxNDhiMmMyMzMyOTQ0MzBmNTI5MjdmZjIz`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDI1OTFlZTM5YzVhNjMzNjYwYWViNGYzNmY1NTkwYmY4`

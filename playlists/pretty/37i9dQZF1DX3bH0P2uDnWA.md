@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,258 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,483 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 33 | [Ma Che Bella Compagnia](https://open.spotify.com/track/7MyWJygAJSDHHCuUYQjLij) | [Melania](https://open.spotify.com/artist/4BgqxhBc4xQYh4LtvsdY1j), [Christian Lisi](https://open.spotify.com/artist/2Y5F7YnM8WtYuFgedTtrXW) | [Ma Che Bella Compagnia](https://open.spotify.com/album/6mMymPze76dt6udn3DvpID) | 3:01 |
 | 34 | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/7n313qSyFyOyFMvWNhS0nV) | 2:26 |
 | 35 | [Empires](https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2) | 3:10 |
-| 36 | [Wake Up Romeo](https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk) | 3:27 |
+| 36 | [Wake Up Romeo](https://open.spotify.com/track/54Sy4fzAjNcbZqHoxg1P8o) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/7nZAd0voTDwEStlE6ACj06) | 3:27 |
 | 37 | [Fever \- Radio edit](https://open.spotify.com/track/4fCYVbqX8lhTwVDsJgQNsh) | [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV), [Lawrence Lea](https://open.spotify.com/artist/7HY2ElxV3XKvuodmsERq8S) | [Fever \(Electro Swing\)](https://open.spotify.com/album/34HqFpcIpMmgGuy2bxCEif) | 3:09 |
 | 38 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
 | 39 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 |
 | 120 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDQ3NTFmZTRhODBmMDgxY2Y2YWU1MTQ3ZDE0YTczNjk1`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDc1NTY0MDQ5MjA1ZWNjZjQxZTQyM2QzMzMzZTFjNTEx`

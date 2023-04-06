@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. LKJ e Voleur Pnz in cover.
 
-491 songs - 21 hr 21 min
+492 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [GORILLA\#1](https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [GORILLA\#1](https://open.spotify.com/album/1nsRK8s3uXIw0dNGN3rWAF) | 2:38 | 2022-05-10 | 2022-06-23 |
 | [GRA](https://open.spotify.com/track/4VRirVonlTpWDjIZBwqALo) | [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [GRA](https://open.spotify.com/album/0EPDrZtlH0TSj42kpu7Tnx) | 2:51 | 2022-09-29 | 2022-10-14 |
 | [GRAMMELOT](https://open.spotify.com/track/545TC3eBWOStLmvbF48dGZ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [GRAMMELOT](https://open.spotify.com/album/7gsX8aKhYjccPaGyN4XqOm) | 1:36 | 2022-05-10 | 2022-05-13 |
+| [Grazie, Addio](https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:36 | 2023-04-05 |  |
 | [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 | 2023-03-15 |  |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-10 | 2022-09-30 |
 | [HALO MONSIEUR](https://open.spotify.com/track/6K2rrsC179D8tIDJIlws9t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [HALO MONSIEUR](https://open.spotify.com/album/04Qyq05nMkhB62qURUJk4j) | 3:01 | 2023-01-12 | 2023-02-10 |

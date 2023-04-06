@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Giulia Tess
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,817 likes - 128 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,874 likes - 128 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

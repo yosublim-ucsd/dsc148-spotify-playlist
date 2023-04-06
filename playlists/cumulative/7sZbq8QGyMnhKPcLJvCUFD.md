@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-234 songs - 11 hr 53 min
+235 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 |  |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 |  |
 | [If I Disappear](https://open.spotify.com/track/5mIcxmKHXnhY1lJJDKJGxW) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/0QefDAEkbSEFUIXkbgZAl7) | 3:28 | 2022-05-06 |  |
+| [Ignite](https://open.spotify.com/track/4KucTjdHBmBQnWDuBEkx5x) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe), [22 Void Beats](https://open.spotify.com/artist/7HSsXPuibnpm1vpFZLQPIL), [Nat James](https://open.spotify.com/artist/0kARaGLd8qru6OU5yCMHeK) | [Ignite](https://open.spotify.com/album/5TIQMdZH1peU8YK8tTyAdm) | 2:50 | 2023-04-05 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 |  |
 | [ILY](https://open.spotify.com/track/1CODxPEoQv5e0yJuOiLvbj) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:40 | 2022-12-07 |  |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 |  |

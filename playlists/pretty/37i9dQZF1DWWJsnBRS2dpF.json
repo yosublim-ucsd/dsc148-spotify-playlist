@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 20748,
+  "num_followers": 20821,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTI4NCwwMDAwMDAwMDVmYTVkMGM3YWJiNDYzNmI2ZTQ4ZTIwODcxMjcxOWUw",
+  "snapshot_id": "MTY2NDY0MTI4NCwwMDAwMDAwMDI2OGU0YjU2ZDRiYWUyNGEyM2NkYzQ3ZjI2MTJkNzhj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Personal Conversation",
         "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 229773,
       "name": "Faded Pictures",
       "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
     },
     {
       "added_at": "2022-10-01 16:21:24",

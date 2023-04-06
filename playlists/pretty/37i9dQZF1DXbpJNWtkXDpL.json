@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 68152,
+  "num_followers": 68157,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDcxYzRhZmEwZDU1NjVkOGIyZGFhOGNlNDBmODkwOTIz",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMGUzNjZkYmI4MDFkNjc3NGVjYzg5NDUzMmVhYjUwZTJh",
   "tracks": [
     {
       "added_at": "2023-01-11 06:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+      "duration_ms": 174286,
+      "name": "Hoy Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
     },
     {
       "added_at": "2022-08-01 05:00:00",
@@ -259,22 +259,6 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174286,
-      "name": "Hoy Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -301,6 +285,22 @@
       "url": "https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Soy de Sinaloa",
+        "url": "https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 161690,
+      "name": "Soy de Sinaloa",
+      "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
+    },
+    {
       "added_at": "2022-09-28 18:37:25",
       "album": {
         "name": "Darte Un Beso - Spotify Singles",
@@ -317,20 +317,20 @@
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
+      "added_at": "2022-06-20 16:54:02",
       "album": {
-        "name": "Soy de Sinaloa",
-        "url": "https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2"
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
       },
       "artists": [
         {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 161690,
-      "name": "Soy de Sinaloa",
-      "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-09-09 02:13:33",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
-      "added_at": "2022-06-20 16:54:02",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+        "name": "Un Viaje Diferente",
+        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
         }
       ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+      "duration_ms": 222693,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Un Viaje Diferente",
-        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
+        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
       "artists": [
         {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 222693,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
+      "duration_ms": 196363,
+      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -499,22 +499,6 @@
       "duration_ms": 137400,
       "name": "Olvidarte",
       "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Confirmo (En Vivo)",
+        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Confirmo - En Vivo",
+      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "no me caigo tan bien",
         "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 208443,
       "name": "no me caigo tan bien",
       "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Confirmo (En Vivo)",
-        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Confirmo - En Vivo",
-      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -849,6 +833,26 @@
       "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
+    },
+    {
       "added_at": "2022-09-09 13:11:20",
       "album": {
         "name": "Uno Que Tropieza Y Cae Al Mar",
@@ -867,18 +871,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Tumbando Avi\u00f3n",
-        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
+        "name": "Fosis Met Amor",
+        "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Tumbando Avi\u00f3n",
-      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
+      "duration_ms": 192150,
+      "name": "un sue\u00f1o raro",
+      "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
     },
     {
       "added_at": "2022-05-13 21:33:14",

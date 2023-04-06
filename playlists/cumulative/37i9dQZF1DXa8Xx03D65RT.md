@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-581 songs - 1 day 0 hr 42 min
+582 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2022-05-27 | 2023-04-05 |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-05-27 |  |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2022-05-27 |  |
+| [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 | 2023-04-06 |  |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 |  |
 | [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2022-05-27 | 2022-09-24 |
 | [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2022-05-27 | 2022-09-24 |
@@ -484,7 +485,7 @@
 | [Sylt](https://open.spotify.com/track/47ZVnhHUPUZZdiNps6bDRe) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Sylt](https://open.spotify.com/album/39FnGnwBVSFWcA15cUGrPW) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [Symbiosis](https://open.spotify.com/track/4dc6eq2N9fGfdBGtIGZu3N) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Symbiosis](https://open.spotify.com/album/0UzYG373TFPwHolTWMHhHf) | 2:29 | 2022-05-27 |  |
 | [Tanken för oss vidare](https://open.spotify.com/track/3C4ZKKPtMbexPnb09lPB6n) | [Melvin Norberg](https://open.spotify.com/artist/4RchcrG8Z6KMGWob3D8Oe0) | [Tanken för oss vidare](https://open.spotify.com/album/6Elc1jsVKdtmqIbnCc0rij) | 2:11 | 2022-05-27 | 2023-01-25 |
-| [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-05-27 |  |
+| [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-05-27 | 2023-04-06 |
 | [Tempo dell’Oceano](https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk) | [Baldo Aquila](https://open.spotify.com/artist/0CIRMCbCwPFFmfpBSWVqWa) | [Tempo dell’Oceano](https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr) | 2:24 | 2022-05-27 |  |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2022-05-27 | 2022-09-24 |
 | [The Calm I Feel With You](https://open.spotify.com/track/79ipXyEKejaMsqMc3VMwYA) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Calm I Feel With You](https://open.spotify.com/album/0XKTyN8365BXT1ONPgtGDZ) | 2:24 | 2022-05-27 | 2022-09-24 |

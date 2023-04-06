@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 17319,
+  "num_followers": 17329,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMDczNmZhN2Y4MzdhYTA5MmZiN2FkOTA3N2YxNjFmNTBl",
+  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMDI4ZDM5OGYzYWU2NjkwOGJhZDZmYTllNjFiYWZkNDMz",
   "tracks": [
     {
       "added_at": "2023-03-31 03:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
+      },
+      "artists": [
+        {
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+        }
+      ],
+      "duration_ms": 104727,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
         "name": "Vintage Futurista",
         "url": "https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Cl\u00e1sico",
-        "url": "https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G"
-      },
-      "artists": [
-        {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
-        }
-      ],
-      "duration_ms": 232639,
-      "name": "Fluir",
-      "url": "https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 202554,
       "name": "Universos Paralelos",
       "url": "https://open.spotify.com/track/4QLokwnp4RMWpofhjj1zH6"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "duration_ms": 232639,
+      "name": "Fluir",
+      "url": "https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
+        "name": "Suavemente Entusiasmado",
+        "url": "https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ"
       },
       "artists": [
         {
-          "name": "KAKTOV",
-          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
         }
       ],
-      "duration_ms": 104727,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
+      "duration_ms": 236445,
+      "name": "Suavemente Entusiasmado",
+      "url": "https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Suavemente Entusiasmado",
-        "url": "https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 236445,
-      "name": "Suavemente Entusiasmado",
-      "url": "https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Deseo Permanente",
         "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 344434,
       "name": "Deseo Permanente",
       "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
+        }
+      ],
+      "duration_ms": 255860,
+      "name": "Los D\u00edas Que No Est\u00e1s",
+      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -743,26 +763,6 @@
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 255860,
-      "name": "Los D\u00edas Que No Est\u00e1s",
-      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
+      },
+      "artists": [
+        {
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+        }
+      ],
+      "duration_ms": 153710,
+      "name": "Toxi",
+      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
         "name": "Sin Condiciones",
         "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 314026,
       "name": "Ultravioleta",
       "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
-        "name": "Savia Roja",
-        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
-      },
-      "artists": [
-        {
-          "name": "Las Luces Primeras",
-          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
-        }
-      ],
-      "duration_ms": 153710,
-      "name": "Toxi",
-      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Lmirl",
-        "url": "https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA"
-      },
-      "artists": [
-        {
-          "name": "The Otherness",
-          "url": "https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs"
-        }
-      ],
-      "duration_ms": 164154,
-      "name": "She Feels the Soul",
-      "url": "https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Curriculum Completo",
         "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Lmirl",
+        "url": "https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA"
+      },
+      "artists": [
+        {
+          "name": "The Otherness",
+          "url": "https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs"
+        }
+      ],
+      "duration_ms": 164154,
+      "name": "She Feels the Soul",
+      "url": "https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Sigo Dando Amor",
         "url": "https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 281750,
       "name": "Sigo Dando Amor",
       "url": "https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 203892,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Dentro",
         "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 145000,
       "name": "Dentro",
       "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 203892,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
-      },
-      "artists": [
-        {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
-    },
-    {
-      "added_at": "2023-03-31 03:00:00",
-      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "no s\u00e9 qui\u00e9n soy",
-        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
       },
       "artists": [
         {
-          "name": "K4",
-          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
         }
       ],
-      "duration_ms": 128047,
-      "name": "no s\u00e9 qui\u00e9n soy",
-      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 184186,
       "name": "Bailando tristes",
       "url": "https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi"
+    },
+    {
+      "added_at": "2023-03-31 03:00:00",
+      "album": {
+        "name": "no s\u00e9 qui\u00e9n soy",
+        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
+      },
+      "artists": [
+        {
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
+        }
+      ],
+      "duration_ms": 128047,
+      "name": "no s\u00e9 qui\u00e9n soy",
+      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
     }
   ],
   "unique_name": "6PM Indie",

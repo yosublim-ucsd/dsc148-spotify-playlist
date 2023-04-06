@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 16 | [Dive](https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:35 |
 | 17 | [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 |
 | 18 | [Sleeping Over](https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:13 |
-| 19 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
+| 19 | [An Island](https://open.spotify.com/track/677aexYSCY66OqFPoVhA57) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:14 |
 | 20 | [Better Friend](https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 4:17 |
 | 21 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 |
 | 22 | [Wondrous Heart](https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:11 |
-| 23 | [An Island](https://open.spotify.com/track/677aexYSCY66OqFPoVhA57) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:14 |
+| 23 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
 | 24 | [Honest To God](https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
 | 25 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDBiZjhjNTliOWZhZTA2ODdiYzI2NzU0NGI3M2I2ZGFkZQ==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDBjOGE4Y2I5NGZkYmE5NGY5OWFjODMwNDFjNWQzOTA5OQ==`

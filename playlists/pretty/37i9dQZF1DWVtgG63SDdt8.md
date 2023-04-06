@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l?si=Qv4wIGwsSsCa1fsU\-ZB\-sw">Donald Lawrence</a>, <a href="https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11?si=9Dv7WZRmQ9KJkHcZV22R2w">Yolanda Adams</a>, and <a href="https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH?si=f92e16257f29406d">Twinkie Clark</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,836 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,925 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
 | 22 | [Can't Outrisk \- Live At The Kessler](https://open.spotify.com/track/3ZkHlssMr0z9kbFQJgGz3k) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Can't Outrisk](https://open.spotify.com/album/7o32As9td5E0QldRpvwSdu) | 8:16 |
 | 23 | [Behold Our God \- Live at WorshipGod](https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Behold Our God \(Live at WorshipGod\)](https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa) | 5:40 |
-| 24 | [Even \(I'll Still Praise\) \- Live](https://open.spotify.com/track/4M8CIeWwN0U96IbfF2DX0n) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Even \(I'll Still Praise\)](https://open.spotify.com/album/3b5v835rvyn8eX3F8QP72k) | 3:30 |
+| 24 | [Even \(I'll Still Praise\) \- Live](https://open.spotify.com/track/4M8CIeWwN0U96IbfF2DX0n) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn) | [Even \(I'll Still Praise\) \[Live\]](https://open.spotify.com/album/3b5v835rvyn8eX3F8QP72k) | 3:30 |
 | 25 | [Passover](https://open.spotify.com/track/1OEYp2vsKDMzFDaSKhmUI6) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Passover](https://open.spotify.com/album/5x1XgyxokEpdrpP8Rp2TXP) | 5:51 |
 | 26 | [All Things Together](https://open.spotify.com/track/3OVJrF9qJMbsp1bDGIemAo) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [All Things Together](https://open.spotify.com/album/6xcUNVJplVlCGa4eVdcAcF) | 5:19 |
 | 27 | [Already Won \(Live at MOTION 2022\)](https://open.spotify.com/track/1SWRgK0fQKwJRLVjlF8TcZ) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In), [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Already Won \(Live at MOTION 2022\)](https://open.spotify.com/album/3wGwckUWqUdUkobBhaZWAE) | 4:12 |

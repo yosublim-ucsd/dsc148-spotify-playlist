@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Becky G & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,550 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,661 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 31 | [Machaca de Venado](https://open.spotify.com/track/6bhBvA1Fo0hYUNSt4gSADV) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Machaca de Venado](https://open.spotify.com/album/0WPhYim5t2nIBgMcXJ6fls) | 3:07 |
 | 32 | [Vida Rockstar](https://open.spotify.com/track/2GJR2cQxVkHqMT6ESjveSE) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Vida Rockstar](https://open.spotify.com/album/0pmTrXqQZR0eOfLvia5dZn) | 2:33 |
 | 33 | [Una En Un Millón](https://open.spotify.com/track/3V50ItmSQM9JhMvaNVR03g) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [Una En Un Millón](https://open.spotify.com/album/0vYtQehYP7Ntqk3iEL4Xel) | 3:29 |
-| 34 | [Se Va Morir El Perro](https://open.spotify.com/track/2ZnITWH8QTb9Ts8cmtIqaZ) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Desde El Ensayo, Vol\. 2](https://open.spotify.com/album/795mI12AdgnoXfFUdFePcL) | 3:17 |
+| 34 | [Se Va Morir Ese Perro](https://open.spotify.com/track/2ZnITWH8QTb9Ts8cmtIqaZ) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Desde El Ensayo, Vol\. 2](https://open.spotify.com/album/795mI12AdgnoXfFUdFePcL) | 3:17 |
 | 35 | [El Chupa](https://open.spotify.com/track/5iTUaRIGH3hStk61HtmyRb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Chupa](https://open.spotify.com/album/11wXq8NPbPeuhfxi6mZNVa) | 3:17 |
 | 36 | [La Piedra en el Zapato \- En Vivo](https://open.spotify.com/track/2tIf1WNMYZ8cSHk0QEmJOp) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [Desde Los Sitios \(En Vivo\)](https://open.spotify.com/album/4cTnkLIEPL7s4mCClTNTCJ) | 2:43 |
 | 37 | [Quien Dijo \- En Vivo](https://open.spotify.com/track/2bC65mCjZ4KJWNVFJZpLqt) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Quien Dijo](https://open.spotify.com/album/1uaoQ0lMK54hps9MZTP6f5) | 2:15 |

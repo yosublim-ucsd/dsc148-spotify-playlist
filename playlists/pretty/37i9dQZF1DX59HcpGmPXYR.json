@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Tove Lo",
-  "num_followers": 628505,
+  "num_followers": 628565,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDliMjI3MWEwMzhiZGI4YTE0NzZlMTIyOWQyMGI0MzVk",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMGQ2YTA5MWQ4YzFmZDU4ZTMzNzc2MWRmZTA0ZWEzYTky",
   "tracks": [
     {
       "added_at": "2023-01-24 14:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Cut To The Feeling",
         "url": "https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 207959,
       "name": "Cut To The Feeling",
       "url": "https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2023-01-24 14:00:00",

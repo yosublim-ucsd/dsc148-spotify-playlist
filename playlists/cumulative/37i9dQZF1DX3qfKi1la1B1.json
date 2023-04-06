@@ -1475,6 +1475,28 @@
     },
     {
       "album": {
+        "name": "Make Me Me",
+        "url": "https://open.spotify.com/album/7gwA2KDKOKoPgQRJMoWsZ2"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "Grand Salvo",
+          "url": "https://open.spotify.com/artist/1FiSrNywfLIXqMjB1fTfVh"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236569,
+      "name": "Make Me Me",
+      "url": "https://open.spotify.com/track/569UadBl6Ivq7BqUsWp0va"
+    },
+    {
+      "album": {
         "name": "Make My Way Back Home",
         "url": "https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42"
       },
@@ -1516,7 +1538,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 238573,
       "name": "Makes Me Me",
       "url": "https://open.spotify.com/track/15CXnDpIKFFDgL3cx86CgW"

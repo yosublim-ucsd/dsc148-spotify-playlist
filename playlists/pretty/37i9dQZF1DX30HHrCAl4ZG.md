@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Royel Otis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,414 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,429 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 5 | [Cannonball](https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:05 |
 | 6 | [Until I Know](https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Until I Know](https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1) | 3:23 |
 | 7 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 |
-| 8 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
-| 9 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 |
-| 10 | [Driving](https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Driving](https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m) | 3:09 |
+| 8 | [Driving](https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Driving](https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m) | 3:09 |
+| 9 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
+| 10 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 |
 | 11 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 |
 | 12 | [Anti\-Curse](https://open.spotify.com/track/4LOg3dKvCAJiF9NYC7YqzG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:18 |
 | 13 | [you don't think about me](https://open.spotify.com/track/7zYgEjgM8wp0m1e3qsFFDS) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [you don't think about me](https://open.spotify.com/album/1kRSZ6Zcq9hNba4h7PWwMi) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 |
 | 100 | [Buzzed](https://open.spotify.com/track/2TNfI1TGo40RpRfvIuI2zO) | [Caroline Culver](https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0) | [Buzzed](https://open.spotify.com/album/68bbtsnWT7V3jOx4iGlxYq) | 2:57 |
 
-Snapshot ID: `MTY4MDUyNjQxMywwMDAwMDAwMGIxZjE2ZjY3YmY0OGNhNjQ3YThhOTQ3MDkwNGYxZWE4`
+Snapshot ID: `MTY4MDcwODMyMSwwMDAwMDAwMDgxYzJlZWM4NjIwMGU1MmYzZWE4ZDlhMjc1MDA4YmJl`

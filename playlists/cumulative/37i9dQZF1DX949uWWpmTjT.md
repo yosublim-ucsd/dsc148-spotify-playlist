@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-500 songs - 1 day 10 hr 30 min
+501 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-02-23 |  |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-19 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-10 |  |
-| [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2021-12-03 |  |
+| [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2021-12-03 | 2023-04-06 |
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-03-02 |  |
 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 | 2023-02-23 |  |
 | [Cherokee](https://open.spotify.com/track/0sS3JwPSdyWg3d52KnPLsJ) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:22 | 2022-06-03 | 2023-04-05 |
@@ -213,6 +213,7 @@
 | [In A Mellow Tone](https://open.spotify.com/track/6PtMY654POS9nizEBvrdPD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:10 | 2021-12-03 |  |
 | [In a Sentimental Mood](https://open.spotify.com/track/4nwPv8i1VJlgkiy8vTfGzA) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [In a Sentimental Mood](https://open.spotify.com/album/51mMHyLtEz8eQoNGEtwwL1) | 6:23 | 2022-06-09 | 2022-09-25 |
 | [In a Sentimental Mood](https://open.spotify.com/track/7hqUrALWgNQzuqyZGGitUI) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Divine Beasts](https://open.spotify.com/album/5VKqC7171wf7D2fdcPIH8f) | 6:23 | 2022-09-22 |  |
+| [In A Valley By A Creek](https://open.spotify.com/track/3iKEjLnz4fnhSppjCC2eG0) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [In A Valley By A Creek](https://open.spotify.com/album/32wsZze5gSM0dMgJdyi9YQ) | 3:27 | 2023-03-30 |  |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-11-10 |  |
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-11-10 |  |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2021-12-03 |  |

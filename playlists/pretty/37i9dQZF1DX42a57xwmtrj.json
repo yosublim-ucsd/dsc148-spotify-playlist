@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 133045,
+  "num_followers": 133138,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMDcwYTdiZjZjMjlmYjc2OGU2ZjUxMTkyNWM4YjYwNzlm",
+  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMGE1YjljOTEwYjEyZjcyMTkyZGRiYmE2ZTBlNjA2ZjAy",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+        "name": "La Nueva Sangre del Rock, Vol. 2",
+        "url": "https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk"
       },
       "artists": [
         {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+          "name": "Leyenda Urbana",
+          "url": "https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU"
         }
       ],
-      "duration_ms": 168948,
-      "name": "Fue en un Caf\u00e9",
-      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
+      "duration_ms": 368720,
+      "name": "Que Nos Paso",
+      "url": "https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "La Nueva Sangre del Rock, Vol. 2",
-        "url": "https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk"
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
       },
       "artists": [
         {
-          "name": "Leyenda Urbana",
-          "url": "https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU"
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
         }
       ],
-      "duration_ms": 368720,
-      "name": "Que Nos Paso",
-      "url": "https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2"
+      "duration_ms": 168948,
+      "name": "Fue en un Caf\u00e9",
+      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Lucha Rock",
-        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "En Sentido Contrario",
         "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 157988,
       "name": "Barata y Descont\u00f3",
       "url": "https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
     },
     {
       "added_at": "2020-11-13 06:01:00",

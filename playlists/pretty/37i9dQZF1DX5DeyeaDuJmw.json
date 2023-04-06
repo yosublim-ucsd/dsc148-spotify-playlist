@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 140971,
+  "num_followers": 141067,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDUwMTFkZTZkNDRhN2Q2YjZmYTExZjg1MDJjYzViZDVi",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGU1YTk3NzQyNjQxY2I5NDg1ZTFjMjY0ODU2NzA3NGNj",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -671,8 +671,8 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "UN PASO",
-        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
       "artists": [
         {
@@ -680,13 +680,17 @@
           "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
         }
       ],
-      "duration_ms": 192143,
-      "name": "UN PASO",
-      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+      "duration_ms": 194734,
+      "name": "\u00d1eri",
+      "url": "https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -823,8 +827,8 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+        "name": "UN PASO",
+        "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
       "artists": [
         {
@@ -832,17 +836,13 @@
           "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "TATOOL",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 194734,
-      "name": "\u00d1eri",
-      "url": "https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd"
+      "duration_ms": 192143,
+      "name": "UN PASO",
+      "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Farandulera",
         "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 254689,
       "name": "Farandulera",
       "url": "https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1907,30 +1907,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1951,6 +1927,30 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2022-11-18 03:00:00",

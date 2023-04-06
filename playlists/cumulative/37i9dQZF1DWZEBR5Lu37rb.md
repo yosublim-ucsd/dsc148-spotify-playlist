@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-122 songs - 8 hr 33 min
+123 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 | 2022-02-10 |  |
 | [Efya\-Am In Luv With U\(prod\. By Killbeatz\) \(feat\. Efya\)](https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 5:45 | 2022-02-10 |  |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2022-02-10 |  |
-| [Emlanjeni](https://open.spotify.com/track/0cPX6PUuCJYWmsXS5aH5Xs) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/1DrtoezNJN35zLlyJSCTLi) | 4:02 | 2022-02-10 |  |
+| [Emlanjeni](https://open.spotify.com/track/0cPX6PUuCJYWmsXS5aH5Xs) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/1DrtoezNJN35zLlyJSCTLi) | 4:02 | 2022-02-10 | 2023-04-06 |
+| [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 | 2023-03-17 |  |
 | [Fall in Love](https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:16 | 2022-02-10 |  |
 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 | 2022-02-10 |  |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-14 |  |

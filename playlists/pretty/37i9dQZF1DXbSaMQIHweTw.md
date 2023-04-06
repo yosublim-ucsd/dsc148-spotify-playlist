@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,260 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,275 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 4 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 | 5 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 |
 | 6 | [LA to Bombay](https://open.spotify.com/track/4dLvGPxXlDi9YdwIH11WOq) | [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [LA to Bombay](https://open.spotify.com/album/3TBz51RQKTu16bT3VIY2uz) | 2:56 |
-| 7 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 |
+| 7 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 |
 | 8 | [Bol Bala](https://open.spotify.com/track/7FgTOompOyqXdjsKwkg9ol) | [100RBH](https://open.spotify.com/artist/767XlRPKZyZdDnBgTL6pcc), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bol Bala](https://open.spotify.com/album/1rUO5Qjm64YnqqtOAUtTUl) | 3:36 |
 | 9 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 |
 | 10 | [KHNH](https://open.spotify.com/track/1KZlhXZE6gWwJCmTuzSHKi) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [KHNH](https://open.spotify.com/album/13h3mevVvSUab377hSoBjp) | 2:17 |

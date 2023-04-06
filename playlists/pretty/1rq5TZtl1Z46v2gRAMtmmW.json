@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 27635,
+  "num_followers": 27636,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzMwMCwxMDk2YWMxYTczYzliOTM1YzdlM2NkMmU4OWNjZjdkNmQ5OWVjY2U2",
+  "snapshot_id": "MzMwMyxhMTNmOTlkZTNjYTgwM2QxNzBlYTAyODM3MzJkNWE3MzA3OTUyNTM0",
   "tracks": [
+    {
+      "added_at": "2023-04-05 19:49:23",
+      "album": {
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 247471,
+      "name": "Slugs of Love",
+      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
+    },
     {
       "added_at": "2023-03-31 16:44:01",
       "album": {
@@ -515,26 +531,6 @@
       "duration_ms": 230643,
       "name": "I Just Want To Love You",
       "url": "https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4"
-    },
-    {
-      "added_at": "2022-09-16 10:12:38",
-      "album": {
-        "name": "Opening The Door",
-        "url": "https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 228727,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p"
     },
     {
       "added_at": "2022-09-20 11:45:55",

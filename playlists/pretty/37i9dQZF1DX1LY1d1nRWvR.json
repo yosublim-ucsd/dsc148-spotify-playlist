@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25696,
+  "num_followers": 25716,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDc1NjFhNTlmNGUyYTZiMGUzYjZiZGFlMDNhZTEyODky",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDFhNDVmYWQ2NGMxNzg0OTk0N2IzNzZlNDg4YjIxNTgz",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "To the Disco '77 (Live Rework)",
         "url": "https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 594714,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+      },
+      "artists": [
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 376489,
       "name": "Straight Line - Neil Cowley Remix",
       "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
-      },
-      "artists": [
-        {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
-        }
-      ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 2 likes - 418 songs - 18 hr 45 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 2 likes - 425 songs - 19 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -426,5 +426,12 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 416 | [Orange Village](https://open.spotify.com/track/3ZUgG228RG5bbRGsF3OzDg) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:41 |
 | 417 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 |
 | 418 | [Palisades, CA](https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:14 |
+| 419 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 |
+| 420 | [Cheat Code \(No Depot\)](https://open.spotify.com/track/2lSA6cClf7t810h84yg756) | [F3GA](https://open.spotify.com/artist/1aYNbH4PFBfcbEvuvHDMkf) | [Cheat Code \(No Depot\)](https://open.spotify.com/album/67ffzSzQAXheEWJaW9tGPK) | 1:58 |
+| 421 | [Sic' em](https://open.spotify.com/track/5X5P92Bj4GOxnbBYpiBjcz) | [Squish](https://open.spotify.com/artist/7KuC3LimM4OgSpZa72PF51) | [Sic&\#039; em](https://open.spotify.com/album/0NzAJbElXRr0qRofnkOllO) | 2:08 |
+| 422 | [Lead \(Overseas\)](https://open.spotify.com/track/43CRqUQpaSts3z6ksVVQ1L) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [Lead \(Overseas\)](https://open.spotify.com/album/4Sf2Z3S546TMtn8hU7GStL) | 2:09 |
+| 423 | [2020 Vision](https://open.spotify.com/track/6UlRHQJ3WT6VrIlKxSODNz) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [2020 Vision](https://open.spotify.com/album/5bkklyYbs2N8y3S7Uh08sO) | 2:45 |
+| 424 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 |
+| 425 | [BOYFRIEND, GIRLFRIEND \(2020 Demo\) \(feat\. YG\)](https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 |
 
-Snapshot ID: `Njk4OSw4MzA3OGYxYzVkN2E2ZWNmZTQ3OWY5MjhiMzU0MTNmMTJhYzlkZjUw`
+Snapshot ID: `Njk5Niw5ZWYyYzU1NmYxYzQ1MGM5OGMyZDIwOGUwYjkxMTNjODBhYzExMjMy`

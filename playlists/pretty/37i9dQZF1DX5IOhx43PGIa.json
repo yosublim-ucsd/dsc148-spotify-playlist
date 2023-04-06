@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: beabadoobee.",
-  "num_followers": 261374,
+  "num_followers": 261475,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDQ2MzM5NmMzNTNmMWFhZDZiNzllMTkzYzVlNzg3NjA2",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGNiNGZiMzA0NjMyYzhmYTFkYmY4NTIxMmU1MGE4Yzdi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -219,22 +219,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "VIBE (feat. Jimin of BTS)",
-        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -255,18 +251,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 208694,
-      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "LOVERs PLAYBOOK",
-        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 269242,
-      "name": "THANK YOU 4 LOVIN\u2019 ME",
-      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 336000,
       "name": "Oceans & Engines",
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Dive with you (feat. eaJ)",
         "url": "https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 218240,
       "name": "Dive with you (feat. eaJ)",
       "url": "https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+        "name": "No Explanations",
+        "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
       },
       "artists": [
         {
@@ -1416,13 +1416,17 @@
           "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
         },
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "ZHANG YANQI",
+          "url": "https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F"
         }
       ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+      "duration_ms": 187062,
+      "name": "No Explanations",
+      "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1547,8 +1551,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "No Explanations",
-        "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
       "artists": [
         {
@@ -1556,17 +1560,13 @@
           "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
         },
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "ZHANG YANQI",
-          "url": "https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 187062,
-      "name": "No Explanations",
-      "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Done (Let's Get It)",
-        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
+        "name": "Window",
+        "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Done (Let\u2019s Get It)",
-      "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
+      "duration_ms": 183839,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1615,6 +1615,22 @@
       "duration_ms": 151090,
       "name": "rollercoaster",
       "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Done (Let's Get It)",
+        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Done (Let\u2019s Get It)",
+      "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1659,26 +1675,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "SUGAR DIVE",
-        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 194109,
-      "name": "SUGAR DIVE",
-      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
+        "name": "SUGAR DIVE",
+        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 183839,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
+      "duration_ms": 194109,
+      "name": "SUGAR DIVE",
+      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 205059,
-      "name": "Send My Love To John",
-      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 179000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205059,
+      "name": "Send My Love To John",
+      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2183,6 +2183,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "I Miss My Friends (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "I Miss My Friends (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
       },
@@ -2203,26 +2223,6 @@
       "duration_ms": 186923,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "I Miss My Friends (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "I Miss My Friends (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2303,18 +2303,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bla Bli Blu",
-        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 177757,
-      "name": "Bla Bli Blu",
-      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2351,26 +2355,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Lover Like Me",
         "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 177845,
       "name": "Lover Like Me",
       "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bla Bli Blu",
+        "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 177757,
+      "name": "Bla Bli Blu",
+      "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "WHO TF IS 8RAE?",
+        "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
+      },
+      "artists": [
+        {
+          "name": "8rae",
+          "url": "https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "lovescene:",
         "url": "https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 160443,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "WHO TF IS 8RAE?",
-        "url": "https://open.spotify.com/album/26SLXiwVzDoRGEgiWEwlWh"
-      },
-      "artists": [
-        {
-          "name": "8rae",
-          "url": "https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Lost Cause",
-      "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "HIDE & SICK",
-        "url": "https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "HIDE & SICK",
-      "url": "https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Under The Rose",
         "url": "https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "HIDE & SICK",
+        "url": "https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "HIDE & SICK",
+      "url": "https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD"
     },
     {
       "added_at": "2023-03-31 04:00:00",

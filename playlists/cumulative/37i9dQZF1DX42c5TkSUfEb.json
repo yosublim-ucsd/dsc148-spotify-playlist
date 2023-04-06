@@ -918,6 +918,24 @@
     {
       "album": {
         "name": "Multitudes",
+        "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk"
+    },
+    {
+      "album": {
+        "name": "Multitudes",
         "url": "https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o"
       },
       "artists": [
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 201586,
       "name": "Shame I Know",
       "url": "https://open.spotify.com/track/733XxlmCjqZKSMXvwDtaH8"
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 226500,
       "name": "Suffisamment",
       "url": "https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 234853,
       "name": "Vie varda",
       "url": "https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y"

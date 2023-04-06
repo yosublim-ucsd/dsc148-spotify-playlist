@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 46282,
+  "num_followers": 46344,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMDcxMmI4MTAyOWI5NGU0YjU4YzQ4M2MwOGJjMzljZWY4",
+  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMDcyMWM0NWQ3NDdhN2RlY2QzMzU2M2QxZDRhMDg0YTAx",
   "tracks": [
     {
       "added_at": "2023-03-31 15:48:58",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+      "duration_ms": 191193,
+      "name": "Ca\u00eda la Noche",
+      "url": "https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -639,22 +639,6 @@
       "duration_ms": 235044,
       "name": "Permanente",
       "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 191193,
-      "name": "Ca\u00eda la Noche",
-      "url": "https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1019,26 +1003,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "ULYSE",
-        "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "L\u00ednea Bonita",
         "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
       },
@@ -1067,6 +1031,26 @@
       "duration_ms": 191141,
       "name": "Amen\u00e1bar",
       "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "ULYSE",
+        "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "En Vivo Desde Tu Nostalgia",
-        "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 224965,
-      "name": "Diez Pasos Hacia Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+      "duration_ms": 209596,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1195,18 +1175,38 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+        "name": "En Vivo Desde Tu Nostalgia",
+        "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 209596,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
+      "duration_ms": 224965,
+      "name": "Diez Pasos Hacia Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 190006,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 190006,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1259,22 +1259,6 @@
       "duration_ms": 209866,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1307,6 +1291,22 @@
       "duration_ms": 186826,
       "name": "Autom\u00e1tico",
       "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "Ir por un Caf\u00e9",
+        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ir por un Caf\u00e9",
+      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
     }
   ],
   "unique_name": "cursi",

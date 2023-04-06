@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMGI2NGMzZDhjMzQ1ZmZlNTM0NjZlYjQxY2YyZjM4YzFm",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDY3M2ExYmVlNDllZTc5NDU0YTYyNDE5OGY0OGYwOGQ5",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "El Burrito de Bel\u00e9n",
         "url": "https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 194429,
       "name": "El Burrito de Belen",
       "url": "https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/6rXlCEugrnZmmfz3lbFNut"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 225930,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/1Ha7nokU33XTvjzGtrU7Hy"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        },
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Santa Claus Lleg\u00f3 A La Ciudad",
         "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 120405,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        },
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad, Feel The Magic",
-        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "Navidad, Feel The Magic",
-      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 181026,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     }
   ],
   "unique_name": "La Posada",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Indian women, at full volume. Cover: Bhoomi Trivedi",
+  "description": "Listen to Indian women, at full volume. Cover: Akriti Kakkar",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1bx6spmieE655BQvWdTYKA"
@@ -258,8 +258,8 @@
           "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         },
         {
-          "name": "Mismatched",
-          "url": "https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF"
+          "name": "Mismatched - Cast",
+          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
         }
       ],
       "date_added": "2023-01-03",
@@ -2366,6 +2366,40 @@
       "duration_ms": 207203,
       "name": "Mast Aankhein",
       "url": "https://open.spotify.com/track/6VxqgfU14y82Jsc3qvkcPS"
+    },
+    {
+      "album": {
+        "name": "Big Band Theory Season2",
+        "url": "https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb"
+      },
+      "artists": [
+        {
+          "name": "Akriti Kakar",
+          "url": "https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Nirmal Kakar",
+          "url": "https://open.spotify.com/artist/4GtTnGMesEd9XHF6DtBce9"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233195,
+      "name": "Mawaan Te Dhiyaan",
+      "url": "https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4"
     },
     {
       "album": {

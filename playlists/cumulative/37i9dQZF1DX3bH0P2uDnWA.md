@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-271 songs - 15 hr 53 min
+272 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Voodoo \- Spooky Swing Mix](https://open.spotify.com/track/7DUrHEDk313cfYlj1X8Dmg) | [Victor Ghastly's Electric Timebomb](https://open.spotify.com/artist/1C7YxXp3JG3K2GKRUOtoQD) | [Roaring Halloween \(Electro Swing 1\)](https://open.spotify.com/album/3YMODnnzf1E98gGRxuB7tn) | 3:30 | 2022-10-12 | 2022-11-08 |
 | [Voodoo Queen](https://open.spotify.com/track/1uenr4RUatk6hGbuHwcQlk) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Burkey](https://open.spotify.com/artist/7K7CqoitJpzluwr5ZhuCwx), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR) | [Bass Age Big Band](https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq) | 3:25 | 2022-10-12 | 2022-11-08 |
 | [Wabababa \- Balduin VIP Mix](https://open.spotify.com/track/6kC9DD2WxqKw3z4DB3H67a) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW) | [Wabababa \(Time to Remix\)](https://open.spotify.com/album/2tjihy0pEORdH4gMGHM4kz) | 2:58 | 2021-06-11 | 2022-07-29 |
-| [Wake Up Romeo](https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk) | 3:27 | 2020-10-30 |  |
+| [Wake Up Romeo](https://open.spotify.com/track/54Sy4fzAjNcbZqHoxg1P8o) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/7nZAd0voTDwEStlE6ACj06) | 3:27 | 2022-11-07 |  |
+| [Wake Up Romeo](https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Wake Up Romeo](https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk) | 3:27 | 2020-10-30 | 2023-04-06 |
 | [Wake Up Romeo \- Pisk Remix](https://open.spotify.com/track/0gzUec1Q4dB6HjDMeoP5X6) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc) | [Wake Up Romeo \(Pisk Remix\)](https://open.spotify.com/album/0Pf35QQ35kGcAq6iMNHkhE) | 3:02 | 2021-02-26 |  |
 | [Wake Up Romeo \- PiSk Remix](https://open.spotify.com/track/5gfINY23blgS03ev7UCD1Z) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc) | [Wake Up Romeo \(PiSk Remix\)](https://open.spotify.com/album/6hmZM1xUX1W6VAQGOohXrk) | 3:02 | 2022-11-07 | 2023-03-15 |
 | [Walk \- Instrumental](https://open.spotify.com/track/6sExpRKIy0WihY6eIQzhOU) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv) | [Electro Swing Instrumentals](https://open.spotify.com/album/4FZ9TDT5dlNP4enbhNYOAT) | 2:30 | 2022-07-22 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98205,
+  "num_followers": 98223,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDFjMTU2ZWMwY2Q1YzliMjMyNmYxZDZiOWVmNWI0N2Vj",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDUzZDFjYWNjODI2YzMzNjQ4OTllNGM0MDMwYTc1N2U3",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -731,22 +715,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Nos Acoplamos Macizo",
-        "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
         }
       ],
-      "duration_ms": 246059,
-      "name": "Nos Acoplamos Macizo",
-      "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -779,6 +759,26 @@
       "duration_ms": 182981,
       "name": "No Fuimos Nada",
       "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Nos Acoplamos Macizo",
+        "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 246059,
+      "name": "Nos Acoplamos Macizo",
+      "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Payonazo Exoticos",
+        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Payonazo Exoticos",
+      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
       },
@@ -847,18 +863,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Payonazo Exoticos",
-        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
+        "name": "El E",
+        "url": "https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1"
       },
       "artists": [
         {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Miguel Gonzalez",
+          "url": "https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT"
+        },
+        {
+          "name": "Javier Olguin",
+          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Payonazo Exoticos",
-      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
+      "duration_ms": 183763,
+      "name": "El E",
+      "url": "https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -891,26 +911,6 @@
       "duration_ms": 218250,
       "name": "Mi Dolor",
       "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "El E",
-        "url": "https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gonzalez",
-          "url": "https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT"
-        },
-        {
-          "name": "Javier Olguin",
-          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
-        }
-      ],
-      "duration_ms": 183763,
-      "name": "El E",
-      "url": "https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Ni Como Ni Cuando (En Vivo)",
-        "url": "https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3"
+        "name": "Manzana en el Mapa",
+        "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
       },
       "artists": [
         {
-          "name": "Doble Vision",
-          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 128285,
-      "name": "Ni Como Ni cuando (En Vivo)",
-      "url": "https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I"
+      "duration_ms": 183501,
+      "name": "Manzana en el Mapa",
+      "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Manzana en el Mapa",
-        "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
+        "name": "Ni Como Ni Cuando (En Vivo)",
+        "url": "https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3"
       },
       "artists": [
         {
-          "name": "Tony Loya",
-          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Doble Vision",
+          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
         }
       ],
-      "duration_ms": 183501,
-      "name": "Manzana en el Mapa",
-      "url": "https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI"
+      "duration_ms": 128285,
+      "name": "Ni Como Ni cuando (En Vivo)",
+      "url": "https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Todo Termin\u00f3",
-        "url": "https://open.spotify.com/album/0i0FRjgz2NCaN8s212Rcd4"
+        "name": "Hechando Rolas Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2lspJ7QjGRq4cuCZIRbQ6q"
       },
       "artists": [
         {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Todo Termin\u00f3",
-      "url": "https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U"
+      "duration_ms": 170500,
+      "name": "Loco y Drogado (En Vivo)",
+      "url": "https://open.spotify.com/track/291ekxuZ0hzYwz4F0zMDWt"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Hechando Rolas Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/2lspJ7QjGRq4cuCZIRbQ6q"
+        "name": "Todo Termin\u00f3",
+        "url": "https://open.spotify.com/album/0i0FRjgz2NCaN8s212Rcd4"
       },
       "artists": [
         {
-          "name": "Los Bravos De La H",
-          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Loco y Drogado (En Vivo)",
-      "url": "https://open.spotify.com/track/291ekxuZ0hzYwz4F0zMDWt"
+      "duration_ms": 183040,
+      "name": "Todo Termin\u00f3",
+      "url": "https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U"
     },
     {
       "added_at": "2023-03-17 06:06:33",

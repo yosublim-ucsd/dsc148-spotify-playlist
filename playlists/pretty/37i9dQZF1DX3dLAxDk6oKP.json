@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 288536,
+  "num_followers": 289088,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzNTExOSwwMDAwMDAwMDFlNTc0Y2EwNjY2MjNlYWIzYjhkM2RmYTQyZGE1YmFk",
+  "snapshot_id": "MTY3OTAzNTExOSwwMDAwMDAwMGUxNjhjMmVhOGUyYzcyMzU0YzU3MDg1ZTU0NTk3OWM3",
   "tracks": [
     {
       "added_at": "2023-03-17 06:38:39",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "15 Primeros Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
+        "name": "Es Dificil Ser Un Santo",
+        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 156920,
-      "name": "El Centenario",
-      "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
+      "duration_ms": 185756,
+      "name": "Es Dificil Ser Un Santo",
+      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Es Dificil Ser Un Santo",
-        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
+        "name": "15 Primeros Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 185756,
-      "name": "Es Dificil Ser Un Santo",
-      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
+      "duration_ms": 156920,
+      "name": "El Centenario",
+      "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/3uxnlNzKbQfQcFZKleBKRe"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "El D\u00eda De Los Muertos",
-      "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 199000,
       "name": "Ladeando",
       "url": "https://open.spotify.com/track/73Duclev4uTDiM70jH1G5h"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/3uxnlNzKbQfQcFZKleBKRe"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "El D\u00eda De Los Muertos",
+      "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Knock Out",
-        "url": "https://open.spotify.com/album/7EFLfkaxw1BJBzttSAHkZt"
-      },
-      "artists": [
-        {
-          "name": "Clave 520",
-          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
-        }
-      ],
-      "duration_ms": 136375,
-      "name": "El Toro de Jalisco",
-      "url": "https://open.spotify.com/track/0k1wBT6Dy6gWHLgHZ7I3dG"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 175038,
       "name": "Mi Nueva Familia",
       "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Knock Out",
+        "url": "https://open.spotify.com/album/7EFLfkaxw1BJBzttSAHkZt"
+      },
+      "artists": [
+        {
+          "name": "Clave 520",
+          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
+        }
+      ],
+      "duration_ms": 136375,
+      "name": "El Toro de Jalisco",
+      "url": "https://open.spotify.com/track/0k1wBT6Dy6gWHLgHZ7I3dG"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Delux 12",
         "url": "https://open.spotify.com/album/6G9Wfz5z9w33QrJdwaPUMb"
       },
@@ -2155,18 +2139,18 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Pueblo Querido",
-        "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 153693,
-      "name": "Pueblo Querido",
-      "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
+      "duration_ms": 220160,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -2187,6 +2171,22 @@
       "duration_ms": 180324,
       "name": "El Pelo Chino",
       "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Pueblo Querido",
+        "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "Pueblo Querido",
+      "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
+        "name": "Niveleando Cuh",
+        "url": "https://open.spotify.com/album/3tIZ5QpL2ywQSEtoTTfPN9"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 252152,
+      "name": "Trokiando Sin Destino",
+      "url": "https://open.spotify.com/track/3T2lrPHEVN8b79k5N6AOuO"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 231378,
       "name": "Que Tiene de Malo",
       "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
-        "name": "Niveleando Cuh",
-        "url": "https://open.spotify.com/album/3tIZ5QpL2ywQSEtoTTfPN9"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 252152,
-      "name": "Trokiando Sin Destino",
-      "url": "https://open.spotify.com/track/3T2lrPHEVN8b79k5N6AOuO"
     },
     {
       "added_at": "2023-03-17 06:38:39",

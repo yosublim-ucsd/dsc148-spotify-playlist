@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/3hBvBryUs8gWdBFo5aIOmp"
+      },
+      "artists": [
+        {
+          "name": "Davey Asprey",
+          "url": "https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/4PRHib5N3DjBJGkrCdlH8L"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/2lgCV2s0B0UqAktpETEssF"
       },
@@ -10284,7 +10302,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 220312,
       "name": "Sunshine In Human Form",
       "url": "https://open.spotify.com/track/3yaWRwM83iZYtRjY0fI4xQ"

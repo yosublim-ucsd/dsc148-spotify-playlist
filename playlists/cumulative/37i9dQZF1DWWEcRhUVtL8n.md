@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Jesse®
 
-1,521 songs - 3 day 8 hr 11 min
+1,522 songs - 3 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [In My Car](https://open.spotify.com/track/19PaC9pxp89ZyZUeusIrOG) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [In My Car](https://open.spotify.com/album/6wCMljIbiSHawIJlf8RLYu) | 3:41 | 2020-11-13 | 2021-01-15 |
 | [In My Head](https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Closure & Campari: After Hours](https://open.spotify.com/album/5dkGwwTDSKTiAq8Qp4yWn8) | 2:36 | 2022-04-01 | 2022-04-13 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-06-03 | 2021-10-14 |
+| [In Or In\-Between \(Remix\)](https://open.spotify.com/track/6dGPZFOXEAtTeTt98g8Qgn) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [In Or In\-Between \(Remix\)](https://open.spotify.com/album/7q6NYmqtJPUX8oQmbePCmY) | 3:08 | 2023-04-05 |  |
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-10 | 2022-05-21 |
 | [In Time](https://open.spotify.com/track/2fFfZSl0faCTDNXZ2Lo2KE) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Sleeping In](https://open.spotify.com/album/3NusJrwTXCCW7UnV0IxSwV) | 3:46 | 2022-04-08 | 2022-07-19 |
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-02-25 | 2022-04-21 |
@@ -806,7 +807,7 @@
 | [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 | 2022-12-16 |  |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-04-15 | 2022-04-21 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-04-15 | 2022-04-21 |
-| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 |  |
+| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-04-06 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-06-02 | 2022-06-15 |
 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 | 2022-06-17 | 2022-06-21 |
 | [Lights On](https://open.spotify.com/track/4pbKp6lF5XuBMSKVpSySmc) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lights On](https://open.spotify.com/album/6AdKzEgpmht7QUDbRfsWUt) | 3:56 | 2022-04-15 | 2022-04-20 |

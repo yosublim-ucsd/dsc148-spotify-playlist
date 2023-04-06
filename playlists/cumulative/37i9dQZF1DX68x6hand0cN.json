@@ -1923,6 +1923,36 @@
     },
     {
       "album": {
+        "name": "Niks Persoonlijks",
+        "url": "https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH"
+      },
+      "artists": [
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        },
+        {
+          "name": "Blacka",
+          "url": "https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162291,
+      "name": "Niks Persoonlijks",
+      "url": "https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc"
+    },
+    {
+      "album": {
         "name": "Niye (feat. Ali471)",
         "url": "https://open.spotify.com/album/1ZjwDKEFNICM0LwmMrIrue"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,313 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,432 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 32 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
 | 33 | [I'm A Star](https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7) | 3:19 |
 | 34 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 |
-| 35 | [nethertoxin](https://open.spotify.com/track/33Wbg8mYMOd5wzWEDwxSrD) | [sxdboy](https://open.spotify.com/artist/03ovoqlxlJGOrsP537cZpX) | [nethertoxin](https://open.spotify.com/album/1ogzj6cjWlE9nm2IO7DJ0b) | 2:48 |
+| 35 | [NETHERTOXIN](https://open.spotify.com/track/33Wbg8mYMOd5wzWEDwxSrD) | [sxdboy](https://open.spotify.com/artist/03ovoqlxlJGOrsP537cZpX) | [NETHERTOXIN](https://open.spotify.com/album/1ogzj6cjWlE9nm2IO7DJ0b) | 2:48 |
 | 36 | [Misfits](https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:58 |
 | 37 | [Justice](https://open.spotify.com/track/6ZJMpKYUdNjs4V7fmr8ewY) | [THE RIOT](https://open.spotify.com/artist/0bBGGhs1QuXp7FxPKT0QfN) | [HAPPY TEARS!](https://open.spotify.com/album/3o8RAFb9pxdgag6rMCZG3y) | 3:29 |
 | 38 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |

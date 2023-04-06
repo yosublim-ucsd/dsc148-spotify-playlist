@@ -9210,7 +9210,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 113855,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb"
@@ -19248,6 +19248,24 @@
       "duration_ms": 147441,
       "name": "Float",
       "url": "https://open.spotify.com/track/0rGNmF5VLnCvXakDTqA5O8"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/00Lp4xlkoV1DsZvACxCcoT"
+      },
+      "artists": [
+        {
+          "name": "Mononome",
+          "url": "https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/3W7P7dYqXSoDyIWzw2QipT"
     },
     {
       "album": {
@@ -42416,7 +42434,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 138892,
       "name": "Oh World",
       "url": "https://open.spotify.com/track/3LeGhGrdlZ5m3S5gnFfYkr"
@@ -52814,7 +52832,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 112894,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2k4zcCon1Y3uuqTyF51IJl"
@@ -54396,7 +54414,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 111750,
       "name": "Spheres",
       "url": "https://open.spotify.com/track/2ThtkgGReOtvMsOuoWZoub"
@@ -59914,7 +59932,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 152000,
       "name": "The Older Man",
       "url": "https://open.spotify.com/track/7cOlTLWr211iacbtV1yMUV"

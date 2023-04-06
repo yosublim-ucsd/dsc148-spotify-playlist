@@ -4,7 +4,7 @@
 
 > Up tempo jazz classics.
 
-100 songs - 11 hr 2 min
+101 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,10 @@
 | [Gingerbread Boy](https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 7:44 | 2023-03-24 |  |
 | [Grand Central](https://open.spotify.com/track/0q7hLjhOKg1WkxDnUK75X5) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:33 | 2023-03-24 |  |
 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 | 2023-03-24 |  |
-| [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 | 2023-03-24 |  |
+| [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 | 2023-03-24 | 2023-04-06 |
 | [Humph \- Rudy Van Gelder 24\-Bit Mastering / 1998 Digital Remaster](https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:55 | 2023-03-24 |  |
 | [I Could Write A Book](https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Relaxin' With The Miles Davis Quintet](https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt) | 5:08 | 2023-03-24 |  |
+| [I'll Remember April](https://open.spotify.com/track/6yRPErtmW2FuTeQ1cvDsrr) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach At Basin Street](https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc) | 9:13 | 2023-03-24 |  |
 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 | 2023-03-24 |  |
 | [Inception](https://open.spotify.com/track/1Dy1zTcsjdsd6JUVNBLC3R) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 4:28 | 2023-03-24 |  |
 | [Infra\-Rae](https://open.spotify.com/track/4xH1zCrByVeiLX3xwgUgXk) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Jazz Messengers](https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX) | 6:54 | 2023-03-24 |  |

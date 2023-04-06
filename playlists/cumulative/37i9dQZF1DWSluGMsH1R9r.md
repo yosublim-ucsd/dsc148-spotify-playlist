@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-536 songs - 23 hr 17 min
+537 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 | 2022-04-21 |
 | [Despoina](https://open.spotify.com/track/4A5LsjpZx6FTW4rf0IVTcF) | [Bert Hearns](https://open.spotify.com/artist/1aGVRfsCFUIKGa775i4QJs) | [Despoina](https://open.spotify.com/album/6o8m1ke9DDtcnyDXtTiFop) | 2:20 | 2022-05-20 |  |
-| [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2021-12-07 |  |
+| [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2021-12-07 | 2023-04-06 |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2021-12-07 |  |
 | [Dique de Abrigo](https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 3:50 | 2021-12-07 | 2022-07-16 |
 | [Divinity](https://open.spotify.com/track/5ifNZSCzdccj4gxbwB5amJ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Divinity](https://open.spotify.com/album/5towv8URRgVtNLMWniWVd1) | 2:06 | 2023-02-06 |  |
@@ -246,6 +246,7 @@
 | [Legend](https://open.spotify.com/track/6ManJ5S1o9oDqzEoRRAqcU) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Legend](https://open.spotify.com/album/0TiCArCLbEtByFYvHLfD1k) | 2:32 | 2021-12-07 | 2022-07-16 |
 | [Les Années Folles](https://open.spotify.com/track/1YAneLq79WDFeKZABB6KcD) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Les Années Folles](https://open.spotify.com/album/6Gzh3Pk0CPYLhph8FdXVYv) | 2:45 | 2021-12-07 |  |
 | [Les Combes\-58](https://open.spotify.com/track/3luC1osD9bTIdiv77Z8ebS) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Les Combes\-58](https://open.spotify.com/album/1t983gN7i0JitSK1BmsWAZ) | 3:24 | 2021-12-07 | 2022-07-16 |
+| [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-04-05 |  |
 | [Letter Of Fervid](https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB) | [Sula Black](https://open.spotify.com/artist/2uzZ9S1yshc7xkAzbga5X0) | [Letter Of Fervid](https://open.spotify.com/album/7erSjN1YTxq2JTs8w90lGg) | 3:08 | 2021-12-07 |  |
 | [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2021-12-07 | 2022-09-15 |
 | [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-12-07 |  |

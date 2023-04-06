@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72613,
+  "num_followers": 72626,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMGVkZmNlN2I1ZmI1OTQ5ODk5ZTk0ZTMxNmZlNDA3MTA2",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMGNiYjA2MTBhOGNjMzE2MWI0N2EzZDFjZTFmNDQ2ZDgz",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 223445,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
     },
     {
-      "added_at": "2023-04-05 01:28:05",
+      "added_at": "2023-04-06 01:13:09",
       "album": {
         "name": "Higher Now",
         "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"

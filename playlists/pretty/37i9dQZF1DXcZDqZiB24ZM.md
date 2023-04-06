@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,952 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,956 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 49 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 |
 | 50 | [Plume](https://open.spotify.com/track/3KEAAQ6ftipgLCKyUv6v3s) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Personne ne touche le ciel](https://open.spotify.com/album/48KJxkDN6HsfsZFDNf8kjT) | 2:37 |
 | 51 | [Chacun son récit](https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:51 |
-| 52 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
-| 53 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 |
+| 52 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 |
+| 53 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
 | 54 | [Badman](https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:26 |
 | 55 | [Trapstar](https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz) | [Kino](https://open.spotify.com/artist/4LuwAd3rQxluIiUcTlfvBe) | [Trapstar](https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi) | 3:07 |
 | 56 | [Dis Moi](https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Dis moi](https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW) | 4:07 |
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 78 | [Faya](https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Faya](https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87) | 3:56 |
 | 79 | [Univers parallèle](https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Le set up](https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc) | 2:38 |
 | 80 | [Aliens](https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz), [Kamiyada](https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP) | [Aliens](https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke) | 3:00 |
-| 81 | [La famille](https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:14 |
+| 81 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
 | 82 | [Parle\-Moé Don D'ça](https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:47 |
-| 83 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
-| 84 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
+| 83 | [La famille](https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:14 |
+| 84 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
 | 85 | [Remember](https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1) | [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Remember](https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0) | 3:30 |
-| 86 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
-| 87 | [Henny](https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Henny](https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z) | 3:47 |
+| 86 | [Henny](https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Henny](https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z) | 3:47 |
+| 87 | [Peace and Love](https://open.spotify.com/track/0aVk9xBsjwQMaQXJVNfIGN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Océan](https://open.spotify.com/album/2hSTXbIyUNlfjvh13e79nL) | 5:05 |
 | 88 | [Fanny](https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Aujourd'hui ou jamais](https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J) | 4:21 |
 | 89 | [Otages](https://open.spotify.com/track/60hrnV0JCmsw9CNrMus0Vb) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:45 |
 | 90 | [Day Off](https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Day Off](https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
 | 100 | [1919 \(Feat\. Zach Zoya\)](https://open.spotify.com/track/4iAl5lcRdxU2uCSRrRqSAj) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Kanvaz](https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l) | 3:14 |
 
-Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGZiOWU0NzI2Yzc3MDZjMzQ4YTlmNDBlOGNjMjZiMDhl`
+Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGM1MDk4YzA2OThlOWZiYTU5NmE3NTI3Yjc0YTc5MDRi`

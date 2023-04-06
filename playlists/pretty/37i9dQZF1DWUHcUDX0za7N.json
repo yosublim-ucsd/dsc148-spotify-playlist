@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=ip5h-Z8eR1iYN7c6rAjd0w\" > SGaWD </a> ",
-  "num_followers": 17732,
+  "num_followers": 17761,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4OTA1MCwwMDAwMDAwMGRiMGExNDAwNDVlMGNmNWE3MWYyM2EzMmUyZDU1OWJl",
+  "snapshot_id": "MTY4MDI4OTA1MCwwMDAwMDAwMGY0ZmZkNjcxMDE2NjJlYzViNjVjNmE5MTE1MGFmOGM2",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
+      },
+      "artists": [
+        {
+          "name": "7Dime",
+          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
+        }
+      ],
+      "duration_ms": 152456,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Cruel Love/Vex",
         "url": "https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u"
       },
@@ -537,23 +553,7 @@
       "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
-      },
-      "artists": [
-        {
-          "name": "7Dime",
-          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
-        }
-      ],
-      "duration_ms": 152456,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
-    },
-    {
-      "added_at": "2023-04-05 00:29:08",
+      "added_at": "2023-04-06 00:56:57",
       "album": {
         "name": "Wahala",
         "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 176842,
       "name": "The Love Song (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Bad Boy Etiquette 101",
-        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "No Peace (Violence)",
-      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "PARA",
-        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
-      },
-      "artists": [
-        {
-          "name": "Kid MARLEY",
-          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "PARA",
-      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
+      },
+      "artists": [
+        {
+          "name": "Kid MARLEY",
+          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1003,22 +983,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Soundtrack To The Good Life",
-        "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
+        "name": "High Tension 2.0",
+        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
       "artists": [
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
         },
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 235081,
-      "name": "Soft Life",
-      "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
+      "duration_ms": 163813,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1039,6 +1019,26 @@
       "duration_ms": 207037,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Soundtrack To The Good Life",
+        "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 235081,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
     },
     {
       "added_at": "2023-03-30 23:00:00",

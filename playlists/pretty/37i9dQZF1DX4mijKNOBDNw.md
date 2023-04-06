@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,808 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,826 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 37 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
 | 38 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 |
 | 39 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
-| 40 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
-| 41 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
+| 40 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
+| 41 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
 | 42 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 43 | [Nos Queremos Vivas](https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Nos Queremos Vivas](https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W) | 3:40 |
 | 44 | [Canción Sin Miedo \- Versión Ayuujk \(Tlahuiltoltepec\) / Español](https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Canción Sin Miedo \[Versión Ayuujk \(Tlahuiltoltepec\) / Español\]](https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F) | 2:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Nunca Amor](https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nunca Amor](https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z) | 3:06 |
 | 65 | [Tenemos Voz](https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 3:43 |
 
-Snapshot ID: `MTY3ODQ4ODEwOSwwMDAwMDAwMDZjNGVkMTAzMjYzNDVjNTQxMGU3MzI5NGU3MDYxYjY3`
+Snapshot ID: `MTY3ODQ4ODEwOSwwMDAwMDAwMDhiM2NkZGI5NjRhNWE3MjQzNjE2ZGU4MDgwOTBlYWZk`

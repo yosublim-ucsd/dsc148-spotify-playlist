@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 223360,
       "name": "El Encarte",
       "url": "https://open.spotify.com/track/2M4GHQUCurlGyb9FVAdCUd"
@@ -655,6 +655,46 @@
     },
     {
       "album": {
+        "name": "Estoy Como un Quiqu\u00ed",
+        "url": "https://open.spotify.com/album/1un0c85dgcDajCPIAD9rwm"
+      },
+      "artists": [
+        {
+          "name": "Jorge O\u00f1ate",
+          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280066,
+      "name": "Estoy Como un Quiqu\u00ed",
+      "url": "https://open.spotify.com/track/3mMEqtvJBjjaeDFefTgUgA"
+    },
+    {
+      "album": {
+        "name": "Fan\u00e1tico",
+        "url": "https://open.spotify.com/album/71Ve79IkSzUSXtbTWDVSFR"
+      },
+      "artists": [
+        {
+          "name": "Cayito Dangond",
+          "url": "https://open.spotify.com/artist/2MxGUuafZLk4Hgrlk88wbC"
+        },
+        {
+          "name": "chide garcia",
+          "url": "https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205028,
+      "name": "Fan\u00e1tico",
+      "url": "https://open.spotify.com/track/4FYukPeQ6S9IxNaWXS9BRm"
+    },
+    {
+      "album": {
         "name": "Feliz Aniversario",
         "url": "https://open.spotify.com/album/0fNd8Ovv5AUxan1p6rgs12"
       },
@@ -732,10 +772,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 210780,
       "name": "La Chica de la Disco",
       "url": "https://open.spotify.com/track/1Rldg5PGFa1LscsLdvsK0u"
+    },
+    {
+      "album": {
+        "name": "Tridimensional",
+        "url": "https://open.spotify.com/album/61wlC4yxl7qBUPi9vsT1gP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Gamarra",
+          "url": "https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1"
+        },
+        {
+          "name": "Camilo Carvajal",
+          "url": "https://open.spotify.com/artist/42jbySe4fUtjS3JpprvmVK"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200674,
+      "name": "La Escena",
+      "url": "https://open.spotify.com/track/6vjp1tZHzZT6omls4lNeER"
     },
     {
       "album": {
@@ -801,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Se Va Formando",
+        "url": "https://open.spotify.com/album/36jTX86gCCKfkKpzIPLQ7W"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232446,
+      "name": "La Rompecorazones",
+      "url": "https://open.spotify.com/track/2aXgU9biHn0rIrBapROjNI"
+    },
+    {
+      "album": {
         "name": "La Solter\u00eda",
         "url": "https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT"
       },
@@ -838,7 +918,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
@@ -958,6 +1038,28 @@
       "duration_ms": 208995,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/5KsBV3bKtUtU64TmqCgVP7"
+    },
+    {
+      "album": {
+        "name": "Esto Que Dice!",
+        "url": "https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH"
+      },
+      "artists": [
+        {
+          "name": "Diego Daza",
+          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
+        },
+        {
+          "name": "Carlos Rueda",
+          "url": "https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197590,
+      "name": "Me Llev\u00f3 a La Luna",
+      "url": "https://open.spotify.com/track/3Xb8tWqcrIDB3DjOIOEFrT"
     },
     {
       "album": {
@@ -1096,7 +1198,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 194050,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/6QaSczCtX0qhnsuhwTj3D2"
@@ -1306,7 +1408,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 191585,
       "name": "Pa' los Gustos los Colores",
       "url": "https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg"
@@ -1484,7 +1586,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 209428,
       "name": "Si Supiera",
       "url": "https://open.spotify.com/track/5zsUI37tt2zmCGwyfpn4V3"
@@ -1615,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "TANTO",
+        "url": "https://open.spotify.com/album/4Km124x41bRqMWINz5A6vK"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243906,
+      "name": "TANTO",
+      "url": "https://open.spotify.com/track/0P9q6nGIk454XvAiOkgJ7u"
+    },
+    {
+      "album": {
         "name": "El Rey Guajiro",
         "url": "https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh"
       },
@@ -1724,7 +1844,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 256469,
       "name": "Un Beso Y Una Flor",
       "url": "https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i"
@@ -1786,6 +1906,24 @@
       "duration_ms": 226731,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
+    },
+    {
+      "album": {
+        "name": "Se Subi\u00f3 la Nota",
+        "url": "https://open.spotify.com/album/53Imi3PCN06wdHRijazqsl"
+      },
+      "artists": [
+        {
+          "name": "Los K Morales",
+          "url": "https://open.spotify.com/artist/1fGyfOQwyXQgEPePzrFQ63"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215765,
+      "name": "Ya No Somos Nada",
+      "url": "https://open.spotify.com/track/6kliDqdZj1TKHEpuuI0QhW"
     },
     {
       "album": {

@@ -140,10 +140,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 140658,
       "name": "Almost",
       "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
+    },
+    {
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/371w92JY495mLhPmTDj8ON"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140658,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/76BaxAKDB58NoFyySHgaIW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 47449,
+  "num_followers": 47520,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzE0NSwwMDAwMDAwMDRkYzJlNmU3YjZkM2EwYTQ1MjA4YzMyNjIyYzM5ZDI3",
+  "snapshot_id": "MTY3Nzg2NzE0NSwwMDAwMDAwMDZlN2IwYTRjYmEyOTJjYmU2ZDE1Mjk4ODE5N2NjYmEz",
   "tracks": [
     {
       "added_at": "2023-02-24 17:27:57",
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
     },
     {
-      "added_at": "2023-04-05 00:58:57",
+      "added_at": "2023-04-06 01:27:14",
       "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "East West",
-        "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 294373,
       "name": "The Things (That) I Used to Do",
       "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "East West",
+        "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "Can't Quit You Baby / Sit Down Baby",
-        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "Sun Records Originals: Mystery Train",
         "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 144400,
       "name": "Mystery Train - Remastered 2022",
       "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     }
   ],
   "unique_name": "Blues Standards",

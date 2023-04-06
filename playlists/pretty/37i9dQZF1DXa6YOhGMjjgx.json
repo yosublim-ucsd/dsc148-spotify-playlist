@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 471190,
+  "num_followers": 471209,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDEzY2QxMTA5ZmQ3Y2E1ZTI3OTE5NGQ4NTQzMmUzNTIz",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDExYTY3MjI4NjU4MzVkYWNmNWQxYTk2M2M1NGU3N2Jk",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Myopic",
-        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Myopic",
-      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Myopic",
+        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Applause",
-        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
-      },
-      "artists": [
-        {
-          "name": "Liily",
-          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "You Deserve Love",
         "url": "https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 237013,
       "name": "Might Be Right",
       "url": "https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "delirious",
-        "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
-      },
-      "artists": [
-        {
-          "name": "swim school",
-          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
-        }
-      ],
-      "duration_ms": 171443,
-      "name": "delirious",
-      "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/2QGtEKawGRCMRIhbp3SbvB"
       },
@@ -687,34 +671,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+        "name": "delirious",
+        "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
       },
       "artists": [
         {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
         }
       ],
-      "duration_ms": 241859,
-      "name": "Lava Lamp Pisco",
-      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+      "duration_ms": 171443,
+      "name": "delirious",
+      "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -735,6 +703,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Joiner",
-        "url": "https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 239675,
-      "name": "Joiner",
-      "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Joiner",
+        "url": "https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 239675,
+      "name": "Joiner",
+      "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "What's So Fucking Funny?",
-        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 176119,
-      "name": "Make A Dime",
-      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Cause You Got Me",
         "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 232526,
       "name": "Cause You Got Me",
       "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "What's So Fucking Funny?",
+        "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 176119,
+      "name": "Make A Dime",
+      "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Seven White Horses",
         "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 197777,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 257398,
-      "name": "Father Of Lies",
-      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Pay the Price",
-        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
-      },
-      "artists": [
-        {
-          "name": "Glowing",
-          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
-        }
-      ],
-      "duration_ms": 216108,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Draw Down The Moon",
         "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 205600,
       "name": "If I Believed In Love",
       "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Pay the Price",
+        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
+      },
+      "artists": [
+        {
+          "name": "Glowing",
+          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
+        }
+      ],
+      "duration_ms": 216108,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
-      },
-      "artists": [
-        {
-          "name": "Dead Sara",
-          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
-        }
-      ],
-      "duration_ms": 196457,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Magical Touch",
         "url": "https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 188746,
       "name": "Magical Touch",
       "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
+      },
+      "artists": [
+        {
+          "name": "Dead Sara",
+          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
+        }
+      ],
+      "duration_ms": 196457,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Come On",
         "url": "https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 209528,
       "name": "Come On",
       "url": "https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "I Feel Like I'm Falling",
+        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "I Feel Like I'm Falling",
+      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
     }
   ],
   "unique_name": "New  Alt-Rock Mixtape",

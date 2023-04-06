@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 480750,
+  "num_followers": 481517,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMDgzZjdjNTI2MWVhN2M4ZjNiOGYwZGE5NGMwMzE4OGY3",
+  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMGQ3MzNhNTVjOWM0MjJhY2IxMWRiZTI1MWJhMmQ1MWQw",
   "tracks": [
     {
       "added_at": "2022-03-17 00:49:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Perdoname Mi Amor",
-        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Serie Diamante- 15 S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 174333,
       "name": "Dime Qui\u00e9n Es",
       "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Serie Diamante- 15 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
     },
     {
       "added_at": "2022-03-17 00:49:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,688 likes - 60 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,702 likes - 60 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 53 | [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 |
 | 54 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
 | 55 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 |
-| 56 | [Uniongoze Yesu](https://open.spotify.com/track/3Ide09ppPsNh2rI7bVcGgY) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol\. 4](https://open.spotify.com/album/1RHHM6zh03RBlS16N4Fl6Y) | 8:10 |
+| 56 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 |
 | 57 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 |
 | 58 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 |
 | 59 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 |
 | 60 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 |
 
-Snapshot ID: `MTY4MDA5NzM3MiwwMDAwMDAwMGUzMzljYzg1OGFjY2E3OGEwY2MzY2EyNTY2OWI4M2M5`
+Snapshot ID: `MTY4MDA5NzM3MiwwMDAwMDAwMDljZGUyMGI2NGRjNjFkNGU1YzY2NzUxMDJkYmQxNzU2`

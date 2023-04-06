@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1131733,
+  "num_followers": 1132122,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzNDQyMiwwMDAwMDAwMGEyZTllMjQ3NmQ1YjFiZDY4NDdiZGNiOGMxMGM5MDgx",
+  "snapshot_id": "MTY4MDYzNDQyMiwwMDAwMDAwMDZhOGZlODM2MWNlNmQ3Y2Y5NTZhY2M3NzUxYjg2MDU1",
   "tracks": [
     {
       "added_at": "2023-03-21 17:38:22",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/2keT649m2xIywngAVJHsuC"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107344,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Rabbit Hearted.",
-        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 198807,
-      "name": "Silly Girl",
-      "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "Rabbit Hearted.",
+        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 198807,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 107344,
-      "name": "i'll never fall in love with myself (demo)",
-      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
+      },
+      "artists": [
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "duration_ms": 115263,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 170027,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "crush (demos)",
         "url": "https://open.spotify.com/album/2ha2R9dZOJ6B0aYnNanUwQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 91200,
       "name": "what does he have that i don't?",
       "url": "https://open.spotify.com/track/24ryJISwrqnR9GARIFUMTZ"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
       "added_at": "2023-03-23 19:39:36",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1395,6 +1379,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws"
     },
     {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
-    },
-    {
       "added_at": "2023-03-23 19:39:36",
       "album": {
         "name": "crow's nest",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1527,22 +1543,6 @@
       "duration_ms": 110163,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-03-21 17:38:22",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 137143,
+  "num_followers": 137172,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMzOTcwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM0MDU3NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Meit ei oo",
         "url": "https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Maailman ymp\u00e4ri",
         "url": "https://open.spotify.com/album/67M8Jo4mQLi5T79mDCgdOO"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4TXoHT9YxXfczvs2ccf5MK"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2hCsRJpmsetg49AXeyhuAN"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "OnlyFans (feat. ibe)",
         "url": "https://open.spotify.com/album/3618K79xLO8Nm7PSfnEXEF"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/04ajBAZ4nicx6flU5D6PdB"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Syd\u00e4mii",
-        "url": "https://open.spotify.com/album/0Nxub8vUbdMyMgYG2DDKG1"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 179910,
-      "name": "Syd\u00e4mii",
-      "url": "https://open.spotify.com/track/1eEAiEd1n6WfPh4zgOWy4S"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Syd\u00e4mii",
+        "url": "https://open.spotify.com/album/0Nxub8vUbdMyMgYG2DDKG1"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 179910,
+      "name": "Syd\u00e4mii",
+      "url": "https://open.spotify.com/track/1eEAiEd1n6WfPh4zgOWy4S"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Kiltti",
         "url": "https://open.spotify.com/album/7gAmYNSzTbndLpkLLNOXjv"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5GXKlga0uXsWWS9lsqtJWu"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Gasellin kyynel",
         "url": "https://open.spotify.com/album/5OyK9kwpQ4PLCN48XTzXfv"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5JFfA93DVs0nduS6IglUv3"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Haukilahden rantaan",
         "url": "https://open.spotify.com/album/5moQsyW4hSZTXksSB2N8hu"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3yZWaLo76NW6EL49Q0GLKP"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Kaks",
         "url": "https://open.spotify.com/album/2ifBDcsLAZqwqfS5BdB1al"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2dMNnJmCuOuokPJ9cUB2qC"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3KOKML3DT5AbPOQYWjBZTh"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Viimeisi\u00e4 sanoja",
         "url": "https://open.spotify.com/album/6xI7ijnlOk4KAdfu5nUuD0"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -309,7 +293,23 @@
       "url": "https://open.spotify.com/track/4jhma1OWtSgGGO4Yh3CrtZ"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "shoppaa",
         "url": "https://open.spotify.com/album/074gJIabo6cSXENefGuWCw"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/2q4XiGEHnERJ428M3LyMQA"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/32yXNG1tmByrOzeXnP5K8W"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Sata vuotta",
         "url": "https://open.spotify.com/album/0OhAVIkgi6mEtHcSJog1iT"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/1mHRqzrSR9MQaryDj6GibE"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
@@ -377,23 +377,7 @@
       "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Baila por mi",
-        "url": "https://open.spotify.com/album/3bU7AR9VuvQ85DjoNG0Lhj"
-      },
-      "artists": [
-        {
-          "name": "Antti Tuisku",
-          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
-        }
-      ],
-      "duration_ms": 179781,
-      "name": "Baila por mi",
-      "url": "https://open.spotify.com/track/1x9PfQvnZZXjPfIVxbM5wb"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "2:02",
         "url": "https://open.spotify.com/album/5SGwySlCqDDgAd7QWBBOwK"
@@ -409,7 +393,7 @@
       "url": "https://open.spotify.com/track/0jDvY7YKzncG41sg1clKs9"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Uudestaan",
         "url": "https://open.spotify.com/album/7xAEHYX1Xj7ro4oVx4RgdB"
@@ -425,7 +409,23 @@
       "url": "https://open.spotify.com/track/6t8EkW44VBwXPzzCFrCUvO"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Baila por mi",
+        "url": "https://open.spotify.com/album/3bU7AR9VuvQ85DjoNG0Lhj"
+      },
+      "artists": [
+        {
+          "name": "Antti Tuisku",
+          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+        }
+      ],
+      "duration_ms": 179781,
+      "name": "Baila por mi",
+      "url": "https://open.spotify.com/track/1x9PfQvnZZXjPfIVxbM5wb"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -441,23 +441,7 @@
       "url": "https://open.spotify.com/track/5NXAczluksdeHJ2p5GBqLi"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Hyvikset ja pahikset",
-        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 184237,
-      "name": "Eteisvalssi",
-      "url": "https://open.spotify.com/track/628LprEZ2tP24jrT3cAdvq"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -473,27 +457,23 @@
       "url": "https://open.spotify.com/track/17V5NNPaddajh4gr50Wng8"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
-        "name": "Ei vitus (feat. Korelon)",
-        "url": "https://open.spotify.com/album/4UVpjLpEkueNON2KcNkm8v"
+        "name": "Hyvikset ja pahikset",
+        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
       },
       "artists": [
         {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        },
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 152147,
-      "name": "Ei vitus (feat. Korelon)",
-      "url": "https://open.spotify.com/track/4f1IC0mWzqRcYtsALav0kJ"
+      "duration_ms": 184237,
+      "name": "Eteisvalssi",
+      "url": "https://open.spotify.com/track/628LprEZ2tP24jrT3cAdvq"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Yll\u00e4s",
         "url": "https://open.spotify.com/album/5C0U0vk05ZIRR0kJZKlS40"
@@ -513,7 +493,43 @@
       "url": "https://open.spotify.com/track/3nNtD3vtQ8yhrxQ5bxaRAB"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Samaa taivasta katsotaan",
+        "url": "https://open.spotify.com/album/6kfLDJxQGRW0ihmsGdhlR6"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "duration_ms": 183926,
+      "name": "Samaa taivasta katsotaan",
+      "url": "https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Ei vitus (feat. Korelon)",
+        "url": "https://open.spotify.com/album/4UVpjLpEkueNON2KcNkm8v"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "duration_ms": 152147,
+      "name": "Ei vitus (feat. Korelon)",
+      "url": "https://open.spotify.com/track/4f1IC0mWzqRcYtsALav0kJ"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "kilsoi",
         "url": "https://open.spotify.com/album/4faii0lNOMeGejDVLh0wsf"
@@ -533,63 +549,7 @@
       "url": "https://open.spotify.com/track/0jz7L1HGCL81c6scYojIRI"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Samaa taivasta katsotaan",
-        "url": "https://open.spotify.com/album/6kfLDJxQGRW0ihmsGdhlR6"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        }
-      ],
-      "duration_ms": 183926,
-      "name": "Samaa taivasta katsotaan",
-      "url": "https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Viimein",
-        "url": "https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 153014,
-      "name": "Cancel",
-      "url": "https://open.spotify.com/track/3Zbtj1w567LeuusI8gHzgb"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Yksinkertasta (feat. Costi)",
-        "url": "https://open.spotify.com/album/0YfoYV4U9TGs6vLEZ2OoDy"
-      },
-      "artists": [
-        {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
-        },
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 182211,
-      "name": "Yksinkertasta (feat. Costi)",
-      "url": "https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Ihana kipu",
         "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
@@ -609,43 +569,27 @@
       "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
-        "name": "Molemmat itkee (feat. Turisti)",
-        "url": "https://open.spotify.com/album/2NeKs07myQL5uOh0EeDGZj"
+        "name": "Viimein",
+        "url": "https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6"
       },
       "artists": [
         {
-          "name": "Isaac Sene",
-          "url": "https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a"
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
         },
         {
           "name": "Turisti",
           "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Molemmat itkee (feat. Turisti)",
-      "url": "https://open.spotify.com/track/6AZT9J4lxwgVuvIiKjvlUN"
+      "duration_ms": 153014,
+      "name": "Cancel",
+      "url": "https://open.spotify.com/track/3Zbtj1w567LeuusI8gHzgb"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "No Business On The Dancefloor",
-        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
-      },
-      "artists": [
-        {
-          "name": "Keira",
-          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "No Business On The Dancefloor",
-      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -665,23 +609,63 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
-        "name": "Hyvikset ja pahikset",
-        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
+        "name": "Yksinkertasta (feat. Costi)",
+        "url": "https://open.spotify.com/album/0YfoYV4U9TGs6vLEZ2OoDy"
       },
       "artists": [
         {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
         }
       ],
-      "duration_ms": 208831,
-      "name": "Hyv\u00e4stej\u00e4 ihanasti",
-      "url": "https://open.spotify.com/track/1ayyKmYL4VWj7i4vZ58BDc"
+      "duration_ms": 182211,
+      "name": "Yksinkertasta (feat. Costi)",
+      "url": "https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "No Business On The Dancefloor",
+        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
+      },
+      "artists": [
+        {
+          "name": "Keira",
+          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "No Business On The Dancefloor",
+      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Molemmat itkee (feat. Turisti)",
+        "url": "https://open.spotify.com/album/2NeKs07myQL5uOh0EeDGZj"
+      },
+      "artists": [
+        {
+          "name": "Isaac Sene",
+          "url": "https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Molemmat itkee (feat. Turisti)",
+      "url": "https://open.spotify.com/track/6AZT9J4lxwgVuvIiKjvlUN"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Sextape II",
         "url": "https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR"
@@ -697,23 +681,7 @@
       "url": "https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Gasellin kyynel",
-        "url": "https://open.spotify.com/album/5OyK9kwpQ4PLCN48XTzXfv"
-      },
-      "artists": [
-        {
-          "name": "Gasellit",
-          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Gasellin kyynel",
-      "url": "https://open.spotify.com/track/1bGecSuu8H1xuh0DZ4LKWS"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Makso Mit\u00e4 Makso",
         "url": "https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK"
@@ -733,55 +701,7 @@
       "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Yks pullo / Aino",
-        "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 178545,
-      "name": "Aino",
-      "url": "https://open.spotify.com/track/08Y12A4mwKiGIOvap0hHPH"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
-      "album": {
-        "name": "NON2EN2E",
-        "url": "https://open.spotify.com/album/07585rByEzjeng7KSShEFK"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 140088,
-      "name": "ORANSSI",
-      "url": "https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp"
-    },
-    {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Mun tapa pelata",
         "url": "https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK"
@@ -797,39 +717,55 @@
       "url": "https://open.spotify.com/track/0WzmYcHhfkchwvZagvItxK"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
-        "name": "Hoida mut",
-        "url": "https://open.spotify.com/album/2eQaKSR4lp0U3t1lGTqRHS"
+        "name": "Hyvikset ja pahikset",
+        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
       },
       "artists": [
         {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 180873,
-      "name": "Hoida mut",
-      "url": "https://open.spotify.com/track/1Myk7vkJ2IZm88Vt9IC21u"
+      "duration_ms": 208831,
+      "name": "Hyv\u00e4stej\u00e4 ihanasti",
+      "url": "https://open.spotify.com/track/1ayyKmYL4VWj7i4vZ58BDc"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
       "album": {
-        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
+        "name": "Yks pullo / Aino",
+        "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
       },
       "artists": [
         {
-          "name": "Haloo Helsinki!",
-          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 247426,
-      "name": "Reiviluola",
-      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
+      "duration_ms": 178545,
+      "name": "Aino",
+      "url": "https://open.spotify.com/track/08Y12A4mwKiGIOvap0hHPH"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "NON2EN2E",
+        "url": "https://open.spotify.com/album/07585rByEzjeng7KSShEFK"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 140088,
+      "name": "ORANSSI",
+      "url": "https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Diplomaatti",
         "url": "https://open.spotify.com/album/3RqMFWox0y0ofDtvPimCqk"
@@ -845,7 +781,55 @@
       "url": "https://open.spotify.com/track/1rYP6R16sM0uSlxrqzR5pM"
     },
     {
-      "added_at": "2023-04-04 09:55:43",
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Hoida mut",
+        "url": "https://open.spotify.com/album/2eQaKSR4lp0U3t1lGTqRHS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 180873,
+      "name": "Hoida mut",
+      "url": "https://open.spotify.com/track/1Myk7vkJ2IZm88Vt9IC21u"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Reiviluola",
+      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
       "album": {
         "name": "Gasellin kyynel",
         "url": "https://open.spotify.com/album/5OyK9kwpQ4PLCN48XTzXfv"
@@ -856,9 +840,25 @@
           "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
         }
       ],
-      "duration_ms": 151706,
-      "name": "\u00c4\u00e4ni k\u00e4hee ku Tiihosella",
-      "url": "https://open.spotify.com/track/6fuChpd5hnJmdnn5pMIxjg"
+      "duration_ms": 188440,
+      "name": "Gasellin kyynel",
+      "url": "https://open.spotify.com/track/1bGecSuu8H1xuh0DZ4LKWS"
+    },
+    {
+      "added_at": "2023-04-05 09:37:18",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     }
   ],
   "unique_name": "Top 50 - Finland",

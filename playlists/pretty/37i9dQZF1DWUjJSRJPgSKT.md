@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330 likes - 100 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387 likes - 100 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 95 | [It's Only A Paper Moon \- Remastered 2005](https://open.spotify.com/track/2UoqI4i9SKlpGN3QDszbYT) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 6:37 |
 | 96 | [Sincerely Diana](https://open.spotify.com/track/3LR9RHZ3BFzYJpuq8Q8ZZG) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [A Night In Tunisia \(Remaster\)](https://open.spotify.com/album/0oGkNKWrFghBenF0j16VVW) | 6:51 |
 | 97 | [A Night In Tunisia \- Take 3](https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Essential Art Blakey \- The Columbia & RCA Years](https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS) | 12:52 |
-| 98 | [Cranky Spanky](https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Hard Bop \(Expanded Edition\)](https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL) | 4:48 |
-| 99 | [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 |
-| 100 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
+| 98 | [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 |
+| 99 | [Cranky Spanky](https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Hard Bop \(Expanded Edition\)](https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL) | 4:48 |
+| 100 | [I'll Remember April](https://open.spotify.com/track/6yRPErtmW2FuTeQ1cvDsrr) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach At Basin Street](https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc) | 9:13 |
 
-Snapshot ID: `MTY3OTY0MTYwMiwwMDAwMDAwMDhjM2VlYzFjMTc5MjQ3NDZiZTQwMGNhNGQ2OTU5ZDY0`
+Snapshot ID: `MTY3OTY0MTYwMiwwMDAwMDAwMDE5OGQ3OTkyOGJjZGQxMTFjZjc2Y2Q0NGRkMWE3Y2Y0`

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1465053,
+  "num_followers": 1465434,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDQyODRhNzFiZDc5ZTJhODc1NmFiZGFjOTYzOTFkNTAz",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGY5OWFkNmIzOWZlNWE3MjU5Y2RiOTAzZmY4ODAwMThl",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Ready For More",
         "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
-        }
-      ],
-      "duration_ms": 279555,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 279555,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "To The Ground",
-        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "To The Ground",
-      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Sweet Surrender",
         "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 199680,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
-        }
-      ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1231,6 +1207,30 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Fibonacci",
         "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 188483,
       "name": "Fibonacci",
       "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 230500,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 354098,
       "name": "I / Y",
       "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 243984,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "LINE IN THE SAND",
         "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
       },
@@ -1467,22 +1451,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
         }
       ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+      "duration_ms": 243984,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1503,6 +1483,26 @@
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
-        }
-      ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Strangers (with Mansionair) [Tinlicker Remix]",
         "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+        }
+      ],
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Am I Dreaming?",
+        "url": "https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "duration_ms": 212636,
+      "name": "Am I Dreaming?",
+      "url": "https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
       },
@@ -1855,18 +1871,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Am I Dreaming?",
-        "url": "https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2"
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
       "artists": [
         {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
         }
       ],
-      "duration_ms": 212636,
-      "name": "Am I Dreaming?",
-      "url": "https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn"
+      "duration_ms": 299232,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1887,26 +1907,6 @@
       "duration_ms": 249919,
       "name": "Neon Jungle - Lane 8 Remix",
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
-        }
-      ],
-      "duration_ms": 299232,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1983,22 +1983,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Follow You Anywhere",
-        "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
+        "name": "Twin Souls",
+        "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         }
       ],
-      "duration_ms": 244982,
-      "name": "Follow You Anywhere",
-      "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
+      "duration_ms": 269460,
+      "name": "Twin Souls",
+      "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
     }
   ],
   "unique_name": "Night Rider",

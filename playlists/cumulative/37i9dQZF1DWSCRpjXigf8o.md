@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-250 songs - 15 hr 19 min
+251 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-10-20 | 2022-12-07 |
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2023-03-15 |
 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-03 | 2023-01-27 |
-| [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-30 | 2023-04-05 |
+| [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-30 |  |
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2022-12-15 | 2023-01-11 |
 | [Burn Down Babylon](https://open.spotify.com/track/5D4JFXhtwLGVKjj25xba9u) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [Burn Down Babylon](https://open.spotify.com/album/2gRXgBIqXnuKaecxRv1z33) | 4:29 | 2023-03-07 | 2023-04-03 |
 | [Burn Down Babylon](https://open.spotify.com/track/6ZvpzgvhPocKMWLB4cNGgs) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [Peanut](https://open.spotify.com/album/0M1L4UtFZreB5vKQfQ2WXe) | 4:29 | 2023-03-30 |  |
@@ -185,7 +185,7 @@
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-15 |  |
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-20 | 2022-11-09 |
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2022-11-08 | 2023-03-31 |
-| [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-10-20 |  |
+| [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-10-20 | 2023-04-06 |
 | [Symphony \- SalaAM ReMi LP Mix](https://open.spotify.com/track/5Wgoa3syX7zZvFoIIhR1US) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 2:53 | 2022-12-06 | 2023-01-27 |
 | [Talk](https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Talk](https://open.spotify.com/album/6miL71NzGTRCH5BOW4SO3R) | 4:38 | 2022-11-08 | 2022-12-07 |
 | [Talking To Myself \- demo](https://open.spotify.com/track/0qB5bMRX5nG0F8qwHJgWmB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Talking To Myself \(demo\)](https://open.spotify.com/album/1tQ0dVXzTgKy42UgCg1UxZ) | 3:04 | 2023-03-14 |  |
@@ -220,6 +220,7 @@
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-20 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-10-20 | 2023-01-18 |
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 | 2022-12-15 | 2023-01-27 |
+| [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/1U64mXSOAvEaz4sRyQPNpb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Soulklassiker](https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY) | 2:57 | 2022-11-08 | 2022-11-13 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2022-10-20 |  |
 | [You Don't Call Me Anymore](https://open.spotify.com/track/1O2HBnIhhNJx4xRe3oDFZF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [You Don't Call Me Anymore](https://open.spotify.com/album/5z3JEwnU21eNIpxyuWhkgV) | 2:57 | 2023-03-07 | 2023-03-25 |
@@ -230,7 +231,7 @@
 | [あの場所へ](https://open.spotify.com/track/3mAUwCblGM1iXVEk7CDmeE) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [あの場所へ](https://open.spotify.com/album/6TTakltB6NsatZHEcFm5WM) | 4:59 | 2023-02-28 |  |
 | [さいごは頬張ろう](https://open.spotify.com/track/0kr9VZT0MtuIfa38PF35ph) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [さいごは頬張ろう](https://open.spotify.com/album/19I4cceUhfRCFu67xiGpfl) | 4:09 | 2022-11-22 | 2022-12-07 |
 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 | 2022-10-20 | 2022-10-28 |
-| [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 |  |
+| [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [セラヴィ \-c'est la vie\-](https://open.spotify.com/track/1MDpjHl1plH4ZyQkVqIU4k) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [セラヴィ \-c'est la vie\-](https://open.spotify.com/album/0egtsy2R72JXPLqyZVg3nm) | 4:15 | 2023-03-30 |  |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 |  |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2023-03-01 |

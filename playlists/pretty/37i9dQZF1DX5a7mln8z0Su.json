@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5557,
+  "num_followers": 5565,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMDI4NDYxMmEyOGYxMTljZGQ5ZjY0N2I3NmViN2NiYTEy",
+  "snapshot_id": "MTY3OTkwNTU5NywwMDAwMDAwMDYzMzViZTI3ODE4N2NiOGEzYzFkOTZlMGZjM2ZmY2Vi",
   "tracks": [
     {
       "added_at": "2023-03-27 08:26:37",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "because I'm stupid?",
+        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
+      },
+      "artists": [
+        {
+          "name": "KIXO",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "because I'm stupid?",
+      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 168480,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
-        "name": "because I'm stupid?",
-        "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
-      },
-      "artists": [
-        {
-          "name": "KIXO",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "because I'm stupid?",
-      "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "kibun (feat. vntermude)",
         "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 168498,
       "name": "kibun (feat. vntermude)",
       "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -807,18 +823,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
       "artists": [
         {
           "name": "CIKI",
           "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -839,22 +859,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "20MIN",
-      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
       },
@@ -871,6 +875,22 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 235693,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

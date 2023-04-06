@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 387403,
+  "num_followers": 387529,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAwNzEwOSwwMDAwMDAwMDFjZWVjZTExYmI4ZjIyYTkzZGEzZjE4M2EyMTIyZmY0",
+  "snapshot_id": "MTY4MDAwNzEwOSwwMDAwMDAwMGM2ZWYyNGFjZDFhMzhhYjE0YzE1NTZlZmZlMGY3YmI0",
   "tracks": [
     {
       "added_at": "2023-03-28 12:38:29",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -195,22 +179,18 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Can You Hear Me",
-        "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
       "artists": [
         {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 304266,
-      "name": "Can You Hear Me",
-      "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -227,6 +207,26 @@
       "duration_ms": 246237,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
+        "name": "Can You Hear Me",
+        "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 304266,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
         "name": "Slam Dunk",
         "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 316106,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/6neOhWrEXAny5DKmVGnlHo"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -803,38 +803,6 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Global Kiss",
-        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -855,6 +823,22 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
         "name": "Global Force",
         "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 264280,
       "name": "Big Shot",
       "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
+        "name": "Global Kiss",
+        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
         "name": "Encantadora",
         "url": "https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
       },
       "artists": [
         {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
         }
       ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1155,22 +1171,6 @@
       "duration_ms": 263493,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/7tCdAL3ojItRoN9Puv7ruc"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Heading Wes",
+      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
         "name": "Stylin'",
         "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 247346,
       "name": "Stylin'",
       "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 239949,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Heading Wes",
-      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
+      "duration_ms": 239949,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE"
+      },
+      "artists": [
+        {
+          "name": "Dee Lucas",
+          "url": "https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb"
+        },
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        }
+      ],
+      "duration_ms": 226221,
+      "name": "Tried and True",
+      "url": "https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
@@ -1355,22 +1375,6 @@
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
-        "name": "Magic Mirror",
-        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
-      },
-      "artists": [
-        {
-          "name": "Carol Albert",
-          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Fire & Water",
-      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1407,22 +1411,34 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "The Time Is Now",
-        "url": "https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE"
+        "name": "Magic Mirror",
+        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
       },
       "artists": [
         {
-          "name": "Dee Lucas",
-          "url": "https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb"
-        },
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
         }
       ],
-      "duration_ms": 226221,
-      "name": "Tried and True",
-      "url": "https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5"
+      "duration_ms": 250790,
+      "name": "Fire & Water",
+      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
+        "name": "Candy Store",
+        "url": "https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "11:58",
+      "url": "https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1443,22 +1459,6 @@
       "duration_ms": 287640,
       "name": "New Bounce (feat. Vincent Ingala)",
       "url": "https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
-        "name": "Candy Store",
-        "url": "https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "11:58",
-      "url": "https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1520,9 +1520,25 @@
           "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 228973,
-      "name": "Romantic Nights",
-      "url": "https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M"
+      "duration_ms": 246546,
+      "name": "Let\u2019s Get Serious",
+      "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
+        "name": "Uptown Blues",
+        "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 223473,
+      "name": "Blues for Jeff",
+      "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Uptown Blues",
-        "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 223473,
-      "name": "Blues for Jeff",
-      "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
-        "name": "Burnin' up",
-        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
-      },
-      "artists": [
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        }
-      ],
-      "duration_ms": 285500,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
-    },
-    {
-      "added_at": "2023-03-28 12:38:29",
-      "album": {
         "name": "Unified",
         "url": "https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 214786,
       "name": "What The Wind Knows",
       "url": "https://open.spotify.com/track/48aCBwMYM5rfUZlN26KVRF"
+    },
+    {
+      "added_at": "2023-03-28 12:38:29",
+      "album": {
+        "name": "Burnin' up",
+        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
+      },
+      "artists": [
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "duration_ms": 285500,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 246546,
-      "name": "Let\u2019s Get Serious",
-      "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
+      "duration_ms": 228973,
+      "name": "Romantic Nights",
+      "url": "https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M"
     },
     {
       "added_at": "2023-03-28 12:38:29",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2023-03-28 12:38:29",
       "album": {
-        "name": "Deep Blue C",
-        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
+        "name": "Hardcastle 8",
+        "url": "https://open.spotify.com/album/1HAH0iyAYIFMOmD6AqGmDP"
       },
       "artists": [
         {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        },
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
         }
       ],
-      "duration_ms": 266717,
-      "name": "Deep Blue C",
-      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
+      "duration_ms": 253326,
+      "name": "Happy Go Lucky",
+      "url": "https://open.spotify.com/track/1vr8HYGVMK0lQn7DgLPewS"
     }
   ],
   "unique_name": "Smooth Jazz",

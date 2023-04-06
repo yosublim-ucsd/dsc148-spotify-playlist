@@ -1,15 +1,15 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Aline Barros",
-  "num_followers": 914484,
+  "num_followers": 914793,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI2Njg3NSwwMDAwMDAwMDFhNWFmZjcxMDU3NDJmYTY2YmNkYzkzYTcwYmExODA1",
+  "snapshot_id": "MTY4MDI2Njg3NSwwMDAwMDAwMDViZTVjMzJiODdhNmIwMWMxM2FlOGFkNmJkNjM0NzEy",
   "tracks": [
     {
-      "added_at": "2023-04-05 00:50:40",
+      "added_at": "2023-04-06 00:39:17",
       "album": {
         "name": "30 Anos (Vol. I)",
         "url": "https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l"
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
       },
       "artists": [
         {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 378000,
-      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
+      "duration_ms": 248811,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 245136,
-      "name": "Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 245136,
+      "name": "Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
+        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 248811,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl"
+      "duration_ms": 378000,
+      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -903,22 +903,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Imagina",
-        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
       },
       "artists": [
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 318020,
-      "name": "Voc\u00ea N\u00e3o Imagina",
-      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -959,18 +955,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+        "name": "Voc\u00ea N\u00e3o Imagina",
+        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+      "duration_ms": 318020,
+      "name": "Voc\u00ea N\u00e3o Imagina",
+      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -995,8 +995,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
       },
       "artists": [
         {
@@ -1004,25 +1004,25 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
     },
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
+        "name": "Est\u00e1 Tudo Bem",
+        "url": "https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
         }
       ],
-      "duration_ms": 312219,
-      "name": "Santo Pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+      "duration_ms": 352502,
+      "name": "Est\u00e1 Tudo Bem",
+      "url": "https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Est\u00e1 Tudo Bem",
-        "url": "https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs"
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
       "artists": [
         {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 352502,
-      "name": "Est\u00e1 Tudo Bem",
-      "url": "https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf"
+      "duration_ms": 312219,
+      "name": "Santo Pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7FhSNkpSxJ1uBiGzKDqpIq"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "ibab celebra\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4tij7q093SZVf6aHxicULk"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        }
+      ],
+      "duration_ms": 330200,
+      "name": "Na Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1dgxAD9MgYOm5lLrmskGLP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
       },
@@ -1487,30 +1511,6 @@
       "duration_ms": 268661,
       "name": "Deus Cuida De Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Na Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7FhSNkpSxJ1uBiGzKDqpIq"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "ibab celebra\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4tij7q093SZVf6aHxicULk"
-        },
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        }
-      ],
-      "duration_ms": 330200,
-      "name": "Na Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1dgxAD9MgYOm5lLrmskGLP"
     },
     {
       "added_at": "2023-03-24 03:00:00",

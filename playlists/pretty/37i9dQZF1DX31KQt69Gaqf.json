@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182964,
+  "num_followers": 182963,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDBkMGQ0M2Q2OTc2ZGRlZDU2NmU5MWViODFmZmMyNTMy",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDQwZjgwMTY4OGFkNzFiNjYxYzZiNTlhODhmYTQ0NDJl",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -559,22 +559,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
       "artists": [
         {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 187364,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -599,18 +595,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+      "duration_ms": 187364,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Long Grass",
         "url": "https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 238915,
       "name": "Long Grass",
       "url": "https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -883,26 +883,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Secret Life (feat. Lana Del Rey)",
-        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Secret Life (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 190960,
       "name": "It Might Take a Woman",
       "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Secret Life (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Secret Life (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Lonely Dancer",
         "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 187492,
       "name": "Lonely Dancer",
       "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     },
     {
       "added_at": "2021-08-12 14:57:38",

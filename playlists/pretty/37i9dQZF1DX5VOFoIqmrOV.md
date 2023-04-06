@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,460 likes - 69 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,930 likes - 69 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 27 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 |
 | 28 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 |
 | 29 | [Ninnila](https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 3:54 |
-| 30 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [M\. M\. Sreelekha](https://open.spotify.com/artist/6CuXzjuJB23gdGN8IsA5yS), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 |
+| 30 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Mm Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 |
 | 31 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi, Shashaa Tirupati, Yazin Nizar](https://open.spotify.com/artist/3TttERM9n1ASk6Afa8Vgjt) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 |
 | 32 | [Nee Kannu Neeli Samudram](https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 5:12 |
 | 33 | [Choolenge Aasma](https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr) | [Adnan Sami, Ramya Behara, Veena Ghantasala](https://open.spotify.com/artist/4Gf2k6NPzkDUQArdfNPi6K) | [Temper](https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS) | 4:10 |

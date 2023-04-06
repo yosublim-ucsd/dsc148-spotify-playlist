@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits, repackaged\. Cover \- Shehzada
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,688 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,844 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

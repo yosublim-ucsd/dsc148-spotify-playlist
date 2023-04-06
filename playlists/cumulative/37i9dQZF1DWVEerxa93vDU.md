@@ -4,7 +4,7 @@
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-294 songs - 12 hr 23 min
+296 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,9 @@
 | [Without Words](https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 4:14 | 2022-09-13 |  |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2021-12-14 | 2022-12-22 |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2021-12-14 |  |
+| [You & Me](https://open.spotify.com/track/7rzmt5jOm1lJn7bEaVSY5s) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [You & Me](https://open.spotify.com/album/7HSmrXg2SoYiNTg6Kodbjs) | 2:27 | 2023-04-05 |  |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2021-12-14 | 2022-05-05 |
+| [Zindiennet](https://open.spotify.com/track/6KGuWUEMFudz66Voh38HVc) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Zindiennet](https://open.spotify.com/album/5rW3WxkcWdRL3VYvIlTCSy) | 2:26 | 2023-04-05 |  |
 | [Zu Hause](https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Zu Hause](https://open.spotify.com/album/4zZaVpP8e7Gl9d4YvyAjrH) | 2:07 | 2022-12-21 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

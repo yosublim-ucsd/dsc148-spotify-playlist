@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: محمد بن غرمان
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,652 likes - 55 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,729 likes - 54 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 47 | [مسموح](https://open.spotify.com/track/47vhMaoRykFM1C4HspBXG0) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [مسموح](https://open.spotify.com/album/2sE39ge2pRfWG4UGdaqd0Q) | 3:21 |
 | 48 | [فيني مايكفيني](https://open.spotify.com/track/5np7Iyt9i8EDmKSpSVJR58) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [فيني مايكفيني](https://open.spotify.com/album/3x0qCf5FPJ96XQS1X4xUvt) | 3:25 |
 | 49 | [غصب علينا](https://open.spotify.com/track/6yNbgI21IGouhgPQ5UkrA3) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/6yw58FnheKdVDaPYsvyTJd) | 3:47 |
-| 50 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 |
-| 51 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 |
-| 52 | [أحبك يوم تاخذني](https://open.spotify.com/track/4eLMkrYnqxRGmNSchxoGy6) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/2wd6hOMXwP04aZU1cb9GCy) | 4:18 |
-| 53 | [صديت مني](https://open.spotify.com/track/2QBbWw5fFAElRWyqnZ07Wj) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [صديت مني](https://open.spotify.com/album/0gyBt500cAV6CeFbbtfWa3) | 3:27 |
-| 54 | [من وين لك](https://open.spotify.com/track/3pmg5RPTBFLPHFE3LIAouB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [من وين لك](https://open.spotify.com/album/6jTqc67zbsEmDuaGNjFmJ1) | 4:28 |
-| 55 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 |
+| 50 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 |
+| 51 | [أحبك يوم تاخذني](https://open.spotify.com/track/4eLMkrYnqxRGmNSchxoGy6) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/2wd6hOMXwP04aZU1cb9GCy) | 4:18 |
+| 52 | [صديت مني](https://open.spotify.com/track/2QBbWw5fFAElRWyqnZ07Wj) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [صديت مني](https://open.spotify.com/album/0gyBt500cAV6CeFbbtfWa3) | 3:27 |
+| 53 | [من وين لك](https://open.spotify.com/track/3pmg5RPTBFLPHFE3LIAouB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [من وين لك](https://open.spotify.com/album/6jTqc67zbsEmDuaGNjFmJ1) | 4:28 |
+| 54 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 |
 
-Snapshot ID: `MTY4MDYwNzk1NCwwMDAwMDAwMDk4OGFiZjg0MTAwOTZmNjRiYjBlYTZkMDNkMmU3OTVj`
+Snapshot ID: `MTY4MDcwMTE1OSwwMDAwMDAwMDc3ODE0MTAzMTliZGZkYWIwMzk5ZTkwMjBhNWI2OGVk`

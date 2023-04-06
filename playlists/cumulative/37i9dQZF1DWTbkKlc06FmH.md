@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-280 songs - 16 hr 49 min
+281 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-20 | 2023-02-26 |
 | [DEEP](https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DEEP](https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9) | 3:36 | 2022-10-25 | 2022-12-07 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-23 |  |
+| [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-06 |  |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-30 |  |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-14 | 2023-03-22 |
 | [Drafts](https://open.spotify.com/track/4WW8l54gcW7KQX5S61v5iQ) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Drafts](https://open.spotify.com/album/42pvAnLAdBcTkPPqxxJKWN) | 3:01 | 2022-10-20 | 2022-11-30 |

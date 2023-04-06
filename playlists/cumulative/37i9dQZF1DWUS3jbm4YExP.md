@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-518 songs - 1 day 13 hr 57 min
+519 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bassa Bassa](https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Bassa Bassa](https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj) | 5:01 | 2022-03-29 | 2022-07-29 |
 | [Basta Parlare](https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Basta Parlare](https://open.spotify.com/album/0jaWU8aTVbgCkA5DFDQyGN) | 3:14 | 2022-11-25 | 2023-01-15 |
 | [Bayne Lay Yihedal](https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Bayne Lay Yihedal](https://open.spotify.com/album/59oXTvqVLMfbexfncNivia) | 5:09 | 2021-10-06 | 2022-07-27 |
+| [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-04-06 |  |
 | [Ben Bene La](https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Voiciii](https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH) | 4:48 | 2021-10-06 | 2023-03-29 |
 | [Bersinar Bersamamu](https://open.spotify.com/track/6pAUpp3urzftoj3O5wrw4q) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Adinda](https://open.spotify.com/artist/2c3wCnUuiH1cRgcUxpIrKB) | [Bersinar Bersamamu](https://open.spotify.com/album/0Ap2bqkmabssfNlAJt7k3s) | 4:42 | 2022-04-01 | 2022-10-01 |
 | [Better Days \(Kumba\)](https://open.spotify.com/track/2HPB1X4LrvvHxoNgMQGB8S) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO), [Gilbert K](https://open.spotify.com/artist/4806BUBQra8PgZMWXpYDO9), [Waina](https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i) | [Better Days](https://open.spotify.com/album/0Nxl08hPtWD64wmJ4QDtKz) | 6:33 | 2022-08-13 | 2022-09-04 |
@@ -451,7 +452,7 @@
 | [Tan Nou](https://open.spotify.com/track/7hc2q1ZucZ2iRsR8Dbwgph) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:23 | 2022-04-26 | 2022-07-28 |
 | [Tangue à l'envie](https://open.spotify.com/track/66mv1VdHLwr6c3tDk0IiJb) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 5:16 | 2022-03-29 | 2022-06-26 |
 | [Taurus](https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:32 | 2022-04-26 | 2022-10-12 |
-| [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2022-12-30 |  |
+| [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2022-12-30 | 2023-04-06 |
 | [Tears of the Ancestors](https://open.spotify.com/track/2EGO35LATKIcw2DXZDDn7f) | [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Good Evening Black Buddha](https://open.spotify.com/album/3rbpuBfLjoR2bdXMEt3s3W) | 4:12 | 2022-09-30 | 2022-12-13 |
 | [Teen Etus](https://open.spotify.com/track/0CEslFNe6rY0pmHaksb9vW) | [Cedric Pytel](https://open.spotify.com/artist/11ls4fvCxj7Lwa7FBF7EnB), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Teen Etus](https://open.spotify.com/album/4WJwqsOGhFoR2EessviVrV) | 2:52 | 2022-04-17 | 2022-06-23 |
 | [Telejayi \(Heavy Baile Remix\)](https://open.spotify.com/track/67nZx73Q8eQenpnx2rPUkP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Brazil is my land](https://open.spotify.com/album/2A79rk8kBWAMoOfN3bXzbd) | 2:22 | 2022-12-30 | 2023-02-20 |

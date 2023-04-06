@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 51931,
+  "num_followers": 51982,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5ODE0MiwwMDAwMDAwMDgxNDI0NjhkNWIwMzFkYTcwODRmMDBiZmU0MzBmYTll",
+  "snapshot_id": "MTY4MDE5ODE0MiwwMDAwMDAwMDQ1YTkyYmIwYTg4M2ZhNmRmM2IyZGI1ODMzZWVlMDQz",
   "tracks": [
     {
       "added_at": "2023-02-21 15:13:27",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
     },
     {
+      "added_at": "2023-04-06 00:13:21",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
+    },
+    {
       "added_at": "2023-02-21 15:13:27",
       "album": {
         "name": "Young Sick Camellia",
@@ -275,22 +291,6 @@
       "duration_ms": 283879,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
-    },
-    {
-      "added_at": "2023-04-05 01:00:01",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 200686,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2023-02-21 15:13:27",

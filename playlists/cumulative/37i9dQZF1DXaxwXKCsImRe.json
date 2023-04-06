@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: DIKKE",
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: Zo\u00eb Tauran",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -534,6 +534,24 @@
       "duration_ms": 180000,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3"
+    },
+    {
+      "album": {
+        "name": "Er Was Eens Een Meid",
+        "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176494,
+      "name": "Er Was Eens Een Meid",
+      "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
     },
     {
       "album": {
@@ -1836,6 +1854,24 @@
       "duration_ms": 163576,
       "name": "The World's Thing",
       "url": "https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq"
+    },
+    {
+      "album": {
+        "name": "Er Was Eens Een Meid",
+        "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Therapie",
+      "url": "https://open.spotify.com/track/01vJrmmK189tfubjoU0jOw"
     },
     {
       "album": {

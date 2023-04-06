@@ -1,12 +1,12 @@
 {
   "description": "mais brabo que a mclaren do ret",
-  "num_followers": 1099223,
+  "num_followers": 1099735,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzMzEwNCwwMDAwMDAwMGQ1ZmZhZGRhY2E1ODFmOTIzMjAxMDAxYzI0N2M4ZDBk",
+  "snapshot_id": "MTY4MDUzMzEwNCwwMDAwMDAwMDY5OTEzMzYyOTk5NDhhZDhlNTZjNDBlMGY3YmQzY2Jk",
   "tracks": [
     {
       "added_at": "2023-04-03 14:45:04",
@@ -570,6 +570,10 @@
         {
           "name": "Kizzy",
           "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
       "duration_ms": 294418,
@@ -951,30 +955,30 @@
     {
       "added_at": "2023-04-03 14:45:04",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 229894,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-04-03 14:45:04",
@@ -1047,6 +1051,34 @@
     {
       "added_at": "2023-04-03 14:45:04",
       "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 229894,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "added_at": "2023-04-03 14:45:04",
+      "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
@@ -1067,54 +1099,6 @@
       "duration_ms": 142564,
       "name": "Metflix - Remix",
       "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
-    },
-    {
-      "added_at": "2023-04-03 14:45:04",
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2023-04-03 14:45:04",
-      "album": {
-        "name": "Modo Repeat",
-        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "M\u00f3 Viagem",
-      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
     },
     {
       "added_at": "2023-04-03 14:45:04",
@@ -1143,6 +1127,26 @@
       "duration_ms": 184421,
       "name": "Gucci, Prada",
       "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+    },
+    {
+      "added_at": "2023-04-03 14:45:04",
+      "album": {
+        "name": "Modo Repeat",
+        "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "M\u00f3 Viagem",
+      "url": "https://open.spotify.com/track/3DNhR7P04alm9S4JA6Llvg"
     },
     {
       "added_at": "2023-04-03 14:45:04",
@@ -1215,26 +1219,6 @@
     {
       "added_at": "2023-04-03 14:45:04",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Modo Avi\u00e3o",
-      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
-    },
-    {
-      "added_at": "2023-04-03 14:45:04",
-      "album": {
         "name": "Invenc\u00edvel",
         "url": "https://open.spotify.com/album/3OyWndHk674qqcC2kSD6ms"
       },
@@ -1267,30 +1251,22 @@
     {
       "added_at": "2023-04-03 14:45:04",
       "album": {
-        "name": "Movimento - Spotify Singles",
-        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
       "artists": [
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 158076,
-      "name": "Movimento - Spotify Singles",
-      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
+      "duration_ms": 179449,
+      "name": "Modo Avi\u00e3o",
+      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
     },
     {
       "added_at": "2023-04-03 14:45:04",
@@ -1315,6 +1291,34 @@
       "duration_ms": 124913,
       "name": "C'est la vie (B\u00f4nus)",
       "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
+    },
+    {
+      "added_at": "2023-04-03 14:45:04",
+      "album": {
+        "name": "Movimento - Spotify Singles",
+        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Movimento - Spotify Singles",
+      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
     },
     {
       "added_at": "2023-04-03 14:45:04",

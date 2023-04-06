@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring HUGEL.
 
-527 songs - 1 day 9 hr 21 min
+528 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [303](https://open.spotify.com/track/15NqqK27F3996RuAoIk7od) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [303](https://open.spotify.com/album/5ppcUIA98nn4M1GgyVskZk) | 2:37 | 2021-12-17 | 2022-04-19 |
 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 | 2022-03-28 | 2022-05-20 |
 | [54321](https://open.spotify.com/track/1HICQphXvKm6oGfQP1lKOR) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0), [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [54321](https://open.spotify.com/album/3KvahenxQI6sd07OldLtcN) | 9:04 | 2022-12-28 | 2023-01-06 |
-| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-13 |  |
+| [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-13 | 2023-04-06 |
 | [Aaron Carl Lives On](https://open.spotify.com/track/4c08MkO9gTwDoilfgsO9hQ) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Aaron Carl Lives On](https://open.spotify.com/album/7q5hNMvRAWZ0MDcxJ1Wp3P) | 7:02 | 2022-12-28 | 2023-01-06 |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-04 | 2022-10-16 |
 | [Acid in My Blood](https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Acid / Ganzfeld 12”](https://open.spotify.com/album/2VdaeUUwHR6azUFE4MMb6S) | 4:28 | 2022-04-06 | 2022-05-14 |
@@ -174,6 +174,7 @@
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2022-06-03 | 2022-08-24 |
 | [Free Yourself \- Paul Woolford Remix](https://open.spotify.com/track/6HakCt8rCQejqqoB3RKj4Y) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Free Yourself \(Paul Woolford Remix\)](https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL) | 3:01 | 2022-08-12 | 2022-09-17 |
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2021-07-25 | 2022-07-29 |
+| [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-31 |  |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2022-07-25 |
 | [German Fall](https://open.spotify.com/track/6ja7vQ6mi5B4ino7LucXKk) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Seasons](https://open.spotify.com/album/4nTMSRO2Ioe0sn7ETzfrxo) | 7:12 | 2021-12-17 | 2022-06-19 |
 | [Get Down](https://open.spotify.com/track/5X0xPDFHNQc3FX4ZSXht0P) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Maui](https://open.spotify.com/artist/2BlkvS9gorfA8g1p9rAcXk), [Terri B!](https://open.spotify.com/artist/6eke2ECTHhJgqVsArc8t5z) | [Get Down](https://open.spotify.com/album/2QppzjWG87Ptjc8eMY2suh) | 3:26 | 2022-03-28 | 2022-04-16 |

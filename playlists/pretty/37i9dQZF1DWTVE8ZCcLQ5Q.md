@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,757 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,767 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 41 | [Comum \- A COLORS SHOW](https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Comum \- A COLORS SHOW](https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184) | 3:31 |
 | 42 | [Quente e Colorido](https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quente e Colorido](https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac) | 3:48 |
 | 43 | [GEMINI](https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [GEMINI](https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2) | 3:20 |
-| 44 | [Eu e Eu](https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Eu e Eu](https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9) | 2:42 |
-| 45 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM](https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx) | 5:03 |
-| 46 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
+| 44 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
+| 45 | [Eu e Eu](https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Eu e Eu](https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9) | 2:42 |
+| 46 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM](https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx) | 5:03 |
 | 47 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 |
 | 48 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 |
 | 49 | [Jogo Sujo](https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 | 60 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDRhZDc4ZWY0MDFiYzlhODFlODg0NzYyMWNhM2MyNTc0`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDFlNjg1MmViYTlmZTZkODgxZTBjY2E2MDU4ZmZkM2Zi`

@@ -1,13 +1,117 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: PJAE. Updates every Wednesday.",
-  "num_followers": 189087,
+  "description": "The best new R&B by independent artists and labels. Cover: Annie Tracy. Updates every Wednesday.",
+  "num_followers": 189258,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4MzIzMiwwMDAwMDAwMDJjMGJjMGQ0MTgxY2U4ODliZjllZDQwMDNiYTExN2Rm",
+  "snapshot_id": "MTY4MDcxMjg2NiwwMDAwMDAwMGM2ZDdkYmFlZTNlNjM3MTkzOTk3OWEwOTQ5MzA3Nzlk",
   "tracks": [
+    {
+      "added_at": "2023-04-05 16:41:06",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
+    },
+    {
+      "added_at": "2023-04-05 16:41:06",
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/1sh3aMjik3CfTl9yzrMm8Y"
+      },
+      "artists": [
+        {
+          "name": "Kyle Lux",
+          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/1rAUaWCqT6CpHRA2L5mLHp"
+    },
+    {
+      "added_at": "2023-04-05 16:41:06",
+      "album": {
+        "name": "Loso Na Madesu",
+        "url": "https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 187872,
+      "name": "Loso Na Madesu",
+      "url": "https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw"
+    },
+    {
+      "added_at": "2023-04-05 16:41:06",
+      "album": {
+        "name": "THE SOUTHWESTERN EP",
+        "url": "https://open.spotify.com/album/3fxzoHx0tZYgcm0CG57TTK"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 118419,
+      "name": "NOBODY BUT YOU",
+      "url": "https://open.spotify.com/track/5LwQZ55InyKyF488Cl53vh"
+    },
+    {
+      "added_at": "2023-04-05 16:41:06",
+      "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 214432,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9"
+    },
+    {
+      "added_at": "2023-04-05 16:41:06",
+      "album": {
+        "name": "Bebecita",
+        "url": "https://open.spotify.com/album/6Ie5gyKriUs08XaFbkteKR"
+      },
+      "artists": [
+        {
+          "name": "Shade Jenifer",
+          "url": "https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy"
+        }
+      ],
+      "duration_ms": 134022,
+      "name": "Bebecita",
+      "url": "https://open.spotify.com/track/4XJHEvCpx3ClLZk0lyfsry"
+    },
     {
       "added_at": "2023-03-31 05:27:46",
       "album": {
@@ -549,7 +653,7 @@
         }
       ],
       "duration_ms": 207454,
-      "name": "You know",
+      "name": "You Know",
       "url": "https://open.spotify.com/track/4F18dT7tgxQMKIamogReCd"
     },
     {
@@ -1303,22 +1407,6 @@
       "duration_ms": 220741,
       "name": "BONNIE",
       "url": "https://open.spotify.com/track/5AFpQpvqjkhxyPZHH5fjiT"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Table Manners",
-        "url": "https://open.spotify.com/album/1oGu4rzfCutP4mXLSZ8I5B"
-      },
-      "artists": [
-        {
-          "name": "Syo",
-          "url": "https://open.spotify.com/artist/52kJJ2Qq6KuzX2seCSTlXn"
-        }
-      ],
-      "duration_ms": 206099,
-      "name": "clap4me",
-      "url": "https://open.spotify.com/track/6SIeF6KG8l06YDpFn0mfrT"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2415,26 +2503,6 @@
     {
       "added_at": "2023-02-10 19:40:32",
       "album": {
-        "name": "Just Expectationz",
-        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
-      },
-      "artists": [
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        },
-        {
-          "name": "Ivy Sole",
-          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
-        }
-      ],
-      "duration_ms": 228877,
-      "name": "Just Expectationz",
-      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
-    },
-    {
-      "added_at": "2023-02-10 19:40:32",
-      "album": {
         "name": "I Love Being Invisible",
         "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
       },
@@ -2447,26 +2515,6 @@
       "duration_ms": 181227,
       "name": "I Love Being Invisible",
       "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
-    },
-    {
-      "added_at": "2023-02-10 19:40:32",
-      "album": {
-        "name": "APPETITE FOR DISASTER",
-        "url": "https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe"
-      },
-      "artists": [
-        {
-          "name": "iyla",
-          "url": "https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        }
-      ],
-      "duration_ms": 187113,
-      "name": "Impala",
-      "url": "https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM"
     },
     {
       "added_at": "2023-02-10 19:40:32",
@@ -2791,22 +2839,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Amazing",
-        "url": "https://open.spotify.com/album/31PPuKa80ap6GwmMNsNYD5"
-      },
-      "artists": [
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 147607,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/57fjSv43kkWdFY7u9YpS9S"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "4 the Streets",
         "url": "https://open.spotify.com/album/560INixdlezfqDSc5Jp56U"
       },
@@ -2909,38 +2941,6 @@
       "url": "https://open.spotify.com/track/10U0rbctNl1DWEuCn1ETm6"
     },
     {
-      "added_at": "2023-01-26 13:01:35",
-      "album": {
-        "name": "Dancing In The Rain",
-        "url": "https://open.spotify.com/album/3sqGQzEcfumKIf0IDsL7L4"
-      },
-      "artists": [
-        {
-          "name": "Kwatt",
-          "url": "https://open.spotify.com/artist/2rxHoNlDtRxgmAcQKmE4VA"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Philophobia",
-      "url": "https://open.spotify.com/track/0V1aYV1FlZH4NxOSZ5KvAv"
-    },
-    {
-      "added_at": "2023-01-26 13:01:35",
-      "album": {
-        "name": "Where I've Been",
-        "url": "https://open.spotify.com/album/4Ol4KkafXHbRAicpUREG6g"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Janai",
-          "url": "https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU"
-        }
-      ],
-      "duration_ms": 126958,
-      "name": "Where I've Been",
-      "url": "https://open.spotify.com/track/5vw7kEejZkEDFgZutfZ8gT"
-    },
-    {
       "added_at": "2023-01-26 10:46:32",
       "album": {
         "name": "Pitaya",
@@ -2963,22 +2963,6 @@
       "duration_ms": 162758,
       "name": "Pitaya",
       "url": "https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf"
-    },
-    {
-      "added_at": "2023-01-26 10:46:32",
-      "album": {
-        "name": "Sex On GPS",
-        "url": "https://open.spotify.com/album/790xd2JGQhYWOgUcKarmwe"
-      },
-      "artists": [
-        {
-          "name": "Maesu",
-          "url": "https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Sex On GPS",
-      "url": "https://open.spotify.com/track/0XTnNSfnSoH8cOOUoaaKgg"
     },
     {
       "added_at": "2023-01-18 18:13:40",

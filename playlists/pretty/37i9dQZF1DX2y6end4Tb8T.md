@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,602 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,624 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 94 | [Teca](https://open.spotify.com/track/47hR4k0HXKligeRvMiQAbQ) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca](https://open.spotify.com/album/7xBdmaoynBoXOm6dI4skKt) | 3:21 |
 | 95 | [Twisted \(feat\. Juicy J, Logic & A$AP Rocky\)](https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 4:22 |
 | 96 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
-| 97 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 |
-| 98 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
+| 97 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
+| 98 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 |
 | 99 | [1017 Loaded \(feat\. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty\)](https://open.spotify.com/track/40RYJy7qh1BDlzhKyceq46) | [Roboy](https://open.spotify.com/artist/1pGpW7veMZibg5kToGiGKZ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [K Shiday](https://open.spotify.com/artist/1Kskh57US3ruzFx7UxsxYn), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [1017 Loaded \(feat\. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty\)](https://open.spotify.com/album/1KpJI4uraalhGpVhqrn8gp) | 3:56 |
 | 100 | [LOAD IT UP](https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [LOAD IT UP](https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA) | 2:57 |
 
-Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMGUwMDc0YzEzYmM4NDY2Mzk1OTMyYmViMjc0NWMzYTNm`
+Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMDc3YjU0Mjg2YzQ4YzQ3NDA3MDJjOTI2NjQ4MTVmYzcx`

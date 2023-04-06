@@ -1763,24 +1763,6 @@
     },
     {
       "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "date_added": "2021-09-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212800,
-      "name": "Night Fever",
-      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
-    },
-    {
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
       },
@@ -1796,6 +1778,24 @@
       "duration_ms": 212266,
       "name": "Night Fever - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/0ZFJpY6hELA21Y5d5YmdlR"
+    },
+    {
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
     },
     {
       "album": {

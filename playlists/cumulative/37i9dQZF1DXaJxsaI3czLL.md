@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-198 songs - 13 hr 55 min
+199 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Mother And Me](https://open.spotify.com/track/2TiZH7Hu0CE482TGuz4Ad0) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [Mother And Me](https://open.spotify.com/album/3ynbxx9HX2CBj9Ut4G62GP) | 4:21 | 2022-12-27 | 2023-01-23 |
 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 | 2023-01-14 | 2023-03-23 |
 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 | 2022-10-20 | 2022-11-30 |
-| [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-22 |  |
+| [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-22 | 2023-04-06 |
 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 | 2023-01-26 |  |
 | [Nightfall](https://open.spotify.com/track/6GouUDqhYlz4D8A18osOwd) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Beat Installments](https://open.spotify.com/album/2UMNx3cmcaMPsMKViw4nS1) | 3:06 | 2023-01-26 | 2023-02-08 |
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-30 |  |
@@ -113,6 +113,7 @@
 | [ukikusa](https://open.spotify.com/track/3ivnjXjOSK824zgeZuzCsZ) | [Beard](https://open.spotify.com/artist/3fm8mLgvvLfi3wFof8a8zN), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [ukikusa](https://open.spotify.com/album/3Svl3VxVlvyVWQUxJYekRe) | 4:18 | 2022-10-20 | 2022-10-26 |
 | [Utero](https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Leeloo and Alexandra](https://open.spotify.com/album/1Qi0J8woiPDk8J8WltPdzb) | 4:44 | 2023-01-31 | 2023-03-15 |
 | [Weight](https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [sequential souls](https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q) | 4:42 | 2022-10-20 | 2022-11-14 |
+| [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 |  |
 | [Yakan Hikou](https://open.spotify.com/track/7Djn2PQhFI1YGojIQUZGwC) | [いちやなぎ](https://open.spotify.com/artist/6yhBmNNa8y5tZegkOQLLPB) | [Yakan Hikou](https://open.spotify.com/album/7hXC2CPNOycgV716L41LHu) | 4:43 | 2023-01-19 | 2023-01-25 |
 | [Yellow Moon](https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Roundabout](https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe) | 5:08 | 2023-01-26 |  |
 | [Yoru](https://open.spotify.com/track/171P75QxuTfY2Uu2C4W5z7) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d) | 4:11 | 2022-11-08 |  |
@@ -140,7 +141,7 @@
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 | 2022-11-23 |
 | [またね](https://open.spotify.com/track/1nGRhES32vNvNMoLHSCY1m) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Where is “LAGHEADS”?](https://open.spotify.com/album/29hUw40qYCdiUKb5ry9Fjp) | 5:27 | 2023-01-24 | 2023-03-15 |
 | [もしも星が降るのなら](https://open.spotify.com/track/0Ydlj1Y8r8xnncUIjUAQD6) | [スズキケント](https://open.spotify.com/artist/4LjPOp1UJAb7EKUkW2MLnX) | [もしも星が降るのなら](https://open.spotify.com/album/4gKZhjEqcVqzwAYF23BsJr) | 4:46 | 2023-01-24 | 2023-02-01 |
-| [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 |  |
+| [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 | 2022-11-23 |  |
 | [ゆりかごのうた](https://open.spotify.com/track/3n0KHRpRz4suIMHFgoMOod) | [Ray Akaike](https://open.spotify.com/artist/7056n38jYtwK9ZGG8a9DvM) | [むすんで ひらいて](https://open.spotify.com/album/3RsVAqKiID9zbnYQcfqpUT) | 2:36 | 2023-01-12 | 2023-03-15 |
 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 | 2023-02-23 |  |
@@ -160,7 +161,7 @@
 | [世界はここで回るよ](https://open.spotify.com/track/7vThpShILWq0xIenNi53Va) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [世界はここで回るよ](https://open.spotify.com/album/4DzFPjfbnCxtrku5WDvt9J) | 4:35 | 2022-11-29 | 2023-01-07 |
 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-30 |  |
 | [同じ月を見ている](https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [瀬と瀬](https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS) | 4:43 | 2022-10-20 | 2023-03-23 |
-| [在宅ワルツ](https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e) | [NRQ](https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf) | [Retronym](https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj) | 2:41 | 2022-10-20 | 2023-04-05 |
+| [在宅ワルツ](https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e) | [NRQ](https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf) | [Retronym](https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj) | 2:41 | 2022-10-20 |  |
 | [夏のクラクション](https://open.spotify.com/track/1bhcV6nFXDxzyQwQ0h8hsn) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 4:17 | 2022-11-29 | 2022-12-14 |
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2022-10-25 |  |
 | [夜のままで](https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 1:56 | 2023-03-14 | 2023-03-16 |

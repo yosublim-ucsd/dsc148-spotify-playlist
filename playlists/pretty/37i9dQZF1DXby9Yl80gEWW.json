@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 37258,
+  "num_followers": 37279,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDA5NDJmMTc2MTc2NzNlMmJmNGU5YWNiZWQ3Y2ZiOGQ5",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDE1MDE4MjRhYjIzMmI1ZTE2MTE4ZTMzYWU1ZDQzYjQ4",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "The David Grisman Quintet",
-        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
-      },
-      "artists": [
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Blue Midnite",
-      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "The David Grisman Quintet",
+        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
+      },
+      "artists": [
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Blue Midnite",
+      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Church Street Blues",
+        "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Jerusalem Ridge",
+      "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Church Street Blues",
-        "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Jerusalem Ridge",
-      "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Plays Bill Monroe",
         "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
       },
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+        "name": "Instrumentals",
+        "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Kentucky Thunder",
+          "url": "https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K"
         }
       ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+      "duration_ms": 265360,
+      "name": "Missing Vassar",
+      "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1203,26 +1223,6 @@
       "duration_ms": 483442,
       "name": "Charm School (feat. Billy Strings & Chris Thile)",
       "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Instrumentals",
-        "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        },
-        {
-          "name": "Kentucky Thunder",
-          "url": "https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Missing Vassar",
-      "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 255369,
+      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1335,30 +1359,6 @@
       "duration_ms": 176240,
       "name": "Orange Blossom Special",
       "url": "https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 255369,
-      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Fiddler's Dream",
         "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 217946,
       "name": "Fiddler's Dream",
       "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 325013,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 221706,
       "name": "Stoney Lonesome",
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+        "name": "From Sea To Sky",
+        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
       },
       "artists": [
         {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+          "name": "Jake Soffer",
+          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Bozeman",
-      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
+      "duration_ms": 159130,
+      "name": "From Sea To Sky",
+      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1647,22 +1647,6 @@
       "duration_ms": 153066,
       "name": "Back Up And Push",
       "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "From Sea To Sky",
-        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
-      },
-      "artists": [
-        {
-          "name": "Jake Soffer",
-          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "From Sea To Sky",
-      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
+        "name": "Details",
+        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
       },
       "artists": [
         {
-          "name": "Waterhouse",
-          "url": "https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S"
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
+      "duration_ms": 254906,
+      "name": "Bozeman",
+      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1747,6 +1731,22 @@
       "duration_ms": 273586,
       "name": "Winnipeg",
       "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
+      },
+      "artists": [
+        {
+          "name": "Waterhouse",
+          "url": "https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1803,6 +1803,30 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Songs For The Sparrows",
+        "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
+      },
+      "artists": [
+        {
+          "name": "Nefesh Mountain",
+          "url": "https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Big Mountain",
+      "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "If Not Now, Who?",
         "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
       },
@@ -1815,26 +1839,6 @@
       "duration_ms": 295280,
       "name": "Palmer",
       "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
-        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
-      },
-      "artists": [
-        {
-          "name": "Dominick Leslie",
-          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
-        },
-        {
-          "name": "Ric Robertson",
-          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
-        }
-      ],
-      "duration_ms": 222646,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

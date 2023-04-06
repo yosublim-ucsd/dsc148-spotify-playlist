@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,392 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,501 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 47 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 |
 | 48 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 |
 | 49 | [Voodoo People \- Pendulum Mix](https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:07 |
-| 50 | [Find My Way Home](https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Find My Way Home](https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY) | 4:18 |
-| 51 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
+| 50 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
+| 51 | [Find My Way Home](https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Find My Way Home](https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY) | 4:18 |
 | 52 | [Drops \- Kanine Remix](https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Drops Remixes](https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q) | 4:22 |
 | 53 | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD) | 2:32 |
 | 54 | [Over](https://open.spotify.com/track/5cIhCgoaVhYLWi7Lwm3uhA) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Over](https://open.spotify.com/album/4oat7EzdqhUxGRKcQpulN3) | 3:57 |
 | 55 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 |
-| 56 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 |
-| 57 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
+| 56 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
+| 57 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 |
 | 58 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
 | 59 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 |
 | 60 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
 | 75 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 |
 
-Snapshot ID: `MTY3ODc4ODY0NiwwMDAwMDAwMGQ0MWE1NDQxYTQ1ODU2MjQxMTI5OTBmNjJiNDc2ZDhl`
+Snapshot ID: `MTY3ODc4ODY0NiwwMDAwMDAwMDE4MDU1NzJlNDA2ZDNhYTNiNjkzNzIxZjU3NDhiZDc4`

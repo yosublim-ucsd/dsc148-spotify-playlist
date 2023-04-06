@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 186033,
+  "num_followers": 186138,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDM5ZGM0ZGM5YzYyMDlhZDhjNTVjNjA0MmJhNzdjODJk",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDZhOTY0NjcyZGFjYmZiNTE1ZTIxZjAzMzAyYWFjMDMz",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Ghosts Again",
-        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "Ghosts Again",
-      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Ghosts Again",
+        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 238945,
+      "name": "Ghosts Again",
+      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Dance Away The Pain",
         "url": "https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 176813,
       "name": "Dance Away The Pain",
       "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Crashland",
-        "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Crashland",
-      "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -1239,18 +1223,34 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
+        "name": "Crashland",
+        "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
         }
       ],
-      "duration_ms": 189000,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
+      "duration_ms": 162066,
+      "name": "Crashland",
+      "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 155327,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
     }
   ],
   "unique_name": "night pop",

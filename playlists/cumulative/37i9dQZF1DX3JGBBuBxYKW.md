@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-123 songs - 7 hr 27 min
+124 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-03 |  |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 | 2022-01-14 |  |
 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 | 2023-01-20 |  |
-| [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 | 2022-01-14 | 2023-03-25 |
+| [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 | 2022-01-14 |  |
 | [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 | 2022-01-14 | 2022-11-13 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Nunca Es Suficiente](https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq) | 4:16 | 2022-07-08 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/5M8J1Y0be0Sfexkcni9wnR) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Nunca Es Suficiente](https://open.spotify.com/album/6i0vuJzMZnBxPeh9np05MT) | 4:16 | 2022-01-14 | 2022-07-29 |
@@ -111,12 +111,13 @@
 | [Raúl en el Baúl](https://open.spotify.com/track/12TuXFsOKO9IvdQJn3OxXv) | [India Marte](https://open.spotify.com/artist/36T8vQZYZQcyUi7VFIJcEu) | [Raúl en el Baúl](https://open.spotify.com/album/4VrsT5Km3cwglOgZWzsm1e) | 3:07 | 2022-01-14 | 2022-11-13 |
 | [Señor Mentira](https://open.spotify.com/track/0Lwv86uXopDNobWyASNPLK) | [Verónica Ávila](https://open.spotify.com/artist/0kER6HwNAQQBCrJcJvVeug) | [Valiente](https://open.spotify.com/album/2XcMiM1YvsBUvbXLFSuo8J) | 3:05 | 2022-07-08 | 2023-01-15 |
 | [Señor Mentira](https://open.spotify.com/track/2aRIGuUAW6agcFE7czXq7H) | [Verónica Ávila](https://open.spotify.com/artist/0kER6HwNAQQBCrJcJvVeug) | [Señor Mentira](https://open.spotify.com/album/1LrXgOguVqJapzoYXu303k) | 3:05 | 2022-01-14 | 2022-07-27 |
-| [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 | 2022-01-14 |  |
+| [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 | 2022-01-14 | 2023-04-06 |
 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 | 2022-01-14 |  |
 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 | 2022-01-14 | 2023-01-21 |
 | [Suavecito Suavecito](https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 3:45 | 2022-01-14 | 2022-07-29 |
 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2022-07-08 |  |
 | [Suavecito, Suavecito](https://open.spotify.com/track/6lOSfxnf4BCGdECIW5agSO) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 Kilates](https://open.spotify.com/album/7BQN3M9OwQGmM9XQMeHmys) | 3:46 | 2022-09-23 | 2022-11-13 |
+| [Tal Vez](https://open.spotify.com/track/0FjwCoow8qR8XTavdBG48z) | [Grupo Europa](https://open.spotify.com/artist/1nmR8qemtRdHtpuN4IYIeO), [Flor Cazzuchelli](https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH) | [Tal Vez](https://open.spotify.com/album/2uZ1VaFkTWkDGh3QJRz3E8) | 3:42 | 2023-04-06 |  |
 | [Te Metiste](https://open.spotify.com/track/6lgHNsNnN2ohPCBPtXwqvI) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Te Metiste](https://open.spotify.com/album/0GJd4LBfN3dlrFpcxH1Dko) | 3:27 | 2022-01-14 | 2022-07-29 |
 | [Tengo Que Colgar](https://open.spotify.com/track/3qBxTt340PgI9vHuDxaPgt) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Tengo Que Colgar](https://open.spotify.com/album/1hvpBLTZPlDAXN5AReC92e) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 | 2022-01-14 |  |
@@ -130,6 +131,6 @@
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/1EmFnAYjHBmAPi5TMPIzxg) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/2ijXizRTAsOwAF1aYo0Amy) | 3:31 | 2022-01-14 | 2022-07-29 |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 |  |
 | [Yo Tonta, No](https://open.spotify.com/track/4rQzRzx3ljt9gOYGpbc3xH) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/3XzGt66BYB6j1Kz7zLGiKe) | 4:00 | 2022-01-14 | 2022-07-28 |
-| [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 |  |
+| [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 | 2023-04-06 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

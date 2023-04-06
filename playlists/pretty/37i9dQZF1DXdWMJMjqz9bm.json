@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Felly",
-  "num_followers": 189732,
+  "num_followers": 189819,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzNDY1OCwwMDAwMDAwMDQ5MTQ0ZGMzZmI3ZTFiOGQyZjRkOWQyZDYyOGI3MmZh",
+  "snapshot_id": "MTY4MDcyMDA0NCwwMDAwMDAwMDQyYWI0YzdhZDk5YzUzOTk4NzBjNTNmZTQyOWQ5MzZm",
   "tracks": [
+    {
+      "added_at": "2023-04-05 18:40:44",
+      "album": {
+        "name": "woosah",
+        "url": "https://open.spotify.com/album/4l7AZRHP009foD9OjeOiQn"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 162640,
+      "name": "woosah",
+      "url": "https://open.spotify.com/track/2pDJMENPO7ECZJTWBx29vg"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {

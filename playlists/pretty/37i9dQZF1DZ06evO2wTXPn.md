@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,060 likes - 47 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,065 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 41 | [La Mujer Perfecta \- En Vivo](https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:30 |
 | 42 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 |
 | 43 | [Kapitel 1.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/4DgfaBr9C1HT3isZcVDaN2) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:28 |
-| 44 | [Kapitel 3.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/7prZIfKOmh3he01CQT1IR5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:34 |
-| 45 | [Kapitel 3.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6s7OHMiFJb3AhF5LdLBOjg) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:25 |
-| 46 | [Kapitel 4.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/226qIu0Z9Kryuaj6Eqy1Ro) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:13 |
-| 47 | [Kapitel 3.4 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/47HyVMD5hpNbA49T0G2bRS) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:05 |
+| 44 | [Kapitel 4.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/226qIu0Z9Kryuaj6Eqy1Ro) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:13 |
+| 45 | [Kapitel 2.3 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/6Lax6hORnWTLolXwEBEZm8) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:52 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDAxYWZiZDg4MGViY2IwN2JiNGVkNjc4ZjVkM2Q3Yjk0Mg==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDA2M2UwYzBjZDc1ZjIxYmFhNzY2ODg5N2Y3NTUzZTkwNg==`

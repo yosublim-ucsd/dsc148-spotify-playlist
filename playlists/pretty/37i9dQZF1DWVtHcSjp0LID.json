@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 54126,
+  "num_followers": 54210,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGY2ZWNjZDdkMDllNWQxMTFiMmU0NjUxZDRlODBmYWE2",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDM5MDhmZmVkNzJiZmVjNmRiZGNmNjU0OWMxOGZmMzk0",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia - Edit",
+      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia - Edit",
-      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Arterial",
         "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "See You When You Get There",
-        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 364795,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Patterns & Light",
         "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 295049,
       "name": "Red Giant",
       "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "See You When You Get There",
+        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 364795,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Caturne V - EP",
-        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
-      },
-      "artists": [
-        {
-          "name": "Aemone",
-          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Drone Logic",
         "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 342853,
       "name": "Knowing We'll Be Here",
       "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Caturne V - EP",
+        "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
+      },
+      "artists": [
+        {
+          "name": "Aemone",
+          "url": "https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d"
+        }
+      ],
+      "duration_ms": 252959,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -779,18 +779,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Hold Me To The Light",
-        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
+        "name": "What I Saw That Night",
+        "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
       "artists": [
         {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+          "name": "Ak\u0131n Paksoy",
+          "url": "https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ"
+        },
+        {
+          "name": "Velectric",
+          "url": "https://open.spotify.com/artist/7Io8HoUECnnnjZT9iPMhTm"
         }
       ],
-      "duration_ms": 474142,
-      "name": "The Hymn Of Fallen Dreams",
-      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
+      "duration_ms": 420465,
+      "name": "What I Saw That Night",
+      "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "What I Saw That Night",
-        "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
+        "name": "Hold Me To The Light",
+        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
       },
       "artists": [
         {
-          "name": "Ak\u0131n Paksoy",
-          "url": "https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ"
-        },
-        {
-          "name": "Velectric",
-          "url": "https://open.spotify.com/artist/7Io8HoUECnnnjZT9iPMhTm"
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
         }
       ],
-      "duration_ms": 420465,
-      "name": "What I Saw That Night",
-      "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
+      "duration_ms": 474142,
+      "name": "The Hymn Of Fallen Dreams",
+      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+        "name": "Dazed & Confused",
+        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
       },
       "artists": [
         {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+          "name": "Supernaive",
+          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
         }
       ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+      "duration_ms": 223060,
+      "name": "Opal Waltz",
+      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -907,6 +907,22 @@
       "duration_ms": 346640,
       "name": "Cow Palace",
       "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -959,22 +975,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dazed & Confused",
-        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
-      },
-      "artists": [
-        {
-          "name": "Supernaive",
-          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Opal Waltz",
-      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
@@ -987,26 +987,6 @@
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Sky Float Sun",
-        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
-      },
-      "artists": [
-        {
-          "name": "Rocket Empire",
-          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
-        },
-        {
-          "name": "Amber Sparks",
-          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
-        }
-      ],
-      "duration_ms": 331203,
-      "name": "Bonder",
-      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1047,6 +1027,26 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Sky Float Sun",
+        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
+      },
+      "artists": [
+        {
+          "name": "Rocket Empire",
+          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
+        },
+        {
+          "name": "Amber Sparks",
+          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
+        }
+      ],
+      "duration_ms": 331203,
+      "name": "Bonder",
+      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
     },
     {
       "added_at": "2022-07-15 17:34:15",

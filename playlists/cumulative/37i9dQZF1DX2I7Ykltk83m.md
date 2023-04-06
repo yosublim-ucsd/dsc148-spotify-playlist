@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-334 songs - 20 hr 15 min
+335 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-05-20 | 2023-03-08 |
 | [The Bus Song](https://open.spotify.com/track/2dH6JDf5L4kQnDAtxBNeio) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Everybody Works](https://open.spotify.com/album/1ZMtgC7o6TGbzwkv5SpThU) | 3:36 | 2022-04-01 | 2022-05-19 |
 | [The Embers](https://open.spotify.com/track/2h0ax9KUQRoAiy5ZGMk5aS) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Infinite Worlds](https://open.spotify.com/album/2t1IC3t3dXjK1wIlsEjCez) | 3:15 | 2022-04-01 | 2022-04-21 |
-| [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2022-05-20 |  |
+| [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2022-05-20 | 2023-04-06 |
 | [The Last Man on Earth](https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man on Earth](https://open.spotify.com/album/339CvLlLSLcrQlMpedt47v) | 4:21 | 2021-11-14 | 2022-07-24 |
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2021-11-14 |  |
 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 | 2021-11-14 | 2023-01-28 |
@@ -333,6 +333,7 @@
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-04-01 | 2022-10-15 |
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-12-08 | 2022-04-14 |
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2023-01-27 |  |
+| [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 | 2023-03-31 |  |
 | [Wonder](https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Wonder](https://open.spotify.com/album/4aOPrkSRPB7HmDYmgrvZAa) | 2:11 | 2021-11-14 | 2022-07-27 |
 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 | 2021-11-14 |  |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |

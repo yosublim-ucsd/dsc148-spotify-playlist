@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=5bdIe6ZEROS3VhYyTcVSeQ">Wikus Botma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,072 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,090 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 36 | [Plaashond](https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Plaashond](https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn) | 2:45 |
 | 37 | [Gap\-jaar](https://open.spotify.com/track/7L0bZEC2dibboyXfBEkUTw) | [Lila Swift](https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo) | [Gap\-jaar](https://open.spotify.com/album/2cUskcQeTMY7yfKXdX6YDQ) | 3:17 |
 | 38 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
-| 39 | [Kom Terug](https://open.spotify.com/track/06tDbI3tpM8tEegjENyki1) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS) | [Kom Terug](https://open.spotify.com/album/41yrAyz0Qf5ZjTlagYjGn6) | 3:55 |
+| 39 | [Kom Terug \- Radio Edit](https://open.spotify.com/track/06tDbI3tpM8tEegjENyki1) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS) | [Kom Terug \(Radio Edit\)](https://open.spotify.com/album/41yrAyz0Qf5ZjTlagYjGn6) | 3:55 |
 | 40 | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093) | 3:19 |
 | 41 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 |
 | 42 | [Vyeboompiekniek \(13 Jaar\)](https://open.spotify.com/track/3VjMomtTP99WZjxl8kGyap) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Vyeboompiekniek \(13 Jaar\)](https://open.spotify.com/album/3dWt4RQ3fYoeI16mcA2lMD) | 3:43 |

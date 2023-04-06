@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Fred again.., Skrillex & Four Tet",
-  "num_followers": 74369,
+  "num_followers": 74490,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMDcxOTU5ZGE1MmZhNWMzNTdlZDM2Njc4MTRjMGEwNzM1",
+  "snapshot_id": "MTY4MDIyODAwMCwwMDAwMDAwMDM5MTE3ODMxN2I1YTAyZTBhZjQ1ZmMzNTFjZDQwNTBi",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/32CMKSnLQtj4G6K7KSjb4v"
     },
     {
-      "added_at": "2023-04-05 00:47:36",
+      "added_at": "2023-04-06 00:36:10",
       "album": {
         "name": "See This Through",
         "url": "https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
     },
     {
-      "added_at": "2023-04-05 00:47:36",
+      "added_at": "2023-04-06 00:36:10",
       "album": {
         "name": "Lipstick (feat. Robbie Rise) [GUZ Remix]",
         "url": "https://open.spotify.com/album/1yWK7MjyNkym9898cW3VsN"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V"
     },
     {
-      "added_at": "2023-04-05 00:47:36",
+      "added_at": "2023-04-06 00:36:10",
       "album": {
         "name": "Blood In The Snow (Tibi Dabo Remix)",
         "url": "https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN"
     },
     {
-      "added_at": "2023-04-05 00:47:36",
+      "added_at": "2023-04-06 00:36:10",
       "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6Y4l0hrXf9GMcCzkvW1Aol"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1ZEwAUD9knWugDYjYiyKFM"
     },
     {
-      "added_at": "2023-04-05 00:47:36",
+      "added_at": "2023-04-06 00:36:10",
       "album": {
         "name": "Fist Fight",
         "url": "https://open.spotify.com/album/01Sa5u8UaJNjkvLQMjdiuh"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/49ukfaSyAB4sPWsstKQGBr"
     },
     {
-      "added_at": "2023-04-05 00:47:36",
+      "added_at": "2023-04-06 00:36:10",
       "album": {
         "name": "Sizo",
         "url": "https://open.spotify.com/album/05eqoFV6gWprLVsSZOlVrA"
@@ -759,22 +759,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Youth Is Wasted on the Young",
-        "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 193623,
-      "name": "Grouplove",
-      "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Molfar",
-        "url": "https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON"
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Molfar",
-      "url": "https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr"
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Molfar",
+        "url": "https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 204878,
+      "name": "Molfar",
+      "url": "https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Looking at Your Pager",
-        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
       },
       "artists": [
         {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 174417,
-      "name": "Looking at Your Pager",
-      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+        "name": "Looking at Your Pager",
+        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+      "duration_ms": 174417,
+      "name": "Looking at Your Pager",
+      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "City Boy",
-        "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "City Boy",
-      "url": "https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "I Wanna (Tchami Remix)",
         "url": "https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 215433,
       "name": "I Wanna - Tchami Remix",
       "url": "https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "City Boy",
+        "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "City Boy",
+      "url": "https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 389575,
-      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
-      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Florianopolis",
         "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
@@ -1483,18 +1463,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Club Vibes Part 06",
-        "url": "https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo"
+        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Oldskoolerz",
-      "url": "https://open.spotify.com/track/0x5qOf4nW0cXzkNlxjlrRz"
+      "duration_ms": 389575,
+      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
+      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Club Vibes Part 06",
+        "url": "https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Oldskoolerz",
+      "url": "https://open.spotify.com/track/0x5qOf4nW0cXzkNlxjlrRz"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 627840,
+      "name": "Sit Back And Take It Down",
+      "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Steamin EP",
         "url": "https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 359785,
       "name": "Run",
       "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Club Vibes Part 05",
-        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 627840,
-      "name": "Sit Back And Take It Down",
-      "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw"
-      },
-      "artists": [
-        {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        }
-      ],
-      "duration_ms": 412068,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr"
       },
@@ -1767,6 +1751,66 @@
       "duration_ms": 258716,
       "name": "Time",
       "url": "https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Via Infinita",
+        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Via Infinita",
+      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "duration_ms": 412068,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Sete (Carlita Remix)",
+        "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 222438,
+      "name": "Sete - Carlita Remix",
+      "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1799,50 +1843,6 @@
       "duration_ms": 258320,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/4qBwFgJNIwz4wtvcRdyJRa"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Via Infinita",
-        "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Via Infinita",
-      "url": "https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Sete (Carlita Remix)",
-        "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 222438,
-      "name": "Sete - Carlita Remix",
-      "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1907,18 +1907,26 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Reminiscent",
-        "url": "https://open.spotify.com/album/2bpMCulrk1nNXiOKzgherl"
+        "name": "MAMI (LUCATI Remix)",
+        "url": "https://open.spotify.com/album/5LDOFYvSb0RgKCyzQ3VWy5"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 267938,
-      "name": "Reminiscent",
-      "url": "https://open.spotify.com/track/0JnqWFbx7jc9HLvtxZPjLT"
+      "duration_ms": 175748,
+      "name": "MAMI - LUCATI Remix",
+      "url": "https://open.spotify.com/track/5SJdHBp6KT5dXrOqSQL48W"
     }
   ],
   "unique_name": "Open Air",

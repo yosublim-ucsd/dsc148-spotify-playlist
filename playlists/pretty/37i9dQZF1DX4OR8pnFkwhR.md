@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: TOMOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,916 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,936 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [夢はさめても](https://open.spotify.com/track/6qGRdMmPJzb5hA6eqTegnG) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夢はさめても](https://open.spotify.com/album/32jcdlCziq8Y8olpXHj2Jc) | 3:41 |
+| 1 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 |
 | 2 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
 | 3 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 4 | [変わりゆく季節](https://open.spotify.com/track/7uSoWxOMu2BxyALIMmXBCW) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [変わりゆく季節](https://open.spotify.com/album/6thgLBzZtseSIAoz2W1W5k) | 3:38 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 10 | [Coin Laundry](https://open.spotify.com/track/1qvK4SiFWA2wKKyPF6RR32) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:42 |
 | 11 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
 | 12 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 |
-| 13 | [Drama](https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/4Jj1Z1zQ7erei7UsqsGNSo) | 3:37 |
+| 13 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 |
 | 14 | [Stand Out Chameleon](https://open.spotify.com/track/7zHNelbcomEoDCsgvxYjg0) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Stand Out Chameleon](https://open.spotify.com/album/0WG01blQPb4kAib42VQYPg) | 2:21 |
 | 15 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 |
 | 16 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 34 | [クエスチョン](https://open.spotify.com/track/0KeSj8mWXvtC7XfUgian5b) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [クエスチョン](https://open.spotify.com/album/7iUsgV2Sr93tmNaWKzzfwx) | 3:03 |
 | 35 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
 | 36 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 |
-| 37 | [グッドラックが聞こえない](https://open.spotify.com/track/79BXTDSbfXRRkWp44BfE51) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [グッドラックが聞こえない](https://open.spotify.com/album/6ihreP7TWqTZsZGl6voPKo) | 2:31 |
+| 37 | [Good luck ga kikoenai](https://open.spotify.com/track/55glgkUrI4v10ThfniBh0B) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Good luck ga kikoenai](https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT) | 2:31 |
 | 38 | [We've Come So Far](https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 3:58 |
 | 39 | [Baby,Don't Stop](https://open.spotify.com/track/3xK3nC2M3FqxLBJ4MnXITr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT!](https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo) | 3:09 |
 | 40 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 48 | [火遊び](https://open.spotify.com/track/5z04OSKrmIakufm8vEMlQl) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [火遊び](https://open.spotify.com/album/5MnxhgDndyzTbMUif8ou7a) | 3:39 |
 | 49 | [I go wiv da wind](https://open.spotify.com/track/5hyMLmkaFmd628J2DPfRpH) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [I go wiv da wind](https://open.spotify.com/album/5135A6GVHzDSxUH13Z24u0) | 2:21 |
 | 50 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 |
-| 51 | [愛とディスタンス](https://open.spotify.com/track/4uN7OzabYv7xxeHOIxE8bH) | [THE KING OF ROOKIE](https://open.spotify.com/artist/3ltjzVXtMNjDaf6BIyKMPX) | [ミックスジュースロケット](https://open.spotify.com/album/7CPZgEuTnTXqg8Mcg9gO4P) | 4:41 |
+| 51 | [Love and distance](https://open.spotify.com/track/0wMOsutc9gJc24auYtUxJI) | [THE KING OF ROOKIE](https://open.spotify.com/artist/3ltjzVXtMNjDaf6BIyKMPX) | [Mixed juice rocket](https://open.spotify.com/album/4qbMk89DBqtQAbGOduuBjK) | 4:41 |
 | 52 | [Karenai](https://open.spotify.com/track/2WnLirfXdCS0tcSNoHUZKp) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Bandit](https://open.spotify.com/album/4kgeOVKTBb6Ng0Cz4ehinv) | 2:21 |
 | 53 | [Cherry on Top](https://open.spotify.com/track/4bPPrzm53NFPn5pYpsBn3j) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Cherry on Top](https://open.spotify.com/album/1bbhJweeXN7bQrtRdsJ2DA) | 2:50 |
 | 54 | [ロマンスリフレクション](https://open.spotify.com/track/5u8cewChWsrfMN56zcQg8U) | [日和陽](https://open.spotify.com/artist/5Madixj1jo0ga1hH3NUSx9) | [ロマンスリフレクション](https://open.spotify.com/album/5hk3wGYeAttmJHoQuM0LOS) | 2:54 |
 | 55 | [夜明け](https://open.spotify.com/track/6MWWsEbkAiyK407N8OKMjI) | [ネコノヒタイ](https://open.spotify.com/artist/38gIrcXZVnxFznolAA1wmK) | [夜明け/深夜東京](https://open.spotify.com/album/1o4KmxhREv5twl28E90kGR) | 4:48 |
 | 56 | [Over ray](https://open.spotify.com/track/5ANdXaACXF2DabMGSxrEeh) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Over ray](https://open.spotify.com/album/6Q2iWWJqbeFpBsJDoH2fEz) | 4:07 |
 | 57 | [Flying Son](https://open.spotify.com/track/72BAt7jfsMZrSu99Jns0Ax) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Flying Son](https://open.spotify.com/album/0pCgjJk5SFy6HiptKInlil) | 4:22 |
-| 58 | [Dopamine](https://open.spotify.com/track/6IR2NAuk2mkpGS1MeOkKJw) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Dopamine](https://open.spotify.com/album/7sNLkCLjRzBFvRMa8qj1eD) | 2:24 |
+| 58 | [Dopamine \(feat\. Wez Atlas\)](https://open.spotify.com/track/6IR2NAuk2mkpGS1MeOkKJw) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Dopamine \(feat\. Wez Atlas\)](https://open.spotify.com/album/7sNLkCLjRzBFvRMa8qj1eD) | 2:24 |
 | 59 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 |
 | 60 | [Breath](https://open.spotify.com/track/6yZ8jfLRNv4LT9eH4tkDqo) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Breath](https://open.spotify.com/album/3vhP0VsvbiEWQIicYU6S8Z) | 2:44 |
 
-Snapshot ID: `MTY4MDY0OTMxMSwwMDAwMDAwMDJlNTRlYzNkMGUyYjRmZThjYWMwMGEyMmMyOTAwYTk4`
+Snapshot ID: `MTY4MDY0OTMxMSwwMDAwMDAwMGRiMWEwODMxZmEwZjQ0NmRhNWRmYzBlMmIxZjE5NDAw`

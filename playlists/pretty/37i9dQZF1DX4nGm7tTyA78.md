@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,700 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,757 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 39 | [Superé](https://open.spotify.com/track/08qcoqqMipWulibdQqCeAo) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Superé](https://open.spotify.com/album/79OTAEbSUBtSrNpo27hT8q) | 4:20 |
 | 40 | [Estamos Al Dia \(Remix\)](https://open.spotify.com/track/6pQlS7sD1ImR1SPh2KwGho) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL) | [Estamos Al Dia \(Remix\)](https://open.spotify.com/album/1eKDgyIpeTFEyYtRzxoxi3) | 4:49 |
 | 41 | [Andamos en Victoria](https://open.spotify.com/track/6XuIsVKCQNiaSrEVhVNanb) | [Kmbeatz](https://open.spotify.com/artist/2U6WRYqdvYcyOsFsV9TuiU), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Andamos en Victoria](https://open.spotify.com/album/2Uvj2fq7fqUCv8MvAclTz4) | 2:47 |
-| 42 | [Carta a Latinoamerica](https://open.spotify.com/track/1WylcqIzWqvZdQukEYkTOA) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Carta a Latinoamerica](https://open.spotify.com/album/0qAEA2R7gGtVGXlrez1VmQ) | 3:45 |
-| 43 | [No Lo Merezco](https://open.spotify.com/track/3DJddrqSt1EQQjtczYYypv) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [No Lo Merezco](https://open.spotify.com/album/15txV8kXDdNfE9yuE6CEb6) | 4:05 |
+| 42 | [Carta a Latinoamerica](https://open.spotify.com/track/3e8lPeXnJeroxV0W5jgqxe) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Carta a Latinoamerica](https://open.spotify.com/album/0dYU26HR1upmmVq3vgoND6) | 3:38 |
+| 43 | [No Lo Merezco](https://open.spotify.com/track/41U3pJ97yeWugGWgI4nl4y) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [No Lo Merezco](https://open.spotify.com/album/5wDUkucGlWNdq4wEh1bH12) | 4:05 |
 | 44 | [Quieren Parame \- Remix](https://open.spotify.com/track/3f105nHZdOZQEqSCasqM9v) | [Uptimo](https://open.spotify.com/artist/6RvRrpIIvNlUNTpH5M6KmI), [Villa\-Nova](https://open.spotify.com/artist/3xpLm61g4deDK3mXSyr6AM), [Feliton](https://open.spotify.com/artist/2viSfGPo6a6fwfV4PuzPPY), [Super Samy](https://open.spotify.com/artist/5q4cA2u5bqGanXcqIINJZM), [Yerkis La Esencia](https://open.spotify.com/artist/6jVEPqB0kcWTh1mu81CYDz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs) | [Quieren Parame \(Remix\)](https://open.spotify.com/album/0X7SB89lgl6ubjeWGGshui) | 6:48 |
 | 45 | [Coronao \(Remix\)](https://open.spotify.com/track/1jb58dibwlo7eOjZGrgiNP) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [R.M.S Rap Misión Santa](https://open.spotify.com/artist/2eIhYvGR0I7QPqFsfE5U1r), [Clerigo RMS](https://open.spotify.com/artist/7GKxQpXcJdUmybVwEuSMub) | [Coronao \(Remix\)](https://open.spotify.com/album/6jycVRgtJn36bLrbDaigrs) | 4:42 |
 | 46 | [Diferente](https://open.spotify.com/track/4tPuJhmpqqP3RWs0EvFGIn) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/3zYPSMQ6gQ0ASbakZmvZBR) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 49 | [Estamos Al Dia](https://open.spotify.com/track/6HqjlnJHt5S7DHA1SPNVAq) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Dr\. P](https://open.spotify.com/artist/265ocUsmLZ1lY7CHNwVgCp) | [Estamos Al Dia](https://open.spotify.com/album/7dRrykg8AGKvveG2ikLoRw) | 3:24 |
 | 50 | [La Cuerda Floja](https://open.spotify.com/track/4RrEOgcIjTrcOeLzdHdMOn) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [La Cuerda Floja](https://open.spotify.com/album/7ztgUSvjFg8vQB9YGXoqWk) | 3:53 |
 
-Snapshot ID: `MTY3NjY5NjY0MiwwMDAwMDAwMGE5MTZhMWZlYjE5ODM0OGU4ODZkMDlkMGMyYjlmZGJl`
+Snapshot ID: `MTY3NjY5NjY0MiwwMDAwMDAwMDIxOTMyZDIwMGQ2NTIxY2Q5NmJmYzlhOGYyOWVjOWI4`

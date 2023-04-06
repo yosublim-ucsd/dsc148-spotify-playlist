@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,088 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,161 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 22 | [Pennies From Heaven](https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 5:11 |
 | 23 | [Blue Monk](https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [The Complete Prestige 10\-Inch LP Collection](https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC) | 7:39 |
 | 24 | [Senor Blues](https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Very Best](https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR) | 7:01 |
-| 25 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
+| 25 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
 | 26 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
-| 27 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
+| 27 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
 | 28 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
 | 29 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
 | 30 | [Raise Four](https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Underground](https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [When Will The Blues Leave?](https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 5:00 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMGE1M2E5ZTY2Yzk1OTgyN2U4MzQ5ODE1MjgwNWUyY2Nl`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMGEzOWFjMDFmMGY0YTNlYzRkMGI2YmFmN2JmMDU2MzVl`

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Teto",
-  "num_followers": 266495,
+  "num_followers": 266674,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0OTcxNywwMDAwMDAwMGUyZTY0YjNkMTg5ODA5ODRlMmRjZTIzYjgzZjhiY2Iz",
+  "snapshot_id": "MTY4MDU0OTcxNywwMDAwMDAwMDg1YjZiOWI4ZTc0ZjcwNjhjMDU0ZTM0YzI0NDk2ZmFl",
   "tracks": [
     {
       "added_at": "2023-04-03 19:21:57",
@@ -659,34 +659,6 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
@@ -731,6 +703,34 @@
       "duration_ms": 233328,
       "name": "Vem Pra C\u00e1",
       "url": "https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Marrenta",
-        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "Marrenta",
-      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1695,22 +1679,18 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Pra Voc\u00ea e pra Mim",
-        "url": "https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X"
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
       },
       "artists": [
         {
-          "name": "Tayla Duarte",
-          "url": "https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY"
-        },
-        {
-          "name": "Arielly Porto",
-          "url": "https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Pra Voc\u00ea e pra Mim",
-      "url": "https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2"
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -1739,6 +1719,26 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
+        "name": "Pra Voc\u00ea e pra Mim",
+        "url": "https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X"
+      },
+      "artists": [
+        {
+          "name": "Tayla Duarte",
+          "url": "https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY"
+        },
+        {
+          "name": "Arielly Porto",
+          "url": "https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Pra Voc\u00ea e pra Mim",
+      "url": "https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2"
     },
     {
       "added_at": "2023-04-03 19:21:57",

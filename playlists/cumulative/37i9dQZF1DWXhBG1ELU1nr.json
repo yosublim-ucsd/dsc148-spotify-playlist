@@ -448,10 +448,28 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 308333,
       "name": "Cryin'",
       "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Yazzus
 
-184 songs - 15 hr 42 min
+185 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Away](https://open.spotify.com/track/0YZAILWkcrwLfRMPWvVIwv) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Away](https://open.spotify.com/album/2bTOJZjjyHS3JjZ6fqfAF1) | 5:30 | 2022-04-15 | 2023-03-15 |
 | [Back Fist](https://open.spotify.com/track/1oqNFRNkgn2UAK9aljDAV7) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0) | [Back Fist](https://open.spotify.com/album/7oBykGNzxt7WozvytnLghk) | 5:50 | 2022-04-15 | 2022-08-06 |
 | [Be My](https://open.spotify.com/track/1WNhiyuCWcpz86TRFokUFN) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Be My](https://open.spotify.com/album/78iGGZ4qdRvH9R5DT2WGM7) | 6:03 | 2022-04-15 | 2022-05-27 |
+| [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-05 |  |
 | [Beatdown](https://open.spotify.com/track/6humcoL6i1JzB76rYIoKTD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Beatdown](https://open.spotify.com/album/4Jq6PVpRTuwmCvj4vV0ZTn) | 3:33 | 2023-01-20 |  |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-04-15 | 2023-01-21 |
 | [Blika](https://open.spotify.com/track/4xKV4wJS3u2ozJGPspw7pZ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Blika](https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M) | 4:03 | 2022-04-15 | 2022-07-29 |
@@ -94,7 +95,7 @@
 | [Leela](https://open.spotify.com/track/29OT2Z3wFP9dHbCkVTrTGA) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Leela](https://open.spotify.com/album/3wyAWANSMUCT1pCnwcHbVM) | 5:22 | 2022-04-15 | 2022-11-09 |
 | [Leela](https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 5:22 | 2022-10-28 | 2022-11-11 |
 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 | 2023-01-20 |  |
-| [Lizard Den](https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Lizard Den](https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB) | 5:07 | 2022-05-06 |  |
+| [Lizard Den](https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Lizard Den](https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB) | 5:07 | 2022-05-06 | 2023-04-06 |
 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 | 2022-07-29 |  |
 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 | 2022-11-11 |  |
 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 | 2022-04-15 | 2023-03-15 |

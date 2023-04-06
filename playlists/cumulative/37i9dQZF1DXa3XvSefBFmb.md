@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-437 songs - 1 day 0 hr 39 min
+438 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Hostel da Mariquinhas](https://open.spotify.com/track/3r1v8BvTNLkLnd4qmpHpJW) | [Gisela João](https://open.spotify.com/artist/6PHEevniO76JNRqHLVXWX5) | [Hostel da Mariquinhas](https://open.spotify.com/album/3YPqpgPtzSXoOuT7wKoCiA) | 2:38 | 2023-04-04 |  |
 | [Hoy No Salgo](https://open.spotify.com/track/3lpVdysBP4nG7yrWjRmfBK) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Hoy No Salgo](https://open.spotify.com/album/7mkZWuUwfAYH0ZnGJMpGqo) | 2:38 | 2023-01-04 | 2023-03-02 |
 | [há brilho na noite](https://open.spotify.com/track/6I3mwfJFwsmvS2bMOuWSsI) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [coisas por dizer](https://open.spotify.com/album/14gFvVSMV63li0CGzCXhrB) | 4:25 | 2022-05-03 | 2022-08-03 |
-| [há\-de sarar](https://open.spotify.com/track/7BqKrhHn3BpuyCMpgy648a) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 3:48 | 2023-04-04 |  |
+| [há\-de sarar](https://open.spotify.com/track/788WoYnjW12ZWyksEr6qsq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:48 | 2023-04-04 |  |
+| [há\-de sarar](https://open.spotify.com/track/7BqKrhHn3BpuyCMpgy648a) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 3:48 | 2023-04-04 | 2023-04-06 |
 | [I Love You, Crystal](https://open.spotify.com/track/3Jn6qKjyG6hB0zZaQFNVgx) | [Golden Slumbers](https://open.spotify.com/artist/4rnhIGvHLD8BB1gaXLj1KH) | [I Love You, Crystal](https://open.spotify.com/album/7JFAsemQBAo0tY7tgvHX9k) | 3:56 | 2021-12-08 | 2022-03-08 |
 | [iei](https://open.spotify.com/track/7hcLQoKUB6TSyOBku37KAi) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [FORA](https://open.spotify.com/album/4kwcoS5EecawE7HI3FvCG5) | 2:27 | 2023-04-04 |  |
 | [Ilusão](https://open.spotify.com/track/6t2rFFJmcQvbBa4MfQ2TXc) | [Yeda](https://open.spotify.com/artist/2wg4wYmkm2G2ATHe3lCLUy) | [Ilusão](https://open.spotify.com/album/6HYsNFQJKPr9qkeG5RQOki) | 2:17 | 2022-05-03 | 2022-07-06 |

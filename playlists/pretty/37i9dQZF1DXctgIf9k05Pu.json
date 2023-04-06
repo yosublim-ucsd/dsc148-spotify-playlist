@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 230239,
+  "num_followers": 230318,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDIxYjk5YWQzNjVkYmRiZWJiOTNjYTRkOThmZjhlOWRi",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDE5Yjk0NDZmZDdiZGY5YjUxZTA4ZDBjOTA5MDJkNjFl",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "waking up in the park",
+        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "waking up in the park",
+      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "drinking under the streetlights",
         "url": "https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "waking up in the park",
-        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "waking up in the park",
-      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "recreation",
-        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
-      },
-      "artists": [
-        {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "fountain",
-      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "change ur mind",
         "url": "https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 183451,
       "name": "change ur mind",
       "url": "https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "recreation",
+        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "fountain",
+      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
     },
     {
       "added_at": "2022-02-02 00:21:48",

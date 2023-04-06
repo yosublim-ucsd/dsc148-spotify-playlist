@@ -10875,6 +10875,24 @@
     },
     {
       "album": {
+        "name": "Eres T\u00fa",
+        "url": "https://open.spotify.com/album/5FvYepMzpVbIpVwiW7QDJb"
+      },
+      "artists": [
+        {
+          "name": "ELENA",
+          "url": "https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6J1dBZzuj8hNZnnsotkwVL"
+    },
+    {
+      "album": {
         "name": "Error",
         "url": "https://open.spotify.com/album/2PXTo7dgCnLXZxe9VPlR4c"
       },
@@ -11122,6 +11140,24 @@
       "duration_ms": 204212,
       "name": "Everything We Know",
       "url": "https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS"
+    },
+    {
+      "album": {
+        "name": "exemptions",
+        "url": "https://open.spotify.com/album/3ZJ6wyEfU4smOwD7VCvVio"
+      },
+      "artists": [
+        {
+          "name": "Betriu",
+          "url": "https://open.spotify.com/artist/3gBioiOIJH53IaoFEssBvQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "exemptions",
+      "url": "https://open.spotify.com/track/14n0K6nyP9advH13yqmYRJ"
     },
     {
       "album": {

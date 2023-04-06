@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Olivia Dean
 
-1,583 songs - 3 day 8 hr 37 min
+1,584 songs - 3 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [carpool](https://open.spotify.com/track/6fAfv4dn8FbcIsXhU0Jed7) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [carpool](https://open.spotify.com/album/6Qmh14clhZEPZEHfsRjZno) | 2:44 | 2021-04-05 | 2021-11-20 |
 | [Cashmoney](https://open.spotify.com/track/5FYYGR9dUsN7qSbuKriwxO) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Cashmoney](https://open.spotify.com/album/1el6RrtaRiqEJAswpYYmm6) | 3:18 | 2019-05-26\* | 2021-05-20 |
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 | 2023-03-29 |
+| [Casual](https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/0OLxztpxYJ9BAOPzGkD0Wf) | 3:52 | 2023-03-08 |  |
 | [Catch Me](https://open.spotify.com/track/5IBPyTUe3K7yylGa6Rto8e) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Catch Me](https://open.spotify.com/album/4EwLgrKRZ91jY03RCBeQIN) | 2:03 | 2019-06-27 | 2020-02-19 |
 | [Catch Me](https://open.spotify.com/track/5q0CgAV5RnmtYH0oTf4gA8) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Catch Me](https://open.spotify.com/album/5NPi3zRHxY8IEbPc08HuNG) | 3:51 | 2021-04-20 | 2021-11-12 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-07-16 |
@@ -366,7 +367,7 @@
 | [Do I Fit In Your Shoes?](https://open.spotify.com/track/5MmZvtfEIRxWWVM2hcKvS8) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Do I Fit In Your Shoes?](https://open.spotify.com/album/4Ecyhujcm0JiKKum50HyfY) | 2:45 | 2021-05-04 | 2021-11-20 |
 | [Do It For Myself](https://open.spotify.com/track/3yr9WaxkpLxpdDQFtNoAhQ) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [Do It For Myself / Be Right There](https://open.spotify.com/album/2H3w6Yw9c2NNQF7WFlQ5ba) | 3:24 | 2020-04-28 | 2021-10-11 |
 | [Do Or Die](https://open.spotify.com/track/7bIa6A4XjMVy4trhKI0Z3G) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Do Or Die](https://open.spotify.com/album/46wJAbdWg5S9NEE0mqMW77) | 2:43 | 2022-04-01 | 2022-07-23 |
-| [Do U Really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 |  |
+| [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 |  |
 | [Do You Ever?](https://open.spotify.com/track/28z5NTRP3n4O0zkZ5WY2sZ) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Do You Ever?](https://open.spotify.com/album/4D7z82Wsbd3yynOjO7XHtd) | 2:30 | 2019-11-01 | 2021-02-13 |
 | [Do You Think About Us?](https://open.spotify.com/track/6s5o5mxQbXEa2hW2SM5NBn) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Do You Think About Us?](https://open.spotify.com/album/6Rltb5R38rbvChgQyWlvQW) | 4:05 | 2019-05-26\* | 2019-08-13 |
 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 | 2021-11-19 | 2022-03-12 |
@@ -669,7 +670,7 @@
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-10-25 | 2022-01-29 |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 |  |
 | [Hydra](https://open.spotify.com/track/09o11md5fskmIRdfFA7l4T) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hydra](https://open.spotify.com/album/35Q1l3VWkjiFnxXfxJrxNk) | 2:45 | 2021-03-27 | 2021-11-20 |
-| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 |  |
+| [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-04-06 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2022-12-24 |

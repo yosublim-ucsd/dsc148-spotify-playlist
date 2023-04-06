@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,519,660 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,520,528 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 37 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 |
 | 38 | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe) | 3:50 |
 | 39 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 |
-| 40 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 |
-| 41 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 |
+| 40 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 |
+| 41 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 |
 | 42 | [Undo \- AWAY Remix](https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [NOVA \(The Remixes, Vol\. 1\)](https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE) | 3:32 |
 | 43 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 |
 | 44 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [TILL I DIE](https://open.spotify.com/track/2RI6gyxYWRQgvsBqxNgiJB) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [TILL I DIE](https://open.spotify.com/album/2wWiYLW1cWHnS0gi8ftyHo) | 2:51 |
 | 75 | [Backbreaker](https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Backbreaker](https://open.spotify.com/album/0CLdX3LC98CUhc1FrKCKgh) | 3:08 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDVmZTE0YTUzMmNiYjkxMWYwMTlhY2ExMGQ1MDBiZmIz`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDVmMzk3NWFiOTRiMGM0YTA1NzI1NDk4MTQ2OTA2MjE4`

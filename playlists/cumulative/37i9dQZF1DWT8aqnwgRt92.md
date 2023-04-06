@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-574 songs - 1 day 12 hr 31 min
+575 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 | 2022-07-12 | 2022-10-05 |
 | [Growing up](https://open.spotify.com/track/1YXgEhut1Mo2Y44IgsvP7f) | [7ORDER](https://open.spotify.com/artist/2RitDQzohyR2zJXoqovut4) | [Growing up](https://open.spotify.com/album/45CvOi9Mgco3LIA6TtMue7) | 4:16 | 2022-10-01 | 2022-11-30 |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 | 2022-10-14 |
+| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-04 |  |
 | [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 | 2022-09-21 |
 | [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 | 2023-04-04 |  |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 | 2022-10-05 |
@@ -565,7 +566,7 @@
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-07-05 | 2022-10-12 |
 | [逆夢](https://open.spotify.com/track/5igeBrUIrt8hEguPkIfcEW) | [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH) | [アニメグ。30th](https://open.spotify.com/album/0AOR7lfA2ulA6pjLAVmohs) | 5:12 | 2023-02-14 |  |
 | [逆夢 \- from CrosSing](https://open.spotify.com/track/2L7GfBtcqYStaTsFsNuOKB) | [林勇](https://open.spotify.com/artist/2KZLtHl1A7glIn5t1XSNJu) | [逆夢 \- from CrosSing](https://open.spotify.com/album/4KvtLvYdmW2i2vcvX0jxZM) | 5:09 | 2022-07-12 | 2022-07-27 |
-| [逆転劇](https://open.spotify.com/track/6EfKm8UXtBQqQXz2epsiwc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [逆転劇](https://open.spotify.com/album/1SCbaRbu0FCUySzlPDPO9r) | 3:02 | 2023-04-04 |  |
+| [逆転劇](https://open.spotify.com/track/6EfKm8UXtBQqQXz2epsiwc) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [逆転劇](https://open.spotify.com/album/1SCbaRbu0FCUySzlPDPO9r) | 3:02 | 2023-04-04 | 2023-04-06 |
 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 | 2023-03-07 |  |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-11-02 | 2022-12-07 |
 | [鍋奉行](https://open.spotify.com/track/3OiSm2385mSfDIMvnYapBV) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 2:21 | 2022-10-18 | 2022-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "La playlist che \u00e8 come andare ai concerti. NAMIDA in cover!",
-  "num_followers": 18554,
+  "num_followers": 18563,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzMjUwMSwwMDAwMDAwMGUzMGY4NDI1MGNkOTdmOTk0MjU5Yjk2MjE1MGM4Nzll",
+  "snapshot_id": "MTY4MDUzMjUwMSwwMDAwMDAwMDJmMDllYjNiZjFkZmRjNzdkNTEzYzkwZWFlMzEwZjZm",
   "tracks": [
     {
       "added_at": "2023-04-03 14:35:01",
@@ -519,86 +519,6 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "Figli dei fiori",
-        "url": "https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs"
-      },
-      "artists": [
-        {
-          "name": "Barkee Bay",
-          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
-        }
-      ],
-      "duration_ms": 163894,
-      "name": "Figli dei fiori",
-      "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7"
-      },
-      "artists": [
-        {
-          "name": "simmcat",
-          "url": "https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "Eclissi",
-        "url": "https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo"
-      },
-      "artists": [
-        {
-          "name": "Giorgieness",
-          "url": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
-        }
-      ],
-      "duration_ms": 229285,
-      "name": "Eclissi",
-      "url": "https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "Dubbi",
-        "url": "https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK"
-      },
-      "artists": [
-        {
-          "name": "Federico Dragogna",
-          "url": "https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm"
-        }
-      ],
-      "duration_ms": 141235,
-      "name": "Dubbi",
-      "url": "https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "Stegosauro",
-        "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
-      },
-      "artists": [
-        {
-          "name": "Stegosauro",
-          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Jap'n Cazz",
-      "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
         "name": "MOSTRO",
         "url": "https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt"
       },
@@ -619,6 +539,86 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7"
+      },
+      "artists": [
+        {
+          "name": "simmcat",
+          "url": "https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "Figli dei fiori",
+        "url": "https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "duration_ms": 163894,
+      "name": "Figli dei fiori",
+      "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo"
+      },
+      "artists": [
+        {
+          "name": "Giorgieness",
+          "url": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "duration_ms": 229285,
+      "name": "Eclissi",
+      "url": "https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "Stegosauro",
+        "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
+      },
+      "artists": [
+        {
+          "name": "Stegosauro",
+          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Jap'n Cazz",
+      "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "Dubbi",
+        "url": "https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK"
+      },
+      "artists": [
+        {
+          "name": "Federico Dragogna",
+          "url": "https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm"
+        }
+      ],
+      "duration_ms": 141235,
+      "name": "Dubbi",
+      "url": "https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
         "name": "GDPR",
         "url": "https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "How",
-        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
-      },
-      "artists": [
-        {
-          "name": "dollsaway",
-          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
-        }
-      ],
-      "duration_ms": 159121,
-      "name": "How",
-      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
         "name": "Nofriends",
         "url": "https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 151367,
       "name": "Nofriends",
       "url": "https://open.spotify.com/track/52dN2iEMEfK6lOFRdbDt8r"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "How",
+        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
+      },
+      "artists": [
+        {
+          "name": "dollsaway",
+          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
+        }
+      ],
+      "duration_ms": 159121,
+      "name": "How",
+      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "0 SENTIMENTO",
-        "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
-      },
-      "artists": [
-        {
-          "name": "Asjatica",
-          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
-        }
-      ],
-      "duration_ms": 149629,
-      "name": "0 SENTIMENTO",
-      "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
         "name": "FOR MYSELF",
         "url": "https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "TRAGEDIA MODERNA",
-        "url": "https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS"
+        "name": "0 SENTIMENTO",
+        "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
       },
       "artists": [
         {
-          "name": "ROS",
-          "url": "https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB"
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
         }
       ],
-      "duration_ms": 159520,
-      "name": "TRAGEDIA MODERNA",
-      "url": "https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu"
+      "duration_ms": 149629,
+      "name": "0 SENTIMENTO",
+      "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -795,6 +779,22 @@
       "duration_ms": 128500,
       "name": "Il Nuovo Mare",
       "url": "https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
+        "name": "TRAGEDIA MODERNA",
+        "url": "https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS"
+      },
+      "artists": [
+        {
+          "name": "ROS",
+          "url": "https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "TRAGEDIA MODERNA",
+      "url": "https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
+        "name": "Squot",
+        "url": "https://open.spotify.com/album/6djLx5ZBsOs3m1XDchYLyq"
+      },
+      "artists": [
+        {
+          "name": "filospada",
+          "url": "https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Squot",
+      "url": "https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd"
+    },
+    {
+      "added_at": "2023-04-03 14:35:01",
+      "album": {
         "name": "20 Anni",
         "url": "https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-04-03 14:35:01",
       "album": {
-        "name": "Squot",
-        "url": "https://open.spotify.com/album/6djLx5ZBsOs3m1XDchYLyq"
+        "name": "Una guerra da perdere",
+        "url": "https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs"
       },
       "artists": [
         {
-          "name": "filospada",
-          "url": "https://open.spotify.com/artist/4xI4s9KJykpEAXSoWpP5zZ"
+          "name": "EX POLVERE",
+          "url": "https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Squot",
-      "url": "https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd"
+      "duration_ms": 220821,
+      "name": "Una guerra da perdere",
+      "url": "https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN"
     },
     {
       "added_at": "2023-04-03 14:35:01",
@@ -1075,22 +1091,6 @@
       "duration_ms": 225676,
       "name": "Castelli di sabbia",
       "url": "https://open.spotify.com/track/2SPCnoU0hUdcWdpfwu8tYL"
-    },
-    {
-      "added_at": "2023-04-03 14:35:01",
-      "album": {
-        "name": "Una guerra da perdere",
-        "url": "https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs"
-      },
-      "artists": [
-        {
-          "name": "EX POLVERE",
-          "url": "https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb"
-        }
-      ],
-      "duration_ms": 220821,
-      "name": "Una guerra da perdere",
-      "url": "https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN"
     }
   ],
   "unique_name": "Rock Italia",

@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
+    },
+    {
+      "album": {
         "name": "DOG EATS GOD (feat. \u7b52\u4e95\u5eb7\u9686)",
         "url": "https://open.spotify.com/album/7IF7TfpbLsQEeYSqYomkcK"
       },
@@ -2074,10 +2092,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 217541,
       "name": "Drama",
       "url": "https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217541,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk"
     },
     {
       "album": {
@@ -2762,6 +2798,32 @@
     {
       "album": {
         "name": "Get Back",
+        "url": "https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207015,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip"
+    },
+    {
+      "album": {
+        "name": "Get Back",
         "url": "https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5"
       },
       "artists": [
@@ -2780,7 +2842,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 207015,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG"
@@ -5824,6 +5886,28 @@
       "duration_ms": 186797,
       "name": "Nectar. - uin Remix",
       "url": "https://open.spotify.com/track/0lOKFVFJDrueXNPWcXAXI5"
+    },
+    {
+      "album": {
+        "name": "Nemuranaideyo feat. Ikuko Harada",
+        "url": "https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        },
+        {
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "Nemuranaideyo feat. Ikuko Harada",
+      "url": "https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ"
     },
     {
       "album": {
@@ -10381,6 +10465,24 @@
     },
     {
       "album": {
+        "name": "Yume wa Sametemo",
+        "url": "https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221773,
+      "name": "Yume wa Sametemo",
+      "url": "https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm"
+    },
+    {
+      "album": {
         "name": "Yumeiro",
         "url": "https://open.spotify.com/album/3otX8IfXWpv22xCpzXICzl"
       },
@@ -12028,7 +12130,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 221773,
       "name": "\u5922\u306f\u3055\u3081\u3066\u3082",
       "url": "https://open.spotify.com/track/6qGRdMmPJzb5hA6eqTegnG"
@@ -12762,7 +12864,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 257440,
       "name": "\u7720\u3089\u306a\u3044\u3067\u3088 feat. \u539f\u7530\u90c1\u5b50",
       "url": "https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ"

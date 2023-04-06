@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 140736,
+  "num_followers": 140805,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGZjMDNhNjA5M2I3MWIzYTQyYThmOTE5MTFlY2M2YjI3",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGRlMGVkMmM5MDE4ZWY0ZDIzZTI0YzUyMDI3ZjJmODdm",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "A Mil",
-        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 201584,
-      "name": "Terminales",
-      "url": "https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 207280,
       "name": "Loco Un Poco",
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 201584,
+      "name": "Terminales",
+      "url": "https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 180066,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Lo Que Somos",
-        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 191530,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
     },
     {
       "added_at": "2022-12-30 03:00:00",

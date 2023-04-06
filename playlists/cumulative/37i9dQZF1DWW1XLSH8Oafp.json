@@ -2463,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+        "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+      "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
+    },
+    {
+      "album": {
         "name": "Different Places",
         "url": "https://open.spotify.com/album/05HD6brUqLMRoFXrbKu3LW"
       },

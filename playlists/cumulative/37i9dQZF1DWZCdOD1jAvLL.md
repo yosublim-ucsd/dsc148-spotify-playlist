@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Rezz
 
-442 songs - 1 day 0 hr 36 min
+443 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D) | 3:19 | 2023-01-20 | 2023-03-10 |
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 | 2023-02-25 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-22 | 2022-10-08 |
-| [Kindred](https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Kindred](https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE) | 3:37 | 2023-03-03 |  |
+| [Kindred](https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Kindred](https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE) | 3:37 | 2023-03-03 | 2023-04-06 |
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-20 |  |
 | [Know](https://open.spotify.com/track/41W378pBDusiaKGGhWga5k) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Intertwine](https://open.spotify.com/album/3lIzneooRtltAFfVnHU9SU) | 2:51 | 2022-01-14 | 2022-03-18 |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2022-01-14 | 2022-02-26 |
@@ -220,6 +220,7 @@
 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 | 2022-09-23 | 2023-01-21 |
 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 | 2022-05-06 | 2022-07-30 |
 | [Let's Rave, Make Love](https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Welcome Home](https://open.spotify.com/album/1Jz9lsCZlbb7pW829VbgXH) | 3:20 | 2022-05-06 | 2022-06-25 |
+| [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-03-31 |  |
 | [Lies](https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Lies](https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC) | 2:47 | 2022-05-27 | 2022-09-17 |
 | [Life Of Sin \(feat\. Ranger Trucco\)](https://open.spotify.com/track/5CB3JnLsxjDJj2EUabWcuj) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Life Of Sin \(feat\. Ranger Trucco\)](https://open.spotify.com/album/58lFMssaXCRBis5YRcsycv) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2022-10-08 |

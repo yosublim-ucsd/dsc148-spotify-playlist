@@ -3467,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Te Busqu\u00e9",
+        "url": "https://open.spotify.com/album/3DX1rHY2W0L0BgMp1ZkPUf"
+      },
+      "artists": [
+        {
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Te Busqu\u00e9",
+      "url": "https://open.spotify.com/track/5K9NRlBuwqa2rzXoNE9HIe"
+    },
+    {
+      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -4266,7 +4288,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 298906,
       "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
       "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"

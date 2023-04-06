@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 485050,
+  "num_followers": 485338,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDkwNywwMDAwMDAwMGQ0ZTI0MGRjNWZiNDRjZGZlMTdhMWE1M2YxMjE4MmZh",
+  "snapshot_id": "MTY4MDI5MDkwNywwMDAwMDAwMDlkMWFkZjNiMDM2YmFiNTJlMzM5ZmRjNjFhNmI4MzFj",
   "tracks": [
     {
       "added_at": "2023-02-23 02:07:34",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
-      "added_at": "2023-04-05 00:30:41",
+      "added_at": "2023-04-06 00:08:35",
       "album": {
         "name": "Fugitivos",
         "url": "https://open.spotify.com/album/4ep9KHgO8WKp7ZEI3NoDTe"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
-      "added_at": "2023-04-05 00:30:41",
+      "added_at": "2023-04-06 00:08:35",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
-      "added_at": "2023-04-05 00:30:41",
+      "added_at": "2023-04-06 00:08:35",
       "album": {
         "name": "Qu\u00e9 Suerte",
         "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
-      "added_at": "2023-04-05 00:30:41",
+      "added_at": "2023-04-06 00:08:35",
       "album": {
         "name": "Me Acuerdo De Ti",
         "url": "https://open.spotify.com/album/1pJvqBTjliDkW7EUzEUO7Y"
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-02-23 02:07:34",

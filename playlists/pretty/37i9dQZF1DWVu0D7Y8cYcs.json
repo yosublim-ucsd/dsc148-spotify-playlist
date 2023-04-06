@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 466761,
+  "num_followers": 466851,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGFkOWNkMmI3NDkxNDQ3MzBmYmM3ZWFmNGQ5NmM5Yzg1",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDcyOTQ2OTFiMGRjYzNlZDlmNmM1MWI0ODgyYTg4OTI2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 181434,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 181434,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
     },
     {
       "added_at": "2022-10-13 23:00:00",

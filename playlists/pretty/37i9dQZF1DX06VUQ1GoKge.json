@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 488370,
+  "num_followers": 488831,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxNzA1MiwwMDAwMDAwMDRkN2IzYjEwZmZjYjlmNjhjYjBhYmRlOGFlYzdiMDE0",
+  "snapshot_id": "MTY4MDYxNzA1MiwwMDAwMDAwMDIzMjRjMDU4NWE5MzQ2NTNhNWFlMTQ5MDI0MDdhZTNk",
   "tracks": [
     {
       "added_at": "2023-03-28 16:13:11",
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
-      "added_at": "2023-04-05 00:34:50",
+      "added_at": "2023-04-06 00:23:26",
       "album": {
         "name": "TEKKNO",
         "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2023-03-28 16:13:11",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 189120,
       "name": "Blood",
       "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
+    },
+    {
+      "added_at": "2023-03-28 16:13:11",
+      "album": {
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2023-03-28 16:13:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 307644,
-      "name": "Protect The Land",
-      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2023-03-28 16:13:11",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2023-03-28 16:13:11",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 307644,
+      "name": "Protect The Land",
+      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
       "added_at": "2023-03-28 16:13:11",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+    },
+    {
+      "added_at": "2023-03-28 16:13:11",
+      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2023-03-28 16:13:11",
-      "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-03-28 16:13:11",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+        "name": "Reign In Blood",
+        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
+      "duration_ms": 291440,
+      "name": "Angel Of Death",
+      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
     },
     {
       "added_at": "2023-03-28 16:13:11",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 291440,
-      "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-03-28 16:13:11",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 223655,
-      "name": "Letting You Go",
-      "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
-    },
-    {
-      "added_at": "2023-03-28 16:13:11",
-      "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+      "duration_ms": 223655,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
     },
     {
       "added_at": "2023-03-28 16:13:11",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+    },
+    {
+      "added_at": "2023-03-28 16:13:11",
+      "album": {
         "name": "Seasons In The Abyss",
         "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-03-28 16:13:11",
       "album": {
-        "name": "Shadows Inside",
-        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 236549,
-      "name": "Shadows Inside",
-      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
-    },
-    {
-      "added_at": "2023-03-28 16:13:11",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
+    },
+    {
+      "added_at": "2023-03-28 16:13:11",
+      "album": {
+        "name": "Shadows Inside",
+        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 236549,
+      "name": "Shadows Inside",
+      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
     },
     {
       "added_at": "2023-03-28 16:13:11",

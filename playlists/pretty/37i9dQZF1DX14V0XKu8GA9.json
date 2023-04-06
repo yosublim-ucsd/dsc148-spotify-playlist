@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21417,
+  "num_followers": 21440,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDdiMTM2ODdhN2ExZTE0NjNmMTBjNzkxOGI3Y2U0NTg2",
+  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMGE0NzM4MzVhNmRlNTRmNmIyYjJiNzU3NTMwYWNiYWJj",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -551,6 +551,30 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Jewl$",
+          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
+        },
+        {
+          "name": "Lil Bouncer",
+          "url": "https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 175280,
       "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
       "url": "https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Jewl$",
-          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
-        },
-        {
-          "name": "Lil Bouncer",
-          "url": "https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "For Real",
-        "url": "https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Aj Hernz",
-          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "All The Good Die Young",
-        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV"
       },
       "artists": [
         {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Aj Hernz",
+          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
         }
       ],
-      "duration_ms": 121690,
-      "name": "All The Good Die Young",
-      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
+      "duration_ms": 219000,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -711,6 +695,22 @@
       "duration_ms": 153372,
       "name": "Gahdamn",
       "url": "https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "All The Good Die Young",
+        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "All The Good Die Young",
+      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
     },
     {
       "added_at": "2023-03-10 22:02:53",

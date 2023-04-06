@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 943,
+  "num_followers": 970,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDU5OSwwMDAwMDAwMDA2N2U4ZTcxMjY0MWRiYTNjYjFiM2M5NWVmZjM1Mzcw",
+  "snapshot_id": "MTY3ODA5NDU5OSwwMDAwMDAwMDA2MzMwMTE4OTEzNDcyYmQ5ODU1ZDI1ZTYyMjY5M2Qx",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Someone You Loved (Madism Radio Mix)",
-        "url": "https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 157171,
-      "name": "Someone You Loved - Madism Radio Mix",
-      "url": "https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Bittersweet Symphony",
         "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 194618,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Someone You Loved (Madism Radio Mix)",
+        "url": "https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 157171,
+      "name": "Someone You Loved - Madism Radio Mix",
+      "url": "https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 167307,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 167307,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Sad (feat. Afrojack)",
         "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 161280,
       "name": "Sad (feat. Afrojack)",
       "url": "https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "OMG What's Happening",
-      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Let Them Know",
         "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 148693,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 179831,
+      "name": "OMG What's Happening",
+      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Harder (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Harder (with Bebe Rexha)",
-      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "what would you do? (Galantis Remix)",
-        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "what would you do? - Galantis Remix",
-      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "I Miss Myself (with HRVY)",
         "url": "https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 191611,
       "name": "I Miss Myself (with HRVY)",
       "url": "https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "what would you do? (Galantis Remix)",
+        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "what would you do? - Galantis Remix",
+      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
     },
     {
       "added_at": "2023-02-23 23:00:00",

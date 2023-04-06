@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955 likes - 26 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 954 likes - 26 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 3 | [At First Sight](https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:27 |
 | 4 | [The Long Road](https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:22 |
 | 5 | [Bushido \(Alessandro Cortini Re\-Work\)](https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Bushido \(Alessandro Cortini Re\-Work\)](https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE) | 4:19 |
-| 6 | [Immediate Horizon 2](https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:07 |
+| 6 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 |
 | 7 | [Space Channel](https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:42 |
 | 8 | [The Hunt Begins](https://open.spotify.com/track/21CJdaJkRDMz2UA3tNxORl) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:20 |
-| 9 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 |
+| 9 | [Immediate Horizon 2](https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:07 |
 | 10 | [La tarantola dal ventre nero](https://open.spotify.com/track/1yicvjJVBy78161FcNOXID) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Scacco al Maestro \- Volume 2](https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz) | 4:39 |
 | 11 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 |
 | 12 | [Heart of the Volcano](https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 0:57 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 25 | [Fonus](https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Nordic Flora Series, Pt\. 3: Gore\-Tex City](https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU) | 4:26 |
 | 26 | [Immediate Horizon 4](https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 11:59 |
 
-Snapshot ID: `MjgwMTAxNzQsMDAwMDAwMDA0Y2U3ZjQ1ZTM3YjU5ZWViYWYwOThiODEyYWIyZGM5Zg==`
+Snapshot ID: `MjgwMTE2NzksMDAwMDAwMDBkM2EwOGUwM2QwODdhMTlhNDZiMzZhOGU5MDFkY2MyYQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Devon Gilfillian",
-  "num_followers": 357729,
+  "num_followers": 357837,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDAzMTc5NWI1ZjgwYTg1ZmYwN2E2ZDA5M2Y1MGM0ZmQ4",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGU3ZTc1ODI0NTk2ZTViOGMxODg4ZDAxNzBlZjZhNGZm",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "You're Dreaming",
         "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 299719,
       "name": "Sugaree",
       "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 281893,
       "name": "Never Been a Captain",
       "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Allen Stone",
         "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 146493,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Cheap Champagne",
-        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 233159,
-      "name": "Cheap Champagne",
-      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+        "name": "Cheap Champagne",
+        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
       },
       "artists": [
         {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Wastin' My Mind",
-      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+      "duration_ms": 233159,
+      "name": "Cheap Champagne",
+      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Wastin' My Mind",
+      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Honest Life",
         "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 226773,
       "name": "Irene",
       "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
-      },
-      "artists": [
-        {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
         }
       ],
-      "duration_ms": 218989,
-      "name": "Easy to Love",
-      "url": "https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB"
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Tower of Babel",
+        "url": "https://open.spotify.com/album/53UYBBZqy38uVoyiUEBcte"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        }
+      ],
+      "duration_ms": 148973,
+      "name": "Tower of Babel",
+      "url": "https://open.spotify.com/track/6oEgGfkgyslQXUTKdVSNU1"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1347,6 +1347,22 @@
       "duration_ms": 184856,
       "name": "Play To Win",
       "url": "https://open.spotify.com/track/1XQpQIs5koMdA9dDXgEFXG"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 218989,
+      "name": "Easy to Love",
+      "url": "https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 171468,
       "name": "Don't Want to Say Good-bye",
       "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Tower of Babel",
-        "url": "https://open.spotify.com/album/53UYBBZqy38uVoyiUEBcte"
-      },
-      "artists": [
-        {
-          "name": "Natalie Merchant",
-          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
-        }
-      ],
-      "duration_ms": 148973,
-      "name": "Tower of Babel",
-      "url": "https://open.spotify.com/track/6oEgGfkgyslQXUTKdVSNU1"
     },
     {
       "added_at": "2023-03-31 04:00:00",

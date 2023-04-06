@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: Foggieraw, artwork by Ian Woods",
-  "num_followers": 45300,
+  "num_followers": 45371,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMGRmMDcxYTEyMGZjODM3ZDQ2NzEwZWNhODA1YjA1NDhh",
+  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMDdlNTlmNzZmMGQ0ZjYxMzRlMjg3ZDhlODBjZTUxNzMy",
   "tracks": [
     {
       "added_at": "2023-02-17 08:47:35",
@@ -143,26 +143,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+        "name": "Heavenly Emotions",
+        "url": "https://open.spotify.com/album/0GhKzhbAU7hNOKJQGhCrwq"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        },
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
         }
       ],
-      "duration_ms": 426733,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
+      "duration_ms": 148392,
+      "name": "Right over Wrong",
+      "url": "https://open.spotify.com/track/3Z1rWYlWSHr1lozBA6w2Pj"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -187,18 +179,26 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Heavenly Emotions",
-        "url": "https://open.spotify.com/album/0GhKzhbAU7hNOKJQGhCrwq"
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
       "artists": [
         {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
         }
       ],
-      "duration_ms": 148392,
-      "name": "Right over Wrong",
-      "url": "https://open.spotify.com/track/3Z1rWYlWSHr1lozBA6w2Pj"
+      "duration_ms": 426733,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Watch The Sun",
         "url": "https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
-      },
-      "artists": [
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 162500,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
+      },
+      "artists": [
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
     }
   ],
   "unique_name": "Lifted Frequency",

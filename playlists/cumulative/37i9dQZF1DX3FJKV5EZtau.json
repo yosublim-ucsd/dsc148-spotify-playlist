@@ -5296,6 +5296,32 @@
     {
       "album": {
         "name": "Runaway",
+        "url": "https://open.spotify.com/album/1R0DbDkDysbJ6sb67stjMU"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1ojGSqkSVnxU5tlu5JWlel"
+    },
+    {
+      "album": {
+        "name": "Runaway",
         "url": "https://open.spotify.com/album/7uWgf6BGGUW6E2y9Pljzxa"
       },
       "artists": [
@@ -6196,7 +6222,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 185066,
       "name": "Take My Heart Away",
       "url": "https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6"

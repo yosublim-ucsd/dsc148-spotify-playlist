@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,889 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,038 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 34 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 |
 | 35 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq) | [Tenderly](https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU) | 3:28 |
 | 36 | [Are You Lonesome Tonight? \(feat\. Paul Buchanan\)](https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [To Love Again](https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6) | 4:00 |
-| 37 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
-| 38 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 |
+| 37 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 |
+| 38 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
 | 39 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 |
 | 40 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 |
 | 41 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 |
 | 100 | [A New Path](https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI), [Inge Petersson\-Lindbäck](https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2), [Bergdalakvartetten](https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C) | [A New Path](https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q) | 5:48 |
 
-Snapshot ID: `MTY3OTQ3NjcxNSwwMDAwMDAwMDg0YjY0MGY5MTk4NmFjZjM3NjkxZmMyYjg2NmZmMWVm`
+Snapshot ID: `MTY3OTQ3NjcxNSwwMDAwMDAwMDc4YTJjNDdmMmFlOGI5YTBkOGE5NzU0NDQ1ODdmM2M4`

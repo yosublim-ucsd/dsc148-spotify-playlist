@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9534,
+  "num_followers": 9551,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGE4MGJjNDdhN2U5MTNjYWMwYmRjNjNkMjg3ZTQxMWE3",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMDczNmU4OWViNzYyZmI4ZDE0MTE5MjY5Yzk0ZDU5YmFh",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-04-05 00:26:38",
+      "added_at": "2023-04-06 00:50:50",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
-      "added_at": "2023-02-28 10:14:13",
+      "added_at": "2023-04-06 00:50:50",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -485,20 +485,20 @@
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
-      "added_at": "2023-04-05 00:26:38",
+      "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
+      "added_at": "2023-04-06 00:50:50",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+    },
+    {
       "added_at": "2023-02-28 10:14:13",
       "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258321,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 15",
         "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 216266,
       "name": "Love Me Like You Used To",
       "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258321,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -745,23 +761,7 @@
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
-      "added_at": "2023-04-05 00:26:38",
-      "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
-    },
-    {
-      "added_at": "2023-04-05 00:26:38",
+      "added_at": "2023-04-06 00:50:50",
       "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
-      "added_at": "2023-04-05 00:26:38",
+      "added_at": "2023-04-06 00:50:50",
       "album": {
         "name": "Wouldn't have",
         "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"

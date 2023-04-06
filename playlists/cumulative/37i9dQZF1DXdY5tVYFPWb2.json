@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Blue light",
+        "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Blue light",
+      "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
+    },
+    {
+      "album": {
         "name": "Blue Shadow",
         "url": "https://open.spotify.com/album/33MJxei5qOGB92dk6Y0hsp"
       },
@@ -1346,6 +1364,24 @@
       "duration_ms": 275935,
       "name": "Document",
       "url": "https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh"
+    },
+    {
+      "album": {
+        "name": "DOCUMENT (2023)",
+        "url": "https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278403,
+      "name": "DOCUMENT - 2023",
+      "url": "https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg"
     },
     {
       "album": {
@@ -2180,10 +2216,32 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 225391,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/3mEssdAgg2m07cas6TV1nz"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1HHsQs9j63RbS5dwPiO5Ng"
+      },
+      "artists": [
+        {
+          "name": "UEBO",
+          "url": "https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ"
+        },
+        {
+          "name": "maco marets",
+          "url": "https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6WzP4guTS9GQkbH1K2qpMB"
     },
     {
       "album": {
@@ -2362,10 +2420,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 190141,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/2yesgnppAnmeuSp6MX4Hhv"
+    },
+    {
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/79kiFZwsTsMA0R3GvMIiw0"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190141,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/6WDzwUTAOcCRVTiOi87yO3"
     },
     {
       "album": {
@@ -3540,6 +3616,28 @@
       "duration_ms": 170366,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0"
+    },
+    {
+      "album": {
+        "name": "Nemuranaideyo feat. Ikuko Harada",
+        "url": "https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        },
+        {
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "Nemuranaideyo feat. Ikuko Harada",
+      "url": "https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ"
     },
     {
       "album": {
@@ -7574,7 +7672,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 235500,
       "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
@@ -8992,7 +9090,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 257440,
       "name": "\u7720\u3089\u306a\u3044\u3067\u3088 feat. \u539f\u7530\u90c1\u5b50",
       "url": "https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ"

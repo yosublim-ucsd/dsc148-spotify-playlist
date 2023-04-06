@@ -2,7 +2,7 @@
 
 ### [mEMOries](https://open.spotify.com/playlist/37i9dQZF1DWYAyGN1XM1YS)
 
-> Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
+> Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
 100 songs - 6 hr 28 min
 

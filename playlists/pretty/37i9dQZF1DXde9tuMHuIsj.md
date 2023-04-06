@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcángel & Bizarrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523,517 likes - 104 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,523,595 likes - 104 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

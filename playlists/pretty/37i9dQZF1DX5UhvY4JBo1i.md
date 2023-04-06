@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,722 likes - 41 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,904 likes - 41 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,13 @@
 
 > ✨giovane✨pop✨z✨ Cover: Angelina Mango
 
-83 songs - 3 hr 55 min
+84 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 | 2023-03-23 |  |
 | [5 MINUTI](https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [5 MINUTI](https://open.spotify.com/album/4KGPs5mBpd4p3b2hGYLH9V) | 2:47 | 2023-03-23 |  |
+| [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-05 |  |
 | [ABISSALE](https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:22 | 2023-03-23 |  |
 | [Acquario](https://open.spotify.com/track/3wikKu086inCKfjx0divwd) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [Acquario](https://open.spotify.com/album/6f3ZuFBT8frX2VHmB8MtzB) | 2:52 | 2023-03-23 |  |
 | [Adamo ed Eva](https://open.spotify.com/track/00LyduMgp60uZIvQXCQxr5) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Adamo ed Eva](https://open.spotify.com/album/13HHOcO46qy5QQGjPSphmv) | 2:33 | 2023-03-30 |  |

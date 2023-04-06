@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 795 likes - 36 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 797 likes - 36 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

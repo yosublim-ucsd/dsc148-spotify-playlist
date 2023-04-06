@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Julia Vit\u00f3ria",
-  "num_followers": 285649,
+  "num_followers": 285738,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDQwY2QyYTNkODZlMzVkNjU3MTJkMjI5NjMzNDVmNmM0",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDkzMDk1NTlmMzRjNTYyNzQ3Mzc3OWYwYmFkNGFhMmRj",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 298174,
       "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
       "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
-      },
-      "artists": [
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        }
-      ],
-      "duration_ms": 310057,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Avance",
         "url": "https://open.spotify.com/album/5Yi8GuK4Y9ej7BPgdcjyfV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 214948,
       "name": "Avance",
       "url": "https://open.spotify.com/track/4efYWPmwlxShjrp1uXkElp"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "duration_ms": 310057,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Vem, Espi\u0301rito de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Milagre Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/03gC5ufzpeQ2x0AViEJ9rF"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
+        "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 312674,
-      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
+      "duration_ms": 264786,
+      "name": "Vem, Espi\u0301rito de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -839,6 +819,26 @@
       "duration_ms": 262826,
       "name": "Amigo Jesus",
       "url": "https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": "2023-03-24 03:00:00",

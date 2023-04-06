@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 94791,
+  "num_followers": 94961,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY1MDU0MywwMDAwMDAwMGRmMjlhODA1OTE4NzgyODU3NjFhMmJlMjlhNDZhMTVh",
+  "snapshot_id": "MTY3NjY1MDU0MywwMDAwMDAwMGUzZjUxMTJkZjExMzJjMzFjNTU5NjhmZTA1NGFmZDM5",
   "tracks": [
     {
       "added_at": "2023-02-14 17:37:19",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
         "name": "Pa' Olvidarme De Ella",
         "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 227233,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190961,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 202160,
       "name": "No discutamos",
       "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190961,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
     },
     {
       "added_at": "2023-02-14 17:37:19",

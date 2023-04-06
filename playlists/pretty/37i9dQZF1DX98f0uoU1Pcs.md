@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,405 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,520 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 16 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 17 | [Human Condition](https://open.spotify.com/track/2LmFju01RfconFtiqKtmMb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:50 |
 | 18 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 |
-| 19 | [Impersonator](https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1) | [The C.I.A.](https://open.spotify.com/artist/45ihy5mszA5zmv7GchLZib) | [Surgery Channel](https://open.spotify.com/album/1H1ef6bHZQAWggvVWlufLf) | 3:18 |
+| 19 | [Impersonator](https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1) | [The C.I.A.](https://open.spotify.com/artist/2uDJLOUWa8gYq78mf9OIvB) | [Surgery Channel](https://open.spotify.com/album/1H1ef6bHZQAWggvVWlufLf) | 3:18 |
 | 20 | [Barley](https://open.spotify.com/track/27XmeyUl26m0KYMJx1Blsb) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Barley](https://open.spotify.com/album/52iaofjBnrsriZOMnzijkZ) | 3:29 |
 | 21 | [Cherry Blue Intention](https://open.spotify.com/track/2oSpsk4KFihbnnqTKgLaLL) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Cherry Blue Intention](https://open.spotify.com/album/3acrSXMN6gWsupnlpsbOA7) | 3:23 |
 | 22 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 |

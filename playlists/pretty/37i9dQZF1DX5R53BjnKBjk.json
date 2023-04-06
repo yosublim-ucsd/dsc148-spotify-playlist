@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: RAY / Arte: Isu Kim",
-  "num_followers": 16027,
+  "num_followers": 16047,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1OTUxMiwwMDAwMDAwMDY0ZDRjNDExZGRkMjk5MGJhZjBlZTc3MzI1NGQ2YTM1",
+  "snapshot_id": "MTY3OTA1OTUxMiwwMDAwMDAwMGJhNGQyZGNhNGVlMzIwMDkyNzM2MmIxNDZjNTdmNzFk",
   "tracks": [
     {
       "added_at": "2023-02-13 18:00:57",
@@ -159,8 +159,8 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Repara",
-        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
         }
       ],
-      "duration_ms": 154687,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
+      "duration_ms": 208264,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+      },
+      "artists": [
+        {
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+        }
+      ],
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -259,8 +259,8 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/5zd7um3FOsvf88Wm1yC0e7"
+        "name": "Repara",
+        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
         }
       ],
-      "duration_ms": 208264,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
+      "duration_ms": 154687,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Mad\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
-      },
-      "artists": [
-        {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Mad\u00e1 - Remix",
-      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Aquino e a Orquestra Invis\u00edvel",
         "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
+        "name": "Mad\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
       },
       "artists": [
         {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
         }
       ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
+      "duration_ms": 205862,
+      "name": "Mad\u00e1 - Remix",
+      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -399,6 +383,22 @@
       "duration_ms": 139480,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/5vemlYP97ehJmUD7Bz9gEX"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
     },
     {
-      "added_at": "2023-04-05 00:51:07",
+      "added_at": "2023-04-06 00:50:48",
       "album": {
         "name": "Meu Mantra pra Te Esquecer",
         "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "bem vi",
-        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        }
-      ],
-      "duration_ms": 197297,
-      "name": "bem vi",
-      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Febre",
         "url": "https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174724,
       "name": "Febre",
       "url": "https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "bem vi",
+        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        }
+      ],
+      "duration_ms": 197297,
+      "name": "bem vi",
+      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -735,38 +735,6 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
-      },
-      "artists": [
-        {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
-        }
-      ],
-      "duration_ms": 160337,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 176000,
       "name": "Amor de Mar",
       "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Escuro (Remix)",
-        "url": "https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T"
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
       },
       "artists": [
         {
-          "name": "MAD\u00da",
-          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
-        },
-        {
-          "name": "Tain\u00e1 Seabra",
-          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 184557,
-      "name": "Escuro - Remix",
-      "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -887,34 +883,22 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+        "name": "Escuro (Remix)",
+        "url": "https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
+          "name": "MAD\u00da",
+          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
+        },
         {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
         }
       ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
+      "duration_ms": 184557,
+      "name": "Escuro - Remix",
+      "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -931,6 +915,22 @@
       "duration_ms": 178935,
       "name": "(((V\u00eanus)))",
       "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-02-13 18:00:57",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-02-13 18:00:57",
       "album": {
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+      },
+      "artists": [
+        {
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+        }
+      ],
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+    },
+    {
+      "added_at": "2023-02-13 18:00:57",
+      "album": {
         "name": "Queda livre",
         "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 198000,
       "name": "Queda livre",
       "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
-    },
-    {
-      "added_at": "2023-02-13 18:00:57",
-      "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
-      },
-      "artists": [
-        {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
-        }
-      ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     }
   ],
   "unique_name": "Fresh Finds Brasil",

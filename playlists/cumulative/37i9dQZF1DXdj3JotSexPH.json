@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250634,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/7tRXTDi87CiAqU5sIBQfIC"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2cj1IWzT9LXFWoDJ8SvKGy"
       },
@@ -6312,7 +6330,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 253121,
       "name": "Love Letter (feat. The Knocks)",
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"

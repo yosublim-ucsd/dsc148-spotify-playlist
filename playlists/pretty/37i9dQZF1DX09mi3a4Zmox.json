@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4057294,
+  "num_followers": 4057877,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzNDQ5MiwwMDAwMDAwMGM0YTQyNzE4YTk5ZTU0ZGY3M2U0MGNiYzUxMmE2Zjdm",
+  "snapshot_id": "MTY4MDYzNDQ5MiwwMDAwMDAwMDgyYzJlNGI3NGQ0MzM0NmYwMjgwZDRiYWUzMWI1OGE1",
   "tracks": [
     {
       "added_at": "2023-04-04 18:54:52",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-04-04 18:54:52",
       "album": {
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+    },
+    {
+      "added_at": "2023-04-04 18:54:52",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2023-04-04 18:54:52",
-      "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2023-04-04 18:54:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-04 18:54:52",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2023-04-04 18:54:52",
-      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2023-04-04 18:54:52",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2023-04-04 18:54:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-04 18:54:52",
       "album": {
-        "name": "Mis Canciones De La Web",
-        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Mi Razon De Ser",
-      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
-    },
-    {
-      "added_at": "2023-04-04 18:54:52",
-      "album": {
         "name": "De Mi Para Ti",
         "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 216000,
       "name": "Eazt",
       "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
+    },
+    {
+      "added_at": "2023-04-04 18:54:52",
+      "album": {
+        "name": "Mis Canciones De La Web",
+        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Mi Razon De Ser",
+      "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
     },
     {
       "added_at": "2023-04-04 18:54:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-04-04 18:54:52",
       "album": {
-        "name": "Agust\u00edn",
-        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
-    },
-    {
-      "added_at": "2023-04-04 18:54:52",
-      "album": {
         "name": "Deje de Amar",
         "url": "https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 192013,
       "name": "Deje de Amar",
       "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
+    },
+    {
+      "added_at": "2023-04-04 18:54:52",
+      "album": {
+        "name": "Agust\u00edn",
+        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
     },
     {
       "added_at": "2023-04-04 18:54:52",

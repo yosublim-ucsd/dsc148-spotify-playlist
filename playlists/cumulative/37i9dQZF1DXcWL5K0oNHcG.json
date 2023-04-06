@@ -2843,6 +2843,28 @@
     },
     {
       "album": {
+        "name": "Brown Study",
+        "url": "https://open.spotify.com/album/5UDarzJrpJkWJ5RqYDruDw"
+      },
+      "artists": [
+        {
+          "name": "Littlefingers",
+          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
+        },
+        {
+          "name": "Shoemaker",
+          "url": "https://open.spotify.com/artist/51HB3L9TveHiqJkU9dNs6L"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Brown Study",
+      "url": "https://open.spotify.com/track/3QnsWVTSUo20erLVx4L2sS"
+    },
+    {
+      "album": {
         "name": "Teia",
         "url": "https://open.spotify.com/album/7dqru5R0MMyZAuke7lmTND"
       },
@@ -2870,7 +2892,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 293853,
       "name": "Bruixes",
       "url": "https://open.spotify.com/track/59tmHpw30HiCYFZFQLUnJw"
@@ -4460,7 +4482,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
@@ -5209,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "E.J.B.M.",
+        "url": "https://open.spotify.com/album/2PwrwXxlNRpF6comuH8cGt"
+      },
+      "artists": [
+        {
+          "name": "James Casey",
+          "url": "https://open.spotify.com/artist/6pWMQpuRTqhLCEZA0h2AuC"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "E.J.B.M.",
+      "url": "https://open.spotify.com/track/66SVaXK2kOyFhEHW7wekne"
+    },
+    {
+      "album": {
         "name": "Dear Irvington",
         "url": "https://open.spotify.com/album/4Z0EGhn6WmIpCoUrmUjcyz"
       },
@@ -5488,7 +5528,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 254639,
       "name": "Endless Memories",
       "url": "https://open.spotify.com/track/3ET3j2mWfXL7TspTk5EN4r"
@@ -5694,7 +5734,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 553042,
       "name": "Explorations of One's Self Inside a Caravan",
       "url": "https://open.spotify.com/track/3vDtZyKQKAg5LCfr4Y1mgY"
@@ -7171,6 +7211,28 @@
     },
     {
       "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/7Fexy2ntHl98lN59bCYLoj"
+      },
+      "artists": [
+        {
+          "name": "Magal\u00ed Sare",
+          "url": "https://open.spotify.com/artist/4yU06ZMQgomPONCGeO0HgE"
+        },
+        {
+          "name": "Manel Fortia",
+          "url": "https://open.spotify.com/artist/1FS2OIXODWm5j6eTdfu6Nf"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263498,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0cTbD2ipwY6MqiUKg30MOC"
+    },
+    {
+      "album": {
         "name": "Guardians of Eden",
         "url": "https://open.spotify.com/album/14iEmI1R4XpDAMumClem9T"
       },
@@ -7378,6 +7440,36 @@
       "duration_ms": 344470,
       "name": "High with Me",
       "url": "https://open.spotify.com/track/4npQ5B7PrxGtxoWHqQ1wbe"
+    },
+    {
+      "album": {
+        "name": "Hit And Run",
+        "url": "https://open.spotify.com/album/2nK9h2bKhh3pyFw5zDaQ9X"
+      },
+      "artists": [
+        {
+          "name": "Aldo Boneswurst",
+          "url": "https://open.spotify.com/artist/7fq0KBZSJnf9kJWMF782Rl"
+        },
+        {
+          "name": "William E. Pondus",
+          "url": "https://open.spotify.com/artist/5ENrxwNcZWLWRky0sGbOtI"
+        },
+        {
+          "name": "Bormsen",
+          "url": "https://open.spotify.com/artist/5epoZlpLXp6iEoOLPbgkNy"
+        },
+        {
+          "name": "DJ Goku",
+          "url": "https://open.spotify.com/artist/0hY5m5ID7yXyDxHPPZUSDx"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226714,
+      "name": "Hit And Run",
+      "url": "https://open.spotify.com/track/0zjkxqwPiO5BbW9KCgHfrB"
     },
     {
       "album": {
@@ -7768,6 +7860,36 @@
       "duration_ms": 370448,
       "name": "I Want to Know Her",
       "url": "https://open.spotify.com/track/485DAzTlL6McsW8uW1WPwl"
+    },
+    {
+      "album": {
+        "name": "I WON'T",
+        "url": "https://open.spotify.com/album/5pRMUpcsCRaKPjd1LSinly"
+      },
+      "artists": [
+        {
+          "name": "Lucia Cadotsch",
+          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
+        },
+        {
+          "name": "Kit Downes",
+          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
+        },
+        {
+          "name": "Phil Donkin",
+          "url": "https://open.spotify.com/artist/2GddInGkfbHJTjjlCxX7P5"
+        },
+        {
+          "name": "James Maddren",
+          "url": "https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120430,
+      "name": "I WON'T",
+      "url": "https://open.spotify.com/track/5iE0Ezw4kGAbJZaIZRjNxt"
     },
     {
       "album": {
@@ -8800,7 +8922,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 237093,
       "name": "Jazzdance",
       "url": "https://open.spotify.com/track/1LWbw3LYIe5i8iayx4efsz"
@@ -10176,7 +10298,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 268338,
       "name": "Let Me Drown You",
       "url": "https://open.spotify.com/track/5lf2S2nfBnebGmJiYlt8JF"
@@ -11424,7 +11546,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 179538,
       "name": "Mille rayons",
       "url": "https://open.spotify.com/track/37lNN62nywRL60HLwgYv5R"
@@ -11956,6 +12078,24 @@
       "duration_ms": 391918,
       "name": "Mr \u201cW\u201d",
       "url": "https://open.spotify.com/track/3HTfE0xhjln4O2DvEhSl8C"
+    },
+    {
+      "album": {
+        "name": "Mr. Lament",
+        "url": "https://open.spotify.com/album/2AqI1T4b7SIiQKvWNvQrqJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Markson",
+          "url": "https://open.spotify.com/artist/3DK9rlUAD6yzvic9UUvYSc"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255533,
+      "name": "Mr. Lament",
+      "url": "https://open.spotify.com/track/0eyeRgx0rRxaENkn9GEgWR"
     },
     {
       "album": {
@@ -15187,6 +15327,24 @@
     },
     {
       "album": {
+        "name": "Saudade Vem Correndo",
+        "url": "https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf"
+      },
+      "artists": [
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249151,
+      "name": "Saudade Vem Correndo",
+      "url": "https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt"
+    },
+    {
+      "album": {
         "name": "Save the Phenomenon",
         "url": "https://open.spotify.com/album/2TcDBUuP9cpHPsBfVyRNIa"
       },
@@ -16415,6 +16573,24 @@
     },
     {
       "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+    },
+    {
+      "album": {
         "name": "Opus 1",
         "url": "https://open.spotify.com/album/2NoUqXx2Jzp5hoeFcz8D1u"
       },
@@ -17616,7 +17792,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 283707,
       "name": "The Austin Scene",
       "url": "https://open.spotify.com/track/4LZFTzSJe5NeyJ7uXEKk6c"
@@ -18205,6 +18381,24 @@
     },
     {
       "album": {
+        "name": "Yayennings, Vol. 2",
+        "url": "https://open.spotify.com/album/316BncBRql09nrbmcnqyMI"
+      },
+      "artists": [
+        {
+          "name": "Yayennings",
+          "url": "https://open.spotify.com/artist/3UIRDoB0S8JI9VclmPyJav"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167238,
+      "name": "The Quick",
+      "url": "https://open.spotify.com/track/0dnH0FfEU6E6oKN9npOdh6"
+    },
+    {
+      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/3ZAUizNNs3WHZBxsErMVzO"
       },
@@ -18738,7 +18932,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 291175,
       "name": "This Town",
       "url": "https://open.spotify.com/track/7DxNrUAcEP22ECwJLG6ksy"

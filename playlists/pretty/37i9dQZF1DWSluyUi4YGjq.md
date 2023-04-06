@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Winter on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,815 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,270 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 25 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 |
 | 26 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 |
 | 27 | [Comedown](https://open.spotify.com/track/64AAttKIyZcQgtPVHhNyj2) | [Relay Tapes](https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp) | [Debris](https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS) | 5:22 |
-| 28 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
-| 29 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
+| 28 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
+| 29 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 30 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
 | 31 | [Out of Mind](https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:08 |
 | 32 | [For the Kill](https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS) | 3:28 |
@@ -54,18 +54,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 44 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 45 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 |
 | 46 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
-| 47 | [Blankenship](https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 3:56 |
-| 48 | [Glow](https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:02 |
+| 47 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 |
+| 48 | [Blankenship](https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 3:56 |
 | 49 | [night is young](https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/3JJ19TTxz8N9n3wnMK2gS7) | 5:44 |
-| 50 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 |
+| 50 | [Glow](https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Aurora](https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd) | 4:02 |
 | 51 | [Heaven in Your Head](https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Nuclear Daisies](https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF) | 3:14 |
-| 52 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 |
-| 53 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 |
-| 54 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 |
+| 52 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 |
+| 53 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 |
+| 54 | [Cranekiss](https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:50 |
 | 55 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 |
-| 56 | [Cranekiss](https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:50 |
-| 57 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
-| 58 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 |
+| 56 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
+| 57 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 |
+| 58 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 |
 | 59 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 |
 | 60 | [Better Off Alone](https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Better Off Alone](https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK) | 4:07 |
 | 61 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 67 | [Out of Line](https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Out of Line](https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo) | 2:11 |
 | 68 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
 | 69 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 |
-| 70 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
-| 71 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 |
-| 72 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
+| 70 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
+| 71 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
+| 72 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 |
 | 73 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
 | 74 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
-| 75 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 |
+| 75 | [Drag Me into the Woods](https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Spells](https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC) | 6:27 |
 
-Snapshot ID: `MTY4MDI4NzY3NSwwMDAwMDAwMGE3ZDdmZDU0OTJkMzExZTEyOTY2NzY3OWY0OWRhZjk0`
+Snapshot ID: `MTY4MDI4NzY3NSwwMDAwMDAwMDVkMzMwMWFhYzRlYjVkODdkNWM2YTIzYzZlNmMyYmFi`

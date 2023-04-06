@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 477816,
+  "num_followers": 477958,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMDU5YjNlMTVjMDIyZWQ1MmUwMmI5M2MyYzBhZDA5MmRj",
+  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMDBiOGM0Y2NkYTRiZjUxMWI3YTU1NjdiNjkwMDQyMGE0",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Proverb",
+        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -1759,18 +1775,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+        "name": "Greatest Covers Ever",
+        "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
       },
       "artists": [
         {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
+      "duration_ms": 217864,
+      "name": "Fast Car - Acoustic",
+      "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1807,26 +1827,6 @@
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Greatest Covers Ever",
-        "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 217864,
-      "name": "Fast Car - Acoustic",
-      "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
     },
     {
       "added_at": "2023-02-13 10:37:00",
@@ -2507,18 +2507,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Paupers Field",
-        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl"
       },
       "artists": [
         {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+          "name": "Furns",
+          "url": "https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy"
         }
       ],
-      "duration_ms": 204333,
-      "name": "If the Creek Don't Rise",
-      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
+      "duration_ms": 265518,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO"
     }
   ],
   "unique_name": "Spooning",

@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 61669,
+  "num_followers": 61722,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDQ5OTVlNTg0ZGEyY2IxNmUwMzQyN2NkZmU2MmFhY2Nj",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGFhNmVjNGNjZDk4ZWFlODM3MjA5MzAzYWY3NGU2MWM1",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 195866,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 288120,
+      "name": "Wildflowers & Wine",
+      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 288120,
-      "name": "Wildflowers & Wine",
-      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 178440,
       "name": "Do Right Woman, Do Right Man",
       "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "We Get By",
         "url": "https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G"
       },
@@ -1141,20 +1125,20 @@
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
       },
       "artists": [
         {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1171,6 +1155,22 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 354954,
       "name": "Been Here Before",
       "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "How Blue Can You Get?",
-      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "You Can't Teach An Old Dog New Tricks",
         "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 214053,
       "name": "You Can't Teach An Old Dog New Tricks",
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Texas Bluesman",
@@ -1547,6 +1531,38 @@
       "duration_ms": 174133,
       "name": "Why Don't You Eat Where You Slept Last Night?",
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1579,22 +1595,6 @@
       "duration_ms": 231880,
       "name": "Signs, High Times",
       "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
       "added_at": "2021-03-03 17:28:10",

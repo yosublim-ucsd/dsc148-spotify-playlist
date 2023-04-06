@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53150,
+  "num_followers": 53201,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQyMzYzNywwMDAwMDAwMDVhOTUxZjMxNTk4ODM2ZTIxODI3NzA5NmNmYzZhMzYy",
+  "snapshot_id": "MTY4MDQyMzYzNywwMDAwMDAwMDViNzNlMTQxNzg0N2IyZTYwN2JhOTc2YjQwNGUyY2Jm",
   "tracks": [
     {
       "added_at": "2023-04-02 08:20:37",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322952,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 559267,
       "name": "One Name (Jesus) - Live",
       "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322952,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -807,18 +807,26 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+        "name": "Unproduced",
+        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
       },
       "artists": [
         {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
         }
       ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
+      "duration_ms": 290432,
+      "name": "Heaven's Here - Live",
+      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -843,26 +851,18 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Unproduced",
-        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
       },
       "artists": [
         {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        },
-        {
-          "name": "Kierre Bjorn",
-          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
         }
       ],
-      "duration_ms": 290432,
-      "name": "Heaven's Here - Live",
-      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
-      },
-      "artists": [
-        {
-          "name": "Elevation Collective",
-          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
-        },
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 130214,
-      "name": "Raised to Life (feat. The Walls Group)",
-      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -1019,22 +999,22 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
       "artists": [
         {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+          "name": "Elevation Collective",
+          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
         },
         {
-          "name": "PJ Greaves",
-          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
         }
       ],
-      "duration_ms": 429522,
-      "name": "The Crucifixion",
-      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
+      "duration_ms": 130214,
+      "name": "Raised to Life (feat. The Walls Group)",
+      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1055,6 +1035,26 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "PJ Greaves",
+          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
+        }
+      ],
+      "duration_ms": 429522,
+      "name": "The Crucifixion",
+      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1147,38 +1147,6 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 341120,
-      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
-      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
         "name": "Famous For (I Believe) [Sunday A.M. Version]",
         "url": "https://open.spotify.com/album/34OmquTJzMTUsnK1r0nom8"
       },
@@ -1203,18 +1171,18 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
       },
       "artists": [
         {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+      "duration_ms": 341120,
+      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
+      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1243,6 +1211,38 @@
       "duration_ms": 338354,
       "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
       "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        },
-        {
-          "name": "Jason Nicholson-Porter",
-          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
-        }
-      ],
-      "duration_ms": 356209,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 303050,
       "name": "Mnini Mandla Onke",
       "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "Jason Nicholson-Porter",
+          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
+        }
+      ],
+      "duration_ms": 356209,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
-      },
-      "artists": [
-        {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
         "name": "Live In Detroit (Live)",
         "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 496133,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
+        "name": "Sing A Nu Song",
+        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 370826,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
+    },
+    {
+      "added_at": "2023-04-02 08:20:37",
+      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
-    },
-    {
-      "added_at": "2023-04-02 08:20:37",
-      "album": {
-        "name": "Sing A Nu Song",
-        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 370826,
-      "name": "I Know It Was the Blood",
-      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
     },
     {
       "added_at": "2023-04-02 08:20:37",
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2023-04-02 08:20:37",
       "album": {
-        "name": "The Blood Song",
-        "url": "https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5"
+        "name": "He Carried The Cross For Me",
+        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
       },
       "artists": [
         {
-          "name": "Chris Bender",
-          "url": "https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG"
-        },
-        {
-          "name": "D'Shondra Perry",
-          "url": "https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
         }
       ],
-      "duration_ms": 334550,
-      "name": "The Blood Song",
-      "url": "https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa"
+      "duration_ms": 230659,
+      "name": "He Carried The Cross For Me",
+      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
     }
   ],
   "unique_name": "Easter Gospel",

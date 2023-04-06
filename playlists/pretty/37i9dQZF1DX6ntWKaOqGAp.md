@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: w.o.d.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,779 likes - 79 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,824 likes - 79 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 10 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
 | 11 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 |
 | 12 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 |
-| 13 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:00 |
+| 13 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:00 |
 | 14 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 |
 | 15 | [Etude of Adolescence](https://open.spotify.com/track/1e7GAbiLvMNCyoo8j8ZBpr) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Haruko Nagaya](https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8), [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [JUNK or GEM](https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI) | 4:33 |
 | 16 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 33 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
 | 34 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 35 | [Bad Night](https://open.spotify.com/track/6iqBxITQpEILbhSPb5RthA) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Bad Night](https://open.spotify.com/album/2ugqR8jijlCZygWxtyfLUJ) | 4:08 |
-| 36 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 |
+| 36 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 |
 | 37 | [なんて日々だっけ?](https://open.spotify.com/track/3ttrZsHEiL3ojEjOCzZvBY) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [なんて日々だっけ?](https://open.spotify.com/album/5I5xLwPlxFfOxlPpv5Qy2g) | 3:13 |
 | 38 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 |
 | 39 | [Ratpark](https://open.spotify.com/track/451krgfVbiNmFxAIXTGQjL) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Ratpark](https://open.spotify.com/album/3B88ap6PgLfLt41faNFPsN) | 3:32 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 57 | [\#情とは](https://open.spotify.com/track/4Lf4diEdzh2jwa9TnXxxjE) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [\#情とは](https://open.spotify.com/album/6cC8UvmqdRY7BuTwsksak6) | 4:50 |
 | 58 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 |
 | 59 | [Seikatsu](https://open.spotify.com/track/7j9qNYcNnc4iX21A4vPLhB) | [藍色アポロ](https://open.spotify.com/artist/6YHn8JnGWpNh9mLMHnqx8G) | [Seikatsu](https://open.spotify.com/album/6kHzpgDFHSX86y6PcIIqbi) | 5:05 |
-| 60 | [Drama](https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/4Jj1Z1zQ7erei7UsqsGNSo) | 3:37 |
+| 60 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 |
 | 61 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 |
 | 62 | [逆光](https://open.spotify.com/track/2skO0TsEvWhvcyFZMecHiD) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [逆光](https://open.spotify.com/album/2xi1cPT3wVznO0XPivoLLa) | 4:05 |
 | 63 | [クエスチョン](https://open.spotify.com/track/0KeSj8mWXvtC7XfUgian5b) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [クエスチョン](https://open.spotify.com/album/7iUsgV2Sr93tmNaWKzzfwx) | 3:03 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 70 | [何年先も憶えててほしい](https://open.spotify.com/track/79OJr7RyMwOCupcDtZSX9Y) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [何年先も憶えててほしい](https://open.spotify.com/album/6si9mH4mbMYsLa8RBRLHCJ) | 4:02 |
 | 71 | [Journey](https://open.spotify.com/track/1k7idRCVXSQCDoE9de5ixM) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Journey](https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU) | 4:12 |
 | 72 | [DESTINY](https://open.spotify.com/track/2vhnYCh0JSAMKirkdPTPJ0) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [DESTINY](https://open.spotify.com/album/468ZPAqEXHLZMxboOXkq0z) | 5:29 |
-| 73 | [金糸雀](https://open.spotify.com/track/1Oa7XF4Q34YYArakA4AuVb) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [金糸雀](https://open.spotify.com/album/3HbRbloiXPNXhD9eY7v1FJ) | 4:45 |
+| 73 | [canary](https://open.spotify.com/track/4EbHLjQSDR3zBUl8f5ZUpK) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [canary](https://open.spotify.com/album/5ij14ELuI2F4sB1IqWRTeW) | 4:45 |
 | 74 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 |
 | 75 | [malum](https://open.spotify.com/track/5pcg88evNmLl6qA0wmDRQi) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/7ibmp11sVi3XwgkUDL2jUn) | 3:11 |
 | 76 | [レイジーモーニング](https://open.spotify.com/track/2Xtz1YnZm5skeyZnG9OrOj) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [レイジーモーニング](https://open.spotify.com/album/74j966Zm6XGHewP3AgGcun) | 2:53 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 78 | [ヤッチマイナ!](https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [ヤッチマイナ!](https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI) | 3:08 |
 | 79 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDZkMjJhODRlZjY5MDNlOWM3ZWM5NjhjZDA1Y2EzNmNi`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGJkZjQwZGE4NjNkOGJhNDIzYTc3YjY5MTI5OGVjMjVi`

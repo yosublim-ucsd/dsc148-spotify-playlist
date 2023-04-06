@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 49151,
+  "num_followers": 49234,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQxNTc0MiwwMDAwMDAwMDc0ZThlZWQ4OTc2M2FlZTZiYTk0NzAwMTNjNGY2MmM2",
+  "snapshot_id": "MTY3OTQxNTc0MiwwMDAwMDAwMDczZWVkNWVlNjVjNTc2YmMzODI1ZjgwMmVhMmM5ZDk0",
   "tracks": [
     {
       "added_at": "2023-03-16 17:35:17",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Salt In My Wounds",
-      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Better Than Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/45blvARBYrViZz3eYg50sH"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 356360,
       "name": "Tell Her You Belong To Me",
       "url": "https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Salt In My Wounds",
+      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Pensive Pop",
-        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Soul Deep",
         "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
+        "name": "Pensive Pop",
+        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
         "name": "Hope And Desire",
         "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 237600,
       "name": "Loving You Is Sweeter Than Ever",
       "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Fire on the Floor (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 311226,
+      "name": "Fire On The Floor",
+      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -627,22 +643,6 @@
       "duration_ms": 255426,
       "name": "Blues Music",
       "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
-        "name": "Fire on the Floor (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 311226,
-      "name": "Fire On The Floor",
-      "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 264811,
-      "name": "Believe These Blues",
-      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Don't Let the Green Grass Fool You",
         "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 225160,
       "name": "Don't Let the Green Grass Fool You",
       "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 264811,
+      "name": "Believe These Blues",
+      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Live At Blues Alley",
-        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 349066,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Crackdown",
         "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+        "name": "Live At Blues Alley",
+        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
         }
       ],
-      "duration_ms": 344973,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
+      "duration_ms": 349066,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -851,6 +835,22 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "No Other Way",
-      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Take Your Shoes Off",
-        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
-      },
-      "artists": [
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Riding Out The Storm",
         "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 356426,
       "name": "A Quitter Never Wins",
       "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Take Your Shoes Off",
+        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1311,22 +1295,18 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Better Days (feat. Dave Fenley)",
-        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "The Hello Darlins",
-          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
-        },
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 243880,
-      "name": "Better Days (feat. Dave Fenley)",
-      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -1347,6 +1327,26 @@
       "duration_ms": 289266,
       "name": "I Don't Know What You've Got",
       "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "added_at": "2023-03-16 17:35:17",

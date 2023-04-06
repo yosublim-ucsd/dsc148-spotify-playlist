@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Feist ",
-  "num_followers": 1602951,
+  "num_followers": 1603005,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDJiNGM1MTc3OGIzNzk2MDYyZmM5YThkMjRlYWVhMWUz",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGViYWVlNGQ1NTUxYjZmZTM2MDAwMDYxMDQ3MDg5MGZj",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -485,6 +485,34 @@
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Revolution 0",
+      "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Heaven or Las Vegas",
@@ -515,34 +543,6 @@
       "duration_ms": 137851,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "Revolution 0",
-      "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Serenade of Water",
-      "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 344344,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
+      "duration_ms": 185660,
+      "name": "Serenade of Water",
+      "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 199576,
       "name": "Love Is Complicated (The Angels Sing)",
       "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
     },
     {
       "added_at": "2023-03-24 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 308,882 likes - 156 songs - 8 hr 54 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 308,865 likes - 156 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 93 | [Can You Handle My Love??](https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Can You Handle My Love??](https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps) | 4:16 |
 | 94 | [celebrate](https://open.spotify.com/track/7nlvjuAdtKroFHdgqwCBKC) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [celebrate](https://open.spotify.com/album/3vnCUC9qSrGMalNNrV2Fj8) | 3:15 |
 | 95 | [Los del Vacile](https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Los del Vacile](https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z) | 3:33 |
-| 96 | [Horizon \(feat\. Leon Bridges\)](https://open.spotify.com/track/6CenzKfN5aqSMXV8yJAi43) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo Presents Thomas Wesley: Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:28 |
+| 96 | [Horizon \(feat\. Leon Bridges\)](https://open.spotify.com/track/6CenzKfN5aqSMXV8yJAi43) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:28 |
 | 97 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 |
 | 98 | [Over The Rainbow](https://open.spotify.com/track/0AmJF6MlRCMzocgR92sfKh) | [Lotus Blue](https://open.spotify.com/artist/5vIpTlpycbPrgO3WQenRPk), [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Over The Rainbow](https://open.spotify.com/album/1mbDWv0L2Nlwd9T4h4sLxr) | 1:32 |
 | 99 | [What I Like About You](https://open.spotify.com/track/4VRJfWj7cNKivIggXeje8z) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [Hits Of The 80s \(100 Songs\)](https://open.spotify.com/album/5uJ3FfBJ9CdGcEcCZZxiCr) | 2:54 |

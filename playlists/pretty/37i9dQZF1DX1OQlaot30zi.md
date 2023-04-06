@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Madame, Fred De Palma, Silent Bob e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,673 likes - 89 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,706 likes - 89 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

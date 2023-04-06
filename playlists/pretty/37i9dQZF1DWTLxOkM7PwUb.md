@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,436 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,577 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 62 | [Vuelve a Mi](https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Vuelve a Mi](https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9) | 3:06 |
 | 63 | [C14TORCE IV](https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE IV](https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY) | 2:53 |
 | 64 | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo) | 3:14 |
-| 65 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 |
+| 65 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
 | 66 | [DESPUES QUE TE PERDI](https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [DESPUES QUE TE PERDI](https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn) | 4:07 |
-| 67 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
+| 67 | [Roto](https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Roto](https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3) | 3:28 |
 | 68 | [A fuego \- Bizarrap Remix](https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [A fuego \(Bizarrap Remix\)](https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap) | 3:59 |
 | 69 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 |
 | 70 | [LA PRIMERA VEZ](https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [MORDIENDO EL BOZAL](https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w) | 3:17 |
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 81 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 | 82 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
 | 83 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
-| 84 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
-| 85 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 |
+| 84 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 |
+| 85 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
 | 86 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
 | 87 | [Pa Mi](https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Pa Mi](https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K) | 3:48 |
 | 88 | [Hielo](https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hielo](https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn) | 3:45 |
-| 89 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 |
-| 90 | [CARAMELOS](https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [CARAMELOS](https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ) | 2:45 |
+| 89 | [CARAMELOS](https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [CARAMELOS](https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ) | 2:45 |
+| 90 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 |
 | 91 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 |
 | 92 | [Depues De Las 3](https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ) | 3:11 |
 | 93 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 |
 | 100 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMGRlOGVhNjRkYTlkYzJlYjZjNTIxMzY2NGY2MTM1NDI4`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDI5ODllZjc2NjViNmEwYjVjM2VkMzNiYjhkZDI3ZTVh`

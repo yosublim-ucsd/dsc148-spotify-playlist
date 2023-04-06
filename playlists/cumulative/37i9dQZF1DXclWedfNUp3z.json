@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 149142,
       "name": "Ailments",
       "url": "https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 223810,
       "name": "Arboretum",
       "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 156923,
       "name": "Carvings",
       "url": "https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 166375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 501453,
       "name": "Making Gardens Out of Silence",
       "url": "https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK"
@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 224826,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw"
@@ -3766,7 +3766,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 220000,
       "name": "Night Waves",
       "url": "https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
@@ -4221,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182874,
+      "name": "Perspex",
+      "url": "https://open.spotify.com/track/5dQN5ayZKt9QEwTDCQhVXv"
+    },
+    {
+      "album": {
         "name": "PHANTOM BRICKWORKS (IV & V)",
         "url": "https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s"
       },
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-06",
       "duration_ms": 178170,
       "name": "Piedras Encantadas",
       "url": "https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs"
@@ -4996,7 +5014,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
@@ -5422,6 +5440,32 @@
       "duration_ms": 205662,
       "name": "Spiritual Power",
       "url": "https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv"
+    },
+    {
+      "album": {
+        "name": "Spring Siesta",
+        "url": "https://open.spotify.com/album/4oR4Hey6GVUpl6GGtaaaze"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ulibarri",
+          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
+        },
+        {
+          "name": "Amalinalli Pichardo",
+          "url": "https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp"
+        },
+        {
+          "name": "David Ralicke",
+          "url": "https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241742,
+      "name": "Spring Siesta",
+      "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
     },
     {
       "album": {

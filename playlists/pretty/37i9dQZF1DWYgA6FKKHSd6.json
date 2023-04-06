@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 210903,
+  "num_followers": 210930,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDg3NjEwZWVmNWUxZDA1ZmIwOGMxYjVmYTI0N2ViMGE0",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGU4NGNiMjBlZGNlMjYxM2Y2MjdkZjM0NTk1MDg3Nzgy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Cachaca",
-      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "L.I.T.",
         "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Cachaca",
+      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "City Beat",
@@ -1103,6 +1087,22 @@
       "duration_ms": 312800,
       "name": "Lasting Impression",
       "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
+    },
+    {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
-      },
-      "artists": [
-        {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
-        }
-      ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Nightfall",
@@ -1303,6 +1287,22 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1425,38 +1425,6 @@
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
-    },
-    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "In the Moment",
@@ -1475,6 +1443,38 @@
       "duration_ms": 238529,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Chocolate Vibez",
-        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
-      },
-      "artists": [
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 254011,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Sexy Saxy, Vol. 3",
         "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 263128,
       "name": "What U Want, What U Need",
       "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Chocolate Vibez",
+        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
+      },
+      "artists": [
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+        }
+      ],
+      "duration_ms": 254011,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Slam Dunk",
-        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Slam Dunk",
-      "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv"
       },
@@ -1707,18 +1691,34 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Homebrew (Radio Mix)",
-        "url": "https://open.spotify.com/album/79QLG9fEzrDkbEeBJU3Dc4"
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM"
       },
       "artists": [
         {
-          "name": "Patrick Lamb",
-          "url": "https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35"
+          "name": "Rocco Ventrella",
+          "url": "https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ"
         }
       ],
-      "duration_ms": 259165,
-      "name": "Homebrew - Radio Mix",
-      "url": "https://open.spotify.com/track/021RV4e0gnjDuUB5KxJ6Ck"
+      "duration_ms": 273653,
+      "name": "She's Ready",
+      "url": "https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Slam Dunk",
+        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Slam Dunk",
+      "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
     }
   ],
   "unique_name": "Sax and the City",

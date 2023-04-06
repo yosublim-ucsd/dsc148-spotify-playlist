@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 915904,
+  "num_followers": 916260,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NjEwNSwwMDAwMDAwMGJmZTc1MjBmMTIxYjFjMzI3MTdkZGIzZWMyYTZkNjMx",
+  "snapshot_id": "MTY3NTk0NjEwNSwwMDAwMDAwMDMxNjQxOTU5N2M2ZDcyNmEwOWE1MTFhYzk1YmRmN2Qy",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Streetwalker",
-        "url": "https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68"
-      },
-      "artists": [
-        {
-          "name": "Nightstop",
-          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
-        }
-      ],
-      "duration_ms": 209606,
-      "name": "Dangerous Desires",
-      "url": "https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/6kbEcZuw1MdH2lnTUXwsuC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 220800,
       "name": "Release",
       "url": "https://open.spotify.com/track/2qtOmbVDhvCPyqbGrnuLo6"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Streetwalker",
+        "url": "https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68"
+      },
+      "artists": [
+        {
+          "name": "Nightstop",
+          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
+        }
+      ],
+      "duration_ms": 209606,
+      "name": "Dangerous Desires",
+      "url": "https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Drive-by Stalking",
-        "url": "https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9"
-      },
-      "artists": [
-        {
-          "name": "Nightstop",
-          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
-        }
-      ],
-      "duration_ms": 320432,
-      "name": "Drive-by Stalking",
-      "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/0tWGMqpI0DBEWFwmqcQrjg"
       },
@@ -499,22 +483,6 @@
       "duration_ms": 256406,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/41QTliytEPoX2vkuMT0fKd"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v"
-      },
-      "artists": [
-        {
-          "name": "admo",
-          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
-        }
-      ],
-      "duration_ms": 140968,
-      "name": "Aftershock",
-      "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -535,6 +503,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v"
+      },
+      "artists": [
+        {
+          "name": "admo",
+          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Aftershock",
+      "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/3PFjjWI0IHpR7Sjo4ackKP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 363706,
       "name": "Futureland",
       "url": "https://open.spotify.com/track/5UrCArd6UDDR2EPFOeWCxb"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Drive-by Stalking",
+        "url": "https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9"
+      },
+      "artists": [
+        {
+          "name": "Nightstop",
+          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
+        }
+      ],
+      "duration_ms": 320432,
+      "name": "Drive-by Stalking",
+      "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "New & Improved",
-        "url": "https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa"
-      },
-      "artists": [
-        {
-          "name": "TWRP",
-          "url": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr"
-        },
-        {
-          "name": "Magic Sword",
-          "url": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-        }
-      ],
-      "duration_ms": 308493,
-      "name": "Terraform",
-      "url": "https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/6FHuJNrXDqeH1YqXeapWtv"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 248000,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/2rQbDCtrX3H3cGwqH3JmPv"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "New & Improved",
+        "url": "https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa"
+      },
+      "artists": [
+        {
+          "name": "TWRP",
+          "url": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr"
+        },
+        {
+          "name": "Magic Sword",
+          "url": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+        }
+      ],
+      "duration_ms": 308493,
+      "name": "Terraform",
+      "url": "https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Rivage",
-        "url": "https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu"
-      },
-      "artists": [
-        {
-          "name": "Krosia",
-          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
-        }
-      ],
-      "duration_ms": 244744,
-      "name": "Rivage",
-      "url": "https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "\u00c9ternit\u00e9 pt. 2",
         "url": "https://open.spotify.com/album/2JDRsKQx09tzMCEoOtnGlo"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 252121,
       "name": "Nightride - Revisited",
       "url": "https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Rivage",
+        "url": "https://open.spotify.com/album/3wq9PoE6W9J8fcW4GLqWBu"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        }
+      ],
+      "duration_ms": 244744,
+      "name": "Rivage",
+      "url": "https://open.spotify.com/track/4BUEypiJwVnKbXPRwUnhAe"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/5jKttCwE5mur4cjPTqGAPG"
-      },
-      "artists": [
-        {
-          "name": "Tesla Boy",
-          "url": "https://open.spotify.com/artist/0VSi6lAB9txdaW5VEmIx9b"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Strong - Instrumental",
-      "url": "https://open.spotify.com/track/68z36ZU2RgiB9VyafaBrqV"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Kalax",
         "url": "https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 259834,
       "name": "Time Lapse",
       "url": "https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/5jKttCwE5mur4cjPTqGAPG"
+      },
+      "artists": [
+        {
+          "name": "Tesla Boy",
+          "url": "https://open.spotify.com/artist/0VSi6lAB9txdaW5VEmIx9b"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Strong - Instrumental",
+      "url": "https://open.spotify.com/track/68z36ZU2RgiB9VyafaBrqV"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Crystalica - EP",
-        "url": "https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w"
-      },
-      "artists": [
-        {
-          "name": "Lueur Verte",
-          "url": "https://open.spotify.com/artist/236Oy3MFNzz5zbBwowuxlW"
-        }
-      ],
-      "duration_ms": 336146,
-      "name": "Emerald Rising",
-      "url": "https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 206400,
       "name": "Outlines",
       "url": "https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Crystalica - EP",
+        "url": "https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w"
+      },
+      "artists": [
+        {
+          "name": "Lueur Verte",
+          "url": "https://open.spotify.com/artist/236Oy3MFNzz5zbBwowuxlW"
+        }
+      ],
+      "duration_ms": 336146,
+      "name": "Emerald Rising",
+      "url": "https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Dans la for\u00eat",
+        "url": "https://open.spotify.com/album/2h7R8DC7UEXttfd0Csy904"
+      },
+      "artists": [
+        {
+          "name": "Adieu Aru",
+          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+        },
+        {
+          "name": "Rozam",
+          "url": "https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Dans la for\u00eat",
+      "url": "https://open.spotify.com/track/5P4G0CHQZOdJufaqU4jDA6"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Crystal Waves (From \"Wave Break\")",
         "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
       },
@@ -1363,22 +1383,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Exile",
-        "url": "https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv"
-      },
-      "artists": [
-        {
-          "name": "Daniel Deluxe",
-          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
-        }
-      ],
-      "duration_ms": 202494,
-      "name": "Territory",
-      "url": "https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Dreamrider",
         "url": "https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V"
       },
@@ -1395,18 +1399,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv"
       },
       "artists": [
         {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+          "name": "Daniel Deluxe",
+          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
         }
       ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
+      "duration_ms": 202494,
+      "name": "Territory",
+      "url": "https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Dans la for\u00eat",
-        "url": "https://open.spotify.com/album/2h7R8DC7UEXttfd0Csy904"
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
       },
       "artists": [
         {
-          "name": "Adieu Aru",
-          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
-        },
-        {
-          "name": "Rozam",
-          "url": "https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4"
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Dans la for\u00eat",
-      "url": "https://open.spotify.com/track/5P4G0CHQZOdJufaqU4jDA6"
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Flashbacks (Arcade High Remix)",
+        "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
+      },
+      "artists": [
+        {
+          "name": "W O L F C L U B",
+          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
+        },
+        {
+          "name": "Dora Pereli",
+          "url": "https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC"
+        },
+        {
+          "name": "Arcade High",
+          "url": "https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI"
+        }
+      ],
+      "duration_ms": 232411,
+      "name": "Flashbacks (Arcade High Remix)",
+      "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Parallel Lives",
         "url": "https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse"
       },
@@ -1515,26 +1539,6 @@
       "duration_ms": 308210,
       "name": "White Crows",
       "url": "https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt"
-    },
-    {
-      "added_at": "2023-01-20 05:50:00",
-      "album": {
-        "name": "A Sea of Stars (Miami Nights 1984 Remix)",
-        "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
-      },
-      "artists": [
-        {
-          "name": "W O L F C L U B",
-          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
-        },
-        {
-          "name": "Miami Nights 1984",
-          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "A Sea of Stars (Miami Nights 1984 Remix)",
-      "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1611,30 +1615,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Flashbacks (Arcade High Remix)",
-        "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
-      },
-      "artists": [
-        {
-          "name": "W O L F C L U B",
-          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
-        },
-        {
-          "name": "Dora Pereli",
-          "url": "https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC"
-        },
-        {
-          "name": "Arcade High",
-          "url": "https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI"
-        }
-      ],
-      "duration_ms": 232411,
-      "name": "Flashbacks (Arcade High Remix)",
-      "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Lost in the Cloud",
         "url": "https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx"
       },
@@ -1705,20 +1685,24 @@
       "url": "https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
+      "added_at": "2023-01-20 05:50:00",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+        "name": "A Sea of Stars (Miami Nights 1984 Remix)",
+        "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
       },
       "artists": [
         {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+          "name": "W O L F C L U B",
+          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
+        },
+        {
+          "name": "Miami Nights 1984",
+          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+      "duration_ms": 211200,
+      "name": "A Sea of Stars (Miami Nights 1984 Remix)",
+      "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Fundamentals, Vol. III",
         "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 316129,
       "name": "Pel\u00e9e",
       "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU"
-      },
-      "artists": [
-        {
-          "name": "Miami Nights 1984",
-          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "New Tomorrow",
-      "url": "https://open.spotify.com/track/5QYlmR9WamVNeOWBdKcOTu"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1799,6 +1783,22 @@
       "duration_ms": 229333,
       "name": "Assembly Line",
       "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU"
+      },
+      "artists": [
+        {
+          "name": "Miami Nights 1984",
+          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "New Tomorrow",
+      "url": "https://open.spotify.com/track/5QYlmR9WamVNeOWBdKcOTu"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Metaversal",
-        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "E.P.R.O.M.",
         "url": "https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 232000,
       "name": "E.P.R.O.M.",
       "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Metaversal",
+        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 339333,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Neon Escapism (Edit)",
         "url": "https://open.spotify.com/album/6jmwxY4XJLKcKnHJKOjK6A"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 274285,
       "name": "Neon Escapism - Edit",
       "url": "https://open.spotify.com/track/42Xlg8cKifyHQ8sFgaUBmt"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/28OaB4YG2bRU8XxyWmUlfu"
       },
@@ -2347,6 +2331,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Humanity",
         "url": "https://open.spotify.com/album/1mNWCwd5pDxalbFZndW2lg"
       },
@@ -2359,6 +2359,22 @@
       "duration_ms": 265312,
       "name": "Keepin' on",
       "url": "https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
+      },
+      "artists": [
+        {
+          "name": "Zane Alexander",
+          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2387,54 +2403,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7z0iHq5JX8d5TYsPyYIST7"
-      },
-      "artists": [
-        {
-          "name": "Zane Alexander",
-          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6HlNsdeHhgXyEYUHtgSipY"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Tenshi",
-        "url": "https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7"
-      },
-      "artists": [
-        {
-          "name": "Formal One",
-          "url": "https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59"
-        }
-      ],
-      "duration_ms": 255189,
-      "name": "Tenshi",
-      "url": "https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8"
       },
@@ -2459,6 +2427,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 182954,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
       },
@@ -2475,18 +2459,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5"
+        "name": "Tenshi",
+        "url": "https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7"
       },
       "artists": [
         {
-          "name": "Lost Years",
-          "url": "https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y"
+          "name": "Formal One",
+          "url": "https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59"
         }
       ],
-      "duration_ms": 243838,
-      "name": "Cross the Line",
-      "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
+      "duration_ms": 255189,
+      "name": "Tenshi",
+      "url": "https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2507,6 +2491,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5"
+      },
+      "artists": [
+        {
+          "name": "Lost Years",
+          "url": "https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y"
+        }
+      ],
+      "duration_ms": 243838,
+      "name": "Cross the Line",
+      "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Pressure Point",
         "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
       },
@@ -2519,22 +2519,6 @@
       "duration_ms": 236216,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Endless Lines",
-        "url": "https://open.spotify.com/album/4BDIAcy8a1R31qcuEdNh3u"
-      },
-      "artists": [
-        {
-          "name": "Krosia",
-          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
-        }
-      ],
-      "duration_ms": 252824,
-      "name": "Endless Lines",
-      "url": "https://open.spotify.com/track/5VyjYh1xSRY08srq7TKQme"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2559,18 +2543,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Karpen Island",
-        "url": "https://open.spotify.com/album/5LDhbYJLAFfLY8mx2NcUnM"
+        "name": "Endless Lines",
+        "url": "https://open.spotify.com/album/4BDIAcy8a1R31qcuEdNh3u"
       },
       "artists": [
         {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Karpen Island",
-      "url": "https://open.spotify.com/track/4ZepQtIaClw4UuUpteSQG3"
+      "duration_ms": 252824,
+      "name": "Endless Lines",
+      "url": "https://open.spotify.com/track/5VyjYh1xSRY08srq7TKQme"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2591,6 +2575,22 @@
       "duration_ms": 420000,
       "name": "Atmosfer - Dr. Parnassus Remix",
       "url": "https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Karpen Island",
+        "url": "https://open.spotify.com/album/5LDhbYJLAFfLY8mx2NcUnM"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Karpen Island",
+      "url": "https://open.spotify.com/track/4ZepQtIaClw4UuUpteSQG3"
     },
     {
       "added_at": "2023-01-13 05:01:00",

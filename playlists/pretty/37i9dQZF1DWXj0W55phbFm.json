@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 29083,
+  "num_followers": 29135,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU3MjU0NSwwMDAwMDAwMDk5Njk1ODg3ZjBhYWRjMjc1OTQyNzhlMDM0MjUwMjRh",
+  "snapshot_id": "MTY3OTU3MjU0NSwwMDAwMDAwMDU3NTYyNTY1OTI2ZDdmYjllZDNhM2FlY2IwN2EyZGM0",
   "tracks": [
     {
       "added_at": "2023-03-09 10:11:15",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 625293,
       "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "Jumpin' With Jonah",
-        "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
-      },
-      "artists": [
-        {
-          "name": "Jonah Jones",
-          "url": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Moten Swing - Remastered",
-      "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "Here Comes Louis Smith (Remastered)",
         "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 402546,
       "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "Jumpin' With Jonah",
+        "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
+      },
+      "artists": [
+        {
+          "name": "Jonah Jones",
+          "url": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Moten Swing - Remastered",
+      "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Squeaky's Blues",
-      "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "Dona Nostra",
         "url": "https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 227773,
       "name": "What Reason Could I Give",
       "url": "https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Squeaky's Blues",
+      "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1023,42 +1023,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "On The Dance Floor",
-        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "The PM Jazz Lab",
-          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Smile - Live",
-      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
-        "name": "Towards Language",
-        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 336138,
-      "name": "Groundswell",
-      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
       },
@@ -1079,6 +1043,42 @@
       "duration_ms": 453146,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "Towards Language",
+        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 336138,
+      "name": "Groundswell",
+      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "On The Dance Floor",
+        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "The PM Jazz Lab",
+          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
+        "name": "With The Swedish All Stars Vol. 1",
+        "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        },
+        {
+          "name": "Swedish All Stars",
+          "url": "https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG"
+        }
+      ],
+      "duration_ms": 320579,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
         "name": "Woody III",
         "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
       },
@@ -1239,30 +1263,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "With The Swedish All Stars Vol. 1",
-        "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        },
-        {
-          "name": "Swedish All Stars",
-          "url": "https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG"
-        }
-      ],
-      "duration_ms": 320579,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "Gnu High",
         "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
       },
@@ -1287,6 +1287,26 @@
       "duration_ms": 358760,
       "name": "Smatter",
       "url": "https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "The Reason Why Vol. 3",
+        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
+      },
+      "artists": [
+        {
+          "name": "Goran Kajfes",
+          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
+        },
+        {
+          "name": "Goran Kajfes Subtropic Arkestra",
+          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
+        }
+      ],
+      "duration_ms": 533573,
+      "name": "Trance Dance",
+      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1323,22 +1343,18 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "The Reason Why Vol. 3",
-        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
       },
       "artists": [
         {
-          "name": "Goran Kajfes",
-          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
-        },
-        {
-          "name": "Goran Kajfes Subtropic Arkestra",
-          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 533573,
-      "name": "Trance Dance",
-      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1371,22 +1387,6 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "Volume 2 (Vol. 2)",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
-        }
-      ],
-      "duration_ms": 322164,
-      "name": "Well You Needn't",
-      "url": "https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 179840,
       "name": "I Lost My Gal from Memphis",
       "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "Volume 2 (Vol. 2)",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "duration_ms": 322164,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "Standard Time Vol. 2: Intimacy Calling",
-        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 514293,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "From The Top (Digitally Remastered)",
         "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 224103,
       "name": "Drumette",
       "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "Standard Time Vol. 2: Intimacy Calling",
+        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 514293,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
     },
     {
       "added_at": "2023-03-09 10:11:15",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-03-09 10:11:15",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 479266,
-      "name": "Jacob's Ladder",
-      "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
-    },
-    {
-      "added_at": "2023-03-09 10:11:15",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 418642,
       "name": "Sweet Peach Tree",
       "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+    },
+    {
+      "added_at": "2023-03-09 10:11:15",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 479266,
+      "name": "Jacob's Ladder",
+      "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
     },
     {
       "added_at": "2023-03-09 10:11:15",

@@ -1430,8 +1430,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197993,
-      "name": "Dynamite - Acoustic Remix",
+      "name": "Dynamite (Acoustic Remix)",
       "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
+    },
+    {
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197101,
+      "name": "Dynamite (Tropical Remix)",
+      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "album": {
@@ -1450,24 +1468,6 @@
       "duration_ms": 197993,
       "name": "Dynamite - Acoustic Remix",
       "url": "https://open.spotify.com/track/29QQoKCiBil8wTBeP1GDBm"
-    },
-    {
-      "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197101,
-      "name": "Dynamite - Tropical Remix",
-      "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
     {
       "album": {

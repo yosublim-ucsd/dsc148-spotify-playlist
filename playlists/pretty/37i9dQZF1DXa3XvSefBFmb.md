@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,056 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,130 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 25 | [alguém que só sonha contigo](https://open.spotify.com/track/67MN7B5t9WJtU2mNIAW1uh) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [alguém que só sonha contigo](https://open.spotify.com/album/3f6G02A5ylzj4iMkDwcV5X) | 3:10 |
 | 26 | [Enganava\-me Outra Vez](https://open.spotify.com/track/3USJk510znP1bU5z4zjnd8) | [Monica Mata](https://open.spotify.com/artist/333kSRluVjjgOe26QVDcsh) | [Resistir](https://open.spotify.com/album/1AX8jzMBgAXGGYtehuEs7b) | 5:00 |
 | 27 | [A Noite do Meu Bem](https://open.spotify.com/track/43RsoEGwdNtkWTGikSHJjN) | [Celeste Rodrigues](https://open.spotify.com/artist/6iDf0VGIqPx4ojVqSaVNp5) | [A Noite do Meu Bem](https://open.spotify.com/album/28shYapygiIyePzNY5J0VF) | 3:06 |
-| 28 | [há\-de sarar](https://open.spotify.com/track/7BqKrhHn3BpuyCMpgy648a) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 3:48 |
+| 28 | [há\-de sarar](https://open.spotify.com/track/788WoYnjW12ZWyksEr6qsq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:48 |
 | 29 | [Vou Tirar um Break](https://open.spotify.com/track/0Zip5zZpLMsK6UaolDCSex) | [Aurea](https://open.spotify.com/artist/752oCkLr3xnW9IVBnAhMMn) | [Moods](https://open.spotify.com/album/5jdpAVenUPDyGoy87wqPJK) | 2:50 |
 | 30 | [Estás Onde?](https://open.spotify.com/track/2yyCUkNQwqX2SEWXBC6X5g) | [April Ivy](https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH) | [Estás Onde?](https://open.spotify.com/album/30ooxZgkEi63DwZ8pWdN86) | 3:32 |
 | 31 | [Mundo](https://open.spotify.com/track/0Ahc6eO88Cx0FQ7KWXphqf) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Mundo](https://open.spotify.com/album/1v53k1h6u644fjIHcLHX6I) | 2:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [Esta Canção](https://open.spotify.com/track/0fyiPbrQwEvjGtljWwsGh6) | [Mafalda Veiga](https://open.spotify.com/artist/5bD6psQfhLXvadNAD0VttX) | [Esta Canção](https://open.spotify.com/album/5IdHyIM8ZuYVK0yR6XUn2E) | 2:38 |
 | 49 | [Estações](https://open.spotify.com/track/75WHmcPKPHcV9vvF4sKikH) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Estações](https://open.spotify.com/album/2j6hIjOJXpWeBxXGJxJlIV) | 3:30 |
 
-Snapshot ID: `MTY4MDY0OTIwMCwwMDAwMDAwMDBmYTAyMGI2YWEyMWY0YjAyMzc4MTc4ZGU5NTdjYzAw`
+Snapshot ID: `MTY4MDY0OTIwMCwwMDAwMDAwMDFjZTQ3ZDZkN2VhMzYyYTViODY1Yjg2ZmYzMDcwOTI3`

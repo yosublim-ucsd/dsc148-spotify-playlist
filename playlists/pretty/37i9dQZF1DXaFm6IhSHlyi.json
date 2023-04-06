@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 137779,
+  "num_followers": 137805,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMGEzODA4ZjU4M2JiMzNhNTQ1ZDIyMWVkMjRiMmFhOTM0",
+  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDU3OWNjYTBjNGZhMjIzYTU4ZDA3Y2E1N2Y3NjQ5NDAw",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 223800,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ohebbou Yadayka",
-        "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 226575,
-      "name": "Ohebbou Yadayka",
-      "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 62969,
       "name": "Majnony Ana",
       "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ohebbou Yadayka",
+        "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 226575,
+      "name": "Ohebbou Yadayka",
+      "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
+      },
+      "artists": [
+        {
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Ang Kwento Ng Pag-Ibig",
         "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 230000,
       "name": "How We Love",
       "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2523,18 +2523,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sikasih",
-        "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10"
       },
       "artists": [
         {
-          "name": "Abam",
-          "url": "https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL"
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
         }
       ],
-      "duration_ms": 186915,
-      "name": "Sikasih",
-      "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
+      "duration_ms": 170156,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l"
     }
   ],
   "unique_name": "Ballads International",

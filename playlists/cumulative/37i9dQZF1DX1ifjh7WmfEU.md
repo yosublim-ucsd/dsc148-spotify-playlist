@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-179 songs - 7 hr 56 min
+182 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-05-27 | 2022-07-28 |
 | [A New Way](https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A New Way](https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo) | 2:33 | 2022-09-15 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2022-05-27 |  |
+| [A Woman's Face](https://open.spotify.com/track/6IE0kjcdYzlkEci7ZPz4Oj) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [A Woman's Face](https://open.spotify.com/album/1q7noc74LWWgNOuec0VCwY) | 3:18 | 2023-04-05 |  |
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2022-05-27 |  |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-26 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-05-27 |  |
@@ -33,6 +34,7 @@
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2022-05-27 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-05-27 |  |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2022-05-27 |  |
+| [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 | 2023-04-05 |  |
 | [Cosmos](https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Cosmos](https://open.spotify.com/album/37tKu5bgF6LBrwAySLKpOd) | 2:39 | 2022-05-27 |  |
 | [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 | 2022-05-27 | 2022-09-16 |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2022-05-27 |  |
@@ -101,6 +103,7 @@
 | [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 | 2022-07-27 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-05-27 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-05-27 |  |
+| [Majestic Sky](https://open.spotify.com/track/6h76YDPycRG0nGSIHxFxzP) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Majestic Sky](https://open.spotify.com/album/5RHZVIZAuCXStOzIbCmCa1) | 3:40 | 2023-04-05 |  |
 | [Mangetsu](https://open.spotify.com/track/57p8sEB0RZILwSvgAAJgh4) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Mangetsu](https://open.spotify.com/album/6xldzkLO7dn1jE9qwm51dr) | 2:38 | 2022-07-27 |  |
 | [Maroon Lake](https://open.spotify.com/track/3vU8mciK9Ec13Kg9AtbQEu) | [Reversible](https://open.spotify.com/artist/0vPodmVWzicTAEAhq4OyID) | [Maroon Lake](https://open.spotify.com/album/6a7I9OpF79o4SUIPZ6XHAv) | 1:45 | 2022-05-27 |  |
 | [Maybe under some other sky](https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Maybe under some other sky](https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq) | 2:19 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,467 likes - 110 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,508 likes - 110 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 29 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
 | 30 | [Homegrown](https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 4:02 |
 | 31 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 32 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
-| 33 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
+| 32 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
+| 33 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 34 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 |
 | 35 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 36 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 70 | [Brassy Sun](https://open.spotify.com/track/4p8xeejJP9NV3wEMCvuBUr) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Brassy Sun](https://open.spotify.com/album/6iUS4KSI1hhG8YxP72ZBld) | 3:36 |
 | 71 | [Names and Races](https://open.spotify.com/track/4RrePp7ou4Uw9fCxnj4mD5) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Anywhere But Where I Am](https://open.spotify.com/album/6jaGzAFeqYrMWt08lz4dtH) | 6:48 |
 | 72 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
-| 73 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
-| 74 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 |
+| 73 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 |
+| 74 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
 | 75 | [Boy 1904](https://open.spotify.com/track/3oww3hQ0kv9b2QjEkvyer0) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 5:03 |
 | 76 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
 | 77 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 95 | [Your Love Is An Island](https://open.spotify.com/track/6we39fF8PwBFH0Buthg1gH) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Wild Alee \(Deluxe Edition\)](https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF) | 3:56 |
 | 96 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 |
 | 97 | [Meadow Song](https://open.spotify.com/track/1XDGbnepd3c3kqYsy6E0fx) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:56 |
-| 98 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
-| 99 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 |
+| 98 | [Our Love's Funeral](https://open.spotify.com/track/4AXklvY4icjXZQf3vFAZug) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Our Love's Funeral](https://open.spotify.com/album/1jG0JzLRYJR4odNdlfHOmm) | 2:45 |
+| 99 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
 | 100 | [Flume](https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 3:42 |
 | 101 | [X\-Ray](https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Savage Hills Ballroom](https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk) | 2:42 |
 | 102 | [Half\-Light \(feat\. Kelly Zutrau\) \- Instupendo Remix](https://open.spotify.com/track/47Muud0OYLe0a5B2LiE6nR) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Kelly Zutrau](https://open.spotify.com/artist/2gaJCrcUIWj6bQyiszAAdY), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Half\-Light Remixes: EP1](https://open.spotify.com/album/66VEN2zYHfOvggPZPZlyUB) | 3:34 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [The Time To Sleep](https://open.spotify.com/track/1DkCFx03ZLCpGmGzHxZeIT) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Nice Is Good](https://open.spotify.com/album/4Wsgd7FXs6a55vbrrwqxz3) | 4:10 |
 | 110 | [Losing My Mind](https://open.spotify.com/track/3FNENbQXJGWilvNYgGjw5I) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Gravity Pairs](https://open.spotify.com/album/6kKA00epWl2hfYZ1RvIvPR) | 3:09 |
 
-Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMGYxNDA2MTcwZGIxMTdjMmE5OWU0OTAwZGQ2ZDhiNDI4`
+Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMDdlMDVkNDg3NjFmZmNiMDYwNmI4YWE4NTgyZGMyYzdk`

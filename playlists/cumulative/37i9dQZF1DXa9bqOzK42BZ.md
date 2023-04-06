@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-72 songs - 7 hr 33 min
+73 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Umenitendea](https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Tangu Mwanzo](https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9) | 6:17 | 2022-06-24 |  |
 | [Umezungukwa Na Sifa](https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 9:58 | 2022-06-24 |  |
 | [Umezungushwa Na Sifa](https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF) | [Paul Clement](https://open.spotify.com/artist/3Z9HW7fckNI8pKKuYcOaTg) | [Usiyeshindwa](https://open.spotify.com/album/1UHqfMQCDTRHXhdvWVaSvQ) | 9:58 | 2022-06-24 | 2022-07-29 |
-| [Uniongoze Yesu](https://open.spotify.com/track/3Ide09ppPsNh2rI7bVcGgY) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol\. 4](https://open.spotify.com/album/1RHHM6zh03RBlS16N4Fl6Y) | 8:10 | 2022-06-24 |  |
+| [Uniongoze Yesu](https://open.spotify.com/track/3Ide09ppPsNh2rI7bVcGgY) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol\. 4](https://open.spotify.com/album/1RHHM6zh03RBlS16N4Fl6Y) | 8:10 | 2022-06-24 | 2023-04-06 |
+| [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-06-24 |  |
 | [Utukuzwe](https://open.spotify.com/track/1v2QEyebDcGuDyhfJPpInb) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 4:53 | 2022-06-24 |  |
 | [Victory Belongs To Jesus](https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS) | 5:44 | 2022-06-24 | 2022-07-29 |
 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2022-06-24 |  |

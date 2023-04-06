@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 
 > Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,823 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,016 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

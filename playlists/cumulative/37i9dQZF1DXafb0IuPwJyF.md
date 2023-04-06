@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  米津玄師
 
-771 songs - 2 day 0 hr 10 min
+773 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 | 2022-08-07 | 2022-09-26 |
 | [Anarchy](https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Anarchy](https://open.spotify.com/album/0aHdIJjwSWIKPKgZcU097P) | 4:28 | 2022-01-09 | 2022-03-21 |
 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 | 2022-12-11 | 2022-12-24 |
+| [Apple Pie](https://open.spotify.com/track/2tTWFGQ3yhXbjobnvSs5kV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:00 | 2023-04-05 |  |
 | [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/28J0DrbuMz7G8hzz1nwNjJ) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/3a1PHwaqJwCMcQrrVEPO0e) | 4:07 | 2023-03-26 | 2023-04-01 |
-| [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/6E2qAhW7I06HTPV4BJkPkK) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:07 | 2023-03-31 |  |
+| [Areta Kuchibiru wa Koi o Nakusu](https://open.spotify.com/track/6E2qAhW7I06HTPV4BJkPkK) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:07 | 2023-03-31 | 2023-04-06 |
 | [As long as I love](https://open.spotify.com/track/4Ffc5nmb7MkNyLLpSAH2er) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [As long as I love / Scratch](https://open.spotify.com/album/0MSYKvvoxhGFpMykGLUCVF) | 4:10 | 2022-03-21 | 2022-03-28 |
 | [ASOBO](https://open.spotify.com/track/4rdmyc70mJQEfhKeiFDLFZ) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [ASOBO](https://open.spotify.com/album/7ablw9g7TrGJFlv8VrJi7d) | 3:01 | 2022-04-17 | 2022-05-08 |
 | [ATTRACTION \[Japanese Remix\]](https://open.spotify.com/track/5NJiQOeqz2WWGBZVKcP1oO) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [ATTRACTION \(Japanese Remix\)](https://open.spotify.com/album/6w1bjcnTn4lTjRLUKA6ySI) | 3:30 | 2021-12-19 | 2022-02-07 |
@@ -396,7 +397,8 @@
 | [Troche](https://open.spotify.com/track/55npd4x5aJgUxgcfuuedSA) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Troche](https://open.spotify.com/album/664yPpos9jz8ONXwcAY84t) | 4:06 | 2022-07-31 | 2022-08-08 |
 | [TRUMAN](https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:36 | 2023-01-22 | 2023-01-30 |
 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 | 2022-05-22 | 2022-06-06 |
-| [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-05 |  |
+| [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-05 | 2023-04-06 |
+| [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-04-05 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-09 | 2023-03-20 |
 | [Two of Us feat\. Momoko Hayashi](https://open.spotify.com/track/1JfW3U00sxOpF3puJu0DCu) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm), [Momoko Hayashi](https://open.spotify.com/artist/5vvuay91t1WlmMwMEFsTsI) | [Two of Us feat\. Momoko Hayashi](https://open.spotify.com/album/4Q8sbj7WiRVrHcWN8Vtj4a) | 3:48 | 2022-10-09 | 2022-10-31 |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-07-31 | 2022-08-29 |
