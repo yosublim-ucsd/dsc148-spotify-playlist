@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: YONAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,446 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,548 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 25 | [Animo](https://open.spotify.com/track/3aKDYKzoG5JUlNU0wPUFrC) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Animo](https://open.spotify.com/album/1djRJv7qe83GxDMXxpa6bG) | 3:07 |
 | 26 | [Nothing Left.](https://open.spotify.com/track/2SDZ5EAdckFpSbuSh6dMdr) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Nothing Left.](https://open.spotify.com/album/533m6q2gaHi7sIfrqGfyXp) | 2:58 |
 | 27 | [quicksand](https://open.spotify.com/track/4DCOB50S9PAUQlCW3nPcLA) | [Dead Lakes](https://open.spotify.com/artist/0e14x1G9pTcCmLLzkFDhE0) | [daydreamer](https://open.spotify.com/album/7MMD03ebDqfnFhSSDkCyoF) | 3:51 |
-| 28 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
+| 28 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 | 29 | [Best Alone](https://open.spotify.com/track/0RMR1bM2K8cyrHIjlQtqQG) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Best Alone](https://open.spotify.com/album/1dpYRd4kVEtekQdnWf6Crv) | 3:49 |
 | 30 | [Hero](https://open.spotify.com/track/214ULTZrZ3PAfpFs8OZeWA) | [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc) | [Running For a Dream](https://open.spotify.com/album/7aW8emBMuHWWO20XNo7es5) | 3:52 |
 | 31 | [Grand Junction](https://open.spotify.com/track/6hOVfoLDEntkxImHGsu6sE) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [The Price of Progress](https://open.spotify.com/album/7q41OrrTtG86TGfp4mDmcQ) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Holes](https://open.spotify.com/track/0azokoxO6Id51KeWUReZtQ) | [Disaster Cities](https://open.spotify.com/artist/3vKjfCsDtpVTKvUdU08O1M) | [Holes](https://open.spotify.com/album/5PWc6kVEB23cSnhbOhcK0G) | 3:51 |
 | 50 | [Sex Sells](https://open.spotify.com/track/2w8DHlnwWee68dbYVqsrtA) | [Birgit Jones](https://open.spotify.com/artist/0ltrVE1GkbeEyeM1iWkjdR) | [Sex Sells](https://open.spotify.com/album/4ANHY0EIS4y16LX2iRokhf) | 3:18 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDlkY2I2MTYwZmIyOTEwNGNmNDk5MWVjMWU3MDBkNGIy`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDY1Y2Q5ZTBjMjJiM2IxOThmN2I2OGY2NjEyNTQzMDZh`

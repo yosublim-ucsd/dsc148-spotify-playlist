@@ -1,12 +1,12 @@
 {
   "description": "A calm, instrumental reading playlist. ",
-  "num_followers": 171760,
+  "num_followers": 171796,
   "original_name": "Read and Unwind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYwMDkzNiwwMDAwMDAwMGE0Njk3MWU5N2QyYzNmY2RiNmU3M2M4NTVmYTcwY2Fm",
+  "snapshot_id": "MTY4MDYwMDkzNiwwMDAwMDAwMDhiNjA5YTgyNGY0ZTRhYzRjNmE3MTRjOGI1MGM4NzJh",
   "tracks": [
     {
       "added_at": "2023-04-04 09:35:36",
@@ -3606,6 +3606,10 @@
         {
           "name": "Oscar Basza",
           "url": "https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ"
+        },
+        {
+          "name": "Oscar Unfiltered",
+          "url": "https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ"
         }
       ],
       "duration_ms": 135768,

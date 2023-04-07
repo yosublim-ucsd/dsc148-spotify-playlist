@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 240000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK"
@@ -1500,6 +1500,24 @@
       "duration_ms": 208873,
       "name": "Nahar",
       "url": "https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg"
+    },
+    {
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183649,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
     },
     {
       "album": {

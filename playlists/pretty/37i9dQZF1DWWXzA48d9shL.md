@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: do not resurrect
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,580 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,039 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 100 | [Red Rain](https://open.spotify.com/track/2gnZhOhmmX0rDqdm3inrvC) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV), [K.V.N](https://open.spotify.com/artist/0spgIsDeSqUcUjfejGzMXc) | [Red Rain](https://open.spotify.com/album/7euxM0u7f0v4KwFeGuZvCM) | 2:00 |
 
-Snapshot ID: `MTY3OTk1ODM5MSwwMDAwMDAwMDU4MzUzNWMyOWFhODUwNmNjOTA2ZDEyODNkOTRjMGQz`
+Snapshot ID: `MTY3OTk1ODM5MSwwMDAwMDAwMGJhNDMwMzAxNTU3NmJmZDBiODM3ZmQ0ZWVhZjllNDQy`

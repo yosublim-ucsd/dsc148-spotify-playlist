@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Ghita
 
-2,891 songs - 6 day 3 hr 24 min
+2,892 songs - 6 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [breakfast song](https://open.spotify.com/track/4orOG7nuE9FPc6soZpi6Xb) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [breakfast song](https://open.spotify.com/album/1KWPixwURcbky8FuJKkFnF) | 2:14 | 2023-03-08 | 2023-04-06 |
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-03-02 | 2022-04-07 |
 | [BREAKING](https://open.spotify.com/track/6GHKVD48fWQcwOhDx7YlAh) | [CROOK](https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv) | [BREAKING](https://open.spotify.com/album/0swbFlpfOJCs2NFUbN52Fi) | 3:19 | 2023-01-18 | 2023-02-23 |
-| [Breaking Hearts](https://open.spotify.com/track/6MmDpUR8OLsnyieYdnu75P) | [Søren Emil](https://open.spotify.com/artist/4kDl0EsJrDuXkfqaz87CmO) | [Breaking Hearts](https://open.spotify.com/album/2zsi5jZjVwyrk1NnMPGfCb) | 3:27 | 2023-03-15 |  |
+| [Breaking Hearts](https://open.spotify.com/track/5fFFcyffVTNrItIg8zuxlE) | [Søren Emil](https://open.spotify.com/artist/4kDl0EsJrDuXkfqaz87CmO) | [Breaking Hearts](https://open.spotify.com/album/3ecZ2EzL3Id2wzT3iIykCW) | 3:27 | 2023-03-15 |  |
+| [Breaking Hearts](https://open.spotify.com/track/6MmDpUR8OLsnyieYdnu75P) | [Søren Emil](https://open.spotify.com/artist/4kDl0EsJrDuXkfqaz87CmO) | [Breaking Hearts](https://open.spotify.com/album/2zsi5jZjVwyrk1NnMPGfCb) | 3:27 | 2023-03-15 | 2023-04-07 |
 | [breaking my bank](https://open.spotify.com/track/3gSBOqOG4zyAmgU5c4IYSJ) | [harrison cole](https://open.spotify.com/artist/1V9120r6rFjZU522C9DvNp) | [breaking my bank](https://open.spotify.com/album/01KD4S02WJQ9WlH63rADow) | 2:11 | 2021-02-10 | 2021-03-11 |
 | [Breaking Myself](https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb) | 2:54 | 2022-05-04 | 2022-05-26 |
 | [Breakup Tutorial\_V2](https://open.spotify.com/track/3XO5ymRCXWLeDrs1PXbarv) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Breakup Tutorial\_V2](https://open.spotify.com/album/5s4v59bLxyuMwsZlZ4G7fy) | 3:16 | 2020-11-12 | 2020-12-08 |

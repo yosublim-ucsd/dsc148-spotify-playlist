@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,273 likes - 508 songs - 19 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,410 likes - 508 songs - 19 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 507 | [Birds in a Tree](https://open.spotify.com/track/66XDRP8a73wHcqMqnWM0z7) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [The Way She Moves](https://open.spotify.com/album/6d56jnrEI4HSi6khvktQDr) | 3:15 |
 | 508 | [nakano ride](https://open.spotify.com/track/5ydchUCAyRP8PIv2yN58Xj) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [nakano ride](https://open.spotify.com/album/65jey1RllY2XjRtXrZjlQT) | 2:11 |
 
-Snapshot ID: `MTY4MDUyNDIzNiwwMDAwMDAwMDhhN2RjZjcwMzBlZTZlYTJhNTA2NjNiZjcwM2ZhM2Qx`
+Snapshot ID: `MTY4MDUyNDIzNiwwMDAwMDAwMDg2ODRjNTFhZTU4Yjg3OWZmMTA5ODhlZWQ5Yzc4MDY4`

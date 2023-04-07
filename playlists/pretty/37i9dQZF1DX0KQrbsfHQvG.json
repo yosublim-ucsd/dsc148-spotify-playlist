@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 173773,
+  "num_followers": 173831,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGVjZWNiMmRhYTBhMGRiOTZhMWRhOWYzYzJkNDM3NmUx",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGM1YTU1YTI5MWRkYjY3ZjAyY2Q4ZDI2ZjljMjQ3MWYw",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "WRONG GENERATION",
-        "url": "https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u"
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
       "artists": [
         {
           "name": "FEVER 333",
           "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
         }
       ],
-      "duration_ms": 142640,
-      "name": "WRONG GENERATION",
-      "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
+      "duration_ms": 189742,
+      "name": "(The First Stone) Changes [feat. Yelawolf]",
+      "url": "https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM"
     },
     {
       "added_at": "2022-11-04 04:00:00",

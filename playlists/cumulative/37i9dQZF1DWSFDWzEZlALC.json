@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: KAFFKIEZ",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Blumengarten, Longus Mongus",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Die Zeit steht still",
+        "url": "https://open.spotify.com/album/4QLnNV90tNSeR1aY2cz3yW"
+      },
+      "artists": [
+        {
+          "name": "Ann Can't Talk",
+          "url": "https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141032,
+      "name": "Die Zeit steht still",
+      "url": "https://open.spotify.com/track/1t4oaKyj54yJp46ARxZ7fv"
+    },
+    {
+      "album": {
         "name": "Zorn & Liebe",
         "url": "https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 114074,
       "name": "Freebeat",
       "url": "https://open.spotify.com/track/4W76VNG6n7CasMlMlhDk7s"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 203613,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 163137,
       "name": "Gro\u00dfstadt",
       "url": "https://open.spotify.com/track/5uUxjP4KTYbAoXUwWst7pc"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 123809,
       "name": "Klimpa Klimpa",
       "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
@@ -2046,6 +2064,24 @@
       "duration_ms": 151573,
       "name": "K\u00f6nig der Nachbarschaft",
       "url": "https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65"
+    },
+    {
+      "album": {
+        "name": "Lange N\u00e4chte",
+        "url": "https://open.spotify.com/album/6E6KewThtKLR9PbY4X26xL"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206639,
+      "name": "Lange N\u00e4chte",
+      "url": "https://open.spotify.com/track/4Xp4dVh3hgRjJmW8Ovn3tX"
     },
     {
       "album": {
@@ -2358,6 +2394,24 @@
       "duration_ms": 198044,
       "name": "M\u00e4nner",
       "url": "https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi"
+    },
+    {
+      "album": {
+        "name": "Euphorie und Panik!",
+        "url": "https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Nach Hause",
+      "url": "https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n"
     },
     {
       "album": {
@@ -3338,7 +3392,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 196411,
       "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
       "url": "https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ"
@@ -3508,6 +3562,46 @@
       "duration_ms": 203453,
       "name": "Wenn ich du w\u00e4r",
       "url": "https://open.spotify.com/track/68GVmWjf1rNBtsdeJopEHd"
+    },
+    {
+      "album": {
+        "name": "Wie Du",
+        "url": "https://open.spotify.com/album/6dkH0Z1f411BzyjcHuZk9I"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170417,
+      "name": "Wie Du",
+      "url": "https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS"
+    },
+    {
+      "album": {
+        "name": "wiedersehen",
+        "url": "https://open.spotify.com/album/5wwgn9Z4UB02M3mLaeuLuG"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "wiedersehen",
+      "url": "https://open.spotify.com/track/0ga3JEPvSWi6aSgMfPVJow"
     },
     {
       "album": {

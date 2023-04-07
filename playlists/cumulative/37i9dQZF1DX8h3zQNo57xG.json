@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Binaural Resonance",
+        "url": "https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111042,
+      "name": "Delta Resonance 4 Hz",
+      "url": "https://open.spotify.com/track/4qK7EvC0LcSsijsDV0SNn3"
+    },
+    {
+      "album": {
         "name": "Noise Shapers",
         "url": "https://open.spotify.com/album/5b9KgzqeksMOBW1u0RTnaQ"
       },
@@ -1190,6 +1208,24 @@
       "duration_ms": 186562,
       "name": "Delta Sleep Binaural 82.7Hz - 84Hz",
       "url": "https://open.spotify.com/track/7FXq4DGcyddOyOy3zj8iJF"
+    },
+    {
+      "album": {
+        "name": "Delta Explorer",
+        "url": "https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023"
+      },
+      "artists": [
+        {
+          "name": "Triangular Prism III",
+          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Delta Sleep Waves 84.4Hz - 85.7Hz",
+      "url": "https://open.spotify.com/track/5KHYjgWV3oxkX6UbY2iJBM"
     },
     {
       "album": {

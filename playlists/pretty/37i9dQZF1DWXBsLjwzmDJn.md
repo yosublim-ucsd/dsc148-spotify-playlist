@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 
 > Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,584 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,653 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 | 51 | [BLOODTHIRST](https://open.spotify.com/track/1aMkyrvVszLDQnBeGojnS2) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 3:35 |
 | 52 | [Without You](https://open.spotify.com/track/0kg63fJKXDWwPKko8zQPHw) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ』オリジナル・サウンドトラック](https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70) | 1:40 |
 
-Snapshot ID: `MTY4MDE4ODQwMCwwMDAwMDAwMDM4YTk5OWNhMjkzN2ZjNDQ5ZmJkOWVkMmZiY2JiMTlk`
+Snapshot ID: `MTY4MDE4ODQwMCwwMDAwMDAwMDc5ZmRjNzE0NmYzMjFiOGQ5NjNlMzI3MjNmYjE3NzA4`

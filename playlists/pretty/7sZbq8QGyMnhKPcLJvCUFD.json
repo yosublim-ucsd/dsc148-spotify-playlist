@@ -1,13 +1,29 @@
 {
-  "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds.",
-  "num_followers": 751521,
+  "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Alan Walker",
+  "num_followers": 751619,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NDk1OCw3M2U5ZjU2ZDE0OGJmMzg3ZTU4NmI0ZDg1NGQyOTk4YWI3MDE4YTEy",
+  "snapshot_id": "NDk2Myw1MWUwMDAxNjkyMTM4MjYxY2ZlN2Y5MDQ5ZWFjZjQzNWNiNmMyYzRm",
   "tracks": [
+    {
+      "added_at": "2023-04-06 14:47:22",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
     {
       "added_at": "2023-02-13 11:20:51",
       "album": {
@@ -47,6 +63,26 @@
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
+    },
+    {
+      "added_at": "2023-04-06 09:00:58",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A"
+      },
+      "artists": [
+        {
+          "name": "Millbrook",
+          "url": "https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm"
+        },
+        {
+          "name": "Ellerslie",
+          "url": "https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE"
+        }
+      ],
+      "duration_ms": 193268,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki"
     },
     {
       "added_at": "2023-04-05 09:45:27",

@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 19 | [As If We Were Never There](https://open.spotify.com/track/14MHbGaaukArtIrL0sBEzr) | [Autumn Tears](https://open.spotify.com/artist/32WFfO8pMkrpupMgDiXlDE) | [Guardian Of The Pale](https://open.spotify.com/album/0f4GQk5Bf3ReCFEg6PYnrv) | 4:00 |
 | 20 | [Communicate](https://open.spotify.com/track/1QXKrmZ3J4wicyZAblPUrA) | [Kirlian Camera](https://open.spotify.com/artist/6b5KqGQYLUb3NuD2G6W2Op) | [Communicate](https://open.spotify.com/album/4op7FALzRcCFTPzTSOcOp2) | 6:06 |
 | 21 | [Sell My Soul \- Live 1993](https://open.spotify.com/track/0lMJaroECvENT3FqtEfGIf) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Not In My Name \(Live 1993\)](https://open.spotify.com/album/0YuXuyrpg5MOhzbzn05CYy) | 5:06 |
-| 22 | [English Blood // American Heartache](https://open.spotify.com/track/42Sz4aU1vA5FejFfO5GzLy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D) | 3:16 |
+| 22 | [English Blood // American Heartache](https://open.spotify.com/track/7gVWrhosuThCLRM8CarekB) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:16 |
 | 23 | [Dying To Believe \(Acoustic\)](https://open.spotify.com/track/6yVIPSY8DWCM5D63E3LGWs) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 2:40 |
 | 24 | [Real Thing \- Live](https://open.spotify.com/track/3HRiHN1r3d1OzmUlQhftQz) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Buried \(Live\)](https://open.spotify.com/album/3J19k6oHkIYygdbuDgZfL3) | 3:56 |
 | 25 | [The Path to Suffering](https://open.spotify.com/track/0EwWKshGNLnR9PSsLPyCKs) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 4:07 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 29 | [The Third Death](https://open.spotify.com/track/1qqy2dBh7oGSgaxy0M2WGj) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 3:30 |
 | 30 | [GOT THE THRILLS](https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:53 |
 
-Snapshot ID: `MjgwMDM5MjAsMDAwMDAwMDA3MGE5YWY4ZDE1ZDdkNGNlY2M2YzFmNGQ2NTBiN2JjYQ==`
+Snapshot ID: `MjgwMDM5MjAsMDAwMDAwMDBlYjNiN2IwYjIzOWNlOGM4ZmUxMGU2ZTU3NDE2Y2Q4MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,687 likes - 168 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,754 likes - 168 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 167 | [Salt of the earth](https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl) | [Meg Stiles](https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8) | [Salt of the Earth](https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1) | 3:02 |
 | 168 | [Solitaria](https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Solitaria](https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF) | 2:16 |
 
-Snapshot ID: `MTY4MDIyNDQwMCwwMDAwMDAwMDc5MGE2MDY3NjEwYjdkYjc5ZjdhOTU0ODk0NjIwYTY3`
+Snapshot ID: `MTY4MDIyNDQwMCwwMDAwMDAwMDdmMzI2MDFmZWFlZTg2ODQzNWM4NDBlOTUwMWJmMTgz`

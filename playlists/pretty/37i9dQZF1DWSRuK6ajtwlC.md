@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Maquinaría Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,022 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,332 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
 | 75 | [¿Qué Estás Esperando?](https://open.spotify.com/track/3bVsodddPYMjrnhxgj7EA7) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33) | [¿Qué Estás Esperando?](https://open.spotify.com/album/7MYz39F21zsCRqRl1DKxMB) | 3:43 |
 
-Snapshot ID: `MTY3ODEyOTczNSwwMDAwMDAwMGIyOTlhODVhNjZhN2QzMGJjNjFmNzk4MjhkZWJmMTZm`
+Snapshot ID: `MTY3ODEyOTczNSwwMDAwMDAwMDJiZmUxMzU0MDUyYmY1NmEwMzU1ODRkMWYyY2YzNTA4`

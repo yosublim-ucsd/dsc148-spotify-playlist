@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 151000,
       "name": "Alpha 6HZ",
       "url": "https://open.spotify.com/track/0D32zKm96iknCXO4fZDZKe"
@@ -258,6 +258,24 @@
       "duration_ms": 204000,
       "name": "Alpha 8HZ",
       "url": "https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68"
+    },
+    {
+      "album": {
+        "name": "Alpha Core",
+        "url": "https://open.spotify.com/album/2WPi04z9oNIU0Ewu1siuYL"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "Alpha Binaural Focus 115Hz - 123Hz",
+      "url": "https://open.spotify.com/track/5TR5odtJghbnXb9bQv6ubl"
     },
     {
       "album": {

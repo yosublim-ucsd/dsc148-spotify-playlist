@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,549 likes - 102 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,889 likes - 102 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 101 | [Hold My Hand, Maria](https://open.spotify.com/track/6FDBakYPU96AegvThCmIJT) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Hold My Hand, Maria](https://open.spotify.com/album/2b4YoBDmKSCynJLRu7ihXS) | 4:15 |
 | 102 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 |
 
-Snapshot ID: `MTY4MDcwMjc4MiwwMDAwMDAwMDNjZTZmYzE0ZTg4M2E0ZmMxOGE2N2EwNjk1OTMxNjk1`
+Snapshot ID: `MTY4MDcwMjc4MiwwMDAwMDAwMGJhYmUxNjJhNThjMGIzNDMxZjc3OTI1OGU2YzE5NzJk`

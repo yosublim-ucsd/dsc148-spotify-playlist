@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Call It Love\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 사랑이라 말해요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,009 likes - 103 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,078 likes - 103 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 102 | [I will love you](https://open.spotify.com/track/5nHiis5wIWTKyAVX7BnHIo) | [Lee Se Joon](https://open.spotify.com/artist/6z7PM9dWn2BNcyWTxVwZ8h) | [Taepung's Bride OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/1J0NrBFczUxpSpxfjhMgVK) | 3:19 |
 | 103 | [Stay With Me](https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/4ebeZziAY8xysG8bHhHljX) | 2:52 |
 
-Snapshot ID: `MTY4MDI0NDc1MywwMDAwMDAwMGE3ZTg3Mzg4ZjJlZjk2OTMzZTZmNzVhMGI2YWRlMGNm`
+Snapshot ID: `MTY4MDI0NDc1MywwMDAwMDAwMGYwMzMwYWI5MmI1MDU3NjIyMjQ5ZGQ2NGU4ZWZjMjA0`

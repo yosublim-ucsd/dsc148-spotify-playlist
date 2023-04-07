@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Meet the lineup of HIPHOPPLAYA FESTIVAL 2023, the largest outdoor hip\-hop festival in Korea! \(한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2023의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,683 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,703 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 25 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 |
 | 26 | [Paranoid](https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ASH](https://open.spotify.com/album/0rI1BGsvXnc4IYyBqCJ6sI) | 3:03 |
 
-Snapshot ID: `MTY4MDU4MzIzMywwMDAwMDAwMDczYTMwZTU2MTY1NDBmNzJmOTUxN2NhNjljMjczNDQy`
+Snapshot ID: `MTY4MDU4MzIzMywwMDAwMDAwMDY2MTVlYjI2M2E0ODdjMzQ0YmJkYTAxMGQ5NTNmNzkz`

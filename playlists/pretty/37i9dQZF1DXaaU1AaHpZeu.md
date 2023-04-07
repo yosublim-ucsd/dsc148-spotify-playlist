@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Cariño y Girl Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,828 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,906 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 59 | [Las chicas malas](https://open.spotify.com/track/19nhyYMYfin6yft3Nv1tri) | [Los Pilotos](https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4) | [Las chicas malas](https://open.spotify.com/album/16KaQYASyZaY4vb0HnZO8R) | 3:06 |
 | 60 | [correr](https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz) | 2:53 |
 
-Snapshot ID: `MTY4MDI0NzkyMCwwMDAwMDAwMDYwNjgyOWU4OWE2YjI0MzcyZDc1YjAxYWE2NjRhY2Rh`
+Snapshot ID: `MTY4MDI0NzkyMCwwMDAwMDAwMDYxYzg0OTczMmI3MjU4ZDJiYjU0NGE0ZDQ5Njc0ZmE2`

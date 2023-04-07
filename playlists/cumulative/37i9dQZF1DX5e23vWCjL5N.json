@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148083,
+      "name": "FANGORIA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/2X2MteIqOjRSozQACNDtEo"
+    },
+    {
+      "album": {
         "name": "FANTASMI (feat. Geolier & Marracash)",
         "url": "https://open.spotify.com/album/4SyvX5syFVUmPvC8yS9KPw"
       },
@@ -844,6 +866,28 @@
       "duration_ms": 193090,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X"
+    },
+    {
+      "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "IN HEAVEN (feat. Ernia)",
+      "url": "https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl"
     },
     {
       "album": {

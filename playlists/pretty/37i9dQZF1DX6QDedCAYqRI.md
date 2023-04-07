@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,231 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,240 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 69 | [Oblivion](https://open.spotify.com/track/7y5Epl5axmVOZY2MmpxmtJ) | [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Pillar](https://open.spotify.com/album/4KeaAueVERsbmdJJCixuNG) | 3:41 |
 | 70 | [Priceless \(The Film Ballad\)](https://open.spotify.com/track/4K7d9xMOpYuLuikWsCO9lq) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [I WAS THE LION](https://open.spotify.com/artist/0hYPQPYA6Wu90339kq6046), [Bianca Santos](https://open.spotify.com/artist/6ZBUOrayQFAZwWKeoNKvzm) | [Priceless \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VbOGrb2x72BLZSAP5hJha) | 3:24 |
 
-Snapshot ID: `MTY3NjQ0NjM2NCwwMDAwMDAwMDdlZTc1Y2E3ZGI5ZjllMTEzZDM1YTYwYjU0NzM0YmZm`
+Snapshot ID: `MTY3NjQ0NjM2NCwwMDAwMDAwMDRjMDVlYzc5MThiMGU2YzM3N2VkYmU1YTIwYTJiNzZi`

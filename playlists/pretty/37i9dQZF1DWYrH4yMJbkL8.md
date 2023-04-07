@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Elisapie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,085 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,100 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 24 | [AANNGIQ](https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [SHIFTING](https://open.spotify.com/album/10v5r1u4kwiIpdbakONaps) | 2:05 |
 | 25 | [Katajjait on "Hamma" And Its Variants: Baffin Land / Hudson Bay / Baffin Land](https://open.spotify.com/track/6qJozUlX1ao31KQHb4aWoK) | [Elijah Pudloo Mageeta](https://open.spotify.com/artist/32IsJ3YVTAhYm4iytdN7MJ), [Temegeak Pitaulassie](https://open.spotify.com/artist/3TEXUYjtHpUqH86NWFEB0O), [Napache Samaejuk Pootoogook](https://open.spotify.com/artist/2BrVaL2xpbmMVkvJ6DAQAC), [Marie Apaqaq](https://open.spotify.com/artist/0rYybSRMU6GjXVrVb8qvWD), [Soria Eyituk](https://open.spotify.com/artist/3c8NJ6JFFdzi6N9vxj7QSA) | [Canada: Inuit Games and Songs](https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX) | 1:36 |
 
-Snapshot ID: `MTY3ODQ4NzkzNywwMDAwMDAwMDBkY2VlMmM4N2E0NDAyMmUyY2JhZjVmYzA5NzAyNTRm`
+Snapshot ID: `MTY3ODQ4NzkzNywwMDAwMDAwMDEyNTk2ZTUzNTNhMDczNmY3NTdiNmRhMjJiNzgyYzI1`

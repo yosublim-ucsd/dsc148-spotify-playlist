@@ -1,15 +1,15 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: TENDOUJI",
-  "num_followers": 96891,
+  "num_followers": 96976,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyMDQwMCwwMDAwMDAwMGZlMjlhMWMwZjQyMjE3OTdhM2ViM2Q1NjEyYWM2NWFi",
+  "snapshot_id": "MTY4MDYyMDQwMCwwMDAwMDAwMGJkNWIzZDhjNzNjNDBkNzdiYjU0NGZjNDFjZmRjYzdi",
   "tracks": [
     {
-      "added_at": "2023-04-06 00:36:52",
+      "added_at": "2023-04-07 00:38:23",
       "album": {
         "name": "HATTRICK",
         "url": "https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc"
     },
     {
-      "added_at": "2023-04-06 00:36:52",
+      "added_at": "2023-04-07 00:38:23",
       "album": {
         "name": "i!i!i!i!",
         "url": "https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ"
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "THE GIFT",
-        "url": "https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD"
-      },
-      "artists": [
-        {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
         "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 290600,
       "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
       "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "THE GIFT",
+        "url": "https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "EVERGREEN",
-        "url": "https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt"
-      },
-      "artists": [
-        {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "EVERGREEN",
-      "url": "https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "gene",
         "url": "https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 321013,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0oVtFtmOBfVfINJRNHx0h0"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "EVERGREEN",
+      "url": "https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1163,34 +1163,18 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa"
+        "name": "EVERYNIGHT",
+        "url": "https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK"
       },
       "artists": [
         {
-          "name": "dustbox",
-          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
-        "name": "GRIP",
-        "url": "https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM"
-      },
-      "artists": [
-        {
-          "name": "Husking Bee",
-          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "WALK",
-      "url": "https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv"
+      "duration_ms": 165538,
+      "name": "Dance all night my friends",
+      "url": "https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1211,18 +1195,34 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "EVERYNIGHT",
-        "url": "https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK"
+        "name": "GRIP",
+        "url": "https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM"
       },
       "artists": [
         {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+          "name": "Husking Bee",
+          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
         }
       ],
-      "duration_ms": 165538,
-      "name": "Dance all night my friends",
-      "url": "https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5"
+      "duration_ms": 133133,
+      "name": "WALK",
+      "url": "https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa"
+      },
+      "artists": [
+        {
+          "name": "dustbox",
+          "url": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "GIANTSTAMP",
-        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
-      },
-      "artists": [
-        {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "GIANTSTAMP",
+        "url": "https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "BeachBoys",
-        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
-      },
-      "artists": [
-        {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "BeachBoys",
-      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "BLOOMING",
         "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 193133,
       "name": "Sparkle Light",
       "url": "https://open.spotify.com/track/47sohv5VFYwm24JRhCz3KF"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "BeachBoys",
+        "url": "https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "BeachBoys",
+      "url": "https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "\u6708\u306e\u82b1 EP",
-        "url": "https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h"
-      },
-      "artists": [
-        {
-          "name": "LINK",
-          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "\u6708\u306e\u82b1",
-      "url": "https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "77 Days",
         "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 143266,
       "name": "Ohichyo",
       "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "\u6708\u306e\u82b1 EP",
+        "url": "https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h"
+      },
+      "artists": [
+        {
+          "name": "LINK",
+          "url": "https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "\u6708\u306e\u82b1",
+      "url": "https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk"
     },
     {
       "added_at": "2023-03-28 15:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-03-28 15:00:00",
       "album": {
-        "name": "BAND FOR HAPPY",
-        "url": "https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk"
-      },
-      "artists": [
-        {
-          "name": "TOTALFAT",
-          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
-        }
-      ],
-      "duration_ms": 72493,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt"
-    },
-    {
-      "added_at": "2023-03-28 15:00:00",
-      "album": {
         "name": "ANTI ANGER CONTROL",
         "url": "https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 327653,
       "name": "OUT\u8001GUYS",
       "url": "https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM"
+    },
+    {
+      "added_at": "2023-03-28 15:00:00",
+      "album": {
+        "name": "BAND FOR HAPPY",
+        "url": "https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk"
+      },
+      "artists": [
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "duration_ms": 72493,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt"
     },
     {
       "added_at": "2023-03-28 15:00:00",

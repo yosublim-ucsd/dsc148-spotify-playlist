@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BlakeIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,028 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,135 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 14 | [eyes can't see](https://open.spotify.com/track/0kKt6R53daDfAC3Fd8EcGu) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [Cj Francis IV](https://open.spotify.com/artist/32dFQz3nhj2uhF49xMJhFD) | [eyes can't see](https://open.spotify.com/album/44cxZeSL4zjzch6LLmpx45) | 3:50 |
 | 15 | [Don't Talk 2 Me](https://open.spotify.com/track/3cCYeh7pceJYUqXnzEaeip) | [JODY SUMMERS](https://open.spotify.com/artist/1gL1oFmpEyzt73ZaBjXXAx), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [Scottie Le'Jour](https://open.spotify.com/artist/0tueJYXAR9dx6KPDWZz0nn) | [Don't Talk 2 Me](https://open.spotify.com/album/54FWdaPAxy6qx47i7hxLM1) | 2:22 |
 | 16 | [apathy](https://open.spotify.com/track/0FbvZWH5U89TSqtbSMo39N) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6) | [apathy](https://open.spotify.com/album/0z5F3pShCMnNCiqlkeyfdD) | 1:53 |
-| 17 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
+| 17 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 18 | [EVEN THE SUN](https://open.spotify.com/track/5qUfbqm34MArVGJ4RaKCkq) | [Armani Jordan](https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR), [K$ The Kid](https://open.spotify.com/artist/03siKEfVQW2Buj6fdm7DH4), [JOJANK](https://open.spotify.com/artist/6Sp0OWQWm08qfUTYJZnTf6), [trapdollazmanny](https://open.spotify.com/artist/0Cxsbt47fwKSvNLyknfKbf) | [EVEN THE SUN](https://open.spotify.com/album/7GS2cGbJQBtxoRKCRcDDU6) | 3:19 |
 | 19 | [On The Run](https://open.spotify.com/track/09ymqRvHbSzrzCdIQgP6Un) | [Baby Jeweler](https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C) | [On The Run](https://open.spotify.com/album/7GnkUh95eKGXaEclBqlW6a) | 3:12 |
 | 20 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [With The Stars](https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf) | [Fazer](https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr) | [With The Stars](https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8) | 3:32 |
 | 75 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 
-Snapshot ID: `MTY4MDcyNjM4MywwMDAwMDAwMGRjZDQ4MzI3ZmNlNDU5NjBhZGViZjY4NTZkYTJmMjBm`
+Snapshot ID: `MTY4MDcyNjM4MywwMDAwMDAwMDJiZjRiODQzYzM3Y2M4YjI2ODFlZTdiNDJlYWJmZTRi`

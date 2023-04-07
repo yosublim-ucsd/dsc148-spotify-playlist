@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "End Of The World (Dancing In The Dust)",
+        "url": "https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Rogo",
+          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207140,
+      "name": "End Of The World (Dancing In The Dust)",
+      "url": "https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X"
+    },
+    {
+      "album": {
         "name": "The Essential Blue Archive: Why Should I Cry",
         "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
       },
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"

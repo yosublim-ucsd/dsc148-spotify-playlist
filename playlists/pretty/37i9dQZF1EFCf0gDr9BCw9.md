@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 143 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 143 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 47 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 |
 | 48 | [Pt\. I\-Festival Junction](https://open.spotify.com/track/7kw6RQgL8a7ksK5NCEWx59) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 8:46 |
 | 49 | [The Telecasters](https://open.spotify.com/track/2XWI60h3SScOAvP7XaUxkI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:01 |
-| 50 | [Up and Down, Up and Down \(I Will Lead Them Up and Down\) \[Puck\]](https://open.spotify.com/track/1Cs9WtbQl4eWqzeOLNlBwo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:02 |
-| 51 | [Madness In Great Ones \(Hamlet\)](https://open.spotify.com/track/7IFXoiY6BATGg2uzOwaSvP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 |
+| 50 | [Madness In Great Ones \(Hamlet\)](https://open.spotify.com/track/7IFXoiY6BATGg2uzOwaSvP) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 |
+| 51 | [Up and Down, Up and Down \(I Will Lead Them Up and Down\) \[Puck\]](https://open.spotify.com/track/1Cs9WtbQl4eWqzeOLNlBwo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:02 |
 | 52 | [I Don't Mind \- 2012 Remastered Version](https://open.spotify.com/track/0GTMhiWe40NyyUvVn3HPDn) | [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH) | [Devil May Care](https://open.spotify.com/album/2O30JvLNM3CMExr1IHmtql) | 2:55 |
 | 53 | [Sonnet for Sister Kate](https://open.spotify.com/track/6M6zmAS7lPdgRbNtfMDPTI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 2:18 |
 | 54 | [Take The "A" Train / Pacemaker / I Could Never Take The Place Of Your Man \(Live In Utrecht\) \- 2020 Remaster](https://open.spotify.com/track/7p0Dd7mycbkJB1iHwut78I) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe\)](https://open.spotify.com/album/2Uv3zad993qvBkrOcIqdgq) | 10:16 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 142 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 143 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `MjgwMTIzMjEsMDAwMDAwMDAwOWM4MTc2YTMxYTMwOTEwYWQ3YzNiYjA2MTNjOTUzZQ==`
+Snapshot ID: `MjgwMTM3NjEsMDAwMDAwMDBjM2E1NTc3ZmJiMWE5MjFmZDhkZDdlMjBkMzMwMGMzZA==`

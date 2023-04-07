@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6770,
+  "num_followers": 6780,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDA5OWRlYzY1ODU5MzkyNzNmMWFjMGRkNjVkZmJmNGRm",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGI1N2MxZTEyNWQ4MDZkMWFhNjQzM2Y2MzE0NmJhMGMz",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 113546,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "ONNAFRIDAY",
         "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 157666,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 113546,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/5WbKBMz6y0FbUdZl18XlJO"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "duration_ms": 298444,
+      "name": "The Final Battle",
+      "url": "https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Fall Guys (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 193186,
       "name": "Fall 'N' Roll",
       "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Elden Ring (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
-      },
-      "artists": [
-        {
-          "name": "Tsukasa Saitoh",
-          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
-        }
-      ],
-      "duration_ms": 298444,
-      "name": "The Final Battle",
-      "url": "https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ"
     },
     {
       "added_at": "2022-11-30 13:46:00",

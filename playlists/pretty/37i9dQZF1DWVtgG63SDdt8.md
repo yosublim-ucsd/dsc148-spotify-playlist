@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l?si=Qv4wIGwsSsCa1fsU\-ZB\-sw">Donald Lawrence</a>, <a href="https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11?si=9Dv7WZRmQ9KJkHcZV22R2w">Yolanda Adams</a>, and <a href="https://open.spotify.com/artist/6D0J9ku8gy6BoiRwBsslJH?si=f92e16257f29406d">Twinkie Clark</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,925 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,998 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Abide \- Live](https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW) | 6:00 |
 | 100 | [Turn It Up](https://open.spotify.com/track/6ohI4t5YO6EC3HW9mtE26H) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [As For Us \(Live\)](https://open.spotify.com/album/0sNYIMGYhBqj2zdS7oeEnN) | 7:32 |
 
-Snapshot ID: `MTY4MDI1NTA3MCwwMDAwMDAwMDYzNzkwNWUwZWU2ZDdiZmE4ZGY2MGM3MGQ4NDBiNzIw`
+Snapshot ID: `MTY4MDI1NTA3MCwwMDAwMDAwMDNiYTBkMjNkYjFiYTJjOTM3Y2E4NTQ1YzQxYTdjNTY0`

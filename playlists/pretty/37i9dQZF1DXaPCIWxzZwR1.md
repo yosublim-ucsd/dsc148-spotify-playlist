@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop\. Cover: Maisie Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,361 likes - 102 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,050 likes - 102 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 101 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 |
 | 102 | [moon and back](https://open.spotify.com/track/4228YpK0ZZuY4CZzBDVi3q) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:28 |
 
-Snapshot ID: `MTY4MDU1ODc0MywwMDAwMDAwMGEzZGQyM2Q1ZTRjZjdjYmI3OTI4YWMwNDg2NTEzYmU0`
+Snapshot ID: `MTY4MDU1ODc0MywwMDAwMDAwMGIwNTI1NTM4OTkyMDc1ZTQzZjAwMDRjYmQwNmU1ZGU0`

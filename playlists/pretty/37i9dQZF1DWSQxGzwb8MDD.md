@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,845 likes - 95 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865 likes - 95 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 94 | [U Ask I Tell](https://open.spotify.com/track/0AqkJlav1su5474Hv9yQXE) | [RIGSON](https://open.spotify.com/artist/2KbsGZotcK7CVzk1ZtGy4m) | [Wormholes, Pt\. 1](https://open.spotify.com/album/3X76M5V375yvvqBKEiKyj6) | 6:22 |
 | 95 | [To Nights \- KI/KI Remix](https://open.spotify.com/track/68KweGBSQfD2jrUvKMuASE) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 6:03 |
 
-Snapshot ID: `MTY3NTE3ODQ1OSwwMDAwMDAwMDIyOTVkMTUxMmEwZTZhNGQ5N2Y2NTliNWUxY2RkZGU1`
+Snapshot ID: `MTY3NTE3ODQ1OSwwMDAwMDAwMDA0NDY1YjFlYTkxZTdlNjFiZTI0ODQ5YjM5MjA0ZWZi`

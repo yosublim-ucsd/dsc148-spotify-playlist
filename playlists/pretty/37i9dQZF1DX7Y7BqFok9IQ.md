@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,478 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,679 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 |
 | 150 | [Let Me Through](https://open.spotify.com/track/1OPMX3mOqbfdLkAufCqcrs) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Dodge And Burn](https://open.spotify.com/album/4FSpj7SmVcz5j6W0F7y27x) | 4:17 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDBlODgzMTc1MjEzZjg2YzY4Y2JkNWM0OWMzZWE3YWZi`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGYwMTM1ZTZmOTlkNjhjY2MyMGNmNWQ3ZTk1NmRjNWM5`

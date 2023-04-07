@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,678 songs - 3 day 10 hr 40 min
+1,680 songs - 3 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Bitches brauchen Rap](https://open.spotify.com/track/6clMAqSgEWpcFgNlr0nxOh) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:51 | 2021-11-21 | 2021-11-26 |
 | [Bitte sag's nicht meiner Freundin](https://open.spotify.com/track/1NridNoJ0aBJyCh6hQxY4T) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Rap über Hass](https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy) | 3:59 | 2021-05-30 | 2021-05-31 |
 | [BITTE SPITTE X](https://open.spotify.com/track/5CQqlc5MtuFpyIiPsn3iWa) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [X](https://open.spotify.com/album/2UbYQjKHZdrHnGCpOsnO7B) | 2:51 | 2021-11-28 | 2021-12-04 |
+| [BLACKOUT](https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8) | 2:45 | 2023-04-06 |  |
 | [BLACKOUT](https://open.spotify.com/track/2w0TmCC0w8SASWpfvdXnxi) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/3mQWgJfQS2BpZZ9XSHBNlP) | 2:46 | 2022-11-12 | 2022-12-02 |
 | [blau](https://open.spotify.com/track/75J8OuOkEyMIG9scAuuwew) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [blau](https://open.spotify.com/album/6gY4QVJaGRxnrVsFzoV4IR) | 2:24 | 2021-07-24 | 2021-07-25 |
 | [Blau](https://open.spotify.com/track/7kPwuFA1D7tTIm4778jllA) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Auf Loop](https://open.spotify.com/album/3noX7oSIEdQ0YEQOLBZfxF) | 3:03 | 2022-06-11 | 2022-06-13 |
@@ -1097,7 +1098,7 @@
 | [Niemals ohne Dich](https://open.spotify.com/track/1T5leQGZnrZgJMKcrzaG0I) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemals ohne Dich](https://open.spotify.com/album/5pNwswaaTaAEykIh0Tsulj) | 2:41 | 2022-04-02 | 2022-04-08 |
 | [Niemand bringt Marten um](https://open.spotify.com/track/0nYSnbFVX5ghrERjwVZgwZ) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Niemand bringt Marten um](https://open.spotify.com/album/3WyjbWN8sdlpWugQuHpWUk) | 3:15 | 2021-03-27\* | 2021-05-16 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-03-18 | 2022-06-05 |
-| [Nightmares](https://open.spotify.com/track/6tXSj6MWL76ebA1vy4VfsN) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Nightmares](https://open.spotify.com/album/4A2vXbpOdWw7EiMUCDGHt1) | 2:29 | 2023-04-01 |  |
+| [Nightmares](https://open.spotify.com/track/6tXSj6MWL76ebA1vy4VfsN) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Nightmares](https://open.spotify.com/album/4A2vXbpOdWw7EiMUCDGHt1) | 2:29 | 2023-04-01 | 2023-04-07 |
 | [Nix zu tun](https://open.spotify.com/track/3zk8jIWMJFK14Mg1vzIxpP) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Nix zu tun](https://open.spotify.com/album/35FlLDRRcSvbzg3vhDyaBB) | 2:17 | 2023-03-18 |  |
 | [NKT](https://open.spotify.com/track/7tEIPkxs2PKGQq5Q0OII5Y) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [NKT](https://open.spotify.com/album/5FQ6PkiVntr3gUZQFvr4il) | 2:36 | 2021-04-11 | 2021-04-13 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-03 |
@@ -1151,7 +1152,7 @@
 | [Overdose](https://open.spotify.com/track/2z7QFsLAqNTGEtgAU6rS6W) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOLD](https://open.spotify.com/album/5C9ik99hd5YlbyZNpU3Du7) | 2:37 | 2021-05-05 | 2021-05-09 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-14 |
 | [OZEAN](https://open.spotify.com/track/3vQqFgN3bhO1Lim4yXzmi5) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [OZEAN](https://open.spotify.com/album/5DThPIrsPXEZuPSDztXTF3) | 2:22 | 2021-09-19 | 2021-10-10 |
-| [P.S.](https://open.spotify.com/track/4yCWbjNkL84M2l5izo0bAw) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [P.S.](https://open.spotify.com/album/5VUQm0q8PC1eNy9japTSdi) | 2:29 | 2023-03-25 |  |
+| [P.S.](https://open.spotify.com/track/4yCWbjNkL84M2l5izo0bAw) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [P.S.](https://open.spotify.com/album/5VUQm0q8PC1eNy9japTSdi) | 2:29 | 2023-03-25 | 2023-04-07 |
 | [PAIN](https://open.spotify.com/track/5GUV8sDq4o2UnZn4NJJMBq) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [PAIN](https://open.spotify.com/album/5PM1vWSeLzP22UvaZ7cvXI) | 2:15 | 2021-03-27\* | 2021-03-29 |
 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 | 2023-03-18 | 2023-03-20 |
 | [PAPAYA](https://open.spotify.com/track/07Y3QCskHmxIgTobkiBEBr) | [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HYAT](https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b) | 2:46 | 2021-07-04 | 2021-07-05 |
@@ -1587,6 +1588,7 @@
 | [We Made It](https://open.spotify.com/track/3JXdzlvJJrKlmfBfoCLsOo) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Percocet Party](https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH) | 3:31 | 2022-05-21 | 2022-09-30 |
 | [We Made It](https://open.spotify.com/track/5IQvs70wHdurk63TnCV6ZP) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [We Made It](https://open.spotify.com/album/2jLe7prEEx98NNGjyWrYAh) | 3:31 | 2022-04-23 | 2022-05-22 |
 | [WEEE](https://open.spotify.com/track/5R2HaFZUDpMNo9RslRAkSf) | [Scorpion Gang](https://open.spotify.com/artist/4CD6drviDJ8wccEAZuc9y4), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [WEEE](https://open.spotify.com/album/1mYsebL1JtT7QkfwgTt3QK) | 2:16 | 2021-05-30 | 2021-06-06 |
+| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-04-06 |  |
 | [Weg von mir](https://open.spotify.com/track/0h14I7cPYi1RZG6GmVpMso) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Weg von mir](https://open.spotify.com/album/2YZ136w4VENx6JTJ3cIoE6) | 2:16 | 2022-02-09 | 2022-07-31 |
 | [Weg von mir](https://open.spotify.com/track/123R3phQiND3XIiyuhPSLt) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Weg von mir](https://open.spotify.com/album/2dPHSUPDfHS1lXNs7mu6yt) | 2:16 | 2022-01-30 | 2022-02-10 |
 | [Weihnachtsbäckerei](https://open.spotify.com/track/7G46zumjrtpzV138vMfDb1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Weihnachtsbäckerei](https://open.spotify.com/album/3PzE51Xsx8tmLkmTIeZljx) | 1:57 | 2022-12-24 | 2023-01-02 |

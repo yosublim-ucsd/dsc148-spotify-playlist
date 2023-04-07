@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,657 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,673 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Moments](https://open.spotify.com/track/06VBORo4nUb6WQ0cN2C7Uw) | [Furcloud](https://open.spotify.com/artist/6iRHTNWYmHJekug9RLajZQ) | [Chill Executive Officer \(CEO\), Vol\. 16 \[Selected by Maykel Piron\]](https://open.spotify.com/album/7dVyrxrGZv94rkMACRmQIW) | 3:39 |
 | 80 | [Let's Take A Walk](https://open.spotify.com/track/3z0JfuuMAF2zKwCc6Qtilu) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs) | [Let's Take A Walk EP](https://open.spotify.com/album/1qsYgqgm6Pt83G2k02MTPi) | 4:13 |
 
-Snapshot ID: `MTY4MDI3NDgwMCwwMDAwMDAwMGE0OWU1Mzg4ZWU2NTMwODU0NTAxY2NjZTY0ODRlNDMx`
+Snapshot ID: `MTY4MDI3NDgwMCwwMDAwMDAwMGQ4OTE0MmNmZjliMGZmMWU3MTIzNmVhYTFkYzc4MmY3`

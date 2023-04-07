@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,768 likes - 228 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,960 likes - 228 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 227 | [Imagine \- Piano Version](https://open.spotify.com/track/5WUOePmZdbHWTMAQ1Ap2ne) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part II](https://open.spotify.com/album/3W3nOMF7QrvKgX806FmTZZ) | 3:58 |
 | 228 | [Shape of You \(Cover\)](https://open.spotify.com/track/4D6hQqPWhVfiVsOyUbhVbg) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Relaxing Piano Covers, Vol\. 1 \(Best of 2017\)](https://open.spotify.com/album/1IRBLlv9NLMaF7ibUlrWvf) | 3:33 |
 
-Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMGRjYmI5MGZmNDhhMGI4OTY5NDI4MjkzNzU0NjU1MDEy`
+Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMDg2NGZmYzYxZjdjYzMwM2ZmNDg5MmRjOWMxNjk0MWRj`

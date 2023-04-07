@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5?si=zguId75MQUyZns7qx7F1UA">Gocho</a> y <a href="https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd?si=rWizdY1GQwqOSm4ygMKFSQ">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,865 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,968 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Te Amo](https://open.spotify.com/track/3oLfRjWHckEevCztQF3N4v) | [Mr Eduard](https://open.spotify.com/artist/0B4bg6OcwQeBmsyQANbobd) | [Te Amo](https://open.spotify.com/album/7BMxlJ0U7dlqAOibmuSzH0) | 3:20 |
 | 100 | [Una Canción para la Comunión](https://open.spotify.com/track/2EPDHHtdQS1Iz9owtiXdbH) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Una Canción para la Comunión](https://open.spotify.com/album/5PRuvarYZNzQzJDlyIfC4N) | 4:45 |
 
-Snapshot ID: `MTY4MDI1MzI5MCwwMDAwMDAwMDY1OTQ2MjQ3M2RkNTNjZjBmZGVhMzhiM2JiY2RkYzUw`
+Snapshot ID: `MTY4MDI1MzI5MCwwMDAwMDAwMDQ3ZjVjNGRiYWMzMTQ0NTM1OWY4YmE2M2U1YmZhNDcx`

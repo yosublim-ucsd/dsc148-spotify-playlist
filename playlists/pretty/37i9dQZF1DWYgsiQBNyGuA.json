@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 51982,
+  "num_followers": 52052,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5ODE0MiwwMDAwMDAwMDQ1YTkyYmIwYTg4M2ZhNmRmM2IyZGI1ODMzZWVlMDQz",
+  "snapshot_id": "MTY4MDE5ODE0MiwwMDAwMDAwMDBkMWE1ZWQ1ZTVlMWUzYmJmM2Y4OGFiN2QzY2ZmZTJj",
   "tracks": [
     {
       "added_at": "2023-02-21 15:13:27",
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
     },
     {
-      "added_at": "2023-04-06 00:13:21",
+      "added_at": "2023-04-07 01:02:27",
       "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
-      },
-      "artists": [
-        {
-          "name": "Adriana Evans",
-          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Bless My Soul",
         "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Adriana Evans",
+          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
+      "duration_ms": 265560,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1355,6 +1339,22 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Bags & Suitcases",
+        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     }
   ],
   "unique_name": "Soulful Day",

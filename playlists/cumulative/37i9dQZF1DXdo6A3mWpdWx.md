@@ -2,7 +2,7 @@
 
 ### [90s Party](https://open.spotify.com/playlist/37i9dQZF1DXdo6A3mWpdWx)
 
-> The biggest party hits of the 1990s\. Cover: Aqua.
+> The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
 321 songs - 21 hr 49 min
 

@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 219386,
       "name": "A Glimpse of Eternity",
       "url": "https://open.spotify.com/track/4gIkhmRSrvTltuBGYVp3TX"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 170270,
       "name": "A State of Tranquility",
       "url": "https://open.spotify.com/track/5NL7zy2ebxoZcr6lSqZpsb"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 157481,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 200076,
       "name": "Binaural Gamma Sinus 40 Hz Drone",
       "url": "https://open.spotify.com/track/5awvTpCzdXeW7bSTR35yUq"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 176091,
       "name": "Breathing Star",
       "url": "https://open.spotify.com/track/2TcvA5WlWyZdLMdQrX05LG"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 168000,
       "name": "Brumal",
       "url": "https://open.spotify.com/track/1kqLeGEX3pC3CGAki2UfBl"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 161298,
       "name": "Elle",
       "url": "https://open.spotify.com/track/2BJhRC9dnBCJIIeJaN1OBD"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 158961,
       "name": "First Light",
       "url": "https://open.spotify.com/track/1PdBJ7Du0HUWHSJxuvPxO8"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 143289,
       "name": "Forecast",
       "url": "https://open.spotify.com/track/1OICfnFQFbElXAwg3WcmcY"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 200597,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/1pLbdZxfqP0jPqCbJB4A5N"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 234352,
       "name": "From Above",
       "url": "https://open.spotify.com/track/4686Ouag9G1NhsSQUDVTC8"
@@ -2907,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Kamala Whispers",
+        "url": "https://open.spotify.com/album/2uhijpoPHyuCYoQ7blYqqR"
+      },
+      "artists": [
+        {
+          "name": "Gerda Holmes",
+          "url": "https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138141,
+      "name": "Kamala Whispers",
+      "url": "https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v"
+    },
+    {
+      "album": {
         "name": "Kaolnite",
         "url": "https://open.spotify.com/album/4ZPUoevTs8TL3qSTYoiV5N"
       },
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 144219,
       "name": "Luna piena",
       "url": "https://open.spotify.com/track/5G984mbolQgTzqNGTStNeJ"
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 224343,
       "name": "Morning Rises",
       "url": "https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj"
@@ -3566,7 +3584,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 167419,
       "name": "Near Dawn",
       "url": "https://open.spotify.com/track/2j8g4uNaY4vIyDlKz5qVOj"
@@ -5114,7 +5132,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 121000,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw"
@@ -5384,7 +5402,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 157428,
       "name": "The Calm",
       "url": "https://open.spotify.com/track/1nqq9YCuHGnk9YabcqH1bp"
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 202000,
       "name": "Un r\u00eave merveilleux",
       "url": "https://open.spotify.com/track/2P05XZMM1Yg3ENIzCEanAj"
@@ -5672,7 +5690,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 207272,
       "name": "Underwater Gold Dust.",
       "url": "https://open.spotify.com/track/6LVXZQt6g2cgjEsxk3Aumk"
@@ -5798,7 +5816,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 196731,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/3YyKA6exm6z8Y0GgFBefdm"
@@ -5870,7 +5888,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 161298,
       "name": "Waterscape",
       "url": "https://open.spotify.com/track/36oZNCh9JzOJE2j1fEJ5XD"

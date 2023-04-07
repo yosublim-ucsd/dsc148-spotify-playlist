@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "The Softest Smile",
+        "url": "https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0"
+      },
+      "artists": [
+        {
+          "name": "Plastik Flamingos",
+          "url": "https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Juju Beans",
+      "url": "https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk"
+    },
+    {
+      "album": {
         "name": "Just smooth",
         "url": "https://open.spotify.com/album/6k6M6z7vGg18xb7md3BQoH"
       },
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 138345,
       "name": "Kushin For the Pushin'",
       "url": "https://open.spotify.com/track/3tlbByLft7wKd7HiYKjdgS"

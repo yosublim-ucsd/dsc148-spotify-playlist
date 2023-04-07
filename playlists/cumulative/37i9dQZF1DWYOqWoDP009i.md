@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-110 songs - 8 hr 37 min
+110 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,6 @@
 | [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/0sQ4OcMgLkLahjZ3D1D4OU) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Welcome To Our World](https://open.spotify.com/album/5EL05yBpF4CG7URBxCYb0w) | 7:32 | 2020-12-01 |  |
 | [What About Love \- Mark Grusane Edit](https://open.spotify.com/track/1k6tMlJREcGSfijxtNj7sC) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj), [Mark Grusane](https://open.spotify.com/artist/4CbCjbCnAhZKQfLi21RNSM) | [The Real Sound of Mark Grusane](https://open.spotify.com/album/4yys6WC1buG4jdGy10Brxy) | 5:05 | 2020-12-01 |  |
 | [Why Did You Do It \- Remastered](https://open.spotify.com/track/38DAUnVJ0zqOdRuW7RG3sl) | [Stretch](https://open.spotify.com/artist/61oNrjLV0SUliHTOXUgCXg) | [Elastique \(Remastered\)](https://open.spotify.com/album/3tzMsfGTrNMJ7h1SRYQUs4) | 3:31 | 2020-12-01 |  |
-| [You and Me](https://open.spotify.com/track/3qmPESdkRVY6qWrIQpuBQM) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e), [Jimmy Douglas](https://open.spotify.com/artist/2kLF5OqO9KpxWZl9bPy8hj) | [Slave](https://open.spotify.com/album/6FD0UvvoVyO4KF0KhqFdM1) | 6:41 | 2020-12-01 |  |
+| [You and Me](https://open.spotify.com/track/3qmPESdkRVY6qWrIQpuBQM) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e), [Jimmy Douglas](https://open.spotify.com/artist/2kLF5OqO9KpxWZl9bPy8hj) | [Slave](https://open.spotify.com/album/6FD0UvvoVyO4KF0KhqFdM1) | 6:43 | 2020-12-01 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

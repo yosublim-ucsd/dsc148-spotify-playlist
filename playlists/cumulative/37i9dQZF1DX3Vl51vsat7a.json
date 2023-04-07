@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2cbAgiynVNUCo4vO9PsZao"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169554,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/5voBx32zUStgxAfTZ8d4Gv"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9face",
         "url": "https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv"
       },
@@ -1867,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Love Under The Influence",
+        "url": "https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188785,
+      "name": "Love Under The Influence",
+      "url": "https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl"
+    },
+    {
+      "album": {
         "name": "Mach kaputt",
         "url": "https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4"
       },
@@ -1976,7 +2012,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 185684,
       "name": "Mercurial Vapor",
       "url": "https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3"
@@ -2236,6 +2272,24 @@
       "duration_ms": 201543,
       "name": "offline",
       "url": "https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw"
+    },
+    {
+      "album": {
+        "name": "Ohrwurm",
+        "url": "https://open.spotify.com/album/7e6YnkuG9g1hJg8sOOroUI"
+      },
+      "artists": [
+        {
+          "name": "2LADE",
+          "url": "https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198265,
+      "name": "Ohrwurm",
+      "url": "https://open.spotify.com/track/6y0pXmJTB6cCuOX66SiJal"
     },
     {
       "album": {
@@ -2784,7 +2838,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 213548,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/4Xc2s9nE10G9kAGNQWneSp"

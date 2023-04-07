@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVstK6FYh8Nw.md) - [plain]
 
 > The Atlanta\-born <a href="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i">rapper</a>'s dopest songs plus his latest bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,317 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,555 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVstK6FYh8Nw.md) - [plain]
 | 49 | [200](https://open.spotify.com/track/5b06JZjts6dgyyuY1m7roq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 2:26 |
 | 50 | [\(Bonus\) Itchin](https://open.spotify.com/track/53CUl8RvJqbBPm31SiSg7Q) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 2:38 |
 
-Snapshot ID: `MTY1MTUxODcwNywwMDAwMDAwMDE0MzYwMTAwNDJhNWM0MzQ0OGRkOTU1ZWUzNDk0MGI0`
+Snapshot ID: `MTY1MTUxODcwNywwMDAwMDAwMGJhNGVhZDkzNjQ5MzZjMzhmNDJjNWMwOWUyODIxYzdj`

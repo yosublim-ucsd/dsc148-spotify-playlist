@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-588 songs - 1 day 3 hr 12 min
+589 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [Mario Kart](https://open.spotify.com/track/4e4aIydHhBdQmfDMkqfsv3) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Mario Kart](https://open.spotify.com/album/16Ntdd9rlMOzHi8CybCONz) | 2:24 | 2022-06-10 | 2022-06-25 |
 | [Marlboro](https://open.spotify.com/track/6PSqBf9CgUhXmp87c78dSP) | [Dascar](https://open.spotify.com/artist/4xMLWhVR0oGEfR4jh6Bni6) | [Marlboro](https://open.spotify.com/album/0kOOqnjpRZSp3MWSntd3qd) | 3:24 | 2022-04-15 | 2022-08-06 |
 | [Marquinha de Fita](https://open.spotify.com/track/2LNt1KO6pgcQOI2wHrQwd5) | [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Dixs](https://open.spotify.com/artist/7DE2jLxs8IOKN7dH5GQ82Q), [THIAGU](https://open.spotify.com/artist/7BhF1IwIYMSCkXMaNTv0Q5), [Nomad](https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np) | [Marquinha de Fita](https://open.spotify.com/album/1YrLKdr7OMwosT2zdvGguh) | 2:42 | 2022-06-10 | 2022-07-09 |
-| [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 | 2023-03-31 |  |
+| [Mas Existe um Lugar](https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar](https://open.spotify.com/album/7yndifwpVcv6LAZ2FVwoso) | 3:03 | 2023-04-06 |  |
+| [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 | 2023-03-31 | 2023-04-07 |
 | [Matotodozz](https://open.spotify.com/track/7MLSFER4mpArJGDCQGPVBK) | [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Matotodozz](https://open.spotify.com/album/5majwQOUVaHvNJGlWf3EYA) | 2:50 | 2022-04-08 | 2022-04-23 |
 | [Me Sinto Bem](https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Me Sinto Bem](https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x) | 2:47 | 2023-03-10 |  |
 | [Melhor Dia 8: Confia](https://open.spotify.com/track/3Qt1QuJ9lmKaY5zBpbrIAV) | [Marcos Baroni](https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV) | [Melhor Dia 8: Confia](https://open.spotify.com/album/2XvscC4yr3gfdHFwfngGSZ) | 4:35 | 2022-05-20 | 2022-06-11 |

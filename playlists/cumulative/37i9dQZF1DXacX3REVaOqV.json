@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 438320,
       "name": "Back Together (feat. Ron Carroll) - Copyright Dub Mix",
       "url": "https://open.spotify.com/track/0O150NBPq9Bb0WUBznAlF0"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 406859,
       "name": "Drop the Bomb",
       "url": "https://open.spotify.com/track/5Bi80GhP7fd0bBcNTZRYnm"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 238376,
       "name": "Drop The Pressure - Sonny Fodera Remix",
       "url": "https://open.spotify.com/track/0W3QlGq4NUOZvUnYjiJa6u"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204793,
       "name": "Drowning In Your Love (feat. Jem Cooke) - Mark Knight Remix",
       "url": "https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 353899,
       "name": "Dusty Jazz",
       "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
@@ -2064,6 +2064,24 @@
     {
       "album": {
         "name": "Good Woman (Edit)",
+        "url": "https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215768,
+      "name": "Good Woman - Edit",
+      "url": "https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR"
+    },
+    {
+      "album": {
+        "name": "Good Woman (Edit)",
         "url": "https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz"
       },
       "artists": [
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 152683,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 342136,
       "name": "HOUSE - Original Mix",
       "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
@@ -2641,6 +2659,32 @@
     },
     {
       "album": {
+        "name": "In The Mood (Menesix Remix)",
+        "url": "https://open.spotify.com/album/55KU6Wf8UqgkycCzdGa7U2"
+      },
+      "artists": [
+        {
+          "name": "Mallin",
+          "url": "https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv"
+        },
+        {
+          "name": "Liv Campbell",
+          "url": "https://open.spotify.com/artist/0tnzJk2sh7IKujnXHz2oKV"
+        },
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "In The Mood - Menesix Remix",
+      "url": "https://open.spotify.com/track/4WeYmakpVCR9o1Pn3IH1Mt"
+    },
+    {
+      "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
       },
@@ -2748,7 +2792,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 428254,
       "name": "It's Yours (feat. E-Man) - Distant Music Mix",
       "url": "https://open.spotify.com/track/1PrrP9oAtJTmNJDHWrctY5"
@@ -3435,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Love Nor Money",
+        "url": "https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "Love Nor Money",
+      "url": "https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC"
+    },
+    {
+      "album": {
         "name": "Love Recycled EP",
         "url": "https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6"
       },
@@ -3472,7 +3534,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
@@ -3508,7 +3570,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 456533,
       "name": "Lovelee Dae - Original",
       "url": "https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e"
@@ -3716,7 +3778,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 453973,
       "name": "Momma's Groove - Jimpster's Hip Replacement Mix",
       "url": "https://open.spotify.com/track/6HjdHMNIFf6OLGE14LfqWW"
@@ -3734,7 +3796,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 217741,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
@@ -3760,7 +3822,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 156895,
       "name": "Move Your Body - Kim Kaey Remix",
       "url": "https://open.spotify.com/track/0jGGnUiMHn36ZWsxZbpIs4"
@@ -3980,7 +4042,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
@@ -4370,7 +4432,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
@@ -4476,7 +4538,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 365806,
       "name": "Petu - Masalo Remix",
       "url": "https://open.spotify.com/track/2pc9WL236HA0GekuhMw8f7"
@@ -4656,7 +4718,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 180223,
       "name": "Release Me (feat. Rationale) - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
@@ -5080,7 +5142,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 327895,
       "name": "So Good",
       "url": "https://open.spotify.com/track/7HyV8OxPAhFEgqXnrHAJmm"
@@ -5760,7 +5822,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 503040,
       "name": "The Sound Is Yours - Kerri Chandler Remix",
       "url": "https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT"
@@ -5976,7 +6038,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 360960,
       "name": "Underground Is My Home - Crazibiza Remix",
       "url": "https://open.spotify.com/track/3Ncgj12Qf2bmw6FAStRUB4"
@@ -6024,7 +6086,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 191612,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/0wABUVUuhfAmhBzoNBmeWl"

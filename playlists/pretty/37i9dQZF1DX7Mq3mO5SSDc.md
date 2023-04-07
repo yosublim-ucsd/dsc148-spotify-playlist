@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,919 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,985 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 49 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
 | 50 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMGU3Njg3YmE5MTUzZTIwODQ4M2QxNWI5MWM4ODcxZTZl`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDZhZWQ5ZTM5N2ZlNzJmYzAzOGI5MDQ1ZjhiYjFmMGRl`

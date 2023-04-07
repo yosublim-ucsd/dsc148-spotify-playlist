@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,814 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,829 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 50 | [Dm](https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv) | 3:04 |
 | 51 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
 | 52 | [Sueño](https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Tommy Artz](https://open.spotify.com/artist/5d8RjWwyW7wKhdiMXFQcPt), [Freciso](https://open.spotify.com/artist/2f5seq5MeXUMIbCCwoqm9C) | [Sueño](https://open.spotify.com/album/0i5yS4tEvSRHYaw2fRseOr) | 3:40 |
-| 53 | [El Baile De Perrito](https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5) | [Partylifemusic](https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [El Baile De Perrito](https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd) | 2:32 |
-| 54 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
+| 53 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
+| 54 | [El Baile De Perrito](https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5) | [Partylifemusic](https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [El Baile De Perrito](https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd) | 2:32 |
 | 55 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMGZhMDk5ODg2NWI4ZWY0MmE2NzYzNWY5MDY1OGVkZjQx`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDMzMDU3NTk5Yzc5NzI1ZDRmMjA0YzM3M2YzN2EzMTI3`

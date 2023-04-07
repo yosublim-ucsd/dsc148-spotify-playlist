@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, Taylar Elizza Beth
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,700 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,706 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 17 | [Ways 1.17](https://open.spotify.com/track/7p763yf3fXLXIhay1zyXYq) | [JVVMN](https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje), [Talaya.](https://open.spotify.com/artist/5NLhWCjcejwt2TJa2lfxXG) | [Ways 1.17](https://open.spotify.com/album/6YAMbz2hGTXhb48LPh3lgG) | 2:17 |
 | 18 | [Black Grapes](https://open.spotify.com/track/6h5z1pLe1wsv1QPEXeTu9p) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Corey G](https://open.spotify.com/artist/0OkqNjlmC3mfNMQZLWhP8l), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [DIY](https://open.spotify.com/album/5UiPHP02USJh2sRFWAOVKP) | 2:32 |
 | 19 | [Glass Top Roof \(The One\)](https://open.spotify.com/track/0M1FSdIxVunVsciodnmYcn) | [Lavarr the Starr](https://open.spotify.com/artist/6erYbDfpqSME4gIPCzf3i4), [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m) | [Glass Top Roof \(The One\)](https://open.spotify.com/album/2mdBLDQCrNwHZ7q2pbgts9) | 2:43 |
-| 20 | [WESTON.](https://open.spotify.com/track/1kpgBwXSZMbTc406Ku5eaB) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [outofrealestate](https://open.spotify.com/album/41ZYaQmQOzw70CBQxk5BNK) | 2:28 |
+| 20 | [WESTON.](https://open.spotify.com/track/4NyTZhgBasQd5muoNHhCMX) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [outofrealestate](https://open.spotify.com/album/36PozQQ2StuMhfGpcU4x3C) | 2:28 |
 | 21 | [Oxygen](https://open.spotify.com/track/2CVExiErX9MIVf7xXjNkWQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [Oxygen](https://open.spotify.com/album/19Adn1AtpuzHjpd3VlQKj7) | 3:34 |
 | 22 | [Murder Hornet](https://open.spotify.com/track/0fRKrGvJ1kWXNQM3jK88w3) | [Breaks and Swells](https://open.spotify.com/artist/3mTdL1Vo37T45YqKpN3V6C) | [Murder Hornet](https://open.spotify.com/album/60APHKbHylbFRA60ATifAx) | 4:09 |
 | 23 | [Stay Evil](https://open.spotify.com/track/3RjFMhLZAbTJ6jaPgVzdR2) | [Black Ends](https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3) | [Stay Evil](https://open.spotify.com/album/2AshjPpqhCjewRATlCEbVc) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [Un\-Thinkable](https://open.spotify.com/track/1XJz3d2MqgDBFVgiQ1KdOJ) | [Pink50](https://open.spotify.com/artist/6yLc3NcLLuzg1BW06BgCeQ), [Mafi D](https://open.spotify.com/artist/0TboE335UT8BpAg6aSpoAm) | [Un\-Thinkable](https://open.spotify.com/album/62anmaJ3nvZYhj6vgLM1nJ) | 2:31 |
 | 50 | [BACK](https://open.spotify.com/track/71wgKh5575p381tV48Xfu3) | [Keezy Kay](https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK), [Keysean Devin](https://open.spotify.com/artist/18ZY2bXFIBENyzmHF6Phxv) | [BACK](https://open.spotify.com/album/1whKX00YhmaN20o3KxKUtB) | 2:46 |
 
-Snapshot ID: `MTY3NjM0MTIyOSwwMDAwMDAwMDA2NzdlNDNlMWI5YjYzNThkNjZlOTRiYWZlZjlkYjkx`
+Snapshot ID: `MTY3NjM0MTIyOSwwMDAwMDAwMGRlZGJjNDJlNWQ3ZDFkZjViMjk3NTIzNTczZmNhM2U4`

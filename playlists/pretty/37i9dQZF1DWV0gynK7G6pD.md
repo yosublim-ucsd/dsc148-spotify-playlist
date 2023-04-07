@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Joe Hisaishi
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,012 likes - 73 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,133 likes - 73 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 72 | [Ancient Airs and Dances Suite No\. 1 \(Arr\. for Trumpet & Piano by Lucy Humphris\): III\. Villanella](https://open.spotify.com/track/4KJiSrAB2uGWIhQH35DqrT) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Lucy Humphris](https://open.spotify.com/artist/2kYdsNXIJJQ3YH5Qqhhnip), [Harry Rylance](https://open.spotify.com/artist/6JdUIgRFi8bSKeY5I1vctT) | [Obscurus](https://open.spotify.com/album/0sezL3gXLdANzyaHhgUEcj) | 4:22 |
 | 73 | [Mercadante: Il proscritto, Act 1: 'Il mar che freme' \(Malvina, Odoardo\)](https://open.spotify.com/track/4Yygsbb36rIJz9GBCsGRcC) | [Saverio Mercadante](https://open.spotify.com/artist/4Yi0sefu5ff6Y0NnuR4f2N), [Carlo Rizzi](https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf), [Britten Sinfonia](https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy) | [Mercadante: Il proscritto: Act 1, 'Il mar che freme' \(Malvina, Odoardo\)](https://open.spotify.com/album/3Yq0QVnr5ZvBHF8BCxmc6h) | 4:27 |
 
-Snapshot ID: `MTY4MDI1Mzk1NCwwMDAwMDAwMDA3YzQzZWUwZmU4MDA4MDIxZjViYTljYmU2ZWE1ZTU5`
+Snapshot ID: `MTY4MDI1Mzk1NCwwMDAwMDAwMDY5Yzg0YjZiMjQ2OGViYzJlNzhkYjVlZWEwZDMwNzk4`

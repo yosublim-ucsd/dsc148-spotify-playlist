@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Ellize
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,288 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,335 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Os To Telos](https://open.spotify.com/track/16lqjuAwk1UsHCmWoMQ0mW) | [Antonia Kaouri](https://open.spotify.com/artist/6if1zDDAhfAzlcvzXEDGLh) | [Os To Telos](https://open.spotify.com/album/5mf1osEOEbGUHtT5mAUkSN) | 3:02 |
 | 50 | [Ego Esena \- Original Tv Series "Mavro Rodo" Soundtrack](https://open.spotify.com/track/5FBDgXklxcAKm3Gs3gjLvz) | [Evridiki](https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa), [Miltos Pashalidis](https://open.spotify.com/artist/6VzFvK9yRRZkT0L8kMmOXV), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ego Esena \(Original TV Series "Mavro Rodo" Soundtrack\)](https://open.spotify.com/album/24nJugIlrHaBHncKi9L9QW) | 4:16 |
 
-Snapshot ID: `MTY4MDY0MjAwMCwwMDAwMDAwMGExZjQ0M2Q0OGIyMDgxZTNlMjExMjQ0ZDdlYjVjMjJh`
+Snapshot ID: `MTY4MDY0MjAwMCwwMDAwMDAwMDhjOTMyZTE5YTFmNTUwZjU2MjRiYjhiMDA3YmQwOWM5`

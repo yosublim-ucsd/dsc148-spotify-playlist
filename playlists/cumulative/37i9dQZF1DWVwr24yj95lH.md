@@ -2,7 +2,7 @@
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Creed
+> The best Grunge heirs' songs\. Cover: Seether
 
 160 songs - 11 hr 1 min
 

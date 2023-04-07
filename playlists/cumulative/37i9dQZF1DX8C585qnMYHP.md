@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Maral on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,294 songs - 4 day 8 hr 20 min
+1,295 songs - 4 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,7 +1206,8 @@
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 | 2022-06-30 |
 | [Valerio \#1](https://open.spotify.com/track/3Viq2cCaVZEQAZzi3tCe7n) | [Valerio Bulla](https://open.spotify.com/artist/54U1mqZrb49HOlarT1GpOm) | [Valerio Bulla](https://open.spotify.com/album/25J2VAQ7dKsJ3nqSxes41F) | 2:16 | 2022-10-05 | 2022-11-10 |
 | [Valley Fog](https://open.spotify.com/track/102lV2Y3osSKUxA7XpTrhF) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 5:03 | 2023-03-22 |  |
-| [Var\. 4: Synthesizer \- Live at Maison de la Radio et de la Musique, Paris](https://open.spotify.com/track/4FhQjvBSZ1BGUivrZieImI) | [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [The 22nd Floor \(Live at Maison de la Radio et de la Musique, Paris\)](https://open.spotify.com/album/2KwDSon2AUFokubBTbYSs3) | 3:25 | 2023-04-05 |  |
+| [Var\. 4: Synthesizer \- Live at Maison de la Radio et de la Musique, Paris](https://open.spotify.com/track/4FhQjvBSZ1BGUivrZieImI) | [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [The 22nd Floor \(Live at Maison de la Radio et de la Musique, Paris\)](https://open.spotify.com/album/2KwDSon2AUFokubBTbYSs3) | 3:25 | 2023-04-05 | 2023-04-07 |
+| [Var\. 4: Synthesizer \- Live at Maison de la Radio et de la Musique, Paris](https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc) | [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [The 22nd Floor \(Live at Maison de la Radio et de la Musique, Paris\)](https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0) | 3:25 | 2023-04-05 |  |
 | [Vaya Pues](https://open.spotify.com/track/1WYzqnLbSMLL8MlNoEdozC) | [Tomás Urquieta](https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh) | [32 Balas](https://open.spotify.com/album/6MUNNkg58Tz1MUlKErASw5) | 3:34 | 2023-03-01 |  |
 | [Vegetal Passivity](https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Vegetal Passivity](https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW) | 3:58 | 2022-10-05 |  |
 | [Verbal Drift](https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c) | [Emeka Ogboh](https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7) | [6°30′33.372″N 3°22′0.66″E](https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49) | 5:39 | 2022-08-03 | 2022-09-10 |

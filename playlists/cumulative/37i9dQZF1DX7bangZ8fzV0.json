@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI?si=pjdnxAhLSRGO9uzZ83kWPg\">Nicholis Louw</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=a3LmGbMbRQeQYCPHH6EAGg\">Wilma Van Heerden</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 223714,
       "name": "Bou Aan 'n Vrou",
       "url": "https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL"
@@ -938,6 +938,24 @@
       "duration_ms": 238615,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
+    },
+    {
+      "album": {
+        "name": "Jannie Bloemfontein",
+        "url": "https://open.spotify.com/album/25Ar72ANXBJmlwYqh56d8u"
+      },
+      "artists": [
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151009,
+      "name": "Jannie Bloemfontein",
+      "url": "https://open.spotify.com/track/67H3zHKazVQaEbTPhxYO5Y"
     },
     {
       "album": {
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 212257,
       "name": "Opstaan",
       "url": "https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO"
@@ -2078,6 +2096,24 @@
       "duration_ms": 220831,
       "name": "Swipe Regs",
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+    },
+    {
+      "album": {
+        "name": "SySoen",
+        "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
+      },
+      "artists": [
+        {
+          "name": "Wilma Van Heerden",
+          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "SySoen",
+      "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
     },
     {
       "album": {

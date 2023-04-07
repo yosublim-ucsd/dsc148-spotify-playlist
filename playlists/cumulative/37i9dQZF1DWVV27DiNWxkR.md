@@ -2,7 +2,7 @@
 
 ### [Sad Indie](https://open.spotify.com/playlist/37i9dQZF1DWVV27DiNWxkR)
 
-> The premier alternative melancholia playlist, featuring Katie Gregson\-MacLeod
+> The premier alternative melancholia playlist, featuring Billie Eillish
 
 316 songs - 21 hr 34 min
 

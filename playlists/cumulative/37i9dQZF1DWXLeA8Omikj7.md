@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-798 songs - 2 day 9 hr 9 min
+799 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Bleached Flamingo](https://open.spotify.com/track/7Auyn5OOY5uejUSqDGDc8e) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Bleached Flamingo](https://open.spotify.com/album/6m6QXT3XI9APvoDsdOuyJk) | 4:32 | 2020-10-28 | 2022-05-05 |
 | [Bleary\-Eyed](https://open.spotify.com/track/2yJGyMf1BurGMyR4cqKfCX) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 4:39 | 2019-05-26\* | 2022-04-06 |
 | [Bleed](https://open.spotify.com/track/5L5VSFuMw19b9AMXMfSn8l) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [while\(1<2\)](https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f) | 4:00 | 2019-05-26\* | 2020-08-26 |
+| [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 | 2023-04-06 |  |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-05-31 |
 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 | 2021-07-27 |  |
 | [Blossom](https://open.spotify.com/track/5TgbftMqsjBnkKVWXJubAl) | [Nyte](https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp) | [Blossom](https://open.spotify.com/album/4fF4pWujxTlHNb4mOJBhpd) | 5:32 | 2021-01-25 | 2022-07-28 |
@@ -295,7 +296,7 @@
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* | 2022-04-17 |
 | [Gjuijar](https://open.spotify.com/track/36vmHQWDFTkiihU3YTMXO5) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/1RwMFMZCSBvlr8QrPuBgC4) | 4:41 | 2021-07-23 | 2022-07-29 |
 | [Gjuijar](https://open.spotify.com/track/4bN14h0cAjKYGS7GqfKjBp) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/0mYfyjA0zCp3n6RkdB0rLC) | 4:41 | 2022-09-09 | 2023-04-02 |
-| [Glacial Lake](https://open.spotify.com/track/1y2lZj6Lrq0pOYTPmX5LXe) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacial Lake](https://open.spotify.com/album/7aHOWAhMrZn3xWiO0WlIXt) | 3:44 | 2021-02-02 |  |
+| [Glacial Lake](https://open.spotify.com/track/1y2lZj6Lrq0pOYTPmX5LXe) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacial Lake](https://open.spotify.com/album/7aHOWAhMrZn3xWiO0WlIXt) | 3:44 | 2021-02-02 | 2023-04-07 |
 | [Glacier](https://open.spotify.com/track/19J0d3QDUwy1QPoVptqQex) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf) | [Glacier](https://open.spotify.com/album/4zbuRZtDwklRMFpURg4YpO) | 3:21 | 2019-06-19\* | 2020-10-21 |
 | [Glish](https://open.spotify.com/track/6mBP1Yoeh1Zz7RO2DB51MA) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [W:/2016ALBUM/](https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x) | 2:10 | 2019-05-26\* | 2020-08-26 |
 | [Glivch](https://open.spotify.com/track/2JR05XLWCeqJRiNktJOlUR) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [mau5ville: Level 3](https://open.spotify.com/album/4GeNdEYBTmiJ1BDhd9fazL) | 5:15 | 2019-06-19\* | 2020-10-22 |

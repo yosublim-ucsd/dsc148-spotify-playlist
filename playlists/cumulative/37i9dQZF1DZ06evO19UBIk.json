@@ -868,9 +868,27 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "date_added": "2022-05-17",
+      "date_added": "2023-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 146026,
+      "name": "Runnin' Blue",
+      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
       "duration_ms": 287600,
       "name": "Shaman's Blues",
       "url": "https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil"

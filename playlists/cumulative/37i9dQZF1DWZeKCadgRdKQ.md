@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-569 songs - 1 day 7 hr 29 min
+571 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Fusion](https://open.spotify.com/track/7GiFqdQP8AdVRl1rCK7Zev) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Fusion](https://open.spotify.com/album/0AkiaKCMeeZJg4Q7AxYv7Y) | 3:47 | 2019-06-19\* | 2020-08-07 |
 | [Gather My Thoughts](https://open.spotify.com/track/11nkLTEsCUzxXLWpyuz65G) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gather My Thoughts](https://open.spotify.com/album/6Dgak5TmZJbTfz3REBTCJG) | 3:03 | 2022-04-21 |  |
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-02-18 |  |
+| [Getting Closer](https://open.spotify.com/track/7kfCTnxt6irtsSWWbFib62) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [Getting Closer](https://open.spotify.com/album/5hplt1kHEROUxKcUebC3nm) | 1:47 | 2023-04-07 |  |
 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 | 2019-06-19\* |  |
 | [Gloaming](https://open.spotify.com/track/6oMUXEiKVDyaXdcJ2YVnuj) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Gloaming](https://open.spotify.com/album/6pSLgjMOClX8LgNDnAdK5J) | 2:15 | 2019-06-27 | 2022-11-18 |
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-01-29 | 2022-11-18 |
@@ -379,6 +380,7 @@
 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 | 2019-07-31 |  |
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2020-10-08 |  |
 | [Pulchra](https://open.spotify.com/track/1IDVgnfcpNCSz39MJqziCf) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:37 | 2019-05-26\* | 2020-01-09 |
+| [Pyramids](https://open.spotify.com/track/1a2BXMnQbjArGITwt3bMD9) | [Humasnó](https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp) | [Pyramids](https://open.spotify.com/album/0MZDh1O5yxy2LbDRwbVilE) | 2:01 | 2023-04-07 |  |
 | [Quiet Thinking](https://open.spotify.com/track/5kukWcGnSNpw8YGy1JV8zu) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Quiet Thinking](https://open.spotify.com/album/5qnVWivmwgrdoZlhCrqmWx) | 2:22 | 2022-10-15 |  |
 | [Raga for HAL](https://open.spotify.com/track/5d3kpW56erBx62L5vhIl8y) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Raga for HAL](https://open.spotify.com/album/4LynMxu1JCig4PRGMtv6iQ) | 2:58 | 2021-04-28 |  |
 | [Rainy Nights](https://open.spotify.com/track/0Pg5pXLEh0BUcifZBr5qDG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 4:45 | 2022-09-14 |  |

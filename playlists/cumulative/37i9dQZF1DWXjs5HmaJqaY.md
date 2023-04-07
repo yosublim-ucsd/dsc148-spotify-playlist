@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-130 songs - 13 hr 4 min
+131 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Fourofour \(Edit\)](https://open.spotify.com/track/5QoguAlrPT4C56mmPtguEd) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Fourofour](https://open.spotify.com/album/5LpNFUfRvJxlqdukb7MCCC) | 3:14 | 2023-02-03 | 2023-03-04 |
 | [Fragments of the Past](https://open.spotify.com/track/74l897fi7PkxVGzuaQCrud) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Drea Perlon](https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 5:25 | 2023-03-03 |  |
 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 | 2022-09-16 |  |
-| [Freestyle](https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Freestyle](https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN) | 4:00 | 2023-01-27 |  |
+| [Freestyle](https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Freestyle](https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN) | 4:00 | 2023-01-27 | 2023-04-07 |
 | [Für die Seele feat\. Haexxa](https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [IAM ALFRED HEINRICHS feat\. Haexxa](https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N) | 5:59 | 2022-11-11 |  |
 | [Good Life \- Inner City Edit of Carl Craig Remix](https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [30 Years EP](https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ) | 3:15 | 2022-09-16 |  |
 | [Hot Dance \- David Morales Red Zone Mix](https://open.spotify.com/track/0G5R2bLknNjGs9VExDGYNT) | [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Hot Dance](https://open.spotify.com/album/5gWaYwgGYvNsEcmFJQQqts) | 5:18 | 2023-02-03 |  |
@@ -85,6 +85,7 @@
 | [Message from Beyond \- Spotify Edit](https://open.spotify.com/track/0FiafMTU21n3y0cwMOH9av) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M) | [Message from Beyond](https://open.spotify.com/album/5h2TsgSBUppCzU3h4xBTtU) | 3:39 | 2022-09-16 | 2022-09-24 |
 | [Moulin Rouge](https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6) | [Ira Ange](https://open.spotify.com/artist/647KkEJP83yUnc4oft2pPg), [Sunbios](https://open.spotify.com/artist/469Qwvynp9B15LJAEwouDk) | [Moulin Rouge](https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq) | 6:23 | 2022-12-02 |  |
 | [Nahar](https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Nahar](https://open.spotify.com/album/49UofVTgrdjTpAW931oCix) | 3:28 | 2022-09-30 | 2023-01-21 |
+| [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 | 2023-04-06 |  |
 | [Never Stop](https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh) | [Rose Ringed](https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj) | [Never Stop](https://open.spotify.com/album/7q7ywDcSsx8TtcUJ56Irw5) | 7:23 | 2022-12-02 | 2023-03-04 |
 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 | 2022-09-16 |  |
 | [Off Grid](https://open.spotify.com/track/4XYr8FqCcBUbbrMN2lEMxX) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 5:37 | 2023-03-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > 最新作公開記念！映画ドラえもんを彩ってきた歴代主題歌、挿入歌を集めた公式プレイリスト。Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,791 likes - 36 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,871 likes - 36 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 2 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 |
 | 3 | [Universe](https://open.spotify.com/track/2uCN45we6vuQJIOqzuLO5k) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:45 |
 | 4 | [ココロありがとう](https://open.spotify.com/track/6yDOyzVDOs4ZA7YNcMZoTK) | [Billy Ban Ban](https://open.spotify.com/artist/3hoe4fPtz7MtwwPWypVO7n) | [ココロありがとう](https://open.spotify.com/album/6UCI4YWvsA408oCtlYN44R) | 5:03 |
-| 5 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
+| 5 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
 | 6 | [ひまわりの約束](https://open.spotify.com/track/4SWzCUmuOQiPb6MJhrqZlJ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [All Time Best ハタモトヒロ](https://open.spotify.com/album/0JacmVkCsfYIAUSwVXfc7q) | 5:08 |
 | 7 | [Doraemon](https://open.spotify.com/track/2pcuXnZhTirLXsfXGVFTv2) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Doraemon](https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp) | 3:59 |
 | 8 | [Birthday](https://open.spotify.com/track/0arzkZjLAK8lPIjYILGL17) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [SOUNDTRACKS](https://open.spotify.com/album/1EKHTn7izq40Me9Wwg87rS) | 4:37 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 35 | [時の旅人](https://open.spotify.com/track/2u0EiTzKREGGN1BnIpOp3Q) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト 西田敏行](https://open.spotify.com/album/0cFhaCH30tnnGc73zMlB8S) | 4:00 |
 | 36 | [さよならに さよなら](https://open.spotify.com/track/484QMEcJmYvoV0QmJfSJaw) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:28 |
 
-Snapshot ID: `MTY3ODExMzQ0MCwwMDAwMDAwMDk0ZmEzNzAzZmJmMzMzMjljOTZmYjNiMGQwYjk2MGJl`
+Snapshot ID: `MTY3ODExMzQ0MCwwMDAwMDAwMDk1ZTE3NThmMzA3NWYyOGY1NWQ3ZGY3YWQ3ODBlMzc4`

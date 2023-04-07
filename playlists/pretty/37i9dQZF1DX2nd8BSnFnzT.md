@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Plebe Rude
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,901 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,898 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Permita\-Se](https://open.spotify.com/track/2Fb72sBmDASbLhiuTEjTxW) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [A Vida Sempre Se Vai, Ela Nunca Volta](https://open.spotify.com/album/12d5gyh018ffIjCvn0LnrS) | 3:11 |
 | 75 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 |
 
-Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMDFmMTFlNjMzMDVkYzY0ZjhlZjhmNjVlMThjMTAwNDcw`
+Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMDBiYzVkMGYwNTcwODU1YjZmMjA0OTE0N2U3NjZkOTFi`

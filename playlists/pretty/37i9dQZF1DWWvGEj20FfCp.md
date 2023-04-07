@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Music adds a new dimension to fashion\. Soundtrack for designer Thebe Magugu’s latest collection titled Folklorics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,420 likes - 55 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 55 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 54 | [Vhuludu](https://open.spotify.com/track/1MjOrrnPi3vEfxvF911ZIb) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Taxda](https://open.spotify.com/artist/7umJtHkUAe4CuLig6vwzq9) | [Makhulu](https://open.spotify.com/album/43PJosTFCL2q2l7N7ohrvc) | 5:19 |
 | 55 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 
-Snapshot ID: `MTY3ODQzNTkwMywwMDAwMDAwMGUzZTAxODc4NzNhNWEzNDM5Yjk3ZGRmZGRkYTA1YTBm`
+Snapshot ID: `MTY3ODQzNTkwMywwMDAwMDAwMDViYzU0N2U4NGRlZDI3ZTZjZDkwOWYyOGU3ZTlkMDZm`

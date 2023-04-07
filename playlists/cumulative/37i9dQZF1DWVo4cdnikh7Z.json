@@ -1273,6 +1273,32 @@
     },
     {
       "album": {
+        "name": "Azhage (From \"Racer\")",
+        "url": "https://open.spotify.com/album/4my4fkekOQPCF9GQrF1Wj0"
+      },
+      "artists": [
+        {
+          "name": "Sudarshan Ashok",
+          "url": "https://open.spotify.com/artist/2sSILAscwBbgmjmwlecoFA"
+        },
+        {
+          "name": "Satz Rex",
+          "url": "https://open.spotify.com/artist/5bZn4tSaTQs2qbfhWieQho"
+        },
+        {
+          "name": "Barath",
+          "url": "https://open.spotify.com/artist/5JbZGFVV0LcHrGgYAh1RHW"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205396,
+      "name": "Azhage - From \"Racer\"",
+      "url": "https://open.spotify.com/track/1kIR8jpBOGWx39tf955Y10"
+    },
+    {
+      "album": {
         "name": "Pistha",
         "url": "https://open.spotify.com/album/2m9Ps55nhonZ3Lggc4IHJT"
       },
@@ -2420,7 +2446,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 242019,
       "name": "Dhoom Dhaam",
       "url": "https://open.spotify.com/track/03CC6SSI9i2E8BG3f1MvEs"
@@ -2992,10 +3018,36 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 72439,
       "name": "Engu Pogirome",
       "url": "https://open.spotify.com/track/6olmYb6L0lt67azoGgcdZp"
+    },
+    {
+      "album": {
+        "name": "Engu Pogirome (From \"Kannai Nambathey\") - Single",
+        "url": "https://open.spotify.com/album/6GnT1zIXtWud9Az7FWTBHB"
+      },
+      "artists": [
+        {
+          "name": "Lakshmikanth M",
+          "url": "https://open.spotify.com/artist/6Goy3epqmrsTbPAipjhPKA"
+        },
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72439,
+      "name": "Engu Pogirome (From \"Kannai Nambathey\")",
+      "url": "https://open.spotify.com/track/3piBD3LDGqXQJ9ZjjfW8z4"
     },
     {
       "album": {
@@ -6995,6 +7047,48 @@
     },
     {
       "album": {
+        "name": "Music School (Tamil)",
+        "url": "https://open.spotify.com/album/2Y1gjl3OnR7xsEJekWhSdM"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "name": "Hrithik Jayakish",
+          "url": "https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        },
+        {
+          "name": "R.S. Rakthaksh",
+          "url": "https://open.spotify.com/artist/6uyXHhG8E6UjDwqS0z3x8K"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247712,
+      "name": "Mummy Sollum Vaarththa",
+      "url": "https://open.spotify.com/track/7BiJ6njQLS4MVmqH7eIDM1"
+    },
+    {
+      "album": {
         "name": "Muthuvel Pandian Theme (From \"Jailer\")",
         "url": "https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS"
       },
@@ -7946,10 +8040,36 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 167540,
       "name": "Oh Thallelaalo Thallelaalo",
       "url": "https://open.spotify.com/track/5zPjIp1oDn3v9POoGO7J24"
+    },
+    {
+      "album": {
+        "name": "Oh Thallelaalo Thallelaalo (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/4OG438HQay5411wXr79CQm"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "Oh Thallelaalo Thallelaalo (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/1IspS1aooznTZ48ItHJ4eR"
     },
     {
       "album": {

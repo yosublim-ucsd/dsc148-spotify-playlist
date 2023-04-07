@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 145019,
       "name": "Chica",
       "url": "https://open.spotify.com/track/63HQ3OdeCQb7sVfr3VNj5p"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -6460,6 +6460,32 @@
       "duration_ms": 236470,
       "name": "EMMONH",
       "url": "https://open.spotify.com/track/3xo0AJj0gWlp51SqoGaGDv"
+    },
+    {
+      "album": {
+        "name": "ENA VRADI",
+        "url": "https://open.spotify.com/album/6UwooXOwfmDqTuHb1V0CG5"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "ENA VRADI",
+      "url": "https://open.spotify.com/track/6wpj0XOOx9rJkoNYCv2d7i"
     },
     {
       "album": {
@@ -11892,7 +11918,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 194366,
       "name": "LOADOUT",
       "url": "https://open.spotify.com/track/2NTEIfxbv9cinOCkI6JOQL"

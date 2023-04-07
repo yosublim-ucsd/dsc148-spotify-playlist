@@ -2,7 +2,7 @@
 
 ### [Grunge Forever](https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE)
 
-> Grunge will live forever\. Cover: Eddie Vedder
+> Grunge will live forever\. Cover: Kurt Cobain
 
 110 songs - 7 hr 56 min
 

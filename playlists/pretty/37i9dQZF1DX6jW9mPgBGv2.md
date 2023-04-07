@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bizarrap y La Marash plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,471 likes - 69 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,735 likes - 69 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 59 | [Las 3 Torres](https://open.spotify.com/track/01nnJYsbiVmikEm1VP0rVi) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 4:01 |
 | 60 | [Scarface](https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Scarface](https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn) | 3:45 |
 | 61 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
-| 62 | [Pinky Ring \- Remix](https://open.spotify.com/track/4mKa1LcRNQILp6xSr9s1S0) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Pinky Ring \(Remix\)](https://open.spotify.com/album/3MwzPtb1MkNtwCQJrIkJnE) | 4:43 |
+| 62 | [Pinky Ring \- Remix](https://open.spotify.com/track/4mKa1LcRNQILp6xSr9s1S0) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Pinky Ring \(Remix\)](https://open.spotify.com/album/3MwzPtb1MkNtwCQJrIkJnE) | 4:43 |
 | 63 | [Vivimo Caro \- Remix](https://open.spotify.com/track/6WRArwDDHBdYewyCMifSUT) | [Jose Reyes](https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Vivimo Caro \(Remix\)](https://open.spotify.com/album/0dpj1YgBEyu8geQ4LeLQzk) | 6:18 |
 | 64 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 |
 | 65 | [Mas Dinero Mas Problemas](https://open.spotify.com/track/6YxXzFaGbErX7dwFbBNEY1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Mas Dinero Mas Problemas](https://open.spotify.com/album/3Jeo9mcf3FtB9ZigNMtYLM) | 3:32 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 68 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 |
 | 69 | [King Kong](https://open.spotify.com/track/6HYYcu9msYPkQzWCVFl0o8) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Androide](https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx) | 3:12 |
 
-Snapshot ID: `MTY4MDI5MjQzMiwwMDAwMDAwMDJkMmJkYzIzZTY4Mjg0MWYyOTc0MWJlOWYwMzM3YzMx`
+Snapshot ID: `MTY4MDI5MjQzMiwwMDAwMDAwMGY0MDU3NDM5OTc2YjNhYmNjODU2MmI3M2Q2OTQ5NDM3`

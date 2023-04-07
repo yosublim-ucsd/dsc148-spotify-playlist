@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,294 likes - 52 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,310 likes - 52 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 51 | [Moon Of Jupiter](https://open.spotify.com/track/0i29tZsf4LM2q9r6oVXz1X) | [Selen Gülün](https://open.spotify.com/artist/4HlDQ8vm3OLtReb4UgN5mO), [Serhan Erkol](https://open.spotify.com/artist/6qliCB7jNpZcsqYc3GnjWa), [Engin Recepoğulları](https://open.spotify.com/artist/4KXlkx7J3ZIzpGWozLZIVA), [Barış Ertürk](https://open.spotify.com/artist/0vakstoWiu2K5UqgBmTvRb), [Halil İbrahim Işık](https://open.spotify.com/artist/4DuJDvN6cJ8r0zKnCqaYlj), [Bulut Gülen](https://open.spotify.com/artist/5JyBBYYX9dTs6rC4cut6aC), [Ozan Musluoğlu](https://open.spotify.com/artist/7lZ9lK65nq3qXjWXGUY2S5), [Berke Özgümüş](https://open.spotify.com/artist/3c5c66eaAuGfUNRL6nFJgD) | [Blue Band](https://open.spotify.com/album/5939KCMmCK8EOZFRm0ZYsq) | 5:19 |
 | 52 | [Ganesh](https://open.spotify.com/track/0fzWIwccx9sTChLTMXt2mG) | [Karl Berger](https://open.spotify.com/artist/52moXqtWO6xU1tPREt3fvn), [Kirk Knuffke](https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Matt Wilson](https://open.spotify.com/artist/1IwEgeKYEzh9CBKd6SUH0m) | [Heart is a Melody](https://open.spotify.com/album/0zOM1VW2XpFRr2Xy3qO2uS) | 8:18 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDViOGQyMmI5NDc5NWI3Y2UxZmQ2NmI1NjE4YWJkMTQz`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGI3NDVhY2VmYzZkOTg0MDBjZmZhMWVkOThmZmUxNGY0`

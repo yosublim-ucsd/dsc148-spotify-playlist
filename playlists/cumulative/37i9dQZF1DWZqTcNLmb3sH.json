@@ -3375,6 +3375,32 @@
     },
     {
       "album": {
+        "name": "E Hrudayada Deguladali (From \"Feel My Love\")",
+        "url": "https://open.spotify.com/album/6E91OM5ykMyeQ9XIMy2Xzt"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anjini Kumar M",
+          "url": "https://open.spotify.com/artist/4XjOTkp0KpJmU5WBEWKzOk"
+        },
+        {
+          "name": "Rahul Raj Music",
+          "url": "https://open.spotify.com/artist/6pWY7RG00F76WyWWXshlbV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "E Hrudayada Deguladali - From \"Feel My Love\"",
+      "url": "https://open.spotify.com/track/66cIa6Cow6a4L5QcdvQ3QH"
+    },
+    {
+      "album": {
         "name": "Nigarva",
         "url": "https://open.spotify.com/album/05No3gS9N7QCymw9SzRRQv"
       },
@@ -5990,10 +6016,36 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 238494,
       "name": "Kaala Chakradalli",
       "url": "https://open.spotify.com/track/7sYd6i6JzU9HMe2Owr4ssU"
+    },
+    {
+      "album": {
+        "name": "Kaala Chakradalli (From \"Raaghu\") - Single",
+        "url": "https://open.spotify.com/album/4oItCZyew1jxGU354ekRHc"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Vinay Pandavapura",
+          "url": "https://open.spotify.com/artist/66mtz8MKcRFdWuxUdeS2Ob"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238494,
+      "name": "Kaala chakradalli (From \"Raaghu\")",
+      "url": "https://open.spotify.com/track/4THIggpmX3z8TldtJN8GYw"
     },
     {
       "album": {
@@ -10512,10 +10564,36 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 167540,
       "name": "Oh Ammalaali Ammalaali",
       "url": "https://open.spotify.com/track/4uWkIOC8nv1vMr1NQGjNAf"
+    },
+    {
+      "album": {
+        "name": "Oh Ammalaali Ammalaali (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/19sJJ7dDwYeSBNpiRkDHBS"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "Oh Ammalaali Ammalaali (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/5PD9FrQ1lkGTBvx0jFcVUT"
     },
     {
       "album": {

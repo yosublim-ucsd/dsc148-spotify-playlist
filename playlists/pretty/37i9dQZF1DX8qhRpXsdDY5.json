@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 196822,
+  "num_followers": 196804,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDg4OTBmNmViNDY2MGJjOGRjN2U5NmYyOTJmOTI5ZjZh",
+  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDRiOTVjMzVlNDlkNGE5MDZlZDNiYjczYWE4YzMxNjNl",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "24 de Diciembre",
+      "url": "https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
         "name": "Todos A Belen",
         "url": "https://open.spotify.com/album/0VVoCoNWhvrKXhG1W45W0u"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 257653,
       "name": "Son Tan Buenos Los Recuerdos",
       "url": "https://open.spotify.com/track/5gmaNKIe3nJrSnbyPjVP51"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "24 de Diciembre",
-      "url": "https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm"
     },
     {
       "added_at": "2022-12-19 23:50:20",

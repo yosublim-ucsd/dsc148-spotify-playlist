@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Aquecimento Senta Senta Levanta e os funks mais 🔑 do Brasil\. Foto: MC Kevin o Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,518,214 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,520,956 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 |
 | 50 | [Bota na Pipokinha \(feat\. DJ FELYPINHO 013\)](https://open.spotify.com/track/5Yt3AV2nXQdPqdknyLtJk0) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Pablo RB](https://open.spotify.com/artist/4N4HofKkmZkBZKITLfNsPW), [Noguera DJ](https://open.spotify.com/artist/5NTYeBxuaFuZ6uU9bpdVmd), [DJ FELYPINHO 013](https://open.spotify.com/artist/6ReTdS1woQ2Qx7h8VwXRgS) | [Bota na Pipokinha](https://open.spotify.com/album/14CbKZQFhxi1LrATyLG0yH) | 3:13 |
 
-Snapshot ID: `MTY4MDIzMTc4MCwwMDAwMDAwMDQ2NTBjZTkyZTk3YzY1MzQ1MjYyODg1YjUxZjVlY2I1`
+Snapshot ID: `MTY4MDIzMTc4MCwwMDAwMDAwMGJlYWVkMWFhZjY0YmQzYTk4MTFiZTQzYmQ3NTc4YWQ5`

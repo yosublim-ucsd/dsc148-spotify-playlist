@@ -1,12 +1,12 @@
 {
   "description": "A calm piano soundtrack to all activities.",
-  "num_followers": 1412741,
+  "num_followers": 1415371,
   "original_name": "Piano in the Background",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUzMTUzNSwwMDAwMDAwMDQ2OGFkZjc0YjVmYjM2ODg4Yjg5OTQ3ZjAwZmYwOWY4",
+  "snapshot_id": "MTY4MDUzMTUzNSwwMDAwMDAwMGVjMTAzMTUzYzA3OTZjNzZhMGU3NTJhNTI4NWQ2NDFj",
   "tracks": [
     {
       "added_at": "2023-04-03 14:18:55",
@@ -5838,6 +5838,10 @@
         {
           "name": "Oscar Basza",
           "url": "https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ"
+        },
+        {
+          "name": "Oscar Unfiltered",
+          "url": "https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ"
         }
       ],
       "duration_ms": 135768,

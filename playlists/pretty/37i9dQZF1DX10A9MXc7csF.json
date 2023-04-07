@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98223,
+  "num_followers": 98240,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDUzZDFjYWNjODI2YzMzNjQ4OTllNGM0MDMwYTc1N2U3",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMGIyMzNhNDNiMDU1MDEwNTU2YTM3YWNlMzc4OTBmMzU0",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 182981,
+      "name": "No Fuimos Nada",
+      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "No Fuimos Nada",
-        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         }
       ],
-      "duration_ms": 182981,
-      "name": "No Fuimos Nada",
-      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+      "duration_ms": 211106,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -779,22 +795,6 @@
       "duration_ms": 246059,
       "name": "Nos Acoplamos Macizo",
       "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211106,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "amorlove",
-      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Te Mereces A Mi",
         "url": "https://open.spotify.com/album/6ipurHHwRzradhwlT4JFZN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 161888,
       "name": "Es Claro",
       "url": "https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 149386,
+      "name": "amorlove",
+      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Hoodboys",
+        "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
+      },
+      "artists": [
+        {
+          "name": "Los De Guamuchil",
+          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Hoodboys",
+      "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Estilo Palazuelos",
         "url": "https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Hoodboys",
-        "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
+        "name": "Ilusionado",
+        "url": "https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg"
       },
       "artists": [
         {
-          "name": "Los De Guamuchil",
-          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
+          "name": "Jason Nunez",
+          "url": "https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH"
         }
       ],
-      "duration_ms": 190750,
-      "name": "Hoodboys",
-      "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
+      "duration_ms": 152647,
+      "name": "Ilusionado",
+      "url": "https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1531,22 +1547,6 @@
       "duration_ms": 232153,
       "name": "DIFF",
       "url": "https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Ilusionado",
-        "url": "https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg"
-      },
-      "artists": [
-        {
-          "name": "Jason Nunez",
-          "url": "https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH"
-        }
-      ],
-      "duration_ms": 152647,
-      "name": "Ilusionado",
-      "url": "https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL"
     },
     {
       "added_at": "2023-03-17 06:06:33",

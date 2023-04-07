@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 51826,
+  "num_followers": 51845,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4ODEwOSwwMDAwMDAwMDhiM2NkZGI5NjRhNWE3MjQzNjE2ZGU4MDgwOTBlYWZk",
+  "snapshot_id": "MTY3ODQ4ODEwOSwwMDAwMDAwMDkwMDMzZmE4MjA1YmZlNWVkZWFlMTU1NWJkZjUyODFk",
   "tracks": [
     {
       "added_at": "2023-03-10 22:41:49",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Autogesti\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Autogesti\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
     },
     {
       "added_at": "2023-03-10 22:41:49",

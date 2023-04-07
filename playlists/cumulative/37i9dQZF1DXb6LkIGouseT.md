@@ -4,7 +4,7 @@
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-91 songs - 6 hr 25 min
+93 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Eagle Flies High](https://open.spotify.com/track/0dVWvNnTXDmHtQKuQ4xYNu) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Eagle River](https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy) | 3:32 | 2021-12-17 |  |
 | [East/West](https://open.spotify.com/track/0mGBqjK2f3tewleF9uCTdc) | [Peter Phippen](https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0) | [Night Song](https://open.spotify.com/album/5x4NgkZof89D4qwA92AbxD) | 3:58 | 2021-12-17 |  |
 | [Elders Speak](https://open.spotify.com/track/2QeZliWDH9IhJxHDGF85Q1) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m), [Darrin Yazzie](https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN) | [Earth Warrior \- Light of our Ancestors](https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr) | 3:55 | 2021-12-17 |  |
-| [Ephemera](https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 5:05 | 2021-12-17 |  |
+| [Ephemera](https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 5:05 | 2021-12-17 | 2023-04-07 |
+| [Ephemera](https://open.spotify.com/track/7lbxttV803xY98kWdv4NRV) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2) | 5:05 | 2022-10-26 |  |
 | [Evening Star](https://open.spotify.com/track/4E5hoFyCrxg5Q7SJFvzr3b) | [Kyle Councillor](https://open.spotify.com/artist/6Aa8dXlGxUfWmhAsbojBzI) | [Livin' The Good Life](https://open.spotify.com/album/4RM2fB8xhMUhTu0OvXGmZQ) | 4:22 | 2022-02-25 |  |
 | [Evening Star](https://open.spotify.com/track/32GT5t33XqGTCuzUXatG6i) | [Ojibway People](https://open.spotify.com/artist/1ZRY5q3HnD3efePL0544VC) | [Native American Flute](https://open.spotify.com/album/3x85CC8LnFVKgpbLYp1bYz) | 4:20 | 2021-12-17 | 2022-07-29 |
 | [Evening Star](https://open.spotify.com/track/6M528mJhSbjvrraZ36Id30) | [Ojibway People](https://open.spotify.com/artist/1ZRY5q3HnD3efePL0544VC) | [Native American Flute](https://open.spotify.com/album/1bhhUJq9wxV0STbUNFC9cA) | 4:20 | 2022-10-26 | 2022-11-13 |
@@ -47,7 +48,8 @@
 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 | 2022-02-25 |  |
 | [Hidatsa Garden Song](https://open.spotify.com/track/3T0mXm3Y7wqdivJURhCQMG) | [Keith Bear](https://open.spotify.com/artist/3zRVLB0gPQprgPNXgwZgV4) | [Spirit Mountain \- Authentic Music of the American Indian](https://open.spotify.com/album/2pOoyAl8F3PlNY5aQvVg91) | 3:18 | 2021-12-17 | 2022-07-29 |
 | [Hidatsa Garden Song](https://open.spotify.com/track/3ZreroL7Ddc2I90Cz08ucA) | [Keith Bear](https://open.spotify.com/artist/3zRVLB0gPQprgPNXgwZgV4) | [Spirit Mountain \- Authentic Music of the American Indian](https://open.spotify.com/album/3ntTA0VHse6xrQ52pWhu2D) | 3:18 | 2022-02-25 |  |
-| [Homecoming](https://open.spotify.com/track/01nlOO3lmi4nHsNy0inZec) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 4:43 | 2021-12-17 |  |
+| [Homecoming](https://open.spotify.com/track/01nlOO3lmi4nHsNy0inZec) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 4:43 | 2021-12-17 | 2023-04-07 |
+| [Homecoming](https://open.spotify.com/track/7K0hKmulQKh9I6x8jnX7vS) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2) | 4:43 | 2022-10-26 |  |
 | [In the Time of Chiefs](https://open.spotify.com/track/00Qtxh0UAXOqunh1NrD0UL) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m), [Darrin Yazzie](https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN), [Jeremy Dancing Bull](https://open.spotify.com/artist/45LhDJhtscti2VOhFi0iBw) | [From Where the Sun Rises](https://open.spotify.com/album/4C1buWTjk8wsGm0YKK9hQc) | 5:49 | 2021-12-17 |  |
 | [Inviting the Rain Spirits](https://open.spotify.com/track/407L2dxJWj7vOPgeWBY1cQ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 4:54 | 2022-02-25 |  |
 | [Inward Journey](https://open.spotify.com/track/4XUvVbcITJLPEmA59suKV3) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 3:13 | 2021-12-17 |  |

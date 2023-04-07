@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=\-uklwWiaQ2GaNJ\-TJp\-SyQ">SAKKIE</a> & <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,563 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,575 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 |
 | 50 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 |
 
-Snapshot ID: `MTY4MDIxMzU0MCwwMDAwMDAwMGEzYmIxNGUxZWU0M2JlNTQzMzk0N2I5NDNiMGU5ODVi`
+Snapshot ID: `MTY4MDIxMzU0MCwwMDAwMDAwMGU2NzRhNDMxMTJiODViNGM5MzlkM2IyM2RmNTU2YmE3`

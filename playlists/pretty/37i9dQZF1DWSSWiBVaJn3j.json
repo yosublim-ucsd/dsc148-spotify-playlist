@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 138144,
+  "num_followers": 138411,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMGM1YWU0ZTA0MTRmNjYwYTJhN2RkNWQwZGNmOGUyYjE4",
+  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMGJiYjBjYmIyYTZkNjJlNTkxMTU4ZjI0MjhiZmVhNTYx",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 258466,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "In-A-Gadda-Da-Vida",
-        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
+        "name": "The Rolling Stones In Mono (Remastered 2016)",
+        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
       },
       "artists": [
         {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 1024133,
-      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
-      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
+      "duration_ms": 219466,
+      "name": "Jumpin' Jack Flash - Mono",
+      "url": "https://open.spotify.com/track/55LRDFmsuazr533WrtHHW9"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "The Rolling Stones In Mono (Remastered 2016)",
-        "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
+        "name": "In-A-Gadda-Da-Vida",
+        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Jumpin' Jack Flash - Mono",
-      "url": "https://open.spotify.com/track/55LRDFmsuazr533WrtHHW9"
+      "duration_ms": 1024133,
+      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
+      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
     },
     {
       "added_at": "2021-03-22 17:56:31",

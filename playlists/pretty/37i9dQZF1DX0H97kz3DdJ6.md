@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,679 likes - 81 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,703 likes - 81 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 42 | [Parede Amarela \- Acústico](https://open.spotify.com/track/2cPprs2kCMpmvTEEIaJAvD) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Parede Amarela \(Acústico\)](https://open.spotify.com/album/5224oKci3MZ3LO4VwvGSUV) | 2:25 |
 | 43 | [Em Pedaços](https://open.spotify.com/track/43tHVOY7ASzmKDrI03Doqr) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Em Pedaços](https://open.spotify.com/album/73yvXTZcdoDgf4Ht2KBAcc) | 3:07 |
 | 44 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 |
-| 45 | [Caos Dentro de Mim](https://open.spotify.com/track/7Ald1Ghr38jvz7ANWBQrJo) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/0MaPuL3Ves3YNJy1M1wgTs) | 2:10 |
+| 45 | [Caos Dentro de Mim](https://open.spotify.com/track/5uvGlAeTJdhLKZrOIzUbg7) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/36cnLB7cZENL1vkWLVQi0E) | 2:10 |
 | 46 | [tempestade](https://open.spotify.com/track/4S6nAoxoOEve9gsTd2Fe4q) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [liia](https://open.spotify.com/artist/3setKCH8KPW9lBrJRvpzcx) | [tempestade](https://open.spotify.com/album/7pVqjPSxPgEIZfg8rIPqXi) | 2:30 |
 | 47 | [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 3:39 |
 | 48 | [Outros Planos](https://open.spotify.com/track/1F0pZfGO3vb652DSVwHjT4) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Outros Planos](https://open.spotify.com/album/5aAL68GASfefbEwoCbka4P) | 3:16 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 80 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 81 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MTY4MDIzMTc4MCwwMDAwMDAwMGE1NzAzNWU1ZTgzMWFkYzIxODEyMTlkMGI2NDU1MjZj`
+Snapshot ID: `MTY4MDIzMTc4MCwwMDAwMDAwMDQ4ZjE4YWM4MGUzNzQ0ZjE3ZDZkZjlkNDg0NDUyOTll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,194,665 likes - 60 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,198,043 likes - 60 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Delirium](https://open.spotify.com/track/19MYFJHlTK4bUn3wYEl3TO) | [MILLA LOU](https://open.spotify.com/artist/54SwMmuQHT1ZhCa3LMe3Ng), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Delirium](https://open.spotify.com/album/5hpp87ZHVaYJWzM5ysScBN) | 6:26 |
 | 60 | [10.2.5.](https://open.spotify.com/track/5tXmO8vouyWoyWt8WvOvIA) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [10.2.5.](https://open.spotify.com/album/4waZrGGjCz8tZJ1hlyry0k) | 6:57 |
 
-Snapshot ID: `MTY3OTY3NTc4NywwMDAwMDAwMGU2MzkzNGJmM2MxYmE4ZTRhMWNkNzdhZmU5ZmExNmNj`
+Snapshot ID: `MTY3OTY3NTc4NywwMDAwMDAwMDU2MjNlMDE1MzUyNjNjMDRhYjU0YmUwMDgwZjMyODky`

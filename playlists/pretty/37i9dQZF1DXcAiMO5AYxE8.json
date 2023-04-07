@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 473720,
+  "num_followers": 473798,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDQ1ZDIxNmFkYjU2NDllNTQwM2E1YjRmYTdhYzIyODg1",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGI5MjY2MTQxZjcwZjdlY2RmYzU2ZGYyM2FkYTNjNjQ3",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Disco 100",
-        "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
-      },
-      "artists": [
-        {
-          "name": "Bruce Johnston",
-          "url": "https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "What Cha Gonna Do With My Lovin'",
         "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 246893,
       "name": "What Cha Gonna Do With My Lovin'",
       "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Disco 100",
+        "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
+      },
+      "artists": [
+        {
+          "name": "Bruce Johnston",
+          "url": "https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd"
     }
   ],
   "unique_name": "Soulful Disco",

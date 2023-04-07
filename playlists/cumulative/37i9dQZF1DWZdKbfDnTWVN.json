@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 122526,
       "name": "After Hours at Snowball Episode 001",
       "url": "https://open.spotify.com/track/2SbDMuwzjoWL9prDUjcg6n"
@@ -304,6 +304,32 @@
       "duration_ms": 168203,
       "name": "Can't Explain",
       "url": "https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh"
+    },
+    {
+      "album": {
+        "name": "Can't Stop, Won't Stop",
+        "url": "https://open.spotify.com/album/4eDBCnVb4QPOjy0JtQTwSR"
+      },
+      "artists": [
+        {
+          "name": "Clue Ashaivisha Track",
+          "url": "https://open.spotify.com/artist/7uSiyol0SgxNKHJFzXFI2P"
+        },
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        },
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100571,
+      "name": "Can't Stop, Won't Stop",
+      "url": "https://open.spotify.com/track/4XHwTlzlBacs3hHVMvlPGH"
     },
     {
       "album": {
@@ -536,7 +562,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 212777,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/10thswSmwybPgn21eIk2Dm"
@@ -1668,6 +1694,24 @@
       "duration_ms": 215120,
       "name": "Situation Sticky",
       "url": "https://open.spotify.com/track/4UMUYdkPJTXml0XOXiH1AR"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x"
+      },
+      "artists": [
+        {
+          "name": "Dope-I-Mean",
+          "url": "https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178364,
+      "name": "Smash",
+      "url": "https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd"
     },
     {
       "album": {

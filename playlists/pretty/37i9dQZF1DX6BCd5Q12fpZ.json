@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60590,
+  "num_followers": 60601,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDAzNTQzZTNlMDVlY2E1YjQwYWEwNjhkN2ViNWViZmMz",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGQ5ODYwN2EzOGFiZTk2NjRmNTgxZTZiZmEwMTRhYjYw",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Lipstick - Radio Edit",
-      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207594,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Lipstick - Radio Edit",
+      "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "This Is Our Night",
-        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
-      },
-      "artists": [
-        {
-          "name": "Sakis Rouvas",
-          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "This Is Our Night",
-      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Tick Tock",
         "url": "https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 180000,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "This Is Our Night",
+        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
+      },
+      "artists": [
+        {
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "This Is Our Night",
+      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
     },
     {
       "added_at": "2022-05-16 13:21:08",

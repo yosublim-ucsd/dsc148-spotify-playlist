@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,387 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,588 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 81 | [Romantic Lofi Mashup](https://open.spotify.com/track/6rCt3zQpc2wRHjHhM8EwHB) | [Visual Chinmay](https://open.spotify.com/artist/6OQun0qxoOjStLIqxcmYK6) | [Romantic Lofi Mashup](https://open.spotify.com/album/6uLTofOp4wij6YCcb0Mwlu) | 4:00 |
 | 82 | [Kya Mujhe Pyaar Hai \- Lofi Flip](https://open.spotify.com/track/3Bh3NOzgOPlgJwpGz8P8Dt) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \(Lofi Flip\)](https://open.spotify.com/album/5O4fKxZIYBPoIpBPeNGwyO) | 3:39 |
 | 83 | [Is It Too Much to Ask For](https://open.spotify.com/track/5KPSKv02jtAsI7fmpT7enC) | [me7k](https://open.spotify.com/artist/5yXMtEjaBVEtGSyICT1w2b) | [Is It Too Much to Ask For](https://open.spotify.com/album/0IzYrQln8FJY0XwfYq3X6c) | 1:40 |
-| 84 | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/track/5qhWIOZ6HztbHnsWNnkJTf) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/album/57Q4oIX0NNzE8pcZhE0XIW) | 3:56 |
+| 84 | [Get You The Moon / Agar Tum Saath Ho \(Medley\)](https://open.spotify.com/track/1XvKTdRwlYCbMdtFdvsSZd) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon / Agar Tum Saath Ho \(Medley\)](https://open.spotify.com/album/7sVV56UYxgPrr4VtLEDXCX) | 3:56 |
 | 85 | [Waalian \(Lo\-Fi\)](https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [Waalian \(Lo\-Fi\)](https://open.spotify.com/album/2moppEz2KPZAFIY63zjoaq) | 2:55 |
 | 86 | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/0wbC3G2o0lXDY9xxxXqWDZ) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/0xWns05vgbslYeVkNx0Xaf) | 2:44 |
 | 87 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3ODQ1MjA5NCwwMDAwMDAwMGYxMTU4ODg5OTc2Y2VkOTU2YTYyZDdjZmY3NDdlYjc5`
+Snapshot ID: `MTY3ODQ1MjA5NCwwMDAwMDAwMDkxMzhhNjU0OTc3N2Y4NzRiMWYzMDllN2Y3MzY0Njcy`

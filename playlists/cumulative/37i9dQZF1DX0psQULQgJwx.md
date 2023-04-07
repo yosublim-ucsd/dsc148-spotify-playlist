@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-112 songs - 6 hr 41 min
+114 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2023-01-04 |  |
 | [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 | 2022-09-02 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-09-02 |  |
-| [Arabian Spa](https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R) | [Spiritual Concepts](https://open.spotify.com/artist/6FhOqTnCaT3K3q05l7TfFA) | [Arabian Spa](https://open.spotify.com/album/438FxHslucydZ8YQxjQKqQ) | 1:28 | 2022-09-23 |  |
+| [Arabian Spa](https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R) | [Spiritual Concepts](https://open.spotify.com/artist/6FhOqTnCaT3K3q05l7TfFA) | [Arabian Spa](https://open.spotify.com/album/438FxHslucydZ8YQxjQKqQ) | 1:28 | 2022-09-23 | 2023-04-07 |
 | [Argentum](https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Argentum](https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4) | 2:42 | 2022-09-02 |  |
 | [Astral Lights](https://open.spotify.com/track/7ysKjjiw3xuTfER17BmEVd) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Shades of Blue](https://open.spotify.com/album/7wEq5dWfjSnP5B3qOSLKig) | 3:11 | 2022-09-02 |  |
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2022-09-02 |  |
@@ -63,7 +63,7 @@
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-09-02 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2022-09-02 |  |
 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 | 2022-09-30 |  |
-| [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-09-02 |  |
+| [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 | 2022-09-02 | 2023-04-07 |
 | [Midnight Contemplation](https://open.spotify.com/track/4KXotHNLAns9Egx4uLDGaN) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Calmly: Peaceful Instrumental Ambient Music to Fall Asleep and Sleep Better](https://open.spotify.com/album/0v5cAuHvYSbdRX2ecxkFl3) | 3:31 | 2022-09-20 |  |
 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-13 |  |
 | [Music For Relaxation](https://open.spotify.com/track/3KilichjWZDdaMOlTALwGc) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5) | [Deep Sleep Dreams](https://open.spotify.com/album/1uBhdfgyP19ksI8kwtBD6o) | 1:10 | 2022-09-30 | 2023-01-10 |
@@ -89,6 +89,7 @@
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-09-02 |  |
 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 | 2022-09-02 |  |
 | [Pure Compassion](https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Pure Compassion](https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y) | 2:44 | 2023-02-24 |  |
+| [Quest](https://open.spotify.com/track/3whNl0FoezzuTRvYYPKCS0) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Quest](https://open.spotify.com/album/5YOvdAVUQyFN4OWLpD0Y9l) | 3:09 | 2023-04-06 |  |
 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 | 2022-09-02 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2022-09-02 |  |
 | [Sachchaee](https://open.spotify.com/track/6nR8ci27qzCAnPqSViqWGr) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Sachchaee](https://open.spotify.com/album/3qEz8M7AXECCl6vqA2ZKay) | 3:13 | 2022-09-02 |  |
@@ -116,6 +117,7 @@
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2022-09-02 |  |
 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-09-02 |  |
 | [We Are](https://open.spotify.com/track/3hwmB5wcWwszc2OfHaiqG1) | [Erik Walmoe](https://open.spotify.com/artist/6A5AsqsnvVDdHsup7edHPy) | [We Are](https://open.spotify.com/album/0BTv8frPTRHscn9qp3ligr) | 2:42 | 2022-09-02 |  |
+| [Wellen](https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Wellen](https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF) | 3:36 | 2023-04-06 |  |
 | [What If](https://open.spotify.com/track/1TNaCe4Qd8fyNSbHoGvjbG) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [What If](https://open.spotify.com/album/6PhSMtqauo1H6EoPgtPG9S) | 2:43 | 2022-09-02 |  |
 | [Wild Rhythms](https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-09-02 |  |
 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 | 2023-01-09 |  |

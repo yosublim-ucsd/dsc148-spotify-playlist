@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover:  GD 47, Prince Narula & Rannvijay Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,978 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,012 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 43 | [To The Warrior](https://open.spotify.com/track/1PKw4Fu5uMCPg16fELm9Iw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Jxgga](https://open.spotify.com/artist/5veJyCRf8zRVcbfctEBoNA) | [To The Warrior](https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR) | 3:02 |
 | 44 | [Option](https://open.spotify.com/track/7D9bolj2s9fFFUkN8jdNxr) | [Jatinder Dhiman](https://open.spotify.com/artist/1hm6TM0GJs7b6BKDN2AhgH), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Option](https://open.spotify.com/album/0gpBSrkVRA5I0SEKxMuxUV) | 2:30 |
 
-Snapshot ID: `MTY3OTEzOTQ1MiwwMDAwMDAwMDBmOWI2ZjgxNGRjMDA0ZDU2Y2FkNDRkN2E3NTE2NDQ1`
+Snapshot ID: `MTY3OTEzOTQ1MiwwMDAwMDAwMDI2Y2FlMzkwZjAyZWY1NDFkYTkwNzg4NzBiYjcyNDkw`

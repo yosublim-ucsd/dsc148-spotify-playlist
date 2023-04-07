@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,926 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,970 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 17 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 |
 | 18 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 |
 | 19 | [Way Too Hot \(feat\. DCG Msavv\)](https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Msavv](https://open.spotify.com/artist/0UXXT0Mk3hY49GSk9VyUmU) | [Way Too Hot \(feat\. DCG Msavv\)](https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP) | 3:08 |
-| 20 | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/5tIW8MvBBpy7fu1bfJ2Dy7) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 3:06 |
+| 20 | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/5iieKgPJ2EeL0BwlGQOocT) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 3:06 |
 | 21 | [H.L.F.](https://open.spotify.com/track/464bVdsYzXMZE8FykJoxw0) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 1:43 |
 | 22 | [Rich Junkie \(feat\. Skilla Baby\)](https://open.spotify.com/track/1YJ1ZgksxlYQEBy6cfhV7h) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Rich Junkie \(feat\. Skilla Baby\)](https://open.spotify.com/album/0uGdwXTZ9Eubd2JjpTGIb6) | 2:25 |
 | 23 | [Insubordination](https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Insubordination](https://open.spotify.com/album/4xPjb8cJKvMyuWBXBYz602) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Man Down](https://open.spotify.com/track/24kBbefzuBdSmQSaCcMylz) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [We Eat The Most](https://open.spotify.com/album/39d2Vl4JVCWHqVgZV326K4) | 2:30 |
 | 50 | [Who You Are \(feat\. ‎Trippie Redd\)](https://open.spotify.com/track/5FQkqcrtVOGqIpVmW7utbh) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:11 |
 
-Snapshot ID: `MTY4MDU0MjkxNywwMDAwMDAwMGJiZDk2YWE3NjNlZTFlY2VlMWZiMzJlYTdlY2M5YzRj`
+Snapshot ID: `MTY4MDU0MjkxNywwMDAwMDAwMDE1NTQ2ZjNmZTgyNjk0NmQyZDU3ZGI0NzU2NjEyMDk3`

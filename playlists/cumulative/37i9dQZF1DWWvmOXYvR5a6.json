@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: CAMO(\uce74\ubaa8)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) Enjoy trendy and chill hip hop music selected by CAMO! (\uce74\ubaa8\uac00 \uc9c1\uc811 \uc120\uc815\ud55c \ud2b8\ub80c\ub514\ud558\uace0 Chill\ud55c \ud799\ud569 \uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Giriboy(\uae30\ub9ac\ubcf4\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -2116,10 +2116,32 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 220087,
       "name": "COME TO MY STU (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/7FXAik3QQacggiaSJ2QTbA"
+    },
+    {
+      "album": {
+        "name": "come to my stu (Remix) [feat. Leellamarz]",
+        "url": "https://open.spotify.com/album/29pHmhmbZ0D4h3loLSHdqZ"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220293,
+      "name": "come to my stu (Remix) [feat. Leellamarz]",
+      "url": "https://open.spotify.com/track/1PSOpfMs1XDSCGFjyKuPRT"
     },
     {
       "album": {
@@ -3278,7 +3300,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 174493,
       "name": "Ethics",
       "url": "https://open.spotify.com/track/1LUrUB4aM5sMOulZDvQxZb"
@@ -3734,7 +3756,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 167706,
       "name": "FREAK LIKE ME",
       "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
@@ -5989,6 +6011,28 @@
     },
     {
       "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "KISS ME (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h"
+    },
+    {
+      "album": {
         "name": "Kitty (Feat. MIYEON ((G)I-DLE)",
         "url": "https://open.spotify.com/album/2UHeGXqUbCAPwL116EhgHf"
       },
@@ -7282,7 +7326,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 152576,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/0uzeM8HkrcG9FngqI2JGjk"
@@ -9600,7 +9644,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 133067,
       "name": "Running Up (feat. Loopy)",
       "url": "https://open.spotify.com/track/6IDUUvEtYdulauqCdCejXF"
@@ -10312,7 +10356,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 199625,
       "name": "So Wet",
       "url": "https://open.spotify.com/track/6x64i1R4OdHFthZ9e3D7mq"
@@ -11300,7 +11344,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 190720,
       "name": "Thirsty (feat. oygli)",
       "url": "https://open.spotify.com/track/2roYVMw7wnl1fr9INRqvWi"
@@ -12470,7 +12514,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 124615,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
@@ -12616,7 +12660,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 205134,
       "name": "Work Work (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/7uMk5EMgwtYjiGoshyhBsh"
@@ -13014,7 +13058,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 165214,
       "name": "\uc624\uc5fc",
       "url": "https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO"

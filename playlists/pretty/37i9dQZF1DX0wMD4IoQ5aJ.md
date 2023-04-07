@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,350 likes - 158 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,430 likes - 158 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 157 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 |
 | 158 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 |
 
-Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMDMwZDQyMzc2YWI3YmJjNGU2YjkyMGVlNWY3ZjVmNzMx`
+Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMDdiMzZjY2JmNjJhZDAyZTRiYmM0NDY3YzNkYmY5ZDFk`

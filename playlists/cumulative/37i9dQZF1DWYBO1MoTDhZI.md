@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-567 songs - 1 day 6 hr 46 min
+568 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Marigold](https://open.spotify.com/track/3tToxMlakmNRLtOahT1cYC) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Marigold](https://open.spotify.com/album/6URvgYp7rWMsQE0jppOMBT) | 2:25 | 2020-05-22 | 2021-08-28 |
 | [Marry Me \- Kat & Bastian Duet](https://open.spotify.com/track/1oWXQ83ILNfQUu1cT3jTnf) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Kat & Bastian Duet\)](https://open.spotify.com/album/3lVFhB6idnknGsWtLtOLSL) | 2:39 | 2022-02-04 | 2022-04-09 |
 | [mas queso](https://open.spotify.com/track/0fUujTuntLla5fesCqQ6d1) | [FLOYD WONDER](https://open.spotify.com/artist/6KdH5WA9Z7g3SbOuWfqmfK) | [mas queso](https://open.spotify.com/album/65XtezcI4vf3wZxJN5Usi9) | 2:18 | 2020-09-11 | 2021-10-23 |
-| [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 |  |
+| [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 | 2023-04-07 |
+| [Meet Me At Our Spot](https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O) | 2:17 | 2023-03-31 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-08-26 | 2022-05-20 |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-03-10 |  |
 | [Memorized](https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Memorized](https://open.spotify.com/album/6aI8EAq9o8Xnoq1uw5QovE) | 3:26 | 2019-09-05\* | 2020-05-08 |

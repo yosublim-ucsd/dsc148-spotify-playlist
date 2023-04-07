@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 
 > When you're a 19th century villain with excellent taste in music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,878 likes - 45 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,381 likes - 45 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 | 44 | [Symphony No\. 6 in D Major, Op\. 60, B\. 112: III\. Scherzo \(Furiant\)](https://open.spotify.com/track/0NFO85vWTMQK6gE9aH3s8C) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Luzerner Sinfonieorchester](https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD), [James Gaffigan](https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M) | [Dvořák: Symphony No\. 6; American Suite](https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89) | 7:41 |
 | 45 | [Violin Concerto No\. 3: III\. Vivo](https://open.spotify.com/track/4z3ywmuYl4pyHWdQEmusXn) | [Grazyna Bacewicz](https://open.spotify.com/artist/0MrP6v2MTynnExsCwpnjpb), [Łukasz Borowicz](https://open.spotify.com/artist/7uLvjFKAw1iwyrA3FrSkaa), [Polish Radio Symphony Orchestra, Krakow](https://open.spotify.com/artist/4bNdwxraawS9igfyQQbAVl), [Joanna Kurkowicz](https://open.spotify.com/artist/03mNwkOPahk1RQPvo0Atx0) | [Bacewicz: Violin Concertos Nos\. 1, 3 & 7](https://open.spotify.com/album/42PCT91P3nKk4DFGeCI0xi) | 7:18 |
 
-Snapshot ID: `MTY3Nzg0OTg5NywwMDAwMDAwMGFjZmY0MWYxZTM3NGE5N2NhMGQxNmZiMjVmNmQ4MzY3`
+Snapshot ID: `MTY3Nzg0OTg5NywwMDAwMDAwMGJhODFlZDNhNmE2ZjIzOTQzNDQ0ZjI1MjkxMTc5MDJk`

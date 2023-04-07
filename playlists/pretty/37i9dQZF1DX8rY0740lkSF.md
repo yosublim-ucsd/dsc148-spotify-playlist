@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,778 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 71 | [Battle Artist](https://open.spotify.com/track/7sirJywqf84KwuX2gi8BiB) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 3:23 |
 | 72 | [Light of the Fireflies](https://open.spotify.com/track/3iHdoPJOpxtFgQacCUe7E3) | [須藤 まゆみ](https://open.spotify.com/artist/1D4cfhxxGmFjs32eMuikBo), [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 4:55 |
 
-Snapshot ID: `MTY4MDEwMjAwMCwwMDAwMDAwMDk0NmQ0OGMxMTM3Y2RhMWM3ZTk0MTVlN2IwMjQwOTMy`
+Snapshot ID: `MTY4MDEwMjAwMCwwMDAwMDAwMDRiMzZmYmM1OWZkMzNiMmM0ODlmNzVjNTM0NDBlYWZj`

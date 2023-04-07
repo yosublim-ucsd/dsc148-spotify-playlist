@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD?si=8ef283b1df6945a4">JJ Hairston</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,258 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,434 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 | 100 | [Trouble Don't Last](https://open.spotify.com/track/63EflERVDpEWWoTZJeWLQC) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [Trouble Don't Last](https://open.spotify.com/album/6vrkkkcwBKcFcOu2pogwNk) | 4:34 |
 
-Snapshot ID: `MTY4MDI1NjgxNSwwMDAwMDAwMDc2Y2YxYjUyYmViYjA3ZjEyOTY4ZjkwZDhmNzY2NjYz`
+Snapshot ID: `MTY4MDI1NjgxNSwwMDAwMDAwMGU4MDZmNjQ5YjFjYWU5YmY1YzI2MTY4NjhjOGZlYjc1`

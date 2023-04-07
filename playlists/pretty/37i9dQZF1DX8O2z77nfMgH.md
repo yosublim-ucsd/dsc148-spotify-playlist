@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Natty Natasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,435 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,483 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 74 | [Prejudicado](https://open.spotify.com/track/3nx9px7NuGBe3mxnJZtnen) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [RAIZ](https://open.spotify.com/album/1lGufkENuPKhs8ELOoFZ5q) | 2:48 |
 | 75 | [Mágica \- Ao Vivo](https://open.spotify.com/track/5v8EhStRWlvoY2qbcZR5R2) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Mágica \(Ao Vivo\)](https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8) | 2:51 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGY4OWQ2N2U4ZWUwODBiMTlhNDVjMzRiODBhZDRjNTA5`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDM0OGRkYmNhMDE5Y2ZhZDVjMmZlZDIyOWM5MTE4OWRh`

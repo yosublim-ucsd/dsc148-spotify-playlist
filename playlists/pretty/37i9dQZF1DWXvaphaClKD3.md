@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Luis R Conriquez y Grupo Laberinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,730 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,372 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 49 | [1, 2, 3 X Ti](https://open.spotify.com/track/5GFgBzEP1Q9xYmYhgtdRIO) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [1, 2, 3 X Ti](https://open.spotify.com/album/1C6grKQrbfrravwUkAYtEa) | 2:54 |
 | 50 | [Hoy la Vi Con Él \- En Vivo](https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy la Vi Con Él \(En Vivo\)](https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX) | 3:43 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDgyNjhjZDZmNDUxOTUyNWMyMmU4MTM1ZTFjYmJjYzk0`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMGY0YzQ1OGJhMGFkZWZiOTdiZWQwYmQxOGVkNTBjNmRm`

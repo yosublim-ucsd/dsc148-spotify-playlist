@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,552 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,748 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 65 | [Do This Life](https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Do This Life](https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2) | 3:02 |
 | 66 | [Money Isn't Real](https://open.spotify.com/track/1rNglbtKiHh3NuDvN7l3TV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Money Isn't Real](https://open.spotify.com/album/3GKMoWHdXCQoivyqQc2Pft) | 3:15 |
 | 67 | [Pocketful of 90's Country](https://open.spotify.com/track/2TUSnW3SSVbthqC1bCBH8D) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 3:38 |
-| 68 | [You Can't Always Get What You Want](https://open.spotify.com/track/2sgOniXYX1R5InrFTkIKOP) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [You Can't Always Get What You Want](https://open.spotify.com/album/6Q3dvHXR0PR79npOzmHuTE) | 7:12 |
+| 68 | [You Can't Always Get What You Want](https://open.spotify.com/track/6DsqyOvPEcasb72iQwxgPe) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stoned Cold Country](https://open.spotify.com/album/2RGLCcJebUVtIIyHeffqSQ) | 7:12 |
 | 69 | [I Know You Do](https://open.spotify.com/track/5FUcyCkzfcusdZMExfmz91) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [I Know You Do](https://open.spotify.com/album/2JgQYSTTAd5XkD1dPrccWA) | 3:15 |
 | 70 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
 | 71 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 |
 | 100 | [Ours](https://open.spotify.com/track/3W7PrwnCfE8WPV7Yxpc1xW) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Ours](https://open.spotify.com/album/4iKoovXhjYxq5Fg3iPGPc1) | 2:50 |
 
-Snapshot ID: `MTY4MDI3NzIyNywwMDAwMDAwMDJjMDM5MDUzYzdlNDA4MmZmYmQ0ZjI0ZjE2MzFlMTMz`
+Snapshot ID: `MTY4MDI3NzIyNywwMDAwMDAwMDlhZTIxNDI5MzRiNWY4ZTVlNDYzNDM5ZWIzMzFmMDQz`

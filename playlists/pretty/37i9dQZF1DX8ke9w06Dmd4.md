@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ke9w06Dmd4.md) - [plain]
 
 > JTBC's Crossover Men's Quartet Project <Phantom Singer> Official Playlist\. \(JTBC의 크로스오버 남성 4중창 프로젝트 '팬텀싱어'의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 164 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,891 likes - 164 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ke9w06Dmd4.md) - [plain]
 | 163 | [Love will never end](https://open.spotify.com/track/0V9HftMzD62Nm26KPvvDJX) | [길병민](https://open.spotify.com/artist/6X5Qw1sAw3iyiAozEvkier), [김민석](https://open.spotify.com/artist/44aFGXMIq0SKnXTB2BCPAL), [김성식](https://open.spotify.com/artist/6nj8vLX0iYmWmx3itkEnrI), [박현수](https://open.spotify.com/artist/4qjXSzjDL3PCdXGAs44LsS) | [Phantom Singer3 Episode.10](https://open.spotify.com/album/2NTZOKTBruisGO8BHpjW2K) | 4:53 |
 | 164 | [The Rose](https://open.spotify.com/track/7LVOsRwVu6GQQQhKFxyau6) | [박기훈](https://open.spotify.com/artist/6PLsTzmEOGzqh9ham8Kzf8), [유채훈](https://open.spotify.com/artist/7KbD3y6QU8xliKBeSa5yrP), [정민성](https://open.spotify.com/artist/5bxAUVwnEuhYP0o6QcswOG), [최성훈](https://open.spotify.com/artist/0TtspyzgERgPQKicFFB5fI) | [Phantom Singer3 Episode.10](https://open.spotify.com/album/2NTZOKTBruisGO8BHpjW2K) | 5:16 |
 
-Snapshot ID: `MTY4MDUwNTY5NywwMDAwMDAwMDJhZWU0NTVlZjI2N2IyZjhhNTBhZDk2NmM4ODFjZjc5`
+Snapshot ID: `MTY4MDUwNTY5NywwMDAwMDAwMGMzYjJiY2I1MDNhYzc1OWUyZTk3ZDJlOWVhODQwYTA0`

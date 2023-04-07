@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,724 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,798 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Does She Know](https://open.spotify.com/track/7gRTDxpQ1paYETKq92pxa6) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8) | [Does She Know](https://open.spotify.com/album/4EqsFfeOsm0KKrVvDHMqk3) | 3:33 |
 | 100 | [All We Never Said](https://open.spotify.com/track/1L99GQezP94ZxUBtZ4qemZ) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [All We Never Said](https://open.spotify.com/album/4wuJvm6Pc7GWpD60oHPzvl) | 2:42 |
 
-Snapshot ID: `MTY4MDI3MzEwOCwwMDAwMDAwMGNmMDJhNzcyMDM5OWM0ZDU2NTdhNGEwZDEzMjJjM2Fh`
+Snapshot ID: `MTY4MDI3MzEwOCwwMDAwMDAwMDFhNjNhZDNmYTE2MTM2NmFiZmY2YjhmODFjZTcwZDk4`

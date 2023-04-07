@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Hit Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,774 likes - 66 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,809 likes - 66 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 65 | [Heatwave](https://open.spotify.com/track/2SGGSG0DcbTzgZNfTOFTUT) | [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp), [EaSWay](https://open.spotify.com/artist/2KwElG45pWw0wew3dXKYq5) | [Slaponia](https://open.spotify.com/album/6WlLdzv0ppNAmSA3Rjhp1a) | 2:54 |
 | 66 | [On My Mind](https://open.spotify.com/track/612bHAeXlTSMFBZ9RLgM5d) | [Brandon Banks](https://open.spotify.com/artist/66eJQM6S5JsDe0CdUXnwST) | [On My Mind](https://open.spotify.com/album/70EgfYEW6QNbcSZFKDpKDo) | 2:31 |
 
-Snapshot ID: `MTY3ODU3NDg0NCwwMDAwMDAwMDYzNDkyZjhkOWZkYzdhZDEwYThiN2NjYzc2ZTUzMGVm`
+Snapshot ID: `MTY3ODU3NDg0NCwwMDAwMDAwMDBmMWYzYjEyM2Q4MjExMTc5ZmZlNjBlNjE1YTRjZTA0`

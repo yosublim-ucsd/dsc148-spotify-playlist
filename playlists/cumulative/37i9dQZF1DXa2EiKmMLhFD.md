@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Maher Zain, Mahalini serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari JISOO, Raim Laode serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 62 songs - 3 hr 49 min
 

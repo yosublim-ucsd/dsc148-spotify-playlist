@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M3XSYkKZCl.md) - [plain]
 
 > An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,170 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,246 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M3XSYkKZCl.md) - [plain]
 | 49 | [Core 'ngrato \- Live](https://open.spotify.com/track/7zvL32GeH1F8qj8seeG8mg) | [Salvatore Cardillo](https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL), [José Carreras](https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [James Levine](https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa) | [The Three Tenors \- The Best of the 3 Tenors](https://open.spotify.com/album/2fVs3rLwgh37t8JK8ryHYx) | 3:36 |
 | 50 | [Live Like Horses \- Live Finale Version](https://open.spotify.com/track/5GZoBVPJ6P2R1ibdzEMeu9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Marco Armiliato](https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV) | [Pavarotti & Friends for War Child](https://open.spotify.com/album/49rzYN7N4ujtQjfBVmnYR3) | 4:59 |
 
-Snapshot ID: `MTY0MTM5MjU0OSwwMDAwMDAwMDlhYTNiZDcxYjc2MmRmNzZjYWRkZWQ5ZTI3NDg1NjM5`
+Snapshot ID: `MTY0MTM5MjU0OSwwMDAwMDAwMGM5ZjY2YzhmMTcwYmM1YWIwYmNjYzMwYzk3ZjYzYjMz`

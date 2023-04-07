@@ -4,7 +4,7 @@
 
 > Remembering the showman Raj Kapoor with his biggest hits.
 
-54 songs - 4 hr 7 min
+55 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Main Aashiq Hoon Baharon Ka](https://open.spotify.com/track/6gT0S0uS0DnUXn7mzw4532) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Aashiq \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ehRCTZbkkHpo7acUDtTct) | 5:03 | 2022-03-10 |  |
 | [Main Zindagi Mein Hardam Rota Hi Raha](https://open.spotify.com/track/2fezAH9XlD5g6pxEZVikhl) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Barsaat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG) | 3:02 | 2022-03-10 |  |
 | [Masti Bhara Hai Saman](https://open.spotify.com/track/7ibNNm4tl9pk3eO5AwsxlQ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Parvarish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5f6YknoEM3EsSN3bErOfY7) | 3:29 | 2022-03-10 |  |
+| [MERA JOOTA HAI JAPANI](https://open.spotify.com/track/5w4Si2yztoM0WEt8OnAXFM) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Mukesh \- Front Foot Star](https://open.spotify.com/album/6C3eyjYvHWOcDMEvE7f4Jn) | 4:28 | 2023-03-24 |  |
 | [Mera Joota Hai Japani](https://open.spotify.com/track/6rpbfYA2cO0xYy0RZ3M4TV) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420 \(The Bollywood Soundtrack\)](https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5) | 4:31 | 2022-03-10 | 2022-07-29 |
-| [Mera Joota Hai Japani, Pt\. 1](https://open.spotify.com/track/7LpVrKyeiVKR9prdzIZFbE) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06IaiBtDfA82datti9r8da) | 4:28 | 2022-03-10 |  |
+| [Mera Joota Hai Japani, Pt\. 1](https://open.spotify.com/track/7LpVrKyeiVKR9prdzIZFbE) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06IaiBtDfA82datti9r8da) | 4:28 | 2022-03-10 | 2023-04-07 |
 | [Mera Naam Raju](https://open.spotify.com/track/34iL48sDR0n2V8maXGiIAJ) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Jis Desh Men Ganga Behti Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UZm1OmRDrEymqw3XSrbAz) | 3:17 | 2022-03-10 |  |
 | [Meri Jaan Kuchh Bhi Kijiye](https://open.spotify.com/track/6KNWdlTMeIioFGveVpFg1F) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Chhalia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6hXwMYiWfWp8366OaY3k01) | 3:17 | 2022-03-10 |  |
 | [Mud Mud Ke Na Dekh Mud Mud Ke](https://open.spotify.com/track/73n7984mXabbALDfIHqigk) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Shree 420 \(The Bollywood Soundtrack\)](https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5) | 5:47 | 2022-03-10 | 2022-07-29 |

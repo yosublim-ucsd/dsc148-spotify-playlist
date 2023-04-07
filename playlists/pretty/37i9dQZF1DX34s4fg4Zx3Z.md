@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,240 likes - 99 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,251 likes - 99 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [Khẽ Buông Chút Thương](https://open.spotify.com/track/49AHMbVndzC9DYjUZ2Jj8C) | [NIT](https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7) | [Khẽ Buông Chút Thương](https://open.spotify.com/album/3n7Vm0IZbXcVODj6IkYasn) | 5:05 |
 | 99 | [Sunny](https://open.spotify.com/track/3d5tHqHAxHSrixVdQDvvv2) | [A.K](https://open.spotify.com/artist/0zj62uJifZjfTQiyDRODjc), [hieuhayho](https://open.spotify.com/artist/7iYleLkZ0KHUjGMoZZrv9S) | [Sunny](https://open.spotify.com/album/1FRcHqpfiThXyZ2qfOcY0e) | 2:48 |
 
-Snapshot ID: `MTY4MDY1OTQ5MSwwMDAwMDAwMDY3MmZhMmIxYzVkZjE2OWY5YTJjNGE3ZDljZTdlN2Nh`
+Snapshot ID: `MTY4MDY1OTQ5MSwwMDAwMDAwMDViZDYxZTEyNDkwNzRlNjZlMDA1MzQ5NjNlN2IzNWU1`

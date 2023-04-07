@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Rodrigo y Gabriela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,078 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,084 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Estoy Aquí](https://open.spotify.com/track/17ACclkBnDrzkK3z9CuiFg) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Estoy Aquí](https://open.spotify.com/album/6BXyH6CsYfddDGuDBp0Nbl) | 3:32 |
 | 50 | [? \(Dónde Estás\)](https://open.spotify.com/track/1MsIW3wz0qsDqny7osBmn0) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Dónde Estás?](https://open.spotify.com/album/4Bk6OU38eUKgvV5uLhZTeZ) | 2:47 |
 
-Snapshot ID: `MTY4MDI3MjE2MiwwMDAwMDAwMDYxMDJkNDBhZDVjODBlY2I0NTcyYzU1ODVjOGI2MTFm`
+Snapshot ID: `MTY4MDI3MjE2MiwwMDAwMDAwMDQ2MmY0N2ViMmJhY2Y3MTM2ZGQ3MDU4ZGZlZGUxYjA5`

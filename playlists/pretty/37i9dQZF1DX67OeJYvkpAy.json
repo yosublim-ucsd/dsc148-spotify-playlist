@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 85007,
+  "num_followers": 85039,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDFmYTY2OWRiNjdjZDQ3YTk1YzNiMDZlOGVkYzJiNGU1",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDUyNTU5MGVkNWUyMzNkODRiZTFlOWE2MzkxZjI1Y2Q2",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -67,18 +67,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
-      "duration_ms": 97477,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
+      "duration_ms": 144000,
+      "name": "Champagne Shots",
+      "url": "https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -99,18 +99,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
       },
       "artists": [
         {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Champagne Shots",
-      "url": "https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J"
+      "duration_ms": 97477,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 187617,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
-      },
-      "artists": [
-        {
-          "name": "Adzmilli",
-          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 215063,
       "name": "Love Don't Change",
       "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL"
+      },
+      "artists": [
+        {
+          "name": "Adzmilli",
+          "url": "https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "In my head",
         "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
       },
@@ -1239,26 +1255,6 @@
       "duration_ms": 155725,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "Beri Mayah",
-          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1279,18 +1275,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
       "artists": [
         {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "Beri Mayah",
+          "url": "https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
+      "duration_ms": 135000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
     },
     {
       "added_at": "2022-08-02 15:42:28",

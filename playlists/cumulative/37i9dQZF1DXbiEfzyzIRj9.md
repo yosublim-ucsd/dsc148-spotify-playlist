@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Two Shell
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stones Taro
 
-152 songs - 11 hr 13 min
+154 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Irradiation](https://open.spotify.com/track/5ydk3nvvHlj9v9g2zg7SvF) | [Satoshi Fumi](https://open.spotify.com/artist/38WQYltQVhjRe966Qen0UO) | [Irradiation](https://open.spotify.com/album/4Sk6nN8eImSQabiieDJWbg) | 7:03 | 2023-03-16 |  |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-03-16 | 2023-03-31 |
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2023-03-16 | 2023-03-21 |
+| [Jealous](https://open.spotify.com/track/6LzvH9CzTOQ4zp8ZzL9Bk8) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [HARD07](https://open.spotify.com/album/5zmq5MhJah3GFpt4BpnuQ1) | 5:49 | 2023-04-06 |  |
 | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/track/47jWAA7p8YDkMAWYRSVNJY) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Joy In The Morning \(feat\. Chrome Sparks\) \[Ron Trent Remix\]](https://open.spotify.com/album/3Xd6ML05Smj6q4bFwuCSgP) | 4:45 | 2023-03-16 | 2023-03-21 |
 | [Jungle Bird](https://open.spotify.com/track/4Dl6QAgq8OegE19HA8iSwO) | [Kousto](https://open.spotify.com/artist/3gGlHMXpaoeZ1FWV5kbUi2), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [When We Were There](https://open.spotify.com/album/2J16BKBZG0UuYd1HhkEVjl) | 5:38 | 2023-03-16 |  |
 | [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-03-16 |  |
@@ -127,6 +128,7 @@
 | [Sleeping Beauty](https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Sleeping Beauty](https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf) | 3:29 | 2023-03-16 |  |
 | [Somewhere Near Marseilles ーマルセイユ辺りー](https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 11:54 | 2023-03-16 | 2023-03-21 |
 | [Soulflow](https://open.spotify.com/track/34k8q1O8eAk4HWzU4jQ7ls) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj) | [Soulflow](https://open.spotify.com/album/0TR5psaj0Djq2l03VCstra) | 4:22 | 2023-03-16 |  |
+| [Space Woman](https://open.spotify.com/track/2dSjOKbiTTUrFCTsy9PBQ5) | [Powder](https://open.spotify.com/artist/4uODGAg149IxrHfQ9z8Hzr) | [Space Woman](https://open.spotify.com/album/2SM1lb9iT98PCVNwH3T4LM) | 1:53 | 2023-04-06 |  |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-16 |  |
 | [Still Ever](https://open.spotify.com/track/28C4AHjd4ZmTPXNnhIwhfD) | [Pvrvllel](https://open.spotify.com/artist/0Mh36OJcuSXh3k84YyifYS) | [Still Ever](https://open.spotify.com/album/0vsjmMlgKS0FuCW9T2fTJN) | 6:03 | 2023-03-16 |  |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-03-16 |  |

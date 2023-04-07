@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-238 songs - 14 hr 20 min
+239 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2022-09-29 |  |
 | [Kalimba Funk](https://open.spotify.com/track/3U4dLD0OE4wqNyzy9YpeXX) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Kalimba Funk](https://open.spotify.com/album/5YipQowOuOOuqOpu6kiP1r) | 2:25 | 2022-09-09 | 2022-10-15 |
 | [Keep on Fighting](https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Shake the Disease](https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A) | 3:10 | 2022-09-09 |  |
+| [Keep On Keeping On](https://open.spotify.com/track/3RP2TFLoKXTMMakw20blEC) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Keep On Keeping On](https://open.spotify.com/album/5oyweRUoRLOYTYO9UDfw1J) | 3:06 | 2023-04-06 |  |
 | [Keep on Stepping](https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Keep on Stepping](https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS) | 3:22 | 2023-02-16 |  |
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2022-10-14 |  |
 | [Know It All](https://open.spotify.com/track/05maKFIe6w8GMjfxK2VsU1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Know It All](https://open.spotify.com/album/4Aqu1U1n9e61woAX77t1O9) | 2:48 | 2022-09-09 | 2022-10-15 |
@@ -130,7 +131,7 @@
 | [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 |  |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2022-09-09 |  |
 | [Mary Jane \- Young Franco Remix](https://open.spotify.com/track/5XGTp5ayYBBbndSQMSuEWB) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Mary Jane \(Young Franco Remix\)](https://open.spotify.com/album/73PV84Kf1waPhVoHNyCt78) | 2:46 | 2022-09-09 |  |
-| [Matter To Me](https://open.spotify.com/track/4ad9LSanGwLjdKDJ3bBwqH) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Matter To Me](https://open.spotify.com/album/6Ee6WpW9cFZ18QtKpBQvdN) | 4:02 | 2022-09-09 |  |
+| [Matter To Me](https://open.spotify.com/track/4ad9LSanGwLjdKDJ3bBwqH) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Matter To Me](https://open.spotify.com/album/6Ee6WpW9cFZ18QtKpBQvdN) | 4:02 | 2022-09-09 | 2023-04-07 |
 | [May \(Late Night Version\)](https://open.spotify.com/track/0jGESyKIfEIdK34TpDpkJZ) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Sterke Atleet](https://open.spotify.com/artist/4byoowp8keg9sWSNaOfjOB) | [May \(Late Night Version\)](https://open.spotify.com/album/0zcPycXAwlLj3B1jJrsHQ4) | 3:07 | 2022-09-09 |  |
 | [Mesmerised](https://open.spotify.com/track/4lMtKkkqdMCYDxas6mhIiT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Side B](https://open.spotify.com/album/3QdmdNXgpy0GScerOTwvkg) | 4:12 | 2022-10-30 | 2022-11-13 |
 | [Mesmerised](https://open.spotify.com/track/7qfnAR8gVQZG1cSsRIoKnG) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 4:12 | 2022-09-09 |  |

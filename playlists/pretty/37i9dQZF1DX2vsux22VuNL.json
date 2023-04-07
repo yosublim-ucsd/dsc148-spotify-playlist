@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Teto",
-  "num_followers": 266674,
+  "num_followers": 266895,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0OTcxNywwMDAwMDAwMDg1YjZiOWI4ZTc0ZjcwNjhjMDU0ZTM0YzI0NDk2ZmFl",
+  "snapshot_id": "MTY4MDU0OTcxNywwMDAwMDAwMDExYzc0NGY2ZTY2MTgxZTcwNTcwMWJkYTk5YzQ2MTBh",
   "tracks": [
     {
       "added_at": "2023-04-03 19:21:57",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
+        "name": "Ei Amor",
+        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        },
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 141354,
+      "name": "Ei Amor",
+      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
         "name": "Poesia Ac\u00fastica - Lisboa",
         "url": "https://open.spotify.com/album/7lkw2vUf9rmWU3LQP6qXVW"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 315652,
       "name": "Poesia Ac\u00fastica - Lisboa",
       "url": "https://open.spotify.com/track/0xYOVTHZVSvZBUQgCybH9b"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
-        "name": "Ei Amor",
-        "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 141354,
-      "name": "Ei Amor",
-      "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
     },
     {
       "added_at": "2023-04-03 19:21:57",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-04-03 19:21:57",
       "album": {
-        "name": "Melhor Agora",
-        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 226858,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd"
-    },
-    {
-      "added_at": "2023-04-03 19:21:57",
-      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2023-04-03 19:21:57",
+      "album": {
+        "name": "Melhor Agora",
+        "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 226858,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd"
     },
     {
       "added_at": "2023-04-03 19:21:57",

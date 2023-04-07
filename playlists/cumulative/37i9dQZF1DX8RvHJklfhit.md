@@ -2,7 +2,7 @@
 
 ### [Latin Indie Classics](https://open.spotify.com/playlist/37i9dQZF1DX8RvHJklfhit)
 
-> Your favorite Latin Indie Classics.
+> Your favorite Latin Indie classics.
 
 192 songs - 11 hr 23 min
 

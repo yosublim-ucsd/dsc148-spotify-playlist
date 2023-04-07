@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 結城佑莉
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,129 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,174 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Reminiscence](https://open.spotify.com/track/5xZwYr9af0yLdiJq0BDns0) | [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr), [maako](https://open.spotify.com/artist/1v9yzk9YBTe18JroIG4Yo6) | [Reminiscence](https://open.spotify.com/album/3L8GfhK8uO7vuUybyMzpn1) | 3:45 |
 | 80 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
 
-Snapshot ID: `MTY4MDU2MjUzNywwMDAwMDAwMDkwOWVlZTc2MDc2YmI1YmJkYTQ3OWZkOGYzMzQzNTc1`
+Snapshot ID: `MTY4MDU2MjUzNywwMDAwMDAwMDBlNmY3Nzk4YTdhOGQzYWMwMDg1NzA2MWUyMWM5OTU5`

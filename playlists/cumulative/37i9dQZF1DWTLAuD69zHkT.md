@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-94 songs - 6 hr 57 min
+95 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
 | [Fine Fat Daddy](https://open.spotify.com/track/5Rr8ikDdsamSpjUu9uUabY) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:20 | 2022-07-13 |  |
 | [Fine Little Angel \(Take 2\)](https://open.spotify.com/track/5EP7cCsnijchK08uL6lINe) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 4:15 | 2022-07-13 |  |
+| [Fool \(Live\)](https://open.spotify.com/track/60TAAGvOtUcY95dHgvluSw) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fool \(Live\)](https://open.spotify.com/album/4ybMTnHNIQcBzVCFRRHuZZ) | 4:48 | 2023-04-07 |  |
 | [Glory Be](https://open.spotify.com/track/25H4Ux5UrzQz2LEqtGq5C6) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:26 | 2022-07-13 |  |
 | [God Must Be A Woman](https://open.spotify.com/track/4plzwfwY5LHyMhrQTm0qvG) | [Ray James](https://open.spotify.com/artist/7K70WLaQVQLFKCuFYRsFTZ) | [God Must Be A Woman](https://open.spotify.com/album/0p4yKiJbsX1lryWlCwItt7) | 4:04 | 2022-12-20 |  |
 | [Goin' Down Slow](https://open.spotify.com/track/5srIpIuhGKnPuiDcoaz1tw) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:04 | 2022-09-12 |  |
@@ -89,7 +90,7 @@
 | [Stack'o Lee Blues](https://open.spotify.com/track/2Zq0eKS6p2SfpbIX35SKd8) | [Steinar Albrigtsen](https://open.spotify.com/artist/2qRjrCuBQJqlU8Nwb92kao) | [Stripped](https://open.spotify.com/album/5kLdtZs98YIz2KPULtheEg) | 2:29 | 2022-07-13 |  |
 | [Stay with Me](https://open.spotify.com/track/5qRvaUSXnGrn3dgMfNZM1p) | [Blues Fighters](https://open.spotify.com/artist/4Z8HiAcleS4ztwQn8MRl6Q) | [Pretty Baby](https://open.spotify.com/album/5kFJf4E5O16OBrw7tfoZiV) | 3:49 | 2023-03-21 |  |
 | [Still Blue](https://open.spotify.com/track/2ZoFDmNwXTSK3zgOayk63v) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk) | 7:02 | 2022-07-13 |  |
-| [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 | 2022-07-13 |  |
+| [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 | 2022-07-13 | 2023-04-07 |
 | [The Man Wants Me Dead](https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Byther Smith in Europe Vol\. 2](https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx) | 5:01 | 2023-03-03 |  |
 | [The Natural Facts](https://open.spotify.com/track/6xDQ3GKPIfNDZ8QoZdQ2SX) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [We're Listening to Sister Rosetta Tharpe, Vol\. 2](https://open.spotify.com/album/3AahaKw3G98axWbYmf8Rmb) | 3:16 | 2022-08-18 |  |
 | [The Sky Is Crying](https://open.spotify.com/track/3sMAzJIN9ruG2Nhf07FJeU) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 4:00 | 2022-07-13 |  |

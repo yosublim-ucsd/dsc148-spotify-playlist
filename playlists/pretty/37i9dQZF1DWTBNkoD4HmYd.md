@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain]
 
 > A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red\-headed baroque legend than just The Four Seasons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,618 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,843 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain]
 | 65 | [Vivaldi \- Concerto in D Major "Grosso Mogul" RV 208: II Recitativo: Grave](https://open.spotify.com/track/4aDDrg0VaoijdLEa8PdCl3) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Viktoria Mullova](https://open.spotify.com/artist/1Ru2MsKaiEbw3TPXeEelQq), [Il Giardino Armonico](https://open.spotify.com/artist/3ffMbKIrSWo557U1wDxNDq), [Giovanni Antonini](https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW) | [Vivaldi 5 Violin Concertos](https://open.spotify.com/album/7etHxO42n1LT4GiAlPGp1O) | 2:25 |
 | 66 | [Nisi Dominus, RV 608: Beatus vir](https://open.spotify.com/track/1RgPHu5eso9VR5Ys5yECHZ) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Lynne McMurtry](https://open.spotify.com/artist/0sBJdVzWAMVpqjv1DmkIoU), [Aradia Ensemble](https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk), [Kevin Mallon](https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s) | [Vivaldi, A.: Sacred Music, Vol\. 3](https://open.spotify.com/album/6sIuLtGO94U372N1otar46) | 1:08 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDMwNThmMjUxZmExMDM0YjI0ZWZhMjAwMGUzNGEzYjky`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDk4YjM1ZmUyMjBhYzM4YzRhOWZkYzAyZTM3MmI2Njhl`

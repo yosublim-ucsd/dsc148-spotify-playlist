@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Amir Jahari
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,321 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,406 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Hadiahkan Duka Kepadamu](https://open.spotify.com/track/3RCiaZsVcRqjx4VyDUSPmp) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Hadiahkan Duka Kepadamu](https://open.spotify.com/album/3hv0aCjG1FfiKWNZfJsLgO) | 3:46 |
 | 50 | [Benar](https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Benar](https://open.spotify.com/album/5LP13IhwD4ZdL7bZASjyQP) | 2:39 |
 
-Snapshot ID: `MTY4MDY4NDAwNCwwMDAwMDAwMGY4ODEzNjY5MzVhMWIwMTE0NTNjMWM0OTFkNjc4NzZk`
+Snapshot ID: `MTY4MDY4NDAwNCwwMDAwMDAwMGIwODZkNTY5N2EwNDhjNjA3MTE0ZGM2OWY1ZjdiOTgz`

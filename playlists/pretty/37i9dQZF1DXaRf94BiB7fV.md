@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Zupiter , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,203 likes - 93 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,227 likes - 93 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 92 | [Jee Dhoondta Hai](https://open.spotify.com/track/3cxg4WPMZDyTX6S6Z29RV6) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Qurbat](https://open.spotify.com/album/1pwQRDtIQYcSreN5EBI8xU) | 4:08 |
 | 93 | [Feel Okay](https://open.spotify.com/track/5RRNK4BZRGgQl79TsnlWjm) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Feel Okay](https://open.spotify.com/album/0pueeofPaXmbsC54lFxfgb) | 3:22 |
 
-Snapshot ID: `MTY4MDY3NzU3MCwwMDAwMDAwMGU0Y2E2MGM5NzEwMTA2ZjE4ZmQyODNkZGY4YmQ2NDc5`
+Snapshot ID: `MTY4MDY3NzU3MCwwMDAwMDAwMGRjZDEzNmQ4NzIzYTdiNDBlZWYxMWJjMzgzYmM4Nzdl`

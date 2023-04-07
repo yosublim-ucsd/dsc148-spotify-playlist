@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 181426,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
@@ -666,6 +666,24 @@
       "duration_ms": 198800,
       "name": "Fall to My Knees",
       "url": "https://open.spotify.com/track/5x0YfwtrTBCxjVuiVuW7fw"
+    },
+    {
+      "album": {
+        "name": "LET YOURSELF BE LOVED",
+        "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > 今週話題になった楽曲をまとめてチェック！Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,489 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,552 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
 | 50 | [The Spider's thread](https://open.spotify.com/track/2lRBoCWxkUcEicwVQjQugG) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l) | 3:31 |
 
-Snapshot ID: `MTY4MDI3NDgwMCwwMDAwMDAwMDE1MWQwYTUzMDU2MWE5NDdkYTZiNGMyMzllNTliMmM5`
+Snapshot ID: `MTY4MDI3NDgwMCwwMDAwMDAwMDNjOGViOTI0MjdkMGMxZGExMjllZjAxMzJhZWQ3YmYx`

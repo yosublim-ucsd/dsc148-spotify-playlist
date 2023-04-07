@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "The Best of 'Playing the Orchestra 2014'",
+        "url": "https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319524,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8"
+    },
+    {
+      "album": {
         "name": "Blue Stone of Atlas (Piano Solo Version)",
         "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
@@ -1144,6 +1162,24 @@
       "duration_ms": 160000,
       "name": "Dear Dustin",
       "url": "https://open.spotify.com/track/1IlIZkRAdgFaYTLFAy62Y9"
+    },
+    {
+      "album": {
+        "name": "Dear Sunshine",
+        "url": "https://open.spotify.com/album/7f2p9EL4yoe56dDPazTtoV"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138409,
+      "name": "Dear Sunshine",
+      "url": "https://open.spotify.com/track/1NMaqQLHNlLY6Ryy0FlpON"
     },
     {
       "album": {
@@ -2093,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220236,
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
+    },
+    {
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -2960,7 +3014,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 157857,
       "name": "Lonely Love Song",
       "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
@@ -3080,7 +3134,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 236569,
       "name": "Make Me Me",
       "url": "https://open.spotify.com/track/569UadBl6Ivq7BqUsWp0va"
@@ -5498,7 +5552,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 133399,
       "name": "upside down",
       "url": "https://open.spotify.com/track/6zQ0c4YaJefSGSKeF9iESF"

@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 88701,
       "name": "ABC Song",
       "url": "https://open.spotify.com/track/1GF9KuIcTxlN255MKH7laK"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 116607,
       "name": "Alexa and the Bee",
       "url": "https://open.spotify.com/track/5jrdixpYHox75QORpRK25n"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 129600,
       "name": "Baby's First Dance",
       "url": "https://open.spotify.com/track/1cLvdb4NxiH6J8E9TEvaAy"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 230250,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/2zvC9Owt34JGe8TPfk5qVN"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 147746,
       "name": "Den Finurliga Humlan",
       "url": "https://open.spotify.com/track/0SwL4QnOkrOLrigdCUlIn4"
@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Go to sleep my sweetheart",
+        "url": "https://open.spotify.com/album/6AexU9u46xbc7AsUPUAFi0"
+      },
+      "artists": [
+        {
+          "name": "Elvira Sola",
+          "url": "https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164887,
+      "name": "Go to sleep my sweetheart",
+      "url": "https://open.spotify.com/track/1dKJEoNlq4uVK807eiEDMT"
+    },
+    {
+      "album": {
         "name": "Go To Sleep Now Little Baby",
         "url": "https://open.spotify.com/album/1LNqSgEiXbU1yR0Zr4eFLl"
       },
@@ -3044,6 +3062,24 @@
       "duration_ms": 70409,
       "name": "Golden Slumbers",
       "url": "https://open.spotify.com/track/4NUZLOU3BtZSN4N29zzpMG"
+    },
+    {
+      "album": {
+        "name": "The Stars Above",
+        "url": "https://open.spotify.com/album/3j2XsBqtDg3ok1J0eaAMsD"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Longet",
+          "url": "https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127837,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/2QwzlVlSUhlZZHSG4jAP2G"
     },
     {
       "album": {
@@ -3562,7 +3598,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 154141,
       "name": "How Much Is That Doggie In the Window",
       "url": "https://open.spotify.com/track/38kmnBV7MrayOE59u6wozY"
@@ -3782,6 +3818,24 @@
       "duration_ms": 158000,
       "name": "I min lilla v\u00e4rld av blommor",
       "url": "https://open.spotify.com/track/55rcCiA2Yv5JOj6mxbbdzB"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Dream",
+        "url": "https://open.spotify.com/album/0Vi2JhnhQkbkO1jIhfngOj"
+      },
+      "artists": [
+        {
+          "name": "Goldinia",
+          "url": "https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99623,
+      "name": "I See The Stars",
+      "url": "https://open.spotify.com/track/0Ynu1TAW3oQlaXFkc29EyU"
     },
     {
       "album": {
@@ -4066,7 +4120,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 86000,
       "name": "It's Been A Long Day",
       "url": "https://open.spotify.com/track/1CeFzDg9kNbUSL0bC1njez"
@@ -4174,7 +4228,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 125624,
       "name": "Junto Contigo",
       "url": "https://open.spotify.com/track/3Zs8I69FxacZYhKOjgAhHt"
@@ -4199,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "Just A Little Nap",
+        "url": "https://open.spotify.com/album/0Q44FIZxx8dDtYlesKZUCY"
+      },
+      "artists": [
+        {
+          "name": "Snugglesnooze",
+          "url": "https://open.spotify.com/artist/53tyuFj1nXxKIBJLoExGVB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91654,
+      "name": "Just A Little Nap",
+      "url": "https://open.spotify.com/track/2v3czF35JIw5FuG5SUZegc"
+    },
+    {
+      "album": {
         "name": "Justin the Beaver",
         "url": "https://open.spotify.com/album/0Cp2161Vv9LU02zCfJNMUJ"
       },
@@ -4214,6 +4286,24 @@
       "duration_ms": 89739,
       "name": "Justin the Beaver",
       "url": "https://open.spotify.com/track/4safcdBF55tnJAeH66jF91"
+    },
+    {
+      "album": {
+        "name": "Karl Alfred, I'm Popeye the sailor man",
+        "url": "https://open.spotify.com/album/7sMD2UuPPTnazbxQLSXdF9"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Hills",
+          "url": "https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86916,
+      "name": "Karl Alfred, I'm Popeye the sailor man",
+      "url": "https://open.spotify.com/track/5y4SxbWNE3AEFRyRLA7dhD"
     },
     {
       "album": {
@@ -4426,7 +4516,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 105125,
       "name": "Lavender's Blue",
       "url": "https://open.spotify.com/track/04WO0f93EAAAVyu9Nh1uJB"
@@ -4660,7 +4750,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 95855,
       "name": "Little Pumpkin",
       "url": "https://open.spotify.com/track/3iGlQlJgDCtFmRjkJXlQ3L"
@@ -4901,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Lundi matin",
+        "url": "https://open.spotify.com/album/1qdVLrLizEn8UqgTVE7r60"
+      },
+      "artists": [
+        {
+          "name": "Sofia Moore",
+          "url": "https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85490,
+      "name": "Lundi matin",
+      "url": "https://open.spotify.com/track/2w23Ucz0Yj9Qx8G3zg79RI"
+    },
+    {
+      "album": {
         "name": "Main Theme (From \"Babar\")",
         "url": "https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL"
       },
@@ -4984,7 +5092,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 74250,
       "name": "Many moons ago",
       "url": "https://open.spotify.com/track/2K85RbA7wlm8OV707sUWrV"
@@ -5074,7 +5182,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 176791,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0QYKiEyJptH4BP5XxiWPRF"
@@ -5477,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Just A Little Nap",
+        "url": "https://open.spotify.com/album/0Q44FIZxx8dDtYlesKZUCY"
+      },
+      "artists": [
+        {
+          "name": "Snugglesnooze",
+          "url": "https://open.spotify.com/artist/53tyuFj1nXxKIBJLoExGVB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94347,
+      "name": "My Favorite Toy",
+      "url": "https://open.spotify.com/track/6tBmkK8y3EvMPz5g01V8Hi"
+    },
+    {
+      "album": {
         "name": "My Island",
         "url": "https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW"
       },
@@ -5510,6 +5636,24 @@
       "duration_ms": 84624,
       "name": "My Little Love",
       "url": "https://open.spotify.com/track/6vhjJAHpk2e8Czv2WCubVT"
+    },
+    {
+      "album": {
+        "name": "My Lovely Teddybear",
+        "url": "https://open.spotify.com/album/4LTxQP194y9iIR0oUPH2Mn"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Field",
+          "url": "https://open.spotify.com/artist/5wgNGykMuRZ83zl43wxA7o"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101621,
+      "name": "My Lovely Teddybear",
+      "url": "https://open.spotify.com/track/52JyW7Tx1AKy3OX9phJSco"
     },
     {
       "album": {
@@ -5776,7 +5920,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 139688,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/58xDXVIn9GeEsrpM4HMHWJ"
@@ -6053,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "Once Upon A Dream",
+        "url": "https://open.spotify.com/album/0Vi2JhnhQkbkO1jIhfngOj"
+      },
+      "artists": [
+        {
+          "name": "Goldinia",
+          "url": "https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121078,
+      "name": "Once Upon A Dream",
+      "url": "https://open.spotify.com/track/7kQW5s6BJB2hKpq5NWMZdB"
+    },
+    {
+      "album": {
         "name": "Pat-A-Cake",
         "url": "https://open.spotify.com/album/6ONYAHWGbAWtrsvEgrbxet"
       },
@@ -6086,6 +6248,24 @@
       "duration_ms": 95091,
       "name": "One Finger One Thumb",
       "url": "https://open.spotify.com/track/0Q7qrERVYASf2UJDC7YXCf"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/1FkfL7jiYEXdgFT7Pvbe24"
+      },
+      "artists": [
+        {
+          "name": "Maria Mangasson",
+          "url": "https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5AIPXMGHSrZ2qgQYTgro25"
     },
     {
       "album": {
@@ -7360,7 +7540,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 110624,
       "name": "Sov du lilla videung",
       "url": "https://open.spotify.com/track/5VlwYfYylw2SmfCwYREh7C"
@@ -7522,7 +7702,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 101891,
       "name": "Sue Lucy",
       "url": "https://open.spotify.com/track/39NkPICNYL2GzlhabVH5FD"
@@ -7576,7 +7756,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 81886,
       "name": "Sweetie Pie",
       "url": "https://open.spotify.com/track/537A1wjNWU29GlgsATltkv"

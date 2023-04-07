@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-131 songs - 8 hr 12 min
+132 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Down About It](https://open.spotify.com/track/2p2FhZgzt7XVWcG14hvzte) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Anthology](https://open.spotify.com/album/7caIHqOdEIG5iaxjdRHoD9) | 3:28 | 2021-11-25 | 2022-04-29 |
 | [Eiffel Tower](https://open.spotify.com/track/4CdAL878c5nQDM3htsy96Y) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Eiffel Tower](https://open.spotify.com/album/4l3pEOsxVk3IgxuyRG3Io2) | 3:24 | 2022-10-28 | 2022-12-24 |
 | [El Poder](https://open.spotify.com/track/7fVqTkbZBkLsgJJ5srFbAy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Poder](https://open.spotify.com/album/5PKSiSTU30fvmR40S2bFdc) | 4:28 | 2021-11-25 | 2022-02-26 |
+| [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 | 2023-04-06 |  |
 | [Every Day \(feat\. Romain Virgo & Fiji\)](https://open.spotify.com/track/2TDczXsQh4YjEo31TJtrN9) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Every Day \(feat\. Romain Virgo & Fiji\)](https://open.spotify.com/album/4O1zvZcR8dmqi5tub1lhBg) | 3:51 | 2022-03-03 |  |
 | [Fly High](https://open.spotify.com/track/1A0GQQTh59wxrM5OT4Dw0o) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Fly High](https://open.spotify.com/album/2P2mEfHVA713lsDSIs1Qkf) | 3:10 | 2021-11-25 | 2022-02-26 |
 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 | 2022-07-07 |  |
@@ -119,7 +120,7 @@
 | [Stop Wasting Your Time](https://open.spotify.com/track/745MTjgcgqURpWnssRnN63) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Real Talk Riddim](https://open.spotify.com/album/3Ngnobh1RfVn9RUJR92GZ1) | 3:18 | 2021-11-25 | 2022-04-29 |
 | [Stronger in Love](https://open.spotify.com/track/2UgSjzu38lH37a5mgAM4sW) | [Hezron](https://open.spotify.com/artist/6k16Fx8k6ufNKfrquPctFZ) | [Stronger in Love](https://open.spotify.com/album/33Tb0s2j1dBjzEr9xAfISU) | 3:53 | 2021-11-25 | 2022-04-29 |
 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 | 2021-11-25 |  |
-| [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-11-25 |  |
+| [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 | 2021-11-25 | 2023-04-07 |
 | [That's Life](https://open.spotify.com/track/6zj0UbuOOigThu9Wmt99ox) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [That's Life](https://open.spotify.com/album/3vfu6Fg7uXZdfEEV2uDOgt) | 3:24 | 2022-05-26 |  |
 | [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-07 | 2022-10-13 |
 | [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 | 2022-09-15 | 2023-02-01 |

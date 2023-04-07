@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Icona Pop
 
-979 songs - 2 day 9 hr 57 min
+980 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Jump Around](https://open.spotify.com/track/63fQTOIVo5EMZauf2QAH5W) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Jump Around](https://open.spotify.com/album/5Z95AOwQ0sR9xIMkmhqbzJ) | 2:28 | 2021-11-26 | 2022-05-14 |
 | [Jungle](https://open.spotify.com/track/7qUKunNI8Gvfn6uM2EOhLE) | [Rob Black](https://open.spotify.com/artist/6mVOQan1tOCXwFuyrAffOK) | [Jungle](https://open.spotify.com/album/26jD9l49XNSn8rBbpDuOsT) | 2:55 | 2021-11-26 | 2022-06-04 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-11-26 | 2022-01-06 |
-| [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 |  |
+| [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 | 2023-04-07 |
 | [Kebali](https://open.spotify.com/track/7jBXtUxifBXcBZmK1hV0ap) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Sunnery James & Ryan Marciano present: The Tribe Vol\. Three](https://open.spotify.com/album/2VYiuRSAWChwOTf8R8kzDp) | 3:36 | 2021-12-10 | 2022-04-23 |
 | [Keep An Eye](https://open.spotify.com/track/1eeMkl1riLTme891ShjpiI) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Keep An Eye](https://open.spotify.com/album/3bkvIPn6rp9fmoHJpiAkOs) | 4:05 | 2022-05-13 | 2022-06-11 |
 | [Keep It Goin](https://open.spotify.com/track/3LvKz6clKRSGm2hfLOVixK) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Your Soul EP](https://open.spotify.com/album/7sTirjHMUMYwWivQKkEQWT) | 4:22 | 2022-04-08 | 2022-06-11 |
@@ -525,6 +525,7 @@
 | [MAS GASOLINA \(feat\. N.F.I\) \- Raffa FL Remix](https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [MAS GASOLINA \(feat\. N.F.I\) \[Raffa FL Remix\]](https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn) | 3:15 | 2022-12-02 | 2023-01-28 |
 | [McLovin'](https://open.spotify.com/track/7uKBKhDGqorZnJQ7ndOGAC) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [McLovin'](https://open.spotify.com/album/0sK58wVLcBq71zNIVvm1oA) | 6:33 | 2022-12-28 | 2023-01-06 |
 | [Mellow](https://open.spotify.com/track/08nUANoS6gD0dQdJCCV3sO) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Mellow](https://open.spotify.com/album/6zWlmXKZdAOevmeC1tMSwq) | 2:36 | 2021-11-26 | 2022-01-06 |
+| [Memories](https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Memories](https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO) | 7:17 | 2023-03-24 |  |
 | [Mercy Me](https://open.spotify.com/track/6hVpBh8UqWxiMUl3adfwz5) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Mercy Me](https://open.spotify.com/album/74wpv2Iwfvtnf5lZtUM3PB) | 7:33 | 2022-04-15 | 2022-05-07 |
 | [Metaphysical \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/1iD9Iftc9ptjqycUNTxCQw) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Metaphysical \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7MRab4I8gcv1RLVpNJ4B4c) | 3:12 | 2022-10-07 |  |
 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-11-26 | 2022-01-06 |

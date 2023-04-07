@@ -2,7 +2,7 @@
 
 ### [00s Metal Classics](https://open.spotify.com/playlist/37i9dQZF1DWXNFSTtym834)
 
-> The biggest metal songs of the 2000s\. Cover: System Of A Down
+> The biggest metal songs of the 2000s\. Cover: Slipknot
 
 253 songs - 18 hr 30 min
 

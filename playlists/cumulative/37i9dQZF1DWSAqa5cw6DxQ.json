@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Dock Of A Bay",
+        "url": "https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j"
+      },
+      "artists": [
+        {
+          "name": "Jo Quinn",
+          "url": "https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Dock Of A Bay",
+      "url": "https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq"
+    },
+    {
+      "album": {
         "name": "Dream Dependence",
         "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
@@ -636,6 +654,24 @@
       "duration_ms": 168005,
       "name": "Emersion",
       "url": "https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK"
+    },
+    {
+      "album": {
+        "name": "En Stilla Plats",
+        "url": "https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9"
+      },
+      "artists": [
+        {
+          "name": "Alva Abrahamson",
+          "url": "https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179850,
+      "name": "En Stilla Plats",
+      "url": "https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c"
     },
     {
       "album": {
@@ -2353,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Way Of Life",
+        "url": "https://open.spotify.com/album/7loccJFmLOoynAmTy4Ltr4"
+      },
+      "artists": [
+        {
+          "name": "Sierra Rubio",
+          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157281,
+      "name": "Way Of Life",
+      "url": "https://open.spotify.com/track/08dGh7Xg9ipUo1o7tLIvl8"
+    },
+    {
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/6rfPi75eYBbCaiHCIAIW7U"
       },
@@ -2386,6 +2440,24 @@
       "duration_ms": 182924,
       "name": "Whisper in the wind",
       "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"
+    },
+    {
+      "album": {
+        "name": "You\u00b4re All I Need",
+        "url": "https://open.spotify.com/album/43Hsx3jgETYWnsv7qg1xvy"
+      },
+      "artists": [
+        {
+          "name": "Amat Leony",
+          "url": "https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160458,
+      "name": "You\u00b4re All I Need",
+      "url": "https://open.spotify.com/track/0hSiaMpXMWhtgNXu3bpIIi"
     },
     {
       "album": {

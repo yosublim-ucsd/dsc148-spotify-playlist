@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: City and Colour
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,231 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,218 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Need](https://open.spotify.com/track/2cxwORsC2k12NbxSSJtkhz) | [JORY](https://open.spotify.com/artist/74jfUksTKVGfCZ2DgmPSMI) | [Need](https://open.spotify.com/album/5f25lxgPBA1hfOGSWJuwMH) | 3:07 |
 | 100 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGI0Y2FiMTg1YmQ5YjZlYTU3MDA3ZGM4NzZmYTliODg5`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDZkZTYxNDk3ZThlYTAxZGRjZDk3ZmRhZDNmMjYzYTkz`

@@ -14250,6 +14250,36 @@
     {
       "album": {
         "name": "DAYDATE",
+        "url": "https://open.spotify.com/album/4dgiWRz4RgvNFJ8PCpJjkQ"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221274,
+      "name": "Rap lesson (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/2QWU8rRz8Nxt6CCyGQXBfr"
+    },
+    {
+      "album": {
+        "name": "DAYDATE",
         "url": "https://open.spotify.com/album/5scUC8BiBxD3q9esdniSPf"
       },
       "artists": [
@@ -14272,7 +14302,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 221274,
       "name": "Rap lesson (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/7gRDwMp8UzP29mXr2HDuwa"
@@ -15094,6 +15124,24 @@
       "duration_ms": 124120,
       "name": "RUNNIN THIS CITY (feat. Leellamarz)",
       "url": "https://open.spotify.com/track/2sxhwxVkb5EsZzeNfkpgH0"
+    },
+    {
+      "album": {
+        "name": "Save me",
+        "url": "https://open.spotify.com/album/5FsoX7fLiz8Nn1r7riC0Zl"
+      },
+      "artists": [
+        {
+          "name": "Fana",
+          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165355,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/540dyWKcC3fJPkmOKm98rl"
     },
     {
       "album": {

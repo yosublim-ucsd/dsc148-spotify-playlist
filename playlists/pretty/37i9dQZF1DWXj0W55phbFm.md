@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,135 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,182 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 81 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 |
 | 82 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 |
 | 83 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 |
-| 84 | [Aneba](https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL) | [Kenny Wheeler](https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs), [John Taylor](https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [One Of Many](https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q) | 5:59 |
+| 84 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
 | 85 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
-| 86 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
+| 86 | [Aneba](https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL) | [Kenny Wheeler](https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs), [John Taylor](https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [One Of Many](https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q) | 5:59 |
 | 87 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
 | 88 | [Drumette](https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9) | [Pete Candoli](https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7) | [From The Top \(Digitally Remastered\)](https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ) | 3:44 |
-| 89 | [I'll Remember April](https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 8:34 |
-| 90 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
-| 91 | [Loneliness](https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ) | [John Carter](https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT), [Bobby Bradford](https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl) | [Self Determination Music](https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K) | 9:10 |
+| 89 | [Loneliness](https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ) | [John Carter](https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT), [Bobby Bradford](https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl) | [Self Determination Music](https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K) | 9:10 |
+| 90 | [I'll Remember April](https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 8:34 |
+| 91 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
 | 92 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |
 | 93 | [You're My Everything](https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA) | 6:30 |
 | 94 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Blowin up Breeze](https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu) | [Hot Lips Page](https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz) | [Hot Lips Page: Feelin' High & Happy](https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78) | 2:43 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MTY3OTU3MjU0NSwwMDAwMDAwMDU3NTYyNTY1OTI2ZDdmYjllZDNhM2FlY2IwN2EyZGM0`
+Snapshot ID: `MTY3OTU3MjU0NSwwMDAwMDAwMGE0YWI2YzViNGNlZmIzZjU0YzA2ZDc0ZDM1NWI3ZGRl`

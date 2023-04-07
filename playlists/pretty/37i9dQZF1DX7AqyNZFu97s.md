@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: UNIVERSITY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,587 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,586 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [confessions](https://open.spotify.com/track/2p0jJSHRku5Y6OJwmyoUIy) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [confessions](https://open.spotify.com/album/58i5yD9lydmJvWk34WtUm5) | 2:10 |
 | 80 | [Stitch It Up](https://open.spotify.com/track/5FAIwHzilOd0XPOOoXqC1W) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Stitch It Up](https://open.spotify.com/album/1qP0dba6aH2l8bgPlAUXQw) | 4:09 |
 
-Snapshot ID: `MTY4MDY5MjI2NCwwMDAwMDAwMDkwYjIyZmIwZGZjODYzMjA3MDFkMWNiOWViYjM5ZDc2`
+Snapshot ID: `MTY4MDY5MjI2NCwwMDAwMDAwMGFiZTc4YjhjMzlhNGQ2OWYxM2NmYWIwMWMxNTlhMmFk`

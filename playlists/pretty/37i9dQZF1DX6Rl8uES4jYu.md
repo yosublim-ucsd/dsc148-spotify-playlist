@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,322 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,314 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [First Avenue](https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Power Station](https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy) | 3:38 |
 | 100 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGVhYzdhYmQ5OTRhODRmOTRkN2VjMWViYjMxNjVmYjNl`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGNmYzU0NDA3ZTA4ZmQwMzc1OTkzM2QwN2FlYjBmNmZm`

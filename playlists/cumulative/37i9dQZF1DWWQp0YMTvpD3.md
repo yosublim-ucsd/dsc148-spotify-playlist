@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-323 songs - 16 hr 16 min
+324 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2022-02-12 |  |
 | [Get Some](https://open.spotify.com/track/6XCmzgE6hueMNCeq7EEAgh) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Get Some](https://open.spotify.com/album/51oJ57HrL19pMlpZahQlSU) | 3:08 | 2022-10-07 |  |
 | [Glazed Runways](https://open.spotify.com/track/5KN2qYlFxKQW7o8vgUa59a) | [SloSk8](https://open.spotify.com/artist/4Pau1QfPqFXRYlqC0AAhor) | [Glazed Runways](https://open.spotify.com/album/2dJt1xcISgFrn6yllqvxmK) | 3:09 | 2022-11-25 |  |
+| [Glitter](https://open.spotify.com/track/6rwt2eHNCTkN7Qf8glvwKW) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Glitter](https://open.spotify.com/album/5H68CtVXVMBMiifT3Px875) | 3:04 | 2023-04-07 |  |
 | [go back to sleep](https://open.spotify.com/track/10iVkC7JmOcnde215g7Xn1) | [pretend penguin](https://open.spotify.com/artist/0d3VJgvWH9XP3S57lQP8p8) | [go back to sleep](https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e) | 2:11 | 2021-10-12 | 2022-02-12 |
 | [Gold Coast](https://open.spotify.com/track/5XVEEfGmtPbUNUgtZhplx7) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Gold Coast](https://open.spotify.com/album/6mGgCQtLcHNKmZmjFewPMg) | 2:09 | 2022-10-07 |  |
 | [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 | 2022-12-09 |  |

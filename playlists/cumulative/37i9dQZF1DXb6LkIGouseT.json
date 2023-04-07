@@ -540,10 +540,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 305506,
       "name": "Ephemera",
       "url": "https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305506,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/7lbxttV803xY98kWdv4NRV"
     },
     {
       "album": {
@@ -754,10 +772,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 283910,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/01nlOO3lmi4nHsNy0inZec"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283910,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/7K0hKmulQKh9I6x8jnX7vS"
     },
     {
       "album": {

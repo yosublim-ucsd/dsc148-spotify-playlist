@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,473 likes - 101 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,479 likes - 101 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 100 | [My Best Western](https://open.spotify.com/track/6fKhdMy7iJhOQPDVgzGcqh) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/37nVbLsncw7oAuUPtkwObQ) | 3:15 |
 | 101 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGU2ZjAzNzQ4OTc0N2I0ZjU3NWNmMzFhYTYwYTc1Nzg1`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGZiMTgwNTBhNTMwMTQyZDNhNTljNDUzMmI1N2QwZjE3`

@@ -734,6 +734,24 @@
     {
       "album": {
         "name": "Redbone",
+        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102176,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
+    },
+    {
+      "album": {
+        "name": "Redbone",
         "url": "https://open.spotify.com/album/6lwBWMoBmU8rWn0433yyjT"
       },
       "artists": [
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 151578,
       "name": "\u30b9\u30e2\u30fc\u30af",
       "url": "https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00"

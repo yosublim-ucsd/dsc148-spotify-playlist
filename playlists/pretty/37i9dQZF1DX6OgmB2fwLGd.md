@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,251 likes - 102 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,222 likes - 102 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 101 | [Carrollton](https://open.spotify.com/track/2XSrt1dcuOXPgl3B4bxmBz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 3:23 |
 | 102 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 |
 
-Snapshot ID: `MTY4MDUyNjQ1MCwwMDAwMDAwMGRkYTQxODMyYjEyYmE1MWNlMDE5ZGRlNGEwYTc2NGIz`
+Snapshot ID: `MTY4MDUyNjQ1MCwwMDAwMDAwMDkwODM5NTA3NTg2NDE4YTU2MWI2M2QwYWQyMjI2YTY3`

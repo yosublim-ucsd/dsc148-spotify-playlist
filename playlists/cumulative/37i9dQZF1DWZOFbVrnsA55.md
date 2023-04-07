@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-341 songs - 5 day 6 hr 9 min
+342 songs - 5 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [dlp 1.1](https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 1:03:35 | 2022-05-25 |  |
 | [Do While](https://open.spotify.com/track/0Ce9hfvldAnHBD4wN8JrVk) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 24:04 | 2022-05-25 |  |
 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 | 2022-05-25 |  |
-| [Dreams of Stairs](https://open.spotify.com/track/54UlajCtx2b9CDwv7rSGKy) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Faint](https://open.spotify.com/album/08Zl1xtOY1o8oJsi10pxiI) | 11:13 | 2022-05-25 |  |
+| [Dreams of Stairs](https://open.spotify.com/track/3zTycFuuxnCb3CqojqNxk8) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Faint](https://open.spotify.com/album/1uhtMlkMqobRQupNTkAI5k) | 11:13 | 2023-01-27 |  |
+| [Dreams of Stairs](https://open.spotify.com/track/54UlajCtx2b9CDwv7rSGKy) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Faint](https://open.spotify.com/album/08Zl1xtOY1o8oJsi10pxiI) | 11:13 | 2022-05-25 | 2023-04-07 |
 | [Drown In Love](https://open.spotify.com/track/32WwBZyWHhHR0JoWZBisXH) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [A Quiet Awakening](https://open.spotify.com/album/1NyYCBXtf329kRSgS1NMEe) | 11:15 | 2022-05-25 |  |
 | [DSB\-A](https://open.spotify.com/track/25huOuXaV3WZ0oRnylEwuS) | [Francisco López](https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes) | [DSB](https://open.spotify.com/album/6ZYS7GpWaKjtFWJMiBHFXN) | 23:53 | 2022-05-25 |  |
 | [E Scapes](https://open.spotify.com/track/2YrfRXm7nSuXHXfHYnwwmV) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/6bmhv6caMBm5UjXjknt11t) | 20:46 | 2022-05-25 | 2022-07-29 |

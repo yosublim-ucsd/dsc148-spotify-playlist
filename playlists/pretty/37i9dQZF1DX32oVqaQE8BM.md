@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,429 likes - 256 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,480 likes - 256 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 8 | [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 |
 | 9 | [Underground Sound](https://open.spotify.com/track/6qmAVLvlEvJdXtyEmHZ37M) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Underground Sound](https://open.spotify.com/album/4em4imooU76fZnibhNhuB8) | 2:17 |
 | 10 | [Under The Stars](https://open.spotify.com/track/7JaX10rbsmPiwJANAjAouR) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Under The Stars](https://open.spotify.com/album/7ivCdZwxSn6gvMPPajMOlO) | 1:55 |
-| 11 | [Mood Swings](https://open.spotify.com/track/6XvSncrNnxoRZSmUaPU3Gv) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Mood Swings](https://open.spotify.com/album/2BYszs7gtu78XTXlaxVhsi) | 1:38 |
-| 12 | [Dreamscapes](https://open.spotify.com/track/0lH7Pb1Tneet6TAzIAFHZq) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Dreamscapes](https://open.spotify.com/album/2odLQ4nP5FWjyH7jpHsKVh) | 3:08 |
-| 13 | [down in delhi](https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [down in delhi](https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz) | 2:12 |
-| 14 | [feeling lost](https://open.spotify.com/track/01S0OY60f8Stt1HH1RLPQz) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [feeling lost](https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN) | 2:18 |
-| 15 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 |
-| 16 | [Swimma](https://open.spotify.com/track/5b5keQTPfxtm8F3OZ47ck2) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Swimma](https://open.spotify.com/album/7cX31Tag9Fn9OBSrd8cLIG) | 2:23 |
+| 11 | [Late Silence](https://open.spotify.com/track/02mMoE8BlPky0H1Jfc76Yx) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Late Silence](https://open.spotify.com/album/28hZHjWMDcFbTzsAJBHuXg) | 3:02 |
+| 12 | [Mood Swings](https://open.spotify.com/track/6XvSncrNnxoRZSmUaPU3Gv) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Mood Swings](https://open.spotify.com/album/2BYszs7gtu78XTXlaxVhsi) | 1:38 |
+| 13 | [Dreamscapes](https://open.spotify.com/track/0lH7Pb1Tneet6TAzIAFHZq) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Dreamscapes](https://open.spotify.com/album/2odLQ4nP5FWjyH7jpHsKVh) | 3:08 |
+| 14 | [down in delhi](https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [down in delhi](https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz) | 2:12 |
+| 15 | [feeling lost](https://open.spotify.com/track/01S0OY60f8Stt1HH1RLPQz) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [feeling lost](https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN) | 2:18 |
+| 16 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 |
 | 17 | [Moist](https://open.spotify.com/track/5tksNcpfwHBDXo3xufof0P) | [Blacc Keys](https://open.spotify.com/artist/50GnA7N9EkfJ3PivwXwa8m) | [Moist](https://open.spotify.com/album/4Mn79gFmJ3SEx50s4esIDu) | 2:08 |
 | 18 | [Sadness in your eyes](https://open.spotify.com/track/5SONQFGFvhmjpfP2O2QEmO) | [vort vort](https://open.spotify.com/artist/46mWoMwui62bv2s52HiSO8) | [Lo\-Fi Mystery](https://open.spotify.com/album/0OjDjwweT8a6TxBli4lXjR) | 1:57 |
 | 19 | [Iampredotto don](https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [Iampredotto don](https://open.spotify.com/album/1NDMmgKNdAaPQp7dETbSaK) | 2:30 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 255 | [Spring](https://open.spotify.com/track/62aTQ3i94Ho3xlB3sQzouy) | [The Hooder](https://open.spotify.com/artist/2GwSswDcepZ97m3Oa3onEI) | [Spring](https://open.spotify.com/album/7EWq0eegyBShBKHtAgFBak) | 2:43 |
 | 256 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 |
 
-Snapshot ID: `MTY4MDIyMDg2MCwwMDAwMDAwMDcwMDRjMmZiMGMyMTNhMzk4YzFmZGY5OTMzMmUxNjBl`
+Snapshot ID: `MTY4MDc4Njg5MSwwMDAwMDAwMDQ2MzViMDFlOTNjNzVjNzM5Njk1ZTE3MDQ3MjcwZDM2`

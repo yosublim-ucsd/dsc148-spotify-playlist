@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Taylar Elizza Beth
 
-482 songs - 22 hr 32 min
+483 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,8 @@
 | [Waltz of Broken Flesh](https://open.spotify.com/track/65WEAfVuMTzLz7v02Fqwf5) | [Don Grey](https://open.spotify.com/artist/1YiKDQCVj79AZeBjenStlP) | [Waltz of Broken Flesh](https://open.spotify.com/album/7FosXiT28FKxHjZtz4Azin) | 2:41 | 2022-07-18 | 2022-09-10 |
 | [Way Up](https://open.spotify.com/track/0mBg7Q5CuXxN7qyWOWm7f2) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY) | [Way Up](https://open.spotify.com/album/4iIqih6YskJgZYOyG2zuHO) | 2:42 | 2022-07-18 | 2022-08-16 |
 | [Ways 1.17](https://open.spotify.com/track/7p763yf3fXLXIhay1zyXYq) | [JVVMN](https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje), [Talaya.](https://open.spotify.com/artist/5NLhWCjcejwt2TJa2lfxXG) | [Ways 1.17](https://open.spotify.com/album/6YAMbz2hGTXhb48LPh3lgG) | 2:17 | 2023-01-31 |  |
-| [WESTON.](https://open.spotify.com/track/1kpgBwXSZMbTc406Ku5eaB) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [outofrealestate](https://open.spotify.com/album/41ZYaQmQOzw70CBQxk5BNK) | 2:28 | 2023-01-31 |  |
+| [WESTON.](https://open.spotify.com/track/1kpgBwXSZMbTc406Ku5eaB) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [outofrealestate](https://open.spotify.com/album/41ZYaQmQOzw70CBQxk5BNK) | 2:28 | 2023-01-31 | 2023-04-07 |
+| [WESTON.](https://open.spotify.com/track/4NyTZhgBasQd5muoNHhCMX) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn) | [outofrealestate](https://open.spotify.com/album/36PozQQ2StuMhfGpcU4x3C) | 2:28 | 2023-01-31 |  |
 | [What if it's love?](https://open.spotify.com/track/5eopp7cC4S4Ttqm8GysrL9) | [B\. DeVeaux](https://open.spotify.com/artist/0c8n4HPstWLOJ8JzjrInOq) | [What if it's love?](https://open.spotify.com/album/3O8USf6yTKIVJWoTHFgVby) | 5:00 | 2023-02-14 |  |
 | [What It Do](https://open.spotify.com/track/70SPaHty8pOp8wqJumA3Xl) | [Lil Boof](https://open.spotify.com/artist/5F0TXqGLk4v8EAe0TZq0XC) | [What It Do](https://open.spotify.com/album/3haXXbUQQmUAFr8XgbX5CV) | 1:41 | 2023-01-13 | 2023-02-15 |
 | [What's Understood](https://open.spotify.com/track/6M6wWdcA0eJGzcsfwWjgJV) | [Mal London](https://open.spotify.com/artist/3fDtug6dI80VyEWO3vcT0U) | [Strictly off the Feeling...](https://open.spotify.com/album/0k9fxZPAIcOoKfBECTQV2L) | 2:24 | 2022-08-19 | 2022-10-26 |

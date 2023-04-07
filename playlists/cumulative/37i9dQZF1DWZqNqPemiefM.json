@@ -946,7 +946,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 239743,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 473106,
       "name": "kokyu",
       "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
@@ -4171,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "minamo",
+        "url": "https://open.spotify.com/album/3tC4jQiF2Lga3NFX8YonKf"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "minamo",
+      "url": "https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx"
+    },
+    {
+      "album": {
         "name": "Private Cottage",
         "url": "https://open.spotify.com/album/2bd9568r3VT7Cfs2GggfbF"
       },
@@ -4258,6 +4276,24 @@
       "duration_ms": 118973,
       "name": "Moby Dick (Revisited)",
       "url": "https://open.spotify.com/track/5R1Jc11XDr3aMBCaXuzovh"
+    },
+    {
+      "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502364,
+      "name": "Monotony",
+      "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
     },
     {
       "album": {

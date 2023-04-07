@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-332 songs - 1 day 6 hr 54 min
+333 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All Alone](https://open.spotify.com/track/6TAW00MAPvS59yEoIgtOEI) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [All Alone](https://open.spotify.com/album/0GpkwiJKo7ogyjHGML8iay) | 5:10 | 2020-05-02\* | 2021-03-24 |
 | [All I Need](https://open.spotify.com/track/7I63rA0w2lgv2iMaS7NRjY) | [Stéphane Kerecki Quartet](https://open.spotify.com/artist/20yiwcmp47i1fBanhJiVoy) | [French Touch](https://open.spotify.com/album/6x2XYBB5ROShuFabWJBMmn) | 7:12 | 2020-05-02\* | 2021-07-30 |
 | [All the Things You Are](https://open.spotify.com/track/3TSdkwPeUfvgLwNTF8gfC0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Another Day \(Remastered Anniversary Edition\)](https://open.spotify.com/album/2j5Cb61i6HgSUQlwSj7y8a) | 6:10 | 2020-05-02\* | 2021-08-20 |
+| [All the Things You Are](https://open.spotify.com/track/2BgxwHGlY8aPhiGurdkuON) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [All the Things You Are](https://open.spotify.com/album/1vgiVIGoquD7w4ttvRM7L5) | 5:24 | 2023-03-28 |  |
 | [All the Things You Are \(feat\. Mark Turner\)](https://open.spotify.com/track/1sj18gBQAKZ8onvZx0awSw) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP) | [All the Things You Are \(feat\. Mark Turner\)](https://open.spotify.com/album/1JYmZVumPmo72c3sZFwmCP) | 5:44 | 2022-04-14 | 2022-06-09 |
 | [Amanecer](https://open.spotify.com/track/1j2D6VkPq7j7zitnxm2gt1) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [El Camino de los Vientos](https://open.spotify.com/album/4j9GcZi0kQHgDsFXDLJIF1) | 6:32 | 2022-07-21 |  |
 | [Amanecer](https://open.spotify.com/track/7z6F8O9kR3n3g7zyc1wiAO) | [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc), [Steve Shehan](https://open.spotify.com/artist/05PlAw7yiRsiMr17yJpTCi) | [Amanecer](https://open.spotify.com/album/6vrgvSFiOv12tsg3JslQ05) | 6:32 | 2020-05-06 | 2022-07-29 |
@@ -83,7 +84,7 @@
 | [Cool Out](https://open.spotify.com/track/489alJQIWUauqzKTMuXRjm) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6d7pfxv2QlODnSChi8BJiq) | 2:59 | 2020-05-02\* | 2020-05-15 |
 | [Corcovado \- Quiet Nights Of Quiet Stars](https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Classics International Version\)](https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV) | 4:13 | 2020-06-12 | 2021-08-19 |
 | [Countryside](https://open.spotify.com/track/21NDbFQtyP8gFj8OPNsMgg) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Countryside](https://open.spotify.com/album/5PbXRiCAcxEpflaXGZfILU) | 3:52 | 2022-03-31 | 2022-09-04 |
-| [Countryside](https://open.spotify.com/track/7BSZWjrdKUCRLXQ8svY9SZ) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 3:52 | 2022-09-08 |  |
+| [Countryside](https://open.spotify.com/track/7BSZWjrdKUCRLXQ8svY9SZ) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 3:52 | 2022-09-08 | 2023-04-07 |
 | [Cry Me A River](https://open.spotify.com/track/7rcfs2bBj5mNyiJbBIQ7cc) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk) | 2:54 | 2020-10-27 | 2021-09-15 |
 | [Crystal Silence](https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 6:55 | 2020-05-02\* | 2022-01-25 |
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2020-05-02\* | 2022-07-21 |

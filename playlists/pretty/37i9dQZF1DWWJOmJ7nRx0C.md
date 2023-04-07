@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,671 likes - 156 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,893 likes - 156 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 155 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
 | 156 | [The Optimist](https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Optimist](https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9) | 2:58 |
 
-Snapshot ID: `MTY4MDI0MDc1MywwMDAwMDAwMDVmNmEzMmIxYjNmM2Y5MzcwYzc5ODYwZjk0MmI4NWJi`
+Snapshot ID: `MTY4MDI0MDc1MywwMDAwMDAwMDQ4OTIwN2ZmMTk1MmMzMGYwMTJkMWIzNzYzODg1OTEx`

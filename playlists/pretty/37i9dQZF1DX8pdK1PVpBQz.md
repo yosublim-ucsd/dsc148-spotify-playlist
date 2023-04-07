@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Hanbee\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,371 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,383 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [I Want To Love You \(Rock Ballad\)](https://open.spotify.com/track/5tLKBGrdi8WR2QRQ4SWp3y) | [Hannah Blackburn](https://open.spotify.com/artist/76N4RBCCcxnKzPkSee7N5J) | [I Want To Love You \(Rock Ballad\)](https://open.spotify.com/album/6LTuYSFTPDyTkfdVpNujiI) | 3:37 |
 | 100 | [Far House](https://open.spotify.com/track/48wpCYzfAqf3JoncGvkfw1) | [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [Far House](https://open.spotify.com/album/2L86gBI9B19LBSCE4653vE) | 2:59 |
 
-Snapshot ID: `MTY4MDYxNjgwMCwwMDAwMDAwMDlmOTNkMTMyNmQ1ZTk4NDYzN2M1YzUzNjhlNjRlMDAz`
+Snapshot ID: `MTY4MDYxNjgwMCwwMDAwMDAwMDU1NzcxZWE3Y2IyMWJlZjRhOTllMDI5YTg3OTk2MDgy`

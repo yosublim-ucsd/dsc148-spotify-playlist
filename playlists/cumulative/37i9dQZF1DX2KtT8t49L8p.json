@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Binaural Resonance",
+        "url": "https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184185,
+      "name": "Theta Resonance 8 Hz",
+      "url": "https://open.spotify.com/track/5g0JKL5yZQyKnUvksxZnpz"
+    },
+    {
+      "album": {
         "name": "Binaural Theta Waves",
         "url": "https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy"
       },

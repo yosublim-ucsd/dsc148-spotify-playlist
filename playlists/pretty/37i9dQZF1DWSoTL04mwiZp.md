@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 58 | [Lullaby For Wyatt](https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/245704RhuUXj2ty55RKoJh) | 4:07 |
 | 59 | [That's How Strong My Love Is](https://open.spotify.com/track/5BUanshsri15aT9FCHOY6t) | [The Sweet Inspirations](https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl) | [What The World Needs Now](https://open.spotify.com/album/07XkbaAYNsHEU1dFMrbn3t) | 2:15 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDRhNzg5NzU0NzljYWM2Mjg4NzM5MWQ4YTUzMTNhMWY0`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMGIyOTY1OGUxMmFmYzg5YWJlNzRmMGM2MzRkMjI2MGFh`

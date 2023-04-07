@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,383 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,429 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 45 | [LQRA Session \#8](https://open.spotify.com/track/1Z65FyDTWd2DAi5ZcowZ52) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LQRA Session \#8](https://open.spotify.com/album/5Z592gYrUeJwm50Z3UDY79) | 2:32 |
 | 46 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 47 | [Disciplina](https://open.spotify.com/track/7kL7d77orEOY6oZZMSjk0J) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Ambición y Disciplina](https://open.spotify.com/album/6byABFFo15jmymFmdBR8zb) | 3:32 |
-| 48 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 |
+| 48 | [Caos](https://open.spotify.com/track/1aFTMdBgBx9uYeE8Kf0aC4) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/0WwbpuXVItyWA8l2Km6MBZ) | 2:02 |
 | 49 | [A 120](https://open.spotify.com/track/6hIaPSI8jiEMcSNBg5UDvO) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [A 120](https://open.spotify.com/album/0sovDa8vIqn8cuDESN7G30) | 3:08 |
 | 50 | [BANDIDO](https://open.spotify.com/track/4ajS3CFOSAY9zdSZkrCWAK) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [BANDIDO](https://open.spotify.com/album/7BGAwJQpGkpLD9AXSYFGSn) | 3:18 |
 | 51 | [Rubíes Rubios Vol\. 02](https://open.spotify.com/track/36csr9jNjoqz53hwAvTCVZ) | [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [Rubíes Rubios Vol\. 02](https://open.spotify.com/album/7s1QehRZl7zWNKl5J84fcv) | 1:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 100 | [Avengers en el Juego](https://open.spotify.com/track/5Igbr0gEDnBxALPNCAL2ZE) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Avengers en el Juego](https://open.spotify.com/album/4YPlAH4YDCHwiYfIzRFxvX) | 4:33 |
 
-Snapshot ID: `MTY4MDE4MjY5MiwwMDAwMDAwMGM4NjExMzllNGMzNTM2ZWNjMGRjNDk5Zjk0OWViYmUy`
+Snapshot ID: `MTY4MDE4MjY5MiwwMDAwMDAwMGQzYTE5ZGU5MDQyYmM4ZGJkYTZhMTQ1MmZhZGZmYTQ1`

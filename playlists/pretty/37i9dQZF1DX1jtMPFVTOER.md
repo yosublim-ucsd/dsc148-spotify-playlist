@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Kay Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,235 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,333 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Wish You Well \(Remix\)](https://open.spotify.com/track/567xp1AburiUaug9wNgSB6) | [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Floco Torres](https://open.spotify.com/artist/3pP7W1MNjStGyikY4aN6ov) | [Wish You Well \(Remix\)](https://open.spotify.com/album/0l7WEfNCk44WT7byzWcjU2) | 2:46 |
 | 100 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGJkMTk4ZmQ1MTY0NGFiMDg4ZWMwNWE1ZjllZmI2OTJh`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGNhNTQxOWQ1NDY5ZTg3ZmU1NDYyMTk4NThkZTQ0ZDkz`

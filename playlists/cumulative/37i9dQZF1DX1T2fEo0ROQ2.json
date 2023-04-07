@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Kamala Whispers",
+        "url": "https://open.spotify.com/album/2uhijpoPHyuCYoQ7blYqqR"
+      },
+      "artists": [
+        {
+          "name": "Gerda Holmes",
+          "url": "https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138141,
+      "name": "Kamala Whispers",
+      "url": "https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v"
+    },
+    {
+      "album": {
         "name": "Kulning",
         "url": "https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw"
       },
@@ -5726,6 +5744,24 @@
       "duration_ms": 162000,
       "name": "Sotto Voce",
       "url": "https://open.spotify.com/track/3dv8YMh744oqhm2NJomPO3"
+    },
+    {
+      "album": {
+        "name": "Soundbed",
+        "url": "https://open.spotify.com/album/4SE64tp5RcP3DDDRVRYwNd"
+      },
+      "artists": [
+        {
+          "name": "Spring Euphemia",
+          "url": "https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205070,
+      "name": "Soundbed",
+      "url": "https://open.spotify.com/track/5A0kxibkbR8Wzgv07eyGtu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=MpB7fQOiQemHUhrZZlEuBA"> Stonebwoy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,290 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,318 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 |
 | 80 | [How It Feels](https://open.spotify.com/track/6FHrYFvLQF44jPGnCbY5kS) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [How It Feels](https://open.spotify.com/album/1KhzP6Qgliwr7oNZ4nBSUg) | 3:36 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDI5ODdiMTg2NjdkZGJjNDMxOTg3Nzg0YmE0NDNhMGZh`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDdmNzQ2NTlhY2Y2Yjg2ZTE1N2VjNzU4NzNiNDc3ODFk`

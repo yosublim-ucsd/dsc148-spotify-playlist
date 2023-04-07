@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 286093,
       "name": "'k Heb Je Lief",
       "url": "https://open.spotify.com/track/2ydITGJdX7BlxYkGTw8yhG"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 212426,
       "name": "Ik heb je vergeven",
       "url": "https://open.spotify.com/track/5eGNTkEgie3bPoQpuw07PE"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 228146,
       "name": "Ik zou iets willen zeggen",
       "url": "https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ"
@@ -1048,6 +1048,24 @@
       "duration_ms": 183345,
       "name": "Laat Mij In Die Waan - In De Basis",
       "url": "https://open.spotify.com/track/26mA2v7PUMenye7GiIZ9jo"
+    },
+    {
+      "album": {
+        "name": "Lente '22",
+        "url": "https://open.spotify.com/album/2wcWvAKYo3psSLnnMy78zi"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275084,
+      "name": "Lente '22",
+      "url": "https://open.spotify.com/track/2XIp445YfKTy3VuHBpMkaj"
     },
     {
       "album": {
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 179000,
       "name": "Mooi Liedje",
       "url": "https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z"
@@ -1318,10 +1336,32 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 242493,
       "name": "Niet Of Nooit Geweest",
       "url": "https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc"
+    },
+    {
+      "album": {
+        "name": "Nooit meer van God los",
+        "url": "https://open.spotify.com/album/3jKnaMHuS5aXneVwSnLarK"
+      },
+      "artists": [
+        {
+          "name": "Hans De Booij",
+          "url": "https://open.spotify.com/artist/7cdRThov7spzODFHbygauO"
+        },
+        {
+          "name": "Jacco Wynia",
+          "url": "https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186566,
+      "name": "Nooit meer van God los",
+      "url": "https://open.spotify.com/track/7wJsXhYmhctZfCYqV4ape3"
     },
     {
       "album": {
@@ -1770,7 +1810,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 152902,
       "name": "Voor Altijd",
       "url": "https://open.spotify.com/track/5dDnmGYIcTqvxtG35mnxAS"
@@ -1806,7 +1846,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 268886,
       "name": "Vreemde Leegte",
       "url": "https://open.spotify.com/track/6lk0guHFQTBYnvWYDstwrU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,767 likes - 97 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,883 likes - 97 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 35 | [Sideshow](https://open.spotify.com/track/5gA9iOu7mGq94qnHn3notS) | [BENTLE](https://open.spotify.com/artist/4fM0KqoGH8b2iTi2okBzaE) | [Sideshow](https://open.spotify.com/album/0YjvgFNl1wpS2RNrcgVvvj) | 3:15 |
 | 36 | [Weakness](https://open.spotify.com/track/54cbo12HgC8WUwMn7lRHhn) | [Couch Prints](https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi) | [Weakness](https://open.spotify.com/album/3Ba4ir0LqLyjAY7RQNze1q) | 2:33 |
 | 37 | [Lovebird](https://open.spotify.com/track/27K5vumkmzbBAjw3JMbcJ2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Shower Shoes](https://open.spotify.com/album/73EsjWw7UaANBMBOymQ4qh) | 2:16 |
-| 38 | [Mississippi Is Under Fire](https://open.spotify.com/track/2jU9nz9rMWcKMaEqibBGWc) | [Łukasz](https://open.spotify.com/artist/3vMvxKgQeJ4hhKY14xcP8e), [Thérèse](https://open.spotify.com/artist/0MRJR6Vi7XRaXbBe1H9WN1) | [Mississippi Is Under Fire](https://open.spotify.com/album/7dknvcMIgfF4bW9E6QRlCu) | 2:15 |
+| 38 | [Mississippi Is Under Fire](https://open.spotify.com/track/2jU9nz9rMWcKMaEqibBGWc) | [Łukasz](https://open.spotify.com/artist/3vMvxKgQeJ4hhKY14xcP8e), [Thérèse](https://open.spotify.com/artist/5dwhYY14C48eovm0G0RDFv) | [Mississippi Is Under Fire](https://open.spotify.com/album/7dknvcMIgfF4bW9E6QRlCu) | 2:15 |
 | 39 | [Singing & Songing](https://open.spotify.com/track/3KqGacjfy2PdnXdjSidtIa) | [Hubcaps](https://open.spotify.com/artist/5ynTku6G5so8Dxog1qrOS0) | [Singing & Songing](https://open.spotify.com/album/3ooT05Dv2UJtjwIXzimvy8) | 3:30 |
 | 40 | [We Talked About It](https://open.spotify.com/track/6WP6zG6DdePXtVaVJqR5wl) | [Elijah Wolf](https://open.spotify.com/artist/0BMdnleIiGoRac4KolpTGs) | [We Talked About It](https://open.spotify.com/album/3MzkCAvgL77WNzuTMI5I42) | 3:25 |
 | 41 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 96 | [American Blues](https://open.spotify.com/track/1YK4aRy8To5utgCR9YPczT) | [Varju](https://open.spotify.com/artist/5uCNbWBRebH8Si8AzJ5gIT) | [American Blues](https://open.spotify.com/album/1aToXLOFdeJneG5joVHMMy) | 2:36 |
 | 97 | [just wanted you to know](https://open.spotify.com/track/0ROhxmLJglCia0KQE2t64o) | [yeemz](https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a) | [just wanted you to know](https://open.spotify.com/album/2eITiqvTCl7YYKKDqjMPNx) | 3:30 |
 
-Snapshot ID: `MTY4MDcyNjE4OSwwMDAwMDAwMDgxZWIxNTU5YzA1YTc4MGQxNTg2NmM0NmY0YjY1MGZi`
+Snapshot ID: `MTY4MDcyNjE4OSwwMDAwMDAwMGVmMWEzM2NiOTIxZDI5YWNhYTg3MTAzOTU0ZDc2MmU4`

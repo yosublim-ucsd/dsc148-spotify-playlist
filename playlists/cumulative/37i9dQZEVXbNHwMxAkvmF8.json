@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "Papp L\u00e1szl\u00f3 Ar\u00e9na LIVE (2023)",
+        "url": "https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "3korty - LIVE",
+      "url": "https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw"
+    },
+    {
+      "album": {
         "name": "GG VS GRASA",
         "url": "https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ"
       },
@@ -2234,6 +2252,24 @@
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
+        "name": "Papp L\u00e1szl\u00f3 Ar\u00e9na LIVE (2023)",
+        "url": "https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Casa de papel - LIVE",
+      "url": "https://open.spotify.com/track/5250liKvedc3oIt4tTGZ9a"
     },
     {
       "album": {
@@ -6922,7 +6958,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 120388,
       "name": "K\u00f6telez\u0151",
       "url": "https://open.spotify.com/track/56seL5ZZab8ZlmKoknPZh3"
@@ -13490,7 +13526,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 122833,
       "name": "Utols\u00f3 dal",
       "url": "https://open.spotify.com/track/4O4BgsTejcZ5fJBfhwiaGO"

@@ -2,7 +2,7 @@
 
 ### [Pure Pop Punk](https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B)
 
-> Please stand for your personal anthems\. Cover: Paramore
+> Please stand for your personal anthems\. Cover: Fall Out Boy
 
 367 songs - 20 hr 13 min
 

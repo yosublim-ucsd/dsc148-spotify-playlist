@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,943 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,935 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Running from the Dawn](https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [though the world will tell me so, vol\. 1](https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB) | 3:31 |
 | 100 | [Life \(Everybody Dies\)](https://open.spotify.com/track/2OwCnw9joefxgTSjkjQOz8) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [five](https://open.spotify.com/album/1B5hRGI7s2H131LBsF8Job) | 3:12 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDhjYTk0MTA3NGU0OTNmNTU5YWVjOTQ5YTA5NmVlMDA3`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDVhMmVhZjA3OWJmZWIyMzYzZWNjZjE5NjRiYjJiNmYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,397 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,465 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Eyes Won't See](https://open.spotify.com/track/1pyypCHNVxC3Ju8LUMfm4z) | [Vain Valkyries](https://open.spotify.com/artist/2NMfkZdWVg1LFSQRYMoAI7) | [The Great Suffering](https://open.spotify.com/album/0faVxGhKDgCeekHyOyrEuq) | 2:06 |
 | 60 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDVkZGQzOGE3NGQxZTU2NGYwNTZmMDFkNGQ1ZjQ4MGQ4`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDE2YTUxMmRjYTFiODhlZDAyOWMxYmFhYjQ1OTY0ZWQ5`

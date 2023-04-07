@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Ghita
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,324 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,408 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 58 | [Tuesday](https://open.spotify.com/track/5nf7yFRhOPGzOJquD1uBVl) | [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Tuesday](https://open.spotify.com/album/07vujYtuSv4deqB0B4IDpT) | 2:42 |
 | 59 | [Strangely Attracted](https://open.spotify.com/track/0dhgjmFyaRaLRvpA8L6f9k) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Strangely Attracted](https://open.spotify.com/album/3XdWpYRD2ov9w8NYcupVRT) | 2:31 |
 | 60 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 |
-| 61 | [Breaking Hearts](https://open.spotify.com/track/6MmDpUR8OLsnyieYdnu75P) | [Søren Emil](https://open.spotify.com/artist/4kDl0EsJrDuXkfqaz87CmO) | [Breaking Hearts](https://open.spotify.com/album/2zsi5jZjVwyrk1NnMPGfCb) | 3:27 |
+| 61 | [Breaking Hearts](https://open.spotify.com/track/5fFFcyffVTNrItIg8zuxlE) | [Søren Emil](https://open.spotify.com/artist/4kDl0EsJrDuXkfqaz87CmO) | [Breaking Hearts](https://open.spotify.com/album/3ecZ2EzL3Id2wzT3iIykCW) | 3:27 |
 | 62 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 |
 | 63 | [hollow](https://open.spotify.com/track/0WPxEPugiVeCiHHwjFZVFa) | [Lisa Heller](https://open.spotify.com/artist/4c0MadmAExDMrmnYG02mXa) | [hollow](https://open.spotify.com/album/1bmzcgvT763tGWzspXB9eW) | 2:48 |
 | 64 | [Like Home](https://open.spotify.com/track/3oQeF0TqL7LwWC0N3nDi0M) | [Alter Boy](https://open.spotify.com/artist/3HGs3Tg2kXax8Q4tBPzybY) | [Like Home](https://open.spotify.com/album/28OMmIHstpEaOIbf98ckd0) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [idk](https://open.spotify.com/track/3j4Jb7vshXhRL5DIZnVB77) | [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [idk](https://open.spotify.com/album/5b1mEBCfxNDkTqhqmodPZn) | 3:04 |
 | 100 | [Blue](https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl) | [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Blue](https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO) | 2:46 |
 
-Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMGU1MWY2YmUyZDFkMjE3MTk4NjgyNjJkZGYyYTJjN2Iw`
+Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMGRkZDY1ZDgxNjRlNTUxODlkMGFhMzk3ZGRiNzVlMTM0`

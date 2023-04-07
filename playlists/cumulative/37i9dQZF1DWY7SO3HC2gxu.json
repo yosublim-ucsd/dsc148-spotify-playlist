@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 220555,
       "name": "Oriti",
       "url": "https://open.spotify.com/track/6FW8sVbEWMMXcRqw2Q2fKL"
@@ -1612,6 +1612,28 @@
       "duration_ms": 332419,
       "name": "Umenitosha",
       "url": "https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po"
+    },
+    {
+      "album": {
+        "name": "We Live 4 Our Music",
+        "url": "https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436005,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F"
     },
     {
       "album": {

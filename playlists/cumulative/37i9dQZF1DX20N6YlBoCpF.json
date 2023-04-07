@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=5bdIe6ZEROS3VhYyTcVSeQ\">Wikus Botma</a> ",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA?si=N8rjdX3CSrCVmcIEEfb9Mw\">Deon Groot</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Anker My",
+        "url": "https://open.spotify.com/album/0cPQXrIzoVaF5iMTIOk1ga"
+      },
+      "artists": [
+        {
+          "name": "John Morland",
+          "url": "https://open.spotify.com/artist/2w9ttzUhPMtSxegRmWrXdC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204192,
+      "name": "Anker My",
+      "url": "https://open.spotify.com/track/69h8coUge7LT7hjhYiRxTX"
+    },
+    {
+      "album": {
         "name": "As die Plaas Byt",
         "url": "https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z"
       },
@@ -294,6 +312,24 @@
       "duration_ms": 149267,
       "name": "Babbelas \u00b2 Kwadraat",
       "url": "https://open.spotify.com/track/1AOMZtWjYu7CMm0lmJuV40"
+    },
+    {
+      "album": {
+        "name": "Bakkie Balle",
+        "url": "https://open.spotify.com/album/1KN77LThfGJkx5K8pIicOM"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182182,
+      "name": "Bakkie Balle",
+      "url": "https://open.spotify.com/track/7bFQlTIM5Tr0PISjYDe2Zy"
     },
     {
       "album": {
@@ -586,7 +622,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 223714,
       "name": "Bou Aan 'n Vrou",
       "url": "https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL"
@@ -963,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Die Een",
+        "url": "https://open.spotify.com/album/4WiSBEWYEPsJgTyM793XTA"
+      },
+      "artists": [
+        {
+          "name": "Deon Groot",
+          "url": "https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Die Een",
+      "url": "https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8"
+    },
+    {
+      "album": {
         "name": "Die Laaste Keer",
         "url": "https://open.spotify.com/album/4xAsnq7uFDOQrlt2MXYuk2"
       },
@@ -978,6 +1032,32 @@
       "duration_ms": 201791,
       "name": "Die Laaste Keer",
       "url": "https://open.spotify.com/track/4igd3gDKp4OGAi9C2W4ovN"
+    },
+    {
+      "album": {
+        "name": "Die Lewe is 'n Lied",
+        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239591,
+      "name": "Die Lewe is 'n Lied",
+      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
       "album": {
@@ -1455,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Fairway Lyf",
+        "url": "https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV"
+      },
+      "artists": [
+        {
+          "name": "Arno Jordaan",
+          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189803,
+      "name": "Fairway Lyf",
+      "url": "https://open.spotify.com/track/3DLeotilho45LEdwKPYb49"
+    },
+    {
+      "album": {
         "name": "Foto's",
         "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
@@ -1484,7 +1582,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 197100,
       "name": "Gap-jaar",
       "url": "https://open.spotify.com/track/7L0bZEC2dibboyXfBEkUTw"
@@ -1836,10 +1934,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 199549,
       "name": "Huis Toe",
       "url": "https://open.spotify.com/track/3q1TIfbpCStjdz354m9HEG"
+    },
+    {
+      "album": {
+        "name": "Huistoe",
+        "url": "https://open.spotify.com/album/0Y0nqjmRZVXtcPg6l5yI9n"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Huistoe",
+      "url": "https://open.spotify.com/track/7f8WJbF95f2mSF5zpD66xG"
     },
     {
       "album": {
@@ -1908,7 +2024,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 166986,
       "name": "In Jou O\u00eb",
       "url": "https://open.spotify.com/track/4ktxon0kuaf7MnCaWAXyQH"
@@ -2193,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Kinders van die Wind",
+        "url": "https://open.spotify.com/album/4t3gOlgYGN14rWokHQeA44"
+      },
+      "artists": [
+        {
+          "name": "Inspirasie Veelvoud",
+          "url": "https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Kinders van die Wind",
+      "url": "https://open.spotify.com/track/2rvhSILvJDVBl46xXB0Omc"
+    },
+    {
+      "album": {
         "name": "Klaar Gesmeek",
         "url": "https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ"
       },
@@ -2204,7 +2338,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 148776,
       "name": "Klaar Gesmeek",
       "url": "https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8"
@@ -2722,7 +2856,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 166424,
       "name": "Liewe Lawwe Lettie",
       "url": "https://open.spotify.com/track/6Q9JuOqc9Sc4NssEpjT1Te"
@@ -3320,7 +3454,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 232380,
       "name": "Nommer Pas",
       "url": "https://open.spotify.com/track/2QFfRhqkkcW5clgKtM8Pv2"
@@ -3588,7 +3722,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 212257,
       "name": "Opstaan",
       "url": "https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO"
@@ -4559,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "Tassies Pak",
+        "url": "https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Tassies Pak",
+      "url": "https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9"
+    },
+    {
+      "album": {
         "name": "Tekkies Brand",
         "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
       },
@@ -4574,6 +4726,28 @@
       "duration_ms": 208519,
       "name": "Tekkies Brand",
       "url": "https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi"
+    },
+    {
+      "album": {
+        "name": "Tekkies Brand (Cre8tro Remix)",
+        "url": "https://open.spotify.com/album/1nSbpOqMKbjca12K49xPFL"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        },
+        {
+          "name": "Cre8tro",
+          "url": "https://open.spotify.com/artist/59ht5rH8CKq06KBYaks85z"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234254,
+      "name": "Tekkies Brand - Cre8tro Remix",
+      "url": "https://open.spotify.com/track/60xg0myi1c2g3dBhnE77DO"
     },
     {
       "album": {
@@ -5030,7 +5204,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 223103,
       "name": "Vyeboompiekniek (13 Jaar)",
       "url": "https://open.spotify.com/track/3VjMomtTP99WZjxl8kGyap"

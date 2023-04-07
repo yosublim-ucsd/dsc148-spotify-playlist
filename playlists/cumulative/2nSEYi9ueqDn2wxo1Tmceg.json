@@ -6583,6 +6583,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/79H8ASriYHc6JBmxm4vq6f"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321401,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4fCeKZHKZt5PTMEEGxHYQj"
+    },
+    {
+      "album": {
         "name": "Furling",
         "url": "https://open.spotify.com/album/5FgYvOLxsNHb1oh29LeOMc"
       },

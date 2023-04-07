@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-363 songs - 18 hr 35 min
+364 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-05 | 2022-07-29 |
 | [Intuitive](https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [Intuitive](https://open.spotify.com/album/5rrsU6UYKXhP1xr95neXZg) | 2:06 | 2022-10-07 |  |
 | [It's Sun Time](https://open.spotify.com/track/1iRAoE5MQWa2pnWgWTqgH3) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [It's Sun Time](https://open.spotify.com/album/5ARc55vlt112JrwGiAC57s) | 2:28 | 2022-06-03 | 2022-07-29 |
+| [Juju Beans](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [The Softest Smile](https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0) | 2:25 | 2023-04-06 |  |
 | [Just smooth](https://open.spotify.com/track/5B4v6ttUV7VJ7S7kEJqg1D) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Just smooth](https://open.spotify.com/album/6k6M6z7vGg18xb7md3BQoH) | 2:18 | 2022-12-09 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-23 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |
@@ -171,7 +172,7 @@
 | [Kismet](https://open.spotify.com/track/74pOs6LQqRKfpYtAcpmmB9) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Kismet](https://open.spotify.com/album/5HTW6mnLL942SxIFRwDRRp) | 3:42 | 2022-05-27 | 2022-07-29 |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-05 | 2022-05-11 |
 | [Ko Lipe](https://open.spotify.com/track/0f4qPItjQNiBETdP6ajdho) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Ko Lipe](https://open.spotify.com/album/0uC19suPOgZx9tOKSEsf2l) | 2:39 | 2022-12-09 |  |
-| [Kushin For the Pushin'](https://open.spotify.com/track/3tlbByLft7wKd7HiYKjdgS) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Kushin For the Pushin'](https://open.spotify.com/album/5AQStC5uGlGAjCu92UJEfp) | 2:18 | 2022-10-07 |  |
+| [Kushin For the Pushin'](https://open.spotify.com/track/3tlbByLft7wKd7HiYKjdgS) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Kushin For the Pushin'](https://open.spotify.com/album/5AQStC5uGlGAjCu92UJEfp) | 2:18 | 2022-10-07 | 2023-04-07 |
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2022-04-05 | 2022-07-29 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2022-04-05 |  |
 | [Lakeswim](https://open.spotify.com/track/1hAUYakXQGSr6IvJ6uFll1) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Lakeswim](https://open.spotify.com/album/5hhSH0phuuah1ZTDnxCdar) | 2:35 | 2022-10-07 |  |

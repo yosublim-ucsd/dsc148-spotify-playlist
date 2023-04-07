@@ -1013,6 +1013,42 @@
     },
     {
       "album": {
+        "name": "Delta Explorer",
+        "url": "https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023"
+      },
+      "artists": [
+        {
+          "name": "Triangular Prism III",
+          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Delta Sleep Waves 87.2Hz - 88.6Hz",
+      "url": "https://open.spotify.com/track/2eCKzMlnobzurHO3q6WvTc"
+    },
+    {
+      "album": {
+        "name": "Delta Explorer",
+        "url": "https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023"
+      },
+      "artists": [
+        {
+          "name": "Triangular Prism III",
+          "url": "https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Delta Sleep Waves 88.8Hz - 90.2Hz",
+      "url": "https://open.spotify.com/track/5QsYuzWo2yegOxhVuGhYnk"
+    },
+    {
+      "album": {
         "name": "Textures",
         "url": "https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk"
       },

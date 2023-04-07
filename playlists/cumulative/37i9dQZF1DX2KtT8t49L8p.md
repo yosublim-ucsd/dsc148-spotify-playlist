@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-55 songs - 3 hr 1 min
+56 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Theta Mind Fields 3Hz](https://open.spotify.com/track/19yWTDHBGLkocG5uHr9nNu) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 2:43 | 2023-03-16 |  |
 | [Theta Mind Tranquility](https://open.spotify.com/track/6hCmfwKvr68H1v1GjLdihz) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Theta Binaural Beats](https://open.spotify.com/album/2mRSTgtIy2zAq1Ne3hxvSG) | 3:27 | 2023-03-16 |  |
 | [Theta Relax \(84Hz \- 91Hz\)](https://open.spotify.com/track/0rbnJUyp3FzKOEOc6PXZGb) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Frame of Mind](https://open.spotify.com/album/19BNqg67kGHHfX50FIYtIp) | 2:28 | 2023-03-16 |  |
+| [Theta Resonance 8 Hz](https://open.spotify.com/track/5g0JKL5yZQyKnUvksxZnpz) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Resonance](https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G) | 3:04 | 2023-04-06 |  |
 | [Theta secrets 89,5 + 91,3 hz](https://open.spotify.com/track/0pnUJj7iSz3XuSrKvP1k9q) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Theta Waves](https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy) | 3:37 | 2023-03-16 |  |
 | [Theta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/3dw2xpPQnX1K5dvUETLDY7) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:33 | 2023-03-16 |  |
 | [Theta Sinus 100 Hz \- 106 Hz](https://open.spotify.com/track/6TqdGloOecWg0tdZj9as16) | [Subdrones](https://open.spotify.com/artist/24tr6QQzxUZP2HhpP8FCn7) | [Subdrones](https://open.spotify.com/album/2fOWp0iIqd56sO5N2w3x85) | 3:16 | 2023-03-16 |  |

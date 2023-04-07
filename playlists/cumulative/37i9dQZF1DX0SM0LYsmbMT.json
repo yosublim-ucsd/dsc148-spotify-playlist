@@ -7596,6 +7596,28 @@
     {
       "album": {
         "name": "Breathe",
+        "url": "https://open.spotify.com/album/1sWfk4DcRGp6R3v8jdk1an"
+      },
+      "artists": [
+        {
+          "name": "Ian Ewing",
+          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+        },
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122957,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1P0AihvMWwwFXFZHnY7Fe6"
+    },
+    {
+      "album": {
+        "name": "Breathe",
         "url": "https://open.spotify.com/album/1Wzv7i1QJmARDuuNxI81YE"
       },
       "artists": [
@@ -9210,7 +9232,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 113855,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb"
@@ -9254,7 +9276,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 152400,
       "name": "Carombola",
       "url": "https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2"
@@ -10753,6 +10775,28 @@
     },
     {
       "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/18vH6qJ4myaRQxAXqIdjve"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123147,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/18PnNpf5j8LYFuOvwlnbod"
+    },
+    {
+      "album": {
         "name": "Close to you",
         "url": "https://open.spotify.com/album/0kgUmcRpEevZcQpGDRdziS"
       },
@@ -11178,7 +11222,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 150733,
       "name": "Coastin'",
       "url": "https://open.spotify.com/track/0F4SbZwTBtZlwz60w6wEGy"
@@ -20574,7 +20618,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 95121,
       "name": "Free",
       "url": "https://open.spotify.com/track/4AuostLExO35S8hOmzYMH1"
@@ -21916,7 +21960,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 110869,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2HxMHcxPYOxJYMZFRTD1x4"
@@ -24450,7 +24494,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/6SPgOxBRjbliqObVYwO6qs"
@@ -24516,7 +24560,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 135053,
       "name": "Hidden Beauty",
       "url": "https://open.spotify.com/track/2Kp7jF6ujtiz5mmGEksMpL"
@@ -24990,7 +25034,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 142489,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4Rr8wJMtWyrOZTjEFwW06Y"
@@ -29760,7 +29804,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Kanaan",
       "url": "https://open.spotify.com/track/5G5nj9Ie8asmAQp8b1JS2I"
@@ -30898,7 +30942,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 133012,
       "name": "Laetitia",
       "url": "https://open.spotify.com/track/6lcvkdN5JRolZaCnTliLaV"
@@ -36622,7 +36666,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 112207,
       "name": "Midnight Dinner",
       "url": "https://open.spotify.com/track/288UlMNjTPKmHqSFg7m09C"
@@ -37364,7 +37408,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 138352,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/2EL0bP3jl0NtWNxlv23fyd"
@@ -40794,7 +40838,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 105600,
       "name": "Night Walk",
       "url": "https://open.spotify.com/track/7q6bhuDHycO2Qz65UaYFVa"
@@ -41936,7 +41980,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 138529,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/3KOdSAFAouynkqzRd5cNtT"
@@ -43148,7 +43192,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 140759,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/7wWMWy83ukML9Wzwjna9Gd"
@@ -44512,7 +44556,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 160961,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/4Tr3RgG7XrLgbfXKUMJQP5"
@@ -51710,7 +51754,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 124186,
       "name": "Siesta",
       "url": "https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r"
@@ -52574,7 +52618,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 113281,
       "name": "Slow Jazz",
       "url": "https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq"
@@ -52832,7 +52876,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 112894,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2k4zcCon1Y3uuqTyF51IJl"
@@ -53940,7 +53984,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 118588,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/6iCSkJSmXWnuWM6tt2KkcM"
@@ -56778,7 +56822,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 172775,
       "name": "Sunburst",
       "url": "https://open.spotify.com/track/1bgDcniTe6JQsL04ovFSJC"
@@ -58555,6 +58599,28 @@
     },
     {
       "album": {
+        "name": "Take Me For A Walk",
+        "url": "https://open.spotify.com/album/60PwnNB0hMCThdRmP8kPRG"
+      },
+      "artists": [
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        },
+        {
+          "name": "Heinrich Schlupf",
+          "url": "https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "Take Me For A Walk",
+      "url": "https://open.spotify.com/track/0thzWAFarVRdlvMv2bRpFN"
+    },
+    {
+      "album": {
         "name": "just friends",
         "url": "https://open.spotify.com/album/1iU5vStg4HKNlTJuQpuz2z"
       },
@@ -59932,7 +59998,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "The Older Man",
       "url": "https://open.spotify.com/track/7cOlTLWr211iacbtV1yMUV"
@@ -63582,7 +63648,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 108859,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/1RwHXo9NxsqVaEA9A3N0Wr"
@@ -63956,7 +64022,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 93975,
       "name": "Vibez Only",
       "url": "https://open.spotify.com/track/7KTWswOLuRYpLnskL4ZcDo"
@@ -68490,7 +68556,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 120666,
       "name": "Zen A.M.",
       "url": "https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11"

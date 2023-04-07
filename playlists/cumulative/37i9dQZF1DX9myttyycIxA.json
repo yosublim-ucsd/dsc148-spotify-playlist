@@ -4942,10 +4942,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 265901,
       "name": "Faster Than The Medicine",
       "url": "https://open.spotify.com/track/1b38M4IeXrGnPCT72SSaTZ"
+    },
+    {
+      "album": {
+        "name": "Faster Than The Medicine",
+        "url": "https://open.spotify.com/album/3ZIOfr2vApXOvNJYF07mLL"
+      },
+      "artists": [
+        {
+          "name": "Lael Neale",
+          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265901,
+      "name": "Faster Than The Medicine",
+      "url": "https://open.spotify.com/track/52O9zmIwfNyHtEVPN2Zvwk"
     },
     {
       "album": {

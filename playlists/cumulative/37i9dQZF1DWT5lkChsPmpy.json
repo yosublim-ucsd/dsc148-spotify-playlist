@@ -690,7 +690,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 168625,
       "name": "Beat Wave",
       "url": "https://open.spotify.com/track/0K07LFH3vL8cNkEo1iMfok"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 173943,
       "name": "Close to midnight",
       "url": "https://open.spotify.com/track/5ZBYK7vXdvFd5X6w0nluhm"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 207500,
       "name": "Following the trail",
       "url": "https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 147540,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy"
@@ -2550,6 +2550,24 @@
       "duration_ms": 192000,
       "name": "Free As Dogs",
       "url": "https://open.spotify.com/track/3AtSwMiONFjvK8pFDxNqUT"
+    },
+    {
+      "album": {
+        "name": "Fruity",
+        "url": "https://open.spotify.com/album/0rpypMEvrRmuIEJkG3zs7J"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169552,
+      "name": "Fruity",
+      "url": "https://open.spotify.com/track/76AxkEBbehPg6NNkeJt9p7"
     },
     {
       "album": {
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 192000,
       "name": "i tried",
       "url": "https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 147871,
       "name": "ineludibile",
       "url": "https://open.spotify.com/track/0HhbAv27JYas4KxW5V9EfQ"
@@ -6530,7 +6548,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 200050,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
@@ -6656,7 +6674,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 138182,
       "name": "T T T",
       "url": "https://open.spotify.com/track/6ViihlNChcSkC2L4MoGEJ7"
@@ -7218,7 +7236,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 238500,
       "name": "Up Through The Clouds",
       "url": "https://open.spotify.com/track/6HpU6c2ke3qC1RWakDp3nW"

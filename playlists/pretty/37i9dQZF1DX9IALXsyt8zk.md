@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Huh!\(허성현\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,643 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,659 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 53 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 |
 | 54 | [Wanna Do \(Feat\. Woosoo\)](https://open.spotify.com/track/5SrciZTUDnvRijVeZDeiRz) | [U\-KWON](https://open.spotify.com/artist/1dpFCgmBpElH7pcsfSfXqG), [WOOSOO](https://open.spotify.com/artist/5tBYK0JUgSy3ajIg31JvUp) | [Wanna Do](https://open.spotify.com/album/1WGZUJSEy3uG9iBbqlNQye) | 2:43 |
 
-Snapshot ID: `MTY3NzQ3MTA2MywwMDAwMDAwMDhlZjBlZTdkNmViMDBhNWM3NzE0OGEzYzJmM2Y2MDkw`
+Snapshot ID: `MTY3NzQ3MTA2MywwMDAwMDAwMDRiMzY0ZTMwODZmYTA5Y2EwODAyODNiMjc4NzQ2YjY4`

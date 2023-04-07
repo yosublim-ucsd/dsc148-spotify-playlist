@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-262 songs - 14 hr 21 min
+264 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 | 2022-07-07 |  |
 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 | 2022-10-27 | 2022-11-18 |
 | [Desculpa Por Tudo](https://open.spotify.com/track/3A9T5xImBhmIJXjGZ6EZEu) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Desculpa Por Tudo](https://open.spotify.com/album/4fW96k2popVR5OB8Ey7EQm) | 2:37 | 2022-07-07 | 2022-07-20 |
+| [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 | 2023-04-06 |  |
 | [Diferente](https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [Diferente](https://open.spotify.com/album/0fdEVAurFGPYQx36Ojcc91) | 1:45 | 2022-11-18 | 2023-01-06 |
 | [DISPARA](https://open.spotify.com/track/6CXtClKJQvhErH0tLkY1S3) | [Pta](https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA), [Bully Firmaloko](https://open.spotify.com/artist/3h2hZep6OzgSSo5Km4iWH9) | [DISPARA](https://open.spotify.com/album/5cvlEKE5tzK35WoF6DIqba) | 2:51 | 2023-01-06 | 2023-01-21 |
 | [Distância](https://open.spotify.com/track/051QwtFGs13k9NTCDN6AFR) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Distância](https://open.spotify.com/album/0BF0pJFEVCC32BbHKtM3G3) | 3:04 | 2022-10-27 | 2022-11-11 |
@@ -198,6 +199,7 @@
 | [Put It On Me Ft Terry](https://open.spotify.com/track/5eaJlKd3KwuyelqbwdqSpY) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Carácter](https://open.spotify.com/album/1ZhX4doL6a7c02JAXhoiS6) | 3:25 | 2023-01-20 | 2023-01-29 |
 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 | 2022-09-01 | 2022-09-23 |
 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 | 2023-01-20 |  |
+| [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 | 2023-04-06 |  |
 | [Quase Me Perdi](https://open.spotify.com/track/2f7Hnuoe0k1HPBZZCzSFKA) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Inês Canelas](https://open.spotify.com/artist/2kKHNDBmOyU6DpyIg9wLmz) | [Quase Me Perdi](https://open.spotify.com/album/6uPor1BpWCrFCOKYFGqQ8N) | 3:53 | 2023-03-03 | 2023-03-25 |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 | 2022-09-17 |
 | [REVOLVER](https://open.spotify.com/track/6Ncfl5A354xEKXWAxdp1bj) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O) | [I THINK I THINK TOO MUCH](https://open.spotify.com/album/2YFKwrCMam3s3KWl97Rbwo) | 3:25 | 2022-09-22 | 2022-10-14 |

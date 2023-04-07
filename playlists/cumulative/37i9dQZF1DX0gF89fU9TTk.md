@@ -4,12 +4,12 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-170 songs - 10 hr 9 min
+171 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alibi](https://open.spotify.com/track/4TU5I4gmEwDjcOuEAMCBQB) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Alibi](https://open.spotify.com/album/5N10k1tVLDpLhYE9Ojz7dY) | 3:01 | 2021-12-31 | 2022-07-28 |
-| [Alibi](https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:01 | 2021-12-31 |  |
+| [Alibi](https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:01 | 2021-12-31 | 2023-04-07 |
 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 | 2021-12-31 |  |
 | [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 | 2021-12-31 | 2023-04-03 |
 | [All In \(CB Remix\)](https://open.spotify.com/track/43S4LXQySI1N2Zmnkdzh6j) | [Heather Schnoor](https://open.spotify.com/artist/0J1IF9b4Rs9rbjSye9APm0) | [All In](https://open.spotify.com/album/569y4fe4V9EiryjqIMjVXZ) | 3:07 | 2021-12-31 | 2022-07-22 |
@@ -42,6 +42,7 @@
 | [EVERYTHING EVERYTHING](https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [EVERYTHING EVERYTHING](https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs) | 3:20 | 2021-12-31 |  |
 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 | 2021-12-31 |  |
 | [Fall to My Knees](https://open.spotify.com/track/5x0YfwtrTBCxjVuiVuW7fw) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [Fall to My Knees](https://open.spotify.com/album/0llF4ILcbfcL42C7CNtmGr) | 3:18 | 2021-12-31 | 2022-07-17 |
+| [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 | 2023-02-18 |  |
 | [Falling Up](https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/0zDzV5qt4vpwVkv7xmliUe) | 3:19 | 2021-12-31 | 2022-06-04 |
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2021-12-31 | 2022-07-29 |
 | [Fire + Rain](https://open.spotify.com/track/5pFU5IH9dTIaGGRtL7dNUQ) | [The Agape Music Group](https://open.spotify.com/artist/6q6OWH72l1iFYBZUb6z9E4), [Renee Pullum](https://open.spotify.com/artist/6jX5ekSzDJgziIWpxvumgt) | [Fire + Rain](https://open.spotify.com/album/7HsEsFpLDvnsIwuIpZypm7) | 3:10 | 2021-12-31 | 2023-02-13 |

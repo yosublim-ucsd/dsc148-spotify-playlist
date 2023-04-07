@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,673 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,075 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 72 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 | 73 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 74 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 |
-| 75 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
+| 75 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 | 76 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
 | 77 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 |
 | 78 | [PANIC!!!](https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [PANIC!!!](https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 | 100 | [It's One Of These \[Feat\. Benji B, Raven Bush, Theon Cross, Nubya Garcia, Tom Herbert, Shabaka Hutchings, Nikolaj Torp Larsen, Dave Okumu, Nick Ramm, Dan See, Tom Skinner, Martin Terefe\]](https://open.spotify.com/track/13y90UOs37ByfJjGyM4yjp) | [London Brew](https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb), [Dan See](https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux), [Benji B](https://open.spotify.com/artist/6NXQ4mx83AZ0y0TZtY6zR9), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Martin Terefe](https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR), [Tom Skinner](https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm), [Tom Herbert](https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo), [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Nikolaj Torp Larsen](https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt), [Nick Ramm](https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL) | [London Brew](https://open.spotify.com/album/36QgAodh1g3ZaMcJDPp59C) | 6:54 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGUxNmQ4MzQzY2ZjNjBjZDU0N2E0ZTJlZTFjMzcxMDI1`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGZjZDliMTYwNmY1MGFlYTA0MDUzMTY2NGZiODU0MjJk`

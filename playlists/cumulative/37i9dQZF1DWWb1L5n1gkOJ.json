@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 166406,
       "name": "Already Missing Summer",
       "url": "https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN"
@@ -482,6 +482,24 @@
     {
       "album": {
         "name": "Daybreak",
+        "url": "https://open.spotify.com/album/6go1i7O1O3Y5f5MJH93SA5"
+      },
+      "artists": [
+        {
+          "name": "Tehan Form",
+          "url": "https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/5WNO5bppVKvSXgjy6QDZh4"
+    },
+    {
+      "album": {
+        "name": "Daybreak",
         "url": "https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih"
       },
       "artists": [
@@ -492,7 +510,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 174000,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT"
@@ -694,6 +712,24 @@
       "duration_ms": 148943,
       "name": "En\u00fana",
       "url": "https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp"
+    },
+    {
+      "album": {
+        "name": "Erstwhile",
+        "url": "https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133612,
+      "name": "Erstwhile",
+      "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
     },
     {
       "album": {

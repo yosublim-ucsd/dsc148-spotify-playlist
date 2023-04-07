@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,052 likes - 129 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,157 likes - 129 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 128 | [papercuts](https://open.spotify.com/track/7hk6H482fKMzuUQ2Jf8bG3) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [papercuts](https://open.spotify.com/album/5pOt2aPHSirpOt9voInHZv) | 2:13 |
 | 129 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 |
 
-Snapshot ID: `MTY4MDY4NTIxNCwwMDAwMDAwMDE4NjMyYzRiZGZjYTQwOTc5MjRiZjBiOWFlZjRiNDQw`
+Snapshot ID: `MTY4MDY4NTIxNCwwMDAwMDAwMDA5NGIwNGE2NDExNjQ1YmQ1MTczYmIyMzZiZjQ1MWJm`

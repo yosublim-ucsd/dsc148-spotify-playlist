@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Lauana Prado e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,714 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,789 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 15 | [Quero Ver se Defender \- Ao Vivo](https://open.spotify.com/track/2UrU9un6h0bZXTqCYisLlo) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 2:51 |
 | 16 | [Felizes para Sempre \- Ao Vivo](https://open.spotify.com/track/6givEzP7WttqaC5tqQTet1) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 3:19 |
 | 17 | [Tenta Me Esquecer \- Ao Vivo](https://open.spotify.com/track/1FuO2H4RYVisRLOMG9Riae) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Tenta Me Esquecer \(Ao Vivo\)](https://open.spotify.com/album/76PoWln8uqwwWMJIwS87Ll) | 2:15 |
-| 18 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
-| 19 | [Você E Ela](https://open.spotify.com/track/1xDncRoHQHDwcEStiZbfjr) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Você E Ela](https://open.spotify.com/album/7KtoLJ4WF3RcdgVZAKDCHv) | 2:41 |
+| 18 | [Você E Ela](https://open.spotify.com/track/1xDncRoHQHDwcEStiZbfjr) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Você E Ela](https://open.spotify.com/album/7KtoLJ4WF3RcdgVZAKDCHv) | 2:41 |
+| 19 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
 | 20 | [Cão Sem Dono](https://open.spotify.com/track/0D0GhRImBnK6sV2iMBLQAP) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Quando Tem Sentimento](https://open.spotify.com/album/7fZqPB6JuG0QJtjPOqip6i) | 2:57 |
 | 21 | [A Gente Só Dá Certo Junto](https://open.spotify.com/track/6duw8aroCMTnpFzFFJ1faN) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias](https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ) | 2:00 |
 | 22 | [Coração Traumatizado \- Ao Vivo](https://open.spotify.com/track/2eya8ky7v8mG5OuMndUW27) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:58 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Põe na Balança](https://open.spotify.com/track/2Q1Ls2Hh0MBeLttiubm24n) | [Walkyria Santos](https://open.spotify.com/artist/1Ilt2BMVmqKiNCpfthrAMC) | [Põe na Balança](https://open.spotify.com/album/1SEgsWznRliYojKBGush1m) | 2:42 |
 | 34 | [Coração Sóbrio \- Ao Vivo](https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 3:02 |
 | 35 | [Correndo Do Tchau \- Ao Vivo](https://open.spotify.com/track/4k0QGeZFgaLwB2m3GpJNA9) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Correndo Do Tchau](https://open.spotify.com/album/6Ov3FfZ06rE22owgghD925) | 4:17 |
-| 36 | [Penhasco](https://open.spotify.com/track/7HlqKriadwCPdGnqNjzY7x) | [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [Rotina](https://open.spotify.com/album/2Y9cAed6jkgJV1jA2HXeRW) | 2:35 |
-| 37 | [Escolheu Ser Saudade](https://open.spotify.com/track/1lHRpZ42pG64jzeXUr1wMO) | [Patrícia & Adriana](https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2) | [Escolheu Ser Saudade](https://open.spotify.com/album/14xzJ5WF0Z2NwTKnf4DqFK) | 2:11 |
+| 36 | [Escolheu Ser Saudade](https://open.spotify.com/track/1lHRpZ42pG64jzeXUr1wMO) | [Patrícia & Adriana](https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2) | [Escolheu Ser Saudade](https://open.spotify.com/album/14xzJ5WF0Z2NwTKnf4DqFK) | 2:11 |
+| 37 | [Penhasco](https://open.spotify.com/track/7HlqKriadwCPdGnqNjzY7x) | [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [Rotina](https://open.spotify.com/album/2Y9cAed6jkgJV1jA2HXeRW) | 2:35 |
 | 38 | [Espelunca](https://open.spotify.com/track/6amQ1SxVkIktjYFiCCgUDk) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Tô no Buteco, Ep\. 2](https://open.spotify.com/album/51wofKkc9XtMWExQXhTT65) | 2:55 |
 | 39 | [Amiga é o Caramba \- Ao Vivo](https://open.spotify.com/track/37QzNJM8bMBsohYSPE5gBc) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 2:56 |
 | 40 | [Troca De Tiro](https://open.spotify.com/track/6cFtG8NWrp7WZ8Jns5mWin) | [Janaynna](https://open.spotify.com/artist/6cvmfGPBRVMnHu6PPgDTIT) | [Troca De Tiro](https://open.spotify.com/album/1cChSyzvD4gJ0xs3gdHaw0) | 2:22 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 43 | [Diz Pra Mim \- Ao Vivo](https://open.spotify.com/track/4utKLIPzExJb7RIshhTO8I) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:28 |
 | 44 | [Tá De Mal Comigo](https://open.spotify.com/track/1FWqkjr6iDNGlKM962dOgy) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [11:11](https://open.spotify.com/album/7lTItbUFmGEaCLxxtdM8Tm) | 2:55 |
 | 45 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
-| 46 | [Foda Me Esquecer \- Ao Vivo](https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:16 |
+| 46 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
 | 47 | [Olha Eu Aqui de Novo](https://open.spotify.com/track/1M4WdJ5JxaHLgKg6TtpXJx) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Tô no Buteco, Ep\. 1](https://open.spotify.com/album/4NLTWfQrvREdNtDOWka0Zk) | 2:55 |
-| 48 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
+| 48 | [Foda Me Esquecer \- Ao Vivo](https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:16 |
 | 49 | [Segue Invicto \- Ao Vivo](https://open.spotify.com/track/22BxPqZRPSzYtbCXPHaVTN) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 2:42 |
 | 50 | [Alô, Oi \- Ao Vivo](https://open.spotify.com/track/6Nq0hNneJt0Ps4G4r7RT9N) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:30 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMGNmMDY2OWVjMWViMmVjYWExYmQ3MjA1MDllYWI1NTEw`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDBjMDRmYjcwYzQyMmM0ZTk3NTM2YWYwOGViYjIzNzU0`

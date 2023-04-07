@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Vaathi",
-  "num_followers": 548290,
+  "num_followers": 548677,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxMDUyOSwwMDAwMDAwMDgzNGE3OTIxZWJjYzA5YjUzMzk2YmQ5MDU2OWY2YjVm",
+  "snapshot_id": "MTY4MDc4Mjg1NSwwMDAwMDAwMDA0YmFhNzhlM2Y0NDIxZmRlOTQxYzM1OWNiZWJjNDcz",
   "tracks": [
     {
       "added_at": "2023-01-25 11:03:02",
@@ -55,6 +55,26 @@
       "duration_ms": 290816,
       "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar"
+    },
+    {
+      "added_at": "2023-04-06 12:07:35",
+      "album": {
+        "name": "Viduthalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "Kaattumalli",
+      "url": "https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk"
     },
     {
       "added_at": "2023-04-03 08:28:49",
@@ -1004,7 +1024,7 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Srivardhini",
+          "name": "Srivardhani Kuchi",
           "url": "https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4"
         },
         {

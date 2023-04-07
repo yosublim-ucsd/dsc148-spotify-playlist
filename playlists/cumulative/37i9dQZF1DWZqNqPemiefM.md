@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-457 songs - 1 day 12 hr 27 min
+459 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Blessing day](https://open.spotify.com/track/34ngmxZZkoCX55nepWERjC) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Blessing day](https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8) | 3:05 | 2022-03-31 | 2022-07-29 |
 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 | 2022-04-07 |  |
 | [Blue](https://open.spotify.com/track/0Nkqva5H1flf1JtTPpnE84) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/5dauiDUmBugERmjvcdwRXz) | 3:59 | 2022-03-30 | 2022-07-17 |
-| [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 | 2022-12-22 |  |
+| [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 | 2022-12-22 | 2023-04-07 |
 | [Blue Fox](https://open.spotify.com/track/7wN13OOw6TPVzgQWqGBykx) | [JPC Percussion Museum](https://open.spotify.com/artist/4DWc88I5cqkxIeIGKacNAq), [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [JPC ENSEMBLE COLLECTION Vol.9](https://open.spotify.com/album/2e6voibBUPStD2BdbkgyCM) | 8:18 | 2022-04-07 | 2022-04-16 |
 | [Blue Sky And Yellow Sunflower](https://open.spotify.com/track/6Mk96t3t5qR5YJ8ftCW18V) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 3:59 | 2022-07-28 |  |
 | [blue sky and yellow sunflower](https://open.spotify.com/track/3TSK1p0Vi6utUaMnfDWh7Y) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/1wvp8g8sgOXVeipPMt0UX4) | 3:59 | 2022-03-31 | 2022-07-24 |
@@ -200,7 +200,7 @@
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
 | [koke](https://open.spotify.com/track/2dTFv9svbl63wUuuFcIE6e) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/5t2mle95HjGO6NVPqXn6wD) | 3:47 | 2022-03-31 | 2022-06-04 |
-| [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 |  |
+| [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 | 2023-04-07 |
 | [konpeito](https://open.spotify.com/track/16kYco2zMu85zQQEOa4sn7) | [UYUNI](https://open.spotify.com/artist/456fQGAt00AiCfXhNdZVU2) | [Ecosystem](https://open.spotify.com/album/2qSWvmGxWRCs3fdlyuBH0Q) | 5:14 | 2022-03-31 | 2022-07-29 |
 | [Kyoto](https://open.spotify.com/track/1oNJN6FR9eQhDffdb8sUQN) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [19871990](https://open.spotify.com/album/0kLUxZ36sIIbDk5agwaUOv) | 5:30 | 2022-04-07 | 2022-05-26 |
 | [Lactoc Fuck \- Isan Remix](https://open.spotify.com/track/6ACwHSACfdqj1JqV8YONRg) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [Repainted](https://open.spotify.com/album/43ubCjI2XoymlQBK3JZj8N) | 4:09 | 2022-03-31 | 2022-04-05 |
@@ -235,11 +235,13 @@
 | [Middle](https://open.spotify.com/track/5MjPydec9ZNIRG2AaWbqC0) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 5:34 | 2022-04-28 | 2022-07-28 |
 | [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 | 2022-03-31 | 2022-09-04 |
 | [Millefeuille](https://open.spotify.com/track/2GlAWOVruoh0tvj99RIYrO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:01 | 2022-03-31 | 2022-07-28 |
+| [minamo](https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [minamo](https://open.spotify.com/album/3tC4jQiF2Lga3NFX8YonKf) | 2:40 | 2023-04-06 |  |
 | [Miyukinohama \(Day\)](https://open.spotify.com/track/1wm8v8VZPSiGncUxclG7Pr) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Private Cottage](https://open.spotify.com/album/2bd9568r3VT7Cfs2GggfbF) | 6:56 | 2022-03-31 | 2022-04-17 |
 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 | 2022-07-28 | 2022-10-02 |
 | [Mkwaju](https://open.spotify.com/track/6EXxt6R2ziKNUeClSiLg1L) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/2PeTfaXfMczJeduhKAMsZV) | 6:28 | 2022-03-31 | 2022-04-19 |
 | [Moby Dick](https://open.spotify.com/track/3Dm8QM1QErb865Tre9ae4I) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 9:58 | 2022-03-30 | 2022-07-20 |
 | [Moby Dick \(Revisited\)](https://open.spotify.com/track/5R1Jc11XDr3aMBCaXuzovh) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 1:58 | 2022-03-31 | 2022-06-29 |
+| [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 | 2023-04-06 |  |
 | [Moon Palace](https://open.spotify.com/track/5hxAMeHC2UTepO4tmG3z3Y) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 5:15 | 2022-03-31 | 2022-07-25 |
 | [Moon, Fog Moon](https://open.spotify.com/track/3qyU3L6mR9fuzPDBSkdIUx) | [Fraqsea](https://open.spotify.com/artist/4P0Eagvas76fjHAPlhKeWk) | [Star Cocktail](https://open.spotify.com/album/5VhIB8zdbAWHHnOBbxmJIS) | 5:08 | 2022-04-07 | 2022-06-16 |
 | [Morning Tone](https://open.spotify.com/track/2Hs9rdlZV26GzbZiUB21jW) | [Pawn](https://open.spotify.com/artist/2hNubES3yBW7Q9llPdSyaj) | [Tone Sketch](https://open.spotify.com/album/3zZegpQqTBcLXOvDvrqJon) | 3:45 | 2022-03-31 | 2022-04-09 |

@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-132 songs - 8 hr 45 min
+133 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 | 2022-04-26 |  |
 | [枕男子](https://open.spotify.com/track/0lZm2bb74dls6EwTtdEjjs) | [めりぃ\(CV:花江夏樹\)](https://open.spotify.com/artist/1BMSB705CtH9G636Jjkdkx) | [枕男子](https://open.spotify.com/album/3aHyg1IqLSSkWRVLWTwag5) | 4:28 | 2022-04-26 |  |
 | [楽園都市](https://open.spotify.com/track/0ZBFfztO6e114GIuwAJVqS) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [楽園都市](https://open.spotify.com/album/6IShVEkA3GxKPvm5KgK6HN) | 3:46 | 2022-04-26 | 2022-07-29 |
+| [死んだ!](https://open.spotify.com/track/7zFAcqgCwF9AgKdSPwImiC) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [死んだ!](https://open.spotify.com/album/7wjP7t4lJVhp6g6atYj3PD) | 3:40 | 2023-04-06 |  |
 | [永遠ループ](https://open.spotify.com/track/0PJarEtcj3Y1bXIfXuNPhV) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [永遠ループ](https://open.spotify.com/album/4w08dZDIB3LwmXtraluQK9) | 3:49 | 2022-04-26 |  |
 | [沼](https://open.spotify.com/track/0YFEhsLTwrbax3SGI61p8h) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [TVアニメ「臨死!! 江古田ちゃん」エンディングテーマ曲・第10話](https://open.spotify.com/album/3jI6Ok0NINQ0e37V7CjpzS) | 3:11 | 2022-04-26 | 2022-07-29 |
 | [神或アルゴリズム](https://open.spotify.com/track/5aZ44JdjXUHPSHQio5FPcG) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [神或アルゴリズム](https://open.spotify.com/album/5ALqfFMlEfepMOe3cAjnbw) | 3:43 | 2022-04-26 | 2022-07-29 |

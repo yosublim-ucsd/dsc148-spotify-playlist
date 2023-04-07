@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,049 likes - 120 songs - 6 hr 48 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,049 likes - 121 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 118 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
 | 119 | [7FIGURESUPERMODEL](https://open.spotify.com/track/3RNDBiWPixoFZ5K4NwSzQD) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [7FIGURESUPERMODEL](https://open.spotify.com/album/5qreHFgrcvU9JYMf3KMSZp) | 2:40 |
 | 120 | [FBGM!](https://open.spotify.com/track/0qES0yIA5BkEdpnvJoevNa) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [FBGM!](https://open.spotify.com/album/1YKPrMwtY3U4o7FrrPTNRT) | 2:19 |
+| 121 | [Sever](https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw) | [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [The Allegory](https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4) | 3:01 |
 
-Snapshot ID: `MTAyOTcsZDQ0MzRiZWIyMTdhNWIxYjY3ZTU1OGYxZDJkOTk1OGM5ZTBiYWRiNA==`
+Snapshot ID: `MTAyOTgsMWQ1MGYxYWQ5NjAxYTMwNGQxMzQxNDdlZmI2Yjk4MjU4NGMwZDZkZg==`

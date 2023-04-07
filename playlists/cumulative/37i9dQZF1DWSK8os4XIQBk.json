@@ -8044,10 +8044,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 432040,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/2sgOniXYX1R5InrFTkIKOP"
+    },
+    {
+      "album": {
+        "name": "Stoned Cold Country",
+        "url": "https://open.spotify.com/album/2RGLCcJebUVtIIyHeffqSQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432040,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6DsqyOvPEcasb72iQwxgPe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Catie Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,003 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,032 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 54 | [La La Lonely](https://open.spotify.com/track/4wZlm8Xnb01q6AWQkWb5cu) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young EP](https://open.spotify.com/album/33ohaY1ybr1XVVGNFo3SoU) | 2:25 |
 | 55 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 |
 
-Snapshot ID: `MTY4MDIzNTE4NiwwMDAwMDAwMDIxYzBlMjBlZGMxOTM4ZjA3ODA0ODRjYzQ2YmQ0YTdl`
+Snapshot ID: `MTY4MDIzNTE4NiwwMDAwMDAwMDQ3MmVjYWY2NDVmZGZlOTExOWRhNDFkMjFmMGQ2ODU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,629 likes - 500 songs - 18 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,988 likes - 500 songs - 18 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 |
 | 500 | [Found it hard](https://open.spotify.com/track/2AzFlRHnk47ucORREL1igj) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:49 |
 
-Snapshot ID: `MTY4MDUyNjI3OSwwMDAwMDAwMGM2Y2ZjYTgwYzE3ZDExZWI1ZTA5ODI5YmFmMDRkNjIx`
+Snapshot ID: `MTY4MDUyNjI3OSwwMDAwMDAwMDRjYjk5MjNiMTlhMzFhNDRkZDFlNDY3MDNjNzRkZWI5`

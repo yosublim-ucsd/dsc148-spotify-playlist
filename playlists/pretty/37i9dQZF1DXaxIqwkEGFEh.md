@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,939 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,041 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 98 | [Robbers and Villains](https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Robbers and Villains](https://open.spotify.com/album/7iXLTSsI9Vo6mH57JhIU7Z) | 1:47 |
 | 99 | [Roll A opp](https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wrong Turn](https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ) | 3:18 |
 
-Snapshot ID: `MTY4MDU0OTY5OSwwMDAwMDAwMGRkYmZlMmZkMjVlNmUzN2VkYjY1NDI3YTUwNTEyMTYz`
+Snapshot ID: `MTY4MDU0OTY5OSwwMDAwMDAwMGJjM2JhNGE0ZmMwOGZjYzA1ZDFhZTE3ZGQ1NzQxMzM3`

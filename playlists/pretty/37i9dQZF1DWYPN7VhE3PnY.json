@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: V\u00c9RIT\u00c9\n",
-  "num_followers": 6695,
+  "num_followers": 6792,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDU0N2IxZWVlNWI4ZmMwNjU5MTQ1NmFhNTY4ZTM3Y2M0",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDZjNjk2NGU4YmE2OWQ1NDk0MmMyMTg3ZTU1MTA4YmVm",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "Collxtion I",
-        "url": "https://open.spotify.com/album/6i2wkAsjqQ9CUc7g9dSGbS"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/2RHACQ60QdCc5rPtM5NciW"
-    },
-    {
-      "added_at": "2023-01-05 16:59:25",
-      "album": {
         "name": "yes & no",
         "url": "https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 178983,
       "name": "yes & no",
       "url": "https://open.spotify.com/track/6UVZo6UKUZC1J2KPP3IIwQ"
+    },
+    {
+      "added_at": "2023-01-05 16:59:25",
+      "album": {
+        "name": "Collxtion I",
+        "url": "https://open.spotify.com/album/6i2wkAsjqQ9CUc7g9dSGbS"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/2RHACQ60QdCc5rPtM5NciW"
     },
     {
       "added_at": "2023-01-05 16:59:25",

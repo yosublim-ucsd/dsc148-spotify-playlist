@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,751 likes - 125 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,833 likes - 125 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 124 | [Morning Light](https://open.spotify.com/track/0selXaJihgVtLwxUSabMys) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Morning Light](https://open.spotify.com/album/3WD5ysTL46aG7XskWr62ma) | 3:26 |
 | 125 | [I've Made Up My Mind](https://open.spotify.com/track/7di3JmluQQPzpBk39jaBXO) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I've Made Up My Mind](https://open.spotify.com/album/0rlBNagqYyRlrHzmUsxMmW) | 3:35 |
 
-Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDlhOWVmZTk4YmFhZDgzOThlYWI4YzQ2NzhiNTJkZDdi`
+Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDRlYjQ0NDAxZDk0ODNiMDUzNDM4NmFkNDQ4ZWRlMzhi`

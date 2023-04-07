@@ -3475,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Fiore di ghiaccio",
+        "url": "https://open.spotify.com/album/2MNWiE7iYdL5lxtyIZm4rr"
+      },
+      "artists": [
+        {
+          "name": "Paola Turci",
+          "url": "https://open.spotify.com/artist/7dNlfF1yoOCoclHmZuUemi"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179546,
+      "name": "Fiore di ghiaccio",
+      "url": "https://open.spotify.com/track/5cMyYxEpeiJDjP67nHmtAh"
+    },
+    {
+      "album": {
         "name": "X Factor Mixtape 2022",
         "url": "https://open.spotify.com/album/5lwA2LkDrpKD5daRu4kvi6"
       },
@@ -4715,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Io Lei e Tu",
+        "url": "https://open.spotify.com/album/3FzRrTX6IGSL7V9xebPvyz"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Io Lei e Tu",
+      "url": "https://open.spotify.com/track/7pcC48RUsxkIupldSKSdsM"
+    },
+    {
+      "album": {
         "name": "Jack & Sally",
         "url": "https://open.spotify.com/album/2RwzE7m4pPJEaoelnKAZjM"
       },
@@ -5102,6 +5138,24 @@
       "duration_ms": 209894,
       "name": "Lama d'argento",
       "url": "https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb"
+    },
+    {
+      "album": {
+        "name": "Is that all there is?",
+        "url": "https://open.spotify.com/album/3WA9g8iYSTJQm2FuBM75p3"
+      },
+      "artists": [
+        {
+          "name": "H\u0113ir",
+          "url": "https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179434,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7tTiA7pLQxG48C6Q38wON4"
     },
     {
       "album": {
@@ -7077,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "Passer\u00e0",
+        "url": "https://open.spotify.com/album/4z4D8q6vfOhTEm7oeeEF9q"
+      },
+      "artists": [
+        {
+          "name": "Johana",
+          "url": "https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153125,
+      "name": "Passer\u00e0",
+      "url": "https://open.spotify.com/track/35V948aBwEJCCWdkrSdW2h"
+    },
+    {
+      "album": {
         "name": "pavimento",
         "url": "https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal"
       },
@@ -8632,6 +8704,24 @@
       "duration_ms": 147204,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2v7aa69ir5P7jGlkffa5b0"
+    },
+    {
+      "album": {
+        "name": "Sola Stanotte",
+        "url": "https://open.spotify.com/album/0Xkwup8jEPapkMIG4AEhcG"
+      },
+      "artists": [
+        {
+          "name": "giuliettacome",
+          "url": "https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201244,
+      "name": "Sola Stanotte",
+      "url": "https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5"
     },
     {
       "album": {
@@ -10252,6 +10342,24 @@
       "duration_ms": 137337,
       "name": "Your Name on It",
       "url": "https://open.spotify.com/track/2M1YP2tCLehFHwZ6WasfrE"
+    },
+    {
+      "album": {
+        "name": "Zattera",
+        "url": "https://open.spotify.com/album/456f6YKldblpDPmIjWcnna"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152392,
+      "name": "Zattera",
+      "url": "https://open.spotify.com/track/02DJ7QRRrQP4JYCl6ySJha"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHxBb0SYtLj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,963 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,958 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Take Care of You](https://open.spotify.com/track/2qBCc8sGAcYZJOb2sfxYMy) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [Imposter Syndrome](https://open.spotify.com/album/1cpwcFs4tQW37SOSxC2Zv3) | 3:35 |
 | 100 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDMxMWIwY2Y2ZmMyNDdjOWFmN2ZlMTVlZjcyZDQ0YjAy`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDVkYzAzZDVjMWViMmVkOWRkOTY0YjU0Mzk4MzRiYWYy`

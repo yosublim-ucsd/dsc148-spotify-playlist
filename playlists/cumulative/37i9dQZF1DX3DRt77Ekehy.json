@@ -385,6 +385,42 @@
     },
     {
       "album": {
+        "name": "432 Hz Lunarium",
+        "url": "https://open.spotify.com/album/4YrkXeTV28Xs8icpHnw1kU"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149265,
+      "name": "432 Hz Lunarium",
+      "url": "https://open.spotify.com/track/75f4ro1O7jhW6qnpd2nfA3"
+    },
+    {
+      "album": {
+        "name": "432 Hz Momentum",
+        "url": "https://open.spotify.com/album/6cXJ8qk3neT9WWLmTwWOgl"
+      },
+      "artists": [
+        {
+          "name": "Garden of Sound",
+          "url": "https://open.spotify.com/artist/71ZYJKoUfvXPoqzxdrVeH9"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "432 Hz Momentum",
+      "url": "https://open.spotify.com/track/0eV9SPMclucJXR6aG5DIwN"
+    },
+    {
+      "album": {
         "name": "432 Hz Peaceful Sanctuary",
         "url": "https://open.spotify.com/album/2nRt6k1U4ucHUDmYMKAngg"
       },
@@ -400,6 +436,24 @@
       "duration_ms": 143634,
       "name": "432 Hz Peaceful Sanctuary",
       "url": "https://open.spotify.com/track/3UK4Z4cf5bvKHGwVi5i8Vt"
+    },
+    {
+      "album": {
+        "name": "432 Hz Predominant",
+        "url": "https://open.spotify.com/album/2MrdKEWXXM3Vgwf7l3W5nZ"
+      },
+      "artists": [
+        {
+          "name": "Shaft of Light",
+          "url": "https://open.spotify.com/artist/6Ot1Hf4qEo40mVxM6wEJcr"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "432 Hz Predominant",
+      "url": "https://open.spotify.com/track/12Ut3agAmQlz46gJiomTwS"
     },
     {
       "album": {
@@ -493,6 +547,24 @@
     },
     {
       "album": {
+        "name": "432 Hz Somnambulist",
+        "url": "https://open.spotify.com/album/0IeAJYfBAVcglQB0dX7aXZ"
+      },
+      "artists": [
+        {
+          "name": "Shadow Falls",
+          "url": "https://open.spotify.com/artist/2nxGI05PAGJod9mTQWNirT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "432 Hz Somnambulist",
+      "url": "https://open.spotify.com/track/4rLvbM73aNkXcRL3TUz4Wj"
+    },
+    {
+      "album": {
         "name": "432 Hz Time will tell",
         "url": "https://open.spotify.com/album/1pDV70c14jsRcYUyU9lbXQ"
       },
@@ -508,6 +580,24 @@
       "duration_ms": 185393,
       "name": "432 Hz Time will tell",
       "url": "https://open.spotify.com/track/38NCufDwNH4iUEbssfqIWR"
+    },
+    {
+      "album": {
+        "name": "432 Hz Vega Sleep",
+        "url": "https://open.spotify.com/album/3pSUKADNe5AEjW0a2qsHoy"
+      },
+      "artists": [
+        {
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "432 Hz Vega Sleep",
+      "url": "https://open.spotify.com/track/3VQNBefg41rZVnmsyvFJ4T"
     },
     {
       "album": {
@@ -951,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Deep Rest 432 Hz",
+        "url": "https://open.spotify.com/album/7zKR3Meg6iALeC3jkWC7qs"
+      },
+      "artists": [
+        {
+          "name": "Particles And Waves",
+          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205895,
+      "name": "Deep Rest 432 Hz",
+      "url": "https://open.spotify.com/track/5CIskweV3RzJJM7BITR4GF"
+    },
+    {
+      "album": {
         "name": "Echo Canyon",
         "url": "https://open.spotify.com/album/7GZp8DGnNdbnQbgTft1UPf"
       },
@@ -1034,7 +1142,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 218666,
       "name": "Entheon (432 Hz)",
       "url": "https://open.spotify.com/track/6B83tjUpbpZc4V3GaUzUzI"
@@ -1110,6 +1218,24 @@
       "duration_ms": 147199,
       "name": "Free 432 Hz",
       "url": "https://open.spotify.com/track/2acJx8dQ4RiTdm7BOgVCqr"
+    },
+    {
+      "album": {
+        "name": "Gargantis 432 Hz",
+        "url": "https://open.spotify.com/album/5yghrFCE1rYyAC1PCc8ZXr"
+      },
+      "artists": [
+        {
+          "name": "Chalka",
+          "url": "https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182924,
+      "name": "Gargantis 432 Hz",
+      "url": "https://open.spotify.com/track/5Dp0BThAoivkDbhv64V1La"
     },
     {
       "album": {
@@ -1416,6 +1542,24 @@
       "duration_ms": 163790,
       "name": "Norrsken 432 Hz",
       "url": "https://open.spotify.com/track/7c3nGga7iJrHwRn44BWVa4"
+    },
+    {
+      "album": {
+        "name": "Northern Lights (432 Hz)",
+        "url": "https://open.spotify.com/album/3dD6gBDfm1P2nOKo8DVzjp"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208292,
+      "name": "Northern Lights (432 Hz)",
+      "url": "https://open.spotify.com/track/0WPfTE1oDpabffha6ib2We"
     },
     {
       "album": {
@@ -1743,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Through Clouds (432 Hz)",
+        "url": "https://open.spotify.com/album/0ExsOs3O04bf8GfxzqKwMl"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Wings",
+          "url": "https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195576,
+      "name": "Through Clouds (432 Hz)",
+      "url": "https://open.spotify.com/track/7z92CzQTlFhqHbGkvT6arJ"
+    },
+    {
+      "album": {
         "name": "Solfeggio Frequencies: Aligning for Change",
         "url": "https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE"
       },
@@ -1812,6 +1974,24 @@
       "duration_ms": 176400,
       "name": "Trust in Shanta",
       "url": "https://open.spotify.com/track/4lpZ6A3hPTZybFqmaOkRMM"
+    },
+    {
+      "album": {
+        "name": "Vibration Cleanse 432 Hz",
+        "url": "https://open.spotify.com/album/5NKAUV5cyXXAs7oEjpfdsx"
+      },
+      "artists": [
+        {
+          "name": "Cypress West",
+          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Vibration Cleanse 432 Hz",
+      "url": "https://open.spotify.com/track/2qidIZo2uVjMhg4qOPxGu1"
     },
     {
       "album": {

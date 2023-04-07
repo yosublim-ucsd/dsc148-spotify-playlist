@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 94561,
+  "num_followers": 94651,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDZkNjc3Y2IwOGM5MzhlOTk1ZjNiNzViMjhjODVlYmRj",
+  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDUyYjQzN2U0NTA3NjY2Y2Y5ODhmOWVhZGNkNDMzZmU4",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
+        "name": "Nectar Internacional",
+        "url": "https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2"
       },
       "artists": [
         {
-          "name": "Antologia",
-          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
-        },
-        {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
         }
       ],
-      "duration_ms": 246538,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
+      "duration_ms": 210048,
+      "name": "El Arbolito",
+      "url": "https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -435,6 +431,26 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
+      },
+      "artists": [
+        {
+          "name": "Antologia",
+          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
+        },
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "duration_ms": 246538,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "D\u00edas Felices",
         "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 260649,
       "name": "D\u00edas Felices",
       "url": "https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "Nectar Internacional",
-        "url": "https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "El Arbolito",
-      "url": "https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "El Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ"
-      },
-      "artists": [
-        {
-          "name": "El Lobo Y La Sociedad Privada",
-          "url": "https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "J\u00farame",
-      "url": "https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Homenaje a Mallanep: Donde Est\u00e1 el Amor / Una Aventura M\u00e1s / Me Rio de Ti",
         "url": "https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 344088,
       "name": "Homenaje a Mallanep: Donde Est\u00e1 el Amor / Una Aventura M\u00e1s / Me Rio de Ti",
       "url": "https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "El Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ"
+      },
+      "artists": [
+        {
+          "name": "El Lobo Y La Sociedad Privada",
+          "url": "https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "J\u00farame",
+      "url": "https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Necesito un Amor",
-        "url": "https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1"
-      },
-      "artists": [
-        {
-          "name": "El Lobo Y La Sociedad Privada",
-          "url": "https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh"
-        }
-      ],
-      "duration_ms": 250665,
-      "name": "Necesito un Amor",
-      "url": "https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "A..estilo propio y jaranero",
         "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
       },
@@ -611,6 +595,38 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Necesito un Amor",
+        "url": "https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1"
+      },
+      "artists": [
+        {
+          "name": "El Lobo Y La Sociedad Privada",
+          "url": "https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh"
+        }
+      ],
+      "duration_ms": 250665,
+      "name": "Necesito un Amor",
+      "url": "https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "D\u00edas Felices",
+        "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
+      },
+      "artists": [
+        {
+          "name": "Puro Sentimiento",
+          "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
+        }
+      ],
+      "duration_ms": 276192,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "D\u00edas Felices",
-        "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
-      },
-      "artists": [
-        {
-          "name": "Puro Sentimiento",
-          "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
-        }
-      ],
-      "duration_ms": 276192,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Cuerpo de Sirena",
         "url": "https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Expreso Tropical Parada 1",
-        "url": "https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9"
-      },
-      "artists": [
-        {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Decid\u00ed Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Sonido 2000 de Tarapoto",
         "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 195696,
       "name": "Mi Carin\u0303ito",
       "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Expreso Tropical Parada 1",
+        "url": "https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9"
+      },
+      "artists": [
+        {
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Decid\u00ed Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI"
     },
     {
       "added_at": "2023-03-31 05:01:00",

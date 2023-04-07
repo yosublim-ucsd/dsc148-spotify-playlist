@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Pony Bradshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,800 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,855 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [For the Birds](https://open.spotify.com/track/46dQTGTOvHTV3TFsNP7v3M) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Single Wide Dreamer](https://open.spotify.com/album/4aRnSu933sKKthwIVQT21x) | 3:41 |
 | 150 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 2:52 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDM3NDhlNjcwMWU0NTQwY2JlNGVlMWNjM2Y3ZmQ2ZDZh`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGU5OWI0ODg5YmYzYzgwODdiMzMwOGFlZmM2NDMwZDM3`

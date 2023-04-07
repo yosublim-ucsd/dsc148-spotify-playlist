@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Loyal Lobos",
-  "num_followers": 19381,
+  "num_followers": 19383,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMGU5ZTMxOWUwOWQ3NzYyNWM2YjljNjViZjE2MWEyN2M1",
+  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMGUzYTRkMDQzYTYwYTFlMzk1ZGY1NDhkMGZlY2VjNjcz",
   "tracks": [
     {
       "added_at": "2023-03-31 07:57:05",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
     },
     {
-      "added_at": "2023-04-06 00:51:14",
+      "added_at": "2023-04-07 01:15:28",
       "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/4O6GIo4XMXM80d4Ew0CB63"
@@ -459,22 +459,18 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Hija de Su",
-        "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "ETC!ETC!",
-          "url": "https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 179439,
-      "name": "Hija de Su",
-      "url": "https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6"
+      "duration_ms": 185252,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -511,34 +507,22 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
+        "name": "Hija de Su",
+        "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 185252,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
-      },
-      "artists": [
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "ETC!ETC!",
+          "url": "https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt"
         }
       ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+      "duration_ms": 179439,
+      "name": "Hija de Su",
+      "url": "https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -555,6 +539,22 @@
       "duration_ms": 241141,
       "name": "amigos con beneficios",
       "url": "https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Que Vuelvas / Bebe Dame",
         "url": "https://open.spotify.com/album/4QCle6zCruK9W630FupUSX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 176592,
       "name": "Que Vuelvas / Bebe Dame",
       "url": "https://open.spotify.com/track/2XrOorKhvt1a1Ed9cSegMu"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -723,6 +723,22 @@
       "duration_ms": 192631,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Santee",
+        "url": "https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 109267,
+      "name": "Santee",
+      "url": "https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -795,38 +811,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "DE CERO A 100",
-        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
-      },
-      "artists": [
-        {
-          "name": "Yeiow",
-          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "DE CERO A 100",
-      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
-        "name": "Santee",
-        "url": "https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 109267,
-      "name": "Santee",
-      "url": "https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "\u00bfD\u00f3nde?",
         "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 152280,
       "name": "\u00bfD\u00f3nde?",
       "url": "https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "DE CERO A 100",
+        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
+      },
+      "artists": [
+        {
+          "name": "Yeiow",
+          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "DE CERO A 100",
+      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
-      },
-      "artists": [
-        {
-          "name": "Calista Del Toro",
-          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
-        }
-      ],
-      "duration_ms": 155439,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "El Raulito",
         "url": "https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 190480,
       "name": "El Raulito",
       "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
+      },
+      "artists": [
+        {
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
+        }
+      ],
+      "duration_ms": 155439,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
     },
     {
       "added_at": "2023-03-31 07:57:05",

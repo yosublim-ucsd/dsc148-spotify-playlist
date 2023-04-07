@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 14,512 likes - 102 songs - 5 hr 31 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 14,516 likes - 102 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 45 | [wyha](https://open.spotify.com/track/3Crgm2QJ8gYI2QDH7BlWb1) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [fear mercury](https://open.spotify.com/album/0FTBBurxralM52bFSEYSVm) | 1:28 |
 | 46 | [ME FIRST \- UNIIQU3 Remix](https://open.spotify.com/track/0TPUSSrxRze721Yx31cH4h) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [ME FIRST](https://open.spotify.com/album/6OxThzjOBX7RToUOxjPppa) | 2:12 |
 | 47 | [Rider](https://open.spotify.com/track/7xYo6tEOdel51mhOm1Ppnw) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Rider](https://open.spotify.com/album/3yDq4Arl56qoFxO9VvWszG) | 2:05 |
-| 48 | [No Lies](https://open.spotify.com/track/7N1Fo26nFRTsqufTQ6eJQR) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Yū Novaa](https://open.spotify.com/artist/3A9QsMXZE9PQi4DRfoNBVU) | [No Lies](https://open.spotify.com/album/1WSpih9o4iO0wjuS3JKkAK) | 2:07 |
+| 48 | [No Lies](https://open.spotify.com/track/7N1Fo26nFRTsqufTQ6eJQR) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Yū Novaa](https://open.spotify.com/artist/3Q8nZhWO0C8sMiA9vFJDFW) | [No Lies](https://open.spotify.com/album/1WSpih9o4iO0wjuS3JKkAK) | 2:07 |
 | 49 | [HRT](https://open.spotify.com/track/4PEaz7zSFaQcRoYByKOSyn) | [Dualitè](https://open.spotify.com/artist/3yXr4W6KeCPGMpQKeeJFRP), [Og Nickelo](https://open.spotify.com/artist/5XPxV2cd4OnlyL0peqIsrR) | [Femqueen Tendencies](https://open.spotify.com/album/6d23I3OOQ1IBDhCCt64ClJ) | 2:33 |
 | 50 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 51 | [DOJILSON CAT](https://open.spotify.com/track/1IcN5uuPYPpUqbj2uRhjPX) | [DJ Lycox](https://open.spotify.com/artist/6HPUbM6BB61jpGbYOYMQ9C) | [DOJILSON CAT](https://open.spotify.com/album/0N2svoWL09eBFHVSxcT1do) | 2:05 |

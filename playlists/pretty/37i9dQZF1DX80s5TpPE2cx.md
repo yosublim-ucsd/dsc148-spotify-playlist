@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,146 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,161 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Not my Bae](https://open.spotify.com/track/3lBTbzfg1kooHibufzkj5x) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [Not my Bae](https://open.spotify.com/album/7M1PYdkEj0VasRUM5JMXmO) | 3:40 |
 | 80 | [Rapid Fire](https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:12 |
 
-Snapshot ID: `MTY3OTA1NzA5NiwwMDAwMDAwMGRiZGQyYTYwOTdmY2MzNmVhNDEzZWM0MDA2ZGI5YTdh`
+Snapshot ID: `MTY3OTA1NzA5NiwwMDAwMDAwMGIwODRlNzZiOWNkNmEwZTMzZTk1MTljNWE2NGEwOGVi`

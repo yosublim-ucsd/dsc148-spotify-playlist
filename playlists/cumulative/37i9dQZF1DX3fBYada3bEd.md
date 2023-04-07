@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-67 songs - 2 hr 35 min
+68 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Lil' red Rooster](https://open.spotify.com/track/2kqx7Js7xvJNFHABI75LRS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:49 | 2022-04-01 |  |
 | [Live Love Farming](https://open.spotify.com/track/7AZkJgq5zlPcZycHWGIVkc) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie Dream Jobs](https://open.spotify.com/album/185HaDUdT8Sc5Z7lZzfjPR) | 2:40 | 2022-04-01 |  |
 | [Lots Of Little Pigs](https://open.spotify.com/track/5itmtiXAl9iihvPIeLhl32) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 4:51 | 2022-04-01 |  |
-| [Mary Had a Little Lamb Song](https://open.spotify.com/track/1eLgThRQFLPLIP0nEMMrY4) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Nursery Rhymes, Vol\. 4](https://open.spotify.com/album/0Xg1vsgcTZwcAFCQoPYbJg) | 2:34 | 2022-04-01 |  |
+| [Mary Had a Little Lamb Nursery Rhyme](https://open.spotify.com/track/7r3lfD2MIPjkBv8EDQukOF) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChuTV Nursery Rhymes & Songs for Children, Vol\. 1](https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC) | 2:40 | 2022-07-25 |  |
+| [Mary Had a Little Lamb Song](https://open.spotify.com/track/1eLgThRQFLPLIP0nEMMrY4) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Nursery Rhymes, Vol\. 4](https://open.spotify.com/album/0Xg1vsgcTZwcAFCQoPYbJg) | 2:34 | 2022-04-01 | 2023-04-07 |
 | [Milking the Cow](https://open.spotify.com/track/0YGW1qpF0PT7JJVDgdwWop) | [The Kazoos](https://open.spotify.com/artist/6yXI0na8Uh8uDLkYMoXd3W) | [Twist and Shake](https://open.spotify.com/album/0M0cGJ6yJmVlE7dtkWMitx) | 2:17 | 2022-04-01 |  |
 | [My Poor Farmer Friend](https://open.spotify.com/track/7N373BaOXa9UjPfLXwM9EG) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [My Poor Farmer Friend](https://open.spotify.com/album/1d6pWovkkDfxc5wzLMW56h) | 2:55 | 2022-04-01 |  |
 | [Oats and Beans and Barley](https://open.spotify.com/track/5jK8ipbtGGtIEVLcW5S7yl) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Fun Food Songs](https://open.spotify.com/album/24wfwTCNevTGgV2acA4jhR) | 1:24 | 2022-04-01 |  |

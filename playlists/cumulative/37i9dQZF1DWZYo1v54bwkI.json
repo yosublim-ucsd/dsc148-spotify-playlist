@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Aero",
+        "url": "https://open.spotify.com/album/3qvFfJjBCK4hwwrBNgQdou"
+      },
+      "artists": [
+        {
+          "name": "Madna E\u00fara",
+          "url": "https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Aero",
+      "url": "https://open.spotify.com/track/2qEoxihjscVFFyPr2xvtfS"
+    },
+    {
+      "album": {
         "name": "Akitai",
         "url": "https://open.spotify.com/album/2HNm4TUulw9oTAyX3Wl4hZ"
       },
@@ -1046,6 +1064,24 @@
       "duration_ms": 180000,
       "name": "Easy Relaxation",
       "url": "https://open.spotify.com/track/5C2kORborDnldRKdr5jcQY"
+    },
+    {
+      "album": {
+        "name": "D\u00e9dalo",
+        "url": "https://open.spotify.com/album/21PsOK7kI5AwvtzxEVBbpi"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127166,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/4ss24g9SDlCKesKrc9CKHd"
     },
     {
       "album": {
@@ -3610,6 +3646,42 @@
       "duration_ms": 149433,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+    },
+    {
+      "album": {
+        "name": "Wellen",
+        "url": "https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF"
+      },
+      "artists": [
+        {
+          "name": "Celine Brandt",
+          "url": "https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Wellen",
+      "url": "https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/2QZcSPvaU5XKirgrkTj8xz"
+      },
+      "artists": [
+        {
+          "name": "Zahra Tate",
+          "url": "https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207152,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/5p1QvJTBgkDQMuGUt1oKOi"
     },
     {
       "album": {

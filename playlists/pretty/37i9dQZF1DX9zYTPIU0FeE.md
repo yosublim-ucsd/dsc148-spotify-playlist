@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=KYxuXu7nTI\-jQW\-GEScd1A">Robin Fassie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 55 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102 likes - 55 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 54 | [Ke Nako](https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Ke Nako](https://open.spotify.com/album/5GUTl5jAJTcGaV7Sn54KPx) | 6:49 |
 | 55 | [No Hope After 1](https://open.spotify.com/track/3sXTg8HJL6TdpNtADdlDIW) | [Fernando Damon](https://open.spotify.com/artist/33NVhommONkAqw8HnexI5K), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Surrender](https://open.spotify.com/album/4BB8QBZatr1sYCBeiXLzVg) | 3:25 |
 
-Snapshot ID: `MTY3OTA0ODg0OSwwMDAwMDAwMGE5NjBmNTVlMDQzNTAzOGU4NGZkNGZlN2MzZGUxMTZl`
+Snapshot ID: `MTY3OTA0ODg0OSwwMDAwMDAwMDBlZjc4YTE3MTMxYjc2OTczYmJhMTFlZmRiN2U1MTIw`

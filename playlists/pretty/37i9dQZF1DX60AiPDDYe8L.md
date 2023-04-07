@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,760 likes - 54 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,869 likes - 54 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 | 53 | [Tu Revolución](https://open.spotify.com/track/0xJ9lGn4GU99BVDg0uCKxi) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 3:48 |
 | 54 | [Vuelve a Mi](https://open.spotify.com/track/6lRE7UoLBqTGuItDLjL40P) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 4:14 |
 
-Snapshot ID: `MTY3ODc0MTYxNiwwMDAwMDAwMDM3Y2RmNTQ1ZDI5ZjNlNjlmYmEwNmQ0YjM1OTQ0ZTg5`
+Snapshot ID: `MTY3ODc0MTYxNiwwMDAwMDAwMDk3OGEyNGNmZDg1M2FhOGMwZjZhNWMwMmRlYTU3YmNl`

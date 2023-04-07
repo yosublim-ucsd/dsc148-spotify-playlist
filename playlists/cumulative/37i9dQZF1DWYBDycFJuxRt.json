@@ -5239,7 +5239,7 @@
     },
     {
       "album": {
-        "name": "Just Wanna Live It UP",
+        "name": "Just Wanna Live It Up",
         "url": "https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49"
       },
       "artists": [
@@ -5252,7 +5252,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 286040,
-      "name": "Just Wanna Live It UP",
+      "name": "Just Wanna Live It Up",
       "url": "https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7"
     },
     {
@@ -6266,7 +6266,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 202658,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ"
@@ -7866,6 +7866,24 @@
       "duration_ms": 268000,
       "name": "passion",
       "url": "https://open.spotify.com/track/6cdX42p8jBWPHrmsi1D7hb"
+    },
+    {
+      "album": {
+        "name": "Perfect Weekend",
+        "url": "https://open.spotify.com/album/3nbGsOxWbyBwywTWpHIcrm"
+      },
+      "artists": [
+        {
+          "name": "MORISAKI WIN",
+          "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233053,
+      "name": "Perfect Weekend",
+      "url": "https://open.spotify.com/track/47TLEpxJiGD8GtBXHinaO7"
     },
     {
       "album": {
@@ -10472,6 +10490,24 @@
       "duration_ms": 252000,
       "name": "Time To Feel",
       "url": "https://open.spotify.com/track/6jknjUPHmK4B86MlxU5Vkv"
+    },
+    {
+      "album": {
+        "name": "Time Travel Girl",
+        "url": "https://open.spotify.com/album/3RvM5QWyMn7lkkcev0cmbz"
+      },
+      "artists": [
+        {
+          "name": "Qujila Yoluno Machi",
+          "url": "https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "Time Travel Girl",
+      "url": "https://open.spotify.com/track/7Gyut69T9psJY0WvK8pgDM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,153 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,357 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 64 | [Bobote \(Remix\)](https://open.spotify.com/track/25l01IhzLGr3nKFOW3z99f) | [El Experimento \(Macgyver\)](https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Sabiduria](https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [Yofrangel](https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o) | [Bobote \(Remix\)](https://open.spotify.com/album/4tb3tezrL2j6KHFSoMLjmD) | 6:00 |
 | 65 | [Chivirika](https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts) | 3:32 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGYzYjQzYTUwNzg2NTUzNGYxMGQyODYzYzE1NTIzZjg2`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGFhZGVhYmNhYzAxNzcwOGQwODdkNzUxNWY5N2YzZWJk`

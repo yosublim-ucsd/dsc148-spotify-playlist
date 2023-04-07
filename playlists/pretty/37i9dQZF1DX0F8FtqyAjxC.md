@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,430 likes - 65 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,488 likes - 65 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 64 | [Everybody Get Dancin'](https://open.spotify.com/track/3ZQcIJ9p2FW1f60tQarbOG) | [Bombers](https://open.spotify.com/artist/0B8DukBzbrLO5yDtRp8fBP) | [Bombers 2](https://open.spotify.com/album/4uSDBHHQ4OiRTExvzQXXks) | 9:28 |
 | 65 | [No Enemy](https://open.spotify.com/track/7qgUf0BDgA9QilFOX1JbBA) | [Animai](https://open.spotify.com/artist/3rUghwDRUFMbgo2AOwvh2f) | [No Enemy](https://open.spotify.com/album/5U5AZuUR3s4iHAKSaErCKH) | 3:58 |
 
-Snapshot ID: `MTY3ODI3Mzc3NywwMDAwMDAwMDliN2E3MmM1MTcyY2I3MTU3NzM3MGYxODViYTRkMTcz`
+Snapshot ID: `MTY3ODI3Mzc3NywwMDAwMDAwMDI3ZmFmODJmYmMwZDQ5NjAyYWQ5OWJlNDY0MmUyMjUz`

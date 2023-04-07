@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Julia Vit\u00f3ria",
-  "num_followers": 285738,
+  "num_followers": 285842,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDkzMDk1NTlmMzRjNTYyNzQ3Mzc3OWYwYmFkNGFhMmRj",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGIwM2NlOGM3NDBiMDVhODk1ZTEzMGNmY2EyMjM5OWFj",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 290080,
       "name": "Deus Faz Al\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Deus dos Bastidores",
+        "url": "https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 332325,
+      "name": "Deus dos Bastidores",
+      "url": "https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Totalmente Santo",
         "url": "https://open.spotify.com/album/7cThFhPZX8qG4Sfi5OkLBr"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 279613,
       "name": "Totalmente Santo",
       "url": "https://open.spotify.com/track/4q5ySZjEV1vtEOKux4uX1j"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Deus dos Bastidores",
-        "url": "https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 332325,
-      "name": "Deus dos Bastidores",
-      "url": "https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+        "name": "Pra Te Ver Feliz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o4NqqS8HrlxFldYnCC4yE"
       },
       "artists": [
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 203960,
-      "name": "Colhendo Frutos (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf"
+      "duration_ms": 389336,
+      "name": "Pra Te Ver Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4FmwdvLV1ccm1tCUNwjhu3"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -875,34 +875,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Pra Te Ver Feliz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o4NqqS8HrlxFldYnCC4yE"
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 389336,
-      "name": "Pra Te Ver Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4FmwdvLV1ccm1tCUNwjhu3"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Gratid\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 239156,
-      "name": "Fiel A Mim",
-      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
+      "duration_ms": 203960,
+      "name": "Colhendo Frutos (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 239156,
+      "name": "Fiel A Mim",
+      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o que Sangra / Vem Me Consolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi"
-      },
-      "artists": [
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Teu Falar - Ao Vivo",
-      "url": "https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
         "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 241874,
       "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
       "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi"
+      },
+      "artists": [
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU"
     },
     {
       "added_at": "2023-03-24 03:00:00",

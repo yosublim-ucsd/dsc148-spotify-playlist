@@ -1094,6 +1094,24 @@
     {
       "album": {
         "name": "Daybreak",
+        "url": "https://open.spotify.com/album/6go1i7O1O3Y5f5MJH93SA5"
+      },
+      "artists": [
+        {
+          "name": "Tehan Form",
+          "url": "https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/5WNO5bppVKvSXgjy6QDZh4"
+    },
+    {
+      "album": {
+        "name": "Daybreak",
         "url": "https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih"
       },
       "artists": [
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 174000,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT"

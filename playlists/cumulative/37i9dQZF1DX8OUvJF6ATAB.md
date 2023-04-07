@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-295 songs - 1 day 1 hr 43 min
+296 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Freedom at the 45th Floor](https://open.spotify.com/track/2mDbBQ9Abwo3AV1cbc14Uk) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 4:34 | 2021-10-06 | 2022-07-26 |
 | [Freedom at the 45th Floor](https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:34 | 2021-10-06 |  |
 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 | 2021-10-06 | 2023-03-19 |
+| [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 | 2021-10-06 |  |
 | [Full Panther](https://open.spotify.com/track/5qZXf3CNN9m6ORnKTBe07Y) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Long Stories](https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6) | 3:23 | 2021-10-06 |  |
 | [Full Panther](https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Full Panther](https://open.spotify.com/album/6NnHFMmeDC1R31eheMh725) | 3:23 | 2021-10-06 | 2022-07-29 |
 | [Generations](https://open.spotify.com/track/3W3FjTsD4KrHssVVBf7Gvk) | [Yuuki Matthews](https://open.spotify.com/artist/6p5igBFAfMJlJRLDIcUP7n) | [Funny Morning](https://open.spotify.com/album/33QUh3g9UqsgAuQ4NFrrAJ) | 12:18 | 2021-10-06 | 2022-07-28 |
@@ -302,6 +303,6 @@
 | [Yes! Come Parade With Us](https://open.spotify.com/track/298GDYfwfCREA9RCpnQmq8) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [You Were Always an Island](https://open.spotify.com/track/6e0Qx4lJaPmOUOVAOi9EWQ) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/0uegy8HcbYlg5k3TgImGu7) | 5:54 | 2021-10-06 | 2022-07-29 |
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-10-18 |
-| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 |  |
+| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 | 2023-04-07 |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

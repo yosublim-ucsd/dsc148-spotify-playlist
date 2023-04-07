@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9551,
+  "num_followers": 9569,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMDczNmU4OWViNzYyZmI4ZDE0MTE5MjY5Yzk0ZDU5YmFh",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGU4ODM4N2RiMTFhMmIxODA2NzhjOTdjY2FkMGQ0YmY2",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-04-06 00:50:50",
+      "added_at": "2023-04-07 01:06:44",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
+      "added_at": "2023-04-07 01:06:44",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
       "added_at": "2023-02-28 10:14:13",
       "album": {
         "name": "SOLISTA Part.2",
@@ -451,22 +467,6 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2023-04-06 00:50:50",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Strangers Again, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa"
-      },
-      "artists": [
-        {
-          "name": "Hajin",
-          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
-        }
-      ],
-      "duration_ms": 253680,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -665,7 +649,23 @@
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
-      "added_at": "2023-04-06 00:50:50",
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Strangers Again, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "duration_ms": 253680,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
+    },
+    {
+      "added_at": "2023-04-07 01:06:44",
       "album": {
         "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
         "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
-      "added_at": "2023-04-06 00:50:50",
+      "added_at": "2023-04-07 01:06:44",
       "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
@@ -817,28 +817,20 @@
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
-      "added_at": "2023-04-06 00:50:50",
+      "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Wouldn't have",
-        "url": "https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
-      "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

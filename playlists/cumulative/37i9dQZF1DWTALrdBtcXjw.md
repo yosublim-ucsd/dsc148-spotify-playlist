@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-254 songs - 22 hr 52 min
+255 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,10 +194,11 @@
 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 | 2022-09-16 |  |
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2020-03-31 | 2022-05-04 |
 | [Rest and Be Thankful](https://open.spotify.com/track/2yUk5hBWGU9beINGlx5Pk1) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Rest and Be Thankful](https://open.spotify.com/album/4DRkAoGZfJJGK5P3pCZx51) | 6:42 | 2023-03-23 |  |
+| [Ron's Place](https://open.spotify.com/track/0zMHFQZiWaSLsKweL8CRI7) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 6:30 | 2023-03-23 |  |
 | [Runmarö](https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Runmarö](https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i) | 5:41 | 2022-02-24 |  |
 | [Sandu](https://open.spotify.com/track/6OYVeWlKICv4I70RM1yHUC) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/2BpAy5GfHM0An9M0TOprBq) | 4:57 | 2020-03-31 | 2022-04-28 |
 | [Seeds Of Change](https://open.spotify.com/track/0ezRjBMuxG1PcW0FEVgaWS) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Trio Tapestry](https://open.spotify.com/album/5frkvwu4yxiU1d024x89KW) | 5:13 | 2020-03-31 | 2022-11-12 |
-| [Send In the Clowns](https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Send In the Clowns](https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0) | 5:21 | 2022-02-24 |  |
+| [Send In the Clowns](https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Send In the Clowns](https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0) | 5:21 | 2022-02-24 | 2023-04-07 |
 | [September In the Rain](https://open.spotify.com/track/253VASytYpIZrZGpTlHyHQ) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 7:33 | 2020-03-31 |  |
 | [September Morn \- Radio Edit](https://open.spotify.com/track/2q7eZQzmjwp8zlQEZlo0dx) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [September Morn \(Radio Edit\)](https://open.spotify.com/album/6WB3xKeIV1nSXUOM4TnzOy) | 3:09 | 2022-02-18 | 2022-03-02 |
 | [September Song](https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Marco Fratini](https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX), [Roberto Gatto](https://open.spotify.com/artist/1NCnU3PlLALiTCr6bgQEH8) | [September Song](https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA) | 6:08 | 2022-09-16 | 2023-03-13 |

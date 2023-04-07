@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: So!YoON! \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,255 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,274 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 |
 | 75 | [Temu Hilang](https://open.spotify.com/track/0PBu9JJYbbNWEQwlq4h1mr) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Temu Hilang](https://open.spotify.com/album/5fhlsWWzVbuRDJ0K9QwKIF) | 5:51 |
 
-Snapshot ID: `MTY4MDIzNjg5MiwwMDAwMDAwMGJmZTA5ZDdiNjU3Yzg0ZTI2MDM5OWJkZTViYzVhZTll`
+Snapshot ID: `MTY4MDIzNjg5MiwwMDAwMDAwMGNmNTMwMTEzNzEyNzgzYWIzZmM2MjMzZWY4YTQ4MjQx`

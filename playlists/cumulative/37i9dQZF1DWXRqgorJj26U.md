@@ -2,7 +2,7 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Cover: Foo Fighters
+> Rock legends & epic songs that continue to inspire generations\. Cover: Queen
 
 364 songs - 1 day 2 hr 55 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Nabihah Iqbal",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Jasmine Jethwa",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -716,6 +716,24 @@
       "duration_ms": 207640,
       "name": "Don't Rush (feat. Headie One)",
       "url": "https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7"
+    },
+    {
+      "album": {
+        "name": "Same Streets But I Don't See You Around",
+        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213856,
+      "name": "Don't See You Around",
+      "url": "https://open.spotify.com/track/5JqFDF0EAPFc0S4S3qm4fB"
     },
     {
       "album": {

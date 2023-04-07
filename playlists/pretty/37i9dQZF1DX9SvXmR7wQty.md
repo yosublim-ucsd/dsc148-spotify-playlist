@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Philippe Brach, Eli Rose, Maude Audet et Super Plage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,216 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,222 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [La Masia](https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [La Masia](https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS) | 2:22 |
 | 50 | [Ma petite entreprise](https://open.spotify.com/track/6EPZV6aJrOaudNPTOtAiII) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:42 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDE3NWFlOTk1MDUwODNlZmI2OTFiMGRkOTQ3NzUwZmUx`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDA2NGM3MmVkYzkzMzBiZmYxZTdhYTU0MDM5ZWM1MDRl`

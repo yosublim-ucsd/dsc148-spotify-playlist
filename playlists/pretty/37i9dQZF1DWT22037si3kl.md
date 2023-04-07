@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: WC no Beat, Young Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,968 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,102 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Volvo sem placa](https://open.spotify.com/track/4QiAwMtRTvSdup6BtOgDYJ) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv) | [Volvo sem placa](https://open.spotify.com/album/1SfbniI5nihS2tv51SvZ6z) | 2:48 |
 | 50 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 
-Snapshot ID: `MTY4MDI5MjU2MiwwMDAwMDAwMDgyODY3Y2RlMzBkOGJjNzIwZDU1Y2ZmZGY2ODA0N2Y3`
+Snapshot ID: `MTY4MDI5MjU2MiwwMDAwMDAwMDUzY2MyMDJhMmQ3NTdkNmZkZTg3MjhhYTcwYmU5YjQ0`

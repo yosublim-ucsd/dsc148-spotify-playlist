@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-148 songs - 5 hr 47 min
+149 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 | 2022-09-09 |  |
 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2022-11-11 |  |
 | [French Inhale](https://open.spotify.com/track/4JLI9AgtAXutJvjlXgZBoR) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [444](https://open.spotify.com/album/5A2924LaWCYkWpug5N583R) | 1:48 | 2022-09-09 | 2022-11-19 |
-| [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/track/5qhWIOZ6HztbHnsWNnkJTf) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/album/57Q4oIX0NNzE8pcZhE0XIW) | 3:56 | 2022-09-09 |  |
+| [Get You The Moon / Agar Tum Saath Ho \(Medley\)](https://open.spotify.com/track/1XvKTdRwlYCbMdtFdvsSZd) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon / Agar Tum Saath Ho \(Medley\)](https://open.spotify.com/album/7sVV56UYxgPrr4VtLEDXCX) | 3:56 | 2023-03-10 |  |
+| [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/track/5qhWIOZ6HztbHnsWNnkJTf) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/album/57Q4oIX0NNzE8pcZhE0XIW) | 3:56 | 2022-09-09 | 2023-04-07 |
 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 | 2022-09-09 |  |
 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 | 2022-09-09 |  |
 | [Hosanna \- Lofi Flip](https://open.spotify.com/track/7BbhFrLzCP7DdnV69vVbCv) | [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Hosanna \(Lofi Flip\)](https://open.spotify.com/album/4g9Bvb10Z0SL4PkVLUbBIM) | 4:16 | 2022-09-09 |  |

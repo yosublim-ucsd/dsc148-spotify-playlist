@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: TAEWOO\(태우\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,329 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,370 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [the way you move](https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [pool vol\. 1 \- the way you move](https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM) | 2:29 |
 | 100 | [Once Again](https://open.spotify.com/track/4shzLSlIHhyKmTY7xRQRwU) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Once Again](https://open.spotify.com/album/05ptYQOuOL5bMv2IVEr3lP) | 3:28 |
 
-Snapshot ID: `MTY4MDI1MzkwNCwwMDAwMDAwMDA5YWU0OTE4MjdhZTAxYmI0ZmJlMjkwMzlhYjQxMmMy`
+Snapshot ID: `MTY4MDI1MzkwNCwwMDAwMDAwMDBhNDlkMTI1YzY0MWZlMzM3MGFmYTg5NzI4NDg4YjZk`

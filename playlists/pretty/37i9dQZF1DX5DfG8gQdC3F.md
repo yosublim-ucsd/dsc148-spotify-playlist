@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tyler, The Creator, Josh Ross, City and Colour, and Melanie Martinez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,979 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,984 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [When Did I Grow Up?](https://open.spotify.com/track/5OQc60sLFAKinNJpZ2QDr4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [When Did I Grow Up?](https://open.spotify.com/album/2HNtL0Gt037SCCMV1r5DcF) | 2:49 |
 | 100 | [Wicked Ways](https://open.spotify.com/track/16JyXevchIe3L8XrSBGWt4) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Wicked Ways](https://open.spotify.com/album/58caVrNlbdcJSWYYxei3Ax) | 3:00 |
 
-Snapshot ID: `MTY4MDIzNTU0MywwMDAwMDAwMGFlOWE5MTZkMDQwMjRjZGU4NTI3NWQ5NDYzNjIxM2Iy`
+Snapshot ID: `MTY4MDIzNTU0MywwMDAwMDAwMDk4Zjg0YjU3Njc2ZTVjYjA5OWNmOTBhZmY4NjYyMjUw`

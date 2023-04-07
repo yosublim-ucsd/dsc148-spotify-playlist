@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,428 likes - 63 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,852 likes - 63 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 62 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 63 | [You Oughta Know](https://open.spotify.com/track/1dUpj0vJ2mMPZC9P3jecyq) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know](https://open.spotify.com/album/7eMwL8nKcoYE8AYFO7LTuO) | 4:08 |
 
-Snapshot ID: `MTY3MTAxMjE5MSwwMDAwMDAwMGFiNjA2NDRkMjIyNDY5MDNjY2Q1ZDJiZmFmMDAzOGM4`
+Snapshot ID: `MTY3MTAxMjE5MSwwMDAwMDAwMDRmZjYyNTNkYTQ1YjE3NmU5MDZjMzNlY2YxNjcwMjEy`

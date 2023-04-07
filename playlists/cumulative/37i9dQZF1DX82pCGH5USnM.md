@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-708 songs - 1 day 16 hr 41 min
+710 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Drifting Birds](https://open.spotify.com/track/5nOth6ffzv6CJoz1Uo2G0u) | [Marcelo Paladini](https://open.spotify.com/artist/25BgfscpzfJH0pk8VR0jkx) | [Drifting Birds](https://open.spotify.com/album/7CckFa2hnZAMN9wIuxuE4O) | 7:35 | 2021-02-10 | 2021-08-20 |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2021-09-09 |  |
 | [driver seat](https://open.spotify.com/track/2Ttja9UD1t9GeD8MzL8J4v) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [driver seat](https://open.spotify.com/album/1WKAAaqwcZpMP3gA7JhZGf) | 2:18 | 2023-01-13 |  |
+| [easy](https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [easy](https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk) | 2:19 | 2023-04-07 |  |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-11 | 2020-12-02 |
 | [eazy eve](https://open.spotify.com/track/29cC6bQqSFxERHGHm9XNWS) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [eazy eve](https://open.spotify.com/album/414wliVLhq5yZEXrtL02n6) | 2:21 | 2022-10-07 |  |
 | [Echo Valley](https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL) | [Spreading Rhythm](https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB) | 4:01 | 2022-10-28 |  |
@@ -366,6 +367,7 @@
 | [Lost In Space](https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Lost In Space](https://open.spotify.com/album/5nxDCvzrUHYfqLPWZbPnYN) | 3:38 | 2022-09-02 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-10 | 2022-06-24 |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2021-01-27 | 2021-02-10 |
+| [lowfie](https://open.spotify.com/track/3u3osPhHe6pRdqwkxFktf1) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [lowfie](https://open.spotify.com/album/3HW3ITcip0DBM5Kr6Djc4i) | 2:19 | 2023-04-07 |  |
 | [Lunar Lullaby \(mr\_slace Remix\)](https://open.spotify.com/track/3wsc7ZbIdpLrGiY62Kpvs7) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo), [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [Lunar Lullaby \(mr\_slace Remix\)](https://open.spotify.com/album/3l7unGPT6PYXB0mbjf7g0C) | 3:02 | 2020-04-03\* | 2020-12-02 |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 | 2020-04-03\* | 2021-04-21 |

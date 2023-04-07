@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Basia Siciarek, Helena Pyłka \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,464 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,538 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Droga Pani](https://open.spotify.com/track/17fn8JkutKoWtYuNSmc1Hw) | [cosmos](https://open.spotify.com/artist/7q349p87C2eR92EJcRX3P1) | [Droga Pani](https://open.spotify.com/album/69NUIudAjLkIJ6BC670Zui) | 2:54 |
 | 100 | [Płomień](https://open.spotify.com/track/0Xjt8RIFVp180DucOlCy8E) | [Holi](https://open.spotify.com/artist/59wXanKsE0OJKGkuQYaTYW) | [Płomień](https://open.spotify.com/album/4y5LsRhsNMOdUDqJB5MiZm) | 4:05 |
 
-Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMGY4ZDgyYWZlZjU5OWMzNWNkYTZiYzdhM2U2MTVmMzBm`
+Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMDRlZTcyMzBiNTJhYTEyNWJiZDFlN2Y5ZmU1NzRjMGFh`

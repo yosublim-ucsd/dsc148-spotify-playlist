@@ -4,7 +4,7 @@
 
 > This Is Girls' Generation\. The essential tracks, all in one playlist.
 
-166 songs - 10 hr 5 min
+167 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [The Boys \*Bring The Boys\* \- Teddy Riley Remix](https://open.spotify.com/track/751VCyYR0ZLHbz2IzBXUPy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 4:03 | 2022-08-08 |  |
 | [The Boys \- Clinton Sparks & Disco Fries Remix](https://open.spotify.com/track/0lgjN8m6N7SndvLmwo5nm7) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Lil Playy](https://open.spotify.com/artist/1d5znoU7LGiCy3H8TMtLWg), [Clinton Sparks](https://open.spotify.com/artist/3kOPviLsiuKCFTTsHc47lI), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 4:16 | 2022-08-08 |  |
 | [The Boys \- Clinton Sparks & Disco Fries Remix](https://open.spotify.com/track/7eIEa58JbbZyDPYpJNBkxc) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 4:16 | 2022-08-08 | 2023-04-02 |
-| [The Boys \- English Version](https://open.spotify.com/track/3ym8svDx03YE9WDdLOOg1z) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 3:48 | 2022-08-08 |  |
+| [The Boys \- English Version](https://open.spotify.com/track/162MHwMBYufdE5jyoRobTo) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:48 | 2022-08-08 |  |
+| [The Boys \- English Version](https://open.spotify.com/track/3ym8svDx03YE9WDdLOOg1z) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | ['The Boys' Maxi Single](https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1) | 3:48 | 2022-08-08 | 2023-04-07 |
 | [Time Machine](https://open.spotify.com/track/01DWHWYLvPOo1VwidHhza8) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [THE BEST](https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6) | 3:54 | 2022-08-08 |  |
 | [Tinkerbell](https://open.spotify.com/track/3WSLv2WNgHE0BNMrHC0Jye) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 2:57 | 2022-08-08 |  |
 | [Tinkerbell](https://open.spotify.com/track/50gbSEqBtfGfEawoTYvYcj) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [BABY BABY \- Girls' Generation Repackage](https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg) | 2:57 | 2022-08-08 |  |

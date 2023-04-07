@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. NAMIDA in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Piqued Jacks in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 150980,
       "name": "20 Anni",
       "url": "https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 260053,
       "name": "ALL'INFERNO C'\u00c8 IL SOLE",
       "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 187480,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 111235,
       "name": "Backrooms",
       "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
@@ -1048,6 +1048,24 @@
       "duration_ms": 169161,
       "name": "CARTA, FORBICE, SESSO",
       "url": "https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K"
+    },
+    {
+      "album": {
+        "name": "Casa stanza letto dormi",
+        "url": "https://open.spotify.com/album/5nBYAfZJPDVYwD4RmoavSY"
+      },
+      "artists": [
+        {
+          "name": "\u2044handlogic",
+          "url": "https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415047,
+      "name": "Casa stanza letto dormi",
+      "url": "https://open.spotify.com/track/30Yp1eG2fOC9hEyQ6jVrL8"
     },
     {
       "album": {
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 612500,
       "name": "Dimensioni",
       "url": "https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 141235,
       "name": "Dubbi",
       "url": "https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56"
@@ -1794,6 +1812,24 @@
       "duration_ms": 180973,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/4rrTYw1uDqd3pMTUmuHEVF"
+    },
+    {
+      "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/3WStdc6SEuhTOaHjNUKitb"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282211,
+      "name": "D\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/5aSydqX9Sp3ubiLLOzA9QF"
     },
     {
       "album": {
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Erwin",
       "url": "https://open.spotify.com/track/1AgaLw689q2wdgfP7LpbtR"
@@ -2018,7 +2054,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 140559,
       "name": "EVERYTHING SUCKS!",
       "url": "https://open.spotify.com/track/453gVRCWZ0SKSoWfQzyFqY"
@@ -2256,7 +2292,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 129149,
       "name": "FOR MYSELF",
       "url": "https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo"
@@ -2358,6 +2394,24 @@
       "duration_ms": 224678,
       "name": "Freddo Inverno",
       "url": "https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg"
+    },
+    {
+      "album": {
+        "name": "Funeral Rave Party (Radio Edit)",
+        "url": "https://open.spotify.com/album/7ai4EzJ3U5dnFWGrG3ZRkx"
+      },
+      "artists": [
+        {
+          "name": "Le capre a sonagli",
+          "url": "https://open.spotify.com/artist/5sI5YxKCjVdLXSuEvd2FJM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246323,
+      "name": "Funeral Rave Party - Radio Edit",
+      "url": "https://open.spotify.com/track/7dq8SMrfvB6UU1kO9p5P8e"
     },
     {
       "album": {
@@ -2805,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Il colore si perde",
+        "url": "https://open.spotify.com/album/2bYOG0a6yL1qZYrtnNIcgX"
+      },
+      "artists": [
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Il colore si perde",
+      "url": "https://open.spotify.com/track/6BCi9E6yGSjQb4y49dPPQE"
+    },
+    {
+      "album": {
         "name": "Il fondo",
         "url": "https://open.spotify.com/album/1V8RFgIucDguNn7nIpqBsi"
       },
@@ -3175,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Kingston",
+        "url": "https://open.spotify.com/album/5uDldxfvAeabJ6ylTDNwy2"
+      },
+      "artists": [
+        {
+          "name": "Selflore",
+          "url": "https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154953,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/7qSR7XjG33IecK7QQZ7EZN"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss",
         "url": "https://open.spotify.com/album/4FXq0Cd18QqBGdlWbdZuZO"
       },
@@ -3366,10 +3456,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 407262,
       "name": "Libera (esseri umani perfetti)",
       "url": "https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz"
+    },
+    {
+      "album": {
+        "name": "Like an Animal",
+        "url": "https://open.spotify.com/album/4ZC0Mn6F39LpmArk28IbIo"
+      },
+      "artists": [
+        {
+          "name": "Piqued Jacks",
+          "url": "https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179773,
+      "name": "Like an Animal",
+      "url": "https://open.spotify.com/track/7nHxIAj5achKMZnYNcbzfe"
     },
     {
       "album": {
@@ -3681,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "MI FAI VENIRE",
+        "url": "https://open.spotify.com/album/5wHd3qad8Ht7zOSgHI7zOu"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154766,
+      "name": "MI FAI VENIRE",
+      "url": "https://open.spotify.com/track/268VnTQdISBVKmKhplrCUS"
+    },
+    {
+      "album": {
         "name": "Milioni di strade",
         "url": "https://open.spotify.com/album/5RCjhOxheSBtZ7ezp1R7GM"
       },
@@ -3700,6 +3826,24 @@
       "duration_ms": 192739,
       "name": "Milioni di strade",
       "url": "https://open.spotify.com/track/3WkO6y6Q8AAkoUkHgg4WqH"
+    },
+    {
+      "album": {
+        "name": "Minotauro",
+        "url": "https://open.spotify.com/album/0aTMRpWfh5BswfjfwqLDIz"
+      },
+      "artists": [
+        {
+          "name": "Serpenti",
+          "url": "https://open.spotify.com/artist/7uGoFZlVfI0evNWPpZS0ea"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198989,
+      "name": "Minotauro",
+      "url": "https://open.spotify.com/track/0LBVX7wOR1PBThlKHpoyLW"
     },
     {
       "album": {
@@ -3772,6 +3916,24 @@
       "duration_ms": 184661,
       "name": "Mondo",
       "url": "https://open.spotify.com/track/73WScEsNUM9ayo0ahYJDPO"
+    },
+    {
+      "album": {
+        "name": "Mondo Cane",
+        "url": "https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8"
+      },
+      "artists": [
+        {
+          "name": "Methos",
+          "url": "https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134543,
+      "name": "Mondo Cane",
+      "url": "https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK"
     },
     {
       "album": {
@@ -3894,7 +4056,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 151367,
       "name": "Nofriends",
       "url": "https://open.spotify.com/track/52dN2iEMEfK6lOFRdbDt8r"
@@ -4032,7 +4194,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 192283,
       "name": "Non \u00e8 cos\u00ec male",
       "url": "https://open.spotify.com/track/34J9aaAIK8hx44I00gTm1y"
@@ -4183,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "Love Conductor",
+        "url": "https://open.spotify.com/album/3RJaUwLebeaKGW5F82WM1S"
+      },
+      "artists": [
+        {
+          "name": "His Electro Blue Voice",
+          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Odd Vapors",
+      "url": "https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo"
+    },
+    {
+      "album": {
         "name": "Ok boomer (feat. Brunori Sas)",
         "url": "https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg"
       },
@@ -4252,7 +4432,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 200475,
       "name": "Palle piene",
       "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
@@ -4310,6 +4490,24 @@
       "duration_ms": 232307,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE"
+    },
+    {
+      "album": {
+        "name": "Parole a mezz'aria",
+        "url": "https://open.spotify.com/album/6H01BF9TixXXsqDOkjq3G2"
+      },
+      "artists": [
+        {
+          "name": "Andrea Poggio",
+          "url": "https://open.spotify.com/artist/3Mv7eyRJ31gsg4IZqRJ3oj"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "Parole a mezz'aria",
+      "url": "https://open.spotify.com/track/1ButxTgOpGtcCMZOqyWm2y"
     },
     {
       "album": {
@@ -4606,7 +4804,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 328467,
       "name": "Preda",
       "url": "https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u"
@@ -4798,7 +4996,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 235068,
       "name": "Quello Che Non C'\u00e8 (feat. Manuel Agnelli)",
       "url": "https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx"
@@ -4820,6 +5018,24 @@
       "duration_ms": 210870,
       "name": "Record",
       "url": "https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs"
+    },
+    {
+      "album": {
+        "name": "Religione",
+        "url": "https://open.spotify.com/album/1tagO5z43CGsbmETkOp4YN"
+      },
+      "artists": [
+        {
+          "name": "Sidea",
+          "url": "https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168038,
+      "name": "Religione",
+      "url": "https://open.spotify.com/track/3ub4NLZaKzI3VgjK1Y6rh6"
     },
     {
       "album": {
@@ -5328,7 +5544,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 238733,
       "name": "Soa",
       "url": "https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d"
@@ -5860,7 +6076,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 176143,
       "name": "The Helmet",
       "url": "https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM"
@@ -5957,6 +6173,42 @@
     },
     {
       "album": {
+        "name": "Ticking",
+        "url": "https://open.spotify.com/album/0TLJkKNmpLZ7iZZKwQJH7R"
+      },
+      "artists": [
+        {
+          "name": "Elli de Mon",
+          "url": "https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Ticking",
+      "url": "https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah"
+    },
+    {
+      "album": {
+        "name": "Tipi a Posto",
+        "url": "https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF"
+      },
+      "artists": [
+        {
+          "name": "Antartica",
+          "url": "https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140975,
+      "name": "Tipi a posto",
+      "url": "https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb"
+    },
+    {
+      "album": {
         "name": "Topi",
         "url": "https://open.spotify.com/album/68WjLDJML5tpV0wjOuMdjk"
       },
@@ -5972,6 +6224,24 @@
       "duration_ms": 204112,
       "name": "Topi",
       "url": "https://open.spotify.com/track/5GCBuDynnVjvmxAjqJBEEl"
+    },
+    {
+      "album": {
+        "name": "Torino non \u00e8 la mia citt\u00e0",
+        "url": "https://open.spotify.com/album/0y0n9AJZaUJ1QefMfIRlKU"
+      },
+      "artists": [
+        {
+          "name": "Scheletri",
+          "url": "https://open.spotify.com/artist/5tzlUTfnx5Wp7dRPrJ8nPj"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Torino non \u00e8 la mia citt\u00e0",
+      "url": "https://open.spotify.com/track/3YL6KwcKsIoQ7yLgBR4fUG"
     },
     {
       "album": {
@@ -6300,7 +6570,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 220821,
       "name": "Una guerra da perdere",
       "url": "https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: BKAYE\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,044 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,101 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Bow Street](https://open.spotify.com/track/5hH5wT6OP4rwTYxW5Omk9h) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Bow Street / Disco Nap](https://open.spotify.com/album/48ooxkhdFxRpIFNlt314Hs) | 2:54 |
 | 100 | [T Minus](https://open.spotify.com/track/6VH91gjItq7rKiYnIPApQ2) | [suki](https://open.spotify.com/artist/1vIOPkrhJl84CvBcT6LPyq) | [T Minus](https://open.spotify.com/album/0RSh5kgB4s3tRpQEcIkx0f) | 5:38 |
 
-Snapshot ID: `MTY4MDcyNjAwMSwwMDAwMDAwMGZlMGFmNWY4OTRhOWMyZDE0N2VlOWVhNWI5OWZiNmU0`
+Snapshot ID: `MTY4MDcyNjAwMSwwMDAwMDAwMGRjZjM2ZmE0NmIwMThlYjFhZjg2MjJhNjg0YzU0MzI5`

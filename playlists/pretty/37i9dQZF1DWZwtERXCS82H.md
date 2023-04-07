@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,612 likes - 357 songs - 15 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,919 likes - 357 songs - 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -366,4 +366,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 356 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 |
 | 357 | [Le parole non bastano](https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Le parole non bastano](https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o) | 2:31 |
 
-Snapshot ID: `MTY4MDUzNjcwOSwwMDAwMDAwMDFhYmQ2ZmJhM2QzZWY0ZWQ4YjhlNzdhZGE0OWQxMTQy`
+Snapshot ID: `MTY4MDUzNjcwOSwwMDAwMDAwMDg0NGJmYjA3MmMwM2VjYTEyZDc2YzM2ZmFkZjI3YTdk`

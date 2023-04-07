@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,297 likes - 120 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,329 likes - 120 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 119 | [Apocahop](https://open.spotify.com/track/2bLjPXKgk0dakp3TyoNbfL) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Improvisations Vol II](https://open.spotify.com/album/3reLUAR9N27KxigDJdHLv4) | 2:51 |
 | 120 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDc1ZWI0NjA5NDczMjM1ZDdmMzBmZDg0OWEwYjFiZGRm`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGE0MjI3MWU3OWNjZmYyODBlOTJkZTE2MDZkZDBhMDlk`

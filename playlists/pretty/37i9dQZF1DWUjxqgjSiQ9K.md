@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2?si=f386227dbd804841">Marco Witt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,180 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,384 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Cantando Bueno Es Dios](https://open.spotify.com/track/4m6rZMvNMNi3kNgJsoOsF6) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cosas Nuevas](https://open.spotify.com/album/7N0rgEUYUUxqlZEDnOy6EA) | 4:24 |
 | 100 | [Dulce Compañía](https://open.spotify.com/track/0grJmN960jlAECmg8iDXKd) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Omar Herrera](https://open.spotify.com/artist/4xYi3BaHkw5QR854GqM626) | [Dulce Compañía](https://open.spotify.com/album/1HAj6KJN3twwpvXteQBjhl) | 3:10 |
 
-Snapshot ID: `MTY4MDI1NDA1OSwwMDAwMDAwMDY0ZmFhMWZlY2NiOTdhNDFlNmYxNzgxZmVmMGI4MzAx`
+Snapshot ID: `MTY4MDI1NDA1OSwwMDAwMDAwMDljMDE3NzA1MzFhMDcxZjY1NjQzY2QzZGQ3OTRlMTQy`

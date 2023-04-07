@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230998,
+  "num_followers": 231010,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDQxNWMwZWJmNDYyMWYzMzRlN2ZkZGEyZjIxNWE4OGUy",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDliYWY5OGZlYTcyNDdmODVjODRhZTljNjRiNTE5MzZm",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -219,22 +219,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
+        "name": "Fading Nights",
+        "url": "https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         },
         {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
+      "duration_ms": 346500,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -255,22 +255,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Fading Nights",
-        "url": "https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
         },
         {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 346500,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Slow Me Down",
-        "url": "https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 219230,
-      "name": "Slow Me Down",
-      "url": "https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Feel The Heat",
         "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Slow Me Down",
+        "url": "https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 219230,
+      "name": "Slow Me Down",
+      "url": "https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Everything Shines",
         "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 179889,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Elephant & Castle",
-        "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
-      },
-      "artists": [
-        {
-          "name": "Wilmer Woo",
-          "url": "https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Elephant & Castle",
-      "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -807,6 +791,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Elephant & Castle",
+        "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
+      },
+      "artists": [
+        {
+          "name": "Wilmer Woo",
+          "url": "https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Elephant & Castle",
+      "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 196670,
       "name": "All Good",
       "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
-      },
-      "artists": [
-        {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
-        }
-      ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -855,6 +839,22 @@
       "duration_ms": 169514,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2021-08-05 09:09:59",

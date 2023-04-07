@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Dan Sánchez & Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,513 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,061 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Un Gallito](https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Nico Orozco](https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe) | [Un Gallito](https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ) | 3:02 |
 | 75 | [Oro Negro](https://open.spotify.com/track/627JaIxyG2KyF2BKRMOPhK) | [Los De La 21](https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE) | [Oro Negro](https://open.spotify.com/album/6QeXTk5uTSARcSO6NR7OJF) | 3:41 |
 
-Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDc4YTA3NTk0YTdlMjgzMmQzY2YwMjU0NTVlNjI2NmNl`
+Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDRkY2M5NzhmMGQwMTRlMTg2Mzc2MzMxMjgwMDEwMmIw`

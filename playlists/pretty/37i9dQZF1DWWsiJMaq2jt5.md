@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: DOROTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,168 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,191 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Siła](https://open.spotify.com/track/4WWurNR85U5xuAvASQ3VzT) | [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0) | [Święta Krowa](https://open.spotify.com/album/7HFmeBFXouB8qRJnF3DBbd) | 4:30 |
 | 50 | [Sny](https://open.spotify.com/track/5StqXIcyzlx9HRnyBILAgD) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [Sny](https://open.spotify.com/album/5i7gmWU9eucGKnOzEuItpO) | 3:42 |
 
-Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMDM0Yzc4ZGVhYTEwYWNmMDI3MDU1YmQ2NzJkOGViNTRk`
+Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMDliZmMzMDU1MjVmMTdjYzY1ZjUzYTRlMGRlMTA5NDYy`

@@ -4,7 +4,7 @@
 
 > it's a cinnamon infused kind of mood
 
-223 songs - 13 hr 52 min
+224 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Spotlight Television](https://open.spotify.com/track/5o5CADtcyCZFR2COk8EJ2g) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Smiling Like An Idiot](https://open.spotify.com/album/4Q86qieApCBrN9e2vnlzmG) | 4:08 | 2022-09-23 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-15 |  |
 | [Stitch In Time](https://open.spotify.com/track/4tiRSHVKzGaQrVnFl5ftCT) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Stitch In Time](https://open.spotify.com/album/4Djwfb3aTfbfiJbNufSuex) | 3:43 | 2022-09-16 | 2022-10-14 |
-| [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2021-12-03 |  |
+| [Stolen Dance](https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary \(Bonus Track Version\)](https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN) | 5:13 | 2022-10-06 |  |
+| [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2021-12-03 | 2023-04-07 |
 | [Stranger](https://open.spotify.com/track/4OUdItctfCnA8UiHuRcaeA) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Stranger/Visitor](https://open.spotify.com/album/3eVN1EhD8XTnBb7ObKY4sl) | 3:09 | 2022-08-15 | 2022-09-24 |
 | [Strays](https://open.spotify.com/track/6vD5foyinWW6MVmqMh5etE) | [Michael Malarkey](https://open.spotify.com/artist/1BmeAxSZ0TRREkzKKwMlx7) | [Strays](https://open.spotify.com/album/45JRk9o7tiUcqoM4gOylX8) | 3:59 | 2022-06-22 | 2022-08-16 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-09-16 | 2022-09-24 |

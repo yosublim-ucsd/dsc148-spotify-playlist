@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/23xgRYhf7NbleK53LGwgAp"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5MbszOoRyTOwOIJEOIZn6v"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Viduthalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Kaattumalli",
+      "url": "https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk"
+    },
+    {
+      "album": {
         "name": "Oh My Kadavule (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Rz5sEK5x1qzlKsGxwlxGK"
       },
@@ -1451,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Namma Satham (From \"Pathu Thala\")",
+        "url": "https://open.spotify.com/album/4LgQVd0XGV8AKiszUTsBSa"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215489,
+      "name": "Namma Satham (From \"Pathu Thala\")",
+      "url": "https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS"
+    },
+    {
+      "album": {
         "name": "Imaikkaa Nodigal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6iiGyjdV6vQ5aQTw872aDS"
       },
@@ -1598,6 +1642,44 @@
       "duration_ms": 249671,
       "name": "Othaiyadi Pathayila",
       "url": "https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m"
+    },
+    {
+      "album": {
+        "name": "Paadatha Pattellam (From \"Rudhran\") - Single",
+        "url": "https://open.spotify.com/album/5l3eBNA5oU8nLlLty57mUT"
+      },
+      "artists": [
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Nithyashree Venkataramanan",
+          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
+        },
+        {
+          "name": "Emcee D",
+          "url": "https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8"
+        },
+        {
+          "name": "Viswananthan - Ramamoorthy",
+          "url": "https://open.spotify.com/artist/4boLbuKNNyZVHPALfmbtN4"
+        },
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "Kannadasan",
+          "url": "https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287391,
+      "name": "Paadatha Pattellam (From \"Rudhran\")",
+      "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
     },
     {
       "album": {
@@ -2274,7 +2356,7 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Srivardhini",
+          "name": "Srivardhani Kuchi",
           "url": "https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4"
         },
         {

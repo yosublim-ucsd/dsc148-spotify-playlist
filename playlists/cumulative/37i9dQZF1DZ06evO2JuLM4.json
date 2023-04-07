@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230463,
+      "name": "Lovesick - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw"
+    },
+    {
+      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 172573,
       "name": "Rated X - Live at Hotel Yorba",
       "url": "https://open.spotify.com/track/7j7M5QszpIxwh6u9dvjT8x"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 127480,
       "name": "Red Bowling Ball Ruth",
       "url": "https://open.spotify.com/track/30siUDNDehoZno3ovCjRlm"
@@ -758,6 +776,24 @@
       "duration_ms": 262573,
       "name": "Take, Take, Take",
       "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171168,
+      "name": "The Air Near My Fingers - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3ghB4ioxsIapyD6VJF5VGI"
     },
     {
       "album": {

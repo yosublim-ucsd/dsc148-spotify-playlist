@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+45 1888](https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:50 | 2023-02-11 |  |
+| [+45 1888](https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:50 | 2023-02-11 | 2023-04-07 |
 | [03:15 \(feat\. KESI\)](https://open.spotify.com/track/1d0qTcufwr0b58PQj3ezAN) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:31 | 2022-09-03 | 2022-09-11 |
 | [07 I 6A](https://open.spotify.com/track/1PjIWIzLRtYrGNZF9VVBiX) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:00 | 2022-10-22 | 2022-10-31 |
 | [1 Sammen](https://open.spotify.com/track/17y8YQMtDmaSKDvzBlHPD3) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 3:18 | 2022-01-15 | 2022-02-20 |
@@ -190,7 +190,7 @@
 | [Danser](https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Danser](https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv) | 2:39 | 2022-04-23 | 2023-01-03 |
 | [Danser Kun For Dig](https://open.spotify.com/track/2FsJvP6UAPk4Hz2WgHaT4A) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [Danser Kun For Dig](https://open.spotify.com/album/299ByLsreUOVfJJYUaivGD) | 2:28 | 2023-02-27 | 2023-03-02 |
 | [Danser Med Diablo](https://open.spotify.com/track/3Y7DrSY1cnn7AyTakPIzsW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Danser Med Diablo](https://open.spotify.com/album/5X4FnXVZQ0JJjdCQU1s52Q) | 2:45 | 2021-08-22 | 2021-09-13 |
-| [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 | 2023-03-15 |
+| [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2022-08-19 |  |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-10 | 2022-01-12 |
 | [Daydate \(feat\. Abcitoo\)](https://open.spotify.com/track/4HQZqXCDny7EECn458ez55) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 2:43 | 2023-03-11 | 2023-03-13 |

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 58893,
+  "num_followers": 58931,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDllOTEyNWE5YzdhZmUzNzQ4Y2I4NGMxNWRiOGZmMjg1",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDgwZWQyYjE2MWJiYzM3OTJkODk2MWU0YzAyZWMzOThl",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 256109,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 176120,
       "name": "Temporal",
       "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 256109,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
     },
     {
       "added_at": "2023-03-10 05:01:00",

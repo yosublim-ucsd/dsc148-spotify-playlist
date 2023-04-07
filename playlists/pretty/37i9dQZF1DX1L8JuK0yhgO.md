@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,752 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,750 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Retro Music \(Radio Mix\)](https://open.spotify.com/track/0ovD793rDIo3hgLuBsad5Q) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Retro Music](https://open.spotify.com/album/5dyohNyRi7OH5O1C7OprXQ) | 3:34 |
 | 60 | [PIANO PIANO \- Radio Edit](https://open.spotify.com/track/1xg7tJCRwfbzoOw4Nxo0ch) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [PIANO PIANO](https://open.spotify.com/album/2Ib3FVmmooG87iv6Y1G9kR) | 3:56 |
 
-Snapshot ID: `MTY4MDQ5MTAzNywwMDAwMDAwMDBhMTFlN2Y3M2Q0NzIzODRjYTNlZGY5N2U4YzczMDE5`
+Snapshot ID: `MTY4MDQ5MTAzNywwMDAwMDAwMDM3NzMwNzYwMjE2OThhNjU2NWYwZWY4MDk3M2I2Mzll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,319,557 likes - 132 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319,733 likes - 132 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 131 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 132 | [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 |
 
-Snapshot ID: `MTY4MDI0MzIwMCwwMDAwMDAwMGE4NTMzMDM0NDNiNTE2Mzg3YzE4Zjc3YjRkNGJkZjVi`
+Snapshot ID: `MTY4MDI0MzIwMCwwMDAwMDAwMGVjZDI1ODQyNzZiOTQxNWFiMDhkMDYxMmUyYWM5ZWM4`

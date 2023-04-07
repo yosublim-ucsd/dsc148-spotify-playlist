@@ -2061,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/5H68CtVXVMBMiifT3Px875"
+      },
+      "artists": [
+        {
+          "name": "Deeter K",
+          "url": "https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/6rwt2eHNCTkN7Qf8glvwKW"
+    },
+    {
+      "album": {
         "name": "go back to sleep",
         "url": "https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e"
       },

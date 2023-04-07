@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JustmineNika. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LOST CHIPS. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 284800,
       "name": "B-Side (\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e22\u0e37\u0e19\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d)",
       "url": "https://open.spotify.com/track/52PQehOOWXhrcqxg6J2rtY"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 177391,
       "name": "FAKE\u0e14\u0e35\u0e2d\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/4jUwGi2gIlWiqNabjzwRPI"
@@ -420,6 +420,24 @@
       "duration_ms": 170026,
       "name": "Feelz",
       "url": "https://open.spotify.com/track/1MIYVXnc8uQU0ljQOuZoTN"
+    },
+    {
+      "album": {
+        "name": "FRIEND ZONE (\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e23\u0e39\u0e49\u0e43\u0e08) Ft. LILPRESENT, Wiz Pharangghy, \u0e2b\u0e31\u0e27\u0e1b\u0e25\u0e32\u0e27\u0e32\u0e2c, PAIRY",
+        "url": "https://open.spotify.com/album/4nJbsLx0oPXfgZgB8Ms46Z"
+      },
+      "artists": [
+        {
+          "name": "E.S.T.",
+          "url": "https://open.spotify.com/artist/7d4wyWT7dXwHsHeWjanXUM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "FRIEND ZONE (\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e23\u0e39\u0e49\u0e43\u0e08) Ft. LILPRESENT, Wiz Pharangghy, \u0e2b\u0e31\u0e27\u0e1b\u0e25\u0e32\u0e27\u0e32\u0e2c, PAIRY",
+      "url": "https://open.spotify.com/track/1nFh4wC2diSvt8LSk4P0bo"
     },
     {
       "album": {
@@ -517,6 +535,24 @@
     },
     {
       "album": {
+        "name": "HIGH SCORE (\u0e41\u0e15\u0e49\u0e21\u0e1a\u0e38\u0e0d)",
+        "url": "https://open.spotify.com/album/42oQIPoSuOKsh7wOESus6W"
+      },
+      "artists": [
+        {
+          "name": "PENNY",
+          "url": "https://open.spotify.com/artist/6mSWVj4UUz57gPQsTN426N"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "HIGH SCORE (\u0e41\u0e15\u0e49\u0e21\u0e1a\u0e38\u0e0d)",
+      "url": "https://open.spotify.com/track/2GLGtpSAFswpuwPK8ULlJX"
+    },
+    {
+      "album": {
         "name": "hits me good",
         "url": "https://open.spotify.com/album/5eSl6Da1LfyOeAhurr1MDW"
       },
@@ -590,7 +626,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 162747,
       "name": "IMMA LET YOU GO \u0e40\u0e2d\u0e32\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e2a\u0e1a\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6F06sb4xwHFEEjs9ijUQKp"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 242787,
       "name": "OK-HAK (\u0e2d\u0e01\u0e2b\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/0O7dGRbN1QhDBypAWUulYv"
@@ -1212,7 +1248,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 207127,
       "name": "R U OK?",
       "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 265479,
       "name": "With You",
       "url": "https://open.spotify.com/track/1Ut3G9bH8BfOGe2NCL5G9a"
@@ -1607,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e35\u0e1a\u0e25\u0e33\u0e14\u0e27\u0e19",
+        "url": "https://open.spotify.com/album/15cfrD2XuueQrerZDrBNuU"
+      },
+      "artists": [
+        {
+          "name": "Mariko",
+          "url": "https://open.spotify.com/artist/5SD1L5q8Ey69BKeU7cVZBO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243529,
+      "name": "\u0e01\u0e25\u0e35\u0e1a\u0e25\u0e33\u0e14\u0e27\u0e19",
+      "url": "https://open.spotify.com/track/4g86IKZnctkmLPaVixUZJH"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e48\u0e2d\u0e07 (Forbidden)",
         "url": "https://open.spotify.com/album/2TCSrruKKMNuXFNPhRzsEx"
       },
@@ -1622,6 +1676,24 @@
       "duration_ms": 230839,
       "name": "\u0e01\u0e25\u0e48\u0e2d\u0e07 - Forbidden",
       "url": "https://open.spotify.com/track/2u9NxSt6puZkMY8e2bglrK"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/5T4A89PfJrXE8FNPvIeabC"
+      },
+      "artists": [
+        {
+          "name": "LOST CHIPS",
+          "url": "https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245483,
+      "name": "\u0e01\u0e27\u0e48\u0e32\u0e08\u0e30\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/2uoL5po7rtiWWvlsPKCBQU"
     },
     {
       "album": {
@@ -2101,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e08\u0e32\u0e01\u0e09\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e2a\u0e19\u0e44\u0e01\u0e25 (Prod. by gearypenprapa)",
+        "url": "https://open.spotify.com/album/2o5kuQAf5VT5Y3uJSAycCm"
+      },
+      "artists": [
+        {
+          "name": "5847 (Non)",
+          "url": "https://open.spotify.com/artist/1i7Z0HH31bpu9s6lYDU9co"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e08\u0e32\u0e01\u0e09\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e2a\u0e19\u0e44\u0e01\u0e25 (Prod. by gearypenprapa)",
+      "url": "https://open.spotify.com/track/1N5zOSKHvd8MBK4vSTOKkT"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49 (Gone)",
         "url": "https://open.spotify.com/album/4NdIJyyZFSgqKO1HzTey1A"
       },
@@ -2184,7 +2274,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 360000,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01 (Blue)",
       "url": "https://open.spotify.com/track/3eW6OVELeJERholLoUqWmY"
@@ -2502,6 +2592,24 @@
       "duration_ms": 241415,
       "name": "\u0e04\u0e39\u0e48\u0e0a\u0e34\u0e1b",
       "url": "https://open.spotify.com/track/51Tvycfb8DQIGaWvoW4VkY"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e48\u0e33\u0e04\u0e37\u0e19\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/2ysGU9SPa0g6lKHIB0rHVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Boy",
+          "url": "https://open.spotify.com/artist/5p5J02Czf9HMlPayLcrDsE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252896,
+      "name": "\u0e04\u0e48\u0e33\u0e04\u0e37\u0e19\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/0pmpDJJjcC80JhF7UrzXum"
     },
     {
       "album": {
@@ -3440,7 +3548,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 204774,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e01\u0e25 (Moon to Mars)",
       "url": "https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo"
@@ -4271,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e2d\u0e07\u0e19\u0e32\u0e19\u0e46",
+        "url": "https://open.spotify.com/album/63MlivAib9hvTM2l5LHZUQ"
+      },
+      "artists": [
+        {
+          "name": "FLI:P",
+          "url": "https://open.spotify.com/artist/2U9wS8LxAOEzJ6SzdY0TIV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222108,
+      "name": "\u0e21\u0e2d\u0e07\u0e19\u0e32\u0e19\u0e46",
+      "url": "https://open.spotify.com/track/7asHKSY5IKnYD5TDabFxno"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e31\u0e48\u0e19\u0e44\u0e2b\u0e21 (Are You?)",
         "url": "https://open.spotify.com/album/0axdQpYeTvUjHMBOOoi0Vn"
       },
@@ -4286,6 +4412,28 @@
       "duration_ms": 213500,
       "name": "\u0e21\u0e31\u0e48\u0e19\u0e44\u0e2b\u0e21 (Are You?)",
       "url": "https://open.spotify.com/track/1nStTuO7S75gAIywcWRGyr"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e37\u0e2d\u0e1b\u0e23\u0e32\u0e1a\u0e04\u0e19\u0e2b\u0e25\u0e32\u0e22\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/3kqRn6ESVNMlbSUBLCRZoI"
+      },
+      "artists": [
+        {
+          "name": "LITTLEPOND",
+          "url": "https://open.spotify.com/artist/0tsA2G7czMIyiIp6DdeUyD"
+        },
+        {
+          "name": "K.AGLET",
+          "url": "https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179792,
+      "name": "\u0e21\u0e37\u0e2d\u0e1b\u0e23\u0e32\u0e1a\u0e04\u0e19\u0e2b\u0e25\u0e32\u0e22\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/4Yb3KMrxFFnqO1tfkxDqXb"
     },
     {
       "album": {
@@ -4462,7 +4610,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 183300,
       "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
@@ -5941,6 +6089,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e41\u0e1f\u0e19\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/3lzCmgECioAgt4Us3yNRCV"
+      },
+      "artists": [
+        {
+          "name": "James Anthony",
+          "url": "https://open.spotify.com/artist/73sFeeMVKAJsncS1dNcgek"
+        },
+        {
+          "name": "AOFZ",
+          "url": "https://open.spotify.com/artist/5HoIsY5C21hkvgtjIAuMOB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249618,
+      "name": "\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e41\u0e1f\u0e19\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/5Q6UUbu4UfbkhRRChI7Cxz"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e22\u0e31\u0e07\u0e21\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
         "url": "https://open.spotify.com/album/562Qa8TJI0xoS6sdVVJnyC"
       },
@@ -7261,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2c889WjQ6RRYzWyccBwjXc"
+      },
+      "artists": [
+        {
+          "name": "A Night Days",
+          "url": "https://open.spotify.com/artist/6YThUNKTeIOTIYJIcAV21F"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273500,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/3CnQZiKNVBFMiEzZvGFDcX"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e44\u0e1b\u0e44\u0e2b\u0e19",
         "url": "https://open.spotify.com/album/75ZGlENiiZreVmMjtbYb36"
       },
@@ -7290,7 +7478,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 183157,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e04\u0e19\u0e08\u0e35\u0e19",
       "url": "https://open.spotify.com/track/0ozpnuvi3kAle9vZHRwvs8"

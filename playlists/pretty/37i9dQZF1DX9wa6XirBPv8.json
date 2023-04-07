@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1484678,
+  "num_followers": 1485448,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMGJmNTgwOWE0NjIyZTJlYTEwMDI0YWE5ZDVlZWJlYmMz",
+  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMDc1NTI5MWIxYmYyMzJiN2QxODRmMDI2ZGFhNTBlNTJl",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
     },
     {
-      "added_at": "2023-04-06 01:01:24",
+      "added_at": "2023-04-07 00:46:18",
       "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Baby, You Wouldn't Last A Minute On The Creek",
-      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
       },
@@ -1069,7 +1053,23 @@
       "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
     },
     {
-      "added_at": "2023-04-06 01:01:24",
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Baby, You Wouldn't Last A Minute On The Creek",
+      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+    },
+    {
+      "added_at": "2023-04-07 00:46:18",
       "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
-      "added_at": "2023-04-06 01:01:24",
+      "added_at": "2023-04-07 00:46:18",
       "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"

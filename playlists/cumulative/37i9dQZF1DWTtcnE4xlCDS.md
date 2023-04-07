@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-120 songs - 7 hr 35 min
+121 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Prayer](https://open.spotify.com/track/0e3J9w5XeUq7zLICM7VKjY) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Prayer](https://open.spotify.com/album/4RkyRGUSz9b3Biwl0fNjZB) | 3:58 | 2023-01-26 |  |
 | [PRECIOUS NIGHT](https://open.spotify.com/track/70E8iQmFwLKzYDdaGlyyrO) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [ハレトキドキ](https://open.spotify.com/artist/6nU3k3VQREJ4fiUafZzmwH), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [PRECIOUS NIGHT](https://open.spotify.com/album/7tIumwmVAVf6PilLZ1s7sX) | 4:32 | 2022-12-08 |  |
 | [Princess Memeism](https://open.spotify.com/track/1rLB3WgbThVEA1OFx20ciE) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 3:26 | 2022-08-24 |  |
+| [Rediscovery! Exploring Akiba☆](https://open.spotify.com/track/3hmK6kFNVuNuafbyKRfxtd) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Kijibato](https://open.spotify.com/artist/0Nu6ol0k7wvv19hjtMK5f5), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [東雲和音 \(CV: 天音みほ\)](https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [Rediscovery! Exploring Akiba☆](https://open.spotify.com/album/7I2ioQCtIw1rdsr3EnZBLu) | 3:25 | 2023-04-06 |  |
 | [REIGN](https://open.spotify.com/track/2vpTEOs2PdL8Tx0IjTK3C6) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4), [AZK](https://open.spotify.com/artist/2sLu25h7FN3IoNikCXI6Py), [Toki](https://open.spotify.com/artist/4IzocsmuSeLgAfPWf0EkwH) | [REIGN](https://open.spotify.com/album/3DeKeE8hyDJ9zEcaY9uAVS) | 4:27 | 2022-08-24 |  |
 | [Reverse Edge](https://open.spotify.com/track/2gIFO4B71chQvFfUb6dzI5) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Kan Takahiko](https://open.spotify.com/artist/2eOPTQxZPGde8cZPJv80SX) | [Reverse Edge](https://open.spotify.com/album/7qPh0T13PCTFhoJolDuHj6) | 2:45 | 2023-01-05 |  |
 | [Shining Lights](https://open.spotify.com/track/3wnlmjn5e8PxKZ9hO3sDS5) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ) | [Shining Lights](https://open.spotify.com/album/5gPKUS7jXWWZiAIEQcMTiB) | 3:27 | 2022-10-13 | 2022-11-13 |

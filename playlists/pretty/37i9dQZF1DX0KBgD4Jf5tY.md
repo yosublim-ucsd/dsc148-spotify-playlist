@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0yjjCja9FIK0ROO6HLMiO4">D'Amore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,736 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,745 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [..\. per chi non muore](https://open.spotify.com/track/74BGv8M4947ugt1xcQtYsK) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [..\. per chi non muore](https://open.spotify.com/album/5XAffghy7rYiBe0zosXeim) | 3:23 |
 | 50 | [MAL DI TESTA](https://open.spotify.com/track/4wlDvF3D2JvocY53F3PiKX) | [Yuma](https://open.spotify.com/artist/3TSbPuX2fNmCbH5Zkz0gKT) | [MAL DI TESTA](https://open.spotify.com/album/0Q6MMXsfye1JUqxBmvC3eP) | 2:30 |
 
-Snapshot ID: `MTY4MDY0NTY2MCwwMDAwMDAwMDAzZTExNmE5NWU4NGRjNTIwNDI1ODcwNDdhY2M4NWFh`
+Snapshot ID: `MTY4MDY0NTY2MCwwMDAwMDAwMDUyZWI1NGU3NWFiNDVlYTczNDBjNjk4MDA2N2Q5MTA4`

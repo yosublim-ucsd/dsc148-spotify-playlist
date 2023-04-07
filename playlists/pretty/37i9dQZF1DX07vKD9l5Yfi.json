@@ -1,12 +1,12 @@
 {
   "description": "The perfect noughties blend.",
-  "num_followers": 853800,
+  "num_followers": 853923,
   "original_name": "Unwind 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDI0NzM3NiwwMDAwMDAwMGVjYWQ0MjE5MTAzY2ZmMWQ2ZGE1NzQ5Mjk1NGEzZmZk",
+  "snapshot_id": "MTY1MDI0NzM3NiwwMDAwMDAwMDQ4ODIwM2U3MDg4ODE3MzZmMTk3NjllMWQwN2E1YmI1",
   "tracks": [
     {
       "added_at": "2020-06-18 05:30:15",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-06-18 05:30:15",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": "2020-06-18 05:30:15",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2020-06-18 05:30:15",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "added_at": "2020-06-18 05:30:15",

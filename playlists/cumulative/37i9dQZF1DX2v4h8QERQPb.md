@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-189 songs - 9 hr 49 min
+190 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-11 |  |
 | [Callar Lo Que Siento](https://open.spotify.com/track/5xFuu6Io7zyxiNPLdmYe0X) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd) | [Callar Lo Que Siento](https://open.spotify.com/album/0g4wmnw7flK30K2KyLAn07) | 2:38 | 2021-11-26 | 2022-03-12 |
 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 | 2021-11-26 |  |
-| [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 | 2021-11-26 |  |
+| [Caos](https://open.spotify.com/track/1aFTMdBgBx9uYeE8Kf0aC4) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/0WwbpuXVItyWA8l2Km6MBZ) | 2:02 | 2023-03-30 |  |
+| [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 | 2021-11-26 | 2023-04-07 |
 | [Caro](https://open.spotify.com/track/0LkuHRZJxg8lDqOqeMgi7i) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX), [Eney](https://open.spotify.com/artist/0k5fct6YYlVUwSHkuxKvre) | [Caro](https://open.spotify.com/album/2terVtDIynq8ZwCpSZqWVa) | 2:45 | 2021-11-26 | 2022-02-19 |
 | [Con Billetes](https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 4:21 | 2023-01-27 |  |
 | [CRO \- VIAIPI ft\. FRANKY STYLE](https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9) | 2:26 | 2021-11-26 | 2022-07-29 |

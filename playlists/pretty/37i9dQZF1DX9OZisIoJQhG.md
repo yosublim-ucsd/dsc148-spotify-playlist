@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,327 likes - 43 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,968 likes - 43 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 42 | [Mozart: String Quintet No\. 3 in C Major, K\. 515: IV\. Allegro](https://open.spotify.com/track/3O1IQIwr9vG6ZpqhMhntTE) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Mozart: String Quintets K\. 515 & 516](https://open.spotify.com/album/2Bw1ElP4NTVRByYTyDCOJj) | 7:19 |
 | 43 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/5Mke4uDfnpMkHAVhYmPuSE) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Mario Venzago](https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX) | [Elgar: Cello Concerto/Dvorak/Respighi](https://open.spotify.com/album/7KJN1NU8YXaMzDvYbijnYP) | 3:02 |
 
-Snapshot ID: `MTY4MDcwMzA1OCwwMDAwMDAwMGY1YzMwY2FlNzRlNTI2YzJlYTE4MTYzYjk4NTA3NmNl`
+Snapshot ID: `MTY4MDcwMzA1OCwwMDAwMDAwMDhiMjRmOTcyN2E3MzZjYjI5Njc1ZGRmMzVkNzViY2E0`

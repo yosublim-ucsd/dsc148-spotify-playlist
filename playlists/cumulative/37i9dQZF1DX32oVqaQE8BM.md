@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-518 songs - 22 hr 2 min
+519 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Landscapes](https://open.spotify.com/track/2tiS22ZNe7hQXlXV9tbC2b) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Landscapes](https://open.spotify.com/album/663gCPIce9BBNGuHmixOvM) | 2:58 | 2022-12-23 |  |
 | [Laponia](https://open.spotify.com/track/1UWszS2YSzYNxUNv14e2x4) | [J&Mock](https://open.spotify.com/artist/1YXxp9FBi4cEJSvFgU4ydk) | [Laponia](https://open.spotify.com/album/6d6UbXOpNqgyJ8AE8P5TRP) | 2:32 | 2021-11-10 |  |
 | [Last Summer](https://open.spotify.com/track/6Bqz6Yl5ZjMgR4AUVCIL77) | [Ajiro](https://open.spotify.com/artist/33DMJIaq5YdW41SvVQPk1w) | [A Great Place](https://open.spotify.com/album/0dJcjVO6bnDHyUyuLuGrBw) | 1:34 | 2022-05-13 | 2022-07-01 |
+| [Late Silence](https://open.spotify.com/track/02mMoE8BlPky0H1Jfc76Yx) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Late Silence](https://open.spotify.com/album/28hZHjWMDcFbTzsAJBHuXg) | 3:02 | 2023-04-06 |  |
 | [Legends of the Windwalker Prince](https://open.spotify.com/track/4xVzuqZOPhJDOBuD7lOQTe) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 2:38 | 2021-11-10 | 2022-01-22 |
 | [Lesters Adventure](https://open.spotify.com/track/0WOGzTW5TEp1p1J3WCiSzM) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Paws For A Second](https://open.spotify.com/album/4GBIGs6taHticCXjvePE5U) | 2:05 | 2021-11-10 | 2022-07-01 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
@@ -451,7 +452,7 @@
 | [sway](https://open.spotify.com/track/4jGNHbF5bari1lvsaatO3j) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [sway](https://open.spotify.com/album/6Ad1vR1Bg8pJrdmmzkLZu8) | 2:13 | 2022-06-10 | 2022-07-01 |
 | [Swaying Corals](https://open.spotify.com/track/6IO8p3PbENWzNcGbTJCyv7) | [AMUSE\-BOUCHE](https://open.spotify.com/artist/16q5TzwMH8iHZonglSDZHh) | [Swaying Corals](https://open.spotify.com/album/4KDGo5aHTeFkmNDqUrOcHh) | 1:54 | 2021-11-10 | 2022-01-22 |
 | [swervin](https://open.spotify.com/track/0kemLSRDkuaj7gHjnZZEZg) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [ejak](https://open.spotify.com/album/6PCNOgXSMMJzsF4VqRDPFB) | 1:55 | 2021-11-10 |  |
-| [Swimma](https://open.spotify.com/track/5b5keQTPfxtm8F3OZ47ck2) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Swimma](https://open.spotify.com/album/7cX31Tag9Fn9OBSrd8cLIG) | 2:23 | 2022-06-17 |  |
+| [Swimma](https://open.spotify.com/track/5b5keQTPfxtm8F3OZ47ck2) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Swimma](https://open.spotify.com/album/7cX31Tag9Fn9OBSrd8cLIG) | 2:23 | 2022-06-17 | 2023-04-07 |
 | [tales of lofi](https://open.spotify.com/track/6eqxpWfMgix6kIBIARRKyL) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [tales of lofi](https://open.spotify.com/album/0bQwhR1lM7yFQSKDER1Bvv) | 1:49 | 2022-08-19 |  |
 | [Tastes Good](https://open.spotify.com/track/4bI06A9nrTfdgbZStV1tMc) | [Bonny Roland](https://open.spotify.com/artist/2mATgh8AsOgRf2YuGobljB) | [Tastes Good](https://open.spotify.com/album/4SsTht64ubSec67F8Z1F2G) | 3:10 | 2021-11-10 | 2022-07-01 |
 | [Telescopes And Coffee](https://open.spotify.com/track/3TNh50TIvtx2iLeoDwAQ8m) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Strange Lights](https://open.spotify.com/album/6mAbI0OhlwoH500rL1V8P1) | 2:57 | 2021-11-10 | 2022-05-20 |

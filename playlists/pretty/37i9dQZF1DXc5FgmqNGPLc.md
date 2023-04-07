@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,420 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,426 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 47 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
 | 48 | [Dat Dere \- Live At Hibiya Public Hall, Tokyo, Japan 1/14/61](https://open.spotify.com/track/1nlsh7FXUf0sLaCOPvo2sz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [First Flight To Tokyo: The Lost 1961 Recordings](https://open.spotify.com/album/5pe7gBl8IgEAaknrfd0hnF) | 12:13 |
 | 49 | [Oleo \- Live](https://open.spotify.com/track/3Y1FeOnRQhsAEZlrJX9p7i) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Oleo \(Live\)](https://open.spotify.com/album/4s2gCzpD7CRhgQM5I8qaW0) | 19:08 |
-| 50 | [Perdido \- Live](https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Quintet: Jazz At Massey Hall](https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg) | 7:47 |
+| 50 | [Perdido](https://open.spotify.com/track/23jPVSDgdnhUoIlj3o2yp7) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Bird 100](https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW) | 7:43 |
 | 51 | [Sushi \- Live](https://open.spotify.com/track/1CxKRbMw4QcrAqAj4F78x7) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Time for Love: The Oscar Peterson Quartet Live in Helsinki, 1987](https://open.spotify.com/album/6y4YWMECoholhbDJbmdyVB) | 6:57 |
 | 52 | [The Endless Night \- Live](https://open.spotify.com/track/7Lwmhzh3C8Db4PQT9lyWcv) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Live: The Complete Concert](https://open.spotify.com/album/4nYDQGPeSgsekU5QGK339t) | 20:30 |
 | 53 | [Diminuendo In Blue \- Live](https://open.spotify.com/track/1bwU4f1TYZksvSA4Rfia1p) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 14:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 100 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMDVlNjQ2OGQzNTgzMmJkNjZkNDM3MGMwMDY3MzAyMDFi`
+Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMDlkNzNjMjFkMGFlYWE3ZDYzN2RjMzFjNjI3MGI5MzMx`

@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Delicatoni
+> Il meglio dell'R&B italiano\. Cover: Kuban
 
-302 songs - 14 hr 53 min
+307 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chi Chiamerò](https://open.spotify.com/track/22UnlX9bx3C4FbtxiaQ2aE) | [Albina](https://open.spotify.com/artist/14D82kuyM1n141pp3CaXx3) | [Chi Chiamerò](https://open.spotify.com/album/6tv8ynQAom4lUf5I5Fia8N) | 2:42 | 2022-05-19 | 2022-06-10 |
 | [Chiamami di nuovo](https://open.spotify.com/track/4EBNyJCQlGGkucQkzTSviM) | [Margano](https://open.spotify.com/artist/35XjddZmbLFWTwmWZT0qnB) | [Fermate](https://open.spotify.com/album/5y6MJrmdLYUIExNcrMGPp0) | 3:21 | 2023-01-12 | 2023-03-10 |
 | [Chill](https://open.spotify.com/track/3he45p68eG8s7IJ0xyBPBm) | [Francesco Faggi](https://open.spotify.com/artist/785tAPWUJa1Oarg4CiR80x) | [Molto di più](https://open.spotify.com/album/3v3EYI7xTS8yO9DgEpQaCM) | 3:00 | 2022-11-10 | 2022-12-02 |
+| [Chill Dans](https://open.spotify.com/track/4q7Z57pZSuSDOPC2m7Ni7W) | [DADA'](https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug) | [Chill Dans](https://open.spotify.com/album/2wDcOY6Ug2VuMPHxKJxTVn) | 2:07 | 2023-04-06 |  |
 | [Ciao](https://open.spotify.com/track/2WQma2feYNw6CiU1DaWNlL) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Ciao](https://open.spotify.com/album/4WEvLkxsWfbVTFgqxbHGeb) | 2:35 | 2022-11-03 | 2022-12-02 |
 | [CIGNO NERO](https://open.spotify.com/track/5OxV3tZdEoQkO458iwe1HJ) | [NICALI](https://open.spotify.com/artist/2hOcpPpVDqzsIIXYNde7ok) | [CIGNO NERO](https://open.spotify.com/album/7MjfUP1OGZ1ZBTVIjVD7pf) | 3:16 | 2023-02-02 | 2023-03-03 |
 | [Ciò Che Non Ho](https://open.spotify.com/track/25xfeNo9UFTEZUFpgWPYdb) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm) | [Ciò Che Non Ho](https://open.spotify.com/album/6MIQSo9hmNQjqEwBONo6LC) | 2:12 | 2022-06-30 | 2022-11-11 |
@@ -125,6 +126,7 @@
 | [Il Male \- Italian Version](https://open.spotify.com/track/6R2Eem2AarE3nevr2PqV75) | [TECHNOIR](https://open.spotify.com/artist/1RS1JwEkPQM8W9lsTfVFwI) | [Il Male \(Italian Version\)](https://open.spotify.com/album/0NqZ0hiTf1zcJwP6ak50WU) | 3:08 | 2023-03-09 |  |
 | [IL MIO NOME](https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:18 | 2022-11-17 | 2022-12-08 |
 | [IL MIO NOME](https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:18 | 2022-12-01 |  |
+| [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO) | 2:37 | 2023-04-06 |  |
 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 | 2022-09-09 |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 | 2022-11-11 |
@@ -144,6 +146,7 @@
 | [l'alba che tornerai](https://open.spotify.com/track/3RYvA40J85jtXgQOs7yYcN) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [l'alba che tornerai](https://open.spotify.com/album/4xQYDLZ35IlVXDjRikQer8) | 2:40 | 2023-01-12 | 2023-02-24 |
 | [L'Italia e la Corsica](https://open.spotify.com/track/2KYs0wAMyb5uauCgkU6Ext) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [L'Italia e la Corsica](https://open.spotify.com/album/1ygYGnX74RVTwKU3mjoNHG) | 3:28 | 2022-09-09 | 2022-10-28 |
 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 | 2022-11-24 |  |
+| [L'ULTIMA CANZONE \(feat\. Giorgia\)](https://open.spotify.com/track/74zkabIZ8moMuJUuxTQcCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 3:22 | 2023-04-06 |  |
 | [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 | 2022-06-23 | 2022-11-11 |
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 | 2022-09-09 |
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 | 2022-07-29 |
@@ -240,6 +243,7 @@
 | [Sabbie Mobili \(feat\. Davide Shorty\)](https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7) | [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Sangò](https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T) | 3:28 | 2022-12-01 |  |
 | [Salvami](https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO) | [Yorker](https://open.spotify.com/artist/1DAM0oVo9LsvwegJRT6vI1), [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA) | [Una](https://open.spotify.com/album/79rdrnA3UclScuwb84ftLX) | 3:18 | 2022-07-14 | 2022-09-23 |
 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 | 2022-09-22 |  |
+| [Scarico](https://open.spotify.com/track/530IV2MJ20lxMvcwdg16uy) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Scarico](https://open.spotify.com/album/0DnCrCI9lCuKPrabhCgAxt) | 2:47 | 2023-04-06 |  |
 | [Schiena](https://open.spotify.com/track/67VeNOM3isWCI8zGu949BD) | [Limo](https://open.spotify.com/artist/0jF3fDGxLXAQtrSDwzqdsa) | [Schiena](https://open.spotify.com/album/6u129fkm3vUPwOje9CIjP6) | 2:14 | 2023-03-30 |  |
 | [SCINNE](https://open.spotify.com/track/6YXMopaQMquMzIp0QYTiLA) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SOLIDAGO](https://open.spotify.com/album/4krgtckMU7NY6UxCOqATyr) | 2:48 | 2023-01-12 |  |
 | [Se chiedo alla luna](https://open.spotify.com/track/2Tk5njSvMXVc8cHpY9FGOy) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Se chiedo alla luna](https://open.spotify.com/album/5lom3OWxoJbpyMC2CCWKbw) | 3:05 | 2022-06-16 | 2022-11-11 |
@@ -253,6 +257,7 @@
 | [Settembre](https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n) | [Cloud](https://open.spotify.com/artist/6dapSPLViSAWcyvccpRoCX) | [Settembre](https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC) | 2:38 | 2022-05-05 | 2022-07-29 |
 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 | 2022-05-05 | 2022-11-11 |
 | [SINCERO](https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [SINCERO](https://open.spotify.com/album/5PF3YX0cZsjXPgBnELtsyB) | 2:58 | 2022-10-13 | 2023-03-10 |
+| [Sola Stanotte](https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Sola Stanotte](https://open.spotify.com/album/0Xkwup8jEPapkMIG4AEhcG) | 3:21 | 2023-04-06 |  |
 | [Soli Qui](https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [Soli Qui](https://open.spotify.com/album/3qbYWZEtCkuxy5bKbb3tPA) | 2:16 | 2022-06-16 | 2023-03-03 |
 | [Solo Io e Te](https://open.spotify.com/track/6C4vU6dtVR30RWuRvqtJqz) | [Nesta](https://open.spotify.com/artist/2t9oRNS17o1j42vJn9U2aT) | [Solo Io e Te](https://open.spotify.com/album/2zRcv0XcSZa3EkPyD5YUmE) | 3:04 | 2023-03-09 |  |
 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 | 2023-02-23 |  |

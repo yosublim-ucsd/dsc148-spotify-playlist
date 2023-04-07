@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,119 likes - 532 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,193 likes - 532 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -541,4 +541,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 531 | [Timeless](https://open.spotify.com/track/6epDGLTCI0KOpD7HSBzPzu) | [lst drm](https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV) | [Timeless](https://open.spotify.com/album/4beFepAnVacM0fjkXfkOMs) | 1:54 |
 | 532 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 |
 
-Snapshot ID: `MTY4MDUyMjc0MiwwMDAwMDAwMDIxMjcyMTQ5YzQ5YmNmNzBhNjY3MWFhMWJkYzZjNTAx`
+Snapshot ID: `MTY4MDUyMjc0MiwwMDAwMDAwMDk0OTgwNTY1YTdkMzE2NzY2YWI5YjFkYWZjNDJmYzRj`

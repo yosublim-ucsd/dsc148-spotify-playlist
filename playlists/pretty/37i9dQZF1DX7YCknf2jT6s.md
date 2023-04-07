@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: London Brew / Shabaka Hutchings
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,933 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,607 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Playing With Fire](https://open.spotify.com/track/346gVViqfzwcq7iy5mckIi) | [Jane Bunnett and Maqueque](https://open.spotify.com/artist/2YydgUGvEtKROYUAdcRPY9), [Jane Bunnett](https://open.spotify.com/artist/5e09vxGJza9YFmRVvCiFKB), [Maqueque](https://open.spotify.com/artist/2hHC4RiFmBNewOAWyRAepd) | [Playing With Fire](https://open.spotify.com/album/0gyhPuSxDzaGZ39E4epAqV) | 3:25 |
 | 100 | [Synapse](https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Synapse](https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP) | 4:30 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGU2YTY5OWFmOTIzOWM0OTEyMzVjMjBhYWZlZDk5NWQ2`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDhjOWZiMTMxZGRlNDA0YWM4MjdmNzJkMjU5Y2IwZWIw`

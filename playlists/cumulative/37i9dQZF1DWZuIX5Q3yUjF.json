@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Delicatoni",
+  "description": "Il meglio dell'R&B italiano. Cover: Kuban",
   "name": "anima R&B",
   "tracks": [
     {
@@ -752,6 +752,24 @@
       "duration_ms": 180174,
       "name": "Chill",
       "url": "https://open.spotify.com/track/3he45p68eG8s7IJ0xyBPBm"
+    },
+    {
+      "album": {
+        "name": "Chill Dans",
+        "url": "https://open.spotify.com/album/2wDcOY6Ug2VuMPHxKJxTVn"
+      },
+      "artists": [
+        {
+          "name": "DADA'",
+          "url": "https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Chill Dans",
+      "url": "https://open.spotify.com/track/4q7Z57pZSuSDOPC2m7Ni7W"
     },
     {
       "album": {
@@ -2287,6 +2305,28 @@
     },
     {
       "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157212,
+      "name": "IL MIO NOME REMIX (con Mara Sattei)",
+      "url": "https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv"
+    },
+    {
+      "album": {
         "name": "Il Re Cambia Sempre",
         "url": "https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn"
       },
@@ -2646,6 +2686,28 @@
       "duration_ms": 143000,
       "name": "L'R&B in Italia non esiste (Interlude)",
       "url": "https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202849,
+      "name": "L'ULTIMA CANZONE (feat. Giorgia)",
+      "url": "https://open.spotify.com/track/74zkabIZ8moMuJUuxTQcCR"
     },
     {
       "album": {
@@ -4557,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "Scarico",
+        "url": "https://open.spotify.com/album/0DnCrCI9lCuKPrabhCgAxt"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Scarico",
+      "url": "https://open.spotify.com/track/530IV2MJ20lxMvcwdg16uy"
+    },
+    {
+      "album": {
         "name": "Schiena",
         "url": "https://open.spotify.com/album/6u129fkm3vUPwOje9CIjP6"
       },
@@ -4792,6 +4872,24 @@
       "duration_ms": 178544,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5"
+    },
+    {
+      "album": {
+        "name": "Sola Stanotte",
+        "url": "https://open.spotify.com/album/0Xkwup8jEPapkMIG4AEhcG"
+      },
+      "artists": [
+        {
+          "name": "giuliettacome",
+          "url": "https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201244,
+      "name": "Sola Stanotte",
+      "url": "https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5"
     },
     {
       "album": {

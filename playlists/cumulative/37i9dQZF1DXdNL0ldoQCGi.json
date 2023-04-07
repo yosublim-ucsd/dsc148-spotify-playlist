@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 111145,
       "name": "A Cole\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi"
@@ -520,6 +520,24 @@
     {
       "album": {
         "name": "Americana na Vaquejada",
+        "url": "https://open.spotify.com/album/5GiETc0MPSIaYIPhNDXFjd"
+      },
+      "artists": [
+        {
+          "name": "Grand\u00e3o Vaqueiro",
+          "url": "https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149582,
+      "name": "Americana na Vaquejada",
+      "url": "https://open.spotify.com/track/3U0FuMjhCMVkGdTG72Wfrs"
+    },
+    {
+      "album": {
+        "name": "Americana na Vaquejada",
         "url": "https://open.spotify.com/album/1tOgxzmTjdRf2Kh8ZRhFjv"
       },
       "artists": [
@@ -530,7 +548,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 149582,
       "name": "Americana na Vaquejada",
       "url": "https://open.spotify.com/track/7igHN9CNCaUTOle8U84X9H"
@@ -3394,6 +3412,24 @@
       "duration_ms": 166875,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
+    },
+    {
+      "album": {
+        "name": "A Cole\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4hpN634sPatqiem8fyzsw1"
+      },
+      "artists": [
+        {
+          "name": "DJ Lou",
+          "url": "https://open.spotify.com/artist/4UZCx8Jrj8w2K90zF8VjWo"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111270,
+      "name": "Lugar Distante",
+      "url": "https://open.spotify.com/track/4uOi330LkhOeUxmb97z2d9"
     },
     {
       "album": {

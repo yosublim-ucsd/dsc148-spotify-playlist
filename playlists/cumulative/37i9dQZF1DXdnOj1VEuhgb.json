@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
   "name": "NKVT",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 168709,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/6Xr5IpNOPgW6X0Giyd7yUw"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 163404,
       "name": "De\u011filim Bi A\u015f\u0131k",
       "url": "https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp"
@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u015f\u00fcyorum Tekrar",
+        "url": "https://open.spotify.com/album/5ylJtVajxWXRZB2o5MwowF"
+      },
+      "artists": [
+        {
+          "name": "Lia Shine",
+          "url": "https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "D\u00fc\u015f\u00fcyorum Tekrar",
+      "url": "https://open.spotify.com/track/4BK8g9i76nSG0RPe8d2XwR"
+    },
+    {
+      "album": {
         "name": "ESTAFURLA",
         "url": "https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz"
       },
@@ -314,7 +332,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 152559,
       "name": "Ferag\u00e2t",
       "url": "https://open.spotify.com/track/72EjrX3xp4Ea2nhQRY6LMI"
@@ -522,10 +540,32 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 169195,
       "name": "GLOCK",
       "url": "https://open.spotify.com/track/29snI08I9CoJuHhSFI682u"
+    },
+    {
+      "album": {
+        "name": "Vidos",
+        "url": "https://open.spotify.com/album/6lsgFRN7VR38dZasW5p7To"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "GNG Freestyle 1",
+      "url": "https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB"
     },
     {
       "album": {
@@ -634,7 +674,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 143343,
       "name": "HAN\u00c7ER",
       "url": "https://open.spotify.com/track/1HtUpVQAOS8fWcWRYHaCXV"
@@ -1066,7 +1106,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 187434,
       "name": "Multi-Milyoner",
       "url": "https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY"
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 201613,
       "name": "\u00c7EK (feat. Strick)",
       "url": "https://open.spotify.com/track/1j8LzWBV8n4LvTjwuSu3CS"

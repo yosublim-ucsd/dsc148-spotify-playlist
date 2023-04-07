@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Darius Rucker, Justin Moore, Caylee Hammack and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,400 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,625 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO) | 3:18 |
 | 59 | [Strings of This Guitar](https://open.spotify.com/track/1X5gF87kkd968XLr7nogMl) | [Aaron Crawford](https://open.spotify.com/artist/7i50kdUrJSwt4ds1b0OsvM) | [Strings of This Guitar](https://open.spotify.com/album/0K7lNfR46hKwDURwYrSWH6) | 3:27 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDNjMDAzZWViOTVlZGZiZTEzMTA2ZTI2NTk5ODg1Njll`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGE0NDFjMWY3Yjg5Y2Q5MjY1MjhiNWU2Y2JkZTk4NzI1`

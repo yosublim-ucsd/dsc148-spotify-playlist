@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 173029,
       "name": "Dit Is De Dag",
       "url": "https://open.spotify.com/track/5KzAMpIepQFFNQvj0gkxuU"
@@ -986,6 +986,24 @@
       "duration_ms": 162857,
       "name": "In M'n Bloed",
       "url": "https://open.spotify.com/track/3hzxm5yFiOKeZ5f24Q9hsq"
+    },
+    {
+      "album": {
+        "name": "Ja Ja Nee Nee",
+        "url": "https://open.spotify.com/album/21PvVkkBkw6whpXOTK9Wwm"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221708,
+      "name": "Ja Ja Nee Nee",
+      "url": "https://open.spotify.com/track/6UjBPdD3La0j1JTaT7R6fK"
     },
     {
       "album": {

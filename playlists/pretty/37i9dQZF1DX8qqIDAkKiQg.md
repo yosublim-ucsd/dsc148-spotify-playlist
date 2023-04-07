@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 
 > The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,113 likes - 68 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,469 likes - 68 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 | 67 | [Violin Concerto No\. 4 in D Major, K\. 218: 1\. Allegro](https://open.spotify.com/track/3Vlzg3ZIrn6r26UZxwxawi) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Henryk Szeryng](https://open.spotify.com/artist/1QoKB19XVwnNwlKDjyYYe8), [New Philharmonia Orchestra](https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ), [Sir Alexander Gibson](https://open.spotify.com/artist/5jfBrSuszUGb0Zz4OwWqa0) | [Mozart: Violin & Wind Concertos](https://open.spotify.com/album/3qG2tROjP9XrK0bxBinU05) | 9:32 |
 | 68 | [Divertimento in D Major, K\. 136, "Salzburg Symphony No\. 1": I\. Allegro](https://open.spotify.com/track/4RibkyUFEmWIeonpWJEJHS) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Ulf Schirmer](https://open.spotify.com/artist/44I8beF9aAODtLP7mH7ImA) | [Doderer, J.: Mon Cher Cousin / Stamitz, C.: Cello Concerto No\. 1 / Mozart, W.A.: Divertimento, "Salzburg Symphony No\. 1"](https://open.spotify.com/album/1nZxPndKl2Bg9NrtaZ7fv2) | 4:10 |
 
-Snapshot ID: `MTY3ODgxMDM4NiwwMDAwMDAwMGFhMjExMmY3ZjQwMTc5YzJmNzVkZjdmYjBjODg4ZTEz`
+Snapshot ID: `MTY3ODgxMDM4NiwwMDAwMDAwMDI4YzFkZTRkZjIzZmEyNjcxOTQxNGJmYjQyNjJmOWYz`

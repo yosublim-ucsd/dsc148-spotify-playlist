@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Oreozin, Caio Luccas",
-  "num_followers": 100470,
+  "num_followers": 100596,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MjY0MCwwMDAwMDAwMDEyZDk1NWRiMWMyZDZhYWRiYzU3ODkxYTFmZGQ1YjA2",
+  "snapshot_id": "MTY4MDI5MjY0MCwwMDAwMDAwMDRiZTA3MjUxMzI5MzdmNzliODI4NTA5NjA3NGRmYjVl",
   "tracks": [
     {
       "added_at": "2023-03-31 19:57:20",
@@ -663,34 +663,6 @@
     {
       "added_at": "2023-03-31 19:57:20",
       "album": {
-        "name": "Movimento - Spotify Singles",
-        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Movimento - Spotify Singles",
-      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
-    },
-    {
-      "added_at": "2023-03-31 19:57:20",
-      "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
       },
@@ -719,22 +691,46 @@
     {
       "added_at": "2023-03-31 19:57:20",
       "album": {
-        "name": "M4",
-        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
+        "name": "Movimento - Spotify Singles",
+        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Movimento - Spotify Singles",
+      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
+    },
+    {
+      "added_at": "2023-03-31 19:57:20",
+      "album": {
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
       },
       "artists": [
         {
           "name": "Teto",
           "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 170000,
-      "name": "M4",
-      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "added_at": "2023-03-31 19:57:20",
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-03-31 19:57:20",
       "album": {
-        "name": "Minha Vida \u00e9 um Filme",
-        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
+        "name": "M4",
+        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
       },
       "artists": [
         {
           "name": "Teto",
           "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Minha Vida \u00e9 um Filme",
-      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
+      "duration_ms": 170000,
+      "name": "M4",
+      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
     },
     {
       "added_at": "2023-03-31 19:57:20",
@@ -1235,22 +1235,30 @@
     {
       "added_at": "2023-03-31 19:57:20",
       "album": {
-        "name": "PSG",
-        "url": "https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl"
+        "name": "Duas Doses",
+        "url": "https://open.spotify.com/album/0ekNA7uYau9DF65F5ESe0e"
       },
       "artists": [
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Oliveira",
+          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
         },
         {
-          "name": "DJ Nemo NTR",
-          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "A Matilha",
+          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
         }
       ],
-      "duration_ms": 139598,
-      "name": "PSG",
-      "url": "https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs"
+      "duration_ms": 176326,
+      "name": "Duas Doses",
+      "url": "https://open.spotify.com/track/1uCasGURHhzPYiA7Hx7Rp6"
     },
     {
       "added_at": "2023-03-31 19:57:20",
@@ -1283,6 +1291,26 @@
     {
       "added_at": "2023-03-31 19:57:20",
       "album": {
+        "name": "PSG",
+        "url": "https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "DJ Nemo NTR",
+          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+        }
+      ],
+      "duration_ms": 139598,
+      "name": "PSG",
+      "url": "https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs"
+    },
+    {
+      "added_at": "2023-03-31 19:57:20",
+      "album": {
         "name": "Mente De Malandra",
         "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
       },
@@ -1303,34 +1331,6 @@
       "duration_ms": 202816,
       "name": "Mente De Malandra",
       "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
-    },
-    {
-      "added_at": "2023-03-31 19:57:20",
-      "album": {
-        "name": "Duas Doses",
-        "url": "https://open.spotify.com/album/0ekNA7uYau9DF65F5ESe0e"
-      },
-      "artists": [
-        {
-          "name": "Oliveira",
-          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "A Matilha",
-          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Duas Doses",
-      "url": "https://open.spotify.com/track/1uCasGURHhzPYiA7Hx7Rp6"
     },
     {
       "added_at": "2023-03-31 19:57:20",
@@ -1452,8 +1452,8 @@
           "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         },
         {
-          "name": "Perazo",
-          "url": "https://open.spotify.com/artist/6Z7v8XHDlrZPefEzZLSFll"
+          "name": "Matheus Perazo",
+          "url": "https://open.spotify.com/artist/63n0FflmtsMskT2QSE7NhG"
         }
       ],
       "duration_ms": 109354,

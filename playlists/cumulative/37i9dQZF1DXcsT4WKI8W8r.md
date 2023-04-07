@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-391 songs - 22 hr 18 min
+392 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Call Me Up](https://open.spotify.com/track/49VevNdsb5zvMFfZMVrCJi) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Dreamers](https://open.spotify.com/album/4ltDWhyXNLzDAZqgonZCcj) | 2:44 | 2021-04-30 | 2022-07-29 |
 | [Canyon](https://open.spotify.com/track/42ebmHxcVwUNdkmKEHSkNB) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Canyon](https://open.spotify.com/album/5U0u7Fqyk5aqQ303BqyXPm) | 3:19 | 2021-04-30 | 2022-07-28 |
 | [catch\-22](https://open.spotify.com/track/20Z7ORuS6d9wpvhRQ2JWdP) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [catch\-22](https://open.spotify.com/album/217zB6n4vLMZ3HWkSs4UIe) | 2:48 | 2021-04-30 | 2022-07-29 |
-| [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 | 2021-04-30 |  |
+| [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 | 2021-04-30 | 2023-04-07 |
 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 | 2021-04-30 |  |
 | [Cold \(feat\. Sia\)](https://open.spotify.com/track/6zgdS5OQp4fwOZl2w4be6H) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Cold \(feat\. Sia\)](https://open.spotify.com/album/73cmwG1Uo72K0MOPt9ARut) | 3:19 | 2021-04-30 | 2022-07-29 |
 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 | 2021-04-30 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [Everybody Rise](https://open.spotify.com/track/3eGmv9sxK60p8XIBLhBtC0) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Everybody Rise](https://open.spotify.com/album/116julihD6RXmoi525fLtU) | 3:10 | 2021-04-30 | 2022-07-29 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2021-04-30 |  |
 | [Everywhere](https://open.spotify.com/track/4NAkSJTQ8yVHOrzCjNfp3I) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/5v9oN5sH5EU1ps44izmjBk) | 2:18 | 2021-04-30 | 2022-07-29 |
+| [Everywhere](https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR) | 2:18 | 2021-04-30 |  |
 | [Everywhere](https://open.spotify.com/track/5qymfocDvwMdWHkYARj9zw) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/2Q1zatNlXb0jN5cC4Vaprk) | 2:18 | 2021-04-30 | 2023-02-14 |
 | [Fading Into Grey \- Acoustic](https://open.spotify.com/track/5QJavZ2sUpPrhyMWItEBJC) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Fading Into Grey \(Acoustic\)](https://open.spotify.com/album/61q0HPHw8QIK26peOiEQdA) | 3:46 | 2021-04-30 | 2022-04-30 |
 | [Feel Alive](https://open.spotify.com/track/0lXlx9l0CXCwdxRdXCzdpA) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Feel Alive](https://open.spotify.com/album/1wl3qDOk9vUQHnei2RyUHF) | 4:50 | 2021-04-30 | 2022-07-29 |

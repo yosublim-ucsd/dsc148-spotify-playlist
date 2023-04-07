@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: BLÜ EYES
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,969 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,977 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,26 +26,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 16 | [Fix You](https://open.spotify.com/track/1Cg712yfuUIhiKhf1Zzja8) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [Silver Linings](https://open.spotify.com/album/73SDQEIwkxUAdjHjp7KPy2) | 2:33 |
 | 17 | [Glue](https://open.spotify.com/track/5Ee2dz4bVU1RMLOHRQkuRl) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Glue](https://open.spotify.com/album/7piTxQj7DTgB54dj6yfiZp) | 5:16 |
 | 18 | [devil may care](https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [devil may care](https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN) | 2:40 |
-| 19 | [say you hate me](https://open.spotify.com/track/6k7d4dI0wosZtZB5l7XZOW) | [Hazel Gerson](https://open.spotify.com/artist/1uRBu9kctlIqTMQCvv3BGf) | [say you hate me](https://open.spotify.com/album/4olbGXTabunRdlNwKEoTQC) | 4:02 |
-| 20 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
-| 21 | [House Party](https://open.spotify.com/track/3ZtKu3bvdoZY65UmB7oAq4) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [House Party](https://open.spotify.com/album/5UXOGTJWJvIFGKQ8zY0KdJ) | 2:38 |
-| 22 | [cooler than you](https://open.spotify.com/track/1c5bfObB8M1rkmCP0RSgrY) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [cooler than you](https://open.spotify.com/album/7LJ9nCWhTjZaZnxKC2ndrD) | 3:41 |
-| 23 | [Last Resort](https://open.spotify.com/track/14oOX8UHPsCpeHHhtGNOto) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Last Resort](https://open.spotify.com/album/10u6yWghRZ4dEl01zIzSKV) | 2:09 |
-| 24 | [Dreaming](https://open.spotify.com/track/1bdcogn7ZNXhXl86hOymsL) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [I'm Feeling Hopeful](https://open.spotify.com/album/2CNatNsNZUkdSeJ7BxLNOI) | 3:18 |
-| 25 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 |
-| 26 | [Almost In Love](https://open.spotify.com/track/2BYXQtJVwUU3RXu5IXyYqB) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [It Was A Sad Fucking Summer](https://open.spotify.com/album/3E3BHUrEHQodei0Mtwjtmi) | 3:25 |
-| 27 | [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 |
-| 28 | [Body and Soul](https://open.spotify.com/track/64FyFHyhSb0yERnO5YdFLf) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 2:30 |
-| 29 | [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 |
-| 30 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 |
-| 31 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
-| 32 | [101](https://open.spotify.com/track/7wMPExYjxfDzu4SWDUt7dQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 6:27 |
-| 33 | [Lovin In The Afternoon](https://open.spotify.com/track/50za5i2VuglbhPYHhkKpDy) | [Miss Velvet](https://open.spotify.com/artist/2ObAfkkOX0FYn7dA90VtYa) | [Lovin In The Afternoon](https://open.spotify.com/album/2fPFErUw6oEeHhsf2ExbBQ) | 3:24 |
-| 34 | [Sister Fate](https://open.spotify.com/track/31jKEAQeQxb13ZCcvdfYFM) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Romance 1600](https://open.spotify.com/album/0Jkqv4qmznXpfa0tLzxG23) | 3:55 |
-| 35 | [familiar emotions](https://open.spotify.com/track/3hXBPCcG0L2GrZSxc3QdOS) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz), [k8ie](https://open.spotify.com/artist/25yNr18DXkdeWmy6NKDQwo) | [Candid](https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z) | 4:01 |
-| 36 | [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 |
-| 37 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 |
-| 38 | [You Make Me](https://open.spotify.com/track/6OjFxdNXqeBMfg7GNXcDLw) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [You Make Me](https://open.spotify.com/album/1RQZ4TvWFfWcmX87WGmfp3) | 2:16 |
-| 39 | [Be Her](https://open.spotify.com/track/0s1ZSmJT0dtCB7hf2agfHy) | [Andrea Dee](https://open.spotify.com/artist/5jT2BQS6mhv4pPvG1Tp1hj) | [Be Her](https://open.spotify.com/album/5g5WYrbK9SiDdZtQrzYDdr) | 2:49 |
+| 19 | [y am i not okay](https://open.spotify.com/track/4mNF1eIIYA0o0OAZMGWrrv) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [y am i not okay](https://open.spotify.com/album/5lgWTI09lYv6gkik14iGU9) | 2:56 |
+| 20 | [say you hate me](https://open.spotify.com/track/6k7d4dI0wosZtZB5l7XZOW) | [Hazel Gerson](https://open.spotify.com/artist/1uRBu9kctlIqTMQCvv3BGf) | [say you hate me](https://open.spotify.com/album/4olbGXTabunRdlNwKEoTQC) | 4:02 |
+| 21 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 22 | [House Party](https://open.spotify.com/track/3ZtKu3bvdoZY65UmB7oAq4) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [House Party](https://open.spotify.com/album/5UXOGTJWJvIFGKQ8zY0KdJ) | 2:38 |
+| 23 | [cooler than you](https://open.spotify.com/track/1c5bfObB8M1rkmCP0RSgrY) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [cooler than you](https://open.spotify.com/album/7LJ9nCWhTjZaZnxKC2ndrD) | 3:41 |
+| 24 | [Last Resort](https://open.spotify.com/track/14oOX8UHPsCpeHHhtGNOto) | [Maddy Storm](https://open.spotify.com/artist/105IdZhgBK8zQnrtckm3NT) | [Last Resort](https://open.spotify.com/album/10u6yWghRZ4dEl01zIzSKV) | 2:09 |
+| 25 | [Dreaming](https://open.spotify.com/track/1bdcogn7ZNXhXl86hOymsL) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [I'm Feeling Hopeful](https://open.spotify.com/album/2CNatNsNZUkdSeJ7BxLNOI) | 3:18 |
+| 26 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 |
+| 27 | [Almost In Love](https://open.spotify.com/track/2BYXQtJVwUU3RXu5IXyYqB) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [It Was A Sad Fucking Summer](https://open.spotify.com/album/3E3BHUrEHQodei0Mtwjtmi) | 3:25 |
+| 28 | [I Go](https://open.spotify.com/track/1S3wM42IWR5DDukmZo8GwV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 5:58 |
+| 29 | [Body and Soul](https://open.spotify.com/track/64FyFHyhSb0yERnO5YdFLf) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 2:30 |
+| 30 | [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 |
+| 31 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 |
+| 32 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
+| 33 | [101](https://open.spotify.com/track/7wMPExYjxfDzu4SWDUt7dQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 6:27 |
+| 34 | [Lovin In The Afternoon](https://open.spotify.com/track/50za5i2VuglbhPYHhkKpDy) | [Miss Velvet](https://open.spotify.com/artist/2ObAfkkOX0FYn7dA90VtYa) | [Lovin In The Afternoon](https://open.spotify.com/album/2fPFErUw6oEeHhsf2ExbBQ) | 3:24 |
+| 35 | [Sister Fate](https://open.spotify.com/track/31jKEAQeQxb13ZCcvdfYFM) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Romance 1600](https://open.spotify.com/album/0Jkqv4qmznXpfa0tLzxG23) | 3:55 |
+| 36 | [familiar emotions](https://open.spotify.com/track/3hXBPCcG0L2GrZSxc3QdOS) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz), [k8ie](https://open.spotify.com/artist/25yNr18DXkdeWmy6NKDQwo) | [Candid](https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z) | 4:01 |
+| 37 | [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 |
+| 38 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 |
+| 39 | [You Make Me](https://open.spotify.com/track/6OjFxdNXqeBMfg7GNXcDLw) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [You Make Me](https://open.spotify.com/album/1RQZ4TvWFfWcmX87WGmfp3) | 2:16 |
+| 40 | [Be Her](https://open.spotify.com/track/0s1ZSmJT0dtCB7hf2agfHy) | [Andrea Dee](https://open.spotify.com/artist/5jT2BQS6mhv4pPvG1Tp1hj) | [Be Her](https://open.spotify.com/album/5g5WYrbK9SiDdZtQrzYDdr) | 2:49 |
 
-Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMGU3OTYzMGZiMjFiZDRmMzk3YjU1MzY3YzIxZGQzOWVm`
+Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMGZhMzNmOGRkZmFjZTU1OGIyMmIxMGFlMzRkNTkzYTQx`

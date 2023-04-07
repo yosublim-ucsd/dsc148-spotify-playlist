@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Connie Constance ft\. Jason Williamson
 
-951 songs - 1 day 23 hr 55 min
+952 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Habitual](https://open.spotify.com/track/2G7KOokR015FKnTp75gujf) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Feel the Void](https://open.spotify.com/album/1Nz4Ufkp2AZRR1giNkbp5J) | 3:54 | 2022-03-18 | 2022-04-22 |
 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-04 | 2022-04-22 |
 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 | 2022-05-20 | 2022-07-22 |
-| [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 | 2023-03-30 |  |
+| [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 | 2023-03-30 |  |
 | [Hanging Out with All the Wrong People](https://open.spotify.com/track/3sHlpMbDjgGPedrNnBd5Xb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:46 | 2022-01-21 | 2022-03-11 |
 | [Hannah Montana](https://open.spotify.com/track/3ejsbsJ2xG6HPHNGNHZmWf) | [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U) | [Hannah Montana](https://open.spotify.com/album/4TMyuajb4NNKwYFT8a0XXB) | 3:31 | 2022-05-12 | 2022-06-24 |
 | [Happiness](https://open.spotify.com/track/2rkcIVIfVrvLX8Qp95WZoj) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:19 | 2022-08-25 | 2022-10-07 |
@@ -609,7 +609,8 @@
 | [One for the Road](https://open.spotify.com/track/6fSohDgMv8W57Lx2FJIoA7) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [One for the Road](https://open.spotify.com/album/4D1EguvbHxw5zdqIHETkCp) | 2:46 | 2021-12-17 | 2022-01-21 |
 | [One Last Time](https://open.spotify.com/track/58NAlwbMyFUWb8GUEoOpOi) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [One Last Time](https://open.spotify.com/album/78ZP7VUY5QO1lqv4FdXr28) | 3:00 | 2022-07-14 | 2022-08-26 |
 | [ONE SIZE FITS ALL](https://open.spotify.com/track/5R7ZGxCZElz3ivYaui4IKn) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [ONE SIZE FITS ALL](https://open.spotify.com/album/0wzhWxSywM34dLDPvxWkUT) | 3:31 | 2022-06-16 | 2022-07-29 |
-| [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 | 2023-03-24 |  |
+| [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 | 2023-03-30 |  |
+| [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 | 2023-03-24 | 2023-04-07 |
 | [Open up My Head](https://open.spotify.com/track/1dXx1NLFcQBCPoGAUNhKTU) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Open Up My Head](https://open.spotify.com/album/37Th8gyncYopCvlWvedrGn) | 3:16 | 2022-07-21 | 2022-09-09 |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 |  |
 | [Option to Nothing](https://open.spotify.com/track/4q0YgwbxglVAOizvBNY7eU) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Option to Nothing](https://open.spotify.com/album/1K3fRWYf05g6d9EIXk7Vjn) | 2:21 | 2022-11-18 | 2023-02-24 |
@@ -668,7 +669,7 @@
 | [Radiate](https://open.spotify.com/track/2g6620bsDen0mF2akn1Nmm) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/7F6T5FVHm85JoyTLeEqoLh) | 3:04 | 2022-04-14 | 2022-05-21 |
 | [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-03-17 |  |
 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 | 2022-11-04 | 2023-02-17 |
-| [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [DOOM REGULATOR](https://open.spotify.com/artist/6qjOcS93vVTKy1LGVOBdac) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 | 2023-03-30 |  |
+| [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [DOOM REGULATOR](https://open.spotify.com/artist/5KIqdI4DIdPdiS5JVWQVxj) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 | 2023-03-30 |  |
 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-08-04 | 2022-09-23 |
 | [Rat King](https://open.spotify.com/track/5azwPDWCdzX70CEQUYCFyq) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [Rat King](https://open.spotify.com/album/7knKTqTZ414sSj7vhBGYaQ) | 3:31 | 2022-07-14 | 2022-08-26 |
 | [Rat Race](https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Reality Cheques](https://open.spotify.com/album/67DsYDB31JTEUZfuY2xv5s) | 3:35 | 2022-09-29 | 2022-11-11 |

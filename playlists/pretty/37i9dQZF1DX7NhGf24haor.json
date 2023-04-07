@@ -1,15 +1,55 @@
 {
   "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Hard Driver",
-  "num_followers": 115657,
+  "num_followers": 115796,
   "original_name": "Hardstyle Adrenaline! 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGE2YmEzODE2NDc0YjJiY2JhMDgwNTEwYTNjYzRhZjY0",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDE5ZDMxZThiMzVmMDY2NTVhZmUzYWZmZjE3NWMyN2Zh",
   "tracks": [
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Morgenlicht",
+        "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Morgenlicht",
+      "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "The Nightmare Factory",
+        "url": "https://open.spotify.com/album/5WsF1tgfxeL7JU01rELKNY"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "duration_ms": 279679,
+      "name": "The Nightmare Factory",
+      "url": "https://open.spotify.com/track/716rRyCS2V70kdjTnXGHld"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/1YLhFnGlfiYyvXcsgdhSp8"
@@ -29,7 +69,59 @@
       "url": "https://open.spotify.com/track/2ZG18NphRGHN4zJKt5lKtO"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Where is the Beat?",
+        "url": "https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Where is the Beat?",
+      "url": "https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Mind Of A Psycho",
+        "url": "https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "duration_ms": 137032,
+      "name": "Mind Of A Psycho",
+      "url": "https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Illusions",
         "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
@@ -45,7 +137,7 @@
       "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "GO CRAZY",
         "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
@@ -61,131 +153,23 @@
       "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Dark Side Of The Wall",
-        "url": "https://open.spotify.com/album/4abcPRFT4rt5tQYVSW7Xwr"
+        "name": "Reignite The Flame",
+        "url": "https://open.spotify.com/album/2dBachgRrxGYXVFkngXoJd"
       },
       "artists": [
         {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+          "name": "Sephyx",
+          "url": "https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL"
         }
       ],
-      "duration_ms": 243096,
-      "name": "Dark Side Of The Wall",
-      "url": "https://open.spotify.com/track/0pYJTUbeFC82dHKGmAjONp"
+      "duration_ms": 236735,
+      "name": "Reignite The Flame",
+      "url": "https://open.spotify.com/track/0hLzUkirRodQcQtOqeBef6"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Into Ecstasy",
-        "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Into Ecstasy",
-      "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Feel Love",
-        "url": "https://open.spotify.com/album/46YIGfrHT8RtYSnrdjpWsm"
-      },
-      "artists": [
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        },
-        {
-          "name": "Code Black",
-          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Feel Love",
-      "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Ready For Lift Off (Official REBiRTH Festival 2023 Anthem)",
-        "url": "https://open.spotify.com/album/1ckcNvmYtXfZ5e87cx9OqZ"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 176339,
-      "name": "Ready For Lift Off - Official REBiRTH Festival 2023 Anthem",
-      "url": "https://open.spotify.com/track/31cqlvoZi1O7QsaVgLEcja"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Keep It Coming",
-        "url": "https://open.spotify.com/album/2zpAgQQwai76PjkOVmYsLT"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Keep It Coming",
-      "url": "https://open.spotify.com/track/5cpn796lJEwIPupOgTEX1u"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/77yZmi0XdEjZfMOK7Tb779"
-      },
-      "artists": [
-        {
-          "name": "Bass X Machina",
-          "url": "https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0"
-        },
-        {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
-        }
-      ],
-      "duration_ms": 266048,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/0Il8vu2reeGqCDRm4sDZTx"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "FLYIN' HIGH",
-        "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 230738,
-      "name": "FLYIN' HIGH",
-      "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Live 4 Ever",
         "url": "https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS"
@@ -205,7 +189,259 @@
       "url": "https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Dark Side Of The Wall",
+        "url": "https://open.spotify.com/album/4abcPRFT4rt5tQYVSW7Xwr"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "duration_ms": 243096,
+      "name": "Dark Side Of The Wall",
+      "url": "https://open.spotify.com/track/0pYJTUbeFC82dHKGmAjONp"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Into Ecstasy",
+        "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Into Ecstasy",
+      "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "303_exe EP",
+        "url": "https://open.spotify.com/album/6EVtpeAzaRpz3Mp6CYGt6A"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        }
+      ],
+      "duration_ms": 190125,
+      "name": "ACID is my DNA",
+      "url": "https://open.spotify.com/track/2cJA1sa6T2mVyScP5cRd0Z"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/46YIGfrHT8RtYSnrdjpWsm"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
+        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 145032,
+      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
+      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "FLYIN' HIGH",
+        "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 230738,
+      "name": "FLYIN' HIGH",
+      "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/1jlNvv28C5ddmUAunPV3IC"
+      },
+      "artists": [
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        }
+      ],
+      "duration_ms": 159209,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/1qOpSKl9lrC8awApyPNQpt"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Blast In Your Face",
+        "url": "https://open.spotify.com/album/7Ay1R1bMxFVUkZJXmVWWoP"
+      },
+      "artists": [
+        {
+          "name": "Deluzion",
+          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 205351,
+      "name": "Blast In Your Face",
+      "url": "https://open.spotify.com/track/3RMOpfwLZ3h41bqG0Mq7Gg"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/2m9txcMveAvQrDmfvqws4p"
+      },
+      "artists": [
+        {
+          "name": "Degos & Re-Done",
+          "url": "https://open.spotify.com/artist/7LsIj2cflfPqS8px4dduGG"
+        }
+      ],
+      "duration_ms": 202838,
+      "name": "Peace Of Mind - Extended Mix",
+      "url": "https://open.spotify.com/track/16OC6JKjTfjPJOl7fjLSVa"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Ready For Lift Off (Official REBiRTH Festival 2023 Anthem)",
+        "url": "https://open.spotify.com/album/1ckcNvmYtXfZ5e87cx9OqZ"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 176339,
+      "name": "Ready For Lift Off - Official REBiRTH Festival 2023 Anthem",
+      "url": "https://open.spotify.com/track/31cqlvoZi1O7QsaVgLEcja"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Memory (feat. Justin J. Moore)",
+        "url": "https://open.spotify.com/album/4agBrxS1RJAARpQlwwdKeF"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "duration_ms": 225290,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5EmCgQS7FJM4IcXla6IqDb"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/7f9kvVgYzIrkycQ11LkZ7Z"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "duration_ms": 171870,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/3Kv2lE050pblqyTMuxCFMe"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/77yZmi0XdEjZfMOK7Tb779"
+      },
+      "artists": [
+        {
+          "name": "Bass X Machina",
+          "url": "https://open.spotify.com/artist/30qDNUnj7UYaiI59KnYbh0"
+        },
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 266048,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/0Il8vu2reeGqCDRm4sDZTx"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "We Go Down",
+        "url": "https://open.spotify.com/album/1MCJhDB8iFCg0rEUS3itOy"
+      },
+      "artists": [
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "duration_ms": 177290,
+      "name": "We Go Down",
+      "url": "https://open.spotify.com/track/5BJbGqKyn6BF9xOWy28QeO"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Marble (Marc Blou Remix)",
         "url": "https://open.spotify.com/album/3spdRAdTkREkDVLdtBKzbM"
@@ -233,103 +469,7 @@
       "url": "https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Blast In Your Face",
-        "url": "https://open.spotify.com/album/7Ay1R1bMxFVUkZJXmVWWoP"
-      },
-      "artists": [
-        {
-          "name": "Deluzion",
-          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 205351,
-      "name": "Blast In Your Face",
-      "url": "https://open.spotify.com/track/3RMOpfwLZ3h41bqG0Mq7Gg"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Just A Dream",
-        "url": "https://open.spotify.com/album/2yuBJZ2u632xzfK8bZeg7A"
-      },
-      "artists": [
-        {
-          "name": "Josh & Wesz",
-          "url": "https://open.spotify.com/artist/7G7mVrnF4ag8MTX8o8sizx"
-        }
-      ],
-      "duration_ms": 221571,
-      "name": "Just A Dream",
-      "url": "https://open.spotify.com/track/6MT1aOXD8AMViizbBbVXa8"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Memory (feat. Justin J. Moore)",
-        "url": "https://open.spotify.com/album/4agBrxS1RJAARpQlwwdKeF"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
-        }
-      ],
-      "duration_ms": 225290,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/5EmCgQS7FJM4IcXla6IqDb"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Nothing To Lose EP",
-        "url": "https://open.spotify.com/album/0BlSbst0RbEtge5NMkk20k"
-      },
-      "artists": [
-        {
-          "name": "Crude Intentions",
-          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Weak Shit",
-      "url": "https://open.spotify.com/track/2SRK9mFQuLnZoL7rHjg8Ot"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Killswitch",
-        "url": "https://open.spotify.com/album/0z5fB2Sbbmc7XceUkly05p"
-      },
-      "artists": [
-        {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Dave Revan",
-          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
-        }
-      ],
-      "duration_ms": 191664,
-      "name": "Killswitch",
-      "url": "https://open.spotify.com/track/3KP46YO181FPy23BkBQB3g"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Boom Boom Boom",
         "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
@@ -353,7 +493,67 @@
       "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6GCoJcfBsflPeHERx0YRbt"
+      },
+      "artists": [
+        {
+          "name": "Inpulsa",
+          "url": "https://open.spotify.com/artist/3I15MHvYprvenj5oR3WHWM"
+        },
+        {
+          "name": "KIMM",
+          "url": "https://open.spotify.com/artist/1hwhYNM496KpV1DbuBjYyR"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/5Etsx97MnyfPKJB2HvNTE8"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Nothing To Lose EP",
+        "url": "https://open.spotify.com/album/0BlSbst0RbEtge5NMkk20k"
+      },
+      "artists": [
+        {
+          "name": "Crude Intentions",
+          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Weak Shit",
+      "url": "https://open.spotify.com/track/2SRK9mFQuLnZoL7rHjg8Ot"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Killswitch",
+        "url": "https://open.spotify.com/album/0z5fB2Sbbmc7XceUkly05p"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Dave Revan",
+          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
+        }
+      ],
+      "duration_ms": 191664,
+      "name": "Killswitch",
+      "url": "https://open.spotify.com/track/3KP46YO181FPy23BkBQB3g"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Impact",
         "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
@@ -369,7 +569,7 @@
       "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Waste Your Love",
         "url": "https://open.spotify.com/album/0YJYkYfq1g8T9KxMmolj3G"
@@ -385,7 +585,7 @@
       "url": "https://open.spotify.com/track/278lyWvloSVUgHGZb5OnAY"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Force Of Will",
         "url": "https://open.spotify.com/album/6SuMWuLyuBbZmgArJRtcP6"
@@ -405,7 +605,7 @@
       "url": "https://open.spotify.com/track/3ZtsSSrYUSWSlH6QVmtsOT"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Rave Superstar",
         "url": "https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi"
@@ -429,7 +629,7 @@
       "url": "https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Alternate Identity",
         "url": "https://open.spotify.com/album/6jEORpipAoRwakwFZX9A9W"
@@ -445,7 +645,7 @@
       "url": "https://open.spotify.com/track/2q1pC7BEokX7owoPOKnr7A"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Oceans (Where Feet May Fail)",
         "url": "https://open.spotify.com/album/2336S58pdv6vJP8WVjtFSG"
@@ -469,7 +669,7 @@
       "url": "https://open.spotify.com/track/5jFahLzsbxvHJVgjktiDbY"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Get Closer",
         "url": "https://open.spotify.com/album/3vfngD3K6etqNllADtfaTi"
@@ -489,7 +689,7 @@
       "url": "https://open.spotify.com/track/7dFI15nIODaXPQgIhAePo1"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/61vC5e6A8QeCllYMjkMoNE"
@@ -509,7 +709,7 @@
       "url": "https://open.spotify.com/track/3Vjj1wlRePg7RTXegdtmP4"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/30ECyjdDxRwzp73yyAoxVK"
@@ -525,7 +725,7 @@
       "url": "https://open.spotify.com/track/5QW0cHTxlj7zeLxQC9shaS"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Minutes To Midnight",
         "url": "https://open.spotify.com/album/0IwpvUeNGrWwpVVfux9Hz6"
@@ -545,7 +745,7 @@
       "url": "https://open.spotify.com/track/0W8RX35kq90cqt9jEhQt7G"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Divinity",
         "url": "https://open.spotify.com/album/4GARMhAwdWBxe38vA58khq"
@@ -565,7 +765,7 @@
       "url": "https://open.spotify.com/track/4F3y5Fl4jSMdmXxuceTEhI"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/4AAgU3gqqgJwKKWVwVcMEV"
@@ -585,7 +785,7 @@
       "url": "https://open.spotify.com/track/1KOcE8QcPCLPASSfA1Ekdp"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Hold Me Near",
         "url": "https://open.spotify.com/album/5rVdpB4ts9OcVyJ8A13kHE"
@@ -601,43 +801,7 @@
       "url": "https://open.spotify.com/track/5Up7EGjmxNwVFHKk2A8HCX"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Bowy (The World Is Yours)",
-        "url": "https://open.spotify.com/album/20FHllcZJkMAIsUSKnESEb"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bowy (The World Is Yours)",
-      "url": "https://open.spotify.com/track/14sNEXdQWD74CkF5GTLd8l"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Hardcore Feelings",
-        "url": "https://open.spotify.com/album/6zeIYR0A6Zi134UcF1fajD"
-      },
-      "artists": [
-        {
-          "name": "ZIGGY X",
-          "url": "https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83"
-        },
-        {
-          "name": "Battle Angel",
-          "url": "https://open.spotify.com/artist/4hQmVLRrSIK0D5be1iXwhn"
-        }
-      ],
-      "duration_ms": 115818,
-      "name": "Hardcore Feelings",
-      "url": "https://open.spotify.com/track/454EZ9uClmM1ntuZHgsDdR"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Reevolution EP",
         "url": "https://open.spotify.com/album/1vTwPGPGjp0xIdOsaSqUY4"
@@ -657,7 +821,7 @@
       "url": "https://open.spotify.com/track/6fBjnNhmNgAAVt5D30mFtQ"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "AI",
         "url": "https://open.spotify.com/album/6NQLEbhWWjFprdGgw4BvFn"
@@ -673,23 +837,7 @@
       "url": "https://open.spotify.com/track/3URzoaqWmyEHokARgdIz86"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "NRG OVERLOAD",
-        "url": "https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 204387,
-      "name": "NRG OVERLOAD",
-      "url": "https://open.spotify.com/track/6e4iELsEdqiRDKZX9EJJ2F"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Extermination",
         "url": "https://open.spotify.com/album/3vUGIIfrVYyINWr0M9ZEEq"
@@ -717,7 +865,7 @@
       "url": "https://open.spotify.com/track/6TVUZrDHsqpIO9a1VCX7oQ"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
@@ -741,7 +889,7 @@
       "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
@@ -757,7 +905,7 @@
       "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "It's All About The Music",
         "url": "https://open.spotify.com/album/3vvCMAOokrJox7Qovt9Vte"
@@ -777,7 +925,7 @@
       "url": "https://open.spotify.com/track/0w9Ycu6AN8kuN5LyIskWJD"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Rave Zone",
         "url": "https://open.spotify.com/album/3qyQqX2m9Iaof3srqzJPKe"
@@ -793,7 +941,7 @@
       "url": "https://open.spotify.com/track/3Z7LM2aHNGYY15h0escHhx"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "My Radio 2k23 (Earsquaker Remix)",
         "url": "https://open.spotify.com/album/2BvU5bp5ox0XcMPGvdJDuL"
@@ -817,7 +965,7 @@
       "url": "https://open.spotify.com/track/1HGMfxfCV6PHx7F1rAl7Xu"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Outside (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/3npYJDvpWgrXks0LmNWZQt"
@@ -841,7 +989,7 @@
       "url": "https://open.spotify.com/track/5idLCQX198buvDTviDEPP2"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
@@ -865,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/5c1miQshKBEz9MGtviYMHU"
@@ -889,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6WkMCi8yZNfz8NT8h7Z7GR"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Made of Stars",
         "url": "https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU"
@@ -905,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/4cNDv8FjY6YqTlbI5JxTpI"
@@ -925,7 +1073,7 @@
       "url": "https://open.spotify.com/track/7CPF9woL9CckkpmRITn4ID"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
@@ -945,7 +1093,7 @@
       "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Executioner Style (Vertile Remix)",
         "url": "https://open.spotify.com/album/2fPXkXyxGIMB3at284UlBu"
@@ -965,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3fFnDiT03PwYVTlWGOcTsY"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU"
@@ -985,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/1sAN460wLoupfyeDQroxCC"
@@ -1009,7 +1157,7 @@
       "url": "https://open.spotify.com/track/7eUJkgq11AkHNicCVqtiSv"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Conquer Your Mind (APEX 2023 OST)",
         "url": "https://open.spotify.com/album/0paLy0fl9zbTGi81rqupOp"
@@ -1025,23 +1173,7 @@
       "url": "https://open.spotify.com/track/6NA9FCLctIRhJc9723tZje"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Rock To This",
-        "url": "https://open.spotify.com/album/2ISsGwMwmCptd61688kNma"
-      },
-      "artists": [
-        {
-          "name": "High Level",
-          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Rock To This - Radio Edit",
-      "url": "https://open.spotify.com/track/0zTwNhoPQjXVs1x5Cb80hJ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Way Of The Warrior",
         "url": "https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI"
@@ -1057,23 +1189,7 @@
       "url": "https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Synergy (Reverze Anthem 2023)",
-        "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 288173,
-      "name": "Synergy (Reverze Anthem 2023)",
-      "url": "https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Phat Brahms (Coone Remix 2.0)",
         "url": "https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw"
@@ -1097,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "ARCEUS",
         "url": "https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr"
@@ -1121,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Out Of The Frame",
         "url": "https://open.spotify.com/album/4j7BWorgsb8kd6OumLsm0Z"
@@ -1141,7 +1257,7 @@
       "url": "https://open.spotify.com/track/1gXIL1SScEEYv9MxlRN9hj"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "3x Boom",
         "url": "https://open.spotify.com/album/4GbvcpJB4n0hXSSTpNsAp2"
@@ -1157,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6OYfbND22tUr1cD8YGXnk5"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Do Or Die (Refract Remix)",
         "url": "https://open.spotify.com/album/0gjLOJHeQvXUKxOs47AYdr"
@@ -1177,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3jWSTMDUKMgnbSKmrb199T"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "If You Believe",
         "url": "https://open.spotify.com/album/0PZhOOg6xYDL7t2rnRzQHx"
@@ -1201,7 +1317,7 @@
       "url": "https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Attack Mode",
         "url": "https://open.spotify.com/album/2oUgwY4HmuJcGGhfumDfC7"
@@ -1217,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6RpHz3kIbDNS2vjdlSN7rO"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/716C8P7rj8KkwE7yZ6pSea"
@@ -1237,31 +1353,7 @@
       "url": "https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Magnetism",
-        "url": "https://open.spotify.com/album/35crPsrfykbZJQWYqQOFQo"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Magnetism",
-      "url": "https://open.spotify.com/track/2MI3pBdP5NBQUUH791wWWk"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
@@ -1285,7 +1377,7 @@
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp"
@@ -1301,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Chase The Sun (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
@@ -1317,7 +1409,7 @@
       "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Forget You Pt. 2",
         "url": "https://open.spotify.com/album/0wwTguzCfUZ5KTQKFMvhzn"
@@ -1337,7 +1429,7 @@
       "url": "https://open.spotify.com/track/1dblMQ3nClfC0r8HvWUvgA"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/7qQjiLWOs4A8LT8pmNhUny"
@@ -1357,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5Cv53NmsFDpg0KWjaU5dCf"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "FIGHTING DEMONS",
         "url": "https://open.spotify.com/album/62MK9SQIv59nSjfOiksNfi"
@@ -1373,7 +1465,7 @@
       "url": "https://open.spotify.com/track/0SHI54cOrosSZySfTGvN3n"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "I'm Me",
         "url": "https://open.spotify.com/album/5s3YB12cqHIU5tS0s1kcT5"
@@ -1389,7 +1481,7 @@
       "url": "https://open.spotify.com/track/2RAnGGv0jVWMmtFvskh7Fo"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/7n0uFsSBFLql08OstmCAwT"
@@ -1409,7 +1501,7 @@
       "url": "https://open.spotify.com/track/7wyjuojJkbhF8rRodLBZoX"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "From Star To Stardust",
         "url": "https://open.spotify.com/album/0K7QlZSUAyNh5NDt7Hnd9H"
@@ -1425,7 +1517,7 @@
       "url": "https://open.spotify.com/track/05SYnVLCdvhvJ96HykxN2p"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Two of Us",
         "url": "https://open.spotify.com/album/0QQSbg8tyNaIAPkJ61qbf1"
@@ -1445,71 +1537,7 @@
       "url": "https://open.spotify.com/track/7MxkhCUhT1xyCcQUbUuXBG"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/4OtW1urchM8AHZpiNo0SSl"
-      },
-      "artists": [
-        {
-          "name": "Paul Keen",
-          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
-        },
-        {
-          "name": "Toby DEE",
-          "url": "https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj"
-        },
-        {
-          "name": "Flyjacker",
-          "url": "https://open.spotify.com/artist/5GJOjI4GXGsdsgb8C4ryhw"
-        },
-        {
-          "name": "Ramori",
-          "url": "https://open.spotify.com/artist/7sm76akhJ3Z0Za1iNZtqpo"
-        }
-      ],
-      "duration_ms": 168963,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/49mOQAd9oshTGH4W3Z7OJ7"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/7rppQv0SKgQPZYuUTYpvNX"
-      },
-      "artists": [
-        {
-          "name": "The Exoduz",
-          "url": "https://open.spotify.com/artist/6Sme2awIfgxNdvxIU1ptPd"
-        },
-        {
-          "name": "Dirty Workz",
-          "url": "https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob"
-        }
-      ],
-      "duration_ms": 259607,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4v8BDsgyYpmvsleRsBlafy"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Turn To Dust",
-        "url": "https://open.spotify.com/album/25N3wE662dMVrJdm7KFDwH"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Turn To Dust",
-      "url": "https://open.spotify.com/track/0tsR7yzuepDrAAIEarSfEk"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o"
@@ -1533,7 +1561,7 @@
       "url": "https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Truly Madly Deeply",
         "url": "https://open.spotify.com/album/2bhTRpPgIEee2mk1xLDTAX"
@@ -1553,27 +1581,7 @@
       "url": "https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Hiding In The Dark",
-        "url": "https://open.spotify.com/album/2cA5obdHc854owYwzrNczK"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        },
-        {
-          "name": "Break of Dawn",
-          "url": "https://open.spotify.com/artist/6BcNg67AxzaaVnin8tqG6d"
-        }
-      ],
-      "duration_ms": 213510,
-      "name": "Hiding In The Dark",
-      "url": "https://open.spotify.com/track/1T2r3JW8Q6jN2sUw3m0zuq"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Zyzzbrah (Wild Angel Remix)",
         "url": "https://open.spotify.com/album/2ENRbO0fXogFaE7EO7hl4X"
@@ -1593,7 +1601,7 @@
       "url": "https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/2fyVOpARXznPN9r0UUgl5G"
@@ -1613,7 +1621,7 @@
       "url": "https://open.spotify.com/track/1bRt6XCQkPnzNjO2bpIZfZ"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Tricky Melody",
         "url": "https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx"
@@ -1637,7 +1645,7 @@
       "url": "https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Chaos Complete (2022 EDIT)",
         "url": "https://open.spotify.com/album/0BEafO8tQEku1vXARbsSw2"
@@ -1657,27 +1665,7 @@
       "url": "https://open.spotify.com/track/1oS16UPstPAd5O9US2waU6"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6LHgTS7CpEiw3l9s0hGCTQ"
-      },
-      "artists": [
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
-        },
-        {
-          "name": "Deluzion",
-          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
-        }
-      ],
-      "duration_ms": 220136,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/73YSqgqVJEEq5dl4K8tgCF"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Born To Be King (feat. MC D)",
         "url": "https://open.spotify.com/album/785TGg7CGwdV8sksTdtpHn"
@@ -1697,27 +1685,7 @@
       "url": "https://open.spotify.com/track/5mkq1dyCOXQETVzGxH9Iqn"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0jWqcc5qM4dlZihYYXmDjQ"
-      },
-      "artists": [
-        {
-          "name": "Empyre One",
-          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
-        },
-        {
-          "name": "VDK",
-          "url": "https://open.spotify.com/artist/5prWTMBZTDU2RzpuFhk0mm"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4aSEXxxd8fXP5nw1e8cFOr"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt"
@@ -1737,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "One And The Same",
         "url": "https://open.spotify.com/album/7GKygds15lUloYYV0wyINF"
@@ -1761,7 +1729,7 @@
       "url": "https://open.spotify.com/track/6NNRhitDn0DE7bRGcEESgb"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/6CS5AMrrUvpnKpxeOnOAZh"
@@ -1781,7 +1749,7 @@
       "url": "https://open.spotify.com/track/7nJPt8h1ONb7XRWxxqTW7Q"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Take you Higher",
         "url": "https://open.spotify.com/album/352EHY2AyJpLbHNbzcemKB"
@@ -1797,7 +1765,7 @@
       "url": "https://open.spotify.com/track/7rK1KaTLVKqniKtMg3Lf8m"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Designed To Dance",
         "url": "https://open.spotify.com/album/69ZZvr1378jM6nEhcvyS1J"
@@ -1817,7 +1785,7 @@
       "url": "https://open.spotify.com/track/3tYmEsZNjkcF6KlNZOcQG2"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/1gxoJ9QwxUbckuTKwfOAsc"
@@ -1833,7 +1801,7 @@
       "url": "https://open.spotify.com/track/2tt1wofNGBSv4vwv9thtZy"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Darkest Night",
         "url": "https://open.spotify.com/album/2cQJAXfHrBBrevTmetmOTb"
@@ -1853,7 +1821,7 @@
       "url": "https://open.spotify.com/track/4F0hY9s0LJ6KQPhWRVFNPh"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Vendetta (X-Qlusive OST)",
         "url": "https://open.spotify.com/album/07YoVUzYhdzlJvKeIriPTV"
@@ -1869,35 +1837,7 @@
       "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ"
-      },
-      "artists": [
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
-        },
-        {
-          "name": "\u00d8ien",
-          "url": "https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic"
-        },
-        {
-          "name": "Slenderino",
-          "url": "https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb"
-        }
-      ],
-      "duration_ms": 165844,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "UNDRGRND",
         "url": "https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj"
@@ -1913,7 +1853,7 @@
       "url": "https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Shabaka (A Wasteland Anthem) [VIP]",
         "url": "https://open.spotify.com/album/014MMy5nzIpwzAmHnXDS6C"
@@ -1933,7 +1873,7 @@
       "url": "https://open.spotify.com/track/1uVmyQNZ199w45yfNzZdPZ"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Top Of The World",
         "url": "https://open.spotify.com/album/7ICOtTbQURxr3mvKIhFjwh"
@@ -1949,27 +1889,7 @@
       "url": "https://open.spotify.com/track/4zbfmYp5spMFXDNjNBefTS"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Million Miles",
-        "url": "https://open.spotify.com/album/1YaUbW6S1JP9L7JLzV048E"
-      },
-      "artists": [
-        {
-          "name": "Demi Kanon",
-          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
-        },
-        {
-          "name": "Ava Silver",
-          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
-        }
-      ],
-      "duration_ms": 144637,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/1KjscrTsN1z7LgoNBGjufh"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "Riders Of The Storm",
         "url": "https://open.spotify.com/album/5s6MqBY1z62WaZ7MBgnwIA"
@@ -1993,7 +1913,7 @@
       "url": "https://open.spotify.com/track/7yuse8hjUyQ1nzbuUJ7OxC"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "The Shadows",
         "url": "https://open.spotify.com/album/741Fd6iewyCCkljnldU3RS"
@@ -2009,23 +1929,7 @@
       "url": "https://open.spotify.com/track/0lVrGeAbo6pzYB3NIP4apo"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Burn It Down",
-        "url": "https://open.spotify.com/album/6vRb3xiVIvUN7VunCfQ3aQ"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/7Bh0sxD0BTkq0PtexKICB3"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
+      "added_at": "2023-04-06 22:00:00",
       "album": {
         "name": "The Get Back",
         "url": "https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY"

@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 278048,
+  "num_followers": 278072,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDRmZGQ5YzUzYjgwYzBmNTAzYTI5YmUxOTI0OGFlZDY3",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMGMwOTYwZTU1MDA0ZGY4OWYyZjczM2NlZDk1ZDdlNTk0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1221,24 +1221,20 @@
       "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "West Coast (I'm In Love)",
-        "url": "https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m"
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa"
       },
       "artists": [
         {
           "name": "Smallpools",
           "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        },
-        {
-          "name": "Jillian Rossi",
-          "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
         }
       ],
-      "duration_ms": 212043,
-      "name": "West Coast (I'm In Love)",
-      "url": "https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8"
+      "duration_ms": 195066,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH"
     },
     {
       "added_at": "2022-11-11 05:00:00",

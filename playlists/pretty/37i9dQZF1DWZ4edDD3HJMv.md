@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4edDD3HJMv.md) - [plain]
 
 > para cuándo el collab?
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,917 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,952 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4edDD3HJMv.md) - [plain]
 | 26 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1IxeJLsubGTboNN9K5XNfL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 3:40 |
 | 27 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 
-Snapshot ID: `MTY4MDUzMjY4NCwwMDAwMDAwMDljMGQzNTRkYWI5ZmIyNjIwZDA2NWViMjk3MDdmNDBj`
+Snapshot ID: `MTY4MDUzMjY4NCwwMDAwMDAwMDg3YjZkYzM0YTY2NDE1OGI3YjM2YTk5MWQzMzU3NmU4`

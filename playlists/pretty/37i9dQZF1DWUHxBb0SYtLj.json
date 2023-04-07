@@ -1,12 +1,12 @@
 {
   "description": "Ascolta a tutto volume queste straordinarie artiste italiane! Cover: BigMama",
-  "num_followers": 18055,
+  "num_followers": 18078,
   "original_name": "EQUAL Italia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0NTY2MCwwMDAwMDAwMGVjZmY4MDBlY2IxOTJhMjEwNjYyZDcxMmRjNDY3ODBm",
+  "snapshot_id": "MTY4MDY0NTY2MCwwMDAwMDAwMGViNzMzMWYwNWM2NGMyMGE0Nzg3ODAwZmRhOTdkMGE1",
   "tracks": [
     {
       "added_at": "2023-04-04 22:01:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-04-04 22:01:00",
       "album": {
+        "name": "Fiore di ghiaccio",
+        "url": "https://open.spotify.com/album/2MNWiE7iYdL5lxtyIZm4rr"
+      },
+      "artists": [
+        {
+          "name": "Paola Turci",
+          "url": "https://open.spotify.com/artist/7dNlfF1yoOCoclHmZuUemi"
+        }
+      ],
+      "duration_ms": 179546,
+      "name": "Fiore di ghiaccio",
+      "url": "https://open.spotify.com/track/5cMyYxEpeiJDjP67nHmtAh"
+    },
+    {
+      "added_at": "2023-04-04 22:01:00",
+      "album": {
         "name": "Mani vuote",
         "url": "https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT"
       },
@@ -263,6 +279,22 @@
     {
       "added_at": "2023-04-04 22:01:00",
       "album": {
+        "name": "Io Lei e Tu",
+        "url": "https://open.spotify.com/album/3FzRrTX6IGSL7V9xebPvyz"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Io Lei e Tu",
+      "url": "https://open.spotify.com/track/7pcC48RUsxkIupldSKSdsM"
+    },
+    {
+      "added_at": "2023-04-04 22:01:00",
+      "album": {
         "name": "Habitat",
         "url": "https://open.spotify.com/album/5NbTjqelBHpGM4667BbhS0"
       },
@@ -299,6 +331,22 @@
       "duration_ms": 165613,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/1E48kr5Y1GkVj74y9jh9mE"
+    },
+    {
+      "added_at": "2023-04-04 22:01:00",
+      "album": {
+        "name": "Is that all there is?",
+        "url": "https://open.spotify.com/album/3WA9g8iYSTJQm2FuBM75p3"
+      },
+      "artists": [
+        {
+          "name": "H\u0113ir",
+          "url": "https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW"
+        }
+      ],
+      "duration_ms": 179434,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7tTiA7pLQxG48C6Q38wON4"
     },
     {
       "added_at": "2023-04-04 22:01:00",
@@ -391,6 +439,22 @@
     {
       "added_at": "2023-04-04 22:01:00",
       "album": {
+        "name": "Passer\u00e0",
+        "url": "https://open.spotify.com/album/4z4D8q6vfOhTEm7oeeEF9q"
+      },
+      "artists": [
+        {
+          "name": "Johana",
+          "url": "https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "Passer\u00e0",
+      "url": "https://open.spotify.com/track/35V948aBwEJCCWdkrSdW2h"
+    },
+    {
+      "added_at": "2023-04-04 22:01:00",
+      "album": {
         "name": "Vista Mare Forever",
         "url": "https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW"
       },
@@ -419,6 +483,22 @@
       "duration_ms": 249000,
       "name": "Nuvole",
       "url": "https://open.spotify.com/track/6901QHtDW0N3wOPb7l8c1S"
+    },
+    {
+      "added_at": "2023-04-04 22:01:00",
+      "album": {
+        "name": "Zattera",
+        "url": "https://open.spotify.com/album/456f6YKldblpDPmIjWcnna"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "duration_ms": 152392,
+      "name": "Zattera",
+      "url": "https://open.spotify.com/track/02DJ7QRRrQP4JYCl6ySJha"
     },
     {
       "added_at": "2023-04-04 22:01:00",
@@ -515,6 +595,22 @@
       "duration_ms": 165340,
       "name": "Senza di te",
       "url": "https://open.spotify.com/track/4gUaZ6tMvZcKBQy973pLPF"
+    },
+    {
+      "added_at": "2023-04-04 22:01:00",
+      "album": {
+        "name": "Sola Stanotte",
+        "url": "https://open.spotify.com/album/0Xkwup8jEPapkMIG4AEhcG"
+      },
+      "artists": [
+        {
+          "name": "giuliettacome",
+          "url": "https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR"
+        }
+      ],
+      "duration_ms": 201244,
+      "name": "Sola Stanotte",
+      "url": "https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5"
     },
     {
       "added_at": "2023-04-04 22:01:00",

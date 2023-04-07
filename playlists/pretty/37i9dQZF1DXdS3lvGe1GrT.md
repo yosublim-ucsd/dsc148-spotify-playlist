@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,011 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,082 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Come On Down](https://open.spotify.com/track/2ImyWYZT3UsHcVrUuEZ55p) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Come On Down](https://open.spotify.com/album/3pPt5DMKO6G6rYC8hsKTDX) | 3:22 |
 | 100 | [Like the Fruit Falls from the Tree](https://open.spotify.com/track/7e6EM4XDJ1Av4i0ryu46HO) | [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Like the Fruit Falls from the Tree](https://open.spotify.com/album/54olLMg03emJqB4FACmNfW) | 3:11 |
 
-Snapshot ID: `MTY4MDcwOTgxMiwwMDAwMDAwMDQ5ODYyMjFhMzA1ODExNzA1NzU3YzY4OTI2NTUwYTAw`
+Snapshot ID: `MTY4MDcwOTgxMiwwMDAwMDAwMDdmMmEyYjEyMDFmZTU3ZDExYWY5YTU1ZmQ2MDhlMWU3`

@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 210250,
       "name": "At last",
       "url": "https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 276874,
       "name": "Call to Rest",
       "url": "https://open.spotify.com/track/7FpuImiEfUmOWKKi4UyO9y"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 289804,
       "name": "Divine",
       "url": "https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl"
@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Erstwhile",
+        "url": "https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133612,
+      "name": "Erstwhile",
+      "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
+    },
+    {
+      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 247249,
       "name": "Fading Out",
       "url": "https://open.spotify.com/track/1GG2rqEQi9OyH1pA8A7qGl"
@@ -2296,7 +2314,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 202305,
       "name": "Healing Memories",
       "url": "https://open.spotify.com/track/05MWiaG0YFAEQDN0wPRGla"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 186154,
       "name": "Meditaci\u00f3n y Relajaci\u00f3n",
       "url": "https://open.spotify.com/track/30ZnWr4gkenAaSFIa733gl"
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 237032,
       "name": "Relaxar",
       "url": "https://open.spotify.com/track/517MFgG7lzEZn286TL5F74"
@@ -4348,7 +4366,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 226000,
       "name": "Sangre",
       "url": "https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1"
@@ -4672,7 +4690,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 210681,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/18ASLynW0wviGgoxqceQNB"
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 190000,
       "name": "This night",
       "url": "https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl"
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 168430,
       "name": "Yoga Suave",
       "url": "https://open.spotify.com/track/0vIbin4bgiEt31PDnxFWcx"

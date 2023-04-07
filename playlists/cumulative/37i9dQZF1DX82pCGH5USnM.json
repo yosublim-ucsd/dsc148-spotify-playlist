@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk"
+      },
+      "artists": [
+        {
+          "name": "Triple Bulletin",
+          "url": "https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh"
+    },
+    {
+      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/10WJanvowjMB3sktk90S1g"
       },
@@ -6530,6 +6548,24 @@
       "duration_ms": 449039,
       "name": "Love Recycled 1",
       "url": "https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB"
+    },
+    {
+      "album": {
+        "name": "lowfie",
+        "url": "https://open.spotify.com/album/3HW3ITcip0DBM5Kr6Djc4i"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "lowfie",
+      "url": "https://open.spotify.com/track/3u3osPhHe6pRdqwkxFktf1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Make Them Suffer on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,910 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,282 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 69 | [Until There Is No Longer](https://open.spotify.com/track/7M29N3LpCBMb0YqOGsdhT9) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Until There Is No Longer](https://open.spotify.com/album/35l01U5iYahwYIGzlk2MbT) | 3:41 |
 | 70 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGE3MzQyMzY4MWY4NjE1NzhkMjZmZjM5NzMxZWE5OTRh`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGE0Y2RkZDlkMWZjMmQ2ODAxNDRjMjJlNzE3ZTI3OWFl`

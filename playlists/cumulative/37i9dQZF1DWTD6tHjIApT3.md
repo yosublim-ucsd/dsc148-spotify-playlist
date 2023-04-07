@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: あいみょん
 
-1,253 songs - 3 day 9 hr 50 min
+1,255 songs - 3 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Bokuniwa](https://open.spotify.com/track/69s0IVOvuBBAoG7rF9N7U0) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Bokuniwa](https://open.spotify.com/album/6j9z4vps160XP2idd7RSB3) | 6:11 | 2022-06-02 | 2022-07-21 |
 | [Borderless](https://open.spotify.com/track/0c3XfRGN51u29l7IviP7wd) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Borderless](https://open.spotify.com/album/4Hk7K5YuyMqg6Mqxqv1XWB) | 2:59 | 2022-05-29 | 2022-07-29 |
 | [BOYFRIEND](https://open.spotify.com/track/0GetObkAObITplks2Ye5Nb) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [BOYFRIEND](https://open.spotify.com/album/1Uho2SdndCiP3n0Jrvljqq) | 3:42 | 2022-05-29 | 2022-07-27 |
+| [Bright Red Nails and Milk](https://open.spotify.com/track/5eEbgyCHUhUcrbwNjvMvOz) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I'll Be Cute When You See Me](https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg) | 4:40 | 2023-04-06 |  |
 | [Budo Juice](https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/track/0GTeyD3fKkDzy81I3u32yl) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/album/2ajTXT9fYCCBGIsAQnP6H0) | 4:34 | 2023-01-24 | 2023-01-26 |
 | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/track/3kxwqpINAbuqo2jlW0MwYs) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/album/0Xy27LJYDsqky0xkGXeeUt) | 4:34 | 2023-01-24 | 2023-02-08 |
@@ -354,6 +355,7 @@
 | [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 | 2022-12-15 |
 | [Life Road](https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Life Road](https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9) | 3:32 | 2022-05-29 | 2022-10-22 |
 | [Light](https://open.spotify.com/track/3383Mps5G2KHcSqjZGp91W) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Light](https://open.spotify.com/album/40Ntfv5riu8CD8KFZEMYIz) | 4:14 | 2022-06-07 | 2022-07-21 |
+| [Like a Tattoo](https://open.spotify.com/track/4fvkZszNefW12XcmzfdkgP) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Like a Tattoo](https://open.spotify.com/album/4ChcKPvO7ZaItfidmhnxs9) | 3:41 | 2023-04-06 |  |
 | [Like a Wolf](https://open.spotify.com/track/18vMmp2zT6R2LvdljlwM0x) | [Marina Kodama](https://open.spotify.com/artist/4f365HxBFYsr86eiSpjdKJ) | [Like a Wolf](https://open.spotify.com/album/1rAAvFC3XX1doi3KRAVKQ3) | 3:32 | 2022-05-29 | 2022-06-01 |
 | [Like no one's done](https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like no one's done](https://open.spotify.com/album/5JysaNdHLF3SuPrpLfrcyE) | 3:55 | 2022-12-06 | 2022-12-08 |
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 | 2023-01-04 |
@@ -488,7 +490,7 @@
 | [Pluto](https://open.spotify.com/track/4BgjikxDGRtrzGkuNmTsZo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [住](https://open.spotify.com/album/1AbYtHL8CaXQgJIu8ctq7C) | 3:10 | 2023-01-10 | 2023-01-18 |
 | [Pre\-Romance](https://open.spotify.com/track/4Vyd2DEveTVKeieRy2S4oD) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 3:12 | 2022-11-10 | 2022-11-13 |
 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-23 | 2023-04-05 |
-| [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 |  |
+| [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 | 2023-04-07 |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-16 |
 | [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-09-27 | 2022-10-04 |
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
@@ -894,7 +896,7 @@
 | [バニラビーンズ](https://open.spotify.com/track/5EGp0BlpEHdbcbYjNRCDpG) | [紺野メイ](https://open.spotify.com/artist/2k2RWLOvlAhvXtakjRlIWt) | [バニラビーンズ](https://open.spotify.com/album/0QpijT4MHcD7x0vsR784pa) | 3:43 | 2022-06-21 | 2022-06-29 |
 | [パレードが続くなら](https://open.spotify.com/track/3ZAN0RJYlhX5i5k7LDrGcB) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Free & Fancy](https://open.spotify.com/album/5svpVe3zB8NCO8fpb1dEON) | 3:58 | 2022-07-12 | 2022-07-14 |
 | [ヒトツボシ](https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR) | [KOH+](https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr) | [ヒトツボシ \~ガリレオ Collection 2007\-2022\~](https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1) | 4:20 | 2022-09-13 |  |
-| [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 | 2023-01-05 |  |
+| [ヒトミナカ](https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [ヒトミナカ](https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m) | 4:12 | 2023-01-05 | 2023-04-07 |
 | [ピクチャー](https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ピクチャー](https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB) | 2:48 | 2022-12-20 | 2023-01-04 |
 | [ピスタチオ](https://open.spotify.com/track/3VUkKSLEIh7Yx6717nfvL2) | [Asako](https://open.spotify.com/artist/5W5T6gpAEddvLwKsjgBhhO) | [ピスタチオ](https://open.spotify.com/album/67KdyQpyMf2WB5sMwQh5SN) | 3:14 | 2022-06-02 | 2022-07-24 |
 | [ピリオドとプレリュード](https://open.spotify.com/track/4Kn58T8pSI4FoW4okByWP7) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [ピリオドとプレリュード](https://open.spotify.com/album/0MtpxzzDUTDthEXJumh7vT) | 5:29 | 2023-02-28 | 2023-03-02 |

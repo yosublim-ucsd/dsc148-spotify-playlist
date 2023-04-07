@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Refuse Refuge",
+        "url": "https://open.spotify.com/album/2W9xS0Hg6u0qWQlNK3l9bT"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215820,
+      "name": "Refuse Refuge",
+      "url": "https://open.spotify.com/track/3NZKY4w97Tk2jKqANxQzlW"
+    },
+    {
+      "album": {
         "name": "rektless",
         "url": "https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT"
       },

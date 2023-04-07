@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chuu & KIM YOHAN)",
-  "num_followers": 384260,
+  "num_followers": 384361,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTk4MSwwMDAwMDAwMDQyZDg3MzMyMmM4MjVkZjdiNDA0MWYxMDQ3MmVkYjE2",
+  "snapshot_id": "MTY3OTkwNTk4MSwwMDAwMDAwMGZjNDkzNTI1Zjg3MGRlYmZjM2JlYmQxZWVhYmU0M2I3",
   "tracks": [
     {
       "added_at": "2023-03-24 07:42:54",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-03-24 07:42:54",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-03-24 07:42:54",
-      "album": {
         "name": "Whats wrong with secretary kim OST Part.1",
         "url": "https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 207056,
       "name": "Love Virus",
       "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
+    },
+    {
+      "added_at": "2023-03-24 07:42:54",
+      "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

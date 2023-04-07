@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 88014,
       "name": "Arabian Spa",
       "url": "https://open.spotify.com/track/2eINxDGMgnKBMZARjqtr4R"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 431240,
       "name": "Melting Snow",
       "url": "https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P"
@@ -1468,6 +1468,24 @@
       "duration_ms": 164000,
       "name": "Pure Compassion",
       "url": "https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh"
+    },
+    {
+      "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/5YOvdAVUQyFN4OWLpD0Y9l"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189912,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/3whNl0FoezzuTRvYYPKCS0"
     },
     {
       "album": {
@@ -1958,6 +1976,24 @@
       "duration_ms": 162383,
       "name": "We Are",
       "url": "https://open.spotify.com/track/3hwmB5wcWwszc2OfHaiqG1"
+    },
+    {
+      "album": {
+        "name": "Wellen",
+        "url": "https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF"
+      },
+      "artists": [
+        {
+          "name": "Celine Brandt",
+          "url": "https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Wellen",
+      "url": "https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: McFly
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,671 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,670 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 | 74 | [Call Me Up](https://open.spotify.com/track/362rlBjH5QCosaI0tjoISk) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Call Me Up](https://open.spotify.com/album/01PBDRObq98AepDMLCLYAT) | 2:51 |
 | 75 | [Every Night](https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Every Night](https://open.spotify.com/album/1erO19ZiBDTVHMOVj9dFUI) | 3:20 |
 
-Snapshot ID: `MTY4MDI1NjgxNSwwMDAwMDAwMDFhYmNhOGM2ZWQ3MDMxM2VmZWI0YzFlZGQ3OTA4MjIz`
+Snapshot ID: `MTY4MDI1NjgxNSwwMDAwMDAwMDQ0OWU3MmQzOTM3YWQyY2FhN2Q5NzQ3ZmU3ODI2YzIz`

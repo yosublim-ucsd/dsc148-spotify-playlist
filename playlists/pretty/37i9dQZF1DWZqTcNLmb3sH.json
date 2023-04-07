@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48325,
+  "num_followers": 48344,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY4ODI4NSwwMDAwMDAwMGIxZTJjMjkyZjkxOGMwNzE1ZDg2NzQ3ZWY5ODgzNDg3",
+  "snapshot_id": "MTY4MDc4NzIzNiwwMDAwMDAwMGQ0MDFjZTY1ZGJkMjQ5MTZkNTRkZTlmYjMzZjY5Mzcx",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -141,42 +141,6 @@
       "url": "https://open.spotify.com/track/4IYL0ax3QT1TB2YeC4MmJK"
     },
     {
-      "added_at": "2023-03-29 10:56:31",
-      "album": {
-        "name": "Oh Ammalaali Ammalaali (From \"Dasara\") (Kannada)",
-        "url": "https://open.spotify.com/album/0t5EDFk1AI7VoMdCnjHfSj"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 167540,
-      "name": "Oh Ammalaali Ammalaali",
-      "url": "https://open.spotify.com/track/4uWkIOC8nv1vMr1NQGjNAf"
-    },
-    {
-      "added_at": "2023-03-22 11:13:26",
-      "album": {
-        "name": "Kabzaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6kZ9RkbyvZbupGRYmd3Mmm"
-      },
-      "artists": [
-        {
-          "name": "Vijayalaxmi Mettinahole",
-          "url": "https://open.spotify.com/artist/3kKaH5mm0rjBdDxLOr0rPs"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Radha Radha",
-      "url": "https://open.spotify.com/track/59LWEobpciyd5ASN9SO25U"
-    },
-    {
       "added_at": "2023-04-04 12:13:44",
       "album": {
         "name": "Hodalo Bittu Hodalo (from \"Veeram\")",
@@ -195,6 +159,70 @@
       "duration_ms": 235624,
       "name": "Hodalo Bittu Hodalo (from \"Veeram\")",
       "url": "https://open.spotify.com/track/13MCBoyvRHTmFVvikqlzAk"
+    },
+    {
+      "added_at": "2023-03-29 10:56:31",
+      "album": {
+        "name": "Oh Ammalaali Ammalaali (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/19sJJ7dDwYeSBNpiRkDHBS"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 167540,
+      "name": "Oh Ammalaali Ammalaali (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/5PD9FrQ1lkGTBvx0jFcVUT"
+    },
+    {
+      "added_at": "2023-03-22 11:13:26",
+      "album": {
+        "name": "Kabzaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kZ9RkbyvZbupGRYmd3Mmm"
+      },
+      "artists": [
+        {
+          "name": "Vijayalaxmi Mettinahole",
+          "url": "https://open.spotify.com/artist/3kKaH5mm0rjBdDxLOr0rPs"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Radha Radha",
+      "url": "https://open.spotify.com/track/59LWEobpciyd5ASN9SO25U"
+    },
+    {
+      "added_at": "2023-04-06 13:20:35",
+      "album": {
+        "name": "E Hrudayada Deguladali (From \"Feel My Love\")",
+        "url": "https://open.spotify.com/album/6E91OM5ykMyeQ9XIMy2Xzt"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anjini Kumar M",
+          "url": "https://open.spotify.com/artist/4XjOTkp0KpJmU5WBEWKzOk"
+        },
+        {
+          "name": "Rahul Raj Music",
+          "url": "https://open.spotify.com/artist/6pWY7RG00F76WyWWXshlbV"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "E Hrudayada Deguladali - From \"Feel My Love\"",
+      "url": "https://open.spotify.com/track/66cIa6Cow6a4L5QcdvQ3QH"
     },
     {
       "added_at": "2023-03-28 05:05:16",
@@ -503,22 +531,26 @@
     {
       "added_at": "2023-04-03 11:48:53",
       "album": {
-        "name": "Kaala Chakradalli (From \"Raaghu\")",
-        "url": "https://open.spotify.com/album/1WZDJdZSEYHcT69152MvSU"
+        "name": "Kaala Chakradalli (From \"Raaghu\") - Single",
+        "url": "https://open.spotify.com/album/4oItCZyew1jxGU354ekRHc"
       },
       "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
         {
           "name": "Suraj Jois",
           "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
         },
         {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+          "name": "Vinay Pandavapura",
+          "url": "https://open.spotify.com/artist/66mtz8MKcRFdWuxUdeS2Ob"
         }
       ],
       "duration_ms": 238494,
-      "name": "Kaala Chakradalli",
-      "url": "https://open.spotify.com/track/7sYd6i6JzU9HMe2Owr4ssU"
+      "name": "Kaala chakradalli (From \"Raaghu\")",
+      "url": "https://open.spotify.com/track/4THIggpmX3z8TldtJN8GYw"
     },
     {
       "added_at": "2023-03-28 05:05:16",

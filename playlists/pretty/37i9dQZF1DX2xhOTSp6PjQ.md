@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=\_aIL8crJSKC5kkUNk4ASlQ">Big Zulu</a> and <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=\_DabzKNsSnisZ\_NpwiIHDA">Sjava</a> are <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=V4X6pc3hQqG644fLEMUOLw">Inkabi Zezwe</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,193 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,306 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 49 | [Awume Kancane](https://open.spotify.com/track/6HjdFBVWWqvFKFr5ZsneHE) | [Ithwasa Lekhansela](https://open.spotify.com/artist/6NBgad7h0rc4Q75Ek8nt89) | [Ngiqabuleni](https://open.spotify.com/album/3OxIFFFeItgoIBup6T66nA) | 3:57 |
 | 50 | [Amakhehla](https://open.spotify.com/track/3BkskmADgoWdiGHiaEz6uc) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:30 |
 
-Snapshot ID: `MTY3OTkwNjU0NiwwMDAwMDAwMDU3MmY3ZTM0NDM2ZGNiNWJlMWY2MDBkMDgyNzg1ZmIw`
+Snapshot ID: `MTY3OTkwNjU0NiwwMDAwMDAwMDA0YjdkNDY0NmY1NzFhYTc2ZDk1MGEwMTI0NmQwMjQ5`

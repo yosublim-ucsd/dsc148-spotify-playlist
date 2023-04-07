@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Connie Constance ft\. Jason Williamson
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,034 likes - 125 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,111 likes - 125 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 |
 | 2 | [i h8 skewl](https://open.spotify.com/track/0o7jsFaNfMBrqSrlyY2bVz) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i h8 skewl](https://open.spotify.com/album/3StXuwTWExhBOuChvk5Cb1) | 2:04 |
-| 3 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
+| 3 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 | 4 | [Lately](https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq), [Todd Barriage](https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lately](https://open.spotify.com/album/3CwpPyVy8P6UjE4s81I3cm) | 3:01 |
 | 5 | [Lake Speed](https://open.spotify.com/track/0ZK1Ii5fhYlwPhS2uIj3bz) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [Stowaway](https://open.spotify.com/album/5EZd3zQ30PFR9Xtbcbp0EU) | 2:46 |
 | 6 | [\(Full Free\) Radical](https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [\(Full Free\) Radical](https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6) | 3:55 |
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 9 | [Totally Cool](https://open.spotify.com/track/5JCYjTSpiltVwVok0Ehh1T) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Totally Cool](https://open.spotify.com/album/0EaMZrBQy01EqHVI27t1pL) | 2:39 |
 | 10 | [Moving On](https://open.spotify.com/track/6ynejRROlfd3gmL6tKZ4hv) | [Life In Vacuum](https://open.spotify.com/artist/2bLid7CTiJiQULGpRRZfkb) | [Moving On](https://open.spotify.com/album/3GuYQUslq7Tb7hzJEDEENQ) | 3:16 |
 | 11 | [Eat Your Tail](https://open.spotify.com/track/7K3l9t8BfHRNEiDTGPzQyl) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Eat Your Tail](https://open.spotify.com/album/481DpBzqn3eUvsbaqNTosZ) | 4:04 |
-| 12 | [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [DOOM REGULATOR](https://open.spotify.com/artist/6qjOcS93vVTKy1LGVOBdac) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 |
+| 12 | [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [DOOM REGULATOR](https://open.spotify.com/artist/5KIqdI4DIdPdiS5JVWQVxj) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 |
 | 13 | [Thought It Was Yoga but It Was Ketamine](https://open.spotify.com/track/5ZaQkQHXxEPWcj2uOehRBP) | [Frenzal Rhomb](https://open.spotify.com/artist/4cxBQR2C44tnfQ74lpFN7N) | [Thought It Was Yoga but It Was Ketamine](https://open.spotify.com/album/0z8pzQeN7sNHxCz4ld2W13) | 2:16 |
-| 14 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 |
+| 14 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 |
 | 15 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 |
 | 16 | [Back to Better](https://open.spotify.com/track/5Zrk4cpPgTP8pk8cvnKNVo) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [Ten Stories High](https://open.spotify.com/album/0wdbr46ndnwB1cgZoNzT48) | 2:10 |
 | 17 | [Nevermind](https://open.spotify.com/track/3UU9izuN3bTpUOd4AqgGsg) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Nevermind](https://open.spotify.com/album/7yC3vYl7WtAju5E4lCwLPQ) | 2:59 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [I Love Myself](https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [I Love Myself](https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo) | 2:25 |
 | 125 | [Sorry Not Sorry](https://open.spotify.com/track/4aRPf78GfwGoERWOtdO0mO) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Sorry Not Sorry](https://open.spotify.com/album/3cxcvmp9UQMM34ycBcTjEN) | 3:54 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDMxYjAxNTc1OWZmYzdhNzViMTIxNmI2NzNkMGQyMWQw`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDNkYWZhOGJmYTM5OWI4MDc1YzQ4OTg3YmQwNGQ2ODU4`

@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
-  "num_followers": 95842,
+  "num_followers": 95861,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMDQ3NWM5YTRjMjJhODEzY2UxNjlhYmM5OWM4MGM3NzQy",
+  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMGYwNjkwMGVmNmI2MWY5ZWFkYTRkNTk4ZmQyN2RjMjNi",
   "tracks": [
     {
       "added_at": "2023-03-31 18:07:09",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
-      "added_at": "2023-04-06 01:07:56",
+      "added_at": "2023-04-07 00:57:26",
       "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
     },
     {
-      "added_at": "2023-04-06 01:07:56",
+      "added_at": "2023-04-07 00:57:26",
       "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
     },
     {
-      "added_at": "2023-04-06 01:07:56",
+      "added_at": "2023-04-07 00:57:26",
       "album": {
         "name": "No Sab\u00eda",
         "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
     },
     {
-      "added_at": "2023-04-06 01:07:56",
+      "added_at": "2023-04-07 00:57:26",
       "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/7aitspSO60ab2xeVN2b33K"
+        "name": "Caguamita Banquetera",
+        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
         }
       ],
-      "duration_ms": 185889,
-      "name": "contigo va a estar bien",
-      "url": "https://open.spotify.com/track/3II1gxMk8QeElZoimHOEQ7"
+      "duration_ms": 155651,
+      "name": "Caguamita Banquetera",
+      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -735,22 +735,6 @@
       "duration_ms": 181093,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Caguamita Banquetera",
-        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
-      },
-      "artists": [
-        {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        }
-      ],
-      "duration_ms": 155651,
-      "name": "Caguamita Banquetera",
-      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Pasado y Olvido",
+        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 255155,
+      "name": "Pasado y Olvido",
+      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 177450,
       "name": "La Vida Nos Hizo En Pares",
       "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Pasado y Olvido",
-        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 255155,
-      "name": "Pasado y Olvido",
-      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "El Fin",
-        "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
-      },
-      "artists": [
-        {
-          "name": "Karla Cruise",
-          "url": "https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "El Fin",
-      "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Terciopelo",
         "url": "https://open.spotify.com/album/0uOOazj0IXyUab4OVT9rIz"
       },
@@ -1067,18 +1035,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Yaya",
-        "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
+        "name": "El Fin",
+        "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
       "artists": [
         {
-          "name": "Venado Meraki",
-          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
+          "name": "Karla Cruise",
+          "url": "https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs"
         }
       ],
-      "duration_ms": 233370,
-      "name": "Yaya",
-      "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
+      "duration_ms": 177813,
+      "name": "El Fin",
+      "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1099,6 +1067,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Yaya",
+        "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
+      },
+      "artists": [
+        {
+          "name": "Venado Meraki",
+          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
+        }
+      ],
+      "duration_ms": 233370,
+      "name": "Yaya",
+      "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "\u00bfQu\u00e9 pas\u00f3?",
         "url": "https://open.spotify.com/album/7mTdih8YvmbQBKsmXNOISQ"
       },
@@ -1111,22 +1095,6 @@
       "duration_ms": 259200,
       "name": "\u00bfQu\u00e9 pas\u00f3?",
       "url": "https://open.spotify.com/track/1VgWAGoBepDqO0elgJ7LHL"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Cuando salga el sol",
-        "url": "https://open.spotify.com/album/0DXHs3FAp1n74c9DRFykqv"
-      },
-      "artists": [
-        {
-          "name": "Alan Troy",
-          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Cuando salga el sol",
-      "url": "https://open.spotify.com/track/5kR3d959InuG8hA5EDXE2k"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1159,6 +1127,22 @@
       "duration_ms": 234500,
       "name": "Bolero Surrealista",
       "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Cuando salga el sol",
+        "url": "https://open.spotify.com/album/0DXHs3FAp1n74c9DRFykqv"
+      },
+      "artists": [
+        {
+          "name": "Alan Troy",
+          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Cuando salga el sol",
+      "url": "https://open.spotify.com/track/5kR3d959InuG8hA5EDXE2k"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Repetir",
+        "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 163958,
+      "name": "Repetir",
+      "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "Me Vale",
         "url": "https://open.spotify.com/album/2AB0FCPBg9G7pbHoQIhDZX"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Repetir",
-        "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
         }
       ],
-      "duration_ms": 163958,
-      "name": "Repetir",
-      "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2023-03-31 18:07:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Demob Happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,890 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,910 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 33 | [Do It Faster](https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Do It Faster](https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs) | 1:47 |
 | 34 | [Psychic Dance Routine](https://open.spotify.com/track/6zyr6nGB4mRu1uNywgjpke) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/7LaHk6zopmPwCD3N2ZVOY6) | 2:49 |
 | 35 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
-| 36 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [be your own pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
+| 36 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 | 37 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 |
 | 38 | [Life Support](https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Life Support / Ms\. Supernova](https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy) | 3:11 |
 | 39 | [Love in the Afternoon](https://open.spotify.com/track/7GdhqmcbfFfTLXVfhysn1Y) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Love in the Afternoon](https://open.spotify.com/album/6N43rFu2J4IktSSQgZyhLL) | 3:30 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 75 | [4Runner](https://open.spotify.com/track/4AwnxHny9z5m0ZHmYSpkGq) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [4Runner](https://open.spotify.com/album/7oJWGHkAOKDdnyvlNJj0i6) | 2:47 |
 | 76 | [my apartment](https://open.spotify.com/track/5xM66YoPHW9XQTEFrpQlK4) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw), [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [my apartment](https://open.spotify.com/album/5hPKVtotgBGsoK6eTWvl8w) | 2:40 |
 | 77 | [Nobody Can Stop Me \(I'm Gonna Be Like Madonna\)](https://open.spotify.com/track/2yLzS45CU6IzDSvq6Q0QDf) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Nobody Can Stop Me \(I'm Gonna Be Like Madonna\)](https://open.spotify.com/album/4MoJQ6TLy1z0SB6TGvMTSS) | 2:01 |
-| 78 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 |
+| 78 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 |
 | 79 | [L\-Trip](https://open.spotify.com/track/3wQj6B79bhlBVLzkMLN2im) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [L\-Trip](https://open.spotify.com/album/6PPjJNSpggzj6xyB5ebU5i) | 3:31 |
 | 80 | [Certified Depressant](https://open.spotify.com/track/69kWNJKHnRH73WkKPT3QU4) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/4sI51hGGXuzZYCBnSC7LMs) | 2:49 |
 | 81 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [Fuck Around Phase](https://open.spotify.com/track/1FyhViHV8NdA68NdCmvDMU) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Fuck Around Phase](https://open.spotify.com/album/3gc6aADQfnmUgX0ama4Lac) | 2:41 |
 | 102 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 
-Snapshot ID: `MTY4MDUzODQ3OCwwMDAwMDAwMGZmOTcyOTViNmUwYzZlZTdkNGFiMGM2NjZhNjhiN2Ew`
+Snapshot ID: `MTY4MDUzODQ3OCwwMDAwMDAwMDU4YmEwNjI4MmU5ZmE0ZTgzMDUyODVjN2YyYTQzZGI4`

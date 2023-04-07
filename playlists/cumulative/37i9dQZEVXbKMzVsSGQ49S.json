@@ -2867,6 +2867,28 @@
     },
     {
       "album": {
+        "name": "Duet of Dualities",
+        "url": "https://open.spotify.com/album/1eFkXkrRQG5v5NThuS8xJa"
+      },
+      "artists": [
+        {
+          "name": "T E M P O",
+          "url": "https://open.spotify.com/artist/6h2OcKtozbMmWKL5cROcQ6"
+        },
+        {
+          "name": "GREYLEE",
+          "url": "https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220124,
+      "name": "Cheater",
+      "url": "https://open.spotify.com/track/4tuuGM15PpodHQ3nvjYNYF"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -8052,6 +8074,32 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "album": {
+        "name": "Duet of Dualities",
+        "url": "https://open.spotify.com/album/1eFkXkrRQG5v5NThuS8xJa"
+      },
+      "artists": [
+        {
+          "name": "T E M P O",
+          "url": "https://open.spotify.com/artist/6h2OcKtozbMmWKL5cROcQ6"
+        },
+        {
+          "name": "Kaui",
+          "url": "https://open.spotify.com/artist/7hIscR0PbcI6vZ2KNSTUaw"
+        },
+        {
+          "name": "GREYLEE",
+          "url": "https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "Haters Gona Hate",
+      "url": "https://open.spotify.com/track/51sGWiz9JCZxoxntgvJgzq"
     },
     {
       "album": {
@@ -15788,7 +15836,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -23526,7 +23574,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 200454,
       "name": "\u00c9g er",
       "url": "https://open.spotify.com/track/2V3gHXcnmbHJcRHR2H6GRT"

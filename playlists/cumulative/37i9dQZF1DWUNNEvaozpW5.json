@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "Bendita Primavera",
+        "url": "https://open.spotify.com/album/24o5PJsiKSxz0mKjT2IEnT"
+      },
+      "artists": [
+        {
+          "name": "Diego Cruz y los Ni\u00f1os Viejos",
+          "url": "https://open.spotify.com/artist/6JEZisBM6g3xIngyo9sAcW"
+        },
+        {
+          "name": "Pablo Sanpa",
+          "url": "https://open.spotify.com/artist/6bJo8YEWeliXUCWUY9iy8e"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322094,
+      "name": "Bendita Primavera",
+      "url": "https://open.spotify.com/track/1OhLqQd3U4qsPqP08bTPOy"
+    },
+    {
+      "album": {
         "name": "Bombero",
         "url": "https://open.spotify.com/album/5WJlH2OtY2ySr7brpJNffm"
       },
@@ -1129,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "A primera sangre",
+        "url": "https://open.spotify.com/album/1aNwDBOJSEOILJ26OyN8t5"
+      },
+      "artists": [
+        {
+          "name": "Jose Ignacio Lapido",
+          "url": "https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "De cuando no hab\u00eda nacido",
+      "url": "https://open.spotify.com/track/7sTAeb1In1O0sH1eEiFoYP"
+    },
+    {
+      "album": {
         "name": "A Todo Que S\u00ed",
         "url": "https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS"
       },
@@ -1176,7 +1216,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
@@ -1383,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "El baile",
+        "url": "https://open.spotify.com/album/4GhxIKxM6lxI0zpRlLsawC"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295349,
+      "name": "El baile",
+      "url": "https://open.spotify.com/track/7y33dk0ji9elkFdVfGr4xY"
+    },
+    {
+      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -1548,10 +1606,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 180037,
       "name": "El Guinness",
       "url": "https://open.spotify.com/track/6HeSdJvc66OPyqZqldXL42"
+    },
+    {
+      "album": {
+        "name": "El hilo",
+        "url": "https://open.spotify.com/album/35T3ooltW5BTOFGe9Vj8Ob"
+      },
+      "artists": [
+        {
+          "name": "Vikxie",
+          "url": "https://open.spotify.com/artist/2nmq5tSDxlEwvHnTYpoYwB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213902,
+      "name": "El hilo",
+      "url": "https://open.spotify.com/track/4V2TXLh3HHCautylznqEKH"
     },
     {
       "album": {
@@ -3661,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "Red Onions",
+        "url": "https://open.spotify.com/album/0rXexh0GPwNCDFmy3W3J7i"
+      },
+      "artists": [
+        {
+          "name": "Kike Jambalaya",
+          "url": "https://open.spotify.com/artist/5TknYICOG7yd700QbBGVfq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191705,
+      "name": "Red Onions",
+      "url": "https://open.spotify.com/track/4PnuLi3DwLUIrPbL5Oqgqm"
+    },
+    {
+      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/2eqkan0najTgJ8MDf3n9y9"
       },
@@ -4034,7 +4128,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 182780,
       "name": "Soy Un Guapo",
       "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
@@ -4128,7 +4222,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
@@ -4348,7 +4442,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 172933,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/7c9sDyogsPK8XUAubCK69Y"

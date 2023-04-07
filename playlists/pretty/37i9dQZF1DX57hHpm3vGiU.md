@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,518 likes - 77 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,575 likes - 77 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 76 | [528 Hz Singing Tibetan Bowl](https://open.spotify.com/track/5FlSEkinQuGnXatiZIs4XD) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Awareness](https://open.spotify.com/album/6Sl36AMtt07HX5LVE6WG4a) | 2:15 |
 | 77 | [August](https://open.spotify.com/track/4ZbqtWFkXzlJS7HlmDmOrB) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Relaxing Tibetan Bowls](https://open.spotify.com/album/32WNC35kd87Lai664eZvwP) | 2:54 |
 
-Snapshot ID: `MTY2MjQ3NTc1MiwwMDAwMDAwMDA4ZGExMGNmZGU4NThlZDM5Mjc0NWY1NGNkNjA0ZDNj`
+Snapshot ID: `MTY2MjQ3NTc1MiwwMDAwMDAwMGJiNzhjYWZjNzllZjIwN2Y0ZmRhMjFiOTg1MDY5ODRm`

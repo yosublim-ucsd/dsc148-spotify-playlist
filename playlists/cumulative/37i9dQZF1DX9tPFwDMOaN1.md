@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Cover: JISOO
+> Let's turn ON the movement! Cover: FIFTY FIFTY
 
 271 songs - 14 hr 49 min
 

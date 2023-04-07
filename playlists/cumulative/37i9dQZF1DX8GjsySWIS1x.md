@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-773 songs - 1 day 18 hr 54 min
+775 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Minecraft Pigstep \- Remix](https://open.spotify.com/track/2rUHJ1o9qj44fR0vTugDAx) | [FlyxTheKid](https://open.spotify.com/artist/5xKVOc3OIhyBDsw2rYpN3R) | [Minecraft Pigstep \(Remix\)](https://open.spotify.com/album/0khRUZ8VaLXc3L2dJRP7gu) | 2:37 | 2022-04-13 | 2022-05-07 |
 | [MJ](https://open.spotify.com/track/4pk6I8l87QhPwvWT5Wan0Q) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Saved](https://open.spotify.com/album/2omSHllc8JtVw7CqyMvVOr) | 3:52 | 2021-03-14 | 2021-05-24 |
 | [Money Callin](https://open.spotify.com/track/3cy7twkmahc1oo1KLzIbB9) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [Money Callin](https://open.spotify.com/album/0nGgFuiHKhi3ctm7XRtRWw) | 2:03 | 2021-04-21 | 2021-08-10 |
-| [Monkeys](https://open.spotify.com/track/4mPAxO918YuLgviTMMqw8P) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Monkeys](https://open.spotify.com/album/6rgFsAR7t0fOKI5wWSQrSC) | 2:37 | 2023-03-02 |  |
+| [Monkeys](https://open.spotify.com/track/4mPAxO918YuLgviTMMqw8P) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Monkeys](https://open.spotify.com/album/6rgFsAR7t0fOKI5wWSQrSC) | 2:37 | 2023-03-02 | 2023-04-07 |
 | [Moon Over the Castle \- from GRAN TURISMO 7](https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Moon Over the Castle \(from GRAN TURISMO 7\)](https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya) | 3:07 | 2022-01-28 |  |
 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 | 2021-05-23 | 2021-12-11 |
 | [Motion](https://open.spotify.com/track/7lOlKhTXmv4sMxyhjsWwn8) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Motion](https://open.spotify.com/album/1sC4LCKQUnTCz0fyBLBQ9L) | 3:29 | 2021-10-09 | 2022-07-06 |
@@ -511,6 +511,7 @@
 | [Ori, Lost In the Storm \(feat\. Aeralie Brighton\)](https://open.spotify.com/track/1AvDDjLuwwC63X1xlRReCD) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM) | [Ori and the Blind Forest \(Original Soundtrack\)](https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo) | 1:08 | 2019-09-29\* | 2021-03-14 |
 | [Ottomatic](https://open.spotify.com/track/2xxCF1zsq3irWmLvBCaTAw) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Full Circle](https://open.spotify.com/album/68Napy7W8wRervbgGRkKP7) | 4:41 | 2021-03-14 | 2021-10-22 |
 | [Out Of The Blue](https://open.spotify.com/track/7r60fwTPFDKZyXBxuepF7J) | [Prides](https://open.spotify.com/artist/4VRTmBIGhJghLThw3Gzjo1) | [Out Of The Blue](https://open.spotify.com/album/6ShRx1IULSeoOFtMEhGmUq) | 3:41 | 2021-03-16 | 2021-03-22 |
+| [Out Of The Rain](https://open.spotify.com/track/27xLRjNOZM0vrLkiwMtAsA) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Out Of The Rain](https://open.spotify.com/album/2lz42JvrrwvTr4yKYpODLY) | 3:13 | 2023-04-06 |  |
 | [Outbreak \- Fox Stevenson Remix](https://open.spotify.com/track/3rLWrVlVLH8Upn5cjfvgAn) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Outbreak \(Fox Stevenson Remix\)](https://open.spotify.com/album/54uSGj2hFbiq8XSItZSg7e) | 3:48 | 2021-03-14 | 2021-10-16 |
 | [OverTime](https://open.spotify.com/track/1MYnP8CpcgHCEBb1ZHjIdV) | [Ayo Breeze](https://open.spotify.com/artist/18lFxMB5HWY1gULAFKZ06Q) | [OverTime](https://open.spotify.com/album/3pK0S9EkgVvPOpfHO6er5E) | 2:47 | 2021-04-10 | 2021-04-15 |
 | [OVERTIME](https://open.spotify.com/track/7uykq0zhD7mvKaphE3mBtv) | [Edo 100](https://open.spotify.com/artist/2wxf0SeX6CPsu41EiVYvJS), [Tee Media](https://open.spotify.com/artist/6H8sZHTVF43gWvqOhQdLc5) | [OVERTIME](https://open.spotify.com/album/6ARysWjmXtcrSXOmG8B8TQ) | 2:48 | 2021-04-15 | 2021-04-16 |
@@ -668,6 +669,7 @@
 | [The Drive](https://open.spotify.com/track/26vMKNd2qownQwH2Y6TkDq) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Trenchcoat T](https://open.spotify.com/artist/1yedylzGDu4QJ5bLCp6qWn) | [dream bullet](https://open.spotify.com/album/5AmFlB6m2bxwjYi9JlfXcI) | 3:19 | 2021-03-27 | 2021-03-27 |
 | [The Eternal Conflict](https://open.spotify.com/track/025sQZThwyFTf1GaEC8mdm) | [Neal Acree](https://open.spotify.com/artist/5mocQZIZJJsA389LmLpCkk), [Matt Uelmen](https://open.spotify.com/artist/0SpUOAVh9SJwJ7GNRPXqsI) | [Diablo III Soundtrack](https://open.spotify.com/album/1TIMPsHk76na9Cst58abP7) | 2:37 | 2019-09-29\* | 2021-03-14 |
 | [The Fields of Ard Skellig \- From "The Witcher 3"](https://open.spotify.com/track/34wskrPxWhPWdoGWnRK4Et) | [The Pink Rabbit](https://open.spotify.com/artist/1H0TJdMVfVbrvH0I5Svn2m) | [The Witcher 3 \(Piano Themes\)](https://open.spotify.com/album/53SA3Mvw3xnFCCJJ1z2CsV) | 2:33 | 2022-05-06 | 2022-05-12 |
+| [THE GREATEST LIVING SHOW](https://open.spotify.com/track/6e9MycX711QO2gGN0EIhpq) | [糸奇はな](https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [THE GREATEST LIVING SHOW](https://open.spotify.com/album/2N9F4BufajXY3H3bVVboo5) | 4:35 | 2023-04-06 |  |
 | [The Healing](https://open.spotify.com/track/3lzMmk9e8kgotG1CAAIHJl) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Lady In The Water](https://open.spotify.com/album/5spdKDfR5EVuk1E9rkTIIq) | 4:03 | 2019-09-29\* | 2021-03-14 |
 | [The Hill](https://open.spotify.com/track/23OvE72D48i0Cv3faNnQb7) | [Hendrix Harris](https://open.spotify.com/artist/56kGDa8ZfdClUqAG9jrWi0) | [The Hill](https://open.spotify.com/album/7pnzLHM2pknLd232a6jc19) | 2:41 | 2021-10-03 | 2021-10-22 |
 | [The Imitation Game](https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [The Imitation Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CsfKW5tze2DZKq49iARk1) | 2:37 | 2019-09-29\* | 2021-03-14 |

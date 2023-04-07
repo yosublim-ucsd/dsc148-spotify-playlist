@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,011 likes - 70 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,170 likes - 70 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 69 | [iDlozi](https://open.spotify.com/track/6WBKo2vRtyARgj2bKLZYdU) | [Kweyama Brothers](https://open.spotify.com/artist/2tTyqKgMwCvQL0qJUf4l3K), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [12am](https://open.spotify.com/artist/5GNzhwiLYF4mlXVQqrAUT7) | [Mpumalanga](https://open.spotify.com/album/60ggaOopXApXj9qV58Oytc) | 6:52 |
 | 70 | [Jabula](https://open.spotify.com/track/4xMAU5EoZ4vIVRKB0degt4) | [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1) | [Jabula](https://open.spotify.com/album/3q8Qzr7YmiISGyKv88LLTW) | 6:05 |
 
-Snapshot ID: `MTY4MDIwMzUwOCwwMDAwMDAwMDZiMTkyZDIyZjExNTQ3ZTU2OWMyYjBjNWFlYjc0OTcw`
+Snapshot ID: `MTY4MDIwMzUwOCwwMDAwMDAwMDBhNzZiOTdiNGQwMzFjMjBkOWQ0OGYyNmQ5NWI4YWYx`

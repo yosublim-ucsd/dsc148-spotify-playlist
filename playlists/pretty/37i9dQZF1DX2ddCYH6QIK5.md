@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: KID BE KID, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,595 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,603 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Fool](https://open.spotify.com/track/2n6d8M2SdikeId7Q0udvh8) | [LUNYA](https://open.spotify.com/artist/42NbfguO5qr3hJSahHb8kL) | [Fool](https://open.spotify.com/album/1zkgKmKl0xwGctO0NRo0wz) | 3:00 |
 | 80 | [Keine Panik](https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Keine Panik](https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY) | 3:29 |
 
-Snapshot ID: `MTY4MDY4ODgwMCwwMDAwMDAwMDU0NDE4MjFhNWIzNjhkZWUxZmI2M2IxNGQ1YTM5NDA2`
+Snapshot ID: `MTY4MDY4ODgwMCwwMDAwMDAwMGE2Y2YyMzZlZmEzZTUyMjA4OWQ5NzdjYmVmNjIxMjg1`

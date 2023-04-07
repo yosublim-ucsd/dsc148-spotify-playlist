@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-860 songs - 2 day 1 hr 0 min
+861 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-17 | 2023-03-04 |
 | [Far From A Mind](https://open.spotify.com/track/4A52zMKelEdFiL1AEie9Wn) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Far From A Mind](https://open.spotify.com/album/2wCyqRZuAlkGqK4GJgzTsc) | 3:13 | 2022-04-15 | 2022-05-15 |
 | [Fast Car](https://open.spotify.com/track/7yznPSbSDeADWUIwaPfeUl) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [Fast Car](https://open.spotify.com/album/0TCWxTvZ7ByrG4qNHTzB9s) | 2:09 | 2022-08-26 | 2022-12-03 |
-| [Faster Than The Medicine](https://open.spotify.com/track/1b38M4IeXrGnPCT72SSaTZ) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Faster Than The Medicine](https://open.spotify.com/album/1hKdTw7oqAH8sdObuiFkqT) | 4:25 | 2023-03-31 |  |
+| [Faster Than The Medicine](https://open.spotify.com/track/1b38M4IeXrGnPCT72SSaTZ) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Faster Than The Medicine](https://open.spotify.com/album/1hKdTw7oqAH8sdObuiFkqT) | 4:25 | 2023-03-31 | 2023-04-07 |
+| [Faster Than The Medicine](https://open.spotify.com/track/52O9zmIwfNyHtEVPN2Zvwk) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Faster Than The Medicine](https://open.spotify.com/album/3ZIOfr2vApXOvNJYF07mLL) | 4:25 | 2023-03-31 |  |
 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2022-12-07 |  |
 | [Fear](https://open.spotify.com/track/1JZw3uFeMJoY4dJ1dAmV0K) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Fear](https://open.spotify.com/album/2MF5k89uxvzaEGxxLBzPLA) | 4:17 | 2022-04-29 | 2022-06-19 |
 | [Feed The Fire](https://open.spotify.com/track/3Y1t6DTEVCbiAovIAKsiIo) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Feed The Fire](https://open.spotify.com/album/2lY4eTKT2ulUgwOz8lZp5r) | 3:38 | 2023-03-23 |  |

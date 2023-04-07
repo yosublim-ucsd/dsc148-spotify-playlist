@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 146031,
       "name": "Jocelyn",
       "url": "https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 186276,
       "name": "Kissing the Ambience",
       "url": "https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm"
@@ -4456,6 +4456,24 @@
       "duration_ms": 183750,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr"
+    },
+    {
+      "album": {
+        "name": "Reposante",
+        "url": "https://open.spotify.com/album/6PAY62o3vEOZ0mfhzP9GIr"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Reposante",
+      "url": "https://open.spotify.com/track/5utH8lQiqEXyndW36K1z8z"
     },
     {
       "album": {

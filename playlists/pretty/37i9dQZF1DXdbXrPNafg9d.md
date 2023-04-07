@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: Barrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,402 likes - 180 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,404 likes - 180 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 |
 | 180 | [star](https://open.spotify.com/track/3APRtJ612KjQ0GfU7b8ZqG) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [star](https://open.spotify.com/album/4iAtPukcN2ergkdoZlXSvB) | 1:59 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDEzYjg0ZTE5MWQ0ODVjMzA3MGY2Y2VjMjFjMjgyZDY0`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDdlZTBlNmExMWNhYzE3MmQ0ZjE2MjFhMjFlYTA1YTdh`

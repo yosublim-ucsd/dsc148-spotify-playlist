@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-113 songs - 16 hr 54 min
+114 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 | 2021-11-12 |  |
 | [Out 'N' In \- live](https://open.spotify.com/track/77QDXNb6mor0iUdD3F9vcx) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Rudy Van Gelder](https://open.spotify.com/artist/0XMh2eSb9EmhFxqIKcFzKx) | [Joe Henderson In Japan](https://open.spotify.com/album/5aDmGHhMGNNGLtWz5WK67Q) | 9:05 | 2021-11-12 |  |
 | [Patrice \- Live](https://open.spotify.com/track/6bHuuD809FCg6tQW3U83iu) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Live at the Room at the Top](https://open.spotify.com/album/6bjUgLGgIZKeCeWRogVFoM) | 19:11 | 2022-05-06 |  |
-| [Perdido \- Live](https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Quintet: Jazz At Massey Hall](https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg) | 7:47 | 2021-11-12 |  |
+| [Perdido](https://open.spotify.com/track/23jPVSDgdnhUoIlj3o2yp7) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Bird 100](https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW) | 7:43 | 2021-11-12 |  |
+| [Perdido \- Live](https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Quintet: Jazz At Massey Hall](https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg) | 7:47 | 2021-11-12 | 2023-04-07 |
 | [Poinciana \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/19CKYnx17KtyWRtmCa5tMf) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 8:08 | 2021-11-12 |  |
 | [Pops \(AKA When the Saints Go Marching In\) \- Live](https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [The Lost Album from Ronnie Scott’s \(Live\)](https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A) | 7:35 | 2022-05-20 |  |
 | [Prayer for Passive Resistance \- Live Version](https://open.spotify.com/track/4OWaNn8uChWyXcw0OXLsy4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus At Antibes](https://open.spotify.com/album/2gMTsMOwF9WHh9jx9vGnPz) | 8:23 | 2021-11-12 |  |

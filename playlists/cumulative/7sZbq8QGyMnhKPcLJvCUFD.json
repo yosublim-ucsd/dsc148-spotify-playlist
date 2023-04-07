@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-06",
-  "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds.",
+  "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Alan Walker",
   "name": "NCS Releases",
   "tracks": [
     {
@@ -1166,6 +1166,24 @@
       "duration_ms": 228965,
       "name": "Dreamatic",
       "url": "https://open.spotify.com/track/7Ahq8UweaUdoBHwVR76suu"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "album": {
@@ -3246,6 +3264,28 @@
       "duration_ms": 134975,
       "name": "Out Of Here",
       "url": "https://open.spotify.com/track/1RpmCnc7AjpDYqacXYRLZY"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A"
+      },
+      "artists": [
+        {
+          "name": "Millbrook",
+          "url": "https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm"
+        },
+        {
+          "name": "Ellerslie",
+          "url": "https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193268,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki"
     },
     {
       "album": {

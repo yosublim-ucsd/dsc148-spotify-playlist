@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Billur Battal  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,371 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,372 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Okyanus Kadar](https://open.spotify.com/track/6dRwh62pB52N6TELfQEnkb) | [Harun C.](https://open.spotify.com/artist/2KLb6svKlNziNFRFj5XeDD) | [OKYANUS KADAR](https://open.spotify.com/album/0DllTvl7vtOhdrA8i5KgLM) | 4:14 |
 | 75 | [Çilehane](https://open.spotify.com/track/2dxALETfKISmxQaLeZe8Mc) | [H\. Mücahit Pehlivan](https://open.spotify.com/artist/4u76tO2Z2kYuhMF0M2JV2q) | [Çilehane](https://open.spotify.com/album/1JscprvxhMRCWKLnqpZS0X) | 3:09 |
 
-Snapshot ID: `MTY4MDY0MjAwMCwwMDAwMDAwMDE5NzQ2MDQ3ZjRjMGNkZWE4ODQ1M2I2MjE2OWIxYjM1`
+Snapshot ID: `MTY4MDY0MjAwMCwwMDAwMDAwMDA2YmFlY2RmYTE3ZGY3ZDVkMDkwMGM2NzA3ZWU4NmI2`

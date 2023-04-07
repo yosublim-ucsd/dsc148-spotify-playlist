@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Katherine Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,187 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318,001 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 89 | [Everyone And No One](https://open.spotify.com/track/5sP3kGcEg7Cj6bXhv1Ev7o) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Everyone And No One](https://open.spotify.com/album/39NKyfawlegx7lvZjuyTS2) | 3:23 |
 | 90 | [the way that we started \(taylor\)](https://open.spotify.com/track/36AWmLYL4tMTfZseHQHoVl) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [the way that we started \(taylor\)](https://open.spotify.com/album/4epDMTI9SL9TRfiuDpbwFO) | 3:24 |
 
-Snapshot ID: `MTY4MDUzMTg2OCwwMDAwMDAwMGNkY2FhZGY0MzQ4NjJkZGM1YWE1ZDYyODc0Y2JlYmI5`
+Snapshot ID: `MTY4MDUzMTg2OCwwMDAwMDAwMDhlZWZlOTFjOTlmOTRmYzI3ZmJkNmNhMTNkMDM3YmE0`

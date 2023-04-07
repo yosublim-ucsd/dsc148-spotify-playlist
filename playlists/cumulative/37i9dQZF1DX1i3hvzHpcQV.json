@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Viduthalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Kaattumalli",
+      "url": "https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk"
+    },
+    {
+      "album": {
         "name": "Kanja Poovu Kannala (From \"Viruman\")",
         "url": "https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F"
       },
@@ -2070,7 +2092,7 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Srivardhini",
+          "name": "Srivardhani Kuchi",
           "url": "https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4"
         },
         {

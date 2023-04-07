@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 133575,
       "name": "Fighting Myself",
       "url": "https://open.spotify.com/track/37lLexBCC4kCIPZFL1unDo"
@@ -906,6 +906,24 @@
     {
       "album": {
         "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "Pervert",
+      "url": "https://open.spotify.com/track/0xifpRiUNzQzIsFKVyhtRn"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
       },
       "artists": [
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 107200,
       "name": "Pervert",
       "url": "https://open.spotify.com/track/5R3w9JrCCcwjkXUbGAmmEr"
@@ -974,6 +992,24 @@
       "duration_ms": 74900,
       "name": "Sailor's Choice",
       "url": "https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125140,
+      "name": "Shameless Halo",
+      "url": "https://open.spotify.com/track/5tDHV0T0jLjO5qW5qXb3Pt"
     },
     {
       "album": {

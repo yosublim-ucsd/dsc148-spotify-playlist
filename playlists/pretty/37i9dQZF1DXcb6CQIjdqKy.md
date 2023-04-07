@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM?si=pi0iNXwBQ8arPDZIBu3PIw">Hillsong UNITED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534,757 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,127 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 | 100 | [Take It To Jesus](https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Take It To Jesus](https://open.spotify.com/album/2tPojTbfapvOHxUcdiWwkO) | 4:32 |
 
-Snapshot ID: `MTY4MDQxNjkwOCwwMDAwMDAwMGFiMGYxMzUzZWUwYWUwYmY3YTNjMjhhOWVjZjgyYWE4`
+Snapshot ID: `MTY4MDQxNjkwOCwwMDAwMDAwMGE0MWEyODZmMTY0N2RlM2YzMGRlZTliNmEyZGRlN2Vm`

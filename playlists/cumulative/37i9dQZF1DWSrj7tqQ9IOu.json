@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Silly Boy Blue",
+  "description": "The best French indie tracks right now. Cover: Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 223010,
       "name": "Amoureux",
       "url": "https://open.spotify.com/track/3C4CBds4LizRFtq7CaLRWO"
@@ -320,6 +320,24 @@
       "duration_ms": 179739,
       "name": "Anxi\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/57TlKdK0nSo1kB5bzi8qAh"
+    },
+    {
+      "album": {
+        "name": "t.",
+        "url": "https://open.spotify.com/album/1VaVsd2DSaXP5oZW80qoQH"
+      },
+      "artists": [
+        {
+          "name": "Adam Berry",
+          "url": "https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135830,
+      "name": "Apportez-moi un th\u00e9",
+      "url": "https://open.spotify.com/track/4jF75m5oNgToVIuaD8Y1OA"
     },
     {
       "album": {
@@ -768,7 +786,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 183470,
       "name": "Calvin",
       "url": "https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc"
@@ -1817,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Hydranism",
+        "url": "https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169216,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F"
+    },
+    {
+      "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/3fqDwm0MNS2ZbXlH8MMJpr"
       },
@@ -2171,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/0cs72CsTxE6pnaCXo42iC5"
+      },
+      "artists": [
+        {
+          "name": "Please",
+          "url": "https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211236,
+      "name": "It's Only a Band",
+      "url": "https://open.spotify.com/track/2KBHg10JyF2MMjg3l0CFoY"
+    },
+    {
+      "album": {
         "name": "J'aime les filles",
         "url": "https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy"
       },
@@ -2334,6 +2388,24 @@
       "duration_ms": 209550,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1bMt3LbZFKOu6yBYz26Qet"
+    },
+    {
+      "album": {
+        "name": "Juste un beat, danse",
+        "url": "https://open.spotify.com/album/2Cirr5BY5vmQJpFt8ro7Bi"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9phir",
+          "url": "https://open.spotify.com/artist/0YyorRag3eHwGIgly2AtIj"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184574,
+      "name": "Juste un beat, danse",
+      "url": "https://open.spotify.com/track/3PnENN8tnr72OLwbReXuQO"
     },
     {
       "album": {
@@ -3256,6 +3328,32 @@
       "duration_ms": 204874,
       "name": "Meguro",
       "url": "https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0"
+    },
+    {
+      "album": {
+        "name": "PrimaDonna vol. 2",
+        "url": "https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv"
+      },
+      "artists": [
+        {
+          "name": "Moodo\u00efd",
+          "url": "https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC"
+        },
+        {
+          "name": "Prudence",
+          "url": "https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh"
+        },
+        {
+          "name": "Olivia Merilahti",
+          "url": "https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Memories (with Olivia Merilahti)",
+      "url": "https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O"
     },
     {
       "album": {
@@ -4234,7 +4332,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 256924,
       "name": "RBH",
       "url": "https://open.spotify.com/track/7s2kizsNmMzKoJXTkxGTRj"
@@ -5570,7 +5668,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 278357,
       "name": "Walking On the Line",
       "url": "https://open.spotify.com/track/11TRPmEZ4xhgwPpBOb19bu"
@@ -5646,7 +5744,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 183053,
       "name": "Widow Dreams Forever",
       "url": "https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA"

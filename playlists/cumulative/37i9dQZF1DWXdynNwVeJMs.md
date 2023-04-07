@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-159 songs - 13 hr 29 min
+160 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lambda](https://open.spotify.com/track/4Q0ndfrABOZ9OfaqMqLkf2) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Lambda](https://open.spotify.com/album/15CHatpLTNDCNRrjc9cXm6) | 2:37 | 2022-09-08 | 2022-09-25 |
 | [Last Dance](https://open.spotify.com/track/5AHYdlkvXQ4Lae83JZDm7K) | [Otto Kintet](https://open.spotify.com/artist/27CCZtAURerCD9yhrcJ3KE) | [Pico](https://open.spotify.com/album/5lZ2Y0VqVwjvxivPHlEYst) | 6:15 | 2022-09-08 |  |
 | [Lotus](https://open.spotify.com/track/66vGTK42BwvBUNV97qlYkt) | [Teun Verbruggen](https://open.spotify.com/artist/2eMZsuJlUdllW1yrtGWNDA), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Nathan Wouters](https://open.spotify.com/artist/6aF2zTGGmfSLFRms6tXsRT), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG), [André Fernandes](https://open.spotify.com/artist/7bz7PGWzFOOl05qVo6EXU2) | [Chasing Penguins](https://open.spotify.com/album/4sISBgndNpI66M1LUs2CwF) | 6:15 | 2022-09-08 | 2023-04-06 |
+| [Macadam](https://open.spotify.com/track/04KWVisYgJMlhO2iGRC162) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [MACADAM](https://open.spotify.com/album/0MmXLzMi3nrfO0lec3drjK) | 3:10 | 2023-04-06 |  |
 | [Mammoet](https://open.spotify.com/track/52rTIOyqlAOiRPFMbyewUb) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 8:55 | 2022-10-20 |  |
 | [Mammoet](https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Sambal](https://open.spotify.com/album/5bLeofMakqSrcOzSl70850) | 8:55 | 2022-10-07 | 2022-11-07 |
 | [Mammoet](https://open.spotify.com/track/6Oagzl7aiMMUInr98ICOD4) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 8:55 | 2022-09-08 | 2022-10-17 |
@@ -90,7 +91,7 @@
 | [Maryward](https://open.spotify.com/track/3DUcCDY04fWN1qv9OB46cN) | [Grand Picture Palace](https://open.spotify.com/artist/1nw3i2K0N8XZi916gV0E4l) | [Maryward](https://open.spotify.com/album/6ZIDG4fFZLYKLNHkqAYQt8) | 6:07 | 2022-09-08 |  |
 | [Meshnada](https://open.spotify.com/track/4CvohkP6MgXHZtvDDQqnL2) | [VENTILATEUR](https://open.spotify.com/artist/1ysLLF8knGo0MnhPn1bDaf) | [Meshnada](https://open.spotify.com/album/4cdXg1ezUqgqO7gAgCJnuh) | 5:09 | 2022-09-08 |  |
 | [Monkey Burns Lab](https://open.spotify.com/track/09wFS50QSqlwF8YvKvdxVO) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Breakout](https://open.spotify.com/album/4223UDnLtfRY2w6JQzi2Dg) | 5:19 | 2022-09-08 |  |
-| [Moody Soft](https://open.spotify.com/track/4sCso2tE97IQYQDxO6sGfl) | [Libertino Live Band](https://open.spotify.com/artist/4dob1Ok3CLKjDWKBv3lpi9) | [Moody](https://open.spotify.com/album/4myf8khR0BLCRzksEq5plK) | 3:56 | 2022-09-08 |  |
+| [Moody Soft](https://open.spotify.com/track/4sCso2tE97IQYQDxO6sGfl) | [Libertino Live Band](https://open.spotify.com/artist/4dob1Ok3CLKjDWKBv3lpi9) | [Moody](https://open.spotify.com/album/4myf8khR0BLCRzksEq5plK) | 3:56 | 2022-09-08 | 2023-04-07 |
 | [Mtwk part 2](https://open.spotify.com/track/1zdYM2mTlg76NWbpc0zarZ) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Mtwk part 2](https://open.spotify.com/album/0zqOtCp5rL7xzJZArDqrr0) | 4:33 | 2023-03-15 |  |
 | [Mumpsimus](https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:21 | 2022-10-07 | 2022-12-17 |
 | [Mumpsimus](https://open.spotify.com/track/3vDDo27qTtttNNYc2WICKp) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:21 | 2022-09-15 | 2022-10-09 |

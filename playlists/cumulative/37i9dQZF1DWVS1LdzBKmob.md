@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-109 songs - 7 hr 56 min
+111 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Selva nocturna](https://open.spotify.com/track/5f1PPtMvE0uXPSOOgFwnzW) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Selva nocturna](https://open.spotify.com/album/4f4vh8OJYWqFjjoqFwyN1z) | 6:10 | 2022-07-14 |  |
 | [Singing Bowl, Cymbals, & Rain](https://open.spotify.com/track/2okKxzaXlXDjIhGvZj57oq) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 3:34 | 2022-05-12 |  |
 | [Singing Bowls](https://open.spotify.com/track/1p51DKnBmrkh9nCijNcG37) | [Tales of the Monk](https://open.spotify.com/artist/0Re4A8cte2gZ2fDKTdxD03) | [Singing Bowls](https://open.spotify.com/album/6fsshu03QNMFvD5UUbD123) | 3:04 | 2022-12-13 |  |
+| [Soil](https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:10 | 2023-04-06 |  |
 | [Solar Plexus Chakra \(Manipura\) \- 3 Octaves E](https://open.spotify.com/track/163wIVMDQwvwLleCgvCTfJ) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-01-06 |  |
 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 | 2022-01-06 |  |
 | [Soul in Harmony](https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:10 | 2022-01-06 |  |
@@ -113,6 +114,7 @@
 | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/track/1uxMFlCjZLLfQcwQRTu3qk) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/album/6avoryhRkQVhGtWl3b2hQ8) | 6:07 | 2022-01-06 |  |
 | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/track/13vU2lqVVClRBAvDOAKr5L) | [Lauri Poldre](https://open.spotify.com/artist/0ANW2NaM4xL8vlFB8jSPXB) | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/album/7t9DJLZJc6BK2XroiA0NiT) | 20:13 | 2022-04-14 | 2022-04-27 |
 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-01-06 |  |
+| [Treetop Whisperer](https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:09 | 2023-04-06 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-01-06 |  |
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2022-04-26 |  |
 | [Walking Earth Gong](https://open.spotify.com/track/7tZuNzE2ye0HCbILkCkH2f) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:13 | 2022-01-06 |  |

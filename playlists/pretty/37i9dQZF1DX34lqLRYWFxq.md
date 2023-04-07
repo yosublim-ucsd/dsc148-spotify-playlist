@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Elita
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,791 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,799 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Trigger Warning](https://open.spotify.com/track/0fG9brD4I1ouTnfupzT6Yl) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Trigger Warning](https://open.spotify.com/album/4nmJPlGgV2fkrsie1W1vrq) | 2:35 |
 | 100 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDJiYzg5YTEwZWRhZDVmZDA1NTM3ZjljYzM4MmIxNWY2`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGJiZmUzMDljYWMyZmNlZDMyMDE4OGJjMzE0YmUwMTM0`

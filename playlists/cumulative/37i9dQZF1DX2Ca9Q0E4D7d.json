@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 166000,
       "name": "Beta Frequencies 15 Hz",
       "url": "https://open.spotify.com/track/6BYNC28bMxoLVeEL91RDXi"
@@ -240,6 +240,24 @@
       "duration_ms": 192000,
       "name": "Beta Intelligence",
       "url": "https://open.spotify.com/track/4k5NyKgdxBaE4BZaQH2Vb1"
+    },
+    {
+      "album": {
+        "name": "Binaural Resonance",
+        "url": "https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188005,
+      "name": "Beta Resonance 25 Hz",
+      "url": "https://open.spotify.com/track/4bWPFawFKCDdSsQ5zwZHpj"
     },
     {
       "album": {
@@ -1032,6 +1050,24 @@
       "duration_ms": 185053,
       "name": "Dream Focus Beta Waves (146-160 Hz)",
       "url": "https://open.spotify.com/track/47EcLhPvEOhBMXPZfYrW5H"
+    },
+    {
+      "album": {
+        "name": "Focused Attension - Beta Sinus 150-158 Hz",
+        "url": "https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9"
+      },
+      "artists": [
+        {
+          "name": "Beatwaves",
+          "url": "https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186085,
+      "name": "Focused Attension - Beta Sinus 150-158 Hz",
+      "url": "https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL"
     },
     {
       "album": {

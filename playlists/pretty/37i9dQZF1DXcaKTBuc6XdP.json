@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 5050,
+  "num_followers": 5069,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDZmOWM1NDRjZjRlYjQ2NzcwMDI1ZWZmMzM2NjdlODE4",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDlkODYyYjRkNjMzNDVjYWZjM2JmYjRlOWY4OTdhOGVj",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -875,6 +875,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
+        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
+      },
+      "artists": [
+        {
+          "name": "GroupMusic",
+          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
+        }
+      ],
+      "duration_ms": 178155,
+      "name": "The Golden Rule",
+      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Majestic (Revisited)",
         "url": "https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 305026,
       "name": "Holy Spirit - Revisited",
       "url": "https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
-        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
-      },
-      "artists": [
-        {
-          "name": "GroupMusic",
-          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
-        }
-      ],
-      "duration_ms": 178155,
-      "name": "The Golden Rule",
-      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
     },
     {
       "added_at": "2021-06-29 13:36:02",

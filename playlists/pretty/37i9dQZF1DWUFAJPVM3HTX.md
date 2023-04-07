@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Annie Tracy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,258 likes - 175 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,352 likes - 175 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 174 | [Wrong Side](https://open.spotify.com/track/3LQOO4nWT6iadSPNrISZ6J) | [Solo Smith](https://open.spotify.com/artist/2YqNtjy3H18pNgmUhq5fcD) | [Wrong Side](https://open.spotify.com/album/1MAnyGNwL0gTmQR3kctB55) | 3:14 |
 | 175 | [Nowhere](https://open.spotify.com/track/0b0ZGaHZoPC5dcrsjnDu08) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Time Revealed](https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6) | 2:31 |
 
-Snapshot ID: `MTY4MDcxMjg2NiwwMDAwMDAwMGM2ZDdkYmFlZTNlNjM3MTkzOTk3OWEwOTQ5MzA3Nzlk`
+Snapshot ID: `MTY4MDcxMjg2NiwwMDAwMDAwMDgyMWY0OGI5MWFjZDJiM2Q1ODY0ODdmMWU5NWRkOGFk`

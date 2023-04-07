@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,743 likes - 71 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,819 likes - 71 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 70 | [O Tene Palukula \(From "Bimbisara"\)](https://open.spotify.com/track/1moaPNMvcmSEu9XmlXo3Vh) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV), [Varikuppala Yadagiri](https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN) | [O Tene Palukula \(From "Bimbisara"\) \- Single](https://open.spotify.com/album/2pDPWuV0UN03bx0zQK45Df) | 3:55 |
 | 71 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 |
 
-Snapshot ID: `MTY4MDU3ODIzNCwwMDAwMDAwMDBhYjA3YjRmNThjNDdlYzkyMTFmM2QyMzc4NGViMzcx`
+Snapshot ID: `MTY4MDU3ODIzNCwwMDAwMDAwMGMwYTgwYmMyMDRmNmYzZDMyZjU3MDViZmM3MWU0MGUy`

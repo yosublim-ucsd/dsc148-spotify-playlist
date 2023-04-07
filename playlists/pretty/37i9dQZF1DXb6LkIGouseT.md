@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,254 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,315 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 16 | [Handprints of Our People](https://open.spotify.com/track/0UORx3KqJIZOMM7VBYDZ21) | [Aaron White and Anthony Wakeman](https://open.spotify.com/artist/4okJpUO1J8t2JSgvyXh14o), [Anthony Wakeman](https://open.spotify.com/artist/24BfspSS7VeZksHJXZIF3A), [Aaron White](https://open.spotify.com/artist/2emV7TrNiMbIToJk470aWe) | [Discover \- Native American Indian Flute](https://open.spotify.com/album/6Eru2P9wBioJnwkNNARLew) | 5:53 |
 | 17 | [Divine Peace](https://open.spotify.com/track/0AxrYgvePMA0UMQ9EzMO8s) | [Hovia Edwards](https://open.spotify.com/artist/2qEoRYTRLgp3aYECBZxTF2) | [Reflections](https://open.spotify.com/album/6XtF0RsQCxs4FD6iS5n1m7) | 3:24 |
 | 18 | [Red Hawk Hill](https://open.spotify.com/track/2YBLASHNLeFdlbUDioE5UW) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Red Hawk Hill](https://open.spotify.com/album/6hwOFe2iX2u9vXsZTVWiiF) | 3:29 |
-| 19 | [Ephemera](https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 5:05 |
+| 19 | [Ephemera](https://open.spotify.com/track/7lbxttV803xY98kWdv4NRV) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2) | 5:05 |
 | 20 | [Taos Summer Nights](https://open.spotify.com/track/3NMtFLp7SAusoKo1UI62Xr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Song Carrier](https://open.spotify.com/album/59mxUFZ7iAE29OF35AANwA) | 4:48 |
 | 21 | [Evening Star](https://open.spotify.com/track/4E5hoFyCrxg5Q7SJFvzr3b) | [Kyle Councillor](https://open.spotify.com/artist/6Aa8dXlGxUfWmhAsbojBzI) | [Livin' The Good Life](https://open.spotify.com/album/4RM2fB8xhMUhTu0OvXGmZQ) | 4:22 |
 | 22 | [Wood over Water](https://open.spotify.com/track/26hPXzXur3l8zyYJqCsejp) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Eagle River](https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy) | 4:13 |
 | 23 | [Dance of the Coyote](https://open.spotify.com/track/6dAMfIdThXm5dSZtnNw1m6) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m) | [Earth Warrior \- Light of our Ancestors](https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr) | 3:08 |
 | 24 | [Inward Journey](https://open.spotify.com/track/4XUvVbcITJLPEmA59suKV3) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 3:13 |
 | 25 | [Magic Melody](https://open.spotify.com/track/7DrKyYc64NH2m1ULzRWeVr) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL) | [Sleep Medicine \(30 Solo Native American Flute Tracks\)](https://open.spotify.com/album/2ZxGoZ7ku3hjA4BjgMTnvN) | 2:13 |
-| 26 | [Homecoming](https://open.spotify.com/track/01nlOO3lmi4nHsNy0inZec) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw) | 4:43 |
+| 26 | [Homecoming](https://open.spotify.com/track/7K0hKmulQKh9I6x8jnX7vS) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Connections](https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2) | 4:43 |
 | 27 | [Night Falls](https://open.spotify.com/track/2r8tPRK0TolVaNKBECT6t6) | [Peter Phippen](https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0) | [Night Song](https://open.spotify.com/album/5x4NgkZof89D4qwA92AbxD) | 4:18 |
 | 28 | [Whispering Journeys](https://open.spotify.com/track/5IRtmlC8vMIC5TpVfIcLAk) | [Robert Tree Cody](https://open.spotify.com/artist/0fChGjwomMpq8e7ICKYy1s) | [Dreams from the Grandfather \- Native American Songs for Flute and Voice](https://open.spotify.com/album/4tz2QeE2BRZ8qTpylp1D6V) | 4:30 |
 | 29 | [Mystic Lake](https://open.spotify.com/track/1ByQZanLiy9aTuMmqyIb27) | [Thalamin](https://open.spotify.com/artist/2N0Xnet6aMQX4wfeUm5ocT), [Pewi](https://open.spotify.com/artist/4ZfTBcrBgwqlKRcqKjdkmJ) | [Mystic Lake](https://open.spotify.com/album/6l7Fftxgpp5v82xsKLPR45) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 
-Snapshot ID: `MTY3Mjc2MzQ3NCwwMDAwMDAwMDlkYmI5YjU4MGY5ZGU5YzA5ZDljNGUzOWEzNmNkZjk4`
+Snapshot ID: `MTY3Mjc2MzQ3NCwwMDAwMDAwMDhiOGM5ZWMzYTQwNTFkYTU1ZjgzMjNjMGU5NDQ2MThh`

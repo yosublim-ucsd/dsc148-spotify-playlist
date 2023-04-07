@@ -1,44 +1,44 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=4t_J5jMpTr2yNzZbx_vgyA\">Lloyiso</a>",
-  "num_followers": 5717,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=GRkdBRNXRs-c3_OL2XTfrA\">Lucy Kruger & The Lost Boys</a>",
+  "num_followers": 5719,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzU0MCwwMDAwMDAwMGE2MTUzNjE2ZDBkNGM1OWM4YmFlZDQ2ZDEyNzkzMjJi",
+  "snapshot_id": "MTY4MDgxODM0MCwwMDAwMDAwMGQ2YWIwYzdmOWMyMmMwZDk2NDIwMjkwMDZlMWVjZjk0",
   "tracks": [
     {
-      "added_at": "2023-03-30 21:59:00",
+      "added_at": "2023-04-06 21:59:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+        "name": "Heaving",
+        "url": "https://open.spotify.com/album/54FdctR7tCJoXBNCZvhyYT"
       },
       "artists": [
         {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
         }
       ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+      "duration_ms": 236400,
+      "name": "Feedback Hounds",
+      "url": "https://open.spotify.com/track/02FhwPLpWOtfGz9M33eKFG"
     },
     {
-      "added_at": "2023-03-23 21:59:00",
+      "added_at": "2023-04-06 21:59:00",
       "album": {
-        "name": "Emotionally Indiscreet",
-        "url": "https://open.spotify.com/album/7Cg2tTY1i6SG1gFlxfULyY"
+        "name": "Woman on Fire",
+        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
       },
       "artists": [
         {
-          "name": "Lover Buffet",
-          "url": "https://open.spotify.com/artist/3SlkN35uEAZOPu70xZK2pY"
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
         }
       ],
-      "duration_ms": 165750,
-      "name": "Emotionally Indiscreet",
-      "url": "https://open.spotify.com/track/4sK7vYw3oiMWDxQ90m0Wqc"
+      "duration_ms": 178571,
+      "name": "Woman on Fire",
+      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
     },
     {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R"
+    },
+    {
       "added_at": "2023-03-23 21:59:00",
       "album": {
         "name": "Boyhood",
@@ -73,20 +89,20 @@
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
-      "added_at": "2023-03-16 21:59:00",
+      "added_at": "2023-04-06 21:59:00",
       "album": {
-        "name": "Meet me in the middle",
-        "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/2bE6cQW9HoGmHSX6MlxCDY"
       },
       "artists": [
         {
-          "name": "Thabo Krouwkam",
-          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
         }
       ],
-      "duration_ms": 186367,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
+      "duration_ms": 216874,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0DXmLK3tPnsVbwLn35SJui"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -119,6 +135,22 @@
       "duration_ms": 125187,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
+    },
+    {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -175,6 +207,38 @@
     {
       "added_at": "2023-03-30 21:59:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Being Square",
+        "url": "https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE"
+      },
+      "artists": [
+        {
+          "name": "Donkey Kid",
+          "url": "https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4"
+        }
+      ],
+      "duration_ms": 187894,
+      "name": "Being Square",
+      "url": "https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/6Xkw4bGwcXeoqGUnTaeCFP"
       },
@@ -205,6 +269,38 @@
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Director in the Dark",
+        "url": "https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt"
+      },
+      "artists": [
+        {
+          "name": "Luka",
+          "url": "https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv"
+        }
+      ],
+      "duration_ms": 215919,
+      "name": "Director in the Dark",
+      "url": "https://open.spotify.com/track/55yCGBhMJPzyCxWHwJJcWd"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Emotionally Indiscreet",
+        "url": "https://open.spotify.com/album/7Cg2tTY1i6SG1gFlxfULyY"
+      },
+      "artists": [
+        {
+          "name": "Lover Buffet",
+          "url": "https://open.spotify.com/artist/3SlkN35uEAZOPu70xZK2pY"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Emotionally Indiscreet",
+      "url": "https://open.spotify.com/track/4sK7vYw3oiMWDxQ90m0Wqc"
+    },
+    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Wait for Love",
@@ -219,6 +315,26 @@
       "duration_ms": 263172,
       "name": "Wait for Love",
       "url": "https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ"
+    },
+    {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "You're Not Here",
+        "url": "https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Monique Burger",
+          "url": "https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ"
+        }
+      ],
+      "duration_ms": 180406,
+      "name": "You're Not Here",
+      "url": "https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -289,6 +405,22 @@
       "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Apples and Pairs",
+        "url": "https://open.spotify.com/album/3fIQE6HbRgsygxmQPIG6mV"
+      },
+      "artists": [
+        {
+          "name": "Lily Hollows",
+          "url": "https://open.spotify.com/artist/39K69becRQ7hdkwMrnGNlQ"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Apples and Pairs",
+      "url": "https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V"
+    },
+    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Finding Paradise",
@@ -303,6 +435,22 @@
       "duration_ms": 215722,
       "name": "Finding Paradise",
       "url": "https://open.spotify.com/track/0fmegVXiAaQ2pGgKsZUEZB"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Meet me in the middle",
+        "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
+      },
+      "artists": [
+        {
+          "name": "Thabo Krouwkam",
+          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -463,22 +611,6 @@
       "duration_ms": 200270,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -709,22 +841,6 @@
       "url": "https://open.spotify.com/track/4R9pq6DudcNooi09OLvzNt"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 153443,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Swim Back",
@@ -937,22 +1053,6 @@
       "url": "https://open.spotify.com/track/0HveubIF20ELSqEziIfyQJ"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/2IBAbknMI5iC2Z5qD6PtSr"
-      },
-      "artists": [
-        {
-          "name": "Cara Frew",
-          "url": "https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf"
-        }
-      ],
-      "duration_ms": 306692,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0gvzG2BRNZDJmlcBgLlpNb"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Bait",
@@ -983,38 +1083,6 @@
       "duration_ms": 266415,
       "name": "Desert in your eyes",
       "url": "https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL"
-    },
-    {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "Everything Must Die",
-        "url": "https://open.spotify.com/album/0jGs6UE55UuP5Rm6GQLM4l"
-      },
-      "artists": [
-        {
-          "name": "Kileza",
-          "url": "https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg"
-        }
-      ],
-      "duration_ms": 359262,
-      "name": "Everything Must Die",
-      "url": "https://open.spotify.com/track/3bhxNf9wOTld9oHQ59DSEN"
-    },
-    {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/0mVteX1LwzpotZkCNMnakg"
-      },
-      "artists": [
-        {
-          "name": "Ross Learmonth",
-          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/3iO4pnQA5FQdRr7jSYxWU9"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -1073,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Turn Again and Come Back",
-        "url": "https://open.spotify.com/album/0oQnpD7O66NM4sYZTQGUxl"
-      },
-      "artists": [
-        {
-          "name": "EIGHT THOUSAND BIRDS",
-          "url": "https://open.spotify.com/artist/65UYJ9S1OelF0qUcLX0HYC"
-        }
-      ],
-      "duration_ms": 339685,
-      "name": "Talk Around",
-      "url": "https://open.spotify.com/track/2ftX9egMnZAATxMxq1bn9p"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "the record",
@@ -1115,38 +1167,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/5JIimhIsmOUlP9nAXqmnk9"
-      },
-      "artists": [
-        {
-          "name": "Thara",
-          "url": "https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4YJZnj5OIzKiMi8MFVyXRv"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/0Acp8igfR8GcoL2slV5gxi"
-      },
-      "artists": [
-        {
-          "name": "Kileza",
-          "url": "https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg"
-        }
-      ],
-      "duration_ms": 327003,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/6bQSb2CjixL7Hh5Kp2zku3"
     },
     {
       "added_at": "2023-01-19 21:59:00",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Danny Brown & JPEGMAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,070 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,201 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 |
 | 2 | [Pack a Lunch \(with Redman\)](https://open.spotify.com/track/3YAQlz5EzZsZ6Zqy33cERI) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Pack a Lunch \(with Redman\)](https://open.spotify.com/album/0oBGB7dCr9DSoVcRpY8qfz) | 4:18 |
-| 3 | [Kingdom Hearts Key \(feat\. redveil\)](https://open.spotify.com/track/0VA5FzFlysCcSG1IdOkhUb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 3:25 |
+| 3 | [Kingdom Hearts Key \(ft\. redveil\)](https://open.spotify.com/track/0VA5FzFlysCcSG1IdOkhUb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 3:25 |
 | 4 | [In The Room \(with JID, Tierra Whack & BJ The Chicago Kid\)](https://open.spotify.com/track/22hdnPB5hmyzOJLQQrcDSS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:52 |
 | 5 | [Clusterfunk](https://open.spotify.com/track/72XBKleAwVl37YC6m17jAe) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Clusterfunk](https://open.spotify.com/album/0rFhlL58D0qQENlrQyd0jh) | 3:07 |
 | 6 | [PANIC!!!](https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [PANIC!!!](https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [W4TN](https://open.spotify.com/track/49Ho47D2uHc3eYqTcwNHRb) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [W4TN](https://open.spotify.com/album/3dLaZiheWAG3mmBBDP0z1u) | 2:41 |
 | 100 | [Aug/28th](https://open.spotify.com/track/4htYIyBKyxzlTEX7VAkCVs) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [Until We Meet Again](https://open.spotify.com/album/33ftTjkmHvWgQDnPox6lyw) | 2:05 |
 
-Snapshot ID: `MTY4MDI5MTM5MywwMDAwMDAwMDZlODNmMmU0NjM2NjM2Y2U4MGMzY2QzYTNmNGQ1OWI5`
+Snapshot ID: `MTY4MDI5MTM5MywwMDAwMDAwMGQ2ZGI4NDY2ZTAzMjI2NzBiZGJiODdkZDFlNjg3YmRh`

@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-388 songs - 22 hr 16 min
+389 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Lucky](https://open.spotify.com/track/3ThAExlMNs4A86hime1qNG) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Basement Covers](https://open.spotify.com/album/6eO7oW6th87o1WBH9uNzPS) | 3:31 | 2021-12-17 | 2022-01-10 |
 | [Magic](https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Magic](https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK) | 3:04 | 2021-12-17 | 2022-12-30 |
 | [Manchild](https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Manchild](https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I) | 3:17 | 2022-05-01 | 2022-12-30 |
-| [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 |  |
+| [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 | 2023-04-07 |
+| [Meet Me At Our Spot](https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O) | 2:17 | 2023-02-24 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl) | [Groovie Gang](https://open.spotify.com/artist/3PcuPOF2Ev7AF4Fj4pLFLf), [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Meet Me At Our Spot](https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu) | 2:42 | 2022-08-19 | 2022-12-30 |
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2021-12-17 | 2022-05-02 |
 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 | 2021-12-17 |  |

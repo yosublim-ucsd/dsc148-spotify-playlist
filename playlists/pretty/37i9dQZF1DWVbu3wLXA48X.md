@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,166 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,172 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 |
 | 75 | [Snowy Owl \(Benjamin Gibbard Remix\)](https://open.spotify.com/track/01IhNwbEw2Ce0bbFMBVX6n) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Snowy Owl \(Benjamin Gibbard Remix\)](https://open.spotify.com/album/1sNutFgLyiPBh5HtPeifLV) | 3:35 |
 
-Snapshot ID: `MTY4MDI1OTAxMCwwMDAwMDAwMDQwODE5NDc4Zjk2MTRkNmMxMGMxYjY2MmUyY2I5ZDk5`
+Snapshot ID: `MTY4MDI1OTAxMCwwMDAwMDAwMDZiZTk4MTAxMWU3ZWVjNzYyYjE2NjEzZTBjYjBjNDYw`

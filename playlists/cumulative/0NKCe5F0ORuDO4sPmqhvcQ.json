@@ -6687,6 +6687,24 @@
     },
     {
       "album": {
+        "name": "The Allegory",
+        "url": "https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4"
+      },
+      "artists": [
+        {
+          "name": "BARDZ",
+          "url": "https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181469,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw"
+    },
+    {
+      "album": {
         "name": "Sexy Rave Boy",
         "url": "https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB"
       },

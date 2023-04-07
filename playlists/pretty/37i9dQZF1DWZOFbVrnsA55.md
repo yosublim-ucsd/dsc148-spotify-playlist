@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,084 likes - 291 songs - 4 day 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,138 likes - 291 songs - 4 day 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,7 +286,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 276 | [Whale](https://open.spotify.com/track/5zLJznjeFosKWVRPCWpu9F) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Braemar](https://open.spotify.com/album/3tB7ZqLp7T4P7OSSaJmKwg) | 12:50 |
 | 277 | [20,880 Breaths](https://open.spotify.com/track/6EmOhzudC2WiEGFj0o5mru) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Thoughts or Feelings?](https://open.spotify.com/album/5vMoeKUXBSkrIuXxgkB7YC) | 1:31:38 |
 | 278 | [The Wasted Consequence](https://open.spotify.com/track/6zDGnFjoBmp0V1mwVA2a2A) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Giulio Aldinucci](https://open.spotify.com/artist/0nKxkIuJjb8gmvW6rATnsm) | [Consequence Shadows](https://open.spotify.com/album/2yT9OVMU3o5Ldj7oQmw9bY) | 12:10 |
-| 279 | [Dreams of Stairs](https://open.spotify.com/track/54UlajCtx2b9CDwv7rSGKy) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Faint](https://open.spotify.com/album/08Zl1xtOY1o8oJsi10pxiI) | 11:13 |
+| 279 | [Dreams of Stairs](https://open.spotify.com/track/3zTycFuuxnCb3CqojqNxk8) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Faint](https://open.spotify.com/album/1uhtMlkMqobRQupNTkAI5k) | 11:13 |
 | 280 | [In A Place Of Such Graceful Shapes](https://open.spotify.com/track/6UiO6PvDMfokrttOR6bNnl) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [In A Place Of Such Graceful Shapes](https://open.spotify.com/album/4IGTxTIRnmc4waRTJcgLq5) | 49:55 |
 | 281 | [For José María](https://open.spotify.com/track/6KPrHJgcauIspt8iFQo8ro) | [Rameses III](https://open.spotify.com/artist/2dVyzD5roSIepcBIVQi3hE) | [Jozepha \(Deluxe\)](https://open.spotify.com/album/4qYbbUTu3rQfVVVVqllKQq) | 16:52 |
 | 282 | [Death Of The Ankou](https://open.spotify.com/track/5miIUMj8QKsvryM02sBAAc) | [The North Sea](https://open.spotify.com/artist/6yOEvEcWU3ZopnfZN5WvYP), [Rameses III](https://open.spotify.com/artist/2dVyzD5roSIepcBIVQi3hE) | [Night Of The Ankou](https://open.spotify.com/album/3ovevgHuEfGJ370dPXbA9P) | 17:56 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 290 | [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 |
 | 291 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MTY3NDgzNjY2OCwwMDAwMDAwMDNhOTQwMTZhYzg0ZjJjYjc2YWI1NWU0NmYxMTkzNWZj`
+Snapshot ID: `MTY3NDgzNjY2OCwwMDAwMDAwMDlmZmI3N2FjMzNlY2JhMDA2ZDY5M2VmZDVjZmFiNGQz`

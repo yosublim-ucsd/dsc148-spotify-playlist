@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Morgan Evans
+> The cream of today's Country crop\. Cover: Luke Combs
 
-322 songs - 17 hr 37 min
+325 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,10 +94,11 @@
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-06-02 | 2022-12-05 |
 | [Fallin' Off The Heartline](https://open.spotify.com/track/0gILEUGgjSoBwykGgE6mR9) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Fallin' Off The Heartline](https://open.spotify.com/album/2LFp80sTreSfHpKdjJaWKT) | 3:44 | 2022-03-17 | 2022-06-17 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-12-30 | 2022-03-05 |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-06 |  |
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2022-08-25 |  |
 | [Fill It Up](https://open.spotify.com/track/6DeeYasethff4ETRNaHaZh) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Fill It Up](https://open.spotify.com/album/5hWTohQn87entUhY9XVYfC) | 2:55 | 2022-03-31 | 2022-04-22 |
 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 | 2021-12-30 | 2022-09-16 |
-| [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-09 |  |
+| [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-09 | 2023-04-07 |
 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 | 2022-02-15 | 2022-06-24 |
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2021-12-30 | 2022-04-01 |
 | [Footsteps](https://open.spotify.com/track/5amIs6bmhvDwmviSJg5ySd) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Footsteps](https://open.spotify.com/album/2MTbZGbI0AJkD6OdPfkxii) | 2:58 | 2023-03-23 |  |
@@ -113,7 +114,7 @@
 | [Glad It's Not Me](https://open.spotify.com/track/3zdL4Dghu09U3n6Wfv5UHu) | [Sabrina Durante](https://open.spotify.com/artist/5PesT0eGdPuhh1eljhtaX3) | [Glad It’s Not Me](https://open.spotify.com/album/2doK7K5fVjeTPl2unU6eyS) | 3:44 | 2022-03-24 | 2022-06-17 |
 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 | 2022-08-18 |  |
 | [God Took His Time On You](https://open.spotify.com/track/3QaA5jdFoAvcnxhfE50vCs) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [God Took His Time On You](https://open.spotify.com/album/553FYAh936iamVcIN0rx9F) | 3:35 | 2021-12-30 | 2022-07-01 |
-| [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-11-24 |  |
+| [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-11-24 | 2023-04-07 |
 | [Gold](https://open.spotify.com/track/1V580djyyXDniHemhjL906) | [Take Two](https://open.spotify.com/artist/3xpf0WFUBNHdkPVxKvrrGm), [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Gold](https://open.spotify.com/album/53HGyaGglyCQzDFNQhkgYM) | 3:15 | 2022-08-05 | 2022-11-18 |
 | [Gone Gone Gone](https://open.spotify.com/track/3e8guey6EYihDMOgFmUsAv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Gone Gone Gone](https://open.spotify.com/album/0ZF1G8jsIxqhvl6IMlAQgH) | 3:16 | 2021-12-30 | 2022-03-05 |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-06 | 2022-08-27 |
@@ -226,6 +227,7 @@
 | [Red Wine & Roses](https://open.spotify.com/track/0FUoUaj9LmQQ1uMWpYlEIM) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Red Wine & Roses](https://open.spotify.com/album/3yqvPiEiFWBeB1YqUISBOt) | 3:12 | 2022-08-25 |  |
 | [Red Wine and Blue](https://open.spotify.com/track/6KhHv00M2aXUtbVTpmAC5x) | [Emily Hatton](https://open.spotify.com/artist/2qWqeGeNliXRQdHOOygnlM) | [Red Wine and Blue](https://open.spotify.com/album/2csWHC9z5vQnSXvTMjvjwx) | 3:55 | 2022-05-26 | 2022-08-27 |
 | [Redneck Be Like](https://open.spotify.com/track/00R3xLkJsIxENOc3qA4CDA) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Redneck Be Like](https://open.spotify.com/album/6Dd9qefRvgNuOPEYX3gdMK) | 2:46 | 2021-12-30 | 2022-03-05 |
+| [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-04-06 |  |
 | [Right About Now](https://open.spotify.com/track/6wr9dPXfupWTsIUJv00LVF) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Right About Now](https://open.spotify.com/album/2yts4vdn9werWgmEGm1rki) | 3:09 | 2021-12-30 | 2022-05-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/7MBvjWbBm15AMifrfbhYWV) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Right Girl Wrong Time](https://open.spotify.com/album/3kq9aOY9UP76IllZeDs6jf) | 3:58 | 2022-12-08 |  |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-28 | 2022-08-05 |
@@ -255,6 +257,7 @@
 | [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-30 | 2022-04-01 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-12 |  |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2022-06-16 | 2022-09-30 |
+| [Song For That](https://open.spotify.com/track/16n6CeG5RSJl2rHwT7iPeV) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Song For That](https://open.spotify.com/album/620OUzRNp0w5u5BKzr1yD6) | 3:35 | 2023-04-06 |  |
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-04-14 | 2022-09-16 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2021-12-30 | 2022-06-03 |
 | [Spin Me Around](https://open.spotify.com/track/11O5vNAyZk5Ls2NcuALmcj) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Spin Me Around](https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK) | 3:04 | 2022-12-08 |  |
@@ -281,8 +284,8 @@
 | [That Summer](https://open.spotify.com/track/21pFoQUP2Jl56aumhoMCbK) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [That Summer](https://open.spotify.com/album/6IaU97CQsdTwOWdxyENVOw) | 3:03 | 2023-02-16 |  |
 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-12-04 |  |
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 | 2022-10-28 |
-| [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-16 |  |
-| [The Kiss Or The Crash](https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Kiss Or The Crash](https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ) | 3:37 | 2022-11-03 |  |
+| [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-16 | 2023-04-07 |
+| [The Kiss Or The Crash](https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Kiss Or The Crash](https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ) | 3:37 | 2022-11-03 | 2023-04-07 |
 | [THE LITTLE THINGS](https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [THE LITTLE THINGS](https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV) | 2:57 | 2022-08-05 | 2023-03-03 |
 | [The Next Big Thing](https://open.spotify.com/track/1wx9E45yeb7aCoU8TfCm62) | [Katrina Burgoyne](https://open.spotify.com/artist/5IHAd9gZnw4yrczPvDklll) | [The Next Big Thing](https://open.spotify.com/album/66Mjl0zineaXSf7YQVAt2f) | 3:23 | 2021-12-30 | 2022-02-01 |
 | [The One](https://open.spotify.com/track/3XmoqtGqwpe674bIT8TM7A) | [Courtney Keil](https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe) | [The One](https://open.spotify.com/album/2goSTc1QM9a6imb2tUnzBC) | 3:26 | 2022-03-31 | 2022-06-10 |

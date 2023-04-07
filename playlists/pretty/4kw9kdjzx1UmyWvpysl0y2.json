@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127091,
+  "num_followers": 127085,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDEwNixlNTA3NTNmZWJjYWUyNTExOThmYjAwNWI5NmMxNjk1NWUwN2U2YTc3",
+  "snapshot_id": "NDExMSxmZjIyMWQ3MTY1ZGY5ZTMyMmU1YjIxMWU0ZjM2OWJiNDdkYzA5ZjMy",
   "tracks": [
+    {
+      "added_at": "2023-04-06 18:54:43",
+      "album": {
+        "name": "Lightbringer",
+        "url": "https://open.spotify.com/album/5FoXz8GMqoM0caVx9F7Izw"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Lightbringer",
+      "url": "https://open.spotify.com/track/1LMuEvPbC5NvWIK2H9g4Ng"
+    },
+    {
+      "added_at": "2023-04-06 17:06:16",
+      "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
+        }
+      ],
+      "duration_ms": 246260,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw"
+    },
     {
       "added_at": "2023-04-05 17:07:16",
       "album": {
@@ -1087,22 +1123,6 @@
       "duration_ms": 273624,
       "name": "Together",
       "url": "https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw"
-    },
-    {
-      "added_at": "2023-01-23 08:32:53",
-      "album": {
-        "name": "Get Through",
-        "url": "https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 204482,
-      "name": "Get Through",
-      "url": "https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

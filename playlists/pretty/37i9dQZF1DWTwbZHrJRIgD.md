@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Let these happy tunes put a smile on your face\. Cover \- Dear Zindagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,885 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,338 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Cham Cham](https://open.spotify.com/track/6GVv6Zn0zfN36sKDJY1axO) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl) | [Baaghi](https://open.spotify.com/album/5HSTooggnBDwuJpTRZyfXj) | 4:21 |
 | 50 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `MTY4MDU4NDc3OCwwMDAwMDAwMGIwNzEzZmM4MTgyMjE3NzUxMzBiMmRmYTQ5ZmM2N2Iz`
+Snapshot ID: `MTY4MDU4NDc3OCwwMDAwMDAwMDE2Njc3OTA3NTEyNzllMWIyMDc4MWQyODg2YWEyOWMy`

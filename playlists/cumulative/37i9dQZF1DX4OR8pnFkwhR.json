@@ -940,7 +940,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 164200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6yZ8jfLRNv4LT9eH4tkDqo"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 144570,
       "name": "Dopamine (feat. Wez Atlas)",
       "url": "https://open.spotify.com/track/6IR2NAuk2mkpGS1MeOkKJw"
@@ -3785,7 +3785,7 @@
     },
     {
       "album": {
-        "name": "Just Wanna Live It UP",
+        "name": "Just Wanna Live It Up",
         "url": "https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49"
       },
       "artists": [
@@ -3798,7 +3798,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 286040,
-      "name": "Just Wanna Live It UP",
+      "name": "Just Wanna Live It Up",
       "url": "https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7"
     },
     {
@@ -4808,6 +4808,24 @@
       "duration_ms": 223053,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/2Vn7TBV3VRhqzwkhb11jiN"
+    },
+    {
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR"
+      },
+      "artists": [
+        {
+          "name": "leift",
+          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Mocktails",
+      "url": "https://open.spotify.com/track/41tnwHfjUpV63e0S797H7N"
     },
     {
       "album": {
@@ -7700,7 +7718,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 174680,
       "name": "Todai",
       "url": "https://open.spotify.com/track/1Zcmka6ZS0KHmFSvEJdQSZ"
@@ -13729,6 +13747,24 @@
     },
     {
       "album": {
+        "name": "\u30ec\u30b9\u30c8\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7bBXUPhDvW8bDexDrkE9Ym"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u308a\u3093\u3061\u3087\u843d\u66f8\u304d",
+          "url": "https://open.spotify.com/artist/7szylaibmQeGUetRKLVW65"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "\u7ba1\u5236\u5854",
+      "url": "https://open.spotify.com/track/6cAdDo96j1AhQ7zhv27RgA"
+    },
+    {
+      "album": {
         "name": "\u7d2b\u967d\u82b1",
         "url": "https://open.spotify.com/album/1u04N7C3ofQvRcYVikvS4b"
       },
@@ -14332,6 +14368,24 @@
       "duration_ms": 227200,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/1xxQh8BSsVOcnSSMkLtJ0U"
+    },
+    {
+      "album": {
+        "name": "\u982c\u6756",
+        "url": "https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220236,
+      "name": "\u982c\u6756",
+      "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
     },
     {
       "album": {

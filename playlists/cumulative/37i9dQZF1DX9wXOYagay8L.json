@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=XJYpcsMLTPC-bMZw7RfAcg\">Lloyiso</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J?si=zVSJ6B4lQWKUAfvsGOdFWQ\">Q Twins</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 159999,
       "name": "Isimilo",
       "url": "https://open.spotify.com/track/5njbGaMKH2Pq4cXk6cdu7I"
@@ -3753,6 +3753,32 @@
     },
     {
       "album": {
+        "name": "Mekaefete",
+        "url": "https://open.spotify.com/album/2mjvqpIXf5bxWpy5cCgOf4"
+      },
+      "artists": [
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        },
+        {
+          "name": "P.DOT.O",
+          "url": "https://open.spotify.com/artist/6BumyIdPXTqV9bGRHHMqpm"
+        },
+        {
+          "name": "Blaklez",
+          "url": "https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178079,
+      "name": "Mekaefete",
+      "url": "https://open.spotify.com/track/24vksE7sA32jtOMa2oZg0f"
+    },
+    {
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/54hK43aedP5XOkeSIbJC9Z"
       },
@@ -4154,6 +4180,24 @@
       "duration_ms": 273793,
       "name": "Ndibuze Bani",
       "url": "https://open.spotify.com/track/14kJZzn6aoCZ15zaW2elWu"
+    },
+    {
+      "album": {
+        "name": "ndikhale",
+        "url": "https://open.spotify.com/album/6e0Xeg8LHiHlZxeB1JfSUO"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200285,
+      "name": "ndikhale",
+      "url": "https://open.spotify.com/track/2VbUQfp97RJfmPRMPvYsNt"
     },
     {
       "album": {
@@ -5444,7 +5488,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 189230,
       "name": "Sabela",
       "url": "https://open.spotify.com/track/1BuHQohZdOS9rlGrn313Rk"
@@ -5590,6 +5634,24 @@
       "duration_ms": 227480,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5Dsuz6UsZyoWM3HOaRgQeC"
     },
     {
       "album": {
@@ -7504,7 +7566,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 179349,
       "name": "What I Would Say",
       "url": "https://open.spotify.com/track/2RIQcWNRhgp5wbnwZ2mLXN"

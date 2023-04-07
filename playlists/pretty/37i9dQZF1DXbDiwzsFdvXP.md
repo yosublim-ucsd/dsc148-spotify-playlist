@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDiwzsFdvXP.md) - [plain]
 
 > Explore food culture through a Black lens\. Updates once a month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,069 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,068 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTU5Nzg2OTM0NCwwMDAwMDAwMDAwZTE1NWQwZjRiMDNjZDc5ODcwNjkxN2MzMWEyNzhm`
+Snapshot ID: `MTU5Nzg2OTM0NCwwMDAwMDAwMGJkYzNmYWJiMTg4ODRkZGFiNTVmODQ5ZDZmOTA1YzY3`

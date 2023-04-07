@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-241 songs - 17 hr 47 min
+242 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Ilomilo \- MBNN Remix](https://open.spotify.com/track/67zf0YUVY6JcQUQpEX2a4F) | [Morest](https://open.spotify.com/artist/0l7lssiRhyy3YyxVwotSSU) | [Ilomilo \(MBNN Remix\)](https://open.spotify.com/album/6rdT1gSNacKxEPUVdVqHPx) | 3:01 | 2020-12-15 | 2021-11-12 |
 | [Ilomilo \- Remix](https://open.spotify.com/track/23Jd8dpyzwfl2oKja1FByB) | [Morest](https://open.spotify.com/artist/0l7lssiRhyy3YyxVwotSSU) | [Ilomilo \(Remix\)](https://open.spotify.com/album/3z3Vfn3EJXM0E06UrJJbsl) | 3:01 | 2021-04-29 | 2021-05-25 |
 | [In Control \(feat\. Selin\)](https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ali Arutan](https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [In Control \(feat\. Selin\)](https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe) | 2:59 | 2020-10-30 |  |
-| [Isla Bonita \- Radio Edit](https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU) | 3:01 | 2021-09-01 |  |
+| [Isla Bonita \- Radio Edit](https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU) | 3:01 | 2021-09-01 | 2023-04-07 |
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-10-27 |  |
 | [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-07 | 2022-10-15 |
 | [Jasmine](https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Jasmine](https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG) | 3:14 | 2022-06-27 |  |
@@ -189,6 +189,7 @@
 | [Painter](https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs) | [Lady Ocean](https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn) | [Painter](https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ) | 3:23 | 2021-06-07 |  |
 | [Play the Game](https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play the Game](https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w) | 2:22 | 2021-08-13 | 2022-07-29 |
 | [Play The Game](https://open.spotify.com/track/7v20uWK7xG3hpnxwh2vUQH) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play The Game](https://open.spotify.com/album/6pmoPn92MLxuIJLYG0gq5T) | 2:22 | 2022-10-27 | 2022-11-13 |
+| [Poison](https://open.spotify.com/track/7vTLn0nVmaOjRCc3Xx6NR7) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K) | [Poison](https://open.spotify.com/album/6povl65uow8MzCvikHgupz) | 7:14 | 2023-04-06 |  |
 | [Por Ti](https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82) | [Houssem Amari](https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd), [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1) | [Por Ti](https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m) | 3:20 | 2020-12-21 |  |
 | [Qalbi](https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX) | [Ali Termos](https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK) | [Qalbi](https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ) | 6:18 | 2022-04-04 | 2023-03-04 |
 | [Qamuran](https://open.spotify.com/track/4aqc8muXR8anfNoFhmdnGZ) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Qamuran](https://open.spotify.com/album/1TBpfCqwf84mA9LnXHTY6Z) | 6:05 | 2020-10-18\* | 2020-12-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Jungle",
+  "description": "New music off the beaten track. Cover: Cub Sport",
   "name": "OFF POP",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 202159,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
@@ -1046,6 +1046,28 @@
       "duration_ms": 207358,
       "name": "Dancing Ain't Enough",
       "url": "https://open.spotify.com/track/2AFtuddFzafFChO3RDnB51"
+    },
+    {
+      "album": {
+        "name": "DAYS GO BY",
+        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271756,
+      "name": "DAYS GO BY",
+      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "album": {
@@ -1933,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Haus It Going",
+        "url": "https://open.spotify.com/album/3j5NJ5ntHWfcSv785dd2nx"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Haus It Going",
+      "url": "https://open.spotify.com/track/3rB9sNH5ZKX6h3M9yrB0sx"
+    },
+    {
+      "album": {
         "name": "Ghost In Town",
         "url": "https://open.spotify.com/album/6BNR858jJkOulCVg4JCLqc"
       },
@@ -1952,6 +1992,28 @@
       "duration_ms": 195394,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/5ZxPBN0JoQofTP4HlFW5uo"
+    },
+    {
+      "album": {
+        "name": "bb break fast",
+        "url": "https://open.spotify.com/album/5xQytuElt7kUQ3Pus9fdmr"
+      },
+      "artists": [
+        {
+          "name": "Dariush",
+          "url": "https://open.spotify.com/artist/3C4HKKPCdlK3Sn9ik1WDkP"
+        },
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297303,
+      "name": "hearts <3",
+      "url": "https://open.spotify.com/track/2o0JbmIEBEJ20f7SXpr7XH"
     },
     {
       "album": {
@@ -2018,6 +2080,24 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
+    },
+    {
+      "album": {
+        "name": "Jesus At The Gay Bar",
+        "url": "https://open.spotify.com/album/156cghcLQms11YhgrhLFUB"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/0yAO1YpOFiNnmdRAW6CgqT"
     },
     {
       "album": {
@@ -2240,6 +2320,28 @@
       "duration_ms": 434621,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/02kLWJR4lS4c5kMVEG2WsY"
+    },
+    {
+      "album": {
+        "name": "Into You (Vienna Nights Mix)",
+        "url": "https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        },
+        {
+          "name": "Yukno",
+          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "Into You - Vienna Nights Mix",
+      "url": "https://open.spotify.com/track/461hznkAq17ywDHFzqA34b"
     },
     {
       "album": {
@@ -3114,7 +3216,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 341088,
       "name": "Moonbeam, Midnight, Howl",
       "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
@@ -3132,7 +3234,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 324520,
       "name": "Moonwalk",
       "url": "https://open.spotify.com/track/27AON3rQgskdDM1fpjHHUt"
@@ -3176,7 +3278,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 181239,
       "name": "More & More",
       "url": "https://open.spotify.com/track/293oczY7XqFr7VWNYi2GQE"
@@ -3910,7 +4012,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
@@ -4222,7 +4324,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 203520,
       "name": "Shades Of Love (feat. The Joy)",
       "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
@@ -4430,6 +4532,28 @@
       "duration_ms": 224480,
       "name": "strange love",
       "url": "https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m"
+    },
+    {
+      "album": {
+        "name": "Summer & Smoke (The Remixes)",
+        "url": "https://open.spotify.com/album/6qNbDRjMcjbzkHqJVYjLga"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        },
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224353,
+      "name": "Summer & Smoke - Trikk Selva Furia Remix",
+      "url": "https://open.spotify.com/track/2hbIOgTUnun0uQqQFsgUOM"
     },
     {
       "album": {
@@ -4722,6 +4846,24 @@
       "duration_ms": 247072,
       "name": "The visit",
       "url": "https://open.spotify.com/track/1nlpf45g4i27ONz9Ijt5Mo"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/3IltshBER58J9UrJqPiqpY"
+      },
+      "artists": [
+        {
+          "name": "Pip Blom",
+          "url": "https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/6zbDTSasU5dhlAH3knfyjA"
     },
     {
       "album": {

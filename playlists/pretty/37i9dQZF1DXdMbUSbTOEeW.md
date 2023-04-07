@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,379 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,428 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 35 | [Sauda](https://open.spotify.com/track/6BgHJll6fCYkbBaW52FACV) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Sauda](https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F) | 4:37 |
 | 36 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MTY3ODc5MTE3NiwwMDAwMDAwMDMyYzk1MzQ2YmI1ZWI2MjQyMGU2OWFjYjQ2Njg1YzRl`
+Snapshot ID: `MTY3ODc5MTE3NiwwMDAwMDAwMDJjYjlkMGE4MTZlZTQyZWQ0Njc2OGQ4MmUwMWY0YTYx`

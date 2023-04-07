@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,745 likes - 200 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,087 likes - 200 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 200 | [Youngstown 1](https://open.spotify.com/track/22APBlIRGvgdsEELXZZmox) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Winston Bell](https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Antonio Labra](https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4), [Drehova](https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO), [Thomas Russell](https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel), [Nate Yingling](https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi) | [Youngstown 1](https://open.spotify.com/album/6aRxj78dfEM7HNnTLnpswl) | 2:32 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDZjNTcxM2Y0M2QwMGQwOTk1MzM1M2RkM2Q5ZTNjMjJj`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDdiOThjNmJlYTQyMmQ2OGMwZDhiNmM2N2ZlN2EwNWM1`

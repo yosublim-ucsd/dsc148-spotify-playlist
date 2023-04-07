@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 157481,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 232500,
       "name": "Eryra",
       "url": "https://open.spotify.com/track/2jAm2Z3yoDLSiFjk3OZpY7"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 132787,
       "name": "Longing",
       "url": "https://open.spotify.com/track/1ONolOLYjM977hgtqKzXmJ"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 203823,
       "name": "Mon Bateau Tranquille",
       "url": "https://open.spotify.com/track/5dqRiHMA7pnxi2Z1mGRn2e"
@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/5YOvdAVUQyFN4OWLpD0Y9l"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189912,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/3whNl0FoezzuTRvYYPKCS0"
+    },
+    {
+      "album": {
         "name": "Quiet Dreams",
         "url": "https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60"
       },
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 178000,
       "name": "Snowdonia",
       "url": "https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer"

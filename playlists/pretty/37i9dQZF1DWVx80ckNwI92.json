@@ -1,37 +1,13 @@
 {
   "description": "The future of African Indie and Alternative",
-  "num_followers": 1003,
+  "num_followers": 1009,
   "original_name": "ALTER-native",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MDI5MSwwMDAwMDAwMDc0OTE1ZWFjMTA1MmQ3N2I0YjFjMTI4NzdiOTMyYTMy",
+  "snapshot_id": "MTY4MDgxODM0MCwwMDAwMDAwMGRlZWU4ZTcxMTNkMTlkODIzNTg1MDA1MDI0MzJhMDFk",
   "tracks": [
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh"
-      },
-      "artists": [
-        {
-          "name": "Tena Tenpo",
-          "url": "https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN"
-        },
-        {
-          "name": "benmaelen",
-          "url": "https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2mTU6HVWHYPIDefNUcj9fN"
-    },
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
@@ -133,20 +109,20 @@
       "url": "https://open.spotify.com/track/0TWD1o0jWsTJmJuieyoucS"
     },
     {
-      "added_at": "2023-03-31 05:24:51",
+      "added_at": "2023-04-06 21:59:00",
       "album": {
-        "name": "What's the Vibe",
-        "url": "https://open.spotify.com/album/2vdcIrHOACvTep8tI9qY2K"
+        "name": "Emu Oguro",
+        "url": "https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5"
       },
       "artists": [
         {
-          "name": "Sketchy Bongo",
-          "url": "https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh"
+          "name": "Dolapo Martins",
+          "url": "https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT"
         }
       ],
-      "duration_ms": 150508,
-      "name": "What's the Vibe",
-      "url": "https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V"
+      "duration_ms": 193462,
+      "name": "Emu Oguro",
+      "url": "https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -167,26 +143,6 @@
       "duration_ms": 161379,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "showmetheway !!",
-        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "showmetheway !!",
-      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -225,6 +181,26 @@
       "url": "https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s"
     },
     {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "You're Not Here",
+        "url": "https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Monique Burger",
+          "url": "https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ"
+        }
+      ],
+      "duration_ms": 180406,
+      "name": "You're Not Here",
+      "url": "https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB"
+    },
+    {
       "added_at": "2023-03-30 23:00:00",
       "album": {
         "name": "Ivory",
@@ -239,6 +215,50 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Die Lewe is 'n Lied",
+        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 239591,
+      "name": "Die Lewe is 'n Lied",
+      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "showmetheway !!",
+        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "showmetheway !!",
+      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -291,6 +311,26 @@
       "duration_ms": 186947,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/7a47pdpj2oVqHMpt6yUgA7"
+    },
+    {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Buya Embo",
+        "url": "https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV"
+      },
+      "artists": [
+        {
+          "name": "Laliboi",
+          "url": "https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ"
+        },
+        {
+          "name": "Spoek Mathambo",
+          "url": "https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O"
+        }
+      ],
+      "duration_ms": 170276,
+      "name": "Buya Embo",
+      "url": "https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -433,6 +473,22 @@
       "url": "https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM"
     },
     {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/1svaG1pydrkav2LDzMiFzb"
+      },
+      "artists": [
+        {
+          "name": "Kade Spear",
+          "url": "https://open.spotify.com/artist/6yyrDjt9pJEIWsIamkw60i"
+        }
+      ],
+      "duration_ms": 167857,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/4CiNVnqNQX05t0e4IWwVO1"
+    },
+    {
       "added_at": "2023-03-30 23:00:00",
       "album": {
         "name": "Try",
@@ -463,6 +519,22 @@
       "duration_ms": 187052,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2"
+    },
+    {
+      "added_at": "2023-03-31 05:24:51",
+      "album": {
+        "name": "What's the Vibe",
+        "url": "https://open.spotify.com/album/2vdcIrHOACvTep8tI9qY2K"
+      },
+      "artists": [
+        {
+          "name": "Sketchy Bongo",
+          "url": "https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "What's the Vibe",
+      "url": "https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -571,26 +643,6 @@
       "duration_ms": 97500,
       "name": "Long Live Anna",
       "url": "https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/3gsYQFKUnBsGGQZ0yRXrdw"
-      },
-      "artists": [
-        {
-          "name": "AfroNautiq",
-          "url": "https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX"
-        },
-        {
-          "name": "Pilani Bubu",
-          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
-        }
-      ],
-      "duration_ms": 195564,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5UoYzAzGdlv8F2Vh6flsYk"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -719,22 +771,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Take Me Home (One Take)",
-        "url": "https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY"
-      },
-      "artists": [
-        {
-          "name": "True nESS",
-          "url": "https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh"
-        }
-      ],
-      "duration_ms": 141480,
-      "name": "Take Me Home (One Take)",
-      "url": "https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
       },
@@ -751,22 +787,6 @@
       "duration_ms": 177203,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/72CSCjFfMXe0PRJBioy7d0"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Play Dumb",
-        "url": "https://open.spotify.com/album/4xjjCaQjqKgHl8tjfREOCm"
-      },
-      "artists": [
-        {
-          "name": "OwlVez",
-          "url": "https://open.spotify.com/artist/0YAFjgw3FmgrIHzZdvrV0V"
-        }
-      ],
-      "duration_ms": 239750,
-      "name": "Play Dumb",
-      "url": "https://open.spotify.com/track/0IrIlT6XttUFdsQkk9ZkVe"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -815,22 +835,6 @@
       "duration_ms": 239899,
       "name": "Dry",
       "url": "https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "THE VALLEY",
-        "url": "https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 127376,
-      "name": "THE VALLEY",
-      "url": "https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf"
     },
     {
       "added_at": "2023-03-30 23:00:00",

@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: BLÜ EYES
 
-568 songs - 1 day 7 hr 25 min
+569 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 | 2022-03-08 | 2022-04-07 |
 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 | 2022-11-09 | 2022-12-01 |
 | [Wrote a Lil Song](https://open.spotify.com/track/2n2P1kKC478cwWnEULeXn1) | [Chong the Nomad](https://open.spotify.com/artist/586OHhbBhXRpOY8LezbUcK), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Wrote a Lil Song](https://open.spotify.com/album/1MkF1udZZGjXUiowE99wNx) | 2:34 | 2022-09-07 | 2022-10-06 |
+| [y am i not okay](https://open.spotify.com/track/4mNF1eIIYA0o0OAZMGWrrv) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [y am i not okay](https://open.spotify.com/album/5lgWTI09lYv6gkik14iGU9) | 2:56 | 2023-04-05 |  |
 | [You Don't Have to Save the World](https://open.spotify.com/track/4vcKQ5nPQvZQ54tcdFXtNC) | [Eden Hunter](https://open.spotify.com/artist/3gj3wnfr4hxEKKygT9r5IS) | [You Don't Have to Save the World](https://open.spotify.com/album/33d42DsDr3yX1lf6WrVP6I) | 3:14 | 2023-01-04 | 2023-02-02 |
 | [You Make Me](https://open.spotify.com/track/6OjFxdNXqeBMfg7GNXcDLw) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [You Make Me](https://open.spotify.com/album/1RQZ4TvWFfWcmX87WGmfp3) | 2:16 | 2023-04-05 |  |
 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 | 2023-01-04 | 2023-02-02 |

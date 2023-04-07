@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Polimá Westcoast en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,743 likes - 86 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,771 likes - 86 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 85 | [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 |
 | 86 | [María](https://open.spotify.com/track/6Pv6rF1V7obyszMFstKp96) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María Mixtape](https://open.spotify.com/album/74o0avaksGVKPGUZe07QAs) | 2:35 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMGJjOWRhNDIzNzIwZDVhNDczYzVmNDEwOWYxZjJiOTll`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDgwZDQ3ZThiMTVmZGU2OWQ1ZDAzNGRiZjFhMWZiMzA2`

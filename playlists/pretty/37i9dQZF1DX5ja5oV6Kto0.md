@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=mWugfQs4RISsLpEMEkQwlw"> Amaarae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,655 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,693 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Cold](https://open.spotify.com/track/10Acd9i7TFQNQzEJKKiv8r) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [Cold](https://open.spotify.com/album/6HxACxCvHBmeK1kYKsyVXw) | 3:00 |
 | 80 | [Monsta Alta](https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Monsta Alta & Chérie](https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce) | 2:50 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDQyM2U5ZWFjNTY1ZDM2NjA2NThkYjllMzk5MDQxODVh`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDQxZTFlMDY2M2RmNDE2NWIxNmYxYzg4NDkxZjdiYjg4`

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "A Nossa Dan\u00e7a",
+        "url": "https://open.spotify.com/album/1qI4C75Z7WfI3zfHWgwmMz"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "A Nossa Dan\u00e7a",
+      "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
+    },
+    {
+      "album": {
         "name": "A.N.V.",
         "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
       },
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 283973,
       "name": "Criola",
       "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 209999,
       "name": "Djudan",
       "url": "https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7"
@@ -1618,6 +1636,28 @@
       "duration_ms": 179297,
       "name": "Escolhe s\u00f3 bem",
       "url": "https://open.spotify.com/track/2n3zyRuUTW3VW6FOVl6QSn"
+    },
+    {
+      "album": {
+        "name": "Esperei por Ti",
+        "url": "https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Kiari Flores",
+          "url": "https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199037,
+      "name": "Esperei por Ti",
+      "url": "https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P"
     },
     {
       "album": {
@@ -1944,7 +1984,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
@@ -5810,7 +5850,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 293826,
       "name": "Vai - French Version",
       "url": "https://open.spotify.com/track/6J0pFsaijvKDhrXbLI9ofv"

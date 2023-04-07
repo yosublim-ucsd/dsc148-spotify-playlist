@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: NIMMO",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Sam Divine & Hayley May",
   "name": "UK House Music",
   "tracks": [
     {
@@ -166,6 +166,24 @@
       "duration_ms": 218500,
       "name": "About You",
       "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
+    },
+    {
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
     },
     {
       "album": {
@@ -396,6 +414,24 @@
       "duration_ms": 243984,
       "name": "Angel Dust",
       "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
+    },
+    {
+      "album": {
+        "name": "Ankerklause (Is The Feeling Only Strong)",
+        "url": "https://open.spotify.com/album/1AcmrdgJxvJkwZoKJ9s8ww"
+      },
+      "artists": [
+        {
+          "name": "Sam Girling",
+          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Ankerklause (Is The Feeling Only Strong)",
+      "url": "https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0"
     },
     {
       "album": {
@@ -698,7 +734,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 225230,
       "name": "Can't Stop Thinking About You",
       "url": "https://open.spotify.com/track/4tJpauHivqhPUDrjFHDFMm"
@@ -1830,6 +1866,24 @@
       "duration_ms": 482109,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1hLwiZ6lfbPIrxHXrcpWJC"
+    },
+    {
+      "album": {
+        "name": "Colours Of Love",
+        "url": "https://open.spotify.com/album/4TYQZTD8qDGlrHMfg5aYsO"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Colours Of Love",
+      "url": "https://open.spotify.com/track/0y4LbOxZEpwmfVHxB4HQ19"
     },
     {
       "album": {
@@ -2639,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "Face In The Crowd",
+        "url": "https://open.spotify.com/album/0rWcieRCNFaKJFC7M8UVTH"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "Face In The Crowd",
+      "url": "https://open.spotify.com/track/26u8BxcbNNRlbreUeIwXnP"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4hgqGfVcXLabF9CVcGVD5q"
       },
@@ -2873,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
+    },
+    {
+      "album": {
         "name": "Find Out Who We Are (feat. Lusaint)",
         "url": "https://open.spotify.com/album/1vjph34Y6lOE0t6FXwz9AV"
       },
@@ -2982,6 +3076,24 @@
       "duration_ms": 184842,
       "name": "Foggy Geezer",
       "url": "https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW"
+    },
+    {
+      "album": {
+        "name": "Follow The Call",
+        "url": "https://open.spotify.com/album/72HtpLoORiq7jd9SoG3lk9"
+      },
+      "artists": [
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183625,
+      "name": "Follow The Call",
+      "url": "https://open.spotify.com/track/3hEp4tAxoZeRgFnL6rSgw0"
     },
     {
       "album": {
@@ -3920,7 +4032,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 205440,
       "name": "I Love Me (with Wh0)",
       "url": "https://open.spotify.com/track/5aIsk4ydwp1Y069wbdm6BG"
@@ -4220,7 +4332,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 209875,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1JRt6tEhC4NXJ3DRHaMDR7"
@@ -4376,6 +4488,28 @@
       "duration_ms": 158094,
       "name": "It's Fine",
       "url": "https://open.spotify.com/track/0xk0zUoVMMjcUDPC11Jr3H"
+    },
+    {
+      "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
       "album": {
@@ -4702,7 +4836,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 233286,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7qcSgxqwo2HWEKBHy7Rj6I"
@@ -6028,7 +6162,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 237883,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/0DcLHMYuZDZboftsQSrANc"
@@ -6134,7 +6268,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 179250,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ"
@@ -6182,6 +6316,28 @@
       "duration_ms": 176279,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/4tCY8lh8ocqqfac1sjXwvk"
+    },
+    {
+      "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/2MIxFWsS2VBsz1xT1yeMJe"
+      },
+      "artists": [
+        {
+          "name": "Alex Virgo",
+          "url": "https://open.spotify.com/artist/2Gfe6n0twVYYNqUzWfhMlt"
+        },
+        {
+          "name": "Benjamin Groove",
+          "url": "https://open.spotify.com/artist/1rIyllOyqyuj6dSNhhqM0l"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376254,
+      "name": "On Air",
+      "url": "https://open.spotify.com/track/4qoVUFWBjriNdAvJgkFU6L"
     },
     {
       "album": {
@@ -7006,7 +7162,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 197545,
       "name": "Ride or Die (feat. Roses Gabor)",
       "url": "https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq"
@@ -7390,7 +7546,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 182572,
       "name": "Sky",
       "url": "https://open.spotify.com/track/4okLKBoptdikEhZWfmPJne"
@@ -7910,7 +8066,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 364923,
       "name": "Strange Faces",
       "url": "https://open.spotify.com/track/4lc1MN5O98ZPoEVnREVBrz"
@@ -9096,7 +9252,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
@@ -9216,7 +9372,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 256898,
       "name": "Water",
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"

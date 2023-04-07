@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in June for Verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,995 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 24 | [Mi Querer](https://open.spotify.com/track/0lRdpv1I5Q46I1pzFtQYId) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Mi Querer](https://open.spotify.com/album/4AaQMesVSvVW66XjSiFDE4) | 4:54 |
 | 25 | [Mariposa](https://open.spotify.com/track/2WU8adwu4rSuSc4wukaRZL) | [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Kelly Abarca](https://open.spotify.com/artist/6C4aCHTYWI97yYtIabSLvT) | [Mariposa](https://open.spotify.com/album/70Z8xKdGHaTHiBjW0aF6rP) | 3:06 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDQxOTdiYjAxZDFhN2FmMjU1OWIwOTk5YTE3MGMyZTU5`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMGJmYzY1NjA4ODU5YWY0NDZkZTRjZmViNWQ2OWEyZDQ0`

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-195 songs - 13 hr 12 min
+196 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Eminence Front \- Live At Wembley, UK / 2019](https://open.spotify.com/track/3C82dBjMsLmOxBC9CdukX4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [Eminence Front \(Live At Wembley, UK / 2019\)](https://open.spotify.com/album/2haHhluMK70wydfarjO6xX) | 5:55 | 2023-03-24 | 2023-04-01 |
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/1hNT1e0igCiprBrETIhd55) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/419PfoPpVGyQAKvsxBsqxb) | 4:13 | 2023-03-03 | 2023-03-25 |
 | [End The Transmission](https://open.spotify.com/track/7icbQ9Y2IQbI8CgXQCzA8c) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:42 | 2023-03-03 | 2023-03-12 |
-| [English Blood // American Heartache](https://open.spotify.com/track/42Sz4aU1vA5FejFfO5GzLy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D) | 3:16 | 2023-03-24 |  |
+| [English Blood // American Heartache](https://open.spotify.com/track/42Sz4aU1vA5FejFfO5GzLy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D) | 3:16 | 2023-03-24 | 2023-04-07 |
+| [English Blood // American Heartache](https://open.spotify.com/track/7gVWrhosuThCLRM8CarekB) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:16 | 2023-03-31 |  |
 | [Ephemera \- Outro](https://open.spotify.com/track/3ZK3LHD0x7GgvRiOhpUaLK) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 2:56 | 2023-03-24 | 2023-04-01 |
 | [Eventide](https://open.spotify.com/track/58BQfYtMoTPUK8uZzobH40) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [Eventide](https://open.spotify.com/album/2ib7EVPNqDdFJ4eTSnixWT) | 4:14 | 2023-03-17 | 2023-03-25 |
 | [Fathomless Maw](https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Fathomless Maw](https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM) | 3:25 | 2023-03-03 | 2023-03-18 |

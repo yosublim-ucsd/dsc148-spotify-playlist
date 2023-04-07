@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
-  "num_followers": 292581,
+  "num_followers": 292769,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDE4N2ViYjUzNzAyOTM0ZTYxMDM0ZmIyNGM0ZWUwODE1",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGZmZDk5NWM3YzY1ZGRlMjE3NzljMTc4MWYyMmRiM2E3",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Grande Rei",
-        "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
-      },
-      "artists": [
-        {
-          "name": "Ana L\u00facia",
-          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
-        },
-        {
-          "name": "Eug\u00eanio Jorge",
-          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
-        },
-        {
-          "name": "Cassiano Meirelles",
-          "url": "https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd"
-        }
-      ],
-      "duration_ms": 240188,
-      "name": "Grande Rei",
-      "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Deus Anda Comigo",
         "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 132856,
       "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2qMgNMASU67tN6Jfa0XLaV"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Grande Rei",
+        "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
+      },
+      "artists": [
+        {
+          "name": "Ana L\u00facia",
+          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
+        },
+        {
+          "name": "Eug\u00eanio Jorge",
+          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
+        },
+        {
+          "name": "Cassiano Meirelles",
+          "url": "https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd"
+        }
+      ],
+      "duration_ms": 240188,
+      "name": "Grande Rei",
+      "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Ato de Amor",
+        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Ato de Amor",
+      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 253323,
       "name": "Melhor e Mais Feliz (Kolkata)",
       "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Ato de Amor",
-        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Ato de Amor",
-      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1115,26 +1115,6 @@
       "duration_ms": 224000,
       "name": "Bom \u00c9 Estarmos Aqui",
       "url": "https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1231,6 +1211,42 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Somos do C\u00e9u",
+        "url": "https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 294910,
+      "name": "Somos do C\u00e9u",
+      "url": "https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+        }
+      ],
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Lugar da Promessa",
         "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 283490,
       "name": "Lugar da Promessa",
       "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Somos do C\u00e9u",
-        "url": "https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 294910,
-      "name": "Somos do C\u00e9u",
-      "url": "https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v"
     },
     {
       "added_at": "2023-03-24 03:00:00",

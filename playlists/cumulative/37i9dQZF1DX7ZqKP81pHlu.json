@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Flou",
+        "url": "https://open.spotify.com/album/67cpbnbv3A8dewZVqfHams"
+      },
+      "artists": [
+        {
+          "name": "Flenn",
+          "url": "https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164010,
+      "name": "4 chiffres",
+      "url": "https://open.spotify.com/track/5kV9rjO5C8ekF9vFGZdbcw"
+    },
+    {
+      "album": {
         "name": "7CHOUMA",
         "url": "https://open.spotify.com/album/7JrLFJw1NFNDOnoNDsHBWS"
       },

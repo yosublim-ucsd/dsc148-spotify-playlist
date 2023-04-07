@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,452 likes - 508 songs - 18 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,597 likes - 508 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 507 | [See The Flowers](https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [JAX](https://open.spotify.com/album/3pn1d4UvE6lWQxocZG3hnj) | 2:12 |
 | 508 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 
-Snapshot ID: `MTY3OTY2NDU5OCwwMDAwMDAwMDYzMWQ2MTZhYmI2MmViOTExNGI4MDAxZjk0ZjNmYzkw`
+Snapshot ID: `MTY3OTY2NDU5OCwwMDAwMDAwMDgzNGU5NWFjMGVhODhiNWJjNmRhZjgzN2NhYjU1OGQ0`

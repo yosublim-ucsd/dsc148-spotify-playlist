@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "\u6b7b\u3093\u3060!",
+        "url": "https://open.spotify.com/album/7wjP7t4lJVhp6g6atYj3PD"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220928,
+      "name": "\u6b7b\u3093\u3060!",
+      "url": "https://open.spotify.com/track/7zFAcqgCwF9AgKdSPwImiC"
+    },
+    {
+      "album": {
         "name": "\u6c38\u9060\u30eb\u30fc\u30d7",
         "url": "https://open.spotify.com/album/4w08dZDIB3LwmXtraluQK9"
       },

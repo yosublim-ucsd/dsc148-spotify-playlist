@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27240,
+  "num_followers": 27282,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDQ1ZjExNzQxODc3NDkzODg2ODNjZjhiYzljMmNiMzJm",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDQ5YjQwNWIwZmY5NWU3MDcxOTM2ZTRiZmYwMzBmY2Iz",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Tudo Normal",
         "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 165857,
       "name": "Tudo Normal",
       "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
     },
     {
       "added_at": "2023-03-24 03:01:00",

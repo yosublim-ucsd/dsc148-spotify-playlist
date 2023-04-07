@@ -1,12 +1,12 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 5420,
+  "num_followers": 5426,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDVlNjQ2OGQzNTgzMmJkNjZkNDM3MGMwMDY3MzAyMDFi",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDlkNzNjMjFkMGFlYWE3ZDYzN2RjMzFjNjI3MGI5MzMx",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -939,26 +939,34 @@
     {
       "added_at": "2021-11-12 05:14:12",
       "album": {
-        "name": "The Quintet: Jazz At Massey Hall",
-        "url": "https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg"
+        "name": "Bird 100",
+        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
       },
       "artists": [
         {
-          "name": "Bud Powell Trio",
-          "url": "https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         },
         {
           "name": "Dizzy Gillespie",
           "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         },
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         }
       ],
-      "duration_ms": 467693,
-      "name": "Perdido - Live",
-      "url": "https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9"
+      "duration_ms": 463493,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/23jPVSDgdnhUoIlj3o2yp7"
     },
     {
       "added_at": "2021-11-26 05:01:00",

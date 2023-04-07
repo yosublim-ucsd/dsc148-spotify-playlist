@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: BigMama
 
-555 songs - 1 day 4 hr 8 min
+561 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [FILM](https://open.spotify.com/track/2R2v127dl4wjkbIVbmYg5p) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [FILM](https://open.spotify.com/album/2faTekagaBBlJxmQq1LKRp) | 2:26 | 2022-07-05 | 2022-09-07 |
 | [Filo bianco](https://open.spotify.com/track/6QIqP5we0rYdgxP1ctVnke) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Filo bianco](https://open.spotify.com/album/4HfG4XCrClCR7CRvT1U6O0) | 2:25 | 2023-01-03 | 2023-02-09 |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-09-06 | 2023-01-04 |
+| [Fiore di ghiaccio](https://open.spotify.com/track/5cMyYxEpeiJDjP67nHmtAh) | [Paola Turci](https://open.spotify.com/artist/7dNlfF1yoOCoclHmZuUemi) | [Fiore di ghiaccio](https://open.spotify.com/album/2MNWiE7iYdL5lxtyIZm4rr) | 2:59 | 2023-04-04 |  |
 | [Fiori Sui Balconi](https://open.spotify.com/track/1t28e1JglHnjHpP5AXUXDA) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [X Factor Mixtape 2022](https://open.spotify.com/album/5lwA2LkDrpKD5daRu4kvi6) | 2:43 | 2023-01-03 | 2023-02-09 |
 | [Fire](https://open.spotify.com/track/6AFLZvSZxVXoKefV834aoi) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [GLOWING](https://open.spotify.com/album/1KGOSKwi6fR084NBICBrKr) | 6:04 | 2022-02-17 | 2022-04-06 |
 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 | 2022-05-03 | 2022-06-03 |
@@ -263,6 +264,7 @@
 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 | 2022-07-05 | 2022-08-03 |
 | [Inutili](https://open.spotify.com/track/0dWShjFsO2nNMOt6QsuJo2) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Inutili](https://open.spotify.com/album/47sEfTh9JmJBUsgpQHYobp) | 3:28 | 2022-11-01 | 2022-12-01 |
 | [io e te](https://open.spotify.com/track/4KPiQ1bm98dOBgFdGHy1rz) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz), [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [io e te](https://open.spotify.com/album/6DIgwO37YLRsH378Zx8C1i) | 2:56 | 2023-01-03 | 2023-02-09 |
+| [Io Lei e Tu](https://open.spotify.com/track/7pcC48RUsxkIupldSKSdsM) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Io Lei e Tu](https://open.spotify.com/album/3FzRrTX6IGSL7V9xebPvyz) | 3:18 | 2023-04-04 |  |
 | [Jack & Sally](https://open.spotify.com/track/0gyrIXHL1yw4VwT7LAhqI4) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Jack & Sally](https://open.spotify.com/album/2RwzE7m4pPJEaoelnKAZjM) | 3:17 | 2023-01-03 | 2023-02-09 |
 | [Jeans](https://open.spotify.com/track/2MhC6MPdtc7wbTYGmfZhjR) | [Joe Elle](https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO) | [JE](https://open.spotify.com/album/6t4PVLFHfjA1VmCKblEY8v) | 2:41 | 2022-07-05 | 2022-10-07 |
 | [Joanne](https://open.spotify.com/track/4hfgbYo899pmQFW5kWqXKJ) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Joanne](https://open.spotify.com/album/2UUtb0jyoVHskvvJWdcwYg) | 3:19 | 2023-04-04 |  |
@@ -284,6 +286,7 @@
 | [Ladro](https://open.spotify.com/track/2K6lcl1cqM1U1WvwTjb1Y3) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Nello spazio che resta](https://open.spotify.com/album/746EqxjUBO8HOB8ckvLDMU) | 3:06 | 2022-05-03 | 2022-06-03 |
 | [Lalala](https://open.spotify.com/track/2wdDtaUDH2okKZhB89qKtS) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Lalala](https://open.spotify.com/album/6l3wtti5FvkeiUpjgVyqy9) | 2:51 | 2023-02-28 | 2023-04-05 |
 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 | 2022-07-05 | 2022-09-07 |
+| [Landslide](https://open.spotify.com/track/7tTiA7pLQxG48C6Q38wON4) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [Is that all there is?](https://open.spotify.com/album/3WA9g8iYSTJQm2FuBM75p3) | 2:59 | 2023-04-04 |  |
 | [Le macchine](https://open.spotify.com/track/65X8Xiqfuh2JaWiEAUMfab) | [Martina Conti](https://open.spotify.com/artist/4zMn13NR1bFfh70QixTEvD) | [Le macchine](https://open.spotify.com/album/3UVVGqTTItQiH4LvIW9oju) | 3:10 | 2023-01-03 | 2023-02-09 |
 | [Leave Me!](https://open.spotify.com/track/7tksisk1ssSStbFblL2AKn) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Leave Me!](https://open.spotify.com/album/4wynn6RSL8CVbRBniEarXt) | 2:54 | 2022-02-02 | 2022-04-06 |
 | [Lei tra noi](https://open.spotify.com/track/76K0VwBDfEFVnv1FX40MsF) | [MIRA](https://open.spotify.com/artist/4kkYDvfEFxhmJsY3pVozyQ) | [Lei tra noi](https://open.spotify.com/album/47MxQEWtAbDgLoA2D4Weff) | 3:11 | 2022-09-06 | 2022-11-02 |
@@ -390,6 +393,7 @@
 | [Party on My Own](https://open.spotify.com/track/0fEpZIB3BMirPi0EHom7xJ) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb) | 3:39 | 2022-09-06 | 2022-10-17 |
 | [Party on My Own](https://open.spotify.com/track/6TugyzSVVM9tpNtjc72GZz) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Party on My Own](https://open.spotify.com/album/10ThcyuelklNj1vif5GhTW) | 3:39 | 2022-10-06 | 2022-11-02 |
 | [PASSEGGERO](https://open.spotify.com/track/0qkie97igVQ9swEsu0dtrP) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [PASSEGGERO](https://open.spotify.com/album/605aZVj0nBpf1xLppJ41lA) | 3:18 | 2021-12-07 | 2022-02-03 |
+| [Passerà](https://open.spotify.com/track/35V948aBwEJCCWdkrSdW2h) | [Johana](https://open.spotify.com/artist/2dco5qMuxiVnHMK2ROrD91) | [Passerà](https://open.spotify.com/album/4z4D8q6vfOhTEm7oeeEF9q) | 2:33 | 2023-04-04 |  |
 | [pavimento](https://open.spotify.com/track/5Gsts0SjO5pqvCzY8ZCCVM) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [pavimento](https://open.spotify.com/album/3XMqMlWdbTNUzCiTTyFoal) | 2:52 | 2022-10-06 | 2022-12-01 |
 | [Per le ragazze come me](https://open.spotify.com/track/5VY3FfrFU27uqQssRstdHK) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Per le ragazze come me](https://open.spotify.com/album/6BL3SNqJaoVoGlR3un5tVV) | 3:36 | 2023-04-04 |  |
 | [Perdermi](https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Perdermi](https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1) | 2:57 | 2023-02-09 | 2023-03-01 |
@@ -475,6 +479,7 @@
 | [Smoke \- A moon or a button](https://open.spotify.com/track/7A9YW51R4LGQFjoJmp43As) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 4:39 | 2022-03-07 | 2022-05-04 |
 | [sober](https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:39 | 2022-10-06 | 2022-12-01 |
 | [Sola](https://open.spotify.com/track/2v7aa69ir5P7jGlkffa5b0) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:27 | 2022-06-02 | 2022-07-06 |
+| [Sola Stanotte](https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Sola Stanotte](https://open.spotify.com/album/0Xkwup8jEPapkMIG4AEhcG) | 3:21 | 2023-04-04 |  |
 | [SOLI](https://open.spotify.com/track/1EvrxDq7HUAmiFhd1yidkp) | [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [SOLI](https://open.spotify.com/album/2rPs3TxLUDrU8PVXnmrIEO) | 3:16 | 2022-05-03 | 2022-06-03 |
 | [Soli Qui](https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [Soli Qui](https://open.spotify.com/album/3qbYWZEtCkuxy5bKbb3tPA) | 2:16 | 2022-07-05 | 2022-08-03 |
 | [Solo se è buio](https://open.spotify.com/track/6VB3sLcbR13gvnbVP66HhA) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [Solo se è buio](https://open.spotify.com/album/2HeTKgjxOja12msagz3BLy) | 2:50 | 2023-04-04 |  |
@@ -563,5 +568,6 @@
 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 | 2023-02-28 | 2023-04-05 |
 | [You Inspire Me](https://open.spotify.com/track/6W6sLE6lR8WXMzGBFCtVUv) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [You Inspire Me](https://open.spotify.com/album/4afGc57icTauYqr2NiXmVi) | 4:00 | 2022-09-06 | 2022-11-02 |
 | [Your Name on It](https://open.spotify.com/track/2M1YP2tCLehFHwZ6WasfrE) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Your Name on It](https://open.spotify.com/album/4w6oNmCWrpdMwHJE5WMlth) | 2:17 | 2023-02-28 | 2023-04-05 |
+| [Zattera](https://open.spotify.com/track/02DJ7QRRrQP4JYCl6ySJha) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Zattera](https://open.spotify.com/album/456f6YKldblpDPmIjWcnna) | 2:32 | 2023-04-04 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

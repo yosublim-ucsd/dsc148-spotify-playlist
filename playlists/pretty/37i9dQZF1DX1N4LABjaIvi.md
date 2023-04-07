@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,009 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,078 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N4LABjaIvi.md) - [plain]
 | 59 | [Historia De Amor](https://open.spotify.com/track/1GP3UgOdlHuZUpp44SNr45) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Luciano](https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D) | 4:12 |
 | 60 | [Tu Mano](https://open.spotify.com/track/6apokhLEbYesac4LHR6Utk) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 3:45 |
 
-Snapshot ID: `MTY3NjMwNDE4NywwMDAwMDAwMDMwMjEzNGY3NjBjZDM2MDVkZjA2NTZlNjYwYzYxYzQ5`
+Snapshot ID: `MTY3NjMwNDE4NywwMDAwMDAwMGRlNGNjYzk0NmU3ZjUyMzg0MjVjNTA0YzBjNTYyNGZi`

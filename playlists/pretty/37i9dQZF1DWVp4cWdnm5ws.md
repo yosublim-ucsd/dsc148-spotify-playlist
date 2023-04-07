@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > The top tracks from RADAR Philippines in 2022\. Cover: Adie
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,873 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,930 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 19 | [Eleven: Eleven](https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:22 |
 | 20 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGFjZDI2OWIzZWZkMDg3ZmU2MDAzMDBmMTc0YjNkN2Zm`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDhjNDFhOTAwMmVmODRhODBiYjFjOTc2YmRhYzM1ZWJh`

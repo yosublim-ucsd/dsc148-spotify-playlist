@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,096 likes - 101 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,234 likes - 101 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 100 | [Estate](https://open.spotify.com/track/1CD05bHRSAgJFmODYYT84t) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Estate](https://open.spotify.com/album/5yWVlsZ0wDgsUwGFY670G5) | 3:43 |
 | 101 | [Nature Boy](https://open.spotify.com/track/6qb2rhcuK47JxLkyVAqbyA) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Nature Boy](https://open.spotify.com/album/5jwAJkrOO8IDT3l4VChY9F) | 3:26 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGNjZWYzZTliMjhmOTczYTk1ZWU4NDJjOTJiNzdiOTE2`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDZjM2I4NDUzMjRhYjliYjAxYTg5NzYzYjYwYWRlYjZl`

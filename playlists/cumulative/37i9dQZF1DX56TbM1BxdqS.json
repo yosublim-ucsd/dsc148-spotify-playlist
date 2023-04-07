@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Mukesh - Front Foot Star",
+        "url": "https://open.spotify.com/album/6C3eyjYvHWOcDMEvE7f4Jn"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "MERA JOOTA HAI JAPANI",
+      "url": "https://open.spotify.com/track/5w4Si2yztoM0WEt8OnAXFM"
+    },
+    {
+      "album": {
         "name": "Shree 420 (The Bollywood Soundtrack)",
         "url": "https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 268533,
       "name": "Mera Joota Hai Japani, Pt. 1",
       "url": "https://open.spotify.com/track/7LpVrKyeiVKR9prdzIZFbE"

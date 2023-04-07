@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
@@ -4534,6 +4534,28 @@
       "duration_ms": 234293,
       "name": "South",
       "url": "https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z"
+    },
+    {
+      "album": {
+        "name": "LOGGERHEAD",
+        "url": "https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "South",
+      "url": "https://open.spotify.com/track/6eQ0yqG2lN2GK1xuf6qAZ9"
     },
     {
       "album": {

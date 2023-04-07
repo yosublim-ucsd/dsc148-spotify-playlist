@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4804,
+  "num_followers": 4819,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDVhMWNlNDAwNTYwNmExZTQyNzQxOGMzOTVkN2I4YjI5",
+  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDBlMDQ1NzU2MDU1YTk1YTA2NGQwZjVkMWU1N2ViNWFk",
   "tracks": [
     {
       "added_at": "2023-03-27 08:25:32",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "\uc0ac\ub791\ud574 \uc918",
-        "url": "https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D"
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq"
       },
       "artists": [
         {
-          "name": "JUROKEY",
-          "url": "https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC"
+          "name": "Swai",
+          "url": "https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 217714,
-      "name": "\uc0ac\ub791\ud574 \uc918",
-      "url": "https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV"
+      "duration_ms": 225000,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

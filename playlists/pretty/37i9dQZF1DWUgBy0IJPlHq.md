@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Nolan Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,604 likes - 135 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,765 likes - 135 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 134 | [Other Than That](https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Other Than That](https://open.spotify.com/album/7jEbVyXKzcWE4rJXnES8JO) | 4:18 |
 | 135 | [High School Gym](https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [High School Gym](https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ) | 4:10 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDA5ZTU1NzliNmVhNmFjNzUyNTI0ZWE1ZGQ4MjU3YmNm`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGIyZTUwMTg4ZmNiNTZiYzg3NzhiYzE0ZDE3ZGU0Nzky`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shirley Setia
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,046 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,091 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Aa Mere Kol](https://open.spotify.com/track/2DiyS9ak3O1qHjlQuAeSKf) | [Vinayak Bahl](https://open.spotify.com/artist/0a3d9L4ClTZmqUQEcg4CLv), [Shobhit Agarwal](https://open.spotify.com/artist/5Qj0uLYfV3IRUzuKKDKzbC), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Aa Mere Kol](https://open.spotify.com/album/34D5f8FR5LSNvulBYjsZKr) | 3:28 |
 | 50 | [Daayein Baayein](https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Daayein Baayein \- Single](https://open.spotify.com/album/6LeVMwAkOPwOsphWbMMcLa) | 3:34 |
 
-Snapshot ID: `MTY4MDI0NjA2MywwMDAwMDAwMGRhZGRlYmYwYTQwMTk3ZTYzYmIzMjgzZDRhZWM5YmMw`
+Snapshot ID: `MTY4MDI0NjA2MywwMDAwMDAwMDVhZTM2YjcwMWEwNjc1NGU4YzI0ZmMyODc5NDRkOTM3`

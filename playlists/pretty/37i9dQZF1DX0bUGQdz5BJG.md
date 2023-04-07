@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Bryan Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,321 likes - 177 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,410 likes - 177 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 176 | [You Only](https://open.spotify.com/track/4IThCLqnjmxP835XHJjXIC) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [You Only \(EP\)](https://open.spotify.com/album/5PqUhUdryaLKb7JAIPLbaU) | 3:38 |
 | 177 | [Middle Of Nowhere Class](https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Middle Of Nowhere Class](https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE) | 3:41 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDQyYjM3NjYyNTM2ZjY1N2IxMDZjOTdkMDAxZGQwZjAx`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDZhNTA3NTc3Yzc2NGY5MGZhOGM0MDc4ZjFkOWVhY2Ey`

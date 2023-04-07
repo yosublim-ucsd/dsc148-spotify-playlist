@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 415512,
+  "num_followers": 415622,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGRkM2NmZDZjNTJmZTBlZDM2NGQ0ZGQyMGM1M2E3YjFm",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDI0OTU4ZTNkYWI0MWEzNmUzZTA1MjkwOTlmN2EyNTIy",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 117196,
       "name": "No I'm Not",
       "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "if you're reading this ily",
-        "url": "https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp"
-      },
-      "artists": [
-        {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
-        }
-      ],
-      "duration_ms": 116918,
-      "name": "same stars",
-      "url": "https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE"
     }
   ],
   "unique_name": "sad lofi",

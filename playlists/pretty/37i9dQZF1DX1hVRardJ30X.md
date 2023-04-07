@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: NATTI NATASHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,398 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,601 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 62 | [Arrebatada](https://open.spotify.com/track/2635qgGEdvylmvCYCNZ33i) | [Sarhai](https://open.spotify.com/artist/1kFFQgFBwYFDYySGfCpIji) | [Arrebatada](https://open.spotify.com/album/51CvjXKO9SpAOSmor1Xz7G) | 2:32 |
 | 63 | [Otros XOXO](https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Otros XOXO](https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr) | 3:15 |
 
-Snapshot ID: `MTY4MDI3ODM4NSwwMDAwMDAwMGMwMDA0YTU5Y2NhMjg2ZWI2ZjllNzRiZjljYWQxZDFk`
+Snapshot ID: `MTY4MDI3ODM4NSwwMDAwMDAwMGZlOGNiMjAwOWIzN2I3NWQ5MjNmZGI1ODhkOGNlNjc0`

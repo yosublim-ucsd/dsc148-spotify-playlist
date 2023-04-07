@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 218232,
       "name": "Double Game",
       "url": "https://open.spotify.com/track/3KT5ahHesWCLbSS5HjrqF4"
@@ -720,6 +720,24 @@
       "duration_ms": 239521,
       "name": "Fight The Power",
       "url": "https://open.spotify.com/track/1dpxObzxjyy6BRRuFo7nAX"
+    },
+    {
+      "album": {
+        "name": "Fly High",
+        "url": "https://open.spotify.com/album/16YEyCLKrj1Ey1FF4vD5uc"
+      },
+      "artists": [
+        {
+          "name": "NST",
+          "url": "https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191479,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/22iRABFKUwl6l1XDgb4cRb"
     },
     {
       "album": {
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 238736,
       "name": "Kaalam",
       "url": "https://open.spotify.com/track/0lFJGfHT68zEr0AuNQl1dM"

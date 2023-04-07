@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 226228,
+  "num_followers": 226257,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMDU5MmEwMjU4YTRmZGUwYzkxZDZlZmVkMTEyYWI5OTAy",
+  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMDdiYTc2OWQzM2JhZDhjNTljYzU4NjZjYTdkNGY3ZWNh",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 169201,
+      "name": "Prudente - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Retratos",
         "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 123760,
       "name": "A Voz do Morro",
       "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "VIBE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 169201,
-      "name": "Prudente - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63"
     },
     {
       "added_at": "2023-01-25 16:05:09",

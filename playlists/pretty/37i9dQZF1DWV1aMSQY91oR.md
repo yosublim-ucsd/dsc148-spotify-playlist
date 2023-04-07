@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Skiifall
 
-[Spotify](https://open.spotify.com/user/spotify) - 880 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 896 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Damn](https://open.spotify.com/track/41L5sQw1XvSWgmV7AlPTFx) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C) | [Damn](https://open.spotify.com/album/5Sptml2eDYTSZyybrGXVbe) | 1:48 |
 | 50 | [Sinner](https://open.spotify.com/track/1tHHPe3njfJxoq4SyFPNFS) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK) | [Sinner](https://open.spotify.com/album/13Jim8YciN8apc2eO4g25W) | 3:39 |
 
-Snapshot ID: `MTY4MDI5NTkwNiwwMDAwMDAwMDViNWFmMTM2NDM4OTA5OGM5MThjMTM1N2ExYTliNzhj`
+Snapshot ID: `MTY4MDI5NTkwNiwwMDAwMDAwMGQyODY2YTZmODdhMzZmN2Y0ZThmMjMxYTJlZDU4ZDM5`

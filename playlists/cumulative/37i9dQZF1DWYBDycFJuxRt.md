@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: millennium parade & 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/316822?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-918 songs - 2 day 8 hr 3 min
+920 songs - 2 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [JUNK or GEM](https://open.spotify.com/track/1HN80TcPggMoPd5QUfrxEc) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI) | 2:58 | 2023-03-15 | 2023-03-22 |
 | [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 | 2023-03-14 | 2023-03-16 |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-14 | 2023-02-22 |
-| [Just Wanna Live It UP](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It UP](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 |  |
+| [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 |  |
 | [Kadode](https://open.spotify.com/track/6wMTzMMgQX9OVWJoez38Gb) | [TonyGumbo](https://open.spotify.com/artist/4LuzCe2a1kjq7ADvoq4tcD) | [CONTRAST](https://open.spotify.com/album/2uGP3Kef8G7dd4NHLPLA5X) | 4:40 | 2023-02-08 | 2023-02-15 |
 | [KAMEHAMEHA \- Remix](https://open.spotify.com/track/5JlOC3MCRM59MNjePtvnWf) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [KAMEHAMEHA \(Remix\)](https://open.spotify.com/album/3Slk8fGqqHWkpxU1VS5we2) | 3:08 | 2023-03-29 | 2023-04-05 |
 | [KAMIKAZE](https://open.spotify.com/track/1h7eQWiEweE5XTtci74MkT) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [KAMIKAZE](https://open.spotify.com/album/4UqH1UM4sBosqCfDYLnDAJ) | 3:07 | 2023-02-14 | 2023-02-22 |
@@ -327,7 +327,7 @@
 | [Lost me in the spring](https://open.spotify.com/track/3f0kpCOw8mdqGfHIUnfeWK) | [湯木慧](https://open.spotify.com/artist/6CLuhpHEjf2V9eTf0yAYUr) | [Lost me in the spring](https://open.spotify.com/album/65Ky28Aj2m2doqoFPGAxjJ) | 4:07 | 2023-03-07 | 2023-03-15 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-31 | 2023-02-08 |
 | [Love and distance](https://open.spotify.com/track/0wMOsutc9gJc24auYtUxJI) | [THE KING OF ROOKIE](https://open.spotify.com/artist/3ltjzVXtMNjDaf6BIyKMPX) | [Mixed juice rocket](https://open.spotify.com/album/4qbMk89DBqtQAbGOduuBjK) | 4:41 | 2023-04-05 |  |
-| [Love Letter](https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love Letter](https://open.spotify.com/album/4NA1K3pMzd3RaJOFJXYl4m) | 3:22 | 2023-04-04 | 2023-04-06 |
+| [Love Letter](https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love Letter](https://open.spotify.com/album/4NA1K3pMzd3RaJOFJXYl4m) | 3:22 | 2023-04-04 |  |
 | [Love Letter](https://open.spotify.com/track/0p771me5mgbzHgZekj3iXD) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Junction Pop](https://open.spotify.com/album/6Fm1I5GiQwoxjYTXPZS4f9) | 3:44 | 2023-03-22 | 2023-03-29 |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-21 | 2023-03-29 |
 | [Love on a Leash feat\. Tatsuya Kitani](https://open.spotify.com/track/0JpqdvlvYLsHM5mQsS91QF) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [AMNJK](https://open.spotify.com/album/2A9AypWC3L5IRI6GzEEzCs) | 3:55 | 2023-03-22 | 2023-03-29 |
@@ -410,6 +410,7 @@
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 |  |
 | [passion](https://open.spotify.com/track/0i5HOQSvXX4CXNsBHfHQb3) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [passion](https://open.spotify.com/album/1glR6i58OwGjefeFL2zbIS) | 4:28 | 2023-02-28 | 2023-03-02 |
 | [passion](https://open.spotify.com/track/6cdX42p8jBWPHrmsi1D7hb) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [passion](https://open.spotify.com/album/6A8rgIPdZcItgV7MGhzEZ2) | 4:28 | 2023-03-01 | 2023-03-08 |
+| [Perfect Weekend](https://open.spotify.com/track/47TLEpxJiGD8GtBXHinaO7) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [Perfect Weekend](https://open.spotify.com/album/3nbGsOxWbyBwywTWpHIcrm) | 3:53 | 2023-04-06 |  |
 | [Period & Prelude](https://open.spotify.com/track/2g5t9kLiQySvjSkhpsK6j5) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [Period & Prelude](https://open.spotify.com/album/022ckq5LsHUzjBbFooMTKy) | 5:29 | 2023-03-01 | 2023-03-08 |
 | [Persona](https://open.spotify.com/track/1g9jWRs15MSiCY5qACF31m) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Persona](https://open.spotify.com/album/3ovjbxEMBeNFqyb1lbLyRj) | 3:39 | 2023-02-21 | 2023-02-23 |
 | [Persona](https://open.spotify.com/track/2iHne6ECwhQC0GdT28jzDn) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Persona](https://open.spotify.com/album/7nAYsdqv8hnHt2PVhMPaoI) | 3:39 | 2023-02-22 | 2023-03-01 |
@@ -541,6 +542,7 @@
 | [Time Machine/Kazokuno Fukei](https://open.spotify.com/track/341Yx5D0ebbX7FcWDEHtRp) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Time Machine/Kazokuno Fukei](https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791) | 3:37 | 2023-03-29 | 2023-04-05 |
 | [Time of adult](https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [Time of adult](https://open.spotify.com/album/6729vNYmT495Qsn8IQuE83) | 3:27 | 2023-03-01 | 2023-03-08 |
 | [Time To Feel](https://open.spotify.com/track/6jknjUPHmK4B86MlxU5Vkv) | [asobi](https://open.spotify.com/artist/5JsLSY3Wk0KMtORJ1xhms2) | [Time To Feel](https://open.spotify.com/album/3R5K9dEKeDryXT9d1aOADb) | 4:12 | 2023-04-04 |  |
+| [Time Travel Girl](https://open.spotify.com/track/7Gyut69T9psJY0WvK8pgDM) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Time Travel Girl](https://open.spotify.com/album/3RvM5QWyMn7lkkcev0cmbz) | 3:42 | 2023-04-06 |  |
 | [To Be Honest](https://open.spotify.com/track/0HzcJnUhMxinH8AyBRgB4Q) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [NO.A](https://open.spotify.com/album/1g7domyAaqzH8B54wdR24W) | 3:16 | 2023-02-21 | 2023-03-01 |
 | [To The Top Ft\. DVI](https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X), [NINO](https://open.spotify.com/artist/5BNxCzxFB3jcXJ2SGwjzEH), [Prong Praison](https://open.spotify.com/artist/3xX9AovnIocwhUP0Npwxyy) | [To The Top feat\. DVI](https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw) | 3:20 | 2023-02-08 | 2023-02-15 |
 | [tOgether fOrever](https://open.spotify.com/track/4lEyfMaUwdioK1MxfSVBPw) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-BY> \- Special Edition \-](https://open.spotify.com/album/3knTfpvtA87E82OLyDJJWS) | 3:31 | 2023-03-14 | 2023-03-22 |

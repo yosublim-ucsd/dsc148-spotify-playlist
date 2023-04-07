@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Into The Dawn",
+        "url": "https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1"
+      },
+      "artists": [
+        {
+          "name": "South Noon",
+          "url": "https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq"
+    },
+    {
+      "album": {
         "name": "Anatomy of Change",
         "url": "https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 243515,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/1e6PKJmQ5fV0VHwD31GPQK"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 205253,
       "name": "Oko marries Eb",
       "url": "https://open.spotify.com/track/2RU8cVyW2Js19dwySkLdFb"
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 192299,
       "name": "Tantric Life",
       "url": "https://open.spotify.com/track/6TMCj9pbXE0PmopzQdhiZw"

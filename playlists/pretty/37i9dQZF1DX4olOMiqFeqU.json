@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2383266,
+  "num_followers": 2383712,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUwNjkzMCwwMDAwMDAwMDEwYjZlYjZhN2NmNjRlZTU3ZWNmYmMxY2Q0NzQ5YzJl",
+  "snapshot_id": "MTY4MDUwNjkzMCwwMDAwMDAwMGZmMGFiM2E1NTNjMjI4YWExMjAxYTFlYmE0NjdlOTAz",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -464,7 +464,7 @@
           "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 325590,
+      "duration_ms": 326813,
       "name": "Magbalik",
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "It Might Be You (Theme from Everyday I Love You)",
-        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
-      },
-      "artists": [
-        {
-          "name": "Michael Pangilinan",
-          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
-        }
-      ],
-      "duration_ms": 252969,
-      "name": "It Might Be You - Theme from Everyday I Love You",
-      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Maybe This Time (From \"Maybe This Time\")",
         "url": "https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 255608,
       "name": "Maybe This Time - From \"Maybe This Time\"",
       "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "It Might Be You (Theme from Everyday I Love You)",
+        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
+      },
+      "artists": [
+        {
+          "name": "Michael Pangilinan",
+          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
+        }
+      ],
+      "duration_ms": 252969,
+      "name": "It Might Be You - Theme from Everyday I Love You",
+      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
+        "name": "Materyal",
+        "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
       },
       "artists": [
         {
-          "name": "Angeline Quinto",
-          "url": "https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649"
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
         }
       ],
-      "duration_ms": 240065,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
+      "duration_ms": 234933,
+      "name": "Nadarang",
+      "url": "https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ"
     }
   ],
   "unique_name": "OPM Favorites",

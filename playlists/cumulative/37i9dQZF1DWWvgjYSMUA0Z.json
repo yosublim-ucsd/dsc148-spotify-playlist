@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Delighted",
+        "url": "https://open.spotify.com/album/7erT0da7HZPcNpcHxjZs5G"
+      },
+      "artists": [
+        {
+          "name": "Remittere",
+          "url": "https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "Delighted",
+      "url": "https://open.spotify.com/track/36xaiN7CDChqvyzw7eKOH9"
+    },
+    {
+      "album": {
         "name": "Designated Solitude",
         "url": "https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4"
       },

@@ -2127,6 +2127,28 @@
     },
     {
       "album": {
+        "name": "Alyssa",
+        "url": "https://open.spotify.com/album/1OvDrhXBAn3uuz20ZoboDu"
+      },
+      "artists": [
+        {
+          "name": "JTM",
+          "url": "https://open.spotify.com/artist/0ZA6uKUCcTW9su5Rw514jC"
+        },
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Alyssa",
+      "url": "https://open.spotify.com/track/0u2LXgZVrNwmOvQV8FMCyh"
+    },
+    {
+      "album": {
         "name": "Amalgamation",
         "url": "https://open.spotify.com/album/7xWeWqb3JwFca19AKBRBCI"
       },
@@ -6313,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "There You Go!",
+        "url": "https://open.spotify.com/album/0CpzvCOiH5m3qlenioMjTb"
+      },
+      "artists": [
+        {
+          "name": "Varas",
+          "url": "https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216823,
+      "name": "Careful What You Wish For",
+      "url": "https://open.spotify.com/track/5h5sTXyjYCha8bgnYOxLYv"
+    },
+    {
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/0c2nicqlvXuNDIfPK3tf3r"
       },
@@ -6712,6 +6752,24 @@
       "duration_ms": 144010,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/62ph4Qd50TdRiH0XiimYFr"
+    },
+    {
+      "album": {
+        "name": "Cheers To New Beginnings",
+        "url": "https://open.spotify.com/album/7uRM9iuJfa6PhQfkTF1MyP"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174319,
+      "name": "Cheers To New Beginnings",
+      "url": "https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr"
     },
     {
       "album": {
@@ -9786,6 +9844,24 @@
       "duration_ms": 192000,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/7epHYaw8EVjnUwtn1qfMTN"
+    },
+    {
+      "album": {
+        "name": "Don't Drop That Monkey",
+        "url": "https://open.spotify.com/album/2sdBGysYgNwjUU2qKU9LUt"
+      },
+      "artists": [
+        {
+          "name": "Cabela and Schmitt",
+          "url": "https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212805,
+      "name": "Don't Drop That Monkey",
+      "url": "https://open.spotify.com/track/5wAxmK678OPA493HCyVf4X"
     },
     {
       "album": {
@@ -14608,6 +14684,24 @@
       "duration_ms": 253853,
       "name": "Goodbye Jimmy Reed",
       "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "album": {
+        "name": "Goodnight Love",
+        "url": "https://open.spotify.com/album/5yfmvU2UObXABDSRfM8jPk"
+      },
+      "artists": [
+        {
+          "name": "Lennon VanderDoes",
+          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215216,
+      "name": "Goodnight Love",
+      "url": "https://open.spotify.com/track/1jsSSKAZCoH1q8ccjMMLiY"
     },
     {
       "album": {
@@ -22867,6 +22961,24 @@
     },
     {
       "album": {
+        "name": "Must Not Weep",
+        "url": "https://open.spotify.com/album/01LomhtWc10teNXjmh0qqC"
+      },
+      "artists": [
+        {
+          "name": "David Shabani",
+          "url": "https://open.spotify.com/artist/10tmEpWAvuar7nGsOeqdQN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240019,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/5DtySWRdz3Vqhm8d2ZFZlE"
+    },
+    {
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
       },
@@ -25560,7 +25672,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 190985,
       "name": "Not A Problem",
       "url": "https://open.spotify.com/track/4PulwkFGTFU7NA7CBQ4MbP"
@@ -29869,6 +29981,24 @@
     },
     {
       "album": {
+        "name": "INNER G",
+        "url": "https://open.spotify.com/album/4sVVYmZ16vL5Jrj6hdDRAp"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mackey",
+          "url": "https://open.spotify.com/artist/66unbQnZqI3tiigV3P7fBT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161149,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/4za3LHiveRZFFHrqH44Y5Y"
+    },
+    {
+      "album": {
         "name": "Said",
         "url": "https://open.spotify.com/album/3t1DhqdAvIXbgZFlIBH5vp"
       },
@@ -32670,6 +32800,24 @@
       "duration_ms": 174348,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/5dOakQSSOOn6r3hxp3Yl4g"
+    },
+    {
+      "album": {
+        "name": "Stay Over",
+        "url": "https://open.spotify.com/album/1M5S3aAflyUhHkWV1XOmmQ"
+      },
+      "artists": [
+        {
+          "name": "Anassa",
+          "url": "https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "Stay Over",
+      "url": "https://open.spotify.com/track/36yIvRSkhRIBpCD3qiRR1T"
     },
     {
       "album": {
@@ -37332,6 +37480,24 @@
       "duration_ms": 151578,
       "name": "Up on Me",
       "url": "https://open.spotify.com/track/4W5P0XK73J0DRbrgbRr2Pg"
+    },
+    {
+      "album": {
+        "name": "Upstream",
+        "url": "https://open.spotify.com/album/52gxEIXY8wExpCeVc1kFpc"
+      },
+      "artists": [
+        {
+          "name": "Julia Poorman",
+          "url": "https://open.spotify.com/artist/199jpIBM5kC5bffHQjmsN3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Upstream",
+      "url": "https://open.spotify.com/track/6DqRFfV44ULigLeWT2LIJe"
     },
     {
       "album": {

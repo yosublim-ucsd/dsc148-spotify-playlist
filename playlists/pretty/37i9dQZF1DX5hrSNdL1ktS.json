@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 55814,
+  "num_followers": 55829,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MjQwMCwwMDAwMDAwMGZhMDk5ODg2NWI4ZWY0MmE2NzYzNWY5MDY1OGVkZjQx",
+  "snapshot_id": "MTY4MDI0MjQwMCwwMDAwMDAwMDMzMDU3NTk5Yzc5NzI1ZDRmMjA0YzM3M2YzN2EzMTI3",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1025,26 +1025,6 @@
       "url": "https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "El Baile De Perrito",
-        "url": "https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd"
-      },
-      "artists": [
-        {
-          "name": "Partylifemusic",
-          "url": "https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "El Baile De Perrito",
-      "url": "https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5"
-    },
-    {
       "added_at": "2023-03-03 06:00:00",
       "album": {
         "name": "\u00d1ero Session 2",
@@ -1067,6 +1047,26 @@
       "duration_ms": 146938,
       "name": "\u00d1ero Session 2",
       "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "El Baile De Perrito",
+        "url": "https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd"
+      },
+      "artists": [
+        {
+          "name": "Partylifemusic",
+          "url": "https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "El Baile De Perrito",
+      "url": "https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5"
     },
     {
       "added_at": "2023-03-10 06:00:00",

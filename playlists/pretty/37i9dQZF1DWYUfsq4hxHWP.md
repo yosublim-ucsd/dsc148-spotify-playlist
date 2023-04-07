@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Johnny Dailey, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,379 likes - 103 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,435 likes - 103 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 102 | [Kickin' Up Dust](https://open.spotify.com/track/4c1e0w7Yo0PPsjrho2tfig) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Kickin' Up Dust](https://open.spotify.com/album/5crblAq0bWbSFBIhQyQAAG) | 2:46 |
 | 103 | [What Else Is New](https://open.spotify.com/track/2jCbACQvCY4k6OtXBrbEou) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [What Else Is New](https://open.spotify.com/album/75WAnHpZksolNF57Ue9Pmt) | 2:48 |
 
-Snapshot ID: `MTY4MDcxNjI4NCwwMDAwMDAwMDZhMDc3NWUxNTQyYWMwMzM2NzNhNjExMGI1YzYyZDhh`
+Snapshot ID: `MTY4MDcxNjI4NCwwMDAwMDAwMDQyOGFjYTc1MzFiZjUyZWQzOWRhMjRlNWQ0MWRjZWIz`

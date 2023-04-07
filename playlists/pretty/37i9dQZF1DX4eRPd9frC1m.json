@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2520528,
+  "num_followers": 2523474,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDVmMzk3NWFiOTRiMGM0YTA1NzI1NDk4MTQ2OTA2MjE4",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGY0ZTFmNDZkYmEzMTU5MzVhNTRmYjQzOWFlZTA2NWJl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "All I Need (VIP)",
         "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 195310,
       "name": "All I Need - VIP",
       "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2023-02-24 05:00:00",

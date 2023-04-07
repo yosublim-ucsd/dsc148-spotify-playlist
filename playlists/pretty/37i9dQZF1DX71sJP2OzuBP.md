@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,431 likes - 104 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,444 likes - 104 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 14 | [雨](https://open.spotify.com/track/1n55ZCsKnW7jTF5E9rVF75) | [朱主爱](https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6) | [雨](https://open.spotify.com/album/1qPkFIrpNi9GrkCFo5Mikz) | 3:31 |
 | 15 | [Second Street](https://open.spotify.com/track/3yTOeEohTaHkpglJaew8gS) | [FANCYnical.lee](https://open.spotify.com/artist/4pqXdtllCZwHfVvygolDam) | [Second Street](https://open.spotify.com/album/6LptPxY4P6OltWNDMJiQdX) | 3:21 |
 | 16 | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/track/21DC233fhKEBRa2L3Pfjdj) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/album/2miYO5t02RgDLm0YBhmBrt) | 3:09 |
-| 17 | [迷宮](https://open.spotify.com/track/6tQI5p9KkqpAxyKBxi8Oai) | [依加](https://open.spotify.com/artist/5FBiI2cYEsxbLaiGiP4jXR) | [迷宮](https://open.spotify.com/album/4rFrfDXSwj87JqvJKmptxD) | 3:37 |
+| 17 | [迷宮](https://open.spotify.com/track/6tQI5p9KkqpAxyKBxi8Oai) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [迷宮](https://open.spotify.com/album/4rFrfDXSwj87JqvJKmptxD) | 3:37 |
 | 18 | [Song About Life](https://open.spotify.com/track/5bqpnucqaEEP4dPiWNobB1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Song About Life](https://open.spotify.com/album/2mtvO38V7IvCZiRsokojqz) | 2:52 |
 | 19 | [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 |
 | 20 | [無法抗拒的你](https://open.spotify.com/track/3UIGjEhegNpwGvgGj2vXOd) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [無法抗拒的你](https://open.spotify.com/album/05Ie7yjRI6t4ZMCBHVWlvi) | 5:01 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 103 | [癡心無名氏](https://open.spotify.com/track/5WeLzVi9RxI22FrvtVKRSW) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [癡心無名氏](https://open.spotify.com/album/2yUoKabXW0fgi0RMxy2eHN) | 3:51 |
 | 104 | [腦袋都是你 \- 《HIStory5\-遇見未來的你》LINE TV插曲](https://open.spotify.com/track/5d3W1YWCHNTnZJPSXZ30eP) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [腦袋都是你 \(《HIStory5\-遇見未來的你》LINE TV插曲\)](https://open.spotify.com/album/4QIJXGqhZloU0LEA6lTYNZ) | 3:50 |
 
-Snapshot ID: `MTY4MDUwMDkwMSwwMDAwMDAwMDZkNDhhNmFhNTBmNzU0YWZlNDg2YzMzNWZkNDc5Yjg5`
+Snapshot ID: `MTY4MDUwMDkwMSwwMDAwMDAwMGMyOTQwZjEwMTczNTIyZTBhOTJiOTgxMTM1Zjk5NTc3`

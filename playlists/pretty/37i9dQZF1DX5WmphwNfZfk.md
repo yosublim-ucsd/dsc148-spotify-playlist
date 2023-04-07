@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: RAAHiiM
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,863 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,876 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Easy Money](https://open.spotify.com/track/47rtlTlCeQpDVZofVFHwYN) | [Michelle Treacy](https://open.spotify.com/artist/0YhQcdSViCHOPY7QDb9tiV) | [Easy Money](https://open.spotify.com/album/0yvPMgLvDvxhRfL4RTjy04) | 2:39 |
 | 50 | [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 |
 
-Snapshot ID: `MTY3Nzg4OTQ0MywwMDAwMDAwMDliNTQ4NjI0NmJkNjRjYzBjNDdkYWNiNjFkNDUxMTUz`
+Snapshot ID: `MTY3Nzg4OTQ0MywwMDAwMDAwMGQwMWVmZTE2MGE5ZDllY2IzOTBlZGUzYzE0OWYxOThl`

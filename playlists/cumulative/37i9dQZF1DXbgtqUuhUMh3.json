@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "A la vie a la mort (Ily)",
+        "url": "https://open.spotify.com/album/04Djd7y8AvR8KeEzvUdQKP"
+      },
+      "artists": [
+        {
+          "name": "Ily",
+          "url": "https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169277,
+      "name": "A la vie a la mort",
+      "url": "https://open.spotify.com/track/3plDNkto0jjCOMtgKnedBJ"
+    },
+    {
+      "album": {
         "name": "When the Waves",
         "url": "https://open.spotify.com/album/2d5Hg07xtKifotQbKTz7Fa"
       },
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 184069,
       "name": "Endal Eneed",
       "url": "https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,144 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,193 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 64 | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ) | [Guts](https://open.spotify.com/artist/3r4qwLniJrCWNsqgu156LN), [Nícolas Walter](https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Lil Sete](https://open.spotify.com/artist/6qLSdSOOYSTInRUVymkkOP), [Diogo Mariense](https://open.spotify.com/artist/7xfIhOqU6MetO17Czwjp1l), [Neew](https://open.spotify.com/artist/2SnQV33JSAlRWZdEIMOAvH) | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB) | 4:12 |
 | 65 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
 | 66 | [Marquinha](https://open.spotify.com/track/4killZKEjakHnPgOPKzHL1) | [Yan Silvestre](https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Marquinha](https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp) | 2:00 |
-| 67 | [Chamem a Polícia](https://open.spotify.com/track/0iJfSnKuZn2J69RfdWlZkv) | [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Chamem a Polícia](https://open.spotify.com/album/25l1kzAc76CEuXBsTm3O2a) | 3:05 |
+| 67 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
 | 68 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
-| 69 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
+| 69 | [Chamem a Polícia](https://open.spotify.com/track/0iJfSnKuZn2J69RfdWlZkv) | [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Chamem a Polícia](https://open.spotify.com/album/25l1kzAc76CEuXBsTm3O2a) | 3:05 |
 | 70 | [Meia Hora](https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Meia Hora](https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV) | 3:17 |
 | 71 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 |
 | 72 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Kim Kardashian](https://open.spotify.com/track/5vEd02O4TMOKhZ1K9cSY64) | [DISC WRLD](https://open.spotify.com/artist/5DGC2CAXIeGzehdbsoreuo), [Gohann](https://open.spotify.com/artist/7eZNIBBTvCkF2aG5VdvlQc), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [Kim Kardashian](https://open.spotify.com/album/2uR4bQsoZYglGFScjf0UYO) | 2:29 |
 | 75 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
 
-Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMDNhMzRjMTI1N2NlNGFkNjE0ZmU0NTRmNmEwMWMzOTUz`
+Snapshot ID: `MTY4MDIzMTY2MCwwMDAwMDAwMDcyNWMzN2E2MjA3MGIzOTQ5ZDM0MDM0OTlmMmI4Njkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,101 likes - 384 songs - 22 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,299 likes - 384 songs - 22 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 383 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 |
 | 384 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 |
 
-Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMGJiZjBmMzAyMDE4YjRhMTgzN2NlMzc5ZTZkMDAxMjFi`
+Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMDNiMzMyMDg3ZDhiNWYzOWIzMDMzNTgwYzFiYjE1MTc2`

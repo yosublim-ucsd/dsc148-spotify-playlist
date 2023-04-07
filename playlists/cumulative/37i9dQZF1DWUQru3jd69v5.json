@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. LKJ e Voleur Pnz in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Artie 5ive in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 186315,
       "name": "049",
       "url": "https://open.spotify.com/track/2ctb12A2f1xM2mMaO29naD"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 120833,
       "name": "200%",
       "url": "https://open.spotify.com/track/4uHe0ruDjF9fLfhmwLfNLf"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 303830,
       "name": "Abby Story 2",
       "url": "https://open.spotify.com/track/6fr24nGfnZfEKYpFAJ25lY"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 127022,
       "name": "Clap!",
       "url": "https://open.spotify.com/track/5C4Yoj7SqI8Saw4mGwMsHf"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 195882,
       "name": "COCCO (feat. Touch\u00e8, 8blevrai)",
       "url": "https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj"
@@ -2432,6 +2432,24 @@
       "duration_ms": 153175,
       "name": "COLLANE",
       "url": "https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t"
+    },
+    {
+      "album": {
+        "name": "Collane d'odio",
+        "url": "https://open.spotify.com/album/4pmc5Yx8IR0IHiFbp2o7UR"
+      },
+      "artists": [
+        {
+          "name": "Not Good",
+          "url": "https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150562,
+      "name": "Collane d'odio",
+      "url": "https://open.spotify.com/track/6Fs35Gxkip6FfkHbEQSdoF"
     },
     {
       "album": {
@@ -3176,7 +3194,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 171851,
       "name": "DRUG DEALERS (feat. Sapobully)",
       "url": "https://open.spotify.com/track/65cwJw7TQRRPUgPgdVHftV"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 166720,
       "name": "Equipe 3",
       "url": "https://open.spotify.com/track/4i0LOQjyzfAXDFvVbXPrEd"
@@ -3563,6 +3581,32 @@
     },
     {
       "album": {
+        "name": "Fifty-fifty",
+        "url": "https://open.spotify.com/album/3zKFWNk1C4GrVw2v7E4Lr0"
+      },
+      "artists": [
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        },
+        {
+          "name": "Enomoney",
+          "url": "https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8"
+        },
+        {
+          "name": "3mm4",
+          "url": "https://open.spotify.com/artist/5n5yuCrvkiuSNqMNaV7UiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Fifty-fifty",
+      "url": "https://open.spotify.com/track/4OsvF0xfpZkUUjssbMR3rV"
+    },
+    {
+      "album": {
         "name": "FIGLI DELLE VIBES",
         "url": "https://open.spotify.com/album/0Zd7c8VpqwJpbKVuabTq00"
       },
@@ -3698,7 +3742,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 122227,
       "name": "Freddo",
       "url": "https://open.spotify.com/track/0JTSwPtqZ4Aesj6fIlnnYJ"
@@ -4356,6 +4400,28 @@
       "duration_ms": 157714,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
+    },
+    {
+      "album": {
+        "name": "GUAP",
+        "url": "https://open.spotify.com/album/1DWB7jQzzAUYjZAfWBStun"
+      },
+      "artists": [
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        },
+        {
+          "name": "Prisoner",
+          "url": "https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176329,
+      "name": "GUAP",
+      "url": "https://open.spotify.com/track/6SsDsEklz3j7hWCLv7pGyG"
     },
     {
       "album": {
@@ -6013,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "MARYMARY",
+        "url": "https://open.spotify.com/album/3EprkkwftNaHwjMyVSh7cu"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162105,
+      "name": "MARYMARY",
+      "url": "https://open.spotify.com/track/7uMzYkzl5CH4TZnSzXUQoq"
+    },
+    {
+      "album": {
         "name": "Materia",
         "url": "https://open.spotify.com/album/2hBOUQzzVit5kMCbrqYVG7"
       },
@@ -7185,6 +7269,24 @@
     },
     {
       "album": {
+        "name": "PAPAJERSEY",
+        "url": "https://open.spotify.com/album/6GvztqFAleXlYXRj9Tse7Z"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "PAPAJERSEY",
+      "url": "https://open.spotify.com/track/7f2pjAvuVMMJvKqm8xVMa7"
+    },
+    {
+      "album": {
         "name": "Papavero",
         "url": "https://open.spotify.com/album/3x3uQKwz4xU6zuWzliQvGD"
       },
@@ -7815,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "PROMESSO",
+        "url": "https://open.spotify.com/album/2VhxXSlxBrMwg8ItYopzDZ"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156959,
+      "name": "PROMESSO",
+      "url": "https://open.spotify.com/track/0Ew6sQQMxXcQiXjReT8YOv"
+    },
+    {
+      "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/1VH2Hhq3cep5k7gcknPPkG"
       },
@@ -7986,6 +8106,28 @@
       "duration_ms": 128450,
       "name": "R&R",
       "url": "https://open.spotify.com/track/5s6YjPaL77P28PQqG7wVLO"
+    },
+    {
+      "album": {
+        "name": "RACKSS",
+        "url": "https://open.spotify.com/album/17Peu4cPdSbBIGibPMiiLo"
+      },
+      "artists": [
+        {
+          "name": "Cloud\u00ec",
+          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+        },
+        {
+          "name": "PLAYBOIKIRA",
+          "url": "https://open.spotify.com/artist/4SXKXgZLapOYWThvUIpZpV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "RACKSS",
+      "url": "https://open.spotify.com/track/5wzgjThl6M33LV1njlC1TG"
     },
     {
       "album": {
@@ -8324,6 +8466,32 @@
       "duration_ms": 188571,
       "name": "Rosario",
       "url": "https://open.spotify.com/track/4pybV3VytR7wckSzlflKjO"
+    },
+    {
+      "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/6hcYjF9Ha3wZ84gSdddsxl"
+      },
+      "artists": [
+        {
+          "name": "Baby Rich",
+          "url": "https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN"
+        },
+        {
+          "name": "Nuto Jr",
+          "url": "https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5"
+        },
+        {
+          "name": "NRY",
+          "url": "https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147024,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2UgRqLbs5QxyibdC8UyQ2I"
     },
     {
       "album": {
@@ -9234,7 +9402,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 169629,
       "name": "Strade",
       "url": "https://open.spotify.com/track/27zqJfsRqMNZJdI13EnDGF"
@@ -9692,6 +9860,32 @@
       "duration_ms": 154285,
       "name": "Towro Industria",
       "url": "https://open.spotify.com/track/7h9lrqaS0rg33ku8VaQC5Y"
+    },
+    {
+      "album": {
+        "name": "Towro Industria 2",
+        "url": "https://open.spotify.com/album/4qKL8ayTp3YmbAQyXKiseN"
+      },
+      "artists": [
+        {
+          "name": "ODT",
+          "url": "https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf"
+        },
+        {
+          "name": "CrocoJonny",
+          "url": "https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH"
+        },
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "Towro Industria 2",
+      "url": "https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i"
     },
     {
       "album": {

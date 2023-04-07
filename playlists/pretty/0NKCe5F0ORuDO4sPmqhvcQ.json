@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyOTcsZDQ0MzRiZWIyMTdhNWIxYjY3ZTU1OGYxZDJkOTk1OGM5ZTBiYWRiNA==",
+  "snapshot_id": "MTAyOTgsMWQ1MGYxYWQ5NjAxYTMwNGQxMzQxNDdlZmI2Yjk4MjU4NGMwZDZkZg==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2267,6 +2267,22 @@
       "duration_ms": 139636,
       "name": "FBGM!",
       "url": "https://open.spotify.com/track/0qES0yIA5BkEdpnvJoevNa"
+    },
+    {
+      "added_at": "2023-04-06 21:40:03",
+      "album": {
+        "name": "The Allegory",
+        "url": "https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4"
+      },
+      "artists": [
+        {
+          "name": "BARDZ",
+          "url": "https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk"
+        }
+      ],
+      "duration_ms": 181469,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw"
     }
   ],
   "unique_name": "Moving Castle Monthly",

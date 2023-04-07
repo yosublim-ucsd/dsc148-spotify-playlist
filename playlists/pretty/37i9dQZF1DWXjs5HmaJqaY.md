@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,043 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,177 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 6 | [Donnerchello](https://open.spotify.com/track/1NKkZ1VBCwHM2fEo7CV8os) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Donnerchello](https://open.spotify.com/album/3VkUXlSrqfFUrjn6hsrTN7) | 6:42 |
 | 7 | [Off Grid](https://open.spotify.com/track/4XYr8FqCcBUbbrMN2lEMxX) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 5:37 |
 | 8 | [In The Bleak Midwinter](https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [In The Bleak Midwinter](https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v) | 3:54 |
-| 9 | [Freestyle](https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Freestyle](https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN) | 4:00 |
+| 9 | [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 |
 | 10 | [Rescue Me \- DJ Island Remix](https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Rescue Me](https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU) | 5:44 |
 | 11 | [Kolm](https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Kolm](https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd) | 6:23 |
 | 12 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 | 70 | [What This](https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8) | [Max Koval](https://open.spotify.com/artist/0NByPzOcGHKJ2XgUztC6CR) | [A Little Bit Of Jazz](https://open.spotify.com/album/7Fz1MqDsGxpsoNpSR8SPtV) | 7:42 |
 
-Snapshot ID: `MTY3OTY1MzQyOSwwMDAwMDAwMGYxOTYwZmJiZjAyODgwMzM1M2E1OTc1YjZmYjZiY2Q0`
+Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMDRlNDgyMWQzMmRiZjAyMmI3OWQyMjY3MDQwZmRmNWUy`

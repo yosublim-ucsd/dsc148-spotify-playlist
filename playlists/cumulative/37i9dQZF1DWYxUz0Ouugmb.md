@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Idgitaf
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Raissa Anggiani
 
 121 songs - 7 hr 32 min
 

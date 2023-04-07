@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Yaffle continues The Classical Takeover with his favorite selection of classical music, from the classical era to the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,433 likes - 45 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,451 likes - 45 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 | 44 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 |
 | 45 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 |
 
-Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMDBkYzg2OWQyZjAzY2U2MDVmMTVjZmRkMDVhYzNmYzA5`
+Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMGY4MTY2ODhkNGViMTU0MDQ3MjIyYjZjOGE5OTU0ZGEy`

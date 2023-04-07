@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-425 songs - 1 day 4 hr 55 min
+426 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Space Song](https://open.spotify.com/track/7sB9BkfzR1SsuHqjU3jtt1) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Space Song](https://open.spotify.com/album/1dY1LX7VxNKtYqrC0xP8QE) | 3:58 | 2022-06-08 | 2022-07-07 |
 | [Spirit Loop](https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Spirit Loop](https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t) | 4:05 | 2023-04-05 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-08 | 2022-07-14 |
+| [Star](https://open.spotify.com/track/4fCeKZHKZt5PTMEEGxHYQj) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Star](https://open.spotify.com/album/79H8ASriYHc6JBmxm4vq6f) | 5:21 | 2023-04-06 |  |
 | [Star Hill Song](https://open.spotify.com/track/4ZL6HZ62Y6COvwL4P4Dv7W) | [Meg Baird](https://open.spotify.com/artist/4NkfNPTsDtbPntbU1pBYVt) | [Furling](https://open.spotify.com/album/5FgYvOLxsNHb1oh29LeOMc) | 5:57 | 2023-02-01 | 2023-03-02 |
 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 | 2023-01-19 | 2023-03-02 |
 | [Step By Step \- Junior Sanchez Remix](https://open.spotify.com/track/2ye32lVeQdG9DcakKSq0qa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 6:19 | 2023-01-25 | 2023-02-23 |

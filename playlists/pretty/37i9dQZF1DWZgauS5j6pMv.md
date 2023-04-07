@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,313 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,438 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 |
 | 100 | [Airplane Mode](https://open.spotify.com/track/7k3csxuuABvuHa1OE3J2Mh) | [Kero Uno](https://open.spotify.com/artist/3CzIZAYykK3RjxEipSr185), [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76) | [Airplane Mode](https://open.spotify.com/album/1jKwmoG8hZmEELwySu2zsR) | 2:46 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDdjODBhZjk4YWM4ZmUwMGJmYzJlZjEwNjkxNGE0Mzg5`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDBkZDMxODBlNjc1YzhkYzFjMDc3MWRlNWM3MmI0NzMx`

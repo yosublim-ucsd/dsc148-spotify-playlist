@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with restaurant ambience from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,409 likes - 93 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,434 likes - 93 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 | 92 | [Lazy Hours](https://open.spotify.com/track/7ufn33IajRX5wPbxloXfni) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Coffee Break](https://open.spotify.com/album/0wC6sfCytTjRB67wFD885m) | 1:26 |
 | 93 | [De Tamarindo](https://open.spotify.com/track/6SkGKLhfOQ4tTwYQc2geoV) | [Comer Para Vivir](https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7) | [Tacos Playa Del Carmen](https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ) | 3:23 |
 
-Snapshot ID: `MTY3ODM2NDgzNSwwMDAwMDAwMDI3MjIxMjdjMmI3NGQ4M2UzNjUzOWY1ZDExOGFiMTgw`
+Snapshot ID: `MTY3ODM2NDgzNSwwMDAwMDAwMDJhMDcxODYwNDJiNDM3YjgzZWU1NGQ2NmVmODU2YWEx`

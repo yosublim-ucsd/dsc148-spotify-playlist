@@ -4,7 +4,7 @@
 
 > 結集香港EQUAL女聲力量！\(cover: Mischa葉巧琳\)
 
-227 songs - 14 hr 35 min
+228 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [第二次告白](https://open.spotify.com/track/1BT7O1m2DbPrEQ40xEZWxK) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [第二次告白](https://open.spotify.com/album/2Xm1IBBbdJs9sWC8v1hwM7) | 2:51 | 2022-01-04 | 2022-02-03 |
 | [納斯卡線](https://open.spotify.com/track/3wqMvfQ9QgIEyRHH41Y0Iq) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [納斯卡線](https://open.spotify.com/album/5zliypCl3XKSAWWncqFM7D) | 3:45 | 2022-05-03 | 2022-08-03 |
 | [絕命青年](https://open.spotify.com/track/290PNRZDOwPzIaTUV91o0f) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [絕命青年](https://open.spotify.com/album/7dUdsPFljbv6uVk93y1aWO) | 4:01 | 2022-03-07 | 2022-04-06 |
+| [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2023-04-06 |  |
 | [自白的勇氣](https://open.spotify.com/track/1zHwqRHKGrM5BpAOLzmFNE) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [自白的勇氣](https://open.spotify.com/album/68DrJdjADfWUfl4tUgDIWy) | 3:32 | 2021-12-07 | 2022-01-05 |
 | [荊棘海\(三生石版\)](https://open.spotify.com/track/5r2CyKElH6fqAVMNN3OKfG) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [荊棘海\(三生石版\)](https://open.spotify.com/album/3f6891HPS0e44ouJGTyaoA) | 4:19 | 2022-01-04 | 2022-02-03 |
 | [萬物有時](https://open.spotify.com/track/5gE4HG83INsGkkJPkwQVjk) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [萬物有時](https://open.spotify.com/album/6Xq3BT9jPBjAvlAPyEVMnF) | 3:44 | 2022-11-30 |  |

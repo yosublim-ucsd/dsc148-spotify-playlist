@@ -8255,6 +8255,32 @@
     },
     {
       "album": {
+        "name": "Off The Lot",
+        "url": "https://open.spotify.com/album/7dgfaiBAdsWNvEw8GWGkQn"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257423,
+      "name": "Off The Lot",
+      "url": "https://open.spotify.com/track/780YBVmrn3iidfrWMAD5Xt"
+    },
+    {
+      "album": {
         "name": "Back From The Dead",
         "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
       },

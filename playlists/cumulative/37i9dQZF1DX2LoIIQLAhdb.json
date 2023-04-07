@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Bramsito",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : L2B",
   "name": "R&Bae",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 170013,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/3uuSSAMq7Otspek5jPLVU3"
@@ -314,6 +314,24 @@
       "duration_ms": 173333,
       "name": "Comme avant (feat. Low Jay)",
       "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
+    },
+    {
+      "album": {
+        "name": "Comme mon ex",
+        "url": "https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh"
+      },
+      "artists": [
+        {
+          "name": "Melina",
+          "url": "https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Comme mon ex",
+      "url": "https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr"
     },
     {
       "album": {
@@ -1225,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Manico",
+        "url": "https://open.spotify.com/album/0NEk4fIlu7ruQE6il671jv"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156706,
+      "name": "Manico",
+      "url": "https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE"
+    },
+    {
+      "album": {
         "name": "Maux de t\u00eate",
         "url": "https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y"
       },
@@ -1720,7 +1756,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 157364,
       "name": "Seum",
       "url": "https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX"

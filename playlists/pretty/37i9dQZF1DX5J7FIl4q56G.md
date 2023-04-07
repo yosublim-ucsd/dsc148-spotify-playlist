@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,836 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,004 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Awakening](https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN) | 3:57 |
 | 50 | [Ishtar](https://open.spotify.com/track/5do5le1lrCg7mMQK6MR5iw) | [Lotan](https://open.spotify.com/artist/0HLLtEvf1nhjdoxUXPWylf) | [Lotan](https://open.spotify.com/album/4If8EaETDwFseyjVRkLEfu) | 4:42 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDFkZWZhYzk2MTdmOGNkYjJkNjgyMDVhMjQ1ZjkyMWVm`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDhlMGMyMjM0OTIxNDI4OGVmNzJkZmE4MTQxMGRmMjhm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murilo Huff com Matheus & Kauan, Wesley Safadão com Ana Castela, Fernando & Sorocaba, Turma do Pagode e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,858,674 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859,277 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 32 | [LIVRE, LEVE E LOUCA](https://open.spotify.com/track/7aalW4HyPKgvAsBy1SLsc5) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [LIVRE, LEVE E LOUCA](https://open.spotify.com/album/3wkGKV6z3zXMWmuwIzUjqO) | 2:37 |
 | 33 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 |
 | 34 | [Nós](https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Amar Dói](https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn) | 2:48 |
-| 35 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
+| 35 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
 | 36 | [X6](https://open.spotify.com/track/0T6XMC5fc5H5OYabHKKhHR) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Young Mafia](https://open.spotify.com/artist/6YTZRNJ6v8Vzf1rqP9UKx4) | [X6](https://open.spotify.com/album/7xPhyPrvseezAizSyAmxZm) | 3:53 |
 | 37 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
 | 38 | [Ritmo De Fim](https://open.spotify.com/track/0wV14h8vPVAPjsreY8ZvSq) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Ritmo De Fim](https://open.spotify.com/album/3C9rLSdyZtXbxVgplKKrAi) | 2:38 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 102 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
 | 103 | [Borboleta](https://open.spotify.com/track/3FJ1TCVE9mp46ngSCyObrn) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP) | [Borboleta](https://open.spotify.com/album/2z93CoEh40L2X69egAQZPo) | 2:41 |
 
-Snapshot ID: `MTY4MDI3MzIwOSwwMDAwMDAwMDU0OGU4YmZmZDUzY2VmZDA2ODVlMDA2Y2E1ZjFhYjky`
+Snapshot ID: `MTY4MDI3MzIwOSwwMDAwMDAwMGZjNWRlNjQ0YTNmYWQ4ZjU5MjdjOTMxNWJhZmIxYzNm`

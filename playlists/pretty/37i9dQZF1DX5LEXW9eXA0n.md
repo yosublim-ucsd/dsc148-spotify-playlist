@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:JUNGKEY\(정키\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,149 likes - 103 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,133 likes - 103 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 102 | [Miracle](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Miracle \- SM STATION](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) | 4:12 |
 | 103 | [The way we were](https://open.spotify.com/track/1s2qz1ehVyS5EdCgt427hL) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [The way we were](https://open.spotify.com/album/5ja9Rqpzs5Y0Q0P6VBKADE) | 4:18 |
 
-Snapshot ID: `MTY4MDYwMDExMCwwMDAwMDAwMDQ3YTRiNGEyZTlmNjdiNTRjYjljNzM4YzBjMzZlMmIw`
+Snapshot ID: `MTY4MDYwMDExMCwwMDAwMDAwMGEwYTU4OTEwMzZjZmY2YTkyOGNkMTIzNjMxMWMzZThl`

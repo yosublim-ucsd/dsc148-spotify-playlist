@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: JAOKHUN
 
-317 songs - 19 hr 10 min
+318 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [ถ้าเธอรักฉันจริง](https://open.spotify.com/track/2vA7CHG08LDzeMDAuPnUQg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ถ้าเธอรักฉันจริง](https://open.spotify.com/album/1bDTHuznOFJ3s3fZEqEaGp) | 4:00 | 2022-05-26 | 2022-08-26 |
 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 | 2022-07-23 | 2022-11-16 |
 | [ถ้าเธอรู้ว่าฉันเหงา \(if only\)](https://open.spotify.com/track/0Hw3zXdLdXqtbGhBPhUhY6) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [ถ้าเธอรู้ว่าฉันเหงา \(if only\)](https://open.spotify.com/album/4kAJ7UH8aRhpDzMJq3VdBj) | 4:20 | 2022-06-02 | 2022-06-10 |
+| [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 | 2023-04-06 |  |
 | [ถ้าเธอไม่อยากโชคร้ายเรื่องความรัก \- Let Me Love You](https://open.spotify.com/track/6ah5ZmdllIdUK0VAhkCLkN) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 3:46 | 2022-08-05 | 2022-08-26 |
 | [ถ้าไม่ใช่ \(No One Else Like Me\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/6zonXTdfQREJpP8ZdBrRhg) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/0ZhtsjHqydKCTjeGt1SO1S) | 3:20 | 2023-02-23 | 2023-03-10 |
 | [ทราบแล้วเปลี่ยน \- attention please](https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ทราบแล้วเปลี่ยน \(attention please\)](https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2) | 3:55 | 2022-05-26 |  |
@@ -172,7 +173,7 @@
 | [พูดได้ไหม \(Let Me Tell You\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3RBEKEeZWt3iCsuh4bvZpl) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/2U1hTTT8zpG58iAlcjCPGg) | 3:29 | 2023-03-02 | 2023-03-10 |
 | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/track/51XcWthCJU8nY22ARPHav8) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/album/3VU3OpwYZ5zpqE74jPzTcy) | 2:59 | 2023-02-10 | 2023-02-17 |
 | [มองจากดาวอังคารก็รู้](https://open.spotify.com/track/6Sw06fUvccaRgiButscHjY) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [มองจากดาวอังคารก็รู้](https://open.spotify.com/album/1XCt0fRiLyzYaTcGlLPWX1) | 3:36 | 2022-07-28 | 2022-08-06 |
-| [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 | 2023-02-28 |  |
+| [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 | 2023-02-28 | 2023-04-07 |
 | [มาเอาไร \- A Rebound](https://open.spotify.com/track/0E1TRAWupIIwrC3vZDkHFd) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [มาเอาไร \(A Rebound\)](https://open.spotify.com/album/4bYkrPsvvRsRhYcaSl3TA7) | 3:03 | 2022-06-09 | 2022-06-17 |
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-06-23 | 2022-07-02 |
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2022-05-26 | 2022-07-24 |

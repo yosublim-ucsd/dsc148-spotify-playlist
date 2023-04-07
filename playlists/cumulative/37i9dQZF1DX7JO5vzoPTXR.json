@@ -10253,6 +10253,24 @@
     },
     {
       "album": {
+        "name": "y am i not okay",
+        "url": "https://open.spotify.com/album/5lgWTI09lYv6gkik14iGU9"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "y am i not okay",
+      "url": "https://open.spotify.com/track/4mNF1eIIYA0o0OAZMGWrrv"
+    },
+    {
+      "album": {
         "name": "You Don't Have to Save the World",
         "url": "https://open.spotify.com/album/33d42DsDr3yX1lf6WrVP6I"
       },

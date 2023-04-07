@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,585 likes - 236 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,639 likes - 236 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 8 | [Time To Shine](https://open.spotify.com/track/24Hacii5L2jxfNsiFc27xA) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Time To Shine](https://open.spotify.com/album/7dPC7f1EPRte6mRBhCqGPG) | 2:13 |
 | 9 | [Infinite Twin](https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Infinite Twin](https://open.spotify.com/album/3MAH6xeGdAZB1tLDKeTBBB) | 2:52 |
 | 10 | [Souped Up](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Souped Up](https://open.spotify.com/album/6kJ9jCbCagGk0RnCPGAuVu) | 3:00 |
-| 11 | [SkyReach](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [SkyReach](https://open.spotify.com/album/4OK9S0Bz51bNBUnkbFuDmW) | 2:54 |
-| 12 | [Why So Gloomy](https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Why So Gloomy](https://open.spotify.com/album/7ARy3F1vjtuCf4oBB14ZKA) | 2:29 |
-| 13 | [Kushin For the Pushin'](https://open.spotify.com/track/3tlbByLft7wKd7HiYKjdgS) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Kushin For the Pushin'](https://open.spotify.com/album/5AQStC5uGlGAjCu92UJEfp) | 2:18 |
+| 11 | [Juju Beans](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [The Softest Smile](https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0) | 2:25 |
+| 12 | [SkyReach](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [SkyReach](https://open.spotify.com/album/4OK9S0Bz51bNBUnkbFuDmW) | 2:54 |
+| 13 | [Why So Gloomy](https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Why So Gloomy](https://open.spotify.com/album/7ARy3F1vjtuCf4oBB14ZKA) | 2:29 |
 | 14 | [Travolta](https://open.spotify.com/track/4aL6ArytlzfYU49VPTFisX) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Travolta](https://open.spotify.com/album/4MDDzBeqGKO1SSWjVvpQMU) | 3:35 |
 | 15 | [Cassette Tape](https://open.spotify.com/track/34vL3tUAnlevnJR0NyiEkB) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Cassette Tape](https://open.spotify.com/album/0xysheVNUl2zt3wib4ksKh) | 3:32 |
 | 16 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 235 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 236 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MTY4MDYxOTA0MiwwMDAwMDAwMGUxNDFlNzZhZjViMTZlMjg1NmViZDJlMDdmMzVkNTJh`
+Snapshot ID: `MTY4MDc4NzIyMywwMDAwMDAwMDY0ZmNlMzgyMWY2Nzg3MTIyMWNlMTZlMmI0ZGNhMTA3`

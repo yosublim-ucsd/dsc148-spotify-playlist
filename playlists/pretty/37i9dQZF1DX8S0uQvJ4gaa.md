@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,757 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,803 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 |
 | 100 | [Easier Said with Rum](https://open.spotify.com/track/0ldNuRVJEd701YS7trW3ot) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane \(Sampler\)](https://open.spotify.com/album/4V44bvifYsLR3aXWlJuvHs) | 3:22 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDJjZmJhN2QxZjlhYjk1MzZjNGU2YzBlMTA5OGVkMDk3`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDUwMWUxNDZhZWFmZTYwYTNlMzlmMzdhZDc3YzFlNTNm`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX59TepszZ0eE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59TepszZ0eE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59TepszZ0eE)
 
-### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
+### [The Cross](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD?si=tZyYifN0QQCRm7PkfHaPHg">HLE</a>
+> Worship Him this Easter with the best in SA gospel.
 
 90 songs - 9 hr 23 min
 
@@ -68,7 +68,7 @@
 | [The 4th Man](https://open.spotify.com/track/78aypN49XOCv12qx2v35wE) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The 4th Man](https://open.spotify.com/album/3xzLg7y8Bmc02X5IWu8FAM) | 6:37 | 2022-05-12 | 2023-03-18 |
 | [The Call \(Chants\)](https://open.spotify.com/track/5Tiam84rOv9mReGegBJN8y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 7:48 | 2022-04-28 | 2023-03-18 |
 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 | 2020-11-12 |  |
-| [Thel' Umoya](https://open.spotify.com/track/3jOcdERCd7e3JNBqb0iWgS) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/5UKG4D9iQIwpY0ZJyAwm7Z) | 4:04 | 2020-09-01 |  |
+| [Thel' Umoya](https://open.spotify.com/track/3jOcdERCd7e3JNBqb0iWgS) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/5UKG4D9iQIwpY0ZJyAwm7Z) | 4:04 | 2020-09-01 | 2023-04-07 |
 | [Thel' Umoya](https://open.spotify.com/track/7F5JEUzNSmDCWJr0sixvdk) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/6cvqICbcHx32KbIecxwKDa) | 4:04 | 2020-09-01 | 2023-03-12 |
 | [Thelumoya](https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Tshepiso Motaung](https://open.spotify.com/artist/5W1gtTJxIuuNRso18Ng6f0) | [Thelumoya](https://open.spotify.com/album/5YIOuPvc6JJfmGWmQeLEmY) | 5:01 | 2022-02-17 | 2023-03-18 |
 | [Thina Ngemihla \(Live\)](https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH) | [Teboho Moloi](https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0) | [Atamelang Ho Jehova \(Live\)](https://open.spotify.com/album/6Jg7TeqC6VyWcvCX9jYJnD) | 7:44 | 2019-03-04 |  |

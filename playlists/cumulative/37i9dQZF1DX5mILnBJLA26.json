@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=inrUBj1kQ12dmnpB0B8_aQ\">Uncle Waffles</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI?si=LIq2KnQ4RIWCM-AyVTaIzw\">DJ Stokie</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1953,6 +1953,36 @@
     },
     {
       "album": {
+        "name": "My Journey Continues",
+        "url": "https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Ommit",
+          "url": "https://open.spotify.com/artist/7BwJrYm7GIu2HfrUO7gNEg"
+        },
+        {
+          "name": "Sobzeen",
+          "url": "https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw"
+        },
+        {
+          "name": "Zee_nhle",
+          "url": "https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492617,
+      "name": "Awukhuzeki",
+      "url": "https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr"
+    },
+    {
+      "album": {
         "name": "Ay' Kabi",
         "url": "https://open.spotify.com/album/65MS0dZzzg6Vm48k3McavI"
       },
@@ -2468,7 +2498,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 359266,
       "name": "Bangena",
       "url": "https://open.spotify.com/track/1kd92qQFBtN1TGOgXfHwzT"
@@ -2866,7 +2896,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 416574,
       "name": "Bayede (Boarding School Piano Edition)",
       "url": "https://open.spotify.com/track/50HL4pGdwqjjthmKdo0nod"
@@ -3306,6 +3336,36 @@
       "duration_ms": 380731,
       "name": "Bizaza (feat. DJ Biza & Zan'Ten)",
       "url": "https://open.spotify.com/track/4QDW2btyMmz4njDmlK5f43"
+    },
+    {
+      "album": {
+        "name": "Blue String",
+        "url": "https://open.spotify.com/album/3y0EFfPbSpXt9PSU4zqB05"
+      },
+      "artists": [
+        {
+          "name": "Senjay",
+          "url": "https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Josiah De Disciple",
+          "url": "https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420016,
+      "name": "Blue String",
+      "url": "https://open.spotify.com/track/3lWrCS93Zib7rCBLZOWAt7"
     },
     {
       "album": {
@@ -6563,6 +6623,36 @@
     },
     {
       "album": {
+        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350309,
+      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
+    },
+    {
+      "album": {
         "name": "Gedlela",
         "url": "https://open.spotify.com/album/2kkUf0cUj0ZHSXAfIblceB"
       },
@@ -7358,7 +7448,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 385714,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud"
@@ -9536,6 +9626,28 @@
       "duration_ms": 321925,
       "name": "Ithonga",
       "url": "https://open.spotify.com/track/23yo4TFlTbFKy8sBOZuSHr"
+    },
+    {
+      "album": {
+        "name": "iThuba",
+        "url": "https://open.spotify.com/album/5QNx2skgFxbDsh0lbvrBt6"
+      },
+      "artists": [
+        {
+          "name": "Deep London",
+          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420005,
+      "name": "iThuba",
+      "url": "https://open.spotify.com/track/6QWOpX6EeYvJJa5OOPApLD"
     },
     {
       "album": {
@@ -12778,7 +12890,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 407142,
       "name": "Mazza",
       "url": "https://open.spotify.com/track/4Iy2d3vZnwk8KxsoxfqHFg"
@@ -14074,6 +14186,32 @@
       "duration_ms": 542278,
       "name": "Ndaba Zay Izolo",
       "url": "https://open.spotify.com/track/56MI7htxUcLHAoEcOHFOLA"
+    },
+    {
+      "album": {
+        "name": "Ndidikiwe",
+        "url": "https://open.spotify.com/album/4SY8Mg7gQbc8btejl4G9f8"
+      },
+      "artists": [
+        {
+          "name": "Dinky Kunene",
+          "url": "https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI"
+        },
+        {
+          "name": "Sol Phenduka",
+          "url": "https://open.spotify.com/artist/6KSYSas66s64PZDOnb6knq"
+        },
+        {
+          "name": "JL SA",
+          "url": "https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411528,
+      "name": "Ndidikiwe",
+      "url": "https://open.spotify.com/track/1FCIIGE9zSdAgNYEuo1hcK"
     },
     {
       "album": {
@@ -15476,7 +15614,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 254867,
       "name": "Okuningi",
       "url": "https://open.spotify.com/track/4FX8XJFsV7hfZLR0Xutx3Y"
@@ -17442,7 +17580,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 263313,
       "name": "Shebeleza",
       "url": "https://open.spotify.com/track/4xazJRHlWjFyKfDMYiWLeg"
@@ -19605,6 +19743,44 @@
     },
     {
       "album": {
+        "name": "Tetemeka",
+        "url": "https://open.spotify.com/album/2EbzH3ohVJ0wTVgH7z4Pdo"
+      },
+      "artists": [
+        {
+          "name": "PureVibe",
+          "url": "https://open.spotify.com/artist/2hjHwiL6ln5kCbNy5HvnuE"
+        },
+        {
+          "name": "Dj Lindash",
+          "url": "https://open.spotify.com/artist/1WFoFIdt46yansQReo1Z6p"
+        },
+        {
+          "name": "Ms Bune",
+          "url": "https://open.spotify.com/artist/5aMX3Iow7DNY3JqhcPt7id"
+        },
+        {
+          "name": "Dj VansS",
+          "url": "https://open.spotify.com/artist/2EVLOpUXPN7NcNIYMLt9xO"
+        },
+        {
+          "name": "Kay_Gee07",
+          "url": "https://open.spotify.com/artist/18JuXl21jATncCY24x5j3g"
+        },
+        {
+          "name": "Dess Da Deejay",
+          "url": "https://open.spotify.com/artist/0osDXEzoaMpID6en1b3khG"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349350,
+      "name": "Tetemeka",
+      "url": "https://open.spotify.com/track/06BqaF1NLYTCf3yNUblRO1"
+    },
+    {
+      "album": {
         "name": "Thaba (Ke Chenchitse)",
         "url": "https://open.spotify.com/album/5AMV1aKH7C5GhRckyE7JJy"
       },
@@ -21722,7 +21898,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 314352,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/52dGtgbpxGvdxd4YzqMLe1"
@@ -23154,6 +23330,36 @@
       "duration_ms": 288849,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+    },
+    {
+      "album": {
+        "name": "My Journey Continues",
+        "url": "https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Ommit",
+          "url": "https://open.spotify.com/artist/7BwJrYm7GIu2HfrUO7gNEg"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386441,
+      "name": "Waze wamuhle",
+      "url": "https://open.spotify.com/track/0NOynuuhIhaLFABegJ0TyS"
     },
     {
       "album": {

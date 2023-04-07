@@ -1,13 +1,53 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1007721,
+  "num_followers": 1007865,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyMDgxMywwMDAwMDAwMDZkMDQyODIzZTNmZjIyMmFlNTg3M2M4OWUxOGQ3Mzk2",
+  "snapshot_id": "MTY4MDgxMTk4OCwwMDAwMDAwMDRmODVmZWUyM2RkNDExN2ZkMTdkZWI1NWY2MjEwNDgx",
   "tracks": [
+    {
+      "added_at": "2023-04-06 20:13:08",
+      "album": {
+        "name": "THE GREATEST LIVING SHOW",
+        "url": "https://open.spotify.com/album/2N9F4BufajXY3H3bVVboo5"
+      },
+      "artists": [
+        {
+          "name": "\u7cf8\u5947\u306f\u306a",
+          "url": "https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU"
+        },
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 275798,
+      "name": "THE GREATEST LIVING SHOW",
+      "url": "https://open.spotify.com/track/6e9MycX711QO2gGN0EIhpq"
+    },
+    {
+      "added_at": "2023-04-06 19:00:34",
+      "album": {
+        "name": "Out Of The Rain",
+        "url": "https://open.spotify.com/album/2lz42JvrrwvTr4yKYpODLY"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 193232,
+      "name": "Out Of The Rain",
+      "url": "https://open.spotify.com/track/27xLRjNOZM0vrLkiwMtAsA"
+    },
     {
       "added_at": "2023-03-06 16:40:13",
       "album": {
@@ -47,22 +87,6 @@
       "duration_ms": 99804,
       "name": "Demon (featuring $NOT)",
       "url": "https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU"
-    },
-    {
-      "added_at": "2023-03-02 18:52:46",
-      "album": {
-        "name": "Monkeys",
-        "url": "https://open.spotify.com/album/6rgFsAR7t0fOKI5wWSQrSC"
-      },
-      "artists": [
-        {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Monkeys",
-      "url": "https://open.spotify.com/track/4mPAxO918YuLgviTMMqw8P"
     },
     {
       "added_at": "2023-01-19 17:48:37",

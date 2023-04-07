@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=53rkvfvORuektsKbxqLlAA\">Ssaru </a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA?si=AHsyafTKRw2FMUh7EQKhfg\">Fathermoh</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Big Bumpa",
+        "url": "https://open.spotify.com/album/2Mk9n4mfe09ZpDTBa3fe7R"
+      },
+      "artists": [
+        {
+          "name": "Pulalah Master",
+          "url": "https://open.spotify.com/artist/5KwGtxsM9DoNoDYWM1QEhT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "Big Bumpa",
+      "url": "https://open.spotify.com/track/5Cz0TBJtKm79Q3X325U1Gc"
+    },
+    {
+      "album": {
         "name": "BIZZ NI BIZZ",
         "url": "https://open.spotify.com/album/6pBjx6fARnklsLoPDBErLF"
       },
@@ -966,10 +984,36 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+    },
+    {
+      "album": {
+        "name": "Utu Uzima",
+        "url": "https://open.spotify.com/album/48rtE7h8bIv7xfVZEX7J2U"
+      },
+      "artists": [
+        {
+          "name": "Jua Cali",
+          "url": "https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz"
+        },
+        {
+          "name": "BussaJ",
+          "url": "https://open.spotify.com/artist/3aiKuKY1aR478HxnwlG2t7"
+        },
+        {
+          "name": "Mbithi",
+          "url": "https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Cheza Ki Wewe",
+      "url": "https://open.spotify.com/track/2gBrQ5pf0LzbkBAwNClf1N"
     },
     {
       "album": {
@@ -4840,7 +4884,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-07",
       "duration_ms": 166582,
       "name": "SO fine",
       "url": "https://open.spotify.com/track/2ciLZrKfJWnMSCLNynhDYc"

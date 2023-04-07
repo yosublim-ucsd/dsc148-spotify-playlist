@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Nardo Wick
 
-650 songs - 1 day 7 hr 11 min
+651 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [NWA](https://open.spotify.com/track/5aMQd5qYidZ7Y5y98vGwuo) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [NWA](https://open.spotify.com/album/3oLQ2x8g3dVJGWKkPXsvgv) | 2:19 | 2022-12-09 | 2022-12-17 |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/5HSsOCyML8FFIviP9ByHCF) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2KkDQOnRGyK0oh0sSenizj) | 3:12 | 2022-01-07 | 2022-01-22 |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2022-01-21 | 2022-02-26 |
+| [Off The Lot](https://open.spotify.com/track/780YBVmrn3iidfrWMAD5Xt) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Off The Lot](https://open.spotify.com/album/7dgfaiBAdsWNvEw8GWGkQn) | 4:17 | 2023-03-31 |  |
 | [On A Tee \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Back From The Dead](https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt) | 2:42 | 2021-12-24 | 2022-01-22 |
 | [On A Tee \(with Icewear Vezzo\) \- Extended Version](https://open.spotify.com/track/3THhDihqhM6tWpPEMZsxkg) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [On A Tee \(with Icewear Vezzo\) \[Extended Version\]](https://open.spotify.com/album/0Vg6ftTMSD0yb1Uf10O635) | 3:18 | 2022-04-18 | 2022-05-07 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-18 | 2023-03-28 |
