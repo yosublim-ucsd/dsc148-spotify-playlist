@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 100739,
+  "num_followers": 100898,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDdmMjRkMzUwYjRjNjk5MmQ1M2NiYjM5YjI2YjdlZjE0",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDMxMzEwYThmZjU4NWNjODg1ODNlODExNmJjNTFjMGE3",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Gospel For A New Century",
-      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Remember My Song",
         "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Gospel For A New Century",
+      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -443,6 +443,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Journey in Satchidananda",
+        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
+      },
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 396066,
+      "name": "Journey In Satchidananda",
+      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Journey in Satchidananda",
-        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
-      },
-      "artists": [
-        {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
-        },
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 396066,
-      "name": "Journey In Satchidananda",
-      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Szikra",
-        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
-      },
-      "artists": [
-        {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        }
-      ],
-      "duration_ms": 401573,
-      "name": "Szikra",
-      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Szikra",
+        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "duration_ms": 401573,
+      "name": "Szikra",
+      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Little Dragon",
+        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 273546,
+      "name": "Constant Surprises",
+      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
         "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Little Dragon",
-        "url": "https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 273546,
-      "name": "Constant Surprises",
-      "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Wisdom Through Music",
+        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 318626,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Nterini - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 231923,
+      "name": "Nterini - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Um Viol\u00e3o em Primeiro Plano",
         "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
       },
@@ -1055,22 +1087,6 @@
       "duration_ms": 252413,
       "name": "Asa Branca",
       "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Wisdom Through Music",
-        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 318626,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1143,22 +1159,6 @@
       "duration_ms": 397477,
       "name": "Jazz Vol. 1",
       "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Nterini - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 231923,
-      "name": "Nterini - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
       },
       "artists": [
         {
-          "name": "Mr. Mitch",
-          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
         }
       ],
-      "duration_ms": 265378,
-      "name": "In the Hills",
-      "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
     }
   ],
   "unique_name": "Turntable",

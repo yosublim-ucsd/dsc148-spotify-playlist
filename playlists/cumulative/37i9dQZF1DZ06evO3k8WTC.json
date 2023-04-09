@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Diamant\u00e9",
+        "url": "https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209455,
+      "name": "Amid Ethics",
+      "url": "https://open.spotify.com/track/0J1ha7ikMV5lN3HvKq6iOk"
+    },
+    {
+      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF"
       },

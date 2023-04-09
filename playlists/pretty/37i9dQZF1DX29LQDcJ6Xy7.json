@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 268333,
+  "num_followers": 268771,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMGI4MDQwYWRiYjUyNGU4OWRjMzNlNTg3YzE3MDNjYzM2",
+  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMGYyNDdhNzg0MzYwZDlmMDFkOTIxNWNkMGIyYTI4Nzhm",
   "tracks": [
     {
       "added_at": "2023-01-31 18:51:13",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 218203,
       "name": "Lakes of Flame",
       "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Lust (Special Remastered Band Edition)",
-        "url": "https://open.spotify.com/album/568RScapveqsGN0tCmoUKu"
-      },
-      "artists": [
-        {
-          "name": "Lords Of Acid",
-          "url": "https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w"
-        }
-      ],
-      "duration_ms": 352586,
-      "name": "I Sit on Acid",
-      "url": "https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "PUMPED UP KICKS",
         "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 271666,
       "name": "PUMPED UP KICKS",
       "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Lust (Special Remastered Band Edition)",
+        "url": "https://open.spotify.com/album/568RScapveqsGN0tCmoUKu"
+      },
+      "artists": [
+        {
+          "name": "Lords Of Acid",
+          "url": "https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w"
+        }
+      ],
+      "duration_ms": 352586,
+      "name": "I Sit on Acid",
+      "url": "https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "FullBlackHabit",
-        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
-      },
-      "artists": [
-        {
-          "name": "16Volt",
-          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Suffering You",
-      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "TILL THE END",
         "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 314000,
       "name": "TILL THE END",
       "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "FullBlackHabit",
+        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
+      },
+      "artists": [
+        {
+          "name": "16Volt",
+          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Suffering You",
+      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
-      },
-      "artists": [
-        {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "For the Beaten",
         "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 211450,
       "name": "For the Beaten",
       "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+      },
+      "artists": [
+        {
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
+        "name": "Ich wei\u00df es nicht",
+        "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
+      },
+      "artists": [
+        {
+          "name": "Lindemann",
+          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
+        }
+      ],
+      "duration_ms": 289451,
+      "name": "Ich wei\u00df es nicht",
+      "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 286974,
       "name": "Prey & Obey",
       "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
-        "name": "Ich wei\u00df es nicht",
-        "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
-      },
-      "artists": [
-        {
-          "name": "Lindemann",
-          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
-        }
-      ],
-      "duration_ms": 289451,
-      "name": "Ich wei\u00df es nicht",
-      "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
     },
     {
       "added_at": "2023-01-31 18:51:13",

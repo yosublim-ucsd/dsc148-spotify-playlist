@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Hit-Boy, Nas",
+  "description": "Damn son, where'd ya find this? Cover: Madlib, Meyhem Lauren, DJ Muggs",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -39,7 +39,7 @@
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187500,
+      "duration_ms": 186907,
       "name": "101 Razors (feat. Method Man)",
       "url": "https://open.spotify.com/track/5gAzHHzDAnuq9Ubf49OOZL"
     },
@@ -647,6 +647,32 @@
     },
     {
       "album": {
+        "name": "Champagne For Breakfast",
+        "url": "https://open.spotify.com/album/5pA2URj3rPHWDoSnInQpjD"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
+        },
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205068,
+      "name": "Big Money",
+      "url": "https://open.spotify.com/track/4TVhyPsVcbNP2xZcmnSZrN"
+    },
+    {
+      "album": {
         "name": "The Tunnel",
         "url": "https://open.spotify.com/album/3UsJV5yxzjuPv6O2pfjPSU"
       },
@@ -1059,6 +1085,32 @@
     },
     {
       "album": {
+        "name": "Candle of the Devil",
+        "url": "https://open.spotify.com/album/4DawXkWA7JwmDoF07SteyI"
+      },
+      "artists": [
+        {
+          "name": "R-Mean",
+          "url": "https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194136,
+      "name": "Candle of the Devil",
+      "url": "https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -1176,7 +1228,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180440,
       "name": "Change",
       "url": "https://open.spotify.com/track/687XycCZVWFqDMG62uBjDE"
@@ -1872,7 +1924,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 203419,
       "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
       "url": "https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn"
@@ -2894,7 +2946,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 252306,
       "name": "I Wish - Radio Edit",
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
@@ -3268,6 +3320,36 @@
       "duration_ms": 127351,
       "name": "Jesus Piece",
       "url": "https://open.spotify.com/track/4cbIelDoFeGA6yvHWZXxLE"
+    },
+    {
+      "album": {
+        "name": "JET-LAGGED (feat. Dessy Hinds)",
+        "url": "https://open.spotify.com/album/200JG0yd1VQruQkuFK7tQV"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        },
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Aaron Rose",
+          "url": "https://open.spotify.com/artist/1IY0Lt7LmEXwWOrD4vpkxe"
+        },
+        {
+          "name": "Dessy Hinds",
+          "url": "https://open.spotify.com/artist/6t1fFxQU1MsTjxteXhBNgl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "JET-LAGGED (feat. Dessy Hinds)",
+      "url": "https://open.spotify.com/track/3eb0YWYjZve514IGnh14FJ"
     },
     {
       "album": {
@@ -3914,7 +3996,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201038,
       "name": "NAME YOUR PRICE",
       "url": "https://open.spotify.com/track/5qVxrO25PRocTo6DlYI5Kf"
@@ -3936,6 +4018,24 @@
       "duration_ms": 177949,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
+    },
+    {
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/74bJAFB6hCl8XdTPc8fDqp"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159974,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/6LTiwe2ouGW36IclJ465qL"
     },
     {
       "album": {
@@ -4442,7 +4542,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 111325,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2PDuJhsbXd88akE6VejIFK"
@@ -4889,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "Quarters",
+        "url": "https://open.spotify.com/album/4kjptLBuZcavHOjEX1Al65"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148584,
+      "name": "Quarters",
+      "url": "https://open.spotify.com/track/0BYSlACvBBTSjSO6rezjGp"
+    },
+    {
+      "album": {
         "name": "Re-Rock",
         "url": "https://open.spotify.com/album/51D6O4RF8eiWQlVPID5wTA"
       },
@@ -4904,6 +5022,24 @@
       "duration_ms": 177230,
       "name": "Re-Rock",
       "url": "https://open.spotify.com/track/3j2tYuoeNBFx8mkTZFX7LB"
+    },
+    {
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261266,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "album": {
@@ -5522,7 +5658,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 218333,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"
@@ -5588,7 +5724,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 256926,
       "name": "Slipping Into Darkness",
       "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
@@ -5960,7 +6096,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 101392,
       "name": "Suppression",
       "url": "https://open.spotify.com/track/7xOgA5HHJwdw56EqWRKBJ5"
@@ -6064,7 +6200,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 303575,
       "name": "Szechuan Capital",
       "url": "https://open.spotify.com/track/5nK2Nmo5cNHB7FeBddWWTq"
@@ -6687,6 +6823,32 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4KpkCdySMe6TWjN4rQln3a"
+      },
+      "artists": [
+        {
+          "name": "XL the Band",
+          "url": "https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl"
+        },
+        {
+          "name": "Swollen Members",
+          "url": "https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM"
+        },
+        {
+          "name": "Alpha Omega",
+          "url": "https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207871,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7CbQmo7ePU46TTC1Wz6TOi"
+    },
+    {
+      "album": {
         "name": "Trouble Man.",
         "url": "https://open.spotify.com/album/3OjYPZsH6dkXft8n2bpn3z"
       },
@@ -6786,6 +6948,32 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "album": {
+        "name": "Uncomfortable Truth (feat. Millyz)",
+        "url": "https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL"
+      },
+      "artists": [
+        {
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239995,
+      "name": "Uncomfortable Truth (feat. Millyz)",
+      "url": "https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX"
     },
     {
       "album": {
@@ -6986,6 +7174,24 @@
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216884,
+      "name": "WHAT A DAY",
+      "url": "https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF"
     },
     {
       "album": {

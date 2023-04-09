@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: La Fuente, Ronnie Flex, Kraantje Pappie
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,471 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,494 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
 | 40 | [Doe Wat Je Doet](https://open.spotify.com/track/5wwjB3x0ULGlZ4o2xJwqzM) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Doe Wat Je Doet](https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL) | 2:14 |
 
-Snapshot ID: `MTY4MDgxODQwMCwwMDAwMDAwMDc3YWFiNzI5NDM2ZjMyY2VmYTBhNzQ2ZTAwMDg2ZmUz`
+Snapshot ID: `MTY4MDg2NjYzNSwwMDAwMDAwMDg5MmFmY2IxOWJmYzI5M2Q1MTkwODM3ZjhhN2QyYjRh`

@@ -4,11 +4,12 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-302 songs - 18 hr 20 min
+303 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Years](https://open.spotify.com/track/2KKsKMLBt0b6ophWUp91ba) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [7 Years](https://open.spotify.com/album/2VybthbA0Rsm4lA3tzPXQe) | 3:08 | 2021-11-12 | 2022-01-06 |
+| [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-07 |  |
 | [A Long December](https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [A Long December](https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt) | 4:20 | 2021-11-12 |  |
 | [A Place In The Sun](https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 4:16 | 2022-07-27 |  |
 | [A Place In The Sun](https://open.spotify.com/track/6bihRFJEMi8nDcC2zIwQKp) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jack Johnson with Paula Fuga](https://open.spotify.com/artist/6C2EeNTJVptYpWFqeh6ifU) | [Why Not](https://open.spotify.com/album/6EewmAh99YpSBvAfC8nV8o) | 4:16 | 2022-07-27 | 2022-11-14 |

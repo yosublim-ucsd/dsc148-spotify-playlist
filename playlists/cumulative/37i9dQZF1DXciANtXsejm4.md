@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-195 songs - 11 hr 42 min
+197 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Con la Misma Moneda](https://open.spotify.com/track/3hI96DchNoc3QXMx3PK6UO) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/6nOG2MUSR7IFcrId5NbD70) | 4:26 | 2022-04-15 | 2022-07-29 |
 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2022-07-15 |  |
 | [Conmigo Te Gustó](https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:13 | 2022-04-15 |  |
-| [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 | 2022-04-15 |  |
+| [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 | 2022-04-15 | 2023-04-09 |
 | [Convenceme](https://open.spotify.com/track/3EKvl4YOsLWYmTLLhXYwjZ) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Convenceme](https://open.spotify.com/album/71feC1wlpkAOQQSKfds8Ga) | 3:40 | 2022-06-03 | 2022-07-09 |
 | [Corazon Mentiroso](https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/5VHWH5EkRf5brffwBiBw3q) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 | 2022-07-15 |  |
@@ -54,7 +54,7 @@
 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 | 2022-04-15 | 2022-07-29 |
 | [Donde Estará Mi Primavera](https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A), [Leo Matioli](https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 4:27 | 2022-04-15 | 2022-07-29 |
 | [Donde Estará Mi Primavera](https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:21 | 2022-07-15 |  |
-| [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 | 2022-07-15 |  |
+| [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 | 2022-07-15 | 2023-04-09 |
 | [Dos Hombres y un Destino](https://open.spotify.com/track/7soeaS12AHoVO44S9Lys5l) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/1Sj1HLlaB8QCsAJeRxqufW) | 3:09 | 2022-06-03 | 2022-07-29 |
 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 | 2022-06-17 | 2022-07-12 |
 | [Dos Veces](https://open.spotify.com/track/0UG7McSo7BCbyWiAqeggFD) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dos Veces](https://open.spotify.com/album/1r06JQ4uRLVdKcTwpTlNgc) | 3:29 | 2022-09-23 | 2023-03-10 |
@@ -92,6 +92,7 @@
 | [Háblame de Ti](https://open.spotify.com/track/3XJ6Nr3h8aypTqZs8pb4sW) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/3RUfkmD1CjKQqoauJQAAg2) | 3:31 | 2022-06-03 | 2022-07-25 |
 | [Imposible Olvidarte](https://open.spotify.com/track/7rDdwH8FRnHHsWZSsLJ7fB) | [Sergio Moran](https://open.spotify.com/artist/5Epal131XDOm4RrZYx6kDQ) | [Como Tú](https://open.spotify.com/album/6CO9vS875lEVjA2HDgyCTL) | 3:20 | 2022-06-03 | 2022-07-29 |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2022-04-15 | 2022-06-22 |
+| [Juanita bonita / Por ser pobre / Mentirosa no eres para mí \- Enganchaditos en vivo 3](https://open.spotify.com/track/3an2GneYCpU1qh9q7fcS2K) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Juanita bonita / Por ser pobre / Mentirosa no eres para mí \(Enganchaditos en vivo 3\)](https://open.spotify.com/album/2jM5kmlcSblZkM0C8pdde7) | 6:24 | 2023-04-07 |  |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2022-04-15 |  |
 | [La Ausencia de Tu Amor](https://open.spotify.com/track/2Chtst7fHm8Cb47cApyXyT) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n) | [La Ausencia de Tu Amor](https://open.spotify.com/album/3QUTBR1bX44OhhPRpnm2uO) | 3:23 | 2022-06-10 | 2022-06-12 |
 | [La Bailadora](https://open.spotify.com/track/7sSSD3WEkXGqFaOoElmZlJ) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Cada Vez Mejor](https://open.spotify.com/album/3rCt9L7lbzOn1bRvp6b7w4) | 3:17 | 2022-06-17 | 2022-06-27 |
@@ -172,6 +173,7 @@
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2022-04-15 |  |
 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 | 2022-04-15 | 2022-07-17 |
 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 | 2022-04-15 | 2023-03-12 |
+| [Tan Sólo Amantes](https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6) | 3:56 | 2023-04-07 |  |
 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 | 2022-06-03 |  |
 | [Te Perdono](https://open.spotify.com/track/46SixvsqGTjE1dufNyjTrR) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Te Perdono](https://open.spotify.com/album/2ZT6052xVwoQPd8592JsZV) | 3:24 | 2022-04-15 | 2022-07-13 |
 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 | 2022-06-03 | 2022-07-27 |

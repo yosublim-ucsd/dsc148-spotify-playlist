@@ -4,7 +4,7 @@
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 59 min
+51 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Nunca y Pico](https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nunca y Pico](https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ) | 3:23 | 2023-04-06 |  |
 | [Permitame](https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Permitame](https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB) | 3:05 | 2023-04-06 |  |
 | [Pierdo la Cabeza \- Remix](https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Pierdo la Cabeza \(Remix\)](https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH) | 4:47 | 2023-04-06 |  |
-| [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 | 2023-04-06 |  |
+| [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 | 2023-04-06 | 2023-04-09 |
+| [Por Mi Reggae Muero 2020](https://open.spotify.com/track/09yuQ2v1mHGWZVrpQB1Oj4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:34 | 2023-04-08 |  |
 | [Poropopompon](https://open.spotify.com/track/6taOZoNSjPLewGblEv0p0u) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:35 | 2023-04-06 |  |
 | [Rómpela](https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [One Six](https://open.spotify.com/artist/2mObH2CyMvLbmG5RQCeO0d) | [Rómpela](https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd) | 3:04 | 2023-04-06 |  |
 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2023-04-06 |  |

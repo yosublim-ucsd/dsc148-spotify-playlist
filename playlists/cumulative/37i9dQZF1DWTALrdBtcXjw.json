@@ -475,6 +475,32 @@
     },
     {
       "album": {
+        "name": "Blue J",
+        "url": "https://open.spotify.com/album/7C7h0ao54dU2K4GI3fopSW"
+      },
+      "artists": [
+        {
+          "name": "Niels Vincentz",
+          "url": "https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF"
+        },
+        {
+          "name": "Danny Grissett",
+          "url": "https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529221,
+      "name": "Blue J",
+      "url": "https://open.spotify.com/track/5x35uH31Olzlei17YL0Ybe"
+    },
+    {
+      "album": {
         "name": "The New Classic Trio",
         "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
@@ -1092,7 +1118,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 461278,
       "name": "East of the Sun (And West of the Moon)",
       "url": "https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH"
@@ -2470,7 +2496,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 422066,
       "name": "London Blues",
       "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
@@ -3828,7 +3854,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 390706,
       "name": "Ron's Place",
       "url": "https://open.spotify.com/track/0zMHFQZiWaSLsKweL8CRI7"

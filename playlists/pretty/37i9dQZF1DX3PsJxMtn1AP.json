@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...",
-  "num_followers": 54945,
+  "num_followers": 55115,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDMwOTI4MiwwMDAwMDAwMDE3YzU1NDA4ZTA2NzVlM2NjZGVjZGIwZmQ3NmRkNGUx",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDdlNmNjODc4M2ZlZDIzZWUxNzc2YjNkMjhhMzU2YzQ4",
   "tracks": [
     {
       "added_at": "2023-03-28 05:24:00",
@@ -63,6 +63,38 @@
       "duration_ms": 240400,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2023-03-23 20:24:35",
@@ -127,26 +159,6 @@
       "duration_ms": 178275,
       "name": "vampiro",
       "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
-    },
-    {
-      "added_at": "2023-02-21 01:45:02",
-      "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/3x64qRuawXWd1dSvsbDE1T"
-      },
-      "artists": [
-        {
-          "name": "Mila La Morena",
-          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
-        },
-        {
-          "name": "C\u2206IRNS",
-          "url": "https://open.spotify.com/artist/0VWzC7LRAtMuSYC5wndrPb"
-        }
-      ],
-      "duration_ms": 265187,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/74F3bv0liKu2QN8MjqqDP9"
     },
     {
       "added_at": "2023-03-31 17:50:03",
@@ -221,6 +233,22 @@
       "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
     },
     {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "H.B.Y.",
+        "url": "https://open.spotify.com/album/5M9C4VlFYEbRHI5qJhj57T"
+      },
+      "artists": [
+        {
+          "name": "Setwun",
+          "url": "https://open.spotify.com/artist/2Qv1W2j1iK6SHjsDEsXST6"
+        }
+      ],
+      "duration_ms": 254055,
+      "name": "H.B.Y.",
+      "url": "https://open.spotify.com/track/6B12vGcosQHeGcuXSNDjH6"
+    },
+    {
       "added_at": "2023-04-01 00:34:41",
       "album": {
         "name": "Mamita Santa",
@@ -241,20 +269,28 @@
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
-      "added_at": "2023-02-03 05:03:32",
+      "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+      "duration_ms": 181818,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
       "added_at": "2023-02-03 05:03:32",
@@ -271,22 +307,6 @@
       "duration_ms": 180146,
       "name": "Echolalia",
       "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
-    },
-    {
-      "added_at": "2023-02-17 03:30:26",
-      "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 216374,
-      "name": "Pretty In Possible",
-      "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
     },
     {
       "added_at": "2023-03-29 18:29:49",
@@ -343,22 +363,6 @@
       "duration_ms": 288519,
       "name": "Futuro Incierto",
       "url": "https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ"
-    },
-    {
-      "added_at": "2023-03-16 17:36:18",
-      "album": {
-        "name": "Strong Emotions",
-        "url": "https://open.spotify.com/album/4VuK9WBr3m6VgYorAK69iE"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 227497,
-      "name": "Strong Emotions",
-      "url": "https://open.spotify.com/track/5vESv7xXAIhEL9UA1N6uav"
     },
     {
       "added_at": "2023-03-16 23:33:51",
@@ -593,26 +597,6 @@
       "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
     },
     {
-      "added_at": "2023-02-03 04:51:05",
-      "album": {
-        "name": "Porque Yo",
-        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
-    },
-    {
       "added_at": "2023-03-28 05:36:43",
       "album": {
         "name": "Strange Salsa",
@@ -769,20 +753,20 @@
       "url": "https://open.spotify.com/track/2uJbLXWgxBEgkUtz2Ie07l"
     },
     {
-      "added_at": "2023-02-17 03:23:17",
+      "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Mousetrap",
-        "url": "https://open.spotify.com/album/6rmfh4B7AAhwK3X076zPex"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
       },
       "artists": [
         {
-          "name": "Jackie Mendoza",
-          "url": "https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Mousetrap",
-      "url": "https://open.spotify.com/track/2YHUd3ru7TjevD6BNRu2mD"
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2023-02-28 04:35:15",
@@ -803,26 +787,6 @@
       "duration_ms": 251428,
       "name": "Regresar (Vibes4YourSoul Remix)",
       "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
-    },
-    {
-      "added_at": "2023-02-14 03:11:01",
-      "album": {
-        "name": "Cumbia Espectro",
-        "url": "https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Cumbia Espectro",
-      "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
     },
     {
       "added_at": "2023-03-23 20:31:32",
@@ -881,28 +845,56 @@
       "url": "https://open.spotify.com/track/2Nv9GGqfvggAUo5UgcMHPZ"
     },
     {
-      "added_at": "2023-02-28 03:47:42",
+      "added_at": "2023-04-07 06:00:00",
       "album": {
-        "name": "Just Leave The Past Behind",
-        "url": "https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU"
+        "name": "4th Feb (Stay Awake) / BC",
+        "url": "https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw"
       },
       "artists": [
         {
-          "name": "Genis",
-          "url": "https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw"
-        },
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        },
-        {
-          "name": "Lasser Drakar",
-          "url": "https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Just Leave The Past Behind - Human Version",
-      "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Assumptions (Kaytranada Edit)",
+        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 288097,
+      "name": "Assumptions - Kaytranada Edit",
+      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
     }
   ],
   "unique_name": "Kaleidoscope",

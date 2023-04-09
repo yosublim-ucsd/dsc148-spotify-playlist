@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 162711,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/1mDgpMsz6fDE7DDZIV9kW3"
@@ -2700,6 +2700,52 @@
       "duration_ms": 194543,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
+    },
+    {
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Zkrat Kratochv\u00edl",
+          "url": "https://open.spotify.com/artist/5zPcA8oC80lt3ykHdP8Dpe"
+        },
+        {
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
+        },
+        {
+          "name": "LUISA",
+          "url": "https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H"
+        },
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/4RefYXMwgQ9ygWvQLmcphN"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407714,
+      "name": "Bo\u017e\u00ed Ml\u00fdny Melou Furt",
+      "url": "https://open.spotify.com/track/4uFaGNP4ei0VK7VC7BVbZ2"
     },
     {
       "album": {
@@ -3416,7 +3462,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 153706,
       "name": "Chcem ma\u0165 s tebou bejby",
       "url": "https://open.spotify.com/track/0oieWmZlfKdi2oxJP9ihk7"
@@ -10677,6 +10723,32 @@
     },
     {
       "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "58G",
+          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207433,
+      "name": "Kolikr\u00e1t Je\u0161t\u011b?",
+      "url": "https://open.spotify.com/track/2fnqfcdU2p44k6DvTbFtrg"
+    },
+    {
+      "album": {
         "name": "BIG BOY FM",
         "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
       },
@@ -10736,6 +10808,44 @@
       "duration_ms": 236422,
       "name": "Kool G Rap",
       "url": "https://open.spotify.com/track/7xGPz2CK5NYPQWk2pmgbXB"
+    },
+    {
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        },
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
+        },
+        {
+          "name": "Koky",
+          "url": "https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq"
+        },
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203861,
+      "name": "KRTEK MONEY LIFE",
+      "url": "https://open.spotify.com/track/02jEjVDp7OkIXGtMGsyf8c"
     },
     {
       "album": {
@@ -14845,6 +14955,36 @@
     },
     {
       "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        },
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247751,
+      "name": "Nikdy U\u017e Nebudu Ok",
+      "url": "https://open.spotify.com/track/6CooPKfANsm7t59rG4FLn5"
+    },
+    {
+      "album": {
         "name": "Detektor III",
         "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
       },
@@ -15106,10 +15246,36 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201540,
       "name": "Novej Sv\u011bt",
       "url": "https://open.spotify.com/track/3MmyJIZfTe5abuArcvoJz8"
+    },
+    {
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201540,
+      "name": "Novej Sv\u011bt",
+      "url": "https://open.spotify.com/track/5kw5hKBwIUgjAu97QAt0hS"
     },
     {
       "album": {
@@ -16898,7 +17064,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 204884,
       "name": "PRINCEZN\u00c1",
       "url": "https://open.spotify.com/track/3PPNM0uQfUTJkiyAYf91nf"
@@ -17886,6 +18052,40 @@
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
+    },
+    {
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218207,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1cPOqwSk4Fn3w9KO3HkO46"
     },
     {
       "album": {
@@ -20404,7 +20604,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -21080,7 +21280,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 170825,
       "name": "Tatiana",
       "url": "https://open.spotify.com/track/1hwXuNabpH3GDnHQhfiIfL"

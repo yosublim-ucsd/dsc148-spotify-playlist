@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "OTRA CANCI\u00d3N DE AMOR",
+        "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100440,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI"
+    },
+    {
+      "album": {
         "name": "CONTIGO LA PASO CABRON",
         "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
       },
@@ -998,6 +1020,24 @@
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/2htHYthk6QEhaaV7Vwjj1S"
+    },
+    {
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "album": {
@@ -1856,6 +1896,32 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco"
+    },
+    {
+      "album": {
+        "name": "Vuelves A Llamar",
+        "url": "https://open.spotify.com/album/4RObhJeSMtfft3ALBO4Pwg"
+      },
+      "artists": [
+        {
+          "name": "PPMARI",
+          "url": "https://open.spotify.com/artist/6FA353e9NUHzoa0z1r9bbq"
+        },
+        {
+          "name": "Jozue",
+          "url": "https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG"
+        },
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Vuelves A Llamar",
+      "url": "https://open.spotify.com/track/6FBG0d4cNJUqp0JpXAf0S8"
     },
     {
       "album": {

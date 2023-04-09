@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR?si=VneCXskhQoyWZaGGDCyq5A"> Popcaan</a> and  <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=hNHTKfDsRp\-22BKOglAHgQ"> Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,866 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,072 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

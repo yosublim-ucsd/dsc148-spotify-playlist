@@ -4,7 +4,7 @@
 
 > Gentle, relaxing <a href="spotify:genre:classical">classical</a> music.
 
-90 songs - 7 hr 58 min
+91 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Piano Concerto No\. 5 in E\-Flat Major, Op\. 73 "Emperor": II\. Adagio un poco mosso](https://open.spotify.com/track/7IKq4yNGvAe5KjKwaOW24L) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL), [Mahler Chamber Orchestra](https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo) | [The Beethoven Journey: Piano Concerto No\. 5 in E\-Flat Major, Op\. 73 & Fantasia in C Minor, Op\. 80 "Choral Fantasy"](https://open.spotify.com/album/6zQ3TAOuJ1iIXiXGycCpYQ) | 7:20 | 2020-10-19 |  |
 | [Piano Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile](https://open.spotify.com/track/5AGfrGKs22TfzxquyQCuVc) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stephen Kovacevich](https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw) | [Learn to Play Classical Piano](https://open.spotify.com/album/1NmJYBS46CahRQrF6AN6QS) | 5:33 | 2020-10-19 | 2022-11-13 |
 | [Pièces Lyriques, Op\. 47 No\. 3: Mélodie](https://open.spotify.com/track/6G6tIDO3rB8FktjkM70GGd) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Grieg: Concerto Pour Piano & Pièces Lyriques](https://open.spotify.com/album/63Vpar9SVMT2bnkS7sSXsN) | 4:16 | 2020-10-19 |  |
-| [Planted Consciousness](https://open.spotify.com/track/6yCYFXg5iUxSf2JYDHLooQ) | [Banton Tune](https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN) | [Planted Consciousness](https://open.spotify.com/album/4UOr6Y8APxNdRvMmCvvm7e) | 3:24 | 2023-02-09 |  |
+| [Planted Consciousness](https://open.spotify.com/track/1nYn6YOpRFwn0cD0Z6M58Y) | [Banton Tune](https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN) | [Planted Consciousness](https://open.spotify.com/album/1sXVQVk18NRpjNyOcFs2O5) | 3:24 | 2023-02-09 |  |
+| [Planted Consciousness](https://open.spotify.com/track/6yCYFXg5iUxSf2JYDHLooQ) | [Banton Tune](https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN) | [Planted Consciousness](https://open.spotify.com/album/4UOr6Y8APxNdRvMmCvvm7e) | 3:24 | 2023-02-09 | 2023-04-09 |
 | [Prelude a l'apres\-midi d'un faune, L\. 86](https://open.spotify.com/track/4eY2bxGE2ykwefZ3adjetE) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Debussy: Prélude à l'après\-midi d'un faune, La mer & Jeux](https://open.spotify.com/album/6gH1Exwegyqrb1jDnG6Ug9) | 11:45 | 2020-10-19 |  |
 | [Rodeo: II\. Corral Nocturne](https://open.spotify.com/track/6dyXeg9ss1cqgKLTdZsREO) | [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU), [Detroit Symphony Orchestra](https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Copland: Rodeo, Dance Panels, El Salón México & Danzón Cubano](https://open.spotify.com/album/5OcbhuXx0wnBjGCB4Oh6XE) | 3:46 | 2020-10-19 |  |
 | [Rêverie, L\. 68](https://open.spotify.com/track/086sjLPEqdKBgTxbTeCLCv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alain Planès](https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh) | [Debussy: Estampes; Pour le piano; 6 épigraphes antiques](https://open.spotify.com/album/7jCCOwIktM4dGS6YfQuqTq) | 3:53 | 2020-10-19 |  |

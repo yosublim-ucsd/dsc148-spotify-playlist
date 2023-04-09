@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Jhonny Rivera y Luisito Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,075 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,223 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beeren](https://open.spotify.com/artist/0RLMeX0AW8JhHRRdFJWOAB) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 |
 | 2 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
 | 3 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
-| 4 | [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 |
-| 5 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
-| 6 | [Renuncio](https://open.spotify.com/track/3bilLSXa7DLZVsjLMi2eaQ) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Renuncio](https://open.spotify.com/album/1DZeF0T2EnATyKIqdiuA5I) | 3:24 |
-| 7 | [Y Si Me Dejas](https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Y Si Me Dejas](https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1) | 2:58 |
-| 8 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 |
-| 9 | [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 |
+| 4 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
+| 5 | [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 |
+| 6 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
+| 7 | [Renuncio](https://open.spotify.com/track/3bilLSXa7DLZVsjLMi2eaQ) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Renuncio](https://open.spotify.com/album/1DZeF0T2EnATyKIqdiuA5I) | 3:24 |
+| 8 | [Y Si Me Dejas](https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Y Si Me Dejas](https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1) | 2:58 |
+| 9 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 |
 | 10 | [Un Cumbión Dolido](https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Cumbión Dolido](https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK) | 3:55 |
 | 11 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 |
 | 12 | [Corazón Maleante](https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Corazón Maleante](https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 74 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 75 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 
-Snapshot ID: `MTY4MDUzNzA1NSwwMDAwMDAwMGQ2MGFiYTE1NThlZmI3ZjgwNGRlZDA3NWU0YzdmYTQz`
+Snapshot ID: `MTY4MDgzNjc0MSwwMDAwMDAwMGVmNTZiYzQ4ODA2MWJhOWZlMDBhYzM5NGNmMjhmMGU0`

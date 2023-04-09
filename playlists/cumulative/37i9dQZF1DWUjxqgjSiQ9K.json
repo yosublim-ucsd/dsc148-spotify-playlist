@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2?si=f386227dbd804841\">Marco Witt</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/6qValgleME8pv861DLzupQ?si=nvlh7w9gTVGZjd2RzPFP2A\">Adoraci\u00f3n La IBI</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 415457,
       "name": "C\u00f3mo No Confiar (Live)",
       "url": "https://open.spotify.com/track/1fjoVT35xY4SMcU3xE08vp"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 210200,
       "name": "Dios No Ha Terminado Contigo",
       "url": "https://open.spotify.com/track/37qiAdXakIsMmY5SgXdmHW"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 190071,
       "name": "Dulce Compa\u00f1\u00eda",
       "url": "https://open.spotify.com/track/0grJmN960jlAECmg8iDXKd"
@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 348074,
       "name": "Lo Volver\u00e1s a Hacer",
       "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
@@ -4248,6 +4248,28 @@
       "duration_ms": 182717,
       "name": "Me Has Sostenido",
       "url": "https://open.spotify.com/track/6GY4wfvIwp846nBcZCKSKJ"
+    },
+    {
+      "album": {
+        "name": "Me Rend\u00ed",
+        "url": "https://open.spotify.com/album/78f0HFUcWCxZb7dgXMRktx"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Me Rend\u00ed",
+      "url": "https://open.spotify.com/track/31QmCF7GTYtm2da7dY8L68"
     },
     {
       "album": {
@@ -4612,10 +4634,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 272375,
       "name": "Mirar\u00e9 al Rey",
       "url": "https://open.spotify.com/track/2nbbn4N4hhGP9GJ5aB3DLE"
+    },
+    {
+      "album": {
+        "name": "Misericordia",
+        "url": "https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218942,
+      "name": "Misericordia",
+      "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
     },
     {
       "album": {
@@ -4956,6 +5000,28 @@
       "duration_ms": 375812,
       "name": "No Hay Otro Amor Igual",
       "url": "https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3"
+    },
+    {
+      "album": {
+        "name": "No Hay Otro Dios",
+        "url": "https://open.spotify.com/album/5SMNLeHVF5PgQrT6nKsToy"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378492,
+      "name": "No Hay Otro Dios",
+      "url": "https://open.spotify.com/track/61JeAQp4ND7t2o6GIrzuOr"
     },
     {
       "album": {
@@ -5500,6 +5566,24 @@
       "duration_ms": 480280,
       "name": "Primer Amor - Live",
       "url": "https://open.spotify.com/track/4FgMhWEpAQp7HlGUmwNglj"
+    },
+    {
+      "album": {
+        "name": "Prioridad",
+        "url": "https://open.spotify.com/album/7b4NMbigXOZcFsPMSHXIwZ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228112,
+      "name": "Prioridad",
+      "url": "https://open.spotify.com/track/30tXzCwahCEoAQreBgEfel"
     },
     {
       "album": {
@@ -6534,6 +6618,24 @@
       "duration_ms": 209588,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0zdBroYWFgu5ms2IlDB1ip"
+    },
+    {
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "album": {

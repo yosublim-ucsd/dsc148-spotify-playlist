@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-83 songs - 8 hr 11 min
+84 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [No Way Back](https://open.spotify.com/track/3ksxb4VxiH4cMdyXnxRc4x) | [Adonis](https://open.spotify.com/artist/5ce2qxZgDutrfzBTF1w7ZX) | [Chicago Trax, Vol\. 1](https://open.spotify.com/album/3KIQKeVL3rvjzBt3ZbUHP1) | 4:57 | 2018-06-21 | 2022-07-29 |
 | [Papua New Guinea](https://open.spotify.com/track/5mYhHLEHo1WFLUKaFYZsrX) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Teachings From The Electronic Brain](https://open.spotify.com/album/6BhdIAacUbQUZB6M8lKsD4) | 4:58 | 2018-06-21 | 2022-07-29 |
 | [Papua New Guinea \- Translation 1 \- 12" Original](https://open.spotify.com/track/7a88AscDxctD2V4SqKk6fs) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Papua New Guinea Translations](https://open.spotify.com/album/3eoUP3N4SiNbu7dd4ULmOb) | 4:59 | 2018-06-21 |  |
-| [Pump Up the Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/5Nk6yokDV2LbWOoZdv1Oks) | [Michael Oliver](https://open.spotify.com/artist/7r11QZJAzMlhmSvRae4R3P) | [Jackin' the Acid](https://open.spotify.com/album/73G2j2LnFxvszt5FeNs9kb) | 6:19 | 2018-06-21 |  |
+| [Pump Up the Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/5Nk6yokDV2LbWOoZdv1Oks) | [Michael Oliver](https://open.spotify.com/artist/7r11QZJAzMlhmSvRae4R3P) | [Jackin' the Acid](https://open.spotify.com/album/73G2j2LnFxvszt5FeNs9kb) | 6:19 | 2018-06-21 | 2023-04-09 |
+| [Pump Up The Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/7tQIbrrNYmqki8e4yX0f1u) | [Michael Olivier](https://open.spotify.com/artist/0tTOxeN5CptlTVZuFh5vGw) | [Jackin' The Acid](https://open.spotify.com/album/6FPl4ww2oR0wmZv8OYvxOk) | 6:19 | 2018-06-21 |  |
 | [R U Hot Enough](https://open.spotify.com/track/5utwAiCblRWtJ0iFgf6enr) | [Virgo](https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt) | [The House That Trax Built II](https://open.spotify.com/album/2B71OJE2Y3cqyFWxPwFSLP) | 7:40 | 2018-06-21 |  |
 | [Radio Babylon \- Version Galore](https://open.spotify.com/track/0xjxXC9tnntiSibd4xFlCq) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Version Galore](https://open.spotify.com/album/3LaTYECoQfSJuqqHRXXNcr) | 4:56 | 2018-06-21 | 2022-07-29 |
 | [Radio Babylon \- Version Galore](https://open.spotify.com/track/5jqB1gA8c041hLvytgdfe2) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Version Galore](https://open.spotify.com/album/5533aOxWjQFalXG82VW6ni) | 4:56 | 2018-06-21 |  |

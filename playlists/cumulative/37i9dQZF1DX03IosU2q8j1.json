@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Sumando tus besos",
+        "url": "https://open.spotify.com/album/6lKP8WaDmigCdLwzQr7DDE"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203242,
+      "name": "Sumando tus besos",
+      "url": "https://open.spotify.com/track/6fYXEHXMxrDDg8T40RBLNC"
+    },
+    {
+      "album": {
         "name": "Rodrigo - La mano de dios",
         "url": "https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5"
       },

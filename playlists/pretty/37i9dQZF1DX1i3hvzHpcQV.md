@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Vaathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,677 likes - 64 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,526 likes - 64 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

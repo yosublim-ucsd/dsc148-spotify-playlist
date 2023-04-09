@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 607641,
+  "num_followers": 607947,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMGY5YjgzNmQzYmE4OWY1MjI3ZDc1YmJlMWRmMzQzYzk5",
+  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMDA1Y2UxNmU3YWY2ZWY5NmNjZDk1MjZlNjA2ZjhjYTIy",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "C\u00d3MO RESPIRAR???",
-        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "C\u00d3MO RESPIRAR???",
-      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Bot\u00e1nica",
         "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 214000,
       "name": "309",
       "url": "https://open.spotify.com/track/0q37bjxhRwzjtZynlU9ZsI"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "C\u00d3MO RESPIRAR???",
+        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -903,18 +903,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 208289,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 208289,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Elefante Rosado",
-        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Despedida",
         "url": "https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 158500,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Elefante Rosado",
+        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Elefante Rosado",
+      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
     },
     {
       "added_at": "2023-02-24 17:40:22",

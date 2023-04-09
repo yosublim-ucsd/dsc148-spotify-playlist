@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-232 songs - 15 hr 27 min
+233 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 | 2022-03-08 |  |
 | [Sin Censura](https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Sin Censura](https://open.spotify.com/album/5ZD8xjHeIxf6EJg3Xp1FkY) | 3:26 | 2022-12-09 | 2023-01-11 |
 | [Solo Tu](https://open.spotify.com/track/3SJfj2pDuRYhNn9fLwMT5g) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Sentimiento de Cumbia](https://open.spotify.com/album/0jroY5Ek16BmPPvwD1pPcB) | 5:07 | 2022-03-08 | 2022-11-13 |
-| [Solo Tu](https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Solo Tu](https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG) | 5:07 | 2022-06-07 |  |
+| [Solo Tu](https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Solo Tu](https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG) | 5:07 | 2022-06-07 | 2023-04-09 |
 | [Solo una Noche](https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU) | [El Grupo De Mayor Impacto Apasionadoz](https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8) | [Y De Nuevo Otra Vez !!!](https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A) | 3:47 | 2022-10-27 |  |
 | [Solo una noche](https://open.spotify.com/track/4xw8WhjE2N4GEbpvuBPXlp) | [Grupo Apasionadoz](https://open.spotify.com/artist/77OaNaVi2ujQNhBVk4jod3) | [Y llegó papá](https://open.spotify.com/album/7AP4rtW2IBFtsKs9rtto6t) | 3:47 | 2022-11-12 | 2022-11-13 |
 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 | 2021-11-30 |  |
@@ -205,6 +205,7 @@
 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 | 2022-06-07 | 2022-12-10 |
 | [Te Vas](https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:05 | 2022-03-08 |  |
 | [Te Vas](https://open.spotify.com/track/4ZfkD5eY1AzczRM3m7q8Ur) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Te Vas](https://open.spotify.com/album/4TzvdAhRLDZxqmOF6ezlMi) | 4:05 | 2021-11-30 | 2022-07-25 |
+| [Te Vas Con El o Te Vas Conmigo](https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU) | 4:32 | 2022-06-07 |  |
 | [Te Vas Con El o Te Vas Conmigo](https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 4:32 | 2022-06-07 | 2023-03-12 |
 | [Te Vas Con el o Te Vas Conmigo](https://open.spotify.com/track/3zjZmzojgpq1vxf6Y9eTE0) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel del Amor](https://open.spotify.com/album/51QPsSHrXnW1u8dwEzbzRB) | 4:32 | 2021-11-30 | 2022-07-29 |
 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 | 2022-06-07 | 2023-03-25 |

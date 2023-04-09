@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 241289,
+  "num_followers": 242124,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMGY0MTNkNzA5ZTEzNTA1YTUyMDkwZmJjNjIzZWRkMzJi",
+  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDQ3ZTY3Yzc0ZDk4YTc4ODRmZDE3MmU0ZjI2ZTFmNWI3",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "Nitelife - Armand Van Helden Remixes",
+        "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
+      },
+      "artists": [
+        {
+          "name": "Kim English",
+          "url": "https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs"
+        }
+      ],
+      "duration_ms": 417401,
+      "name": "Nitelife - Armand Van Helden Retail Mix",
+      "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "Frankie Knuckles Presents: His Greatest Hits from Trax Records",
         "url": "https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 315400,
       "name": "Sandman - Original 12\" Mix",
       "url": "https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Nitelife - Armand Van Helden Remixes",
-        "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
-      },
-      "artists": [
-        {
-          "name": "Kim English",
-          "url": "https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs"
-        }
-      ],
-      "duration_ms": 417401,
-      "name": "Nitelife - Armand Van Helden Retail Mix",
-      "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
     },
     {
       "added_at": "2021-09-17 08:34:50",

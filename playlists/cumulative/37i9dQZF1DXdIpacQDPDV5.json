@@ -1083,6 +1083,32 @@
     },
     {
       "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "album": {
         "name": "HELLRAISERS, Part 3",
         "url": "https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N"
       },
@@ -2029,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "Caught A Body (with Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149110,
+      "name": "Caught A Body (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
+    },
+    {
+      "album": {
         "name": "Change My World (feat. Sam Martin)",
         "url": "https://open.spotify.com/album/7jPy3P2O7RA3VCBNtqzJS8"
       },
@@ -2426,7 +2474,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 207000,
       "name": "Counterfeit Love",
       "url": "https://open.spotify.com/track/4tP3Nn5XDbDUlSY2BH87Ky"
@@ -3954,7 +4002,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 268800,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/1nSBTGGMQOMyxd1sjJJNYP"
@@ -5066,7 +5114,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 176392,
       "name": "Got What U Need (feat. MELLY OHH)",
       "url": "https://open.spotify.com/track/5udjRtxA0Ivt0wt8Kz5lSG"
@@ -5088,7 +5136,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 171968,
       "name": "Gotta Let Go",
       "url": "https://open.spotify.com/track/3Dsa11j6T6ZdhmxWxe8nNl"
@@ -7147,6 +7195,28 @@
     },
     {
       "album": {
+        "name": "Kontinuum",
+        "url": "https://open.spotify.com/album/4zol09vhrkh0iIbpq8vKBT"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Tania Zygar",
+          "url": "https://open.spotify.com/artist/65taSIk8y1qNzK8ddRewQe"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219364,
+      "name": "Kontinuum",
+      "url": "https://open.spotify.com/track/7igvHZiaSaHHTrU3DLS5uM"
+    },
+    {
+      "album": {
         "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
         "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
       },
@@ -8206,7 +8276,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 224615,
       "name": "Luv Me A Little",
       "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
@@ -10076,6 +10146,24 @@
       "duration_ms": 168000,
       "name": "One Three Nine",
       "url": "https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA"
+    },
+    {
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
     },
     {
       "album": {
@@ -12830,7 +12918,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150360,
       "name": "Sunrise Bang Ur Head Against Tha Wall",
       "url": "https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz"
@@ -13772,7 +13860,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 381639,
       "name": "The Parallel",
       "url": "https://open.spotify.com/track/3S6ERTq20ccTF2Sr5xNsfI"
@@ -13798,6 +13886,24 @@
       "duration_ms": 213495,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
+    },
+    {
+      "album": {
+        "name": "The Smoke",
+        "url": "https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa"
     },
     {
       "album": {
@@ -14183,6 +14289,28 @@
     },
     {
       "album": {
+        "name": "Too Shy",
+        "url": "https://open.spotify.com/album/7DIjyIknMb6s9zaOPT9IL7"
+      },
+      "artists": [
+        {
+          "name": "Unklfnkl",
+          "url": "https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW"
+        },
+        {
+          "name": "tan feelz",
+          "url": "https://open.spotify.com/artist/4Y4qoWxVVZifkOcxyR3ZSB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138418,
+      "name": "Too Shy",
+      "url": "https://open.spotify.com/track/5b82V38QSaoJOtthxGvYjK"
+    },
+    {
+      "album": {
         "name": "Touch The Sky",
         "url": "https://open.spotify.com/album/0Ui3DjkB3tJeEFidZZq9h3"
       },
@@ -14523,6 +14651,32 @@
     },
     {
       "album": {
+        "name": "U Ok?",
+        "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154176,
+      "name": "U Ok?",
+      "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
+    },
+    {
+      "album": {
         "name": "U Up?",
         "url": "https://open.spotify.com/album/5aOX9mSq1uvbw4un5Mvz9A"
       },
@@ -14690,6 +14844,32 @@
       "duration_ms": 227000,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/3I7AY6lL2Z3ESLgHNqSdE7"
+    },
+    {
+      "album": {
+        "name": "Ur Love",
+        "url": "https://open.spotify.com/album/5VElXAo98b9GiufItgC0mB"
+      },
+      "artists": [
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+        },
+        {
+          "name": "BassBears",
+          "url": "https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3"
+        },
+        {
+          "name": "TWINNS",
+          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Ur Love",
+      "url": "https://open.spotify.com/track/6aAk6ph2Tni5mgb32LQSit"
     },
     {
       "album": {
@@ -15134,7 +15314,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 193994,
       "name": "What Girls Do",
       "url": "https://open.spotify.com/track/7CuzpBiRnXYg1GoK8HJjYt"

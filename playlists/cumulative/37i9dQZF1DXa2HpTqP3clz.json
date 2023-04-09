@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+    },
+    {
+      "album": {
         "name": "Arms of a Lover",
         "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
       },
@@ -2890,6 +2908,24 @@
     {
       "album": {
         "name": "Hell's Comin' with Me",
+        "url": "https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI"
+      },
+      "artists": [
+        {
+          "name": "Poor Man's Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212996,
+      "name": "Hell's Comin' with Me",
+      "url": "https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT"
+    },
+    {
+      "album": {
+        "name": "Hell's Comin' with Me",
         "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
       },
       "artists": [
@@ -2904,24 +2940,6 @@
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
-    },
-    {
-      "album": {
-        "name": "Hell's Comin' with Me",
-        "url": "https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI"
-      },
-      "artists": [
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "date_added": "2023-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212996,
-      "name": "Hell's Comin' with Me",
-      "url": "https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT"
     },
     {
       "album": {
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180000,
       "name": "Icy Cold",
       "url": "https://open.spotify.com/track/5VMEXtGEJnhJMnNMm7eKj3"
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 212106,
       "name": "On the Highway",
       "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
@@ -5154,6 +5172,24 @@
       "duration_ms": 176160,
       "name": "One By One",
       "url": "https://open.spotify.com/track/6VARJfVzHhYJELvE3oZSdx"
+    },
+    {
+      "album": {
+        "name": "One Glass Of Whiskey",
+        "url": "https://open.spotify.com/album/09fw4MJN1YzCUOcftQ32oU"
+      },
+      "artists": [
+        {
+          "name": "Robbie Fulks",
+          "url": "https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "One Glass Of Whiskey",
+      "url": "https://open.spotify.com/track/6eMgmQch1oo4fy0YWmBwHM"
     },
     {
       "album": {
@@ -6400,7 +6436,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 139893,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
@@ -7146,7 +7182,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 206000,
       "name": "This Train",
       "url": "https://open.spotify.com/track/09iWpYZvWO6BTSliOVFFQ7"

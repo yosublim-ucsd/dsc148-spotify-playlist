@@ -4,7 +4,7 @@
 
 > Nuevo rock alternativo argentino\. <br/>📷 Nenagenix
 
-126 songs - 7 hr 5 min
+129 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Como una Loba](https://open.spotify.com/track/29tQfkBARLAFauXxjlogvv) | [Pequeño Bambi](https://open.spotify.com/artist/3n1OdWz1pWxa0GjpjFtLmH) | [Como una Loba](https://open.spotify.com/album/07hW7tEa9LNg3mI2b1lHbX) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [CONTANDO OVEJAS](https://open.spotify.com/track/47DL8jY6HJD2mlCcTuOWKX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:23 | 2022-03-25 | 2023-03-25 |
 | [Coral](https://open.spotify.com/track/2jBERGaLNByP9ffSBq6rq1) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Policroma](https://open.spotify.com/album/2oqOPA6FCLVF9QgAmLnrHG) | 4:30 | 2022-03-25 | 2023-03-25 |
+| [Creer en Mí Otra Vez](https://open.spotify.com/track/57VKnbRY9PSOHIZtOJ2v1L) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6) | [Creer en Mí Otra Vez](https://open.spotify.com/album/79fP9rAJMPppeJs2TJ1Zln) | 2:23 | 2023-04-07 |  |
 | [Cruel \- Budaya Remix](https://open.spotify.com/track/21ixBRM8MSmYWmTNIdcqep) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Cruel \- Budaya Remix](https://open.spotify.com/album/7Ii1h7NZyiL3uBI1b5NkJK) | 3:24 | 2022-03-25 | 2023-03-25 |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-03-25 | 2022-07-29 |
 | [Culpable](https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:07 | 2022-03-25 | 2023-03-25 |
@@ -69,6 +70,7 @@
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-03-23 |  |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-23 |  |
+| [La Flecha Envenenada](https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [La Flecha Envenenada](https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx) | 4:08 | 2023-04-07 |  |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-03-25 | 2023-03-25 |
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-03-25 | 2022-07-29 |
 | [Las Flores Violentas](https://open.spotify.com/track/1OMzTxGLi5eYtHIe36kGC5) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Las Flores Violentas](https://open.spotify.com/album/3Pwm5izC0NugLdgi5BLzIJ) | 3:12 | 2022-03-25 | 2023-03-25 |
@@ -89,6 +91,7 @@
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-03-25 |  |
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-03-25 |  |
+| [No Voy a Salir de la Cama](https://open.spotify.com/track/7gZnkVesq9YHoXpe6Jmoh4) | [La Real Academia](https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm) | [Programa](https://open.spotify.com/album/22bH5HAEXK1gBETj87xxXm) | 2:26 | 2023-04-07 |  |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 |  |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-03-25 | 2023-03-25 |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-03-25 | 2022-07-29 |

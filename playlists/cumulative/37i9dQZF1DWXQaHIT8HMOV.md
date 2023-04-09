@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-130 songs - 6 hr 42 min
+131 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 | 2023-04-07 |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
-| [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 | 2023-02-10 |  |
+| [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 | 2023-02-10 | 2023-04-09 |
 | [Say your Mine](https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6) | [Jaye Major](https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S), [Anamie](https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb), [Dubem K](https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU) | [Say your Mine](https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg) | 3:46 | 2023-04-03 |  |
 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 | 2022-11-25 |  |
 | [Sikwebela](https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Sikwebela](https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe) | 2:29 | 2023-02-16 |  |
@@ -122,6 +122,7 @@
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
+| [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/track/6GtnIoNdSZFiBQ9RfTBYGl) | [XpressionsUG](https://open.spotify.com/artist/3KzKyuWGLRUYlCKrG5O7l5), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/album/1pSGVnCffm5YwXctqIrdem) | 2:46 | 2023-04-09 |  |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 |  |
 | [Thc \( Too High to Concentrate \)](https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9) | [Blaqface](https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78) | [Thc \( Too High to Concentrate \)](https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q) | 2:48 | 2022-07-08 | 2023-01-04 |
 | [Tok Tok](https://open.spotify.com/track/3ec8B63feV7XSlJ2qgKJK1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Pesh Fisher](https://open.spotify.com/artist/26iiAIe5xTwPLOEtVcb1zV) | [Tok Tok](https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh) | 2:36 | 2023-03-03 |  |

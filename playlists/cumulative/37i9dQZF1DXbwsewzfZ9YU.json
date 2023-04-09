@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M"
+      },
+      "artists": [
+        {
+          "name": "Teeth",
+          "url": "https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131146,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv"
+    },
+    {
+      "album": {
         "name": "Earth Exit",
         "url": "https://open.spotify.com/album/2H4taIZ3OvhgHYA3c4K6Wp"
       },
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 115312,
       "name": "Mental Static",
       "url": "https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 183400,
       "name": "Psychic Jailbreak",
       "url": "https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o"
@@ -1508,6 +1526,24 @@
       "duration_ms": 204046,
       "name": "WORLD OF MALICE",
       "url": "https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj"
+    },
+    {
+      "album": {
+        "name": "Year of the Guillotine",
+        "url": "https://open.spotify.com/album/0i3G0DRyZVya1t12C0TQXc"
+      },
+      "artists": [
+        {
+          "name": "Death Goals",
+          "url": "https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74176,
+      "name": "Year of the Guillotine",
+      "url": "https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ"
     },
     {
       "album": {

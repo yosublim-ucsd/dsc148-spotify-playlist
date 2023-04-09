@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-55 songs - 5 hr 44 min
+56 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Great Days](https://open.spotify.com/track/1Ub6VfiTXgyV8HnsfzrZzC) | [Karen Aoki](https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ), [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Great Days](https://open.spotify.com/album/3u3WsbVPLT0fXiClx9GYD9) | 4:03 | 2021-12-09 |  |
 | [Heaven’s falling down](https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4fJPCGw5H94MX6TGOe6gBd) | 3:35 | 2022-12-01 |  |
 | [Heaven’s falling down](https://open.spotify.com/track/6q8zgVqFyHm7tnrhe7gMMQ) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4k9eadDUC9Mgab8rFcEiSS) | 3:35 | 2022-12-01 | 2022-12-03 |
+| [Heaven’s falling down \- Dawning Ver.](https://open.spotify.com/track/5QRrqq6JS5Nu1SBqVaSlzX) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down \(Dawning Ver.\)](https://open.spotify.com/album/6IKlaUpstRmBZeuTChMYvK) | 1:33 | 2023-04-07 |  |
 | [Hirusagarino Morioutyou](https://open.spotify.com/track/10nGab5OtYD9KnWXSmXyqk) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Daydream\~](https://open.spotify.com/album/3fJ4pKdRGj90KQjX7Yw4Ij) | 1:29 | 2021-12-09 |  |
 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 | 2021-12-09 |  |
 | [Ikoi \- Piano Ver.](https://open.spotify.com/track/4yTZHUAl92UrfOrNfz4qNe) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T\. \[Journey\]](https://open.spotify.com/album/2J0be2vacQ9Nq6bJOy852F) | 2:01 | 2021-12-09 |  |

@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: Destiny's Child
+> it's scary hours...⛈️  cover: Ashanti
 
 239 songs - 16 hr 3 min
 

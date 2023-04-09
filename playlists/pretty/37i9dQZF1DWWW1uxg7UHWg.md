@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW1uxg7UHWg.md) - [plain]
 
 > House Music meets New School Tech with hailed DJ and producer <a href="spotify:artist:4q0N3EI67tVnAeeaXbNQIj">J\. Worra</a>, who delivers an outstanding mix that will sure make you dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010 likes - 16 songs - 59 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,165 likes - 16 songs - 59 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

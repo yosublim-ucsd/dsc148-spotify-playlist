@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Lucas Hill.
 
-367 songs - 22 hr 26 min
+368 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 | 2022-01-14 | 2022-07-23 |
 | [A Medio Camino](https://open.spotify.com/track/2vC9Mj3hcLo6gpLSKWONvR) | [Averías](https://open.spotify.com/artist/1IyoBgQQHhhmXKQBTbzpA8) | [A Medio Camino](https://open.spotify.com/album/3033huz0Hl5KYYPH0LXkQS) | 2:50 | 2021-12-24 | 2022-01-01 |
 | [A Mi Manera](https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [A Mi Manera](https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs) | 4:00 | 2022-04-25 |  |
-| [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 |  |
+| [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 | 2023-04-09 |
 | [abril y mayo](https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [abril y mayo](https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa) | 2:00 | 2023-02-24 | 2023-03-18 |
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
 | [Activíctima](https://open.spotify.com/track/22mdJjwKLG0LkavrkLEj0H) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [Activíctima](https://open.spotify.com/album/1PX5yQZZZMtKU27Xc7Mc21) | 3:29 | 2021-12-24 | 2022-07-27 |
@@ -81,6 +81,7 @@
 | [Corazoncito Mío](https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 3:15 | 2021-12-24 |  |
 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 | 2022-03-04 | 2022-04-09 |
 | [Cosa de Mi Imaginación](https://open.spotify.com/track/72mVVaM7TSPxAgCnSQ1Jr3) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok), [Roko](https://open.spotify.com/artist/6ojcfYFPAIR0IMn6JFJzMr), [Nacho Mur](https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf) | [Cosa de Mi Imaginación](https://open.spotify.com/album/1HZAnw6s2oNMSckUeEVAbb) | 4:25 | 2022-04-01 | 2022-04-19 |
+| [Crece y florece](https://open.spotify.com/track/4nvsfC0OSATtI6qMG0dMeL) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [GUACHA](https://open.spotify.com/album/5BLXqlpjgmJ7XeBB0cQZzT) | 2:54 | 2023-03-31 |  |
 | [Cruz del Sur](https://open.spotify.com/track/12XcueeDOyE1QHgkHZWJyY) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Diego Martez](https://open.spotify.com/artist/7gG4LD4vgTgOIK6mDLKMMX) | [Cruz del Sur](https://open.spotify.com/album/5aD3f3tNUtbVN3IeQbmkc9) | 5:06 | 2021-12-24 | 2022-02-18 |
 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 | 2022-11-11 | 2022-12-03 |
 | [Cuando los Años Pasen](https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 3:03 | 2021-12-24 |  |

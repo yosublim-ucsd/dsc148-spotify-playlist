@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Oumaima Taleb
 
-422 songs - 1 day 0 hr 41 min
+423 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Bye](https://open.spotify.com/track/7lY4RKaXEbN9bepG5s5Kmz) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Bye](https://open.spotify.com/album/1vSr7VaSNYP2LqjvRZNEM3) | 3:15 | 2021-12-23 | 2022-03-01 |
 | [Can't Catch an Emotion](https://open.spotify.com/track/13MrjxkZGZ0okmOSkOlhaI) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Can't Catch an Emotion](https://open.spotify.com/album/5of8QSNXq5V0sO7bZuBtpU) | 4:24 | 2021-12-23 | 2022-02-27 |
 | [Chakhs Taraktah](https://open.spotify.com/track/7qnpqHdclXCDhWvNHepCQI) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Chakhs Taraktah](https://open.spotify.com/album/11RTGKtmWUTH2uNaftoOaU) | 4:32 | 2022-03-01 | 2022-07-29 |
-| [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-15 |  |
+| [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-15 | 2023-04-09 |
 | [Circus](https://open.spotify.com/track/185g8LSwyx0rx2efD6riRx) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Issa & Assouad](https://open.spotify.com/artist/5P4gYpIeDqVMdkWnIHScSM) | [Circus](https://open.spotify.com/album/3ry7upEBDarprt1XVXNSf2) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Come With Me](https://open.spotify.com/track/2vbmlZNT3GNex5DaE1kO0h) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 2:57 | 2021-12-23 | 2022-03-01 |
 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-02-21 |  |
@@ -118,7 +118,7 @@
 | [Elain Tebki](https://open.spotify.com/track/0sd7Nw1PMval64C1YZjj4q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Elain Tebki](https://open.spotify.com/album/5Y5e4ZbvgGgnPmTTfZzjUH) | 3:56 | 2021-12-23 | 2022-02-25 |
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-25 |  |
 | [Elbet CDhat](https://open.spotify.com/track/020A1vGLssPEhWUhSnDPS7) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Elbet CDhat](https://open.spotify.com/album/4dtDTpiF5qAVRSpwaOu126) | 3:17 | 2021-12-23 | 2022-03-01 |
-| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-21 | 2023-04-07 |
+| [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-21 |  |
 | [Endi Rooh](https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Endi Rooh](https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9) | 3:41 | 2022-11-15 |  |
 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 | 2021-12-23 | 2022-02-28 |
 | [Ensani Jdidi](https://open.spotify.com/track/418acwEsYYWdtuUW6fYMxE) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Mona K](https://open.spotify.com/artist/5ODayvnpNQjrzyeUrrdAvU) | [Ensani Jdidi](https://open.spotify.com/album/7y2ihN3XTC9ANP5vqkt2MO) | 3:34 | 2022-06-16 | 2022-07-07 |
@@ -342,7 +342,7 @@
 | [You](https://open.spotify.com/track/0JoKkge8Xpqi24AD9nbxzK) | [Layla Kardan](https://open.spotify.com/artist/6anm3koLvedUfsUdmb0uAL) | [You](https://open.spotify.com/album/4gFoQAIdZcb4AvBZsz88DU) | 3:43 | 2021-12-23 | 2021-12-30 |
 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 | 2021-12-23 | 2022-02-28 |
 | [Zaamat Naamat \- Leadership and Sheep](https://open.spotify.com/track/3NPC89hv3EYrJtTGjWUUO8) | [Mira Awad](https://open.spotify.com/artist/0hlFOvtSOFXtPmTfOt2XpP) | [Zaamat Naamat \(Leadership and Sheep\)](https://open.spotify.com/album/4JfAFXnZuF5adHNwos52Hs) | 3:16 | 2021-12-23 | 2022-03-02 |
-| [Zay El Moug](https://open.spotify.com/track/3PSC7JkkBtl1QTJiVh9Ek2) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Zay El Moug](https://open.spotify.com/album/0aBTAji3itfFJI6aiUys57) | 3:00 | 2023-02-28 |  |
+| [Zay El Moug](https://open.spotify.com/track/3PSC7JkkBtl1QTJiVh9Ek2) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Zay El Moug](https://open.spotify.com/album/0aBTAji3itfFJI6aiUys57) | 3:00 | 2023-02-28 | 2023-04-09 |
 | [Zina Weya El Nas](https://open.spotify.com/track/37SWbX2hYRarRnxphEV1Zs) | [Sina Mousa](https://open.spotify.com/artist/3GSiCt6cvJBYsiinXBrCSd) | [Zina Weya El Nas](https://open.spotify.com/album/1vwUwpq5kOrMEJqEcf2eUM) | 3:15 | 2021-12-23 | 2022-02-28 |
 | [Zuruni](https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Zuruni](https://open.spotify.com/album/2pFIooMgMqaHfgHeqwSb0g) | 3:09 | 2021-12-23 | 2022-03-02 |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 |  |
@@ -394,6 +394,7 @@
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 |  |
 | [علبة بقلب علبة](https://open.spotify.com/track/1o2AaN71DP2xeqFPRVlwqw) | [Sabine Salamé](https://open.spotify.com/artist/4EZoX50L10Sv6zqfwzGQoQ) | [علبة بقلب علبة](https://open.spotify.com/album/0Wi6dh6Pn20EH5GBgfAeQr) | 3:18 | 2022-01-27 | 2022-03-02 |
 | [غشيت نفسك](https://open.spotify.com/track/6TTxFFhwTGnNBWGsjLSjzg) | [همسة](https://open.spotify.com/artist/5j7tYqNOYplQDIYFm6P4HH) | [غشيت نفسك \- Single](https://open.spotify.com/album/06NDFV71YhMwWtZDcr8cWH) | 3:56 | 2021-12-23 | 2022-03-02 |
+| [غمض عيونك](https://open.spotify.com/track/4cjgGhenl3vq2UehLcETXo) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [غمض عيونك](https://open.spotify.com/album/5uMM2Wclm2HLBkBNXI3cUb) | 2:08 | 2023-04-07 |  |
 | [قرصة ودن](https://open.spotify.com/track/2jSZqQ4kLYprLVt2e4Ibx9) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قرصة ودن](https://open.spotify.com/album/4AGl3NBl7wcgJJZAHd9dNr) | 4:08 | 2022-11-10 |  |
 | [قيود](https://open.spotify.com/track/2rEP86mIt9ictiz3Jcd0Bd) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/6L5iRtJBqgfZkqJeNw63EJ) | 2:56 | 2022-09-20 | 2022-11-09 |
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-03-01 | 2022-08-29 |

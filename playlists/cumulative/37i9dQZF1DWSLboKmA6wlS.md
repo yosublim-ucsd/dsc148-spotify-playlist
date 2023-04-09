@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: LOST CHIPS\. Artwork: Isu Kim
 
-406 songs - 1 day 1 hr 51 min
+407 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [กระเป๋า \(packed\)](https://open.spotify.com/track/0c6W4I22IzQI3vGoSe4Igi) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [กระเป๋า \(packed\)](https://open.spotify.com/album/1WYonogpu1z7q3hlJWT5Eg) | 4:53 | 2022-12-08 | 2022-12-24 |
 | [กริบ](https://open.spotify.com/track/5y58IBc829NjHkSJ9nVFhk) | [Mellowmotion](https://open.spotify.com/artist/6oMTaPXFw1kdUHQvlfFgck) | [กริบ](https://open.spotify.com/album/5Wxovh57nTyODrogHUQ3V9) | 3:37 | 2022-11-04 | 2022-11-12 |
 | [กลับบ้าน \(Our home\)](https://open.spotify.com/track/2bv3z4gTam4RcFwdVO372F) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [กลับบ้าน \(Our home\)](https://open.spotify.com/album/7329ETXvzGqHJzi9i7aWOJ) | 3:20 | 2022-09-15 | 2022-10-29 |
+| [กลับมาได้มั้ย](https://open.spotify.com/track/0jMwUDQ6b1FUDRkMS8aNT0) | [ArmAroy](https://open.spotify.com/artist/1Cu0qTQtZrYk1tAeJ4pnHU) | [กลับมาได้มั้ย](https://open.spotify.com/album/2HSk3jD6spqIOrYAQKgfNb) | 3:58 | 2023-04-06 |  |
 | [กลีบลำดวน](https://open.spotify.com/track/4g86IKZnctkmLPaVixUZJH) | [Mariko](https://open.spotify.com/artist/5SD1L5q8Ey69BKeU7cVZBO) | [กลีบลำดวน](https://open.spotify.com/album/15cfrD2XuueQrerZDrBNuU) | 4:03 | 2023-04-06 |  |
 | [กล่อง \- Forbidden](https://open.spotify.com/track/2u9NxSt6puZkMY8e2bglrK) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [กล่อง \(Forbidden\)](https://open.spotify.com/album/2TCSrruKKMNuXFNPhRzsEx) | 3:50 | 2022-10-07 | 2022-10-22 |
 | [กว่าจะมา](https://open.spotify.com/track/2uoL5po7rtiWWvlsPKCBQU) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [กว่าจะมา](https://open.spotify.com/album/5T4A89PfJrXE8FNPvIeabC) | 4:05 | 2023-04-06 |  |
@@ -124,7 +125,7 @@
 | [คริสต์มาสที่ร้อน](https://open.spotify.com/track/7qW0U6fHwoaxoNyarxcTj4) | [Peenongpor 4](https://open.spotify.com/artist/4EtLxLnbMQ4JOraXst2XzD) | [คริสต์มาสที่ร้อน](https://open.spotify.com/album/1WPZsH1Gx6kIQEy1LYCZ6A) | 3:38 | 2022-12-08 | 2022-12-24 |
 | [ควรจะพอ](https://open.spotify.com/track/482BiuZFZ4tCyntyaQrVxw) | [Babymild](https://open.spotify.com/artist/5sm4KBDvw7AooCs7BWZtlt) | [ควรจะพอ](https://open.spotify.com/album/1T9cSsQiAWCyfB9LipjGRH) | 4:31 | 2023-02-02 | 2023-02-25 |
 | [ความคิดถึง Feat\. พงษ์ศักดิ์ สวนศรี](https://open.spotify.com/track/5HHPskcDhXnphnIxXiTk6i) | [Sai Bhisa](https://open.spotify.com/artist/7mWztdI5LU6icxNcNUFkGO) | [ความคิดถึง Feat\. พงษ์ศักดิ์ สวนศรี](https://open.spotify.com/album/2yI42ALgdTCwbfgIyX64NW) | 3:31 | 2022-11-18 | 2023-01-12 |
-| [ความคิดถึงจากฉันถึงเธอที่อยู่แสนไกล \(Prod\. by gearypenprapa\)](https://open.spotify.com/track/1N5zOSKHvd8MBK4vSTOKkT) | [5847 \(Non\)](https://open.spotify.com/artist/1i7Z0HH31bpu9s6lYDU9co) | [ความคิดถึงจากฉันถึงเธอที่อยู่แสนไกล \(Prod\. by gearypenprapa\)](https://open.spotify.com/album/2o5kuQAf5VT5Y3uJSAycCm) | 2:46 | 2023-04-06 |  |
+| [ความคิดถึงจากฉันถึงเธอที่อยู่แสนไกล \(Prod\. by gearypenprapa\)](https://open.spotify.com/track/1N5zOSKHvd8MBK4vSTOKkT) | [5847 \(Non\)](https://open.spotify.com/artist/1i7Z0HH31bpu9s6lYDU9co) | [ความคิดถึงจากฉันถึงเธอที่อยู่แสนไกล \(Prod\. by gearypenprapa\)](https://open.spotify.com/album/2o5kuQAf5VT5Y3uJSAycCm) | 2:46 | 2023-04-06 | 2023-04-09 |
 | [ความจริงที่ไม่อยากรู้ \(Gone\)](https://open.spotify.com/track/4xLSEOWOQ0d54XDW6pGsrW) | [Mr\. Heed](https://open.spotify.com/artist/6ZxDB4x7bDuLPPXkYRuv1t) | [ความจริงที่ไม่อยากรู้ \(Gone\)](https://open.spotify.com/album/4NdIJyyZFSgqKO1HzTey1A) | 4:29 | 2022-09-29 | 2022-12-09 |
 | [ความทรงจำ](https://open.spotify.com/track/7s9lXHu74ykZ69Q5ldDPUx) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [ความทรงจำ](https://open.spotify.com/album/3o2gUPramyiLHb0ycBBU4j) | 4:22 | 2022-10-28 | 2023-01-06 |
 | [ความทรงจำในกรอบรูป](https://open.spotify.com/track/3B6xe5mf13r9Tl5a6ZvfcW) | [ดารารัญชน์ \(Dararunch\)](https://open.spotify.com/artist/4Y2O9t1WvTloQJLQgX9B5Y) | [ความทรงจำในกรอบรูป \(mourn\)](https://open.spotify.com/album/5aNAbYA601EtYlDWVRCDAC) | 4:46 | 2023-03-24 | 2023-04-01 |

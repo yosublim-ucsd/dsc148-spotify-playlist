@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1003894,
+  "num_followers": 1003984,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMGJhOGNhNjg0OTc1Y2ZmNTJlMjU0OWFkMzgwYTE4ZDE0",
+  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMDNjODc2NzAxNTYwNDhmNjllZTc0OTk0ZjZmMmE1ZGI2",
   "tracks": [
     {
       "added_at": "2023-02-24 16:13:02",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "O Grave Bater",
+        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 181903,
+      "name": "O Grave Bater",
+      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Deixa de Onda (Porra Nenhuma)",
         "url": "https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 184999,
       "name": "Deixa de Onda (Porra Nenhuma)",
       "url": "https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "O Grave Bater",
-        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 181903,
-      "name": "O Grave Bater",
-      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Rainha da Favela",
-        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160904,
-      "name": "Rainha da Favela",
-      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Oh Juliana",
         "url": "https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 153077,
       "name": "Oh Juliana",
       "url": "https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "Rainha da Favela",
+        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160904,
+      "name": "Rainha da Favela",
+      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT"
+      },
+      "artists": [
+        {
+          "name": "very man",
+          "url": "https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR"
+        }
+      ],
+      "duration_ms": 179624,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Fuleragem",
         "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 190354,
       "name": "Ritmo Mexicano",
       "url": "https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT"
-      },
-      "artists": [
-        {
-          "name": "very man",
-          "url": "https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR"
-        }
-      ],
-      "duration_ms": 179624,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Deu Onda",
+        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Deu Onda",
+      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Vem Me Satisfazer",
         "url": "https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 188388,
       "name": "Vem Me Satisfazer",
       "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "Deu Onda",
-        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "Deu Onda",
-      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 171692,
       "name": "Malandramente",
       "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Sapequinha",
-        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
+        "name": "Chama Ela (feat. Pedro Sampaio)",
+        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
       },
       "artists": [
         {
@@ -1164,13 +1164,13 @@
           "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         },
         {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 134106,
-      "name": "Sapequinha",
-      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+      "duration_ms": 120200,
+      "name": "Chama Ela (feat. Pedro Sampaio)",
+      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1283,8 +1283,8 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Chama Ela (feat. Pedro Sampaio)",
-        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
       },
       "artists": [
         {
@@ -1292,13 +1292,13 @@
           "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         },
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
         }
       ],
-      "duration_ms": 120200,
-      "name": "Chama Ela (feat. Pedro Sampaio)",
-      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1315,6 +1315,26 @@
       "duration_ms": 140000,
       "name": "FICA \u00c0 VONTADE",
       "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "Espirra o Lan\u00e7a",
+        "url": "https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4"
+      },
+      "artists": [
+        {
+          "name": "Dj Serpinha",
+          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
+        },
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        }
+      ],
+      "duration_ms": 190055,
+      "name": "Espirra o Lan\u00e7a",
+      "url": "https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1451,6 +1471,26 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "LEXA",
+        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Separei",
         "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
@@ -1471,26 +1511,6 @@
       "duration_ms": 162406,
       "name": "Separei",
       "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "LEXA",
-        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1615,22 +1635,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Solta a batida",
         "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
       },
@@ -1687,6 +1691,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Solo Seduzente",
         "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
       },
@@ -1699,30 +1719,6 @@
       "duration_ms": 125990,
       "name": "Solo Seduzente",
       "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "Para n\u00e3o",
-        "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Para n\u00e3o",
-      "url": "https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1767,6 +1763,30 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Para n\u00e3o",
+        "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Para n\u00e3o",
+      "url": "https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
         "url": "https://open.spotify.com/album/6D1FwIdsvzNSEKtOXKzTTU"
       },
@@ -1783,30 +1803,6 @@
       "duration_ms": 150886,
       "name": "Bumbum caliente (Participa\u00e7\u00e3o especial de De La Ghetto)",
       "url": "https://open.spotify.com/track/2WXpTKDvFRRAKKwaNbT6OW"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306"
-        },
-        {
-          "name": "Jyayo",
-          "url": "https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s"
-        },
-        {
-          "name": "Yaw Faso",
-          "url": "https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1831,22 +1827,26 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Espirra o Lan\u00e7a",
-        "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
       },
       "artists": [
         {
-          "name": "Dj Serpinha",
-          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306"
         },
         {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+          "name": "Jyayo",
+          "url": "https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s"
+        },
+        {
+          "name": "Yaw Faso",
+          "url": "https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV"
         }
       ],
-      "duration_ms": 190055,
-      "name": "Espirra o Lan\u00e7a",
-      "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
+      "duration_ms": 210500,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS"
     },
     {
       "added_at": "2023-02-24 16:13:02",

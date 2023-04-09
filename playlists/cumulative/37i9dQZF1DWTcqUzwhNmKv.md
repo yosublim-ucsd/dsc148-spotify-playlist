@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Make Them Suffer on top of the biggest Metal playlist.
+> Nita Strauss on top of the biggest Metal playlist.
 
-404 songs - 1 day 3 hr 6 min
+406 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-30 |
 | [Black Hole](https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Black Hole](https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB) | 2:59 | 2022-09-30 |  |
 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 | 2022-08-05 | 2022-11-12 |
+| [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d) | 4:28 | 2023-04-07 |  |
 | [Bleed Together](https://open.spotify.com/track/42AuCKjh0QFS4dZQv8WURV) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Bleed Together](https://open.spotify.com/album/5xQY16nG5c9tM3xXGgpg4p) | 4:30 | 2022-05-27 | 2022-06-10 |
 | [Blessings Upon The Throne Of Tyranny \- Remixed & Remastered](https://open.spotify.com/track/7dXyNjEojMH8lAkSEx1sLT) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Blessings Upon The Throne Of Tyranny \(Remixed & Remastered\)](https://open.spotify.com/album/4MkgzARek4yNMbFfZuLVIb) | 5:22 | 2022-07-29 | 2022-09-03 |
 | [Blood Sweat Tears](https://open.spotify.com/track/6JjrxVuJwItGuQ8TCMpv2K) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Blood Sweat Tears](https://open.spotify.com/album/6fVJHWIF7IHFLoldp4Rbri) | 7:16 | 2022-11-04 | 2023-02-04 |
@@ -114,7 +115,7 @@
 | [Embattled](https://open.spotify.com/track/5jCW9BOUz7BLeYAzRGvVbc) | [Ripper](https://open.spotify.com/artist/2qD61usRMV5pB6jAbSSXxi) | [Embattled](https://open.spotify.com/album/1R8SKK7esV5NenpImiTzdg) | 3:11 | 2022-07-29 | 2022-09-03 |
 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 | 2022-09-10 |
 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 | 2021-12-20 | 2022-02-25 |
-| [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 | 2023-03-10 |  |
+| [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 | 2023-03-10 | 2023-04-09 |
 | [Exodus](https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Exodus](https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c) | 4:18 | 2022-12-09 | 2023-02-18 |
 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 | 2021-12-20 | 2022-01-07 |
 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 | 2022-04-22 | 2022-08-13 |
@@ -271,6 +272,7 @@
 | [Salt](https://open.spotify.com/track/4BSrRUm2cSaLRjN7xGpCRt) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay](https://open.spotify.com/album/5H93Egq9XH6M9R1mkxQDch) | 3:27 | 2022-09-30 | 2023-03-11 |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2022-08-06 |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-03-03 | 2022-05-06 |
+| [Scourge of the Offspring](https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Scourge of the Offspring](https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN) | 4:28 | 2023-04-07 |  |
 | [Scouring The Vile](https://open.spotify.com/track/0E1PHsu35eZ18kL0yYvaBf) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Scouring The Vile](https://open.spotify.com/album/6jFI0CqdrT5qAc7dVwpdlQ) | 2:51 | 2022-06-10 | 2022-07-08 |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-03-04 |
 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 | 2022-04-29 | 2022-06-10 |
@@ -313,7 +315,7 @@
 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 | 2022-03-03 | 2022-07-01 |
 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2022-08-05 | 2022-10-15 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-15 | 2022-12-03 |
-| [Sun//Eater](https://open.spotify.com/track/1PZ1po0vZzESv0AJCURC72) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 6:10 | 2022-12-09 |  |
+| [Sun//Eater](https://open.spotify.com/track/1PZ1po0vZzESv0AJCURC72) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 6:10 | 2022-12-09 | 2023-04-09 |
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-20 | 2022-07-23 |
 | [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 | 2022-06-24 |
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2021-12-20 | 2022-04-15 |

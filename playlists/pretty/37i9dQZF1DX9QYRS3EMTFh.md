@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,253 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,338 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take it Easy](https://open.spotify.com/track/3yiMchD4ThuuBSyHIKwWrn) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Vj Lou](https://open.spotify.com/artist/4UVzZ2QgBMOIRqygmERMzL), [Reanno Gordon](https://open.spotify.com/artist/4N12CvK0eXotStauKnFgEh) | [Take it Easy](https://open.spotify.com/album/5AnmUVHcE89DR29xnJN1NQ) | 2:04 |
+| 1 | [Take it Easy](https://open.spotify.com/track/3yiMchD4ThuuBSyHIKwWrn) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Vj Lou](https://open.spotify.com/artist/4UVzZ2QgBMOIRqygmERMzL) | [Take it Easy](https://open.spotify.com/album/5AnmUVHcE89DR29xnJN1NQ) | 2:04 |
 | 2 | [Ghetto Rèd](https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Ghetto Rèd](https://open.spotify.com/album/6XFbhUBLtF9IfRImw7Wlo4) | 2:36 |
 | 3 | [Auto](https://open.spotify.com/track/0pfdyJPdBVImK5uLXYZv9y) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Auto](https://open.spotify.com/album/29M62kf52dwQDFWBgUC6tY) | 2:18 |
 | 4 | [God a Bless Me](https://open.spotify.com/track/6bi6SUcKHh9NzvSELB75hT) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [God a Bless Me](https://open.spotify.com/album/4pfrKQTJSpdJJqCcaUAefs) | 2:28 |

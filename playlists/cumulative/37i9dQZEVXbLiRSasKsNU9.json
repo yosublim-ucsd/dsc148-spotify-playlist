@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -6642,7 +6642,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 210960,
       "name": "Durmaz Akar",
       "url": "https://open.spotify.com/track/1USNiWOUKXZFcG5acRYEp5"
@@ -9564,6 +9564,32 @@
       "duration_ms": 207428,
       "name": "Hallow Kitty",
       "url": "https://open.spotify.com/track/6sizQj16amSoj5iXMDCx5J"
+    },
+    {
+      "album": {
+        "name": "Sassy Scene",
+        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "Hands up!",
+      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
       "album": {
@@ -13068,7 +13094,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 107586,
       "name": "Lean Beef Patty",
       "url": "https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl"
@@ -13466,7 +13492,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
@@ -17004,10 +17030,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 137102,
       "name": "Nunca Sozinho",
       "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
+    },
+    {
+      "album": {
+        "name": "NUNCA SOZ\u0130NHO",
+        "url": "https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk"
+      },
+      "artists": [
+        {
+          "name": "hamza7",
+          "url": "https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp"
+        },
+        {
+          "name": "Votabia",
+          "url": "https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "NUNCA SOZ\u0130NHO",
+      "url": "https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6"
     },
     {
       "album": {
@@ -21403,6 +21451,24 @@
     },
     {
       "album": {
+        "name": "SLUT ME OUT",
+        "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
+    },
+    {
+      "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
       },
@@ -24266,7 +24332,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
@@ -24748,7 +24814,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 159683,
       "name": "Uno mas Uno Igual a Zero",
       "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"

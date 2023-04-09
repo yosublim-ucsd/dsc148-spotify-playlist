@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 3398,
+  "num_followers": 3452,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGRlOTIwOTBkMTM0ZTM1MjEwYjIyY2FjOTM3MDE3ZTEx",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGU4OTFlMmJmM2MyNGM0YTAxNTA4NzYwYTg5NTk3OTQ2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Beat Box",
-        "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
-      },
-      "artists": [
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        }
-      ],
-      "duration_ms": 110497,
-      "name": "Beat Box",
-      "url": "https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
         "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Hit Bout It",
-        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+        "name": "Beat Box",
+        "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
         }
       ],
-      "duration_ms": 177158,
-      "name": "Hit Bout It",
-      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+      "duration_ms": 110497,
+      "name": "Beat Box",
+      "url": "https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -639,6 +619,26 @@
       "duration_ms": 337640,
       "name": "One Wish",
       "url": "https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Hit Bout It",
+        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177158,
+      "name": "Hit Bout It",
+      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
     },
     {
       "added_at": "2022-10-01 16:09:56",

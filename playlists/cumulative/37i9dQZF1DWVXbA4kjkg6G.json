@@ -608,7 +608,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 362106,
       "name": "Dieu Reconnaitra Les Siens",
       "url": "https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0"
@@ -2306,6 +2306,24 @@
       "duration_ms": 381226,
       "name": "What Does Your Soul Look Like - Pt.1",
       "url": "https://open.spotify.com/track/7bObrzqPrAN9fAKCoH8s40"
+    },
+    {
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381226,
+      "name": "What Does Your Soul Look Like, Pt. 1",
+      "url": "https://open.spotify.com/track/6mV0YLf8jUgEuIunnDCzUD"
     },
     {
       "album": {

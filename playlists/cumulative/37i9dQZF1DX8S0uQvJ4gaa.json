@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Ella Langley",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Madeline Merlo",
   "name": "New Boots",
   "tracks": [
     {
@@ -7160,7 +7160,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/5FmPnrDeAlrrVGK6ArMDPJ"
@@ -9352,7 +9352,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 182502,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1efGCNUZ93dHWMoS2kK4Wi"
@@ -11574,10 +11574,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 183186,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/2Zr8Qe0jMZZaIjJoy3bmHz"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/4BzQWHanjeaCWa8U434ERC"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/6j2u3oN1SmAknL9j1Tp2w1"
     },
     {
       "album": {
@@ -12770,6 +12788,24 @@
       "duration_ms": 191456,
       "name": "I Hate Phone Calls (Long Distance Sucks)",
       "url": "https://open.spotify.com/track/4Oyp5lYlPkp6peym43h0tT"
+    },
+    {
+      "album": {
+        "name": "I Hate Texas",
+        "url": "https://open.spotify.com/album/5TYiF7DYOOQg63RNG4wUIT"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224196,
+      "name": "I Hate Texas",
+      "url": "https://open.spotify.com/track/6XLuWhRnXFxk6YXaEB0z75"
     },
     {
       "album": {
@@ -18481,6 +18517,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189070,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
+    },
+    {
+      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -19594,7 +19648,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 177400,
       "name": "Out Of That Truck",
       "url": "https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp"
@@ -20323,6 +20377,24 @@
     },
     {
       "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Pretty Little Poison",
+      "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "album": {
         "name": "We Did",
         "url": "https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg"
       },
@@ -20768,6 +20840,24 @@
       "duration_ms": 236597,
       "name": "Red Dirt Cursed",
       "url": "https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY"
+    },
+    {
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/5Enbth38qf3E9uHyOXs2HO"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190942,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/27J3bSJSg3Ph1ouTOexhoe"
     },
     {
       "album": {
@@ -25564,7 +25654,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 200989,
       "name": "The Night (Part 2)",
       "url": "https://open.spotify.com/track/4GVIjpSUWDTv2vLGetJAuF"
@@ -27942,7 +28032,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 187669,
       "name": "West Texas Weather",
       "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
@@ -29000,6 +29090,24 @@
       "duration_ms": 192829,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/3LnljuXqc30dUIypC1S9nU"
+    },
+    {
+      "album": {
+        "name": "White Buffalo",
+        "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "White Buffalo",
+      "url": "https://open.spotify.com/track/7MnovOocsvlfoe2iNBAraA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Walk the bridge between indie and folk. Cover: hey, nothing",
+  "description": "Walk the bridge between indie and folk. Cover: Jana Horn",
   "name": "Folk Arc",
   "tracks": [
     {
@@ -980,7 +980,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 233789,
       "name": "chamomile",
       "url": "https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP"
@@ -1218,6 +1218,24 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN"
     },
     {
       "album": {
@@ -1744,6 +1762,24 @@
       "duration_ms": 307880,
       "name": "Family Album",
       "url": "https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN"
+    },
+    {
+      "album": {
+        "name": "Far From You",
+        "url": "https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272315,
+      "name": "Far From You",
+      "url": "https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c"
     },
     {
       "album": {
@@ -3828,7 +3864,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
@@ -5426,7 +5462,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
@@ -5592,6 +5628,24 @@
       "duration_ms": 204514,
       "name": "Wet Road",
       "url": "https://open.spotify.com/track/0KCj0EwgRrQuRcdBgQPzjC"
+    },
+    {
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152013,
+      "name": "What\u2019s So Funny",
+      "url": "https://open.spotify.com/track/01tAXoPSn8QK4O4CaJzdtb"
     },
     {
       "album": {

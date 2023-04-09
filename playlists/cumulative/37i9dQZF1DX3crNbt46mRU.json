@@ -2004,6 +2004,10 @@
       },
       "artists": [
         {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
           "name": "Amin\u00e9",
           "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
@@ -2014,10 +2018,6 @@
         {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         }
       ],
       "date_added": "2023-04-06",
@@ -61039,7 +61039,7 @@
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166223,
+      "duration_ms": 165304,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/4xBosRTsUfx7qtwQ6NLDeN"
     },
@@ -69268,12 +69268,12 @@
       },
       "artists": [
         {
-          "name": "Kelvyn Colt",
-          "url": "https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo"
-        },
-        {
           "name": "ToTheMoon",
           "url": "https://open.spotify.com/artist/20ZUOewlSW8L3sAvhZEd9m"
+        },
+        {
+          "name": "Kelvyn Colt",
+          "url": "https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo"
         }
       ],
       "date_added": "2023-04-06",
@@ -92369,6 +92369,24 @@
     },
     {
       "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
         "name": "Secco Maracuja (feat. Themba)",
         "url": "https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH"
       },
@@ -105944,10 +105962,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/2mmPg0XflF4QUP3FBr3FVr"
+    },
+    {
+      "album": {
+        "name": "Till the Flame Turns Blue",
+        "url": "https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "Till the Flame Turns Blue",
+      "url": "https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH"
     },
     {
       "album": {
@@ -118917,6 +118953,24 @@
     },
     {
       "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+    },
+    {
+      "album": {
         "name": "Wovor hast du Angst",
         "url": "https://open.spotify.com/album/5NIo6dImjokbE7DXmWPgzN"
       },
@@ -119092,6 +119146,28 @@
       "duration_ms": 182773,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC"
+    },
+    {
+      "album": {
+        "name": "WTF (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "WTF (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr"
     },
     {
       "album": {

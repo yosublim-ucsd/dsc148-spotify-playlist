@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-180 songs - 10 hr 59 min
+183 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Believe](https://open.spotify.com/track/02qR0Dbi6JawnhEHD3UxHq) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 5:40 | 2021-12-10 |  |
 | [Better Days](https://open.spotify.com/track/0WEHSfymu7ryky59E22bJz) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Better Days](https://open.spotify.com/album/70umCWqlsQuPj6FycKZLFg) | 2:48 | 2021-12-10 |  |
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2021-12-10 |  |
+| [Big Prayers](https://open.spotify.com/track/0bZRv3Vh13qKj6E2OpNDwV) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Big Prayers](https://open.spotify.com/album/4AOd6TGN4Rqx3E1ZvgBtMF) | 3:27 | 2023-04-07 |  |
 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-08-20 |  |
 | [Blessed Beyond Believin'](https://open.spotify.com/track/5KisXZeI0uzWFyYBHoexy1) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/3TFEza0C8FxbxxAKMPC0X8) | 3:49 | 2022-08-01 |  |
 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 | 2021-12-10 | 2022-08-04 |
@@ -109,6 +110,7 @@
 | [Me And God](https://open.spotify.com/track/2lfBuEVBgvKLAkcypn68VD) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 2:59 | 2021-12-10 |  |
 | [Me and Jesus \(Extra Special Bonus Track\)](https://open.spotify.com/track/6a0zu7tOqPUHQfoP7YJ9nS) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 3:21 | 2021-12-10 |  |
 | [Meet My Maker](https://open.spotify.com/track/1pMgAV1H7k95tMRZDjOkEJ) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Meet My Maker](https://open.spotify.com/album/2gAiRQzI62xYl1qrTRh3fI) | 3:03 | 2023-03-17 |  |
+| [More Church Than Church \(feat\. Walker Hayes\)](https://open.spotify.com/track/3iiSh6hLXOzeZ5HBM5heZw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:48 | 2023-04-07 |  |
 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:31 | 2022-08-05 |  |
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2021-12-10 |  |
 | [Nearer My God To Thee](https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Nearer My God To Thee](https://open.spotify.com/album/5ANnfvCCSn3tNujhrGxPIg) | 4:10 | 2021-12-10 | 2022-07-29 |
@@ -171,6 +173,7 @@
 | [Today](https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:49 | 2022-07-15 |  |
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |
+| [Upstairs](https://open.spotify.com/track/2g5rxUrz0xQ6gwpadmBkXJ) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Upstairs](https://open.spotify.com/album/420fvdaTAJisZsB8PSZsGi) | 3:43 | 2023-04-07 |  |
 | [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 | 2022-07-15 |  |
 | [We All Carry Something](https://open.spotify.com/track/0M07TE03OtknRNCKJ15Rvf) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/4E9ZzEudunTKLXzj9xCYYa) | 3:26 | 2022-07-15 |  |
 | [We All Carry Something](https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/7h9Y1JOLH3VJyeDfwbbKqQ) | 3:26 | 2021-12-10 | 2022-07-29 |

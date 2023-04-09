@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover Wakadinali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,563 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,591 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 3 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 |
 | 4 | [The Point](https://open.spotify.com/track/0USVFLxsAauRkpVaFprj8s) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [The Point](https://open.spotify.com/album/7MkNwTMI6DfxnAnbvn1RsP) | 2:22 |
 | 5 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 |
-| 6 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 |
+| 6 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 |
 | 7 | [The Avengers Cypher \(feat\. Katapilla\)](https://open.spotify.com/track/7B8ihSTZ2vUmZKhcO4L4Lo) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [The Avengers Cypher \(feat\. Katapilla\)](https://open.spotify.com/album/3RDYhpl3VUBVrLnMX1yM63) | 4:46 |
 | 8 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 |
 | 9 | [ABCD\(censored\)](https://open.spotify.com/track/5SLzHU4czXM8NL15XR0UFb) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [ABCD\(censored\)](https://open.spotify.com/album/0HpgzBSWAANPLcQbX1sVPG) | 2:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,522 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,816 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 21 | [Apportez\-moi un thé](https://open.spotify.com/track/4jF75m5oNgToVIuaD8Y1OA) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [t.](https://open.spotify.com/album/1VaVsd2DSaXP5oZW80qoQH) | 2:15 |
 | 22 | [SUR LE COEUR](https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SUR LE COEUR](https://open.spotify.com/album/55x88wSRtzOdANenONxpHI) | 2:35 |
 | 23 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
-| 24 | [It's Only a Band](https://open.spotify.com/track/2KBHg10JyF2MMjg3l0CFoY) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Please](https://open.spotify.com/album/0cs72CsTxE6pnaCXo42iC5) | 3:31 |
+| 24 | [It's Only A Band](https://open.spotify.com/track/2KBHg10JyF2MMjg3l0CFoY) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Please](https://open.spotify.com/album/0cs72CsTxE6pnaCXo42iC5) | 3:31 |
 | 25 | [Reconnection](https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY) | [Fantastic Mister Zguy](https://open.spotify.com/artist/0yBkxUvlgbxKXQmjQ252iu) | [Reconnection](https://open.spotify.com/album/19rAn3kxCoqkzXzOwfxF8q) | 2:47 |
 | 26 | [Sombrer](https://open.spotify.com/track/3TSX5zQARv82t3XkGKBqT1) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Sombrer](https://open.spotify.com/album/2qSYR4ngUhgQmkoRDmFdvO) | 3:40 |
 | 27 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 |
 | 28 | [Juste un beat, danse](https://open.spotify.com/track/3PnENN8tnr72OLwbReXuQO) | [Zéphir](https://open.spotify.com/artist/0YyorRag3eHwGIgly2AtIj) | [Juste un beat, danse](https://open.spotify.com/album/2Cirr5BY5vmQJpFt8ro7Bi) | 3:04 |
 | 29 | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl) | 3:19 |
 | 30 | [Johnny](https://open.spotify.com/track/1bMt3LbZFKOu6yBYz26Qet) | [Nina Lili J](https://open.spotify.com/artist/4pFzPeaxtoh7hF3XOXKicA) | [Johnny](https://open.spotify.com/album/1qMUT2E2k5Ri7Haqrgq9IB) | 3:29 |
-| 31 | [Mieux](https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa) | [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Mieux](https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N) | 2:49 |
+| 31 | [Mieux](https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa) | [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI), [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y) | [Mieux](https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N) | 2:49 |
 | 32 | [Puzzle](https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Puzzle](https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY) | 3:28 |
 | 33 | [Top Fan](https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Top Fan](https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX) | 3:10 |
 | 34 | [mots clés](https://open.spotify.com/track/0ak3Rt8IxWVWQENHIrBvfn) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [cheval 2\_3](https://open.spotify.com/album/0I3gTLmBt6QExMxp1K4MjY) | 3:45 |

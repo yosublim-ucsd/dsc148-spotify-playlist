@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 10423,
+  "num_followers": 10507,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDQ1NTY3MjI0NWNkZDU2NmRmODU5NmI5NzY5N2M4N2Fj",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDA2ODI3MjVmNGNlOWMxMGYwNWIzNTY2YTFjOTI2MThh",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "It Ain't Easy: Essential Recordings",
+        "url": "https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "It's Harder Now - Remix",
+      "url": "https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Midnight Blues",
@@ -319,18 +335,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "It Ain't Easy: Essential Recordings",
-        "url": "https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU"
+        "name": "Miss Lavelle",
+        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
         }
       ],
-      "duration_ms": 222066,
-      "name": "It's Harder Now - Remix",
-      "url": "https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo"
+      "duration_ms": 234760,
+      "name": "Yes, I've Been Crying",
+      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -347,22 +363,6 @@
       "duration_ms": 257560,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Miss Lavelle",
-        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Yes, I've Been Crying",
-      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Memphisapolis",
-        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
+        "name": "Into the Mystic",
+        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
       },
       "artists": [
         {
-          "name": "Willie Walker",
-          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
-        },
-        {
-          "name": "The Butanes",
-          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
         }
       ],
-      "duration_ms": 227800,
-      "name": "I Won't Be Lonely",
-      "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
+      "duration_ms": 184306,
+      "name": "Soul Deep",
+      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -759,34 +755,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Into the Mystic",
-        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
+        "name": "Memphisapolis",
+        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
       },
       "artists": [
         {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Soul Deep",
-      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
-      },
-      "artists": [
+          "name": "Willie Walker",
+          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
+        },
         {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+          "name": "The Butanes",
+          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
+      "duration_ms": 227800,
+      "name": "I Won't Be Lonely",
+      "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -807,18 +791,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB"
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
       "artists": [
         {
-          "name": "Ernie Johnson",
-          "url": "https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr"
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR"
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -839,22 +823,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
-      },
-      "artists": [
-        {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Engines And Wings",
-      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Ghosts of Mississippi Meet the Gods of Africa",
         "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 221586,
       "name": "Blues All Over You",
       "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
+      },
+      "artists": [
+        {
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Baby I Will",
+      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB"
+      },
+      "artists": [
+        {
+          "name": "Ernie Johnson",
+          "url": "https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
       "artists": [
         {
-          "name": "Preston Shannon",
-          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Baby I Will",
-      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+      "duration_ms": 256466,
+      "name": "Engines And Wings",
+      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -935,22 +935,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Memphisapolis",
-        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
+        "name": "Jump the Joint",
+        "url": "https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ"
       },
       "artists": [
         {
-          "name": "Willie Walker",
-          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
-        },
-        {
-          "name": "The Butanes",
-          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
+          "name": "Eugene Bridges",
+          "url": "https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR"
         }
       ],
-      "duration_ms": 249893,
-      "name": "What's It Take?",
-      "url": "https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp"
+      "duration_ms": 389373,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
     },
     {
       "added_at": "2020-12-01 05:01:00",

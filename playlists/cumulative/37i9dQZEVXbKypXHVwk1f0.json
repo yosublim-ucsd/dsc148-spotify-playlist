@@ -5938,7 +5938,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 364000,
       "name": "Jiggiri",
       "url": "https://open.spotify.com/track/0ibWzro5NbGXh8QClXy4da"
@@ -10458,6 +10458,28 @@
       "duration_ms": 171976,
       "name": "PECADO",
       "url": "https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO"
+    },
+    {
+      "album": {
+        "name": "People, Pt. 2 (feat. IU)",
+        "url": "https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "People, Pt. 2 (feat. IU)",
+      "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
     },
     {
       "album": {

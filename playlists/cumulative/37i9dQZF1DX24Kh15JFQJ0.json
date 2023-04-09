@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes. Cover: Willie Nelson",
+  "description": "The latest music from our Country Heroes. Cover: Tanya Tucker",
   "name": "New Traditions Country Heroes",
   "tracks": [
     {
@@ -1303,6 +1303,44 @@
     },
     {
       "album": {
+        "name": "Grits",
+        "url": "https://open.spotify.com/album/5RGYpGBUySZlP9XX4Q4H8n"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        },
+        {
+          "name": "Ray Stevens",
+          "url": "https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj"
+        },
+        {
+          "name": "Larry Gatlin & The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
+        },
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        },
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+        },
+        {
+          "name": "Dean Miller",
+          "url": "https://open.spotify.com/artist/2lyuVVWLKysEfl3IsWJpvZ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Grits",
+      "url": "https://open.spotify.com/track/2ZgZwqFtcaKLYEayrYxL4N"
+    },
+    {
+      "album": {
         "name": "Heartbreak Song",
         "url": "https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ"
       },
@@ -1848,6 +1886,24 @@
       "duration_ms": 194466,
       "name": "Jolene (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3HkWhLEBsyKVooHSkxeGW3"
+    },
+    {
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/25zJec6iPEpDZfnYA0DZpO"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/1r1AqeRw3T8eYbuMTHNTYB"
     },
     {
       "album": {

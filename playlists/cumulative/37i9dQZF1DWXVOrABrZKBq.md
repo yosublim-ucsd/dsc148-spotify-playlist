@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: Zola
 
-60 songs - 3 hr 7 min
+61 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2023-03-03 | 2023-03-18 |
 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 | 2023-03-03 |  |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2023-03-03 |  |
-| [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 | 2023-03-10 |  |
+| [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 | 2023-03-10 | 2023-04-09 |
 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 | 2023-03-10 |  |
 | [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 | 2023-03-24 |  |
 | [Ice](https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:23 | 2023-03-03 |  |
@@ -66,6 +66,7 @@
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-03-03 |  |
 | [Validé](https://open.spotify.com/track/7qABSVRa8kvEdgeMuI5Oaa) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Validé](https://open.spotify.com/album/2EwEMw0rf3hmoyI4ztCkzD) | 3:53 | 2023-03-03 | 2023-03-11 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2023-03-03 |  |
+| [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 |  |
 | [À L'AUBE](https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW) | [Hös Copperfield](https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [À L'AUBE](https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8) | 3:10 | 2023-03-10 |  |
 | [Écart type](https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Astronaute](https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89) | 2:54 | 2023-03-03 | 2023-03-25 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Jungle",
+  "description": "The best indie dance tracks of the moment. Cover: Yaeji",
   "name": "metropolis",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 225368,
       "name": "3AM",
       "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 221748,
       "name": "6am",
       "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 214545,
       "name": "All Night",
       "url": "https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 281370,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 286221,
       "name": "Complete Me (feat. Self Esteem)",
       "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201230,
       "name": "Danielle (smile on my face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
@@ -2804,6 +2804,28 @@
       "duration_ms": 181079,
       "name": "Dark Rain",
       "url": "https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg"
+    },
+    {
+      "album": {
+        "name": "DAYS GO BY",
+        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271756,
+      "name": "DAYS GO BY",
+      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "album": {
@@ -3392,7 +3414,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 271795,
       "name": "EASY PREY - yeule & Kin Leonn Remix",
       "url": "https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh"
@@ -3752,7 +3774,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 230866,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
@@ -4834,7 +4856,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
@@ -4944,7 +4966,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 169591,
       "name": "Ghost On The Mend - veggi remix",
       "url": "https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR"
@@ -5982,7 +6004,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 119877,
       "name": "Hypnotized (with skaiwater)",
       "url": "https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn"
@@ -6289,6 +6311,32 @@
     },
     {
       "album": {
+        "name": "I Think I Like You",
+        "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        },
+        {
+          "name": "Tom Polo",
+          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146471,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
+    },
+    {
+      "album": {
         "name": "I Wanna Help Your Mind",
         "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
       },
@@ -6470,7 +6518,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 225400,
       "name": "In My Arms - Edit",
       "url": "https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs"
@@ -6642,7 +6690,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
@@ -8680,7 +8728,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 181687,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
@@ -8902,6 +8950,24 @@
       "duration_ms": 360995,
       "name": "Monstertruck - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/3XMo9CI5tJn56VWo0INrYM"
+    },
+    {
+      "album": {
+        "name": "Violet Drive",
+        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341088,
+      "name": "Moonbeam, Midnight, Howl",
+      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
     },
     {
       "album": {
@@ -9692,7 +9758,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 224541,
       "name": "Omen (feat. Lyrah)",
       "url": "https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH"
@@ -10142,6 +10208,24 @@
       "duration_ms": 131620,
       "name": "Party With You",
       "url": "https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E"
+    },
+    {
+      "album": {
+        "name": "Passed Me By",
+        "url": "https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le"
     },
     {
       "album": {
@@ -11883,6 +11967,24 @@
     },
     {
       "album": {
+        "name": "Bless This Mess",
+        "url": "https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195804,
+      "name": "So Typically Now",
+      "url": "https://open.spotify.com/track/24xV804eowwf9EaIUGxh3V"
+    },
+    {
+      "album": {
         "name": "BMW Track / So U Kno",
         "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
       },
@@ -12144,7 +12246,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 243521,
       "name": "Staring In The Dark",
       "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
@@ -12940,7 +13042,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
@@ -12958,7 +13060,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
@@ -13676,7 +13778,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 211782,
       "name": "To Be Yours (feat. Claud)",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
@@ -14476,7 +14578,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
@@ -14724,6 +14826,24 @@
       "duration_ms": 169000,
       "name": "When Will I Learn",
       "url": "https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n"
+    },
+    {
+      "album": {
+        "name": "Whenever I Want",
+        "url": "https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269914,
+      "name": "Whenever I Want",
+      "url": "https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn"
     },
     {
       "album": {

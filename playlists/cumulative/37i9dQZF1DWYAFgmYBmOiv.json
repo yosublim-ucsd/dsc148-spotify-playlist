@@ -150,7 +150,7 @@
     {
       "album": {
         "name": "Drugstore Heaven",
-        "url": "https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC"
+        "url": "https://open.spotify.com/album/0o4KKmnolqFk2uJHTaxt54"
       },
       "artists": [
         {
@@ -161,6 +161,24 @@
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209050,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3jyJzmWN5Y2uwSpeFdB6bV"
+    },
+    {
+      "album": {
+        "name": "Drugstore Heaven",
+        "url": "https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC"
+      },
+      "artists": [
+        {
+          "name": "Houses",
+          "url": "https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
       "duration_ms": 209072,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2Nghjyjd1l1p21oQ4ywk7t"

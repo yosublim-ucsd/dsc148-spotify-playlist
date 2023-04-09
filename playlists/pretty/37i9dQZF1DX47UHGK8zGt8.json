@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 421920,
+  "num_followers": 422551,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDYyNDgwMDdiNTdkZGZiZjFkNzA5MGMxYmZmMzgzNjA5",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDNjMTYxNzc4YzMwZjAyNDg1MjQzYzY0NTYzNTY2MjVi",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "M\u00fasica para Casar",
-        "url": "https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V"
-      },
-      "artists": [
-        {
-          "name": "Lorenza Pozza",
-          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
-        }
-      ],
-      "duration_ms": 149576,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+        "name": "M\u00fasica para Casar",
+        "url": "https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Lorenza Pozza",
+          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
         }
       ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+      "duration_ms": 149576,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 217756,
       "name": "Eu Me Lembro",
       "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-03-17 03:00:00",

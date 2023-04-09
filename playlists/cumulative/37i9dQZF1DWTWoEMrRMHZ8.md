@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Adriana Calcanhotto
 
-431 songs - 1 day 1 hr 52 min
+432 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Mal Acostumada](https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 4:30 | 2022-10-28 |  |
 | [Malê](https://open.spotify.com/track/77yiJ3Bt8o8DDhNosd00nq) | [Pedro Paulo Junior](https://open.spotify.com/artist/4l4xn0qyO8Zr7F0QDDgrXd), [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Malê](https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr) | 5:17 | 2022-09-09 | 2022-10-26 |
 | [Mancada](https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n) | [Beth Carvalho e Gilberto Gil](https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM) | [Duetos 2](https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC) | 2:52 | 2022-07-22 | 2022-08-20 |
-| [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 | 2022-12-09 |  |
+| [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 | 2022-12-09 | 2023-04-09 |
 | [Mar do Sonhador](https://open.spotify.com/track/2J9VKTodi8CqwvaVCtc77r) | [Cassiano Andrade](https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Mar do Sonhador](https://open.spotify.com/album/7HpLIirkGZXvLooQnnlchA) | 3:14 | 2022-03-03 | 2022-03-11 |
 | [marca\-passo](https://open.spotify.com/track/4xcjZzoOX6XoIrlBfAlHBZ) | [Mayana Neiva](https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc) | [marca\-passo](https://open.spotify.com/album/7eXeKxbCFnXBHTGHlDvtf8) | 3:15 | 2022-12-02 | 2022-12-10 |
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 |  |
@@ -256,6 +256,7 @@
 | [Não Abusa de Eu](https://open.spotify.com/track/0D3ZDzJfuzavt25mnnpcEP) | [Dona Jacira](https://open.spotify.com/artist/7LCbsnkvwdjpIIpXk4VW8U) | [O Legado](https://open.spotify.com/album/3X5fUwjm94vF7UJj9nLv9j) | 4:41 | 2022-05-13 | 2022-06-04 |
 | [não há voz que alcance](https://open.spotify.com/track/1KFe4uS0OzHyMfSacZUgEI) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Todas as coisas do coração](https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W) | 4:01 | 2022-04-29 | 2022-06-04 |
 | [Não Identificado](https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf) | [Ayrton Montarroyos](https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h) | [Caetano Veloso Além do "Transa"](https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX) | 3:22 | 2021-12-24 | 2023-03-18 |
+| [Não Quero Mais Sofrer](https://open.spotify.com/track/1OI7eRWsHf78yq78dcfPE0) | [Vera de Maria Maga](https://open.spotify.com/artist/1k2UbkaWtgMewasPQqNmcB), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Não Quero Mais Sofrer](https://open.spotify.com/album/7janZyo1nG420VQ5iuw0Sj) | 2:32 | 2023-04-07 |  |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 | 2023-03-17 |  |
 | [O Amor Em Tempos de Cólera](https://open.spotify.com/track/0lza7kmyA644A8tcbL1ZTs) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE), [Virginie Boutaud](https://open.spotify.com/artist/3lWgqQkjOSmD4T0btnkzQj) | [Será Que Você Vai Acreditar?](https://open.spotify.com/album/3CS4E5hgs9Rd1EViJ3yYy5) | 3:48 | 2021-12-24 | 2022-08-12 |

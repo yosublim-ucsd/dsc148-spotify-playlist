@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Polim\u00e1 Westcoast en portada.",
-  "num_followers": 57771,
+  "num_followers": 57824,
   "original_name": "sentimiento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MjQwMCwwMDAwMDAwMDgwZDQ3ZThiMTVmZGU2OWQ1ZDAzNGRiZjFhMWZiMzA2",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDhkODc4ODk1N2Y5ZjdmZGM5YmZmY2ZmYmU5NmQ4ODg0",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -69,6 +69,26 @@
       "url": "https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco"
     },
     {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "OTRA CANCI\u00d3N DE AMOR",
+        "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "duration_ms": 100440,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI"
+    },
+    {
       "added_at": "2023-02-24 06:00:00",
       "album": {
         "name": "Arte",
@@ -83,6 +103,30 @@
       "duration_ms": 192000,
       "name": "Arte",
       "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Vuelves A Llamar",
+        "url": "https://open.spotify.com/album/4RObhJeSMtfft3ALBO4Pwg"
+      },
+      "artists": [
+        {
+          "name": "PPMARI",
+          "url": "https://open.spotify.com/artist/6FA353e9NUHzoa0z1r9bbq"
+        },
+        {
+          "name": "Jozue",
+          "url": "https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG"
+        },
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Vuelves A Llamar",
+      "url": "https://open.spotify.com/track/6FBG0d4cNJUqp0JpXAf0S8"
     },
     {
       "added_at": "2023-01-27 16:26:38",
@@ -131,6 +175,22 @@
       "duration_ms": 147000,
       "name": "flores",
       "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "added_at": "2023-03-24 20:16:02",

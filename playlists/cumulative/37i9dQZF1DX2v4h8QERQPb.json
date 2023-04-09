@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Muerejoven.",
+  "description": "Rimas argentinas. Foto: Homer El Mero Mero.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 194560,
       "name": "Beatbox Session Vol. 2 (feat. Ecko)",
       "url": "https://open.spotify.com/track/1ho8px5ANrV8vuCBuOe6w7"
@@ -904,6 +904,24 @@
       "duration_ms": 261333,
       "name": "Con Billetes",
       "url": "https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC"
+    },
+    {
+      "album": {
+        "name": "Conscientes",
+        "url": "https://open.spotify.com/album/39u6g3PwSWHbmkMK0qpW16"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181310,
+      "name": "Conscientes",
+      "url": "https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu"
     },
     {
       "album": {
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 218426,
       "name": "Peatonal de Sombras",
       "url": "https://open.spotify.com/track/28kvGxsxkaqMfpLumZ5ygj"
@@ -3068,6 +3086,24 @@
       "duration_ms": 171023,
       "name": "POETA",
       "url": "https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j"
+    },
+    {
+      "album": {
+        "name": "Por clave El Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189212,
+      "name": "Por clave El Cabez\u00f3n 2",
+      "url": "https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv"
     },
     {
       "album": {
@@ -3534,7 +3570,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 162243,
       "name": "Sigo Fr\u00edo",
       "url": "https://open.spotify.com/track/78gQHJd7XUzBrjjfFkQ7BN"
@@ -3980,6 +4016,24 @@
       "duration_ms": 181000,
       "name": "Wapo Traketero",
       "url": "https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0"
+    },
+    {
+      "album": {
+        "name": "Whos That B!Tch?",
+        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "Whos That B!Tch?",
+      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
     },
     {
       "album": {

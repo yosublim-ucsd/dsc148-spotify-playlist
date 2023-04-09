@@ -3487,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX"
+      },
+      "artists": [
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/2uJOUSKm3ldZmKJWHoWT3L"
+    },
+    {
+      "album": {
         "name": "RIGHT OR WRONG (HYPNOSIS)",
         "url": "https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421765,
+  "num_followers": 421773,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDM2ZDMwMGU2ZWQ3NDRhZDQzMWFhZDU4ODNmMDMxYTAy",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGIxNjgzODIxMjRhODE4MzlkODM2YmI2MzUxNjI4NGQ0",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Putaria 2000",
-        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
-      },
-      "artists": [
-        {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 107204,
-      "name": "Putaria 2000",
-      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 144553,
       "name": "Maresia",
       "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Putaria 2000",
+        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "duration_ms": 107204,
+      "name": "Putaria 2000",
+      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -335,22 +335,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Red de Maracuj\u00e1",
-        "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
+        "name": "Incr\u00edvel Jogando a Potranca",
+        "url": "https://open.spotify.com/album/011KbNJxyWw5B9AUwFkFe1"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
         },
         {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+          "name": "DJ Swat",
+          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Red de Maracuj\u00e1",
-      "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
+      "duration_ms": 110769,
+      "name": "Incr\u00edvel Jogando a Potranca",
+      "url": "https://open.spotify.com/track/2F4wyz6gkLTbyD9b5vTVoh"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Red de Maracuj\u00e1",
+        "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Red de Maracuj\u00e1",
+      "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Calculista",
         "url": "https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 158057,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Incr\u00edvel Jogando a Potranca",
-        "url": "https://open.spotify.com/album/011KbNJxyWw5B9AUwFkFe1"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "DJ Swat",
-          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Incr\u00edvel Jogando a Potranca",
-      "url": "https://open.spotify.com/track/2F4wyz6gkLTbyD9b5vTVoh"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 146347,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 146347,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 177650,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "EITA MENINA",
         "url": "https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 187069,
       "name": "EITA MENINA",
       "url": "https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 177650,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Te Deixo Crazy",
+        "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        }
+      ],
+      "duration_ms": 164908,
+      "name": "Te Deixo Crazy",
+      "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Te Deixo Crazy",
-        "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        }
-      ],
-      "duration_ms": 164908,
-      "name": "Te Deixo Crazy",
-      "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Eu e Eu",
-        "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
-      },
-      "artists": [
-        {
-          "name": "Vitor e Luan",
-          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 162799,
-      "name": "Eu e Eu",
-      "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Eu e Eu",
+        "url": "https://open.spotify.com/album/57reovruZNtvzzhjkwsDj9"
+      },
+      "artists": [
+        {
+          "name": "Vitor e Luan",
+          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 162799,
+      "name": "Eu e Eu",
+      "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 139644,
-      "name": "Festa do Pijama",
-      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 151374,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
     },
     {
       "added_at": "2023-02-10 03:00:00",

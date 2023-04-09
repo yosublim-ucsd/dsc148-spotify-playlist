@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Chuu & KIM YOHAN\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LAS, Miyeon\)
 
-211 songs - 12 hr 38 min
+212 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:31 | 2022-07-25 |  |
 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:31 | 2022-03-24 | 2022-07-29 |
 | [Let's Get Lost](https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT) | [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Let's Get Lost](https://open.spotify.com/album/5a3LEIPIytgwlO4IKEROLX) | 3:27 | 2022-03-24 | 2022-07-29 |
-| [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-02-25 |  |
+| [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-02-25 | 2023-04-09 |
 | [Like a Joke](https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Like a Joke](https://open.spotify.com/album/1uBjk0rR79y7hBz2AWDZSq) | 2:37 | 2022-03-24 | 2022-07-29 |
 | [Like You](https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic), [Kim So\-hee](https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/3nl0nBHYgB06JpPrcsAYXd) | 3:25 | 2022-07-25 | 2022-08-31 |
 | [Like You](https://open.spotify.com/track/5BOdw98ULiPxCSsGBpE5Ft) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic), [SOHEE](https://open.spotify.com/artist/3mYdRRihv7Oj0g4a7viHOX) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/457gYkCMszhIZCjqU3yzHP) | 3:25 | 2022-03-24 | 2022-04-21 |
@@ -151,6 +151,7 @@
 | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2CV86ZVlL1h8DofUs7kIL3) | 4:41 | 2022-04-21 | 2022-07-27 |
 | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 | 2022-07-25 |  |
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2022-03-24 |  |
+| [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q) | 3:05 | 2023-04-09 |  |
 | [Stand by You \- Chillo Remix](https://open.spotify.com/track/6YU5XlJo70CdaVAHXJvgKb) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Stand by You](https://open.spotify.com/album/0WFZXWr7nGecaMJ9D4kntj) | 3:15 | 2022-03-24 | 2022-04-21 |
 | [Star In The Sky](https://open.spotify.com/track/2AkYBGL4u0dnlijzlVSnGj) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Star in the Sky](https://open.spotify.com/album/3OSgDyoWnw5Otsw8NT5LWi) | 4:02 | 2022-03-24 | 2022-07-12 |
 | [Starry Night](https://open.spotify.com/track/1CyH9zoX9abqsa3xPrVUsn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:30 | 2022-03-24 | 2022-06-16 |

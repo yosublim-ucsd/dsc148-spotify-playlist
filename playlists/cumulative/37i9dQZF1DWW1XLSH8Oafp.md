@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-573 songs - 1 day 9 hr 4 min
+574 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Do No Wrong](https://open.spotify.com/track/1NbnMc1v8d2mSJBpsGRpfg) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:55 | 2022-04-08 | 2022-06-04 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2022-12-24 |
 | [Don't Let](https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Don't Let](https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD) | 4:54 | 2021-12-03 | 2022-04-16 |
+| [Don't We Always](https://open.spotify.com/track/5wGUVrYzmEp9yP24YTSt0z) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Confessions of a Fangirl](https://open.spotify.com/album/3yjU0i0Fb57O3PwsTXtRvV) | 2:45 | 2023-04-07 |  |
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-03-17 |  |
 | [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2021-07-23 | 2022-02-26 |
 | [dream](https://open.spotify.com/track/2tzoLvKBygTxkv8x1cVc0P) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [badman jungle rave ting](https://open.spotify.com/album/1zBPqXbFTUsNgsenOFwMrz) | 4:00 | 2022-02-18 | 2022-06-04 |

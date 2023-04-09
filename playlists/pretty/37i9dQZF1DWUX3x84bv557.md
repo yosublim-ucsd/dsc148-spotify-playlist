@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> MEAU \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\) op de cover van dé Nederpop playlist
+> MEAU \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\) op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,903 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,070 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Spijt](https://open.spotify.com/track/6sKhdsXpgWSO2QMGQTINIk) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Aurelia \(Deluxe\)](https://open.spotify.com/album/685rvbfLSwlnFArXpendcy) | 2:07 |
 | 90 | [Beetje Vrijheid](https://open.spotify.com/track/6uRh5pPZNPuMgFoSNlHKNN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Beetje Vrijheid](https://open.spotify.com/album/7noOA6uNQKPIOS0PUkACvf) | 3:50 |
 
-Snapshot ID: `MTY4MDgxODQwMCwwMDAwMDAwMDE1MGMwYjkxYTEyZGEzZWZmODA2MmMxMGQ1ZDEyNDIw`
+Snapshot ID: `MTY4MDg1MzQxNCwwMDAwMDAwMGNkZjBhODI1ZDIxZTUzODA0MmYyM2YyNDk3ZTBhNWVh`

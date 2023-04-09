@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,129 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,184 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 39 | [Daydream](https://open.spotify.com/track/7JcOhztbr6Qvhycgyx0Ea9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:48 |
 | 40 | [Big Boy Cruising](https://open.spotify.com/track/27utWLwggttKhJlO6AdtBd) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [Big Boy Cruising](https://open.spotify.com/album/7LFYlpx3ROVKEBv0c0Drv5) | 3:53 |
 | 41 | [Color](https://open.spotify.com/track/36YKPVpGJLog8bBNxZBU0R) | [Wesley Jensen and The Penny Arcade](https://open.spotify.com/artist/0cV24KE5pjnmbOIppvJcrB) | [Color](https://open.spotify.com/album/3RSTnNpRQfdtojosSLXk6D) | 3:03 |
-| 42 | [Automatic](https://open.spotify.com/track/2Nghjyjd1l1p21oQ4ywk7t) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC) | 3:29 |
+| 42 | [Automatic](https://open.spotify.com/track/3jyJzmWN5Y2uwSpeFdB6bV) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/0o4KKmnolqFk2uJHTaxt54) | 3:29 |
 | 43 | [So What May](https://open.spotify.com/track/2eOHmqUR5kAQgsdXGaiuE9) | [Murder Shoes](https://open.spotify.com/artist/4FXp4FyUoIzswFB81ODLwd) | [Daydreaming](https://open.spotify.com/album/1Y7pOuTbF47Qr4slUDkeEP) | 2:13 |
 | 44 | [This Is Me \(feat\. Jessy Covets\)](https://open.spotify.com/track/5mv0TsYJhzFxWQXic7E8Yi) | [Kullah](https://open.spotify.com/artist/71nUJL5kr5jSwp3KoydxwW), [Jessy Covets](https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV) | [This Is Me \(feat\. Jessy Covets\)](https://open.spotify.com/album/1lPjiIJLzrs3QKOqGtesQe) | 2:01 |
 | 45 | [No Waves](https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIDLAR](https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs) | 2:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDFmMmYzNmFjNTk2NDQ1Mjk2NDRmOWQzOWVhMTYxMjE1`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDk3YzA3ZmI5NjczMDI0NTBmZDQ1MTUyN2ZlM2I5YWEx`

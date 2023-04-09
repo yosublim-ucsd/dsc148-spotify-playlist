@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-225 songs - 13 hr 20 min
+226 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/track/58SeDNMb4niHLPL6GqbVY0) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/7sOsATCDwhe0xuborcuCeI) | 4:01 | 2022-12-21 |  |
 | [Never Get It Right \- Shura Remix](https://open.spotify.com/track/6kOTygghOZ87u2beHNgjLf) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/6NrMHY6PJWPBC1L1R3ydvS) | 4:01 | 2022-12-21 | 2023-02-26 |
 | [Never Going Home Again](https://open.spotify.com/track/7h05YK8Wdos4ko2YprcQEL) | [Tyra Jutai](https://open.spotify.com/artist/70E4gETHoUpR12ukUrJ7Xf), [Think Differently](https://open.spotify.com/artist/5pdGU9QMtdGWapBKqVx2ez) | [Never Going Home Again](https://open.spotify.com/album/2IIjI7Lh23ImdyzrzXDhHG) | 2:20 | 2022-05-20 |  |
-| [No Shangri La](https://open.spotify.com/track/0P4Sf15I0czRVDrAS839Xf) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/5xobn0wZq7EJ94HSUCsyB0) | 4:26 | 2022-05-20 |  |
+| [No Shangri La](https://open.spotify.com/track/0P4Sf15I0czRVDrAS839Xf) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/5xobn0wZq7EJ94HSUCsyB0) | 4:26 | 2022-05-20 | 2023-04-09 |
+| [No Shangri La](https://open.spotify.com/track/5foqt8rbcJBuvIUy5KJDIy) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/1zLBCcLZGjEcvmB35sAW9m) | 4:26 | 2022-12-21 |  |
 | [Noir ou blanc](https://open.spotify.com/track/3h2uMfchV3OUUYoOnNRoNb) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Loveni](https://open.spotify.com/artist/3FX25sj0KYV6VNFlMDRZxo) | [Pour de vrai](https://open.spotify.com/album/0hhScQ5Q1Bb9IGD8AGlE3N) | 2:59 | 2022-05-20 |  |
 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 | 2022-05-20 |  |
 | [Nuit](https://open.spotify.com/track/7zIfcuvWSAxE4LjEwadMnH) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq) | [Noir Brésil](https://open.spotify.com/album/4dk8HjZCAwv5PPkEgjtZp2) | 3:17 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BBCSz2YSg7.md) - [plain]
 
 > The rising Turkish DJ and Producer <a href="spotify:artist:1GVbOnrND8b3eh2JZ4opw8">Carlita</a> explores different styles of electronic music in this dynamic mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,611 likes - 14 songs - 59 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,626 likes - 14 songs - 59 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

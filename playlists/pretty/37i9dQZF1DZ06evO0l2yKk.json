@@ -1,15 +1,15 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 111739,
+  "num_followers": 111961,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMTMxMTgsMDAwMDAwMDA5ZTQ1ZjhlN2UxYzgwN2I5YzEwZTU4NWI2N2M3YjkwNg==",
+  "snapshot_id": "MjgwMTU5NTcsMDAwMDAwMDA3ZWVmZTY5ZDQ1NDEwNjZlYTAwYjM4ZGI4N2Q2MzgxZA==",
   "tracks": [
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Ranchero",
         "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/6tlA9TBaGgY1xnqfJJL5bS"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
@@ -89,23 +73,7 @@
       "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
@@ -121,10 +89,10 @@
       "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
-        "name": "De Norte A Sur",
-        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -132,12 +100,28 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 209613,
-      "name": "Necesito Dec\u00edrtelo",
-      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/6tlA9TBaGgY1xnqfJJL5bS"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "C\u00f3mo Te Llamas Paloma",
         "url": "https://open.spotify.com/album/3yBgnBHZZM4MtQccrUMGc3"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/5RnAQujhg7KANiHPvLE5wV"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "De Norte A Sur",
+        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "Necesito Dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Si Yo Fuera El",
         "url": "https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Se Renta Un Coraz\u00f3n (Reissue)",
         "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
@@ -233,23 +233,7 @@
       "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Con Muchas Ganas",
         "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
@@ -265,10 +249,10 @@
       "url": "https://open.spotify.com/track/2PLLTB5IgPTEBfOkgFOa65"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/23XKDOStC3Sljfjr1SjmUq"
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
       "artists": [
         {
@@ -276,12 +260,12 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 210480,
-      "name": "Coraz\u00f3n Necio",
-      "url": "https://open.spotify.com/track/46JLfXmPxwtZQvxi3oZgvy"
+      "duration_ms": 194813,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Fiesta Norte\u00f1a Puras Cumbias",
         "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
@@ -297,10 +281,10 @@
       "url": "https://open.spotify.com/track/7gGIk98eLA6q4GAoM5NWnf"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/23XKDOStC3Sljfjr1SjmUq"
       },
       "artists": [
         {
@@ -308,12 +292,12 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 156213,
-      "name": "La Chica Est\u00e1 Enojada",
-      "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
+      "duration_ms": 210480,
+      "name": "Coraz\u00f3n Necio",
+      "url": "https://open.spotify.com/track/46JLfXmPxwtZQvxi3oZgvy"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Y Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
@@ -329,7 +313,23 @@
       "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "La Chica Est\u00e1 Enojada",
+      "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/3yg2klWupt24TGYuxeOhjS"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
@@ -361,23 +361,7 @@
       "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Lo Mas Ranchero De...",
-        "url": "https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Y Que Ganaste",
-      "url": "https://open.spotify.com/track/58f8H6UCND0m4Isp1NufSH"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Y Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
@@ -393,7 +377,23 @@
       "url": "https://open.spotify.com/track/3nIVIXth7n4b0zhntY9k3u"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "Lo Mas Ranchero De...",
+        "url": "https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Y Que Ganaste",
+      "url": "https://open.spotify.com/track/58f8H6UCND0m4Isp1NufSH"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/1lEWx3aB3qQJOcO6tsHZv2"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "La Cosecha",
         "url": "https://open.spotify.com/album/2wxqA2oR1vaJMJ4wRwcUW6"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5azatzKtdWzP6EdJgRYdH4"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Nuevamente El Amor",
         "url": "https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "10+10",
         "url": "https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/72cE9jrib8s3GRrRAkt5TJ"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Fiesta Norte\u00f1a Puras Cumbias",
         "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/4yRpPJBLOuTcXQDxEkCEt1"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/2lUdyrpCivpQ68urv8NOhS"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/5cVL7qtcdQckPw3eHzAflP"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
@@ -573,39 +573,7 @@
       "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Con La Fuerza Del Corrido",
-        "url": "https://open.spotify.com/album/37bhDovE8wMyJvO79rkUoX"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "No Me Quieras Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/4ZNui70b3TVS1Q5V4VF8S4"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Con Muchas Ganas",
         "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
@@ -621,7 +589,23 @@
       "url": "https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "No Me Quieras Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/4ZNui70b3TVS1Q5V4VF8S4"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
@@ -637,7 +621,7 @@
       "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Desde el Sur Hasta el Norte",
         "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
@@ -653,23 +637,7 @@
       "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Paso A La Reina",
-      "url": "https://open.spotify.com/track/3CosMMnSSNSliFKYXprv3F"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "A Mis Viejos",
         "url": "https://open.spotify.com/album/1VZWvdtpCIi1VdP0IYgznz"
@@ -685,39 +653,7 @@
       "url": "https://open.spotify.com/track/5fnLEufeYsIAK7n7BiqBuY"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Espero Que \u00c9l",
-      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
-      "album": {
-        "name": "Desde el Sur Hasta el Norte",
-        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "De Norte a Sur",
-      "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
-    },
-    {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
@@ -728,12 +664,12 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 177306,
-      "name": "Para Olvidarme De Ti",
-      "url": "https://open.spotify.com/track/5EF19tsYnIdHOgbbZM5muy"
+      "duration_ms": 211960,
+      "name": "Paso A La Reina",
+      "url": "https://open.spotify.com/track/3CosMMnSSNSliFKYXprv3F"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "De Norte A Sur",
         "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
@@ -749,7 +685,55 @@
       "url": "https://open.spotify.com/track/1fyLW3o7YFf1FokqoJHC9d"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "Desde el Sur Hasta el Norte",
+        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "De Norte a Sur",
+      "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Espero Que \u00c9l",
+      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Para Olvidarme De Ti",
+      "url": "https://open.spotify.com/track/5EF19tsYnIdHOgbbZM5muy"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Te Quiero Agradecer",
         "url": "https://open.spotify.com/album/4qbNVMTeJrZ3GNfIz0iEhL"
@@ -765,7 +749,7 @@
       "url": "https://open.spotify.com/track/6dpbSR39ltvxZzul2jILPn"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Tres por Una",
         "url": "https://open.spotify.com/album/0ZPBFeDd444E4c2K9R6iEu"
@@ -785,7 +769,7 @@
       "url": "https://open.spotify.com/track/7GsPAZvWCjkyI32tMonO2q"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Paso A La Reina",
         "url": "https://open.spotify.com/album/6qjq1PeDXd7uuJbMnXFR1K"
@@ -801,7 +785,7 @@
       "url": "https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz"
     },
     {
-      "added_at": "2023-04-06 13:18:28",
+      "added_at": "2023-04-08 12:37:43",
       "album": {
         "name": "Frente A Frente \"Los Grandes De Nuevo Leon Y San Luis",
         "url": "https://open.spotify.com/album/6e2k4pvYC1qqez6yVC4y4p"
@@ -815,6 +799,22 @@
       "duration_ms": 214200,
       "name": "Petalo Y Espinas",
       "url": "https://open.spotify.com/track/0wvszUhJLVAlVlVldbwBqr"
+    },
+    {
+      "added_at": "2023-04-08 12:37:43",
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2f91i2aiTHOwQJp2NyYhd8"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

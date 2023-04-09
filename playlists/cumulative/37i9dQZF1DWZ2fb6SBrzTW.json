@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 154565,
       "name": "Machala",
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
@@ -4196,6 +4196,24 @@
       "duration_ms": 179469,
       "name": "So Many Things I Like",
       "url": "https://open.spotify.com/track/5m9mTvlzkpYAvXQz0LabqG"
+    },
+    {
+      "album": {
+        "name": "Soja Man",
+        "url": "https://open.spotify.com/album/00jKow5FJLfnD2FW57m77E"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201768,
+      "name": "Soja Man",
+      "url": "https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8"
     },
     {
       "album": {

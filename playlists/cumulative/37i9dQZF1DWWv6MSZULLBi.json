@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Billianne",
+  "description": "A laid-back trip in the folk scene. Cover: boygenius",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 285115,
       "name": "17",
       "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
@@ -74,6 +74,24 @@
       "duration_ms": 263373,
       "name": "A Different Kind of Light",
       "url": "https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "album": {
@@ -409,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Are We Good",
+        "url": "https://open.spotify.com/album/1P326E01rUHqZ8pFLTCs5C"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270387,
+      "name": "Are We Good",
+      "url": "https://open.spotify.com/track/2rjopNdeDSuLAEqoLKPmOK"
+    },
+    {
+      "album": {
         "name": "Armour",
         "url": "https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8"
       },
@@ -687,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Catching Rabbits",
+        "url": "https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178030,
+      "name": "Book of Memories",
+      "url": "https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs"
+    },
+    {
+      "album": {
         "name": "Breathing Song / Honey",
         "url": "https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36"
       },
@@ -878,7 +932,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -1239,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Cut and Dry",
+        "url": "https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204223,
+      "name": "Cut and Dry",
+      "url": "https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W"
+    },
+    {
+      "album": {
         "name": "Day to Day",
         "url": "https://open.spotify.com/album/6Mz8WwrNcH5kJwFpfN8ChG"
       },
@@ -1254,6 +1326,24 @@
       "duration_ms": 208946,
       "name": "Day to Day",
       "url": "https://open.spotify.com/track/4jn5vtP9ciKva3ToQs8Lzo"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN"
     },
     {
       "album": {
@@ -2383,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206103,
+      "name": "God Above",
+      "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+    },
+    {
+      "album": {
         "name": "Going Down The Road",
         "url": "https://open.spotify.com/album/7q3Wuoqtkw7WuHOzRQxcAX"
       },
@@ -2506,7 +2614,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 216581,
       "name": "Happy As I've Never Been",
       "url": "https://open.spotify.com/track/2iMLSFj0IQ6rFs2LFojL8x"
@@ -2810,7 +2918,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
@@ -3724,7 +3832,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174293,
       "name": "linen sheets",
       "url": "https://open.spotify.com/track/3cH7orNQpFSkAGhKXCPAA4"
@@ -3746,6 +3854,24 @@
       "duration_ms": 130399,
       "name": "Little Bull Of Blithe",
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+    },
+    {
+      "album": {
+        "name": "Look At Us Now (Honeycomb)",
+        "url": "https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332386,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv"
     },
     {
       "album": {
@@ -4416,10 +4542,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+    },
+    {
+      "album": {
+        "name": "On A Roll",
+        "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
     },
     {
       "album": {
@@ -4510,6 +4654,24 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
+    },
+    {
+      "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/1B2iqEV6MswBJEoZFBpqhI"
+      },
+      "artists": [
+        {
+          "name": "Laura Reznek",
+          "url": "https://open.spotify.com/artist/04nT28h1eTiq4zIw7iOFSz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257220,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/3jAm7LtyaosLDsA1FUf895"
     },
     {
       "album": {
@@ -5181,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Strange Paradise",
+        "url": "https://open.spotify.com/album/2PdCqn4c1vhhiOnjZmRSBv"
+      },
+      "artists": [
+        {
+          "name": "Braden Lam",
+          "url": "https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "second wind",
+      "url": "https://open.spotify.com/track/0B9goh3DuqpGUPryuEa29L"
+    },
+    {
+      "album": {
         "name": "House to House",
         "url": "https://open.spotify.com/album/120E5ApM0a40DxBE42tK0r"
       },
@@ -5828,7 +6008,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 215381,
       "name": "Take Care of You",
       "url": "https://open.spotify.com/track/2qBCc8sGAcYZJOb2sfxYMy"
@@ -6228,7 +6408,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 252507,
       "name": "This Is Going To Be The Year",
       "url": "https://open.spotify.com/track/4ijH0M7n6oM4ZARKcInAyv"
@@ -6528,7 +6708,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 280720,
       "name": "Us All",
       "url": "https://open.spotify.com/track/5jKrSVPHA7sfhpBgLYaH4v"
@@ -7232,7 +7412,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 194608,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2"

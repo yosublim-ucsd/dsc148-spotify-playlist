@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-135 songs - 8 hr 40 min
+136 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aquarela](https://open.spotify.com/track/1bnSsCeLiWIDcw214J5Eso) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Nossa Velha Infância](https://open.spotify.com/album/0J3tpUINMvTiOCklBoxBb5) | 4:13 | 2022-11-09 | 2022-11-13 |
 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 | 2022-06-24 |  |
 | [Aquarela](https://open.spotify.com/track/4LhxdvP3lfgH3ciOyO1BX1) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Aquarela](https://open.spotify.com/album/4mlIaAkjf82LrzAw4Ez1vl) | 4:18 | 2021-12-31 | 2022-07-29 |
+| [Aquarela](https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP) | 3:25 | 2023-04-07 |  |
 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 | 2022-11-09 |  |
 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 | 2021-12-31 | 2022-11-10 |
 | [Back in Bahia \- Ao Vivo](https://open.spotify.com/track/2RcUIu5JZIlCgWidugtvfV) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Dois Amigos, um Século de Música \(Ao Vivo\)](https://open.spotify.com/album/0I5NIYMVsflEVgFfdNXPiW) | 2:24 | 2021-12-31 | 2022-07-29 |

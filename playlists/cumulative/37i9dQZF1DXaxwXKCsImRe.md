@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Zoë Tauran
+> RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: Zoë Tauran \(cover\), Haunted Youth, DIKKE, Shermanology, MEAU, De Staat & Antoon
 
 117 songs - 6 hr 12 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Take a trip into the world of Indie kings <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">Royel Otis </a>  and their new EP as they curate Front Left this week 👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,135 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,213 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
+      "album": {
         "name": "F.R.A.",
         "url": "https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW"
       },
@@ -1242,6 +1260,24 @@
       "duration_ms": 148371,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn"
+    },
+    {
+      "album": {
+        "name": "Flip A Switch. (Sped Up)",
+        "url": "https://open.spotify.com/album/1JG0F1lN0d4lN6lj6nVgxD"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185597,
+      "name": "Flip A Switch. - Sped Up",
+      "url": "https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d"
     },
     {
       "album": {
@@ -2053,6 +2089,28 @@
     },
     {
       "album": {
+        "name": "Lean In (feat. Bayanni)",
+        "url": "https://open.spotify.com/album/3nhEm72CmZfeccLKAFAfZY"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156911,
+      "name": "Lean In (feat. Bayanni)",
+      "url": "https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO"
+    },
+    {
+      "album": {
         "name": "letting you go (demo)",
         "url": "https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ"
       },
@@ -2605,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "WINNY",
+        "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Operation",
+      "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
+    },
+    {
+      "album": {
         "name": "Opinion",
         "url": "https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A"
       },
@@ -2722,6 +2798,24 @@
       "duration_ms": 167113,
       "name": "peppermint",
       "url": "https://open.spotify.com/track/3j8IY51BphvdJhwllZa64l"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp"
+      },
+      "artists": [
+        {
+          "name": "Freya Riding",
+          "url": "https://open.spotify.com/artist/3sWQRFTtxFsuQv3DRljHJQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186670,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc"
     },
     {
       "album": {

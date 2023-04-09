@@ -1977,6 +1977,32 @@
     },
     {
       "album": {
+        "name": "Older ft Jimmie Allen & Dixie D'Amelio",
+        "url": "https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Dixie",
+          "url": "https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Older ft Jimmie Allen & Dixie D'Amelio",
+      "url": "https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU"
+    },
+    {
+      "album": {
         "name": "One Big Country Song (RoadHouse Remix)",
         "url": "https://open.spotify.com/album/7mmzLcJUhdzQfJs1z0FxG1"
       },

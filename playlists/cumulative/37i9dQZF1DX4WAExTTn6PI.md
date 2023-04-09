@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Lauren Morrow
 
-144 songs - 8 hr 47 min
+146 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Paducah](https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paducah](https://open.spotify.com/album/3gBoXOHHHXWL9oVZkp5dUi) | 3:30 | 2022-01-28 | 2022-07-29 |
 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2023-01-13 | 2023-01-21 |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2022-01-28 |  |
+| [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-07 |  |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 |  |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 |  |
@@ -139,7 +140,7 @@
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2022-01-28 |  |
 | [The Way I Oughta Go](https://open.spotify.com/track/05Cag2o2f2h3R3WGyArxUV) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:10 | 2023-01-13 |  |
 | [The World: Alone](https://open.spotify.com/track/22rvKfTgeIZdDLvMJH0F5y) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [The World: Alone](https://open.spotify.com/album/4azLnHgYxxuwuHoq64URiR) | 3:47 | 2022-01-28 | 2022-07-29 |
-| [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 | 2022-01-28 |  |
+| [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 | 2022-01-28 | 2023-04-09 |
 | [The World: Alone](https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children: Tilted Crown](https://open.spotify.com/album/4dtznENq1I2Km4Vn2V7DSV) | 3:50 | 2022-10-14 | 2022-11-13 |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 |  |
 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 |  |
@@ -148,9 +149,10 @@
 | [Town Rat Heathen](https://open.spotify.com/track/2HejKAEp72UT8ylW4oR515) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Town Rat Heathen](https://open.spotify.com/album/1n0YaTORO0LV6GYmTsAXZl) | 2:53 | 2023-02-03 |  |
 | [Tried & True](https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Tried & True](https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG) | 3:07 | 2023-01-20 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 |  |
-| [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 |  |
+| [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
 | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/album/2nOrFKbiS8gUo3XCNTCiDr) | 4:11 | 2022-02-25 |  |
 | [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 | 2023-03-24 |  |
 | [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2022-01-28 | 2023-03-25 |
+| [You Don't Know How Lucky You Are](https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away Deluxe](https://open.spotify.com/album/6qJZLKhDngOJvojgdWvwF2) | 2:58 | 2023-04-07 |  |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

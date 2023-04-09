@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,796 likes - 242 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,856 likes - 242 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,7 +231,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 221 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 |
 | 222 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 |
 | 223 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 |
-| 224 | [Skating](https://open.spotify.com/track/6XPtAzmKf0gUtE4pCJDXnA) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ), [Oscar Unfiltered](https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ) | [Skating](https://open.spotify.com/album/4574dK3qTHbOSym2PFJsLL) | 2:15 |
+| 224 | [Skating](https://open.spotify.com/track/6XPtAzmKf0gUtE4pCJDXnA) | [Oscar Unfiltered](https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ) | [Skating](https://open.spotify.com/album/4574dK3qTHbOSym2PFJsLL) | 2:15 |
 | 225 | [Duality](https://open.spotify.com/track/1sdV3pcwnK8twgSyqGtmo7) | [Bethany Howell](https://open.spotify.com/artist/0SDJYZtFgByzaTKZrb21kj) | [Water Lilies](https://open.spotify.com/album/7HUWpZuHBpU73fqW0sLEFA) | 2:13 |
 | 226 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 |
 | 227 | [Moonlight](https://open.spotify.com/track/2pffk16of8MhYC9bCEhS6X) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Home](https://open.spotify.com/album/2QMwdHJruAJhzFZzjHsvrx) | 2:22 |

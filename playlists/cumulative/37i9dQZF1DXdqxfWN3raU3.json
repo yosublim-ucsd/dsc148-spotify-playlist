@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 183912,
       "name": "D\u00e1melo",
       "url": "https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 185142,
       "name": "ESQUE T\u00da",
       "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 184585,
       "name": "EST\u00c1 CABR\u00d3N",
       "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 239206,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
@@ -2174,6 +2174,24 @@
       "duration_ms": 160013,
       "name": "Loop",
       "url": "https://open.spotify.com/track/6miE2oYUpQgUSUOS2jhEWk"
+    },
+    {
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
     },
     {
       "album": {
@@ -2243,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "OTRA CANCI\u00d3N DE AMOR",
+        "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101466,
+      "name": "Malib\u00fa",
+      "url": "https://open.spotify.com/track/2qOasu3wsh6kR5QW2YCXC4"
+    },
+    {
+      "album": {
         "name": "Margaritas",
         "url": "https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2"
       },
@@ -2262,6 +2302,24 @@
       "duration_ms": 166333,
       "name": "Margaritas",
       "url": "https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa"
+    },
+    {
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "album": {
@@ -2538,7 +2596,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 155586,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
@@ -2778,7 +2836,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 192507,
       "name": "NOW",
       "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
@@ -3116,7 +3174,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 168804,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
@@ -3386,6 +3444,32 @@
       "duration_ms": 157090,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/6nOKHS69nUyVHSlWbAkP6q"
+    },
+    {
+      "album": {
+        "name": "RIKII 2",
+        "url": "https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c"
+      },
+      "artists": [
+        {
+          "name": "Rk Sensation",
+          "url": "https://open.spotify.com/artist/2jEgUhp8qDy6EH5yZ3nadk"
+        },
+        {
+          "name": "Montserrat Alay",
+          "url": "https://open.spotify.com/artist/105u1BUf8wMzV48Ju6Ixae"
+        },
+        {
+          "name": "Neithan",
+          "url": "https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264834,
+      "name": "Si No Eres T\u00fa? - Remix",
+      "url": "https://open.spotify.com/track/5akPAaHUlKCXdGwncvMlK2"
     },
     {
       "album": {
@@ -3825,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93280,
+      "name": "Vamos Pal Espacio",
+      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
+    },
+    {
+      "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
@@ -3964,10 +4070,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 161500,
       "name": "WM (Wifey Material)",
       "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
+    },
+    {
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103520,
+      "name": "X Tu Casa",
+      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
     },
     {
       "album": {

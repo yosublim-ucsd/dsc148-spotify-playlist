@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-488 songs - 1 day 5 hr 33 min
+489 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,8 @@
 | [Together](https://open.spotify.com/track/30nmbpHwr8RkM0GYoYf1Yp) | [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [Together](https://open.spotify.com/album/4LeMUogQgBMaIyz7EcIzGE) | 3:27 | 2022-03-30 | 2022-04-17 |
 | [Toluca Lake](https://open.spotify.com/track/0vc68gJkQF7hkyAkbRf7vB) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Toluca Lake](https://open.spotify.com/album/3ZEuCdqAsyPMJ4Jdq373cx) | 3:44 | 2022-10-14 | 2022-11-13 |
 | [Toluca Lake](https://open.spotify.com/track/5ZJrnxlVNseqSqR9QHQLbF) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Toluca Lake](https://open.spotify.com/album/3M01KKvfTWW7FD90xTvxYa) | 3:44 | 2022-03-30 | 2022-04-13 |
-| [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-09-26 |  |
+| [Tongo Barra](https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:33 | 2023-03-24 |  |
+| [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-09-26 | 2023-04-09 |
 | [Tonight I'll Be Staying Here with You](https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:21 | 2022-02-04 |  |
 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-12-16 |  |
 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 | 2022-02-18 | 2022-05-25 |

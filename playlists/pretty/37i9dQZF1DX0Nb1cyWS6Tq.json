@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 588251,
+  "num_followers": 589285,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMzgyMCwwMDAwMDAwMGExYTYwMjZjZTRjMjk5ZjQxMzRjODY2NDFmM2UwZjAx",
+  "snapshot_id": "MTY3OTAxMzgyMCwwMDAwMDAwMDJjNjI0OWE0MzI5ZjQxM2Q3MTQwMTc2OWUzY2MwMTZm",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Scott 3",
-        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
-      },
-      "artists": [
-        {
-          "name": "Scott Walker",
-          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
-        }
-      ],
-      "duration_ms": 86333,
-      "name": "30 Century Man",
-      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Mask",
         "url": "https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 220160,
       "name": "Kick in the Eye",
       "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Scott 3",
+        "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
+      },
+      "artists": [
+        {
+          "name": "Scott Walker",
+          "url": "https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq"
+        }
+      ],
+      "duration_ms": 86333,
+      "name": "30 Century Man",
+      "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Wolfheart",
-        "url": "https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7"
+        "name": "Is Nothing Sacred?",
+        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
       },
       "artists": [
         {
-          "name": "Moonspell",
-          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+          "name": "Lords Of The New Church",
+          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
         }
       ],
-      "duration_ms": 335893,
-      "name": "Vampiria",
-      "url": "https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk"
+      "duration_ms": 205693,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
     }
   ],
   "unique_name": "Dark & Gothic",

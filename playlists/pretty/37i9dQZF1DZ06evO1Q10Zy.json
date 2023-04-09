@@ -1,15 +1,15 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 30688,
+  "num_followers": 30704,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMTMxMTgsMDAwMDAwMDAwMDNlYTAzNjc0NjMxMzNiNTZmYTdiMWU0MDdjYWFiNQ==",
+  "snapshot_id": "MjgwMTU5NTcsMDAwMDAwMDBjYTBmMDk5NzQwNmU0YTJhMjc4NmFiMDliZGFjMzdmMw==",
   "tracks": [
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5hBEqzQ2az9kDXRXJTDCZw"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "For The Cool In You",
         "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
@@ -125,7 +125,47 @@
       "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 315093,
+      "name": "How Come, How Long (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 176922,
+      "name": "Say Less (with Tiana Major9)",
+      "url": "https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
@@ -157,47 +197,7 @@
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 176922,
-      "name": "Say Less (with Tiana Major9)",
-      "url": "https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 315093,
-      "name": "How Come, How Long (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "As a matter of fact",
         "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
@@ -213,43 +213,7 @@
       "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Whip Appeal",
-      "url": "https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 201528,
-      "name": "Girls Night Out (with Doechii)",
-      "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
@@ -281,7 +245,59 @@
       "url": "https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Girls Night Out (with Doechii)",
+      "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Whip Appeal",
+      "url": "https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Never Keeping Secrets",
+      "url": "https://open.spotify.com/track/7L06pF5o819jflseQ4Wde5"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Girls Night Out (Extended)",
         "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
@@ -301,23 +317,7 @@
       "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Never Keeping Secrets",
-      "url": "https://open.spotify.com/track/7L06pF5o819jflseQ4Wde5"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/6NKtO7hYNDtjGFXE858qEk"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
@@ -373,47 +373,7 @@
       "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 216853,
-      "name": "Where Did We Go Wrong?",
-      "url": "https://open.spotify.com/track/3aefZfkE1vgF4utcNTKi04"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 151577,
-      "name": "Simple (with Coco Jones)",
-      "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Painted (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
@@ -433,7 +393,47 @@
       "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 151577,
+      "name": "Simple (with Coco Jones)",
+      "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 216853,
+      "name": "Where Did We Go Wrong?",
+      "url": "https://open.spotify.com/track/3aefZfkE1vgF4utcNTKi04"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
@@ -449,27 +449,7 @@
       "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
@@ -489,7 +469,7 @@
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Babyface Unplugged NYC 1997",
         "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
@@ -505,7 +485,27 @@
       "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
@@ -525,27 +525,7 @@
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
@@ -561,7 +541,7 @@
       "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "No Stoppin' Us",
         "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
@@ -589,7 +569,27 @@
       "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Grown & Sexy",
         "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
@@ -605,27 +605,7 @@
       "url": "https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
@@ -645,27 +625,7 @@
       "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
@@ -685,7 +645,7 @@
       "url": "https://open.spotify.com/track/4xDoRWwnUASi910ArPewng"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Love, Marriage\u200e & Divorce",
         "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
@@ -700,12 +660,32 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4"
+      "duration_ms": 250080,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
@@ -721,7 +701,7 @@
       "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "HAV PLENTY Music From The Motion Picture",
         "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
@@ -741,7 +721,27 @@
       "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
@@ -757,7 +757,39 @@
       "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "It's No Crime",
+      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Love, Marriage\u200e & Divorce",
         "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
@@ -777,39 +809,7 @@
       "url": "https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Grown & Sexy",
-      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "It's No Crime",
-      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "A Closer Look",
         "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
@@ -841,23 +841,7 @@
       "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
-      "album": {
-        "name": "Reason For Breathing",
-        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Reason for Breathing - Album Edit",
-      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
-    },
-    {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
@@ -873,7 +857,23 @@
       "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
+      "album": {
+        "name": "Reason For Breathing",
+        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Reason for Breathing - Album Edit",
+      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
+    },
+    {
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Babyface Unplugged NYC 1997",
         "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/0gazVflAsJdyXmuFrIiKmq"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Grown & Sexy",
         "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "For The Cool In You",
         "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Partners (Deluxe)",
         "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
     },
     {
-      "added_at": "2023-04-06 13:18:15",
+      "added_at": "2023-04-08 12:37:30",
       "album": {
         "name": "Back With A Heart",
         "url": "https://open.spotify.com/album/0AGBh7qLk5x8puPv7sH721"

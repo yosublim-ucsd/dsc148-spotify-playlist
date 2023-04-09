@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 185129,
       "name": "Addicted (Acoustic)",
       "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 254550,
       "name": "At Your Best (You Are Love)",
       "url": "https://open.spotify.com/track/1UQdvPrkLvzvU4ktYCRHCu"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 191170,
       "name": "Be Honest (feat. Burna Boy) (acoustic)",
       "url": "https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 214013,
       "name": "Burn - Outro 4 Intro",
       "url": "https://open.spotify.com/track/2J6zYW4fByPIAn9GVzNNrX"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 189546,
       "name": "Deeper Dark",
       "url": "https://open.spotify.com/track/3cvKUJL7vSRgV5cWh7czXW"
@@ -690,6 +690,24 @@
       "duration_ms": 126087,
       "name": "Deflect",
       "url": "https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI"
+    },
+    {
+      "album": {
+        "name": "Deliverer",
+        "url": "https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249350,
+      "name": "Deliverer",
+      "url": "https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M"
     },
     {
       "album": {
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 213966,
       "name": "First Began - Acoustic Version",
       "url": "https://open.spotify.com/track/5NIg1z3gZebnURrsDOlfmO"
@@ -1335,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Horsepower For The Streets (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "Horsepower For The Streets - Acoustic String Version",
+      "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
+    },
+    {
+      "album": {
         "name": "Thicker Than Water",
         "url": "https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5"
       },
@@ -1425,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "i would if i could",
+        "url": "https://open.spotify.com/album/64jm9EDJ6UDC1TGHxeZeQI"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163895,
+      "name": "i would if i could",
+      "url": "https://open.spotify.com/track/6dqvUBabxiilgNnoGqhp6e"
+    },
+    {
+      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/0DABQ84K1LcuqoPXjm1pv8"
       },
@@ -1472,7 +1526,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 265528,
       "name": "If You Let Me (acoustic)",
       "url": "https://open.spotify.com/track/34saUkPG912g18oQd8FT3R"
@@ -1635,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199903,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "album": {
         "name": "Kool Aid (Acoustic)",
         "url": "https://open.spotify.com/album/5Tz504v4T99RM3I6Plh6AJ"
       },
@@ -1664,7 +1736,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 323173,
       "name": "Land Of Possibilities - Live at Bitterzoet",
       "url": "https://open.spotify.com/track/7Kh1vJGY0z3BCfDKsgpkAm"
@@ -1946,7 +2018,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 274311,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/4SmFQJI0xNBavjodMBfscN"
@@ -2090,7 +2162,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 170000,
       "name": "No Logic (Acoustic)",
       "url": "https://open.spotify.com/track/0kfg8qkgNNB13UZx7eJhRo"
@@ -2202,7 +2274,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 243970,
       "name": "Nothing On You - Piano Version",
       "url": "https://open.spotify.com/track/1ZyKvHxpgMg7r76sjpTma0"
@@ -2368,7 +2440,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
@@ -2404,7 +2476,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 208489,
       "name": "Pulling Away (acoustic)",
       "url": "https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE"
@@ -2422,7 +2494,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 204733,
       "name": "Radio - Acoustic",
       "url": "https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH"
@@ -2476,7 +2548,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 355146,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/1EgqV6SBNDEY1kspPMiUby"
@@ -2574,7 +2646,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 237845,
       "name": "Say So - Acoustic Version",
       "url": "https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf"
@@ -2738,7 +2810,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 198000,
       "name": "Still - Mahogany Sessions",
       "url": "https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG"
@@ -2886,7 +2958,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 189149,
       "name": "The Reason Why - Guitar Acoustic",
       "url": "https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj"
@@ -2922,7 +2994,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 227710,
       "name": "This Womans Work",
       "url": "https://open.spotify.com/track/5JoZlm8om4GQPZmRwe4QUg"
@@ -3294,7 +3366,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180973,
       "name": "You",
       "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"

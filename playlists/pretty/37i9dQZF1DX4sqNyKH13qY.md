@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sqNyKH13qY.md) - [plain]
 
 > Hear all of the rapper's greatest hits and features\. Flawless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,240 likes - 69 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,625 likes - 69 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

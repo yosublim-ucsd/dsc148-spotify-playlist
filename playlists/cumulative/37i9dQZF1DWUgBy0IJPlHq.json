@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Nolan Taylor",
+  "description": "A new shade of Country. Cover: Tyler Childers",
   "name": "Indigo",
   "tracks": [
     {
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 207866,
       "name": "Can Chaser",
       "url": "https://open.spotify.com/track/2DJ2K0q0S0xuKJEC1SAJgy"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 220039,
       "name": "Can't Do This No More",
       "url": "https://open.spotify.com/track/6gFjIEEkRARKGavCqFJNLW"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 250253,
       "name": "High School Gym",
       "url": "https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 240170,
       "name": "Intertwine",
       "url": "https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD"
@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 259077,
       "name": "Long, Long Year",
       "url": "https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T"
@@ -6223,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "Straight and Narrow",
+        "url": "https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF"
+    },
+    {
+      "album": {
         "name": "If your tired heart is aching...",
         "url": "https://open.spotify.com/album/78ijTLvmc9f653NePvU8nH"
       },
@@ -6716,7 +6734,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 203964,
       "name": "The Highway Song",
       "url": "https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46"
@@ -7739,6 +7757,28 @@
     },
     {
       "album": {
+        "name": "Who\u2019s Laughing Now?",
+        "url": "https://open.spotify.com/album/6mWsYknwm1ONN8YtNrDVEU"
+      },
+      "artists": [
+        {
+          "name": "The Pink Stones",
+          "url": "https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG"
+        },
+        {
+          "name": "Teddy and The Rough Riders",
+          "url": "https://open.spotify.com/artist/73PqmYewGOesbBVOciGNV8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215607,
+      "name": "Who\u2019s Laughing Now?",
+      "url": "https://open.spotify.com/track/1l9LGKMWlwXrPOYFPiTugJ"
+    },
+    {
+      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
@@ -7916,7 +7956,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 155293,
       "name": "Working Man Blues",
       "url": "https://open.spotify.com/track/0KGCTdgtxawKhrNrbuT10z"

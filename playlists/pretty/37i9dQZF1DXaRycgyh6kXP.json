@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 168129,
+  "num_followers": 168409,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDNmMjEyYTQ2MDI5NmRhZThhMGRhNGMyNmUyOGJmYjlk",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGVlODA0YjJkNzRjODM1MmI4OTMyMjAzN2QzODNmMTRh",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 287720,
       "name": "Eyes Be Closed",
       "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Crooks & Lovers",
         "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 250338,
       "name": "Before I Move Off",
       "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Tiny Reminders",
-        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
-      },
-      "artists": [
-        {
-          "name": "Two Lone Swordsmen",
-          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Constant Reminder",
-      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "FTLOG",
         "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 284705,
       "name": "Kilika",
       "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Tiny Reminders",
+        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Constant Reminder",
+      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
-      },
-      "artists": [
-        {
-          "name": "Lomea",
-          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
-        }
-      ],
-      "duration_ms": 229158,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
+      },
+      "artists": [
+        {
+          "name": "Lomea",
+          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
+        }
+      ],
+      "duration_ms": 229158,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Go / Together",
+        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 486941,
+      "name": "Together - Rework",
+      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "White Flower, Dark Hill",
         "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Go / Together",
-        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 486941,
-      "name": "Together - Rework",
-      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
     },
     {
       "added_at": "2022-02-03 02:43:26",

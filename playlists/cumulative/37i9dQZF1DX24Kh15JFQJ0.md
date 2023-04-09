@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Willie Nelson
+> The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-182 songs - 10 hr 36 min
+184 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Gonna Be Alright](https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI) | [The Kentucky Headhunters](https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY) | [....That's a Fact Jack!](https://open.spotify.com/album/6B0g54q8KeALKIM1rARwmw) | 3:59 | 2021-11-19 | 2022-09-21 |
 | [Good Brown Gravy](https://open.spotify.com/track/4r73MgEVjf5xMkGui5tNeD) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794), [Wink Martindale](https://open.spotify.com/artist/1X5ZSwlYraWjWqjkkhJjdg) | [Good Brown Gravy](https://open.spotify.com/album/04FuVoV7pMjU94jTcUfRly) | 2:38 | 2021-10-15 | 2023-04-01 |
 | [Grass Is Green Enough Right Here](https://open.spotify.com/track/2tQFUEceD3I2SHKzT6u9Z4) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Grass Is Green Enough Right Here](https://open.spotify.com/album/2eNC9W2afhPJOYIp6qgFTm) | 2:26 | 2023-01-06 |  |
+| [Grits](https://open.spotify.com/track/2ZgZwqFtcaKLYEayrYxL4N) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj), [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS), [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt), [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u), [Dean Miller](https://open.spotify.com/artist/2lyuVVWLKysEfl3IsWJpvZ) | [Grits](https://open.spotify.com/album/5RGYpGBUySZlP9XX4Q4H8n) | 3:07 | 2023-04-07 |  |
 | [Heartbreak Song](https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Heartbreak Song](https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ) | 3:59 | 2022-07-29 |  |
 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 | 2022-07-22 |  |
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |
@@ -101,6 +102,7 @@
 | [I’ve Gotta Get A Message To You \(feat\. Keith Urban\)](https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:14 | 2021-10-15 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/track/3HkWhLEBsyKVooHSkxeGW3) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/album/1wzI8J2S16JMAd27k0fMIZ) | 3:14 | 2023-02-21 |  |
+| [Kindness](https://open.spotify.com/track/1r1AqeRw3T8eYbuMTHNTYB) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Kindness](https://open.spotify.com/album/25zJec6iPEpDZfnYA0DZpO) | 3:21 | 2023-04-07 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
 | [Life is Beautiful](https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 3:53 | 2022-07-22 |  |
 | [Life is Beautiful](https://open.spotify.com/track/2I13ZwV1Xz1UqoemhWa7fz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Swing Down Chariot](https://open.spotify.com/album/1ZycZB9RBLz942ouEEDJbz) | 3:53 | 2022-11-04 | 2022-11-14 |

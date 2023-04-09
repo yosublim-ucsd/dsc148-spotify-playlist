@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-366 songs - 1 day 8 hr 54 min
+367 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bring the Heat](https://open.spotify.com/track/4509YwOHu4aDFR8gagFuw1) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Bring the Heat](https://open.spotify.com/album/21oRCK6XtAfsxIbfuEWGRA) | 6:22 | 2021-12-08 |  |
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-08 |  |
 | [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 |  |
-| [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 | 2021-12-08 |  |
+| [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 | 2021-12-08 | 2023-04-09 |
 | [Can’t Quite Understand](https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:29 | 2021-12-08 | 2022-12-04 |
 | [Captivated](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Captivated](https://open.spotify.com/album/4vVmbCnag2aKDlEiB4iy6G) | 3:07 | 2021-12-08 |  |
 | [Castles](https://open.spotify.com/track/2kts9CqkgeHyJLIN22WAwb) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:18 | 2022-10-28 |  |
@@ -124,6 +124,7 @@
 | [Hide and Seek](https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Hide and Seek](https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM) | 5:09 | 2021-12-08 | 2022-07-29 |
 | [Hide and Seek](https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 5:09 | 2022-05-03 |  |
 | [Hiraeth \(feat\. Kim Van Loo\)](https://open.spotify.com/track/4Pd7JgZI8zvewbeZLsIDxe) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Kim Van Loo](https://open.spotify.com/artist/7hNkG8n1xZ8BEpGu51udR1) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 4:59 | 2022-10-28 |  |
+| [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-07 |  |
 | [Hold On](https://open.spotify.com/track/1fyfYEmav5ovqInATtLZJa) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/5uaPCKOQy4Bihr6sEAVF5e) | 3:24 | 2022-05-03 | 2023-01-06 |
 | [Hold On](https://open.spotify.com/track/29noX0FL5ZMDF5bg77G52G) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/40Hq20k3nG8x3pH025RiIl) | 3:24 | 2022-05-03 | 2022-10-15 |
 | [Hold On](https://open.spotify.com/track/5QJ2hs1d22vxT8f2Jz29M2) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/38PIcexdesDkSJOwfnHS6K) | 3:24 | 2021-12-08 | 2022-07-29 |
@@ -225,7 +226,7 @@
 | [Ordel](https://open.spotify.com/track/1IApuzXhafsVkrijOUUhVt) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Ordel](https://open.spotify.com/album/2BPC2mYDZSnAJaGdibjlrE) | 4:18 | 2021-12-08 | 2022-07-29 |
 | [Ordel](https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:18 | 2022-05-03 |  |
 | [Other Side](https://open.spotify.com/track/0VRRRETDAp4aubJJAlhXjH) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 6:09 | 2021-12-08 |  |
-| [Out Of The Woods](https://open.spotify.com/track/4kXibedUZqFewRsRQGzxjh) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Saint Rock](https://open.spotify.com/artist/2lbMcFBLe4XhGSrfLFK5E2) | [Out Of The Woods](https://open.spotify.com/album/49WuLA5VuGqvSnat6CGcQ5) | 4:35 | 2023-04-04 |  |
+| [Out Of The Woods](https://open.spotify.com/track/4kXibedUZqFewRsRQGzxjh) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Out Of The Woods](https://open.spotify.com/album/49WuLA5VuGqvSnat6CGcQ5) | 4:35 | 2023-04-04 |  |
 | [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 | 2021-12-08 |  |
 | [Over You](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Over You](https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI) | 2:51 | 2023-01-06 |  |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2021-12-08 | 2022-07-29 |

@@ -2,7 +2,7 @@
 
 ### [I Love My '00s R&B](https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb)
 
-> The most essential R&B songs from the 2000s\. Cover: Mariah Carey
+> The most essential R&B songs from the 2000s\. Cover: Usher
 
 147 songs - 10 hr 11 min
 

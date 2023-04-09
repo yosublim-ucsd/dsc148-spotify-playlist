@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,169 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,202 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 17 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 18 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
 | 19 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 |
-| 20 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
-| 21 | [Part Time Lover](https://open.spotify.com/track/1QrRjlQm9R2a1QehlIodIv) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:07 |
+| 20 | [Part Time Lover](https://open.spotify.com/track/1QrRjlQm9R2a1QehlIodIv) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:07 |
+| 21 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
 | 22 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
 | 23 | [Shame](https://open.spotify.com/track/1apzxNzMksJZtbDBKFIsdx) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [A Low Down Dirty Shame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wsZKe08Etc5Z1vE5fHN9M) | 4:14 |
 | 24 | [Pass The Peas](https://open.spotify.com/track/4FD1AIbChsuCiwt2mqPfWo) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 3:10 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 39 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMDI3NDMwMGFmMzFkYmMzNTRlNjYwNjE0N2JjOTVlNGZj`
+Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMDNiNDllNWE0YTI2Y2ZkNzVmZDc2Y2Y4OGE4YmYzYzVm`

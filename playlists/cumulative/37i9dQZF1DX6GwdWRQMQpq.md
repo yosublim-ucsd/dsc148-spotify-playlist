@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: BIA
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Kali
 
-302 songs - 13 hr 44 min
+304 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Against The Law \(feat\. KenTheMan\)](https://open.spotify.com/track/0DI6obJSPoev6ryG0NIsYC) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:46 | 2022-11-18 | 2023-03-04 |
 | [Ain't Loyal](https://open.spotify.com/track/4VEw8rQd6cf21tRR8b8xSO) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Medusa](https://open.spotify.com/album/5uAbArq49FcSJ2MYILUHzE) | 2:34 | 2022-07-15 | 2022-09-03 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-30 | 2022-02-05 |
+| [Aint Got Time](https://open.spotify.com/track/3l7tZsu3paLDT1iVy1XiSl) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Aint Got Time](https://open.spotify.com/album/1ao8jKjlX1V1nsWgnW7eJg) | 2:49 | 2023-04-07 |  |
 | [Alone](https://open.spotify.com/track/4dRnee7aZfEe4DKBIY7otj) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Alone](https://open.spotify.com/album/3FzO2HSNQXKeT6XVeeEgws) | 2:38 | 2022-10-21 | 2022-11-19 |
 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 |  |
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-01-28 | 2022-04-02 |
@@ -52,7 +53,7 @@
 | [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 | 2022-12-16 | 2023-01-28 |
 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 | 2022-11-18 |  |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-28 | 2023-03-25 |
-| [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 |  |
+| [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 | 2023-04-09 |
 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 | 2023-03-17 |  |
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-10-29 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 |  |
@@ -119,7 +120,7 @@
 | [Gimme Head](https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Gimme Head](https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2) | 2:59 | 2022-06-17 | 2022-09-03 |
 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 | 2022-10-22 | 2022-11-19 |
 | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/album/4ZCRbkgSa3MmQ8LX3Nf3k0) | 2:22 | 2022-08-26 | 2022-11-14 |
-| [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 2:22 | 2022-11-11 |  |
+| [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 2:22 | 2022-11-11 | 2023-04-09 |
 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 | 2022-08-05 | 2022-09-10 |
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-01 | 2023-02-04 |
 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2022-07-22 | 2022-09-03 |
@@ -157,6 +158,7 @@
 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 | 2022-04-15 | 2022-11-26 |
 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 | 2022-03-04 | 2022-03-18 |
 | [Juice](https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Juice](https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq) | 2:36 | 2022-01-21 | 2022-01-29 |
+| [Keep Dat Nigga](https://open.spotify.com/track/1J6LmildSwpP7q8OICHsn3) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/3BYFEDzli2cr8ZgVarGcLj) | 2:18 | 2023-04-07 |  |
 | [Keep Going](https://open.spotify.com/track/5WFS94mQU8LHIlejXYpKP2) | [Bella Blaq](https://open.spotify.com/artist/5fVqCTmEK6KwE54TdziL3R) | [Keep Going](https://open.spotify.com/album/2daeZKCpqIqpHJoOt12lyJ) | 2:08 | 2022-02-04 | 2022-05-20 |
 | [Keep it Playa](https://open.spotify.com/track/1JBjfBbl1WdRz01inOooWz) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Keep it Playa](https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516) | 2:45 | 2022-11-11 | 2022-11-19 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-23 |  |

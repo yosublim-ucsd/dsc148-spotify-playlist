@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 199431,
       "name": "Baby Beluga",
       "url": "https://open.spotify.com/track/1cIGsKlc7FlX4jTzEu62sD"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 135992,
       "name": "Believe in Butterflies",
       "url": "https://open.spotify.com/track/2oOxKqYBmRy00z4zV7tUER"
@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Dear friend",
+        "url": "https://open.spotify.com/album/3xLQqYtb1EzWLigJTIjpI7"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99250,
+      "name": "Dear friend",
+      "url": "https://open.spotify.com/track/6OlAeouZ2LpqWm0xfIuIla"
+    },
+    {
+      "album": {
         "name": "Den Finurliga Humlan",
         "url": "https://open.spotify.com/album/6eqbBYqruKx9FTGOBHbLbf"
       },
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 91450,
       "name": "Friendly Butterflies",
       "url": "https://open.spotify.com/track/40rMlrU1agJEz6HShxFwm8"
@@ -3206,6 +3224,24 @@
       "duration_ms": 105376,
       "name": "Get Your Cozy",
       "url": "https://open.spotify.com/track/7erHsPOy5lmIfLA6A9U4Il"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5Fhc4heUEqsi32fZCCTl7o"
+      },
+      "artists": [
+        {
+          "name": "Miso Miso",
+          "url": "https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213442,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/2Pnkj5S1dgpKab8jPx9qRO"
     },
     {
       "album": {
@@ -5301,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Lille Katt",
+        "url": "https://open.spotify.com/album/6er6dplLQHmA1Aef6h28NL"
+      },
+      "artists": [
+        {
+          "name": "Sofia Runmon",
+          "url": "https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101492,
+      "name": "Lille Katt",
+      "url": "https://open.spotify.com/track/55o1KFYCp3y6mJrNTMV8Cz"
+    },
+    {
+      "album": {
         "name": "Lily's Lullaby",
         "url": "https://open.spotify.com/album/3Db7Bl8AXL5Gy5oP5wcG9W"
       },
@@ -5420,7 +5474,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 71500,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/37ctO025YoKbJ8hgoDm9un"
@@ -7004,7 +7058,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 87000,
       "name": "On a rainy day",
       "url": "https://open.spotify.com/track/4jgCNXV4ZoQcQc8yz1Kc0O"
@@ -7044,6 +7098,24 @@
       "duration_ms": 95000,
       "name": "On the Night You Were Born",
       "url": "https://open.spotify.com/track/3UdgbTMhsYFw6EfQ8alEP3"
+    },
+    {
+      "album": {
+        "name": "Once Upon",
+        "url": "https://open.spotify.com/album/0nYLfxU39Hx9ArHkvZaklt"
+      },
+      "artists": [
+        {
+          "name": "Emilie Kirsstadt",
+          "url": "https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69333,
+      "name": "Once Upon",
+      "url": "https://open.spotify.com/track/2rfou3j13jIXEBvWoRRN60"
     },
     {
       "album": {
@@ -9053,6 +9125,24 @@
     },
     {
       "album": {
+        "name": "Lullaby Land",
+        "url": "https://open.spotify.com/album/241TGPQPSZ5HqcyP4iSvJN"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Cross",
+          "url": "https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93695,
+      "name": "Sweet Slumber",
+      "url": "https://open.spotify.com/track/1iQnGjpwi75756UHViEqjN"
+    },
+    {
+      "album": {
         "name": "S\u00f6mniga \u00d6gon",
         "url": "https://open.spotify.com/album/2nKa6ufE9qHY9f2A1dQpMz"
       },
@@ -9104,6 +9194,24 @@
       "duration_ms": 92074,
       "name": "Ted In The Bed",
       "url": "https://open.spotify.com/track/50ZfMbwrcqwnsFZvmIHsI1"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear's Dream",
+        "url": "https://open.spotify.com/album/2bPtnDir4r5E0cwSvG9AVO"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruch",
+          "url": "https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109557,
+      "name": "Teddy Bear's Dream",
+      "url": "https://open.spotify.com/track/4SPWjiq9chzlTL7oVtETwF"
     },
     {
       "album": {
@@ -9467,6 +9575,24 @@
     },
     {
       "album": {
+        "name": "A Bedtime Story",
+        "url": "https://open.spotify.com/album/1WUP1LJLcMuMlTfALi8b2z"
+      },
+      "artists": [
+        {
+          "name": "Anton De Ville",
+          "url": "https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140859,
+      "name": "The Moonlight Song",
+      "url": "https://open.spotify.com/track/5LznhYnD0vDuf73wegUAX4"
+    },
+    {
+      "album": {
         "name": "The Most Wonderful Dream",
         "url": "https://open.spotify.com/album/750aQGpUStTIzdmSCOoBsS"
       },
@@ -9482,6 +9608,24 @@
       "duration_ms": 163750,
       "name": "The Most Wonderful Dream",
       "url": "https://open.spotify.com/track/5otf2Hr3mDUakyHUyn4J6H"
+    },
+    {
+      "album": {
+        "name": "The Owl's Goodnight Song",
+        "url": "https://open.spotify.com/album/1MtNHwBjXpDbkWcbBa8SjE"
+      },
+      "artists": [
+        {
+          "name": "Kim Akvileja",
+          "url": "https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105096,
+      "name": "The Owl's Goodnight Song",
+      "url": "https://open.spotify.com/track/6Sb9TS9Ikxt0mZ7ZqTQAia"
     },
     {
       "album": {
@@ -9626,6 +9770,24 @@
       "duration_ms": 74500,
       "name": "The Stars Above",
       "url": "https://open.spotify.com/track/4SwvSIQv33vIYY2p9TTFJF"
+    },
+    {
+      "album": {
+        "name": "The Stars Above",
+        "url": "https://open.spotify.com/album/7pHXhZ3mHRPj5Go0nlCmBD"
+      },
+      "artists": [
+        {
+          "name": "Luna Lullaby",
+          "url": "https://open.spotify.com/artist/536tWPZqsyMSqSLXbftqg1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100932,
+      "name": "The Stars Above",
+      "url": "https://open.spotify.com/track/1WY6rpRhyd0RFFiHUkYjRb"
     },
     {
       "album": {
@@ -9788,6 +9950,24 @@
       "duration_ms": 123076,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/3C05Gs09H0G6OGk8A4lNCl"
+    },
+    {
+      "album": {
+        "name": "Three Little Chicks",
+        "url": "https://open.spotify.com/album/5KPOhttho291Nc8YqgJqW9"
+      },
+      "artists": [
+        {
+          "name": "Marlene Soeren",
+          "url": "https://open.spotify.com/artist/7lhwZYEpTqsoU0I1mFg1iv"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114250,
+      "name": "Three Little Chicks",
+      "url": "https://open.spotify.com/track/3dhyQZVviFGqSDBMxevFPJ"
     },
     {
       "album": {
@@ -10324,7 +10504,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 128058,
       "name": "Var Bor Du Lilla R\u00e5tta",
       "url": "https://open.spotify.com/track/0y9FgtF7iw9FfyCkw9AALZ"
@@ -10853,6 +11033,24 @@
     },
     {
       "album": {
+        "name": "You Put A Smile On My Face",
+        "url": "https://open.spotify.com/album/49y36aYeSGncbq74QZInNC"
+      },
+      "artists": [
+        {
+          "name": "Judy Bartley",
+          "url": "https://open.spotify.com/artist/3LviZuoIAm8vDjxT4otaY7"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107626,
+      "name": "You Put A Smile On My Face",
+      "url": "https://open.spotify.com/track/4Mg43uJAvlcL1uiHVxqEYT"
+    },
+    {
+      "album": {
         "name": "Your Dreams",
         "url": "https://open.spotify.com/album/1AhbCgfNXekJc19LZk3Abh"
       },
@@ -10868,6 +11066,24 @@
       "duration_ms": 83478,
       "name": "Your Dreams",
       "url": "https://open.spotify.com/track/4ofrtW6Nkb7qUxyhwp67kq"
+    },
+    {
+      "album": {
+        "name": "Dreams Made Of Happy Thoughts",
+        "url": "https://open.spotify.com/album/753A0gjzaaLxcMo01TP24j"
+      },
+      "artists": [
+        {
+          "name": "Michel Couture",
+          "url": "https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130207,
+      "name": "Your Teddy Friend",
+      "url": "https://open.spotify.com/track/1jbBpqvGdzSm7CHBW1Psrw"
     },
     {
       "album": {

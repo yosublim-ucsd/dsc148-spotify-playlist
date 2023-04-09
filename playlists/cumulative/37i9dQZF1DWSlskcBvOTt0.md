@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-392 songs - 1 day 16 hr 0 min
+393 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-01 |  |
 | [Forest Moon](https://open.spotify.com/track/5p7vUQP5xkQY6qP8SqqIlU) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Forest Moon](https://open.spotify.com/album/4lzTuaJRwJCb6CRjOv9j1L) | 6:47 | 2021-04-21 | 2022-07-16 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-08 | 2022-12-17 |
+| [Free Bird](https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 3:43 | 2023-03-31 |  |
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2021-04-21 | 2022-07-29 |
 | [Gaida](https://open.spotify.com/track/4yUnIfJyactd9T615iFFjQ) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [C'mon](https://open.spotify.com/artist/6x4QkA6MiOZx0uWMOa8394), [Otistic](https://open.spotify.com/artist/6i6sCJwxvOeJWWivhbaRUd) | [Gaida](https://open.spotify.com/album/3YXUofA9XSgNaMwW0hTG1B) | 6:13 | 2023-01-27 | 2023-03-26 |
@@ -231,7 +232,7 @@
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-20 |  |
 | [Mezcal](https://open.spotify.com/track/6dhXnd3p9TlLXHQm0fVYtA) | [MIGANOVA](https://open.spotify.com/artist/7JZgaqDtEI3wwdvfeEuWXT) | [Mezcal](https://open.spotify.com/album/0K7nRLxSiwSF4O42winWoH) | 6:48 | 2021-12-13 | 2022-04-21 |
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-08-27 | 2022-07-10 |
-| [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 |  |
+| [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-09 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |
 | [Moogami](https://open.spotify.com/track/3eE1iKxmBVgsQK11Gk4WM9) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Moogami EP](https://open.spotify.com/album/7dFiAtaxK2FejRLMb9pAfW) | 9:01 | 2021-04-21 | 2022-07-16 |
 | [More & More \- No Vox Mix](https://open.spotify.com/track/0BV51sEynTVwGWq4PPQThN) | [Groovefella](https://open.spotify.com/artist/45ysl7gfRvC0FUIbmbXw9G) | [More & More](https://open.spotify.com/album/0mvLf6QrDCW3T4rkCNsyZ1) | 7:17 | 2021-04-21 | 2022-07-11 |

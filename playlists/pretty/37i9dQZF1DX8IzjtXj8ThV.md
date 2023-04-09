@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IzjtXj8ThV.md) - [plain]
 
 > There is only one Tyler, The Creator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,138 likes - 73 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,572 likes - 73 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

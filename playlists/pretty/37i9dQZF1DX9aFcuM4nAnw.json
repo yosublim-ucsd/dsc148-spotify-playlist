@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2574,
+  "num_followers": 2584,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDQ4ZjA0OWMwNWQxNmZkYzIwNmI5OTJkMjJhMTM2OWI1",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDA0ZmE1NTBhMjhlYjRkYjRhZjg0NzhkZjZhYjQwZTk1",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -379,8 +379,8 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 146160,
-      "name": "The First I love You",
-      "url": "https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22"
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -527,8 +527,8 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
+      "duration_ms": 143880,
+      "name": "This Isn't You",
+      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 143880,
-      "name": "This Isn't You",
-      "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"
+      "duration_ms": 194946,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -791,18 +791,26 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "In Fabric OST",
-        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
         }
       ],
-      "duration_ms": 254624,
-      "name": "Mannequin Metric",
-      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
+      "duration_ms": 333803,
+      "name": "Immemorial",
+      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -859,26 +867,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+        "name": "In Fabric OST",
+        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
       },
       "artists": [
         {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 333803,
-      "name": "Immemorial",
-      "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
+      "duration_ms": 254624,
+      "name": "Mannequin Metric",
+      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -911,6 +911,30 @@
       "duration_ms": 601827,
       "name": "Babel",
       "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
+      },
+      "artists": [
+        {
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        }
+      ],
+      "duration_ms": 284132,
+      "name": "What the Earth Bore",
+      "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1015,30 +1039,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1LN7F08ntBaf1E63RlSmpT"
-      },
-      "artists": [
-        {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        }
-      ],
-      "duration_ms": 284132,
-      "name": "What the Earth Bore",
-      "url": "https://open.spotify.com/track/4vfQOjhjyywh8OJQOAeGXD"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Sea of Black",
         "url": "https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes II",
-        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Utopian Facade",
-      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Translucent Communion",
         "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 316840,
       "name": "Anthropic Uncreation",
       "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Lost Themes II",
+        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Utopian Facade",
+      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
     },
     {
       "added_at": "2022-07-06 17:58:03",

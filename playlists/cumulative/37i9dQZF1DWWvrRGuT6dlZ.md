@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Dominic Chin\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Gaston Pong\. Artwork: Isu Kim.
 
-400 songs - 21 hr 59 min
+402 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [I F\*CKED a CHEATER](https://open.spotify.com/track/5TvuiNsfLwiPe3WPq8OHqC) | [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w), [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na) | [I F\*CKED a CHEATER](https://open.spotify.com/album/08JTfXV5vjB9StoAKVUmSJ) | 2:59 | 2022-04-28 | 2022-09-23 |
 | [i knew you'd break me too](https://open.spotify.com/track/3GxfAIc71D0H34YjmRtN4C) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i knew you'd break me too](https://open.spotify.com/album/7M9BIvJayv8lJAyP9EI8vD) | 3:06 | 2022-01-13 | 2022-06-17 |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2021-12-01 | 2022-01-14 |
+| [i luv u, just kidding](https://open.spotify.com/track/2N3ic25EhopQBfvYiLfST4) | [Gaston Pong](https://open.spotify.com/artist/60VWor37GAY948KKZibKiI) | [i luv u, just kidding](https://open.spotify.com/album/22Pluldf64A2ZxCHWPrK6z) | 2:59 | 2023-04-07 |  |
 | [I Miss You](https://open.spotify.com/track/33bTQa936DdseMAkYG480W) | [After Mdnight](https://open.spotify.com/artist/3ep3ws1EvwD6SKeVjjorqT) | [I Miss You](https://open.spotify.com/album/2ZT0rNL2TyFN5w7DvmXl9a) | 3:10 | 2022-01-27 | 2023-01-13 |
 | [i miss you](https://open.spotify.com/track/2F6yCLZrsXP910MnC5K3TE) | [Toska](https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H) | [i miss you](https://open.spotify.com/album/4n0BFspnQv8EaKwbI1ZymX) | 2:31 | 2023-03-23 |  |
 | [I Need](https://open.spotify.com/track/32Cwwxsfdt15oEQWHAjrrM) | [Opera Woo](https://open.spotify.com/artist/5MSpWEqTGTrf9XyHql7pJI) | [I Need](https://open.spotify.com/album/7qtq733WGadDuSWcAcHMK6) | 2:39 | 2022-06-30 | 2022-09-16 |
@@ -374,6 +375,7 @@
 | [Wanted U So](https://open.spotify.com/track/0GVYSWvmOuTkKtwBkhMgDc) | [Aishia](https://open.spotify.com/artist/4gwVG6OEO2siLODtf7vv6T) | [Wanted U So](https://open.spotify.com/album/6KUQXi3JlfPluahq3e12tk) | 2:05 | 2022-09-01 | 2023-02-10 |
 | [wanted you so bad](https://open.spotify.com/track/4knbHVPBSyVBzJz5Br0aGt) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [wanted you so bad](https://open.spotify.com/album/7d8mFneh61PQSyjIHErXL3) | 3:28 | 2022-01-13 | 2022-06-17 |
 | [warm udon](https://open.spotify.com/track/1ms370DnPCWGYZnskrpYlu) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi) | [candies](https://open.spotify.com/album/37bI4uV4mfgCvXFdq9nN8i) | 1:49 | 2022-09-15 |  |
+| [watch your tone](https://open.spotify.com/track/4UxBgn0FpZsartRkpHkPCY) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [watch your tone](https://open.spotify.com/album/792jDd7X2RSRd13qvuhgVm) | 3:55 | 2023-04-07 |  |
 | [WAX](https://open.spotify.com/track/1gZjZaB1BAYB3Y1u7z2Ahe) | [Opus Renegade](https://open.spotify.com/artist/28M9xINIoXsjRHNRHPWckr), [jimmy\_thegoat](https://open.spotify.com/artist/47guwsdQUnnKYOEInCv42p) | [WAX](https://open.spotify.com/album/76ru3A54fpOk0TrCUt5VLn) | 3:40 | 2022-01-13 | 2022-06-17 |
 | [we don't have to be alone](https://open.spotify.com/track/5FpTK4Z1piJvDuuq3vmtxA) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [we don't have to be alone](https://open.spotify.com/album/0ZLZ0eD69PGmrtuRYvfxz3) | 3:55 | 2023-01-12 | 2023-03-10 |
 | [We Go Up](https://open.spotify.com/track/0hs8RVXULjZT1J6zUleFY7) | [Athalia](https://open.spotify.com/artist/6aUdnZx15EMag2kqCMA4JY) | [We Go Up](https://open.spotify.com/album/60CJ9rniWbwLLYZidRynR9) | 3:41 | 2022-06-02 | 2022-09-23 |

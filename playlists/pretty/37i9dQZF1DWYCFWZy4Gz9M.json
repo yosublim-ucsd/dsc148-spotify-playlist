@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 45937,
+  "num_followers": 46003,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGIyOTI0NWZkMTNhODMxZTI0NDc1NDBiYmIyYTNhMjlk",
+  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGUyNjNmNDRmMmQzN2FhZWM2MGEzM2I1MTFmNmI3YmQ1",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Safi",
-        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
-      },
-      "artists": [
-        {
-          "name": "Ray Lema",
-          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
-        },
-        {
-          "name": "Tyour Gnaoua",
-          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Mister X",
-      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Morocco: Traditional Songs & Music",
         "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 261000,
       "name": "Toura toura (arr. N. Eddine)",
       "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Safi",
+        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
+      },
+      "artists": [
+        {
+          "name": "Ray Lema",
+          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
+        },
+        {
+          "name": "Tyour Gnaoua",
+          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Mister X",
+      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Makenba",
-        "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
-      },
-      "artists": [
-        {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        }
-      ],
-      "duration_ms": 474186,
-      "name": "Ali ya ali",
-      "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Africa Soyo",
         "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 388466,
       "name": "Arabiato",
       "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Makenba",
+        "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
+      },
+      "artists": [
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        }
+      ],
+      "duration_ms": 474186,
+      "name": "Ali ya ali",
+      "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
-        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
       "artists": [
         {
-          "name": "Altaf Gnawa Group",
-          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
         }
       ],
-      "duration_ms": 467800,
-      "name": "Sentir solo",
-      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
+      "duration_ms": 292520,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -755,18 +755,34 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
+        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
       "artists": [
         {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+          "name": "Altaf Gnawa Group",
+          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
         }
       ],
-      "duration_ms": 292520,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
+      "duration_ms": 467800,
+      "name": "Sentir solo",
+      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa - Sahara Desert Music",
+        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
+      },
+      "artists": [
+        {
+          "name": "Ben Souda Group",
+          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
+        }
+      ],
+      "duration_ms": 546400,
+      "name": "Moussa bahri",
+      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -787,22 +803,6 @@
       "duration_ms": 337693,
       "name": "Bala Yourki",
       "url": "https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Gnawa - Sahara Desert Music",
-        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
-      },
-      "artists": [
-        {
-          "name": "Ben Souda Group",
-          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
-        }
-      ],
-      "duration_ms": 546400,
-      "name": "Moussa bahri",
-      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "duration_ms": 375120,
+      "name": "Baba Arabi",
+      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Gnawa London",
         "url": "https://open.spotify.com/album/0D3b0UUxknxOaxWy69Q26D"
       },
@@ -867,30 +883,6 @@
       "duration_ms": 323848,
       "name": "Baniyorkoy",
       "url": "https://open.spotify.com/track/1Igxw5lYI0lGE9sHj1pefi"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Kalimba",
-        "url": "https://open.spotify.com/album/45kB4RCp3VGg3DZo3klaup"
-      },
-      "artists": [
-        {
-          "name": "Joachim K\u00fchn",
-          "url": "https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph"
-        },
-        {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        },
-        {
-          "name": "Ramon Lopez",
-          "url": "https://open.spotify.com/artist/2YGdXhpR7VkGHLHTA3x3GG"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Hamdouchi",
-      "url": "https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk"
     },
     {
       "added_at": "2022-03-10 07:10:03",

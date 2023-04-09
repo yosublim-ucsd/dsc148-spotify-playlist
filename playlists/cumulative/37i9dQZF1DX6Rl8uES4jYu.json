@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Dance With You (The Comeback)",
+        "url": "https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164493,
+      "name": "Dance With You (The Comeback)",
+      "url": "https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B"
+    },
+    {
+      "album": {
         "name": "Daydreams/Sunset",
         "url": "https://open.spotify.com/album/0SxqQkr5kB82oG93fRvtjE"
       },
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 193767,
       "name": "If Perfect Was Real",
       "url": "https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt"

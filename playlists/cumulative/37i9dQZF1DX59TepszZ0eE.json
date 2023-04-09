@@ -452,10 +452,28 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 458013,
       "name": "Jehovah Is Your Name (Live)",
       "url": "https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK"
+    },
+    {
+      "album": {
+        "name": "Spirit and Life",
+        "url": "https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458083,
+      "name": "Jehovah Is Your Name - Live",
+      "url": "https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN"
     },
     {
       "album": {

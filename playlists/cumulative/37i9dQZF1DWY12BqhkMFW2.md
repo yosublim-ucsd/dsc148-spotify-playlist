@@ -4,16 +4,17 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-67 songs - 5 hr 6 min
+68 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til My Baby Comes Home](https://open.spotify.com/track/33LLMc7LEuf4tc8h0NzhvC) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:38 | 2021-01-15 | 2022-07-29 |
-| [A Change Is Gonna Come](https://open.spotify.com/track/6lbXUz3ysZWYSbBFGiPgXJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On Top of The Covers](https://open.spotify.com/album/3nrTn6ARC5PpGw1DZysRNU) | 3:42 | 2023-04-01 |  |
+| [A Change Is Gonna Come](https://open.spotify.com/track/6lbXUz3ysZWYSbBFGiPgXJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On Top of The Covers](https://open.spotify.com/album/3nrTn6ARC5PpGw1DZysRNU) | 3:42 | 2023-03-31 |  |
 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 | 2021-01-15 |  |
 | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA) | 3:35 | 2021-01-15 | 2023-02-14 |
 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 | 2021-01-15 | 2022-11-29 |
 | [As](https://open.spotify.com/track/750vuAyjSZGt53r570s8ML) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 5:31 | 2021-01-15 | 2023-01-23 |
+| [Bag Lady / Split \- Live](https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:03 | 2023-04-07 |  |
 | [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/3o9PU86yJAeojzW69KdLh6) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Ultimate D'Angelo](https://open.spotify.com/album/6kdaBN7lOYDLZfCAGiSecr) | 3:56 | 2021-01-15 | 2022-07-29 |
 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 | 2021-01-15 |  |
 | [Feel Like Makin' Love](https://open.spotify.com/track/5ZbY8J67Qsv6Kko2tZOf5Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/1ecv8bJajqX9E0EOX2g3eI) | 6:22 | 2021-01-15 | 2022-07-25 |
@@ -34,7 +35,7 @@
 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 | 2021-01-15 |  |
 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 | 2021-01-15 |  |
 | [Love Changes \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/7q83jvO3GjbyS7FnHoM1f2) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 4:30 | 2021-01-15 | 2022-07-29 |
-| [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 | 2021-01-15 |  |
+| [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 | 2021-01-15 | 2023-04-09 |
 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 | 2021-01-15 |  |
 | [Love Me in a Special Way](https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:50 | 2021-01-15 | 2022-07-29 |
 | [Love Won't Let Me Wait](https://open.spotify.com/track/2QLX7wEeFwt3icCHi041CJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 3:53 | 2021-01-15 | 2022-07-28 |

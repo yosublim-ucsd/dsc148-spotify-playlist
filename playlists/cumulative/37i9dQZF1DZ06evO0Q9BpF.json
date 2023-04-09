@@ -685,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Salmo 34",
+        "url": "https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252977,
+      "name": "Salmo 34",
+      "url": "https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l"
+    },
+    {
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },

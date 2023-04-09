@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "NUTANA",
+        "url": "https://open.spotify.com/album/6wwhPFPCp19M47e19Y8oK0"
+      },
+      "artists": [
+        {
+          "name": "NUTANA",
+          "url": "https://open.spotify.com/artist/2IlotRrtfpIKvTZhXoXDH0"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203301,
+      "name": "Ave H Blue",
+      "url": "https://open.spotify.com/track/49kM29AjpsB9Zv444PnvED"
+    },
+    {
+      "album": {
         "name": "Baby, You're a Gun",
         "url": "https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk"
       },
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 278639,
       "name": "Maritime",
       "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 229528,
       "name": "Montana Waltz",
       "url": "https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 252058,
       "name": "Recyclers",
       "url": "https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj"
@@ -3750,6 +3768,28 @@
       "duration_ms": 174040,
       "name": "Smashed Up My Fender",
       "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
+    },
+    {
+      "album": {
+        "name": "Snakes and Ladders",
+        "url": "https://open.spotify.com/album/2QsIOMeDYFGLhWzIAellDK"
+      },
+      "artists": [
+        {
+          "name": "Jessica Rhaye",
+          "url": "https://open.spotify.com/artist/0JI6j7EohGdNldcfMxq9By"
+        },
+        {
+          "name": "The Ramshackle Parade",
+          "url": "https://open.spotify.com/artist/0TxRZtz5eUT5Vx3wkFQrZB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222773,
+      "name": "Snakes and Ladders",
+      "url": "https://open.spotify.com/track/7mnN6NVO9SdNtZhByoazrA"
     },
     {
       "album": {

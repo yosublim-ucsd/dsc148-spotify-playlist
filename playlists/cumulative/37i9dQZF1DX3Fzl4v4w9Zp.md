@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Pony Bradshaw
 
-413 songs - 1 day 1 hr 33 min
+414 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [The Weight](https://open.spotify.com/track/2r0O6Cdu64Op0Hn0C1wddm) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 5:56 | 2022-05-20 |  |
 | [the wild](https://open.spotify.com/track/7ikQXwUOS8Bst77bpYuXqH) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [the wild](https://open.spotify.com/album/76WVWvWXqnPjhIYjNjmzXy) | 4:13 | 2022-07-22 | 2022-11-12 |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-12-17 | 2022-02-23 |
+| [They Wait](https://open.spotify.com/track/5F3KK7xrW55qI2Vm7meMnc) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [They Wait](https://open.spotify.com/album/2FokvDZKaJuVqKcSof5sJ6) | 3:59 | 2023-04-07 |  |
 | [Thinkin' On You](https://open.spotify.com/track/2iHIA6MXyGkjP3658mROZw) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/7CungZ9S54si6eKBOqhnF6) | 3:09 | 2022-12-02 |  |
 | [This Must Be The Place](https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tax Code 1: Telepathy of a Mammoth](https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc) | 4:10 | 2022-05-27 | 2022-06-25 |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 | 2022-05-14 |

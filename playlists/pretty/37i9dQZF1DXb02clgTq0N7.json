@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. Fuerza Regida en portada.",
-  "num_followers": 99465,
+  "num_followers": 99752,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMGZiOWRiZjkwMjE0MjdjYjFmNDNkMTk2YzFhOGQyNDc0",
+  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMDY4MWJjNzk3NzY5ZGU3ZTZmNWQyMDA4NTg5NTNlNmM1",
   "tracks": [
     {
       "added_at": "2023-02-22 22:37:37",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 278058,
+      "name": "Manuel Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
         "name": "Pura Sombreriza",
         "url": "https://open.spotify.com/album/2y5pAezJKZJOFKIxDyoOCQ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 239375,
       "name": "Pura Sombreriza",
       "url": "https://open.spotify.com/track/0obbAYSS1mu1DFat1eJvSX"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 278058,
-      "name": "Manuel Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
         "name": "La Tambora Va A Sonar",
         "url": "https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 160293,
       "name": "La Tambora Va A Sonar",
       "url": "https://open.spotify.com/track/1dnZe0c1EVwHHiEvZy0XFO"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
-        "name": "La Historia De Mis Manos",
-        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Los Ninis",
-      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
     },
     {
       "added_at": "2023-02-22 22:37:37",

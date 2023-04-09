@@ -2575,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Confessions of a Fangirl",
+        "url": "https://open.spotify.com/album/3yjU0i0Fb57O3PwsTXtRvV"
+      },
+      "artists": [
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165022,
+      "name": "Don't We Always",
+      "url": "https://open.spotify.com/track/5wGUVrYzmEp9yP24YTSt0z"
+    },
+    {
+      "album": {
         "name": "dont make me wait",
         "url": "https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3"
       },

@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8533,
+  "num_followers": 8549,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDhhOWE1MTU5ZjE2OThjNTA1YTdmOGM2NzM0ZjM0Y2E4",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGI2NTFlYTUyZTY1NzU1NWYxNGQ2ZmJhNGZmMTRkMzUw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection",
-        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
-      "url": "https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Ballads",
         "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Honey (Special Edition)",
-        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection",
+        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
+      "duration_ms": 263040,
+      "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
+      "url": "https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -511,6 +495,22 @@
       "duration_ms": 265379,
       "name": "\uc544\ub85c\ud558",
       "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Honey (Special Edition)",
+        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -579,26 +579,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Ames Room",
-        "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
-      },
-      "artists": [
-        {
-          "name": "Supreme Team",
-          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
-        },
-        {
-          "name": "Young Jun",
-          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
-        }
-      ],
-      "duration_ms": 263079,
-      "name": "Then Then Then",
-      "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -615,18 +595,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+        "name": "Ames Room",
+        "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "Supreme Team",
+          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
+        },
+        {
+          "name": "Young Jun",
+          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+      "duration_ms": 263079,
+      "name": "Then Then Then",
+      "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -675,6 +659,22 @@
       "duration_ms": 257760,
       "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
       "url": "https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
-      },
-      "artists": [
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "F.Scott Fitzgerald's Way Of Love",
-        "url": "https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL"
-      },
-      "artists": [
-        {
-          "name": "2am",
-          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
-        }
-      ],
-      "duration_ms": 228453,
-      "name": "\ub108\ub3c4 \ub098\ucc98\ub7fc I Wonder If You Hurt Like Me",
-      "url": "https://open.spotify.com/track/2NDEW4uf4rvM5FytTtBrbZ"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "It's Different",
         "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 271893,
       "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
       "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "F.Scott Fitzgerald's Way Of Love",
+        "url": "https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "\ub108\ub3c4 \ub098\ucc98\ub7fc I Wonder If You Hurt Like Me",
+      "url": "https://open.spotify.com/track/2NDEW4uf4rvM5FytTtBrbZ"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Breeze Of Sea",
         "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 329026,
       "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
       "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Must Listen",
-        "url": "https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D"
+      "duration_ms": 216323,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Way I Am",
-        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
+        "name": "Must Listen",
+        "url": "https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
         }
       ],
-      "duration_ms": 216323,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+      "duration_ms": 201066,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SS501 (Single) 2\uc9d1",
-        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Snow Prince",
-      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+        "name": "SS501 (Single) 2\uc9d1",
+        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+      "duration_ms": 204973,
+      "name": "Snow Prince",
+      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
     },
     {
       "added_at": "2021-03-11 16:26:11",

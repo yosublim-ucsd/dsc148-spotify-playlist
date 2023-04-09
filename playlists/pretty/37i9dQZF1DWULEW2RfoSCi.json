@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1397014,
+  "num_followers": 1397991,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDY0ZWRhOTUxMzc5OGVmNTdmOGUyODA0MDY4ZjI0NTYx",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGIzNWQ4MTExYmU4ZmM0MDRlZDUxZDg2MzY2ZWVlN2Uz",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Supernatural Thing",
         "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 198546,
       "name": "Smiling Faces Sometimes",
       "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Tell It Like It Is",
-        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "You're A Big Girl Now",
-      "url": "https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Hello World - The Motown Solo Collection",
         "url": "https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 204906,
       "name": "Got To Be There",
       "url": "https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "You're A Big Girl Now",
+      "url": "https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr"
     },
     {
       "added_at": "2022-02-04 15:57:42",

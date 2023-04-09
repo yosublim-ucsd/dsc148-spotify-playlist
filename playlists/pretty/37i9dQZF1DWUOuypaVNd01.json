@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27282,
+  "num_followers": 27341,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDQ5YjQwNWIwZmY5NWU3MDcxOTM2ZTRiZmYwMzBmY2Iz",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGNkZDc2MWRjY2MzMmU3OGMxOTY3MmIyZTI4ZDQxZTAw",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Dia D",
-        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
       },
       "artists": [
         {
-          "name": "blkmc",
-          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
-        },
-        {
-          "name": "Cenoura Beats",
-          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Dia D",
-      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
+        "name": "Dia D",
+        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
       },
       "artists": [
         {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+          "name": "blkmc",
+          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
+        },
+        {
+          "name": "Cenoura Beats",
+          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
         }
       ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
+      "duration_ms": 137142,
+      "name": "Dia D",
+      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
     },
     {
       "added_at": "2023-03-24 03:01:00",

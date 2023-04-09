@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 17495,
+  "num_followers": 17590,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDZlYTcwNTFiY2ZjMjU3MzQxMmQ1NmMzYzUyZWY1NjMw",
+  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDk2NDFjNDBhOWI3MzYyN2QzNWY0ZmM1ZTU3NDIzMjkw",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Que Bueno",
-        "url": "https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St"
-      },
-      "artists": [
-        {
-          "name": "Matecana Orquesta",
-          "url": "https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl"
-        }
-      ],
-      "duration_ms": 289097,
-      "name": "Gracias Amor",
-      "url": "https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Que Bueno",
+        "url": "https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St"
+      },
+      "artists": [
+        {
+          "name": "Matecana Orquesta",
+          "url": "https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl"
+        }
+      ],
+      "duration_ms": 289097,
+      "name": "Gracias Amor",
+      "url": "https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 303800,
       "name": "Quien Entiende Este Amor",
       "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359373,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4rAeOQPV9iTP5FMglXzGEu"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "25th Anniversary",
         "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 262680,
       "name": "El Todopoderoso",
       "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359373,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4rAeOQPV9iTP5FMglXzGEu"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Sin Salsa No Hay Para\u00edso",
-        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 281546,
-      "name": "Achilip\u00fa",
-      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190416,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Sin Salsa No Hay Para\u00edso",
+        "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 281546,
+      "name": "Achilip\u00fa",
+      "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "El Pap\u00e1 De La Salsa",
         "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 274586,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "Un Verano en NY",
-      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Mambo Gozon",
-      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+      "duration_ms": 297373,
+      "name": "Un Verano en NY",
+      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 163386,
-      "name": "A Las Seis",
-      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
+      "duration_ms": 234960,
+      "name": "Llanto De Cocodrilo",
+      "url": "https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Llanto De Cocodrilo",
-      "url": "https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Dos Imagenes",
-        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
-      },
-      "artists": [
-        {
-          "name": "Ismael Quintana",
-          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Vacil\u00f3 Con Tumbao",
-      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
+      "duration_ms": 163386,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1099,6 +1083,22 @@
       "duration_ms": 301600,
       "name": "Carbonerito",
       "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Dos Imagenes",
+        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
+      },
+      "artists": [
+        {
+          "name": "Ismael Quintana",
+          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Vacil\u00f3 Con Tumbao",
+      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Esenciales Vol\u00famen I",
-        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "A El",
-      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Unchained Force",
         "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 350000,
       "name": "Mi Lindo Yamb\u00fa",
       "url": "https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Esenciales Vol\u00famen I",
+        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "A El",
+      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Con Bajo Y Todo",
         "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 215214,
       "name": "Para Chango",
       "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+        "name": "From Hollywood",
+        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
       },
       "artists": [
         {
@@ -1700,25 +1700,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "The Best Of The Concord Years",
-        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "Tokyo Blues",
-      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
+      "duration_ms": 172226,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Dave Santiago & Latin Affair",
-        "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
+        "name": "The Best Of The Concord Years",
+        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
       },
       "artists": [
         {
-          "name": "Dave Santiago",
-          "url": "https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 322306,
-      "name": "La Peluca",
-      "url": "https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn"
+      "duration_ms": 315986,
+      "name": "Tokyo Blues",
+      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1775,8 +1759,24 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "From Hollywood",
-        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
+        "name": "Dave Santiago & Latin Affair",
+        "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
+      },
+      "artists": [
+        {
+          "name": "Dave Santiago",
+          "url": "https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "La Peluca",
+      "url": "https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
       },
       "artists": [
         {
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Cuando Sale El Sol",
-      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Instant Party",
-        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 346520,
-      "name": "Fiesta A La King",
-      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Salsa Nama",
         "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 332532,
       "name": "Nuestro Sue\u00f1o",
       "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Instant Party",
+        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 346520,
+      "name": "Fiesta A La King",
+      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-03-17 00:52:56",

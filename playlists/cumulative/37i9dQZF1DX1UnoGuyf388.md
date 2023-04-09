@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Bree Runway, artwork by Ian Woods
 
-190 songs - 9 hr 33 min
+191 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Space Ghost Coast To Coast \(with Bree Runway\)](https://open.spotify.com/track/4mjV2VrBj1vAOV8dFlXs7i) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Space Ghost Coast To Coast \(with Bree Runway\)](https://open.spotify.com/album/4w5ziqDWymHVdTz2Hd3BRN) | 2:55 | 2022-02-04 | 2023-01-28 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-10 |  |
 | [STADIUMS](https://open.spotify.com/track/5ECoEOMNN2hUqNnwPOlOFa) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [STADIUMS](https://open.spotify.com/album/7bAb9vITHec88etTMsngoM) | 3:01 | 2023-02-10 |  |
+| [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 | 2023-04-07 |  |
 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 | 2022-03-25 | 2023-01-28 |
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2023-01-27 |  |
 | [stranger danger!](https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh) | 3:41 | 2023-01-27 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-470 songs - 1 day 2 hr 55 min
+473 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 | 2021-03-02 |  |
 | [A Long Story](https://open.spotify.com/track/0bhm8fwHLh1OQlvL1ey71e) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Reggae Hits](https://open.spotify.com/album/6QkI9ScywRrQtMSHqgIewA) | 3:11 | 2022-09-22 |  |
 | [Africa Is Paradise](https://open.spotify.com/track/4mE0swmToqH3VTxczrriGJ) | [Conscious Minds](https://open.spotify.com/artist/11y1qoHYKS7JRxKP10VDen) | [The Best of Lloyd Charmers](https://open.spotify.com/album/4hjg5OZnRMnkXIvY8D8HYM) | 3:15 | 2022-09-22 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Trojan Soul Reggae Vol\. 1](https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX) | 2:14 | 2022-09-22 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/2KZnZnLt9AmNtTFmFQOy6b) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:15 | 2021-03-02 | 2022-07-29 |
-| [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 | 2022-09-22 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 | 2022-09-22 | 2023-04-09 |
 | [All My Loving](https://open.spotify.com/track/5zKlKlmfKl5xnALE2ZskEB) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 1:50 | 2021-03-02 |  |
 | [Angel of the Morning](https://open.spotify.com/track/2p2kH4FCxWy0OSkaIuz7an) | [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:05 | 2021-03-02 |  |
 | [Another Day Is Dawning \(aka There Is A Hope Somewhere\)](https://open.spotify.com/track/6El7fcz3FF1JbEPAwbsBJu) | [Earl Lawrence](https://open.spotify.com/artist/2XuZhOJe4s5pAbFzTbybaz) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 3:10 | 2021-03-02 |  |
@@ -143,7 +144,8 @@
 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 | 2022-09-22 |  |
 | [Handsworth Revolution](https://open.spotify.com/track/1AIOfLIOR66g8bQH9MX1Ia) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Caribbean Vibes](https://open.spotify.com/album/6hYJL5x2KUxKbBf3Ul6FpS) | 5:23 | 2022-09-22 | 2022-11-13 |
 | [Handsworth Revolution](https://open.spotify.com/track/5nr9S1hI8LHEh6jCkgtxLi) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Sound System: The Island Anthology](https://open.spotify.com/album/6yFAr5jJ9FlqkJrGF1W1kv) | 5:23 | 2021-03-02 | 2022-07-29 |
-| [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 | 2021-03-02 |  |
+| [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 | 2021-03-02 | 2023-04-09 |
+| [Having A Party](https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Steve Marshall](https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE) | [Scratch Came Scratch Saw Scratch Conquered](https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi) | 4:40 | 2022-09-22 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/65H6zAYtExeRjsH15S6kBS) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Heartbreak Anniversary](https://open.spotify.com/album/0szRq2sdHTy7NvJMZMsgc7) | 4:11 | 2022-08-18 | 2022-09-23 |
 | [Hello Africa](https://open.spotify.com/track/0fdEeBjPwmFTidvHC8vvA2) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [Reggae Anthology: Music Is The Rod](https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk) | 3:24 | 2022-08-18 | 2022-09-23 |
 | [Help Me Make It Through the Night](https://open.spotify.com/track/4GUCioRTxUL5ooTurwWd73) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:05 | 2022-09-22 |  |
@@ -466,7 +468,8 @@
 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 | 2021-03-02 |  |
 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 | 2022-08-18 | 2022-09-23 |
 | [World\-A\-Reggae](https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U) | 3:50 | 2021-03-02 |  |
-| [You Are My Angel](https://open.spotify.com/track/20Pv33mbJKBMUURzMpLr3p) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:54 | 2022-09-22 |  |
+| [You Are My Angel](https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:52 | 2022-09-22 |  |
+| [You Are My Angel](https://open.spotify.com/track/20Pv33mbJKBMUURzMpLr3p) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:54 | 2022-09-22 | 2023-04-09 |
 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 2:38 | 2021-03-02 |  |
 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 | 2021-03-02 | 2022-07-29 |
 | [You Can Get It If You Really Want](https://open.spotify.com/track/4spmOLKQaGT6yq0bT4xh3A) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Legends](https://open.spotify.com/album/16mK1ThfnBCwjtkwhKXzVz) | 2:39 | 2022-09-22 | 2022-11-13 |

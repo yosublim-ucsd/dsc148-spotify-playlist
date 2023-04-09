@@ -1,13 +1,29 @@
 {
   "description": "Where Hip-Hop, Afro-Fusion & Pop meet R&B !  Cover: Khalid",
-  "num_followers": 1775717,
+  "num_followers": 1775957,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNzAwMSwwMDAwMDAwMDZlNGVhOTU1NzA5YmM2NmVjZmM5YzY1MmNlNGM5MGVm",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDBiNDAzYWY3ZDVkODM5ZjVkYjIzNWM4M2E5NDI3ZWY4",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 209682,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
+    },
     {
       "added_at": "2023-03-31 04:30:01",
       "album": {
@@ -41,6 +57,26 @@
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 230379,
+      "name": "Homiesexual (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4s3RSUwPDxCeWaLEiNOPq3"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "22",
@@ -57,20 +93,24 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
-      "added_at": "2023-03-31 04:30:01",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -87,6 +127,22 @@
       "duration_ms": 213363,
       "name": "Commotion",
       "url": "https://open.spotify.com/track/6JGbBAVvplOLmXrb8o0ily"
+    },
+    {
+      "added_at": "2023-03-31 04:30:01",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
     },
     {
       "added_at": "2023-03-31 04:30:01",
@@ -175,6 +231,22 @@
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -379,6 +451,22 @@
       "duration_ms": 168307,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/2jnKTP2gpVFTSBEmJ9aCrj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Champagne Dial",
+        "url": "https://open.spotify.com/album/6M7mC7u3Z1WqHKify2UDIb"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Champagne Dial",
+      "url": "https://open.spotify.com/track/41uS4HFocWN6cO2VpKy8Ht"
     },
     {
       "added_at": "2022-11-11 05:00:00",

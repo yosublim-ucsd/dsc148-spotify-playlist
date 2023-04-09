@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 68712,
+  "num_followers": 69424,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMGE2NjZiYTgwYmI5MWYxYjcyMzhhOTczM2ZmMjYyNDRk",
+  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMDA5NTNhMTMyMWQ3Yzg0Yzk2ZDMzODk4ZmU4NGM4N2Mw",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "DMZ",
-        "url": "https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr"
-      },
-      "artists": [
-        {
-          "name": "Kinneret",
-          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
-        }
-      ],
-      "duration_ms": 198922,
-      "name": "No Wind Resistance!",
-      "url": "https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Soy Pablo",
         "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 155714,
       "name": "Sick Feeling",
       "url": "https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "DMZ",
+        "url": "https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr"
+      },
+      "artists": [
+        {
+          "name": "Kinneret",
+          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
+        }
+      ],
+      "duration_ms": 198922,
+      "name": "No Wind Resistance!",
+      "url": "https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "UrbanAngel1999",
         "url": "https://open.spotify.com/album/5axdYpfOE0FnDMPlhxyqXQ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 190357,
       "name": "UrbanAngel1999",
       "url": "https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "JTM",
-        "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Z\u00e9ro",
-      "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "JTM",
+        "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Z\u00e9ro",
+      "url": "https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Search + Destroy",
-        "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
-      },
-      "artists": [
-        {
-          "name": "Luby Sparks",
-          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "One Last Girl",
-      "url": "https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "The Last Thing Left",
         "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 222626,
       "name": "Around You",
       "url": "https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Search + Destroy",
+        "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "One Last Girl",
+      "url": "https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY"
     },
     {
       "added_at": "2023-01-30 15:22:38",

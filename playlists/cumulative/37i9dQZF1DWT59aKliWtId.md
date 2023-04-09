@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. Jenny Lewis
 
-678 songs - 1 day 17 hr 9 min
+680 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2022-12-09 | 2023-02-18 |
 | [Did You Sleep Last Night?](https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Did You Sleep Last Night?](https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68) | 3:10 | 2022-01-14 | 2022-02-26 |
 | [Didn’t Care](https://open.spotify.com/track/4sc3GpJtxOB17Ng9PcdNVq) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Didn't Care](https://open.spotify.com/album/1iKIf39XkjsKa5xCKJmcN4) | 2:44 | 2022-07-29 | 2022-09-24 |
+| [Disaster Master](https://open.spotify.com/track/6Rc4PmDPhncehmLCif5saJ) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Disaster Master](https://open.spotify.com/album/08rcc4ZDi0i86AuhsDYNi7) | 5:35 | 2023-04-07 |  |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 | 2022-09-30 | 2022-11-12 |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:27 | 2022-11-11 | 2022-12-03 |
 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 | 2022-01-21 | 2022-03-26 |
@@ -234,7 +235,7 @@
 | [Hawk For The Dove](https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy) | 3:47 | 2022-07-22 | 2022-07-30 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-12-10 | 2022-06-04 |
 | [Heart Beat Faster](https://open.spotify.com/track/5sifqsjFzLM0IspwfMjP2T) | [Telephone Friends](https://open.spotify.com/artist/765e7kZUsgfGp40uxNCxE9) | [Heart Beat Faster](https://open.spotify.com/album/4ivBuvwWVDwRnSMAHeNfgZ) | 4:15 | 2023-02-17 |  |
-| [Heart of Gold](https://open.spotify.com/track/6rkv3IMtaEyQYzSCNW2YG0) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Heart of Gold](https://open.spotify.com/album/1GepwipVqxIYkIvzkjCHyY) | 3:47 | 2022-11-11 |  |
+| [Heart of Gold](https://open.spotify.com/track/6rkv3IMtaEyQYzSCNW2YG0) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Heart of Gold](https://open.spotify.com/album/1GepwipVqxIYkIvzkjCHyY) | 3:47 | 2022-11-11 | 2023-04-09 |
 | [Heart Shape](https://open.spotify.com/track/0Y2d6bZXLoQLfJvI7Sqr5q) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real b/w Heart Shape](https://open.spotify.com/album/7kKKozYknjwDR0AoG7RwHu) | 3:16 | 2022-04-15 | 2022-07-16 |
 | [Hearts & Minds](https://open.spotify.com/track/34ljkOM2ndnf1sGoDMcmDZ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:02 | 2022-05-20 | 2022-07-16 |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-04 | 2022-04-29 |
@@ -313,7 +314,7 @@
 | [Kids Who Stole The World](https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole The World](https://open.spotify.com/album/0KZeVw4TNjB6UMStp5B7tT) | 3:20 | 2021-12-10 | 2022-02-12 |
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-25 | 2022-04-02 |
 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 | 2022-02-18 | 2022-07-02 |
-| [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 | 2022-11-11 |  |
+| [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 | 2022-11-11 | 2023-04-09 |
 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-04 | 2022-04-29 |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2022-05-06 | 2022-10-15 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 | 2022-10-15 |
@@ -469,6 +470,7 @@
 | [Rabbit](https://open.spotify.com/track/0PGUj15oPPa7jlLIUnFAod) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rabbit](https://open.spotify.com/album/71QWas4sh6Cy8MC6mG6oUq) | 3:27 | 2021-12-10 | 2022-01-08 |
 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 | 2023-01-13 | 2023-02-25 |
 | [Radio Silence](https://open.spotify.com/track/4tcnIv79tX5g75R07XA4l3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Radio Silence](https://open.spotify.com/album/7k3bC0IL0dnWI6u5ObSEQg) | 3:59 | 2022-06-24 | 2022-10-08 |
+| [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 | 2023-04-07 |  |
 | [Raising Hell \(feat\. Ben Harper\)](https://open.spotify.com/track/1Ck0hkG2tkjkzzuRF7l5tk) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:21 | 2021-12-10 | 2022-01-29 |
 | [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 | 2023-01-13 |  |
 | [Ransom](https://open.spotify.com/track/2yy1jIbevVsuWJ32H6AfaP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Ransom](https://open.spotify.com/album/3tOPNT6jAqyikY9or6hKrz) | 3:56 | 2022-03-25 | 2022-06-18 |

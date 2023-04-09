@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "23 Semanas",
+        "url": "https://open.spotify.com/album/3OmbafBrbyqJN5PpL5b3xi"
+      },
+      "artists": [
+        {
+          "name": "Cala Vento",
+          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226925,
+      "name": "23 Semanas",
+      "url": "https://open.spotify.com/track/44GAyaBEKv03WwJxwOitTj"
+    },
+    {
+      "album": {
         "name": "4 del 20",
         "url": "https://open.spotify.com/album/0iugtNNvaIcTPzV7C7ASqK"
       },
@@ -476,6 +494,24 @@
       "duration_ms": 216525,
       "name": "Campamento Krusty",
       "url": "https://open.spotify.com/track/6kMXaluhWHgeZgLWw61dEP"
+    },
+    {
+      "album": {
+        "name": "Centro",
+        "url": "https://open.spotify.com/album/32tM5DBKnCVpW68Qi7lO9b"
+      },
+      "artists": [
+        {
+          "name": "Diamante Negro",
+          "url": "https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134054,
+      "name": "Centro",
+      "url": "https://open.spotify.com/track/53LDMgLJp2dMJPCFM3bYrc"
     },
     {
       "album": {
@@ -1385,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Filosa",
+        "url": "https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259252,
+      "name": "Filosa",
+      "url": "https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x"
+    },
+    {
+      "album": {
         "name": "Dualidad",
         "url": "https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS"
       },
@@ -1490,7 +1544,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151200,
       "name": "Gu\u00edame Que No Soy Yo",
       "url": "https://open.spotify.com/track/5HrFg5equln8liFUkXiN61"
@@ -1616,7 +1670,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 218948,
       "name": "Hoy Creo en M\u00ed",
       "url": "https://open.spotify.com/track/6LZH2ZMcWga84SGDCI5vKk"
@@ -3086,7 +3140,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 104727,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
@@ -3921,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "The Eye That Catches The Dream",
+        "url": "https://open.spotify.com/album/6XfREUYIYLA8AoeCtQImhB"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254706,
+      "name": "The Eye That Catches The Dream",
+      "url": "https://open.spotify.com/track/0OF4qKlgVVA4xAgdDSZ52b"
+    },
+    {
+      "album": {
         "name": "Ocho",
         "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
       },
@@ -4044,7 +4116,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 162758,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"

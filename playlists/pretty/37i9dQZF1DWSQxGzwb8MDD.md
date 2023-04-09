@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865 likes - 95 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901 likes - 95 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 74 | [45°49'57"6°51'53"](https://open.spotify.com/track/22g6cVx02D4mcNkdqbbiMn) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [45°49'57"6°51'53"](https://open.spotify.com/album/1fl08UN9pZE6gn7TiKOD4q) | 4:28 |
 | 75 | [Don't](https://open.spotify.com/track/2dwEEeSwxRySawn1QU6P3d) | [Neo Eagalach VA001](https://open.spotify.com/artist/2T2kXSJt2YAT0PCe3UstdQ), [Heather Helix](https://open.spotify.com/artist/3tQtymz9KDjiM8eXYcwsDA) | [Neo Eagalach VA001](https://open.spotify.com/album/590d4qtLcSwoTjZZnLVJd6) | 5:00 |
 | 76 | [Mare's Nest](https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Mare's Nest](https://open.spotify.com/album/1dwa6pWl6Lv51tYEO1fCOe) | 6:37 |
-| 77 | [Wile Out \- Original Mix](https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO) | [Obsidian Wave](https://open.spotify.com/artist/2dIRkNnGoBVwWUPSKVPabb) | [Attack Decay Sustain, Vol\. 02](https://open.spotify.com/album/7a64ZuweC11nZ9E19gHCwC) | 4:53 |
+| 77 | [Wile Out \- Original Mix](https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO) | [Obsidian Wave](https://open.spotify.com/artist/67l5wnaAV5jK8XqnruslPz) | [Attack Decay Sustain, Vol\. 02](https://open.spotify.com/album/7a64ZuweC11nZ9E19gHCwC) | 4:53 |
 | 78 | [Astral Awakening](https://open.spotify.com/track/4mPgrJZRCh3wA3u6GdGSyl) | [Transki](https://open.spotify.com/artist/41EHT7YbwP6TF1TQY2QWsv) | [Astral Awakening](https://open.spotify.com/album/6miuZUbj0ZPP6wcThNYlpv) | 6:10 |
 | 79 | [Sienna \- Radio Edit](https://open.spotify.com/track/5cwn008LvLJTAMAJRm5Afs) | [Baby Doc](https://open.spotify.com/artist/5Wkb9CCN7ExerOOEiN1IXa) | [The Baby Doc Collection](https://open.spotify.com/album/3jQpOpHkp33qIKLMYGYus5) | 4:05 |
 | 80 | [Night Owl](https://open.spotify.com/track/7fAGw0B8VQI57KjnpyfbhG) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Insecurity](https://open.spotify.com/album/0zZfFEoS07EDgQDU2WwtYt) | 6:38 |

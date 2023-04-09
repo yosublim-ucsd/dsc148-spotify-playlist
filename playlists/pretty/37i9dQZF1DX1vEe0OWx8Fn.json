@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 66424,
+  "num_followers": 66512,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMGQyY2VhYjA2MGU3MWZkNTIwNGUxNTdkOGRkZmI3ZTg5",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDZkMzU3MzM5YmMzMWFkZmY1YWExYWQ4NTlmYTE4NmI4",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Pieces of You",
-        "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 182568,
-      "name": "Pieces of You",
-      "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
+      "duration_ms": 128983,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+        "name": "Pieces of You",
+        "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 128983,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
+      "duration_ms": 182568,
+      "name": "Pieces of You",
+      "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
     },
     {
       "added_at": "2022-08-16 22:06:35",

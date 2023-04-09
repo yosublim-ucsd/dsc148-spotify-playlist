@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-327 songs - 1 day 6 hr 16 min
+328 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Faithless](https://open.spotify.com/track/2wnQVsQos9IkaZ6Y4TINTZ) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Faithless](https://open.spotify.com/album/7DFsCxtiR86KnkeVwIztCl) | 6:33 | 2021-07-30 | 2022-11-14 |
 | [Faithless](https://open.spotify.com/track/2zc9eAQpVwNeZCU1Z3qwcY) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Faithless](https://open.spotify.com/album/10cyiwqaMjR4R9ZDUoFzYi) | 6:33 | 2021-07-30 | 2022-07-29 |
 | [Faithless](https://open.spotify.com/track/3Jdvy13itjxVS0J8p7gzfA) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Radiant Dawn](https://open.spotify.com/album/1lvuiRfYHNrjgPXAGIaKR8) | 6:33 | 2021-07-30 | 2023-03-22 |
+| [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 | 2023-04-07 |  |
 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 | 2022-03-04 |  |
 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 | 2021-07-30 |  |
 | [Focus on the Magick](https://open.spotify.com/track/42mfiQMMj0d0M1J8ej8x2n) | [JEFF The Brotherhood](https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm) | [Magick Songs](https://open.spotify.com/album/0WQfrgaiaG37mDU4e5shOt) | 5:40 | 2021-07-30 | 2022-07-29 |
@@ -161,7 +162,7 @@
 | [Land Gone](https://open.spotify.com/track/7jxmlfUe28GSDXXIpGMmzH) | [Novella](https://open.spotify.com/artist/3QkWT3I8AqtmvhT5eXifNi) | [Land](https://open.spotify.com/album/1OB68sLz3cAFuH6MVA1iPh) | 4:54 | 2021-07-30 | 2023-01-26 |
 | [Land III](https://open.spotify.com/track/4yPNhKtW4OMbIK1nhPfnaZ) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Yamil Rezc](https://open.spotify.com/artist/3aPYY9W0MYbzcpDcbLjVgS) | [The Changing Landscapes](https://open.spotify.com/album/16o3yIAEJKDdmrbLHCi9gC) | 4:43 | 2021-07-30 | 2023-01-26 |
 | [Les Yper\-Sound](https://open.spotify.com/track/7CjHVBO2kxsRKvKU5rF6XX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/4420hj4RNgpozukzJlePCG) | 4:05 | 2021-07-30 | 2023-02-06 |
-| [Les Yper\-Sound](https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 4:05 | 2021-07-30 |  |
+| [Les Yper\-Sound](https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 4:05 | 2021-07-30 | 2023-04-09 |
 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 | 2021-07-30 | 2023-03-08 |
 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 | 2021-07-30 |  |
 | [Love Builds Up](https://open.spotify.com/track/2rvcGIgiXQW6ISyaJM9K3n) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/6SW50UcFp4INcJNkCIrr07) | 5:24 | 2021-07-30 | 2022-07-29 |

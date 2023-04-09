@@ -4,12 +4,13 @@
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 58 min
+35 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [198d](https://open.spotify.com/track/4YvaVYEOZdrpwd6HlalDXO) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:04 | 2022-11-17 |  |
 | [Alpha Centauri](https://open.spotify.com/track/2x8kLwGz0RiL2Tos882nZt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:13 | 2022-11-17 |  |
+| [Amid Ethics](https://open.spotify.com/track/0J1ha7ikMV5lN3HvKq6iOk) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 3:29 | 2023-04-08 |  |
 | [Arcarsenal](https://open.spotify.com/track/2IHmR8p2poiSaS3cgBKmOt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 2:54 | 2022-11-17 |  |
 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 | 2022-11-17 |  |
 | [Chanbara](https://open.spotify.com/track/5Gh7uZTnZx3bpCyGaY7wpt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:59 | 2022-11-17 |  |

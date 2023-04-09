@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "La grande d\u00e9sillusion",
+        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201826,
+      "name": "dans nos murs (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/1agkIHecFermCzDuxMrzDC"
+    },
+    {
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -1770,7 +1792,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 215760,
       "name": "Redemption Song",
       "url": "https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS"

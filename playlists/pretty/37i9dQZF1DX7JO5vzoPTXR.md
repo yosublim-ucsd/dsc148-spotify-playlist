@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: BLÜ EYES
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,977 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,013 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 14 | [Give Up](https://open.spotify.com/track/4JPRGPlrVo6AgLkZTWPVJg) | [Dachelle](https://open.spotify.com/artist/4PRJTfLzvOCcq26dgs9dcJ) | [Give Up](https://open.spotify.com/album/7zWiRSdJGANP09OFVb8syh) | 3:20 |
 | 15 | [like everyone else](https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [like everyone else](https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk) | 3:21 |
 | 16 | [Fix You](https://open.spotify.com/track/1Cg712yfuUIhiKhf1Zzja8) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [Silver Linings](https://open.spotify.com/album/73SDQEIwkxUAdjHjp7KPy2) | 2:33 |
-| 17 | [Glue](https://open.spotify.com/track/5Ee2dz4bVU1RMLOHRQkuRl) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Glue](https://open.spotify.com/album/7piTxQj7DTgB54dj6yfiZp) | 5:16 |
+| 17 | [Glue](https://open.spotify.com/track/5Ee2dz4bVU1RMLOHRQkuRl) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Glue](https://open.spotify.com/album/7piTxQj7DTgB54dj6yfiZp) | 5:16 |
 | 18 | [devil may care](https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [devil may care](https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN) | 2:40 |
 | 19 | [y am i not okay](https://open.spotify.com/track/4mNF1eIIYA0o0OAZMGWrrv) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [y am i not okay](https://open.spotify.com/album/5lgWTI09lYv6gkik14iGU9) | 2:56 |
 | 20 | [say you hate me](https://open.spotify.com/track/6k7d4dI0wosZtZB5l7XZOW) | [Hazel Gerson](https://open.spotify.com/artist/1uRBu9kctlIqTMQCvv3BGf) | [say you hate me](https://open.spotify.com/album/4olbGXTabunRdlNwKEoTQC) | 4:02 |

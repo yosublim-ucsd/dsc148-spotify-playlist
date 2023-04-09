@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=MpB7fQOiQemHUhrZZlEuBA\"> Stonebwoy </a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h?si=2e33ZQeKSQqH4E0377Z0sw\"> Boijake </a>  and <a href=\"https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO?si=P5Cm2p4iSRWRDXWDS21hjQ\"> Cina Soul </a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1206,6 +1206,28 @@
       "duration_ms": 171128,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd"
+    },
+    {
+      "album": {
+        "name": "Hold Your Hand (feat. Cina Soul)",
+        "url": "https://open.spotify.com/album/6JT5DoACB7iBbfMRFu3BMi"
+      },
+      "artists": [
+        {
+          "name": "Boijake",
+          "url": "https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h"
+        },
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157263,
+      "name": "Hold Your Hand (feat. Cina Soul)",
+      "url": "https://open.spotify.com/track/10g2YHyH9nUwnwZxN1sFnN"
     },
     {
       "album": {
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 204210,
       "name": "Su Mo Mi",
       "url": "https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY"

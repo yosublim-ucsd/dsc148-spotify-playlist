@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "So fresh, so smooth. Cover: Braxton Brothers",
+  "description": "So fresh, so smooth. Cover: Jonathan Butler",
   "name": "New Smooth Jazz",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 231080,
       "name": "A Brighter Day",
       "url": "https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6"
+    },
+    {
+      "album": {
+        "name": "Love Is Everywhere",
+        "url": "https://open.spotify.com/album/16whuBxT0JiUKbQFKISVbA"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "A Little Kiss",
+      "url": "https://open.spotify.com/track/1ZVwUblLEKUAL18HYg9pFa"
     },
     {
       "album": {
@@ -314,7 +332,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 275680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 314178,
       "name": "Poolside",
       "url": "https://open.spotify.com/track/6VaD7LbQO6OekSsynIgmrd"
@@ -5730,6 +5748,24 @@
       "duration_ms": 170609,
       "name": "U Don't Have to Call",
       "url": "https://open.spotify.com/track/7LFTV9YBKxfsWqouuNEZaO"
+    },
+    {
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/6Sf8VRKfBDk2h5CYwLUgTY"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304039,
+      "name": "Ubuntu",
+      "url": "https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ"
     },
     {
       "album": {

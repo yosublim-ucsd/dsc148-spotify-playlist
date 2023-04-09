@@ -4,7 +4,7 @@
 
 > Worship Him this Easter with the best in SA gospel.
 
-90 songs - 9 hr 23 min
+91 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 | 2019-04-11 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2018-11-12 |  |
 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 | 2019-12-09 |  |
-| [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2018-09-24 |  |
+| [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2018-09-24 | 2023-04-09 |
+| [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 | 2023-04-06 |  |
 | [Jesu Ufik'ekuseni \(feat\. Thinah Zungu\) \[Live\]](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 | 2018-09-24 |  |
 | [Jesus Is Enough](https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:39 | 2020-11-19 | 2023-03-18 |
 | [Jesus You're My Life](https://open.spotify.com/track/4FevVgFnOyVXsSabEjxzWn) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Jesus You're My Life](https://open.spotify.com/album/28EZ5NhHoBM3W3Ovj97uhF) | 6:12 | 2022-04-28 | 2023-03-18 |

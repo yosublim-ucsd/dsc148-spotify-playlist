@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Erstwhile",
+        "url": "https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133612,
+      "name": "Erstwhile",
+      "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
+    },
+    {
+      "album": {
         "name": "Clarity Frequency",
         "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
       },
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174000,
       "name": "We Owe It To Them",
       "url": "https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs"

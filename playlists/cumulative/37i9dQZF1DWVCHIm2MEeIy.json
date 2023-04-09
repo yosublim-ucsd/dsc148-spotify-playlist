@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Time to rave again. ",
+  "description": "The dancefloor is the place to be \ud83e\udea9\u200a",
   "name": "Electronic Circus",
   "tracks": [
     {
@@ -156,7 +156,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 389092,
       "name": "Aldebaran",
       "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Burn Through",
+        "url": "https://open.spotify.com/album/7uXNZrwK4WExs5lKomAb6C"
+      },
+      "artists": [
+        {
+          "name": "Solique",
+          "url": "https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR"
+        },
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382009,
+      "name": "Burn Through",
+      "url": "https://open.spotify.com/track/1fgjv0A82xSTAymPVwQQ79"
+    },
+    {
+      "album": {
         "name": "Burning Flame (2020 Remix)",
         "url": "https://open.spotify.com/album/1rBKdxgSEhNr1qA342r1of"
       },
@@ -934,7 +956,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 321293,
       "name": "CIRCLES - Rodriguez Jr. Remix",
       "url": "https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR"
@@ -1601,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Combinations EP",
+        "url": "https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371803,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi"
+    },
+    {
+      "album": {
         "name": "Elamy",
         "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
       },
@@ -2062,7 +2102,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 407419,
       "name": "Gummihammer",
       "url": "https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi"
@@ -2516,6 +2556,28 @@
       "duration_ms": 221612,
       "name": "Is This Our Earth?",
       "url": "https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M"
+    },
+    {
+      "album": {
+        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389575,
+      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
+      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
     },
     {
       "album": {
@@ -3089,6 +3151,28 @@
     },
     {
       "album": {
+        "name": "Mezcalita",
+        "url": "https://open.spotify.com/album/3UpIzrokMVGiJXwbghHIVu"
+      },
+      "artists": [
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        },
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256450,
+      "name": "Mezcalita",
+      "url": "https://open.spotify.com/track/4uIAv1aDKmLUyEXANBgGac"
+    },
+    {
+      "album": {
         "name": "Monolith",
         "url": "https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD"
       },
@@ -3100,7 +3184,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 391875,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
@@ -3433,6 +3517,32 @@
     },
     {
       "album": {
+        "name": "Ose (Gerd Janson Remix)",
+        "url": "https://open.spotify.com/album/71KIWQCk4OyZK0HfX0qNO3"
+      },
+      "artists": [
+        {
+          "name": "Marina Trench",
+          "url": "https://open.spotify.com/artist/4To1nBGVwlcmCjjufU2lJB"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        },
+        {
+          "name": "Hugo LX",
+          "url": "https://open.spotify.com/artist/2seENlEi5S6kopQzmVyOzn"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381400,
+      "name": "Ose - Gerd Janson Remix",
+      "url": "https://open.spotify.com/track/3ICuRKEZfVTctwEl1xGZyL"
+    },
+    {
+      "album": {
         "name": "Otaku",
         "url": "https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU"
       },
@@ -3532,7 +3642,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
@@ -3655,6 +3765,28 @@
     },
     {
       "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
+    },
+    {
+      "album": {
         "name": "Pont de la Caille",
         "url": "https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M"
       },
@@ -3738,7 +3870,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
@@ -4061,6 +4193,24 @@
     },
     {
       "album": {
+        "name": "Rise Of The 2nd Sun",
+        "url": "https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425927,
+      "name": "Rise Of The 2nd Sun",
+      "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
+    },
+    {
+      "album": {
         "name": "Rituals",
         "url": "https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J"
       },
@@ -4268,7 +4418,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 441898,
       "name": "Silence & Secrets - Adriatique Remix",
       "url": "https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn"
@@ -4450,6 +4600,36 @@
       "duration_ms": 279127,
       "name": "Something Was Missing - PARIS Remix",
       "url": "https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41"
+    },
+    {
+      "album": {
+        "name": "Sorry (with Madonna)",
+        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161627,
+      "name": "Sorry (with Madonna)",
+      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
     },
     {
       "album": {
@@ -5418,7 +5598,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 263452,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/6h1hZnfvSEG1wipCq4nQsX"

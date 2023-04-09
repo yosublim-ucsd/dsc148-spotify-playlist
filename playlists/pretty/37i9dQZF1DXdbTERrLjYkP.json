@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Chappell Roan",
-  "num_followers": 81384,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Addison Grace",
+  "num_followers": 81462,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGZiZGY1MDY5NTM4Y2FjYTllMWE3NjRhMTFkYjIyODFj",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDBlZGY0YTljNGE5YjU0MGU0Zjg3NjExNTE4ZWRlNzBh",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "WW3",
+        "url": "https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 192279,
+      "name": "WW3",
+      "url": "https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY"
+    },
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 222650,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "remind me",
+        "url": "https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 137938,
+      "name": "remind me",
+      "url": "https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Catching Rabbits",
+        "url": "https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 178030,
+      "name": "Book of Memories",
+      "url": "https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 198757,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -119,6 +183,22 @@
       "duration_ms": 199267,
       "name": "The Cut",
       "url": "https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt"
+      },
+      "artists": [
+        {
+          "name": "Eva Westphal",
+          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+        }
+      ],
+      "duration_ms": 175736,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -311,22 +391,6 @@
       "duration_ms": 205975,
       "name": "STEP ON ME",
       "url": "https://open.spotify.com/track/45HSCsfTCoDloxNEof033U"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "get clean",
-        "url": "https://open.spotify.com/album/3f1WstC1D1nSBC0UnYKiyi"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "get clean",
-      "url": "https://open.spotify.com/track/39V3VQLac3aORyPvSqG3fb"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -555,22 +619,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Understood",
-        "url": "https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy"
-      },
-      "artists": [
-        {
-          "name": "Eva Westphal",
-          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
-        }
-      ],
-      "duration_ms": 131144,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "3 Months",
         "url": "https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj"
       },
@@ -647,22 +695,6 @@
       "duration_ms": 174118,
       "name": "Us and Pigs",
       "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "elsie",
-        "url": "https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 203995,
-      "name": "elsie",
-      "url": "https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -812,7 +844,7 @@
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Daydream",
-        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
       },
       "artists": [
         {
@@ -820,25 +852,9 @@
           "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 189672,
+      "duration_ms": 189671,
       "name": "Daydream",
-      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf"
-      },
-      "artists": [
-        {
-          "name": "Olive Klug",
-          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
-        }
-      ],
-      "duration_ms": 228607,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B"
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 164081,
       "name": "Locksmith",
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Lows & Highs",
-        "url": "https://open.spotify.com/album/7k6ffTtKIlWAJYxYhC54p4"
-      },
-      "artists": [
-        {
-          "name": "Mads Paige",
-          "url": "https://open.spotify.com/artist/6P0cx3UK8CnP3No3YgEld3"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Lows & Highs",
-      "url": "https://open.spotify.com/track/10s2OqqwGxHcSXKX8vmJUD"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -1423,6 +1423,28 @@
     },
     {
       "album": {
+        "name": "Famoso Machuca Xota",
+        "url": "https://open.spotify.com/album/63xpMm2iLQj9qhqUYipHf0"
+      },
+      "artists": [
+        {
+          "name": "Mc Larissa",
+          "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Famoso Machuca Xota",
+      "url": "https://open.spotify.com/track/5u0iZ81Yf2L90FQLYQUiiG"
+    },
+    {
+      "album": {
         "name": "Faz a Pose",
         "url": "https://open.spotify.com/album/3VBRrKzmbGfJvKozplEDfL"
       },
@@ -2800,7 +2822,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"

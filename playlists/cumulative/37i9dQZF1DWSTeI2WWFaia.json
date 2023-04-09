@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "Blanco 6",
+        "url": "https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171719,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk"
+    },
+    {
+      "album": {
         "name": "Been To War (feat. Swizz Beatz, DMX & French Montana)",
         "url": "https://open.spotify.com/album/1rXLrVXI5ijoJoLjGa67Sz"
       },
@@ -1303,6 +1325,32 @@
     },
     {
       "album": {
+        "name": "Candle of the Devil",
+        "url": "https://open.spotify.com/album/4DawXkWA7JwmDoF07SteyI"
+      },
+      "artists": [
+        {
+          "name": "R-Mean",
+          "url": "https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194136,
+      "name": "Candle of the Devil",
+      "url": "https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg"
+    },
+    {
+      "album": {
         "name": "HOMME",
         "url": "https://open.spotify.com/album/3hZ2Me5PAzjdSRbUf4nXod"
       },
@@ -1450,6 +1498,24 @@
       "duration_ms": 226173,
       "name": "Chicken N Dumplins",
       "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
+    },
+    {
+      "album": {
+        "name": "Ways of Knowing",
+        "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134397,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/2XDakX3VkagcePCNuPoycB"
     },
     {
       "album": {
@@ -1778,7 +1844,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 205851,
       "name": "Dark Hearted",
       "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
@@ -2080,7 +2146,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
@@ -3626,7 +3692,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 177030,
       "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
       "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
@@ -5694,7 +5760,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 120051,
       "name": "Paula Deen (feat. Westside Gunn)",
       "url": "https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F"
@@ -7638,6 +7704,24 @@
       "duration_ms": 164938,
       "name": "The Game",
       "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
+    },
+    {
+      "album": {
+        "name": "GENERATIONAL CURSE",
+        "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116794,
+      "name": "THE GOV'T GAVE US GUNS",
+      "url": "https://open.spotify.com/track/5gPFQNOEUVoSSoiAPmeDrK"
     },
     {
       "album": {

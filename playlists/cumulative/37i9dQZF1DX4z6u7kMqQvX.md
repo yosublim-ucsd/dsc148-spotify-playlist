@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-415 songs - 23 hr 42 min
+417 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [24/7](https://open.spotify.com/track/2RbKvhGdnmr5jAVcQ6dD8T) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/0yxSN0F7F2eR8iuyoUTn3I) | 3:04 | 2022-01-07 | 2022-07-31 |
 | [24/7](https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM) | 3:04 | 2022-08-05 |  |
 | [31 de Febrero](https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [31 de Febrero](https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp) | 3:09 | 2022-04-01 | 2022-04-18 |
-| [9.6](https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:05 | 2022-04-01 |  |
+| [9.6](https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:05 | 2022-04-01 | 2023-04-09 |
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 |  |
 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 | 2022-01-28 | 2022-04-18 |
@@ -190,7 +190,7 @@
 | [Intensidad](https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 3:55 | 2022-07-15 |  |
 | [Jetlag](https://open.spotify.com/track/4Jypvi7J3r2nJrp3arRRKw) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Jetlag](https://open.spotify.com/album/3jnfFup87bN7MTyDKDM9lz) | 3:22 | 2022-01-07 | 2022-06-10 |
 | [Jeux D' Enfants](https://open.spotify.com/track/3Tm62d7A8qUd9RxAN1hKwN) | [Lucille Dupin](https://open.spotify.com/artist/4wxy9Uabj9KERdDu2NRbGJ) | [Cledón](https://open.spotify.com/album/4mmaUVWSsQ6KPAMSOmfuQA) | 3:03 | 2022-01-28 | 2022-07-02 |
-| [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2022-01-07 |  |
+| [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2022-01-07 | 2023-04-09 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-01-28 | 2022-07-06 |
 | [Jullie](https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:34 | 2022-01-07 |  |
 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 | 2022-01-07 |  |
@@ -261,6 +261,7 @@
 | [Modo Avión](https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Modo Avión](https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp) | 2:40 | 2022-01-07 | 2023-03-03 |
 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 | 2022-01-28 | 2022-07-25 |
 | [Nada](https://open.spotify.com/track/56FFpn2u7ZGgPU3dS29G6y) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Garzøn](https://open.spotify.com/artist/25jgvOUY4AVTfxKjwckFFa) | [Nada](https://open.spotify.com/album/6s9oZCm9YYvKojeLPpSFWe) | 4:15 | 2022-05-09 | 2022-07-18 |
+| [Nadie+](https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [R.L.G](https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra) | [Nadie+](https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X) | 2:22 | 2023-04-07 |  |
 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 | 2022-01-07 |  |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2022-01-07 |  |
 | [Niña](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Niña](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-06-03 | 2022-07-15 |
@@ -343,6 +344,7 @@
 | [Si No Es Así \(feat\. Hernán Segret\)](https://open.spotify.com/track/67BJM75ARGn4EBAJ1wLOgM) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Hernan Segret](https://open.spotify.com/artist/6Fe9HQZCJNpXGEAjRGqd2v) | [Un Vaso De Agua](https://open.spotify.com/album/15ePVZwQxQalIZMMzjbKWY) | 1:28 | 2022-04-01 | 2022-04-20 |
 | [Si no hay con quién bailar](https://open.spotify.com/track/7gNMO4W5ovmncmsepWoXjV) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Si no hay con quién bailar](https://open.spotify.com/album/0ZiL3JnTcF2Aykel9SQveZ) | 3:54 | 2022-01-28 | 2022-04-18 |
 | [Si Tú Quieres](https://open.spotify.com/track/6YWw5TNf5BMe3Twc4mNV9d) | [Modernico](https://open.spotify.com/artist/2Qp0tCZDR3YaiJRzRbO3tV), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Amor Estelar](https://open.spotify.com/album/0I85HmBn8xqOWuZf43JK6T) | 3:25 | 2022-01-28 | 2022-04-21 |
+| [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 | 2023-04-07 |  |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2022-01-07 | 2023-04-06 |
 | [Sigue Avanzando](https://open.spotify.com/track/5No9pEIGYQn4Bztsz6L6RA) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Sigue Avanzando](https://open.spotify.com/album/6geCczIBzauYZ2oVaqVXBi) | 4:22 | 2022-01-07 | 2022-07-25 |
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-06 | 2022-07-19 |

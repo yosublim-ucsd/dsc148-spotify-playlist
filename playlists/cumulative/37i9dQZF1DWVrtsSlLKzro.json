@@ -4841,6 +4841,28 @@
     },
     {
       "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205476,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg"
+    },
+    {
+      "album": {
         "name": "Stop Thinking (feat. Lights)",
         "url": "https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K"
       },

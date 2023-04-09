@@ -2,9 +2,9 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rehmahz
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-118 songs - 6 hr 14 min
+119 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Two](https://open.spotify.com/track/6VoKd5RwrDOM39EtbsP79I) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [TWO](https://open.spotify.com/album/1RhaR2Ta2fmJvnxRcmF2qf) | 2:48 | 2023-02-10 |  |
 | [Wahala for Who No Get Jesus](https://open.spotify.com/track/3UvOCNTWow3rsffxHoCP3U) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [Eternal Cruise](https://open.spotify.com/album/5beZMQVLgzGHoPC88yqN2s) | 2:45 | 2023-02-02 |  |
 | [Wonder](https://open.spotify.com/track/2TDIbBzEhKE63NDP9urgjd) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Wonder](https://open.spotify.com/album/2dPGOYMAs4tca2saJW5Cla) | 3:00 | 2023-02-02 | 2023-04-07 |
+| [Wonder \(Remix\)](https://open.spotify.com/track/45LYGT6cLdMtHaZ56MMTLd) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Joshua Mike\-Bamiloye](https://open.spotify.com/artist/3tG7XvyHxetfcQ3dNhnYAj) | [Abejoye](https://open.spotify.com/album/2eDSJQcC778tgD3oaGJoFS) | 4:08 | 2023-04-07 |  |
 | [WRME \(water runaway my eyes\)](https://open.spotify.com/track/2Ha0FigQpr3nqsPTXFSJnN) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ) | [WRME \(water runaway my eyes\)](https://open.spotify.com/album/7lnxmx0U2Ld1fAthmYBmtH) | 3:08 | 2023-02-02 |  |
 | [You Love Me](https://open.spotify.com/track/0gCXS2EhUCxQOdihVxsidH) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [You Love Me](https://open.spotify.com/album/3wRgFbpcQEYJQP8BjmuhFZ) | 2:22 | 2023-02-10 | 2023-03-25 |
 | [Your Majesty](https://open.spotify.com/track/03X6MyoC2RWPKlQLF6cAZ9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Your Majesty](https://open.spotify.com/album/1Kum4XMRzZbeh9aLyv6EuD) | 3:39 | 2023-02-02 |  |

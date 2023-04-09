@@ -844,10 +844,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 149524,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149524,
+      "name": "give it to me",
+      "url": "https://open.spotify.com/track/1m0yEldZVNu9SzmtqfFWRt"
     },
     {
       "album": {

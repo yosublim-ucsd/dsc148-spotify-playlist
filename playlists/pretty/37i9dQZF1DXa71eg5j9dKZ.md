@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TIBASKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,916 likes - 127 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,989 likes - 127 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

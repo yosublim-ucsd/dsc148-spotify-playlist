@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -140,7 +162,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 246440,
       "name": "Ag\u00fcita de Manantial",
       "url": "https://open.spotify.com/track/5xXo6JSzEPaGjfnCWzg2ic"
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 315680,
       "name": "El Verde De Tus Ojos - Remix",
       "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
@@ -2028,7 +2050,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 323462,
       "name": "La Cancioncita",
       "url": "https://open.spotify.com/track/0NJaymxiBPgVkanpmvQPiW"
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 208057,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/1WyoLJHC6VJKX9DeLUEaTr"
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 296680,
       "name": "La Rumba Quimbumba",
       "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
@@ -4386,10 +4408,32 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/2uZ1VaFkTWkDGh3QJRz3E8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Europa",
+          "url": "https://open.spotify.com/artist/1nmR8qemtRdHtpuN4IYIeO"
+        },
+        {
+          "name": "Flor Cazzuchelli",
+          "url": "https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222384,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/0FjwCoow8qR8XTavdBG48z"
     },
     {
       "album": {
@@ -4516,7 +4560,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 224690,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/31pwIptm5k6TLuHNd2QWAQ"
@@ -5126,6 +5170,24 @@
       "duration_ms": 221146,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/0Q1xQLuG7ztqA0FdojOCPj"
+    },
+    {
+      "album": {
+        "name": "Ya Ver\u00e1s",
+        "url": "https://open.spotify.com/album/3GjSTabiHCNQ3FUGJ0Pf8E"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207065,
+      "name": "Ya Ver\u00e1s",
+      "url": "https://open.spotify.com/track/2bkiO1qk7LFk0ATcefAUau"
     },
     {
       "album": {

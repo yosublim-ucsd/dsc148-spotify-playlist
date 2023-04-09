@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Ahora Es El",
+        "url": "https://open.spotify.com/album/3GQYcoEKsukCjkyx0QOI22"
+      },
+      "artists": [
+        {
+          "name": "Yxng KC",
+          "url": "https://open.spotify.com/artist/1mtnD4358dI0ZdfNFiPcZd"
+        },
+        {
+          "name": "OKEIFLOU",
+          "url": "https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166595,
+      "name": "Ahora Es El",
+      "url": "https://open.spotify.com/track/0GA1RsccytIdyatEdmJomu"
+    },
+    {
+      "album": {
         "name": "ALGO TRANQUI",
         "url": "https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ"
       },
@@ -392,7 +414,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 168004,
       "name": "canciondeamor.mp3",
       "url": "https://open.spotify.com/track/3SyRbMSovxjQ2jBFxhIytQ"
@@ -421,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Canc\u00fan",
+        "url": "https://open.spotify.com/album/4xWikX9ovoAUYiIG7vtFAA"
+      },
+      "artists": [
+        {
+          "name": "Tony Egan",
+          "url": "https://open.spotify.com/artist/74udaBfuUTtwJQC2kofEXm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176343,
+      "name": "Canc\u00fan",
+      "url": "https://open.spotify.com/track/12ofPzOuKs8atT0bv53IZU"
+    },
+    {
+      "album": {
         "name": "Causa y Efecto",
         "url": "https://open.spotify.com/album/0i3LDfdEG9hLKrNs8RsALQ"
       },
@@ -436,7 +476,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 197227,
       "name": "Causa y Efecto",
       "url": "https://open.spotify.com/track/2C83HVLQBbVCQWLXAyB9ba"
@@ -466,6 +506,36 @@
       "duration_ms": 220000,
       "name": "Ceniza",
       "url": "https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG"
+    },
+    {
+      "album": {
+        "name": "CHELA VENETA",
+        "url": "https://open.spotify.com/album/3Oe0RjJsBpmOKTlJ4XGLbp"
+      },
+      "artists": [
+        {
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        },
+        {
+          "name": "Maiki Perreo",
+          "url": "https://open.spotify.com/artist/4St8cPWIPfLl6jk9xF1pEo"
+        },
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        },
+        {
+          "name": "Marco Bode",
+          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180868,
+      "name": "CHELA VENETA",
+      "url": "https://open.spotify.com/track/5sL6dXdOThCLWGeC1BBskr"
     },
     {
       "album": {
@@ -574,7 +644,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 186832,
       "name": "Cuentas",
       "url": "https://open.spotify.com/track/3ppqrQrrmPwzZCJyePKcAJ"
@@ -596,7 +666,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 170490,
       "name": "Cyberasesina",
       "url": "https://open.spotify.com/track/2cGbEtN3OQ2ovSitBzUxLF"
@@ -748,7 +818,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 173738,
       "name": "Discotequera",
       "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
@@ -933,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Est\u00e1 cabron",
+        "url": "https://open.spotify.com/album/6d9qf1y6IcXFSTyaNYTAr6"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "Naity OG",
+          "url": "https://open.spotify.com/artist/1D47r3MM6EJjF5wXg4bgrq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212471,
+      "name": "Est\u00e1 cabron",
+      "url": "https://open.spotify.com/track/6I08cF09s0NQ434DInqdrH"
+    },
+    {
+      "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8"
       },
@@ -1028,7 +1120,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 170697,
       "name": "Fumale Y Siga",
       "url": "https://open.spotify.com/track/1AQeXJVSw6pqJWHJxtaAYO"
@@ -1072,6 +1164,24 @@
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
+      "album": {
+        "name": "Gmii2",
+        "url": "https://open.spotify.com/album/7dMnUAl83QETq5DawN4yGz"
+      },
+      "artists": [
+        {
+          "name": "Recom",
+          "url": "https://open.spotify.com/artist/2OfgndJjONcsylcO2lXtaT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Gmii2",
+      "url": "https://open.spotify.com/track/1hVw1uZWRMl39Fud2uU18Q"
     },
     {
       "album": {
@@ -1218,7 +1328,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 222000,
       "name": "Imperio",
       "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
@@ -1341,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "Kbron",
+        "url": "https://open.spotify.com/album/7qVzzMsDaxFZe7DrDyOjYu"
+      },
+      "artists": [
+        {
+          "name": "Cuvan",
+          "url": "https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0"
+        },
+        {
+          "name": "Buttcher",
+          "url": "https://open.spotify.com/artist/7uD8FqqF8PnoZ3MJdyc8qr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Kbron",
+      "url": "https://open.spotify.com/track/6kf91uP80iUuYgM4Hmnq6B"
+    },
+    {
+      "album": {
         "name": "KRMA",
         "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
       },
@@ -1403,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "La Cuenta",
+        "url": "https://open.spotify.com/album/7DSbKbxU1iByQBAPzMexeN"
+      },
+      "artists": [
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "La Cuenta",
+      "url": "https://open.spotify.com/track/2Bw3D3lpd3ezfo3nX4784A"
+    },
+    {
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
       },
@@ -1450,7 +1600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 134974,
       "name": "La Disco",
       "url": "https://open.spotify.com/track/0NfrMeZPXFKZs2gEWCxEDx"
@@ -1574,7 +1724,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 165408,
       "name": "Las de Octubre",
       "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
@@ -1962,7 +2112,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 219574,
       "name": "Mami Pa Mi",
       "url": "https://open.spotify.com/track/7IJWvu2w3XrtRyeRgW1hOT"
@@ -2118,7 +2268,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 185493,
       "name": "Me Tientas - Remix",
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
@@ -2522,7 +2672,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 176353,
       "name": "Pa Que Lo Bailen",
       "url": "https://open.spotify.com/track/7E19gvPVn5ON1V0acMK0e5"
@@ -2672,7 +2822,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180645,
       "name": "Pasajero",
       "url": "https://open.spotify.com/track/1vKcQKhFjl7QxiFUAim1Bf"
@@ -2708,7 +2858,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 189986,
       "name": "Pereza",
       "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
@@ -2816,6 +2966,28 @@
       "duration_ms": 196800,
       "name": "Putifina",
       "url": "https://open.spotify.com/track/3gUp6IANwYGseAZZIPbs3X"
+    },
+    {
+      "album": {
+        "name": "Quiere Q'",
+        "url": "https://open.spotify.com/album/4lqYlJtzB570qTNOAvzUJe"
+      },
+      "artists": [
+        {
+          "name": "Ivan El Unico",
+          "url": "https://open.spotify.com/artist/3eGvYNMmS8PopM9v1MHROa"
+        },
+        {
+          "name": "slider beats",
+          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187115,
+      "name": "Quiere Q'",
+      "url": "https://open.spotify.com/track/4iEzSD7nKccwynX40ivljp"
     },
     {
       "album": {
@@ -3181,6 +3353,28 @@
     },
     {
       "album": {
+        "name": "SUERTE",
+        "url": "https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb"
+      },
+      "artists": [
+        {
+          "name": "Dani Manzan",
+          "url": "https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0"
+        },
+        {
+          "name": "Christopher Rafael",
+          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243272,
+      "name": "SUERTE",
+      "url": "https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo"
+    },
+    {
+      "album": {
         "name": "Suerte",
         "url": "https://open.spotify.com/album/0E1Nc3dSYYoB7jSnsnMIj9"
       },
@@ -3252,7 +3446,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 228292,
       "name": "SU\u00c9LTATE",
       "url": "https://open.spotify.com/track/5nufaDKoPcE2A6P9aQG48Y"
@@ -3596,7 +3790,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
@@ -3632,7 +3826,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 209760,
       "name": "Waii",
       "url": "https://open.spotify.com/track/1YV4LaJpgdEzqLhzScQWuw"

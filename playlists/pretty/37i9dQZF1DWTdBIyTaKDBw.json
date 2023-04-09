@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44018,
+  "num_followers": 44086,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMGM4YjEwYjJiMTIxOTAwMzZjMmRjNDkzMzJlMTQ5NTIx",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDE4NTc3MjBlODIxMjNkNGYzOWNjOTM1ZDhlNjZmMGIx",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "vacation",
+        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 215353,
+      "name": "vacation",
+      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "vacation",
-        "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 215353,
-      "name": "vacation",
-      "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "\ub208 (SNOW)",
         "url": "https://open.spotify.com/album/5PEqgoVQje28EbUTKPbVFn"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 240000,
       "name": "\ub208 (SNOW) (Feat. \uc774\ubb38\uc138 (Lee Moon Sae))",
       "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
-      "added_at": "2023-04-07 00:24:42",
+      "added_at": "2023-04-09 00:59:27",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -651,22 +651,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
       },
       "artists": [
         {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
         }
       ],
-      "duration_ms": 267051,
-      "name": "We are all Muse (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
+      "duration_ms": 205854,
+      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
+      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -687,22 +683,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
-      "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "How Is It?",
         "url": "https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 189800,
       "name": "How Is It?",
       "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+      },
+      "artists": [
+        {
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 267051,
+      "name": "We are all Muse (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
-      },
-      "artists": [
-        {
-          "name": "Bernard Park",
-          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Darling You",
-      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "SMILE",
         "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
       },
@@ -799,22 +783,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+        "name": "ADAMAS, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k"
       },
       "artists": [
         {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
         }
       ],
-      "duration_ms": 300317,
-      "name": "Love song (Feat. WONPIL(DAY6))",
-      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
+      "duration_ms": 149062,
+      "name": "Darling You",
+      "url": "https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -859,6 +839,26 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+      },
+      "artists": [
+        {
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 300317,
+      "name": "Love song (Feat. WONPIL(DAY6))",
+      "url": "https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "BETTER - The 10th Album",
         "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
       },
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
-        "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
+        "name": "Candy Pianist",
+        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 212150,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
+      "duration_ms": 259640,
+      "name": "Awake (Feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -923,6 +927,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Paul Kim The First Album Part. 1 \u2018the Road\u2019",
+        "url": "https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 212150,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 254600,
       "name": "Watercolour",
       "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Candy Pianist",
-        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Awake (Feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
     },
     {
-      "added_at": "2023-04-07 00:24:42",
+      "added_at": "2023-04-09 00:59:27",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "cozy christmas",
-        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
+        "name": "\uc232 Forest",
+        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
       },
       "artists": [
         {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Eily",
-          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 123666,
-      "name": "Today and other days (Feat. Eily)",
-      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
+      "duration_ms": 244363,
+      "name": "Maudie",
+      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1215,38 +1211,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "\uc232 Forest",
-        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 244363,
-      "name": "Maudie",
-      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "LISH",
-        "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
-      },
-      "artists": [
-        {
-          "name": "JUNGKEY",
-          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
         },
         {
-          "name": "So Jung of LADIES\u2019 CODE",
-          "url": "https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ"
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
         }
       ],
-      "duration_ms": 224778,
-      "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
-      "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1267,6 +1247,26 @@
       "duration_ms": 274030,
       "name": "Rainy Apgujeong",
       "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "LISH",
+        "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "So Jung of LADIES\u2019 CODE",
+          "url": "https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ"
+        }
+      ],
+      "duration_ms": 224778,
+      "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
+      "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

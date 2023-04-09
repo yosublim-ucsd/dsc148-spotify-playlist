@@ -629,6 +629,36 @@
     },
     {
       "album": {
+        "name": "CHELA VENETA",
+        "url": "https://open.spotify.com/album/3Oe0RjJsBpmOKTlJ4XGLbp"
+      },
+      "artists": [
+        {
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        },
+        {
+          "name": "Maiki Perreo",
+          "url": "https://open.spotify.com/artist/4St8cPWIPfLl6jk9xF1pEo"
+        },
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        },
+        {
+          "name": "Marco Bode",
+          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180868,
+      "name": "CHELA VENETA",
+      "url": "https://open.spotify.com/track/5sL6dXdOThCLWGeC1BBskr"
+    },
+    {
+      "album": {
         "name": "Chezinay",
         "url": "https://open.spotify.com/album/5djIlOt8V3KA2yT9YJ7w11"
       },
@@ -2120,7 +2150,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F"

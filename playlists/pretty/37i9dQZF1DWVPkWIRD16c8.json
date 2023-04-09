@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 51175,
+  "num_followers": 51917,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc5NiwwMDAwMDAwMDcwMmMxOWFlZTE3YmZlOTViZDkzMzQ3MGQzYzdiNWM4",
+  "snapshot_id": "MTY3NTc5MTc5NiwwMDAwMDAwMDg4OGM4YjlmMDY4N2RlMDhkNTIxMTkzYjVlMTViNmM3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -591,34 +607,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
         }
       ],
-      "duration_ms": 175213,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
       "artists": [
         {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "The Best Yet",
-        "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Dare You to Move",
-      "url": "https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 244653,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "The Best Yet",
+        "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Dare You to Move",
+      "url": "https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Never Lost",
-        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 315538,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Prize Worth Fighting For",
         "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Never Lost",
+        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 315538,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "When We Fall Apart",
+      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Royal Tailor",
         "url": "https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 209440,
       "name": "Ready Set Go (feat. Capital Kings) (feat. Capital Kings)",
       "url": "https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "When We Fall Apart",
-      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 226933,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2023-02-07 17:43:16",

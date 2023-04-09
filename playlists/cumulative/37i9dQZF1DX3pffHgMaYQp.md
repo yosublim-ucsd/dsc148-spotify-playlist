@@ -4,7 +4,7 @@
 
 > música para insubordinados\. Blnko en portada.
 
-75 songs - 4 hr 12 min
+78 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,11 @@
 | [El Portal](https://open.spotify.com/track/61XPcpiy8UrnIrNIMsVhzc) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [El Portal](https://open.spotify.com/album/5fV4C3rqp58MiGrdiUHwzR) | 3:47 | 2022-03-25 | 2022-12-12 |
 | [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2022-03-25 |  |
 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 | 2022-03-25 |  |
+| [Estrella Antivida](https://open.spotify.com/track/01Ek9zGfuPYnBs5abDWhjK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Estrella Antivida](https://open.spotify.com/album/6j80yKNQXqeAE6hH3xpXbg) | 1:50 | 2023-04-07 |  |
 | [Extrarradio](https://open.spotify.com/track/39KrdTbxCVcTcXNPaEhMWS) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Extrarradio](https://open.spotify.com/album/2vIVKy10eQXCwBu7B61ZvM) | 4:53 | 2022-03-25 |  |
+| [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 | 2023-04-07 |  |
 | [Fracasado](https://open.spotify.com/track/5cOTbepCsUrbyB78JDoFMc) | [Jesus Guerrero](https://open.spotify.com/artist/6H5E8TXmeWbQfuhjL1fQVJ) | [Fracasado](https://open.spotify.com/album/6j7ndHK9SKOlS319Lh3200) | 3:33 | 2022-03-25 |  |
+| [Gasolina en las Bocinas \- Molas Mazo](https://open.spotify.com/track/5fBesiOx4Nmqvl8ea0J9qY) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [Gasolina en las Bocinas \(Molas Mazo\)](https://open.spotify.com/album/4AQ1jslxEgd8qUEK7rCr6L) | 3:51 | 2023-04-07 |  |
 | [Harto](https://open.spotify.com/track/0NNLYEiVbJhYaudmD4yCUl) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 2:21 | 2022-03-25 |  |
 | [Harto](https://open.spotify.com/track/2Ez1iNcc9Te1XqA3qfTVLH) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Harto](https://open.spotify.com/album/7tcfjeniZB5QKc5iC4zf90) | 2:21 | 2022-03-25 | 2022-12-13 |
 | [Hombre Animal](https://open.spotify.com/track/31mpricQVCFX9EnGmNcJ9L) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 3:27 | 2022-03-25 |  |

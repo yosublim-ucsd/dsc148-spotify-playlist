@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 324840,
+  "num_followers": 324987,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDExNjI4NywwMDAwMDAwMDljMTRkNDgxMGViMTMxYzNiMmI1YWQ4YzRhNWMwYWI4",
+  "snapshot_id": "MTY4MDExNjI4NywwMDAwMDAwMDFhZjU3YzZhMmMyYzU4ZmI4MDAwODFhMGEyNGIxMTE3",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "A Change Is Gonna Come",
         "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 191320,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
     },
     {
       "added_at": "2022-03-04 21:48:30",

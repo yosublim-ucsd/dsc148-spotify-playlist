@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Izzchughtai
 
-405 songs - 22 hr 1 min
+406 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [Punjabi Hit Song](https://open.spotify.com/track/5skn4F93OAkBshbm3pq5PV) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Punjabi Hit Song](https://open.spotify.com/album/2zOdErNIPHzzmklUNqMoTe) | 3:09 | 2023-02-13 |  |
 | [Pyaar Bhi Kya Nasha Hai](https://open.spotify.com/track/4AM68wkDAhKK34JwWn9Pwo) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Pyaar Bhi Kya Nasha Hai](https://open.spotify.com/album/6R96po3YMxLrgaErJ4XNpM) | 3:09 | 2023-01-10 |  |
 | [Pyar Mangde](https://open.spotify.com/track/6bhhA7hlEZM3Wm7mvRhgE1) | [Arbaz Khan](https://open.spotify.com/artist/3v11KxRGgmPimlyBeiajTJ), [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Pyar Mangde](https://open.spotify.com/album/3IxqVIKAcwA80AkdJc68D0) | 3:01 | 2023-02-13 | 2023-02-22 |
-| [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 | 2022-11-17 |  |
+| [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 | 2022-11-17 | 2023-04-09 |
+| [Qadar](https://open.spotify.com/track/6WplmpF1sgSyE2EZfJGhXf) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/23rsdxCW9BVpz5VlZQgXP9) | [Qadar](https://open.spotify.com/album/7DXlR5TzcQNWlKigCnim9A) | 2:36 | 2023-03-21 |  |
 | [Qatal](https://open.spotify.com/track/04e5jnr9ki1EpPrpSAMZlb) | [Fakhir](https://open.spotify.com/artist/6sj44MvRiCuGsA5Ph4wdOM), [Anonymoux](https://open.spotify.com/artist/4HBodn8r0T8FcmBjubMDsM) | [Qatal](https://open.spotify.com/album/2iq7jparklAuQl7D5DnLLt) | 2:59 | 2022-10-26 | 2022-11-18 |
 | [Raabte](https://open.spotify.com/track/4CzE4GrlLi3VYTAbGQhhM4) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk) | [Raabte](https://open.spotify.com/album/2T7PrNAzsDQirawe8CVokc) | 3:51 | 2023-01-10 |  |
 | [Raaste](https://open.spotify.com/track/4CyL7OkuLKPckLYNJQJuPi) | [I.B.H](https://open.spotify.com/artist/22m53hE8M3zMzzxR7PMKmj), [Qazi](https://open.spotify.com/artist/3zoonUuJ2VEtvH5IXUTAQR), [Nitefall](https://open.spotify.com/artist/6TwdDrUVRpsozD0wYacsuC) | [Raaste](https://open.spotify.com/album/0c6BI00eRdOSfH774Zlivo) | 2:20 | 2022-11-17 | 2022-12-01 |

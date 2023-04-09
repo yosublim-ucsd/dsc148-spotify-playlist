@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-265 songs - 21 hr 23 min
+266 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Drunken Leaves](https://open.spotify.com/track/6f5ZBQeO24U6U5iw3cFnj7) | [Assemble Head In Sunburst Sound](https://open.spotify.com/artist/1Nd9wmXkGfM0hTMPlJW2MB) | [When Sweet Sleep Returned](https://open.spotify.com/album/0sDiwLzVhGLE1PC2TIkr2W) | 4:18 | 2021-11-12 | 2022-09-29 |
 | [Döngüm](https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ) | [Journers](https://open.spotify.com/artist/1poI3l63ENJgUiWAKGv2Sp), [Burak Yeşildurak](https://open.spotify.com/artist/3qM6QIAv4X4nCNZd69VFgA), [Metin Akdülger](https://open.spotify.com/artist/0FEcDP4V2l2ktoG1DQL5Qr) | [Döngüm](https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7) | 4:30 | 2021-11-12 |  |
 | [Eat Acid See God](https://open.spotify.com/track/73HwxOOJ6TGAWykzR1Yvav) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Eat Acid See God](https://open.spotify.com/album/1daapU9if6oenkybF6fTn0) | 7:50 | 2021-11-12 | 2022-05-29 |
-| [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-11-12 |  |
+| [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-11-12 | 2023-04-09 |
 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 | 2022-04-12 |  |
 | [Ejefjallajökull](https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Där blommor dör](https://open.spotify.com/album/7jVX2uZskYhrvViAPqEQVq) | 8:49 | 2021-11-12 | 2022-07-23 |
 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 | 2022-08-29 | 2022-10-18 |
@@ -81,6 +81,7 @@
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-11-15 | 2023-04-01 |
 | [Fantôme](https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Fantôme](https://open.spotify.com/album/35LP1ys9GIAUAIrk7XT3RZ) | 5:06 | 2021-11-12 | 2022-07-29 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-04-12 |  |
+| [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 | 2023-04-07 |  |
 | [Fishbelly 86 Onions](https://open.spotify.com/track/7HiyaZlTkSRWvLrHfBMcqz) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Fishbelly 86 Onions](https://open.spotify.com/album/1rQg83IzxLuBv2WEYywn6c) | 6:02 | 2021-11-12 | 2022-07-29 |
 | [Flying Bird](https://open.spotify.com/track/4byRGdU9MnTu25FBBGiSGX) | [The Doves](https://open.spotify.com/artist/2QcZbmRiYrfqeDVO9i3aSJ) | [Wake Up You! The Rise and Fall of Nigerian Rock, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/3zZuLdz9sW9gtjats12PkN) | 3:33 | 2021-11-12 | 2022-07-18 |
 | [For Eddie Hazel](https://open.spotify.com/track/3XzXcQPlc7gRsWbC3EIKdU) | [Gunn \- Truscinski Duo](https://open.spotify.com/artist/58PU6MWEroVyXXTXmpzdny) | [Soundkeeper](https://open.spotify.com/album/5mbLZNPWompf0VZ0Vb8gcV) | 7:35 | 2021-11-12 | 2022-07-29 |

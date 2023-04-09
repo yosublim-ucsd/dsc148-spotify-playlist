@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46225,
+  "num_followers": 46288,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDM4MTU2OGEyMjI3YTZkOTY2YTNjN2IwMTZhMGFlNGFh",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDk4Y2ViZDg5MTlhNTFiMzJhZDc4ZDhmOGIzZDNiYjNm",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
-      },
-      "artists": [
-        {
-          "name": "Emma dos Santos",
-          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
-        }
-      ],
-      "duration_ms": 171482,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bella Donna",
         "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
+      },
+      "artists": [
+        {
+          "name": "Emma dos Santos",
+          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
+        }
+      ],
+      "duration_ms": 171482,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Muniesa",
-        "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
+        "name": "Habichuela en Rama",
+        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
       "artists": [
         {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+          "name": "Pepe Habichuela",
+          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
         }
       ],
-      "duration_ms": 126688,
-      "name": "Montalba\u0301n",
-      "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
+      "duration_ms": 230866,
+      "name": "Canta la Guitarra",
+      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Habichuela en Rama",
-        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
+        "name": "Muniesa",
+        "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
       },
       "artists": [
         {
-          "name": "Pepe Habichuela",
-          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Canta la Guitarra",
-      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
+      "duration_ms": 126688,
+      "name": "Montalba\u0301n",
+      "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Goia\u0302nia",
         "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 172500,
       "name": "Goia\u0302nia",
       "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Paz",
-        "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bossa Nova Sounds EP",
         "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
       },
       "artists": [
         {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
         }
       ],
-      "duration_ms": 162000,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
+      "duration_ms": 304600,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -791,6 +775,22 @@
       "duration_ms": 194944,
       "name": "Commitments",
       "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+      },
+      "artists": [
+        {
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ni\u00f1o Josele",
-        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Madera Negra",
-      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Ni\u00f1o Josele",
+        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Madera Negra",
+      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 134578,
       "name": "Tiempos Pasados",
       "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Only In Paris",
-        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bossanova in My Heart",
-      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -923,6 +907,22 @@
       "duration_ms": 228469,
       "name": "Isla de los Bienaventurados (Buler\u00edas)",
       "url": "https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Only In Paris",
+        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bossanova in My Heart",
+      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
-        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
-      },
-      "artists": [
-        {
-          "name": "Escudero,",
-          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
-        },
-        {
-          "name": "Paco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Repiqueteos Flamencos (Zapateado)",
-      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bossa Nova Sounds EP",
         "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 165626,
       "name": "Girl",
       "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
+        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
+      },
+      "artists": [
+        {
+          "name": "Escudero,",
+          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
+        },
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Repiqueteos Flamencos (Zapateado)",
+      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
     },
     {
       "added_at": "2022-10-27 22:01:00",

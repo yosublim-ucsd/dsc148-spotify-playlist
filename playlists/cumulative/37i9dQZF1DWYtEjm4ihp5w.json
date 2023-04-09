@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Draganov",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Shobee",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG"
+      },
+      "artists": [
+        {
+          "name": "El Ayo",
+          "url": "https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151547,
+      "name": "Bin o Bin",
+      "url": "https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI"
+    },
+    {
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya"
       },
@@ -292,7 +310,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 188000,
       "name": "CHICHI",
       "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 222000,
       "name": "Gova",
       "url": "https://open.spotify.com/track/2poCHmrHxB704EPoQ1GdcU"
@@ -791,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Black Butterfly",
+        "url": "https://open.spotify.com/album/3UfBMouFDIiNaMhtd1Jnza"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198261,
+      "name": "Khelliha Ghada",
+      "url": "https://open.spotify.com/track/3XKJx7CJIW1gFyIoSMlAT2"
+    },
+    {
+      "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
       },
@@ -926,6 +962,24 @@
       "duration_ms": 224941,
       "name": "Lawal (3reft Trap)",
       "url": "https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Lbaroud",
+      "url": "https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox"
     },
     {
       "album": {
@@ -1880,7 +1934,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 231000,
       "name": "Ya Salam",
       "url": "https://open.spotify.com/track/7dlVtBCBmYt4Hl0fsQd9MP"

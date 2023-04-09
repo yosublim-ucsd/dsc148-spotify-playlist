@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-335 songs - 20 hr 18 min
+336 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 | 2022-05-20 |  |
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-11-14 | 2022-07-29 |
 | [Combat](https://open.spotify.com/track/2oFcg1dEGotfeeEYFrWSqD) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV) | 3:48 | 2021-11-14 | 2022-07-29 |
-| [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-10-07 |  |
+| [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-10-07 | 2023-04-09 |
 | [Comeback Kid](https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:02 | 2022-05-20 | 2022-10-08 |
 | [Comeback Kid](https://open.spotify.com/track/4uwpFuqYn5wON8iRg2mnhp) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Comeback Kid](https://open.spotify.com/album/6gnT7IIyHL2nYYPsF9teBw) | 3:02 | 2022-04-01 | 2022-04-20 |
 | [Coming to Get You Nowhere](https://open.spotify.com/track/0WwEaEkDqFtAHpuEEhH8m1) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Coming to Get You Nowhere](https://open.spotify.com/album/4wmCZFEixpWWA9hR58LQRQ) | 3:20 | 2021-11-14 | 2022-07-28 |
@@ -235,6 +235,7 @@
 | [Porta](https://open.spotify.com/track/2OtXVC8bMtf9uO7cDCNoCr) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Used To It](https://open.spotify.com/album/6FjwmEJ09Nu7Wbh3FxwRKt) | 3:26 | 2022-04-01 | 2022-07-29 |
 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 | 2022-04-15 | 2023-02-22 |
 | [Premonitions](https://open.spotify.com/track/6jtey537vk6XcJm00aRBTU) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Premonitions](https://open.spotify.com/album/3nWDfV4stC2VQopcuHjJmO) | 3:46 | 2021-11-14 | 2022-10-08 |
+| [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-04-07 |  |
 | [Questions](https://open.spotify.com/track/4jmBJcu8Ee8CSrXQYSvmbv) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Questions](https://open.spotify.com/album/4FPVIk2FIX8MfCBZQrfqDi) | 2:53 | 2021-11-14 | 2022-07-27 |
 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 | 2022-05-20 |  |
 | [Rabbit Hole](https://open.spotify.com/track/5D1aJfnGGdU0WjfV2pQ9fm) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/4rjqU4oEnDvjUkhqSJ69oI) | 2:59 | 2021-11-14 | 2022-07-29 |

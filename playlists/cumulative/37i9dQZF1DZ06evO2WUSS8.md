@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-110 songs - 7 hr 20 min
+111 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Choose Love \- Synematik Remix](https://open.spotify.com/track/1mn0Gp5CoKtlsMCEc89QDQ) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Synematik](https://open.spotify.com/artist/35WTtFW3bwCshTiZUd8k5H) | [Choose Love \(Synematik Remix\)](https://open.spotify.com/album/1aV8lZKPSOe8REki2GDnk3) | 2:33 | 2022-04-29 | 2022-06-01 |
 | [Crosseyed and Painless](https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:28 | 2021-12-28 |  |
 | [Cucala](https://open.spotify.com/track/1W2br69NXrIXRt0hEymD3z) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 3:19 | 2021-12-28 | 2022-10-13 |
+| [dans nos murs \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/1agkIHecFermCzDuxMrzDC) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La grande désillusion](https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS) | 3:21 | 2023-04-08 |  |
 | [Different \(feat\. Damian Marley & Angelique Kidjo\)](https://open.spotify.com/track/6F5bERiTAIAVAP8ZUh0tqE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:16 | 2021-12-28 |  |
 | [Dignity](https://open.spotify.com/track/0j3uAYpq1xkuqekBjcEjdv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:15 | 2022-10-12 |  |
 | [Djan Djan](https://open.spotify.com/track/06HPCGeoRwYJe2qzPMIYbE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:11 | 2022-07-03 | 2022-09-04 |
@@ -89,7 +90,7 @@
 | [Pata Pata](https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Pata Pata](https://open.spotify.com/album/43yhCd13mFeiOKLCo6bTUL) | 2:52 | 2022-04-28 | 2022-08-20 |
 | [Ponto De Mutação \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:15 | 2021-12-28 |  |
 | [Quimbara](https://open.spotify.com/track/5SvE1aqUInclPBCrgYwKYq) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Quimbara](https://open.spotify.com/album/4QH5KPBE0XndcPGoGsSEdO) | 4:34 | 2022-02-14 | 2022-04-29 |
-| [Redemption Song](https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oh Happy Day](https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq) | 3:35 | 2021-12-28 |  |
+| [Redemption Song](https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oh Happy Day](https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq) | 3:35 | 2021-12-28 | 2023-04-09 |
 | [Sahara](https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 4:37 | 2021-12-28 | 2022-10-13 |
 | [Salala](https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:24 | 2021-12-28 |  |
 | [Samba Pa Ti](https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 3:37 | 2022-03-15 |  |

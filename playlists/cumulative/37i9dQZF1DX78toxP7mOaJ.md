@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-851 songs - 1 day 22 hr 32 min
+852 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,8 +333,9 @@
 | [Heart Attack](https://open.spotify.com/track/3er2x3MtxNq0iHLEy31PLy) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Heart Attack](https://open.spotify.com/album/3WJmlnW6Kbt34qsCQaljfD) | 2:53 | 2022-07-27 | 2022-09-22 |
 | [Heart Beat Faster](https://open.spotify.com/track/5sifqsjFzLM0IspwfMjP2T) | [Telephone Friends](https://open.spotify.com/artist/765e7kZUsgfGp40uxNCxE9) | [Heart Beat Faster](https://open.spotify.com/album/4ivBuvwWVDwRnSMAHeNfgZ) | 4:15 | 2023-02-22 | 2023-03-23 |
 | [Heartbeat](https://open.spotify.com/track/4oCJ4t1khwZqlBVldWzJES) | [Darkbird](https://open.spotify.com/artist/0iiltWiiNfnJEh1sUL3bWk) | [Heartbeat](https://open.spotify.com/album/6rTqONVETieqHDH6EpYsX9) | 4:07 | 2021-12-01 | 2022-02-24 |
+| [Heaven Can Wait](https://open.spotify.com/track/3guk5WtW5t43UKXLrx5HgH) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/0D1pDHXoeqeOdBmtzbnji3) | 3:00 | 2023-04-05 |  |
 | [Heaven Can Wait](https://open.spotify.com/track/6fc4wYjA7u2HUogOOrlid9) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3) | 3:00 | 2023-01-11 | 2023-02-02 |
-| [Heaven Can Wait](https://open.spotify.com/track/73NpteJe447ilGqgvXW2EH) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/1yu0ZfTJVvsrgjMF9tDuGn) | 3:00 | 2023-03-01 |  |
+| [Heaven Can Wait](https://open.spotify.com/track/73NpteJe447ilGqgvXW2EH) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/1yu0ZfTJVvsrgjMF9tDuGn) | 3:00 | 2023-03-01 | 2023-04-09 |
 | [Heaven Down Here](https://open.spotify.com/track/0Fvu11hpxdjpr0kUGK0FZ7) | [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Bleed Your Heart Out](https://open.spotify.com/album/55ow5n5coIs45tttCxuSVu) | 3:35 | 2022-04-27 | 2022-05-05 |
 | [Heaven Or Hell](https://open.spotify.com/track/3SeVLSlHtjKkmGEr8DQHD0) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Heaven Or Hell](https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs) | 2:29 | 2022-10-05 | 2022-11-10 |
 | [Heaven Was Full \(I'm Headed Straight to Hell\)](https://open.spotify.com/track/4Kwyg3JFL5yThzzkc4yqyc) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Heaven Was Full \(I'm Headed Straight to Hell\)](https://open.spotify.com/album/5h1ZsL9l2XsUHQSkJWHd1J) | 2:36 | 2023-01-18 | 2023-03-02 |

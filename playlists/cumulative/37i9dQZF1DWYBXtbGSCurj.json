@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Kawe, Teto",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Orochi, Oruam, Mc Poze do Rodo, Borges, Chefin",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 317142,
       "name": "Alguns Dias de Gl\u00f3ria",
       "url": "https://open.spotify.com/track/2c0UoecC774j6SK0spc8Io"
@@ -879,6 +879,28 @@
     },
     {
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/6z4RwLtNnuAmIzgPPY1zyA"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165971,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/1tEUZeUxNj3uXe5oxFNxqw"
+    },
+    {
+      "album": {
         "name": "Favorito de Deus (Mixtape)",
         "url": "https://open.spotify.com/album/41P9OKjJY0HkTEAqHm8db8"
       },
@@ -1067,6 +1089,40 @@
     },
     {
       "album": {
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "album": {
         "name": "Assunto Particular",
         "url": "https://open.spotify.com/album/2ul05472ZKutZcmEx4Rk2j"
       },
@@ -1130,7 +1186,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 172363,
       "name": "Atravessei S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1WHUectUfuyMLECjTmpAGe"
@@ -1186,6 +1242,32 @@
       "duration_ms": 213634,
       "name": "Aulas e Cursos",
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "album": {
+        "name": "Australiana",
+        "url": "https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Australiana",
+      "url": "https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx"
     },
     {
       "album": {
@@ -1700,7 +1782,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 159000,
       "name": "Bicho Solto",
       "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
@@ -1908,7 +1990,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 194821,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
@@ -3930,7 +4012,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 238732,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/4UKNClOexcP1PgjUCJMV2u"
@@ -5354,7 +5436,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 159850,
       "name": "Fashion Nova",
       "url": "https://open.spotify.com/track/2qmkAtrPFWPE3UY2PLhhuK"
@@ -7623,6 +7705,40 @@
     },
     {
       "album": {
+        "name": "Larga Essa Vida",
+        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119008,
+      "name": "Larga Essa Vida",
+      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+    },
+    {
+      "album": {
         "name": "Lebai",
         "url": "https://open.spotify.com/album/60PsthKJ8AkkyxsTgK9EUl"
       },
@@ -8147,6 +8263,32 @@
     },
     {
       "album": {
+        "name": "Lote 88",
+        "url": "https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Lote 88",
+      "url": "https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -8545,6 +8687,28 @@
     },
     {
       "album": {
+        "name": "Mandando na City",
+        "url": "https://open.spotify.com/album/3ByD2SCyGUyzAicz8xm95u"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Mandando na City",
+      "url": "https://open.spotify.com/track/77O3HirXUSYyoEehMubAew"
+    },
+    {
+      "album": {
         "name": "Mans\u00e3o da Nadamal",
         "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
       },
@@ -8632,6 +8796,32 @@
       "duration_ms": 267000,
       "name": "Marquinha",
       "url": "https://open.spotify.com/track/4CvoPPB7Rcf600XgehVs37"
+    },
+    {
+      "album": {
+        "name": "Mas Existe um Lugar (speed)",
+        "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141615,
+      "name": "Mas Existe um Lugar - speed",
+      "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
     },
     {
       "album": {
@@ -9094,6 +9284,28 @@
       "duration_ms": 201836,
       "name": "Meno do Rio",
       "url": "https://open.spotify.com/track/21m7m0IEFt4bAJWzNRLuPy"
+    },
+    {
+      "album": {
+        "name": "Menos De Um M\u00eas",
+        "url": "https://open.spotify.com/album/2rf15vLNH9kpLsFvEglYfP"
+      },
+      "artists": [
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "Menos De Um M\u00eas",
+      "url": "https://open.spotify.com/track/4XMWOYnBSVx1faMaqJGjCu"
     },
     {
       "album": {
@@ -10534,6 +10746,36 @@
       "duration_ms": 205423,
       "name": "N\u00e3o Te Conhe\u00e7o",
       "url": "https://open.spotify.com/track/4QuoYG9mKIm2UOK94UXst5"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Tenha Medo",
+        "url": "https://open.spotify.com/album/658w4duD7dZY7WPAqnd7Gb"
+      },
+      "artists": [
+        {
+          "name": "SV",
+          "url": "https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Neconbeat",
+          "url": "https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "N\u00e3o Tenha Medo",
+      "url": "https://open.spotify.com/track/2qjdmv7DWgg3nLsI7sF5j7"
     },
     {
       "album": {
@@ -12904,7 +13146,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 238666,
       "name": "Quem \u00e9 o Boss?",
       "url": "https://open.spotify.com/track/1Xi4kbi4uVVI4RvjWDbeL0"
@@ -13374,7 +13616,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 158085,
       "name": "Ritmo De Fim",
       "url": "https://open.spotify.com/track/0wV14h8vPVAPjsreY8ZvSq"
@@ -14244,7 +14486,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 164571,
       "name": "Silenciador",
       "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"

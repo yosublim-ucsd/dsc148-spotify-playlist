@@ -4983,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199621,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
+    },
+    {
+      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/6RPpa5Wj8EfSAkOLBE8Nbe"
       },
@@ -5888,6 +5906,24 @@
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "album": {
+        "name": "I AM SHAMPOO",
+        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141259,
+      "name": "I AM SHAMPOO",
+      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
     },
     {
       "album": {

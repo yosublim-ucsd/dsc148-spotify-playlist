@@ -1,15 +1,15 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 333145,
+  "num_followers": 333317,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTg2MiwwMDAwMDAwMDcwZDAxMTM5ZTAzNjIyOGMzZTc0NWQwMzE2MTg2Y2I2",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGNlNjNlZDU4ZmUyNzc1OTA0MjY1OTNmYTQ1OWJmZTIy",
   "tracks": [
     {
-      "added_at": "2023-04-07 00:56:12",
+      "added_at": "2023-03-31 04:11:02",
       "album": {
         "name": "On Top of The Covers",
         "url": "https://open.spotify.com/album/3nrTn6ARC5PpGw1DZysRNU"
@@ -59,6 +59,22 @@
       "duration_ms": 197081,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "WILLOW: Live At Electric Lady",
+        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Bag Lady / Split - Live",
+      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -611,22 +627,6 @@
       "duration_ms": 277985,
       "name": "Don't Disturb This Groove",
       "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "Love Don't Live Here Anymore",
-      "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
     }
   ],
   "unique_name": "Soul Revived",

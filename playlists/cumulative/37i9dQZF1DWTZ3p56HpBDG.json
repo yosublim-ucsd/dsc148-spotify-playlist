@@ -578,10 +578,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 111467,
       "name": "Devil In A Dress",
       "url": "https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav"
+    },
+    {
+      "album": {
+        "name": "Devil In A Dress",
+        "url": "https://open.spotify.com/album/37Hau8GSFmAPCUHBpyZC6Z"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111467,
+      "name": "Devil In A Dress",
+      "url": "https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN"
     },
     {
       "album": {

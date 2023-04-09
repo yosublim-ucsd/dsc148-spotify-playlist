@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-677 songs - 1 day 11 hr 53 min
+678 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Dränker mina tankar](https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Dränker mina tankar](https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX) | 3:02 | 2022-04-01 | 2022-09-16 |
 | [Drömmare](https://open.spotify.com/track/2zEDpcn34OMwjC7SVPey4S) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Drömmare](https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd) | 3:03 | 2021-12-16 | 2022-04-01 |
 | [Drömmer om andetag](https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Drömmer om andetag](https://open.spotify.com/album/3AK4IBdV1dWUcgLIUR8k3I) | 3:30 | 2021-12-16 | 2022-02-25 |
+| [Du](https://open.spotify.com/track/5jXpg2H0a1isxNpcQkPVu8) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Du](https://open.spotify.com/album/64xGRV93vELnR9Cu63fvAd) | 4:22 | 2023-04-06 |  |
 | [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-02-14 |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 |  |
@@ -539,7 +540,7 @@
 | [Sommardag](https://open.spotify.com/track/2LWwXk56lQAa5zuHd6snBB) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Naag Nool](https://open.spotify.com/album/1UTctXDMnBfSheaCnpT7O5) | 3:19 | 2021-12-16 | 2022-03-07 |
 | [Sommaren](https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Sommaren](https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043) | 2:53 | 2022-12-22 |  |
 | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/track/1XGr0Rdlrtx6QOUjw91lRX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Eah](https://open.spotify.com/artist/4Uj4hzPZNXOTHGdOsnCcF0) | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/album/4x6jVOB2d25n5WqHtCe9Mk) | 3:16 | 2021-12-16 | 2022-03-11 |
-| [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 | 2022-06-21 |  |
+| [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 | 2022-06-21 | 2023-04-09 |
 | [Sommartider hej!](https://open.spotify.com/track/1rUd5snXKfQ5TpCLvhBzGM) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe), [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Sommartider hej!](https://open.spotify.com/album/2THySII2sobcnUQRPVFgMT) | 3:17 | 2021-12-16 | 2022-02-10 |
 | [Sommartårar](https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Sommartårar](https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY) | 3:20 | 2022-09-15 | 2022-10-07 |
 | [Sover du själv?](https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Sover du själv?](https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP) | 3:03 | 2023-01-19 |  |

@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-242 songs - 12 hr 45 min
+243 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2022-03-04 | 2022-04-20 |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 |  |
 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 | 2022-05-19 |  |
+| [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-09 |  |
 | [Eternal Frequencies](https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG) | [Beatrice Laporte](https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr) | [Clarity Frequency](https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq) | 2:32 | 2023-02-25 |  |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2022-02-01 |  |
 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 | 2022-02-18 |  |
@@ -234,7 +235,7 @@
 | [Vignette](https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF) | [General Relativity](https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc) | [Vignette](https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56) | 2:40 | 2022-01-12 |  |
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2022-01-12 |  |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2022-01-12 | 2023-03-15 |
-| [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2022-04-13 |  |
+| [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2022-04-13 | 2023-04-09 |
 | [Well Spent](https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Well Spent](https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6) | 2:45 | 2022-01-12 |  |
 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 | 2022-01-12 |  |
 | [When We Touch](https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [When We Touch](https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv) | 2:05 | 2022-01-19 | 2023-03-18 |

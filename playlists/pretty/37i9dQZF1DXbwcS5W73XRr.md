@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,336 likes - 48 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,418 likes - 48 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 44 | [That Shits Wild](https://open.spotify.com/track/4R5XpoWJvtUkS33E1lFiSJ) | [Der Wasaw](https://open.spotify.com/artist/0yEuNoHAneHqj7EugxxthL) | [Mad On Acid Vol\. 1 CD2](https://open.spotify.com/album/7u1t3m5nMwr27S5D7LUwsy) | 4:21 |
 | 45 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
 | 46 | [Acid Party \- Aciied Groove Mix](https://open.spotify.com/track/7DTiUdHw6qpBnHsfJaET2D) | [Mr\. Matey](https://open.spotify.com/artist/6hRl74574bLVOIXqxMV39j) | [Acid Party](https://open.spotify.com/album/0TI0cnrDRe10x0kX0oWQN4) | 6:02 |
-| 47 | [Pump Up the Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/5Nk6yokDV2LbWOoZdv1Oks) | [Michael Oliver](https://open.spotify.com/artist/7r11QZJAzMlhmSvRae4R3P) | [Jackin' the Acid](https://open.spotify.com/album/73G2j2LnFxvszt5FeNs9kb) | 6:19 |
+| 47 | [Pump Up The Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/7tQIbrrNYmqki8e4yX0f1u) | [Michael Olivier](https://open.spotify.com/artist/0tTOxeN5CptlTVZuFh5vGw) | [Jackin' The Acid](https://open.spotify.com/album/6FPl4ww2oR0wmZv8OYvxOk) | 6:19 |
 | 48 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
 
-Snapshot ID: `MTUyOTU3NjkwNSwwMDAwMDAwMDM2OGE2ODQ5MzZkY2JiYTQ5NzVlM2JjZWQ4MGVjMmI5`
+Snapshot ID: `MTUyOTU3NjkwNSwwMDAwMDAwMDkyY2EyZjJjNzgyMDQ4YmJjYjdlNTBhNGNiZDU2ZjEw`

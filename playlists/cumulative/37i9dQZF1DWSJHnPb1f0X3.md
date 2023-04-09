@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-552 songs - 1 day 3 hr 46 min
+553 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/track/62xA7Zhj8CQSecypWIfpZx) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/album/2MYhUTVM7SeBuQX5uNjOam) | 2:32 | 2021-12-17 | 2022-07-09 |
 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2021-12-17 | 2022-05-20 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-13 |  |
+| [Lay Me Down](https://open.spotify.com/track/4xBosRTsUfx7qtwQ6NLDeN) | [VARGEN](https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i) | [Lay Me Down](https://open.spotify.com/album/3Z47TukPkoS9uwVqG0qno7) | 2:45 | 2023-04-09 |  |
 | [Layover](https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV) | 3:23 | 2022-02-25 | 2022-04-21 |
 | [Leave](https://open.spotify.com/track/5Qnk8vP5g9l5SDQKU3qyYQ) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Jordyn Jones](https://open.spotify.com/artist/4goZmMm5PJIE6kRz70xKdd) | [Leave](https://open.spotify.com/album/1Vv1feUAbvzBKe6kjhcJOp) | 3:13 | 2022-03-25 | 2022-04-16 |
 | [Leave A Little Love](https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS) | 3:07 | 2021-12-17 | 2022-07-29 |
@@ -550,7 +551,7 @@
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-01-13 |  |
 | [Yellow \- Martin Jensen Edit](https://open.spotify.com/track/5haz5HRXMM2ZGSuyAbpOEA) | [Giiants](https://open.spotify.com/artist/0L57c1GtgWcYzJ7fvgBIBE), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Yellow \(Martin Jensen Edit\)](https://open.spotify.com/album/02qFBb6GtIxrBplF4XS3kx) | 2:50 | 2021-12-17 | 2022-07-08 |
 | [Yes or No](https://open.spotify.com/track/2Fa7mw7kj9hlLpFaxvdXQ7) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/6OcVwQAafWzbe0IQZqSMC3) | 2:55 | 2021-12-17 | 2022-07-29 |
-| [Yes or No](https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2) | 2:55 | 2022-09-28 |  |
+| [Yes or No](https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2) | 2:55 | 2022-09-28 | 2023-04-09 |
 | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/track/6Dbjbkuzp4QEudONcqFNsi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:37 | 2022-04-15 | 2022-04-20 |
 | [you broke me first \- Luca Schreiner Remix](https://open.spotify.com/track/0kTIH2zbc1jvIHoCOCoNnr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [you broke me first \(Luca Schreiner Remix\)](https://open.spotify.com/album/5QYeXQ4AewfkmtDBlsxDtA) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [You Deserve Better \- Andrelli Remix](https://open.spotify.com/track/0JumfyG7GUshFjxouEXwhw) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [You Deserve Better \(Andrelli Remix\)](https://open.spotify.com/album/1UHf0Mm7wZ6CPspgzTo5uA) | 3:16 | 2022-03-25 | 2022-04-16 |

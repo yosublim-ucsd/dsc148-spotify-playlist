@@ -3527,6 +3527,28 @@
     },
     {
       "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315309,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
+    },
+    {
+      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 21170,
+  "num_followers": 21405,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGMxNmYxZGYxNTU2Yjg0MmE1NjBhZTQ3ZWU3ZjNkY2Y2",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGZjNjQ0MDg2MGY2MzE4YWZmZTg4MjFiODUyNTE1N2Ez",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "The Chills",
-      "url": "https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Brain Drain",
         "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 210333,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "The Chills",
+      "url": "https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/6yRqX9dZj1b09OpEe0QgE3"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 138893,
       "name": "Little Ghost",
       "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/6yRqX9dZj1b09OpEe0QgE3"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "A Quick One (Expanded Edition)",
         "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 149533,
       "name": "Boris The Spider - Mono Version",
       "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 266986,
       "name": "So Haunted",
       "url": "https://open.spotify.com/track/63MaRhpygmnQk38HQU1gse"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
     },
     {
       "added_at": "2023-02-09 23:00:00",

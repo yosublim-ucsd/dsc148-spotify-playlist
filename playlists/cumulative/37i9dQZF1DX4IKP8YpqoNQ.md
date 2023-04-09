@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-186 songs - 15 hr 40 min
+187 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bring It on Home to Me \- Live at the Harlem Square Club, Miami, FL \- January 1963](https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [One Night Stand \- Sam Cooke Live At The Harlem Square Club, 1963](https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm) | 5:26 | 2022-02-10 |  |
 | [Brown Sugar \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 10:45 | 2022-02-10 |  |
 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 | 2022-02-10 |  |
-| [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 | 2022-02-10 |  |
+| [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 | 2022-02-10 | 2023-04-09 |
 | [Chain of Fools \- Live at the Olympia Theatre, Paris, May 7, 1968](https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha In Paris \(Live\)](https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz) | 2:52 | 2022-02-10 | 2022-07-26 |
 | [Claustrophobic \(feat\. Keyon Harrold\) \- Live](https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 5:10 | 2022-02-10 |  |
 | [Colors](https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux) | 4:29 | 2022-02-10 | 2022-11-13 |
@@ -102,6 +102,7 @@
 | [Let's Start](https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fela With Ginger Baker Live!](https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr) | 7:45 | 2022-02-10 | 2022-07-29 |
 | [Let's Start \(feat\. Ginger Baker\) \- Live](https://open.spotify.com/track/7nM9ZnOD6nL04E5dOjjZiw) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Fela With Ginger Baker Live!](https://open.spotify.com/album/4muZmxBESyBUEW61rIF0D5) | 7:45 | 2022-02-10 |  |
 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 | 2022-02-10 |  |
+| [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:12 | 2023-04-06 |  |
 | [Little Ghetto Boy \(Live\)](https://open.spotify.com/track/4BsSAMZ8Lsmqgha5CSi39h) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/4XPHspoSgvDO0ongX1PVKv) | 3:56 | 2022-02-10 | 2022-07-28 |
 | [Little Ghetto Boy \(Radio Edit\)](https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 3:56 | 2022-02-10 |  |
 | [Look Up To The Sky \- Live](https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Live In NYC](https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU) | 4:03 | 2022-02-10 | 2022-07-29 |

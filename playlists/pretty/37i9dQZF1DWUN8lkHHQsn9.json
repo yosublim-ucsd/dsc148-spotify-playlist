@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Lulu x Uaziuk",
-  "num_followers": 2757,
+  "num_followers": 2763,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1NTA4OSwwMDAwMDAwMDJiMTY0N2RjNGM1MDIzNzhiOTQ0NzM5NDZhMDJkMDk3",
+  "snapshot_id": "MTY3OTA1NTA4OSwwMDAwMDAwMDAwNDJlMWY4ZGY3M2FiN2UwMTg3ZjFiZDU3YTJjMzIw",
   "tracks": [
     {
       "added_at": "2023-03-17 12:11:29",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "psychodynamiczne",
-        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "priorytetem",
-      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 284422,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "psychodynamiczne",
+        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "priorytetem",
+      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+        "name": "Magister",
+        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
+      "duration_ms": 160712,
+      "name": "Evangelion",
+      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Magister",
-        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 160712,
-      "name": "Evangelion",
-      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
-        "name": "Obok mnie (Radio edit)",
-        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Obok mnie - Radio edit",
-      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Jeszcze mam serce",
         "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
@@ -1019,6 +987,38 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
+        "name": "Obok mnie (Radio edit)",
+        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Obok mnie - Radio edit",
+      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -1051,38 +1051,38 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Lont",
-        "url": "https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX"
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 228472,
-      "name": "Lont",
-      "url": "https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5"
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
     },
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Dziewczyna z NASA",
-        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
       },
       "artists": [
         {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        },
-        {
-          "name": "Panilas",
-          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Dziewczyna z NASA",
-      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
     }
   ],
   "unique_name": "GLOW Polska",

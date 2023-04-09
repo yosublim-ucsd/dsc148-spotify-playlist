@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 831536,
+  "num_followers": 832073,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NTY1NiwwMDAwMDAwMGQ4ODJiNzJlZGQzMjA2NmU2NzEzZjg1ZWFhZmVhZjY1",
+  "snapshot_id": "MTY3NDA3NTY1NiwwMDAwMDAwMDc0NzNjNWVjY2RmOGU4MmQ4NjgwZWQyYjQ4Y2NiMTQ2",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Ticket To Ride - Remastered 2009",
+      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Green River (Expanded Edition)",
         "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 315200,
       "name": "Born On The Bayou",
       "url": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Ticket To Ride - Remastered 2009",
-      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
     },
     {
       "added_at": "2023-01-18 21:00:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,753 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,178 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 2 | [In the Mood](https://open.spotify.com/track/6NBwYT8zIO8MP1n82BKkij) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [In the Mood](https://open.spotify.com/album/2ptZi2qJDNiJS8oalULVdT) | 2:31 |
 | 3 | [Magic Man](https://open.spotify.com/track/0hPLh77jQo9DFNVP2YPKUD) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Magic Man](https://open.spotify.com/album/1ChLMfuAUS9ieJlUDix04t) | 3:22 |
 | 4 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 |
-| 5 | [Gluttony \- MC Vaud Villian Remix](https://open.spotify.com/track/1nddm6gXvUH9Sj6WdxQRGF) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Yvette Pylant](https://open.spotify.com/artist/1KA3XlnRF1f2EnTA50rf27), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [MC Vaud Villian](https://open.spotify.com/artist/6nPrIblvX5f5VUTLk6FCzk) | [Gluttony \(Vaud Villain Remix\)](https://open.spotify.com/album/5bX16imMJdCFpOk4pqffVs) | 3:34 |
+| 5 | [Gluttony \- MC Vaud Villian Remix](https://open.spotify.com/track/1nddm6gXvUH9Sj6WdxQRGF) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Yvette Pylant](https://open.spotify.com/artist/1KA3XlnRF1f2EnTA50rf27), [MC Vaud Villian](https://open.spotify.com/artist/6nPrIblvX5f5VUTLk6FCzk) | [Gluttony \(Vaud Villain Remix\)](https://open.spotify.com/album/5bX16imMJdCFpOk4pqffVs) | 3:34 |
 | 6 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 |
 | 7 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp) | 2:18 |
 | 8 | [Hit the Road Jack \- Tech House Mix](https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Dorade](https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm), [Maskarade](https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse) | [Hit the Road Jack \(Tech House Mix\)](https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe) | 2:51 |

@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 131927,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 150863,
       "name": "Covardia",
       "url": "https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 179599,
       "name": "ELA PIROU NA DODGE RAM",
       "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 160710,
       "name": "Esse B.O \u00e9 Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5pBU3Yihoa4hiwQ2T5fGhH"
@@ -5438,7 +5438,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -5468,7 +5468,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 181767,
       "name": "FOGO E GASOLINA",
       "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
@@ -5998,7 +5998,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 173366,
       "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) - Ao Vivo",
       "url": "https://open.spotify.com/track/5Ubx4DpvVodvsGH9ilxPVi"
@@ -7326,6 +7326,32 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "Mas Existe um Lugar (speed)",
+        "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141615,
+      "name": "Mas Existe um Lugar - speed",
+      "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
     },
     {
       "album": {
@@ -9604,7 +9630,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 192708,
       "name": "Pilantra",
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
@@ -10188,7 +10214,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "Puta Mexicana",
       "url": "https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT"

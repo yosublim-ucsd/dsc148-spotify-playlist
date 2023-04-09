@@ -1101,6 +1101,40 @@
     },
     {
       "album": {
+        "name": "Larga Essa Vida",
+        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119008,
+      "name": "Larga Essa Vida",
+      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+    },
+    {
+      "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
@@ -1948,7 +1982,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142192,
       "name": "Realeza",
       "url": "https://open.spotify.com/track/5OU9MTz2dl9HKJmoxA5dJV"
@@ -2379,6 +2413,28 @@
     },
     {
       "album": {
+        "name": "TE AMO!",
+        "url": "https://open.spotify.com/album/6jqmXRHdKBZUwxR9y6TWkc"
+      },
+      "artists": [
+        {
+          "name": "Duda Spice",
+          "url": "https://open.spotify.com/artist/1xPBtxnaXMu5djES3yvlYt"
+        },
+        {
+          "name": "Goldlab Records",
+          "url": "https://open.spotify.com/artist/6ISiV08ogOBFqv2KFVgmFp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133207,
+      "name": "TE AMO!",
+      "url": "https://open.spotify.com/track/2UZ7xwWTffAbB6nWa9NAfV"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/5JWiLjK3ldDHbGBGxsJ1xA"
       },
@@ -2508,7 +2564,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 182484,
       "name": "Vinhedo",
       "url": "https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia"

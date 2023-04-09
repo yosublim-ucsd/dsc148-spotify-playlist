@@ -1,432 +1,436 @@
 {
-  "description": "A free space for Indigenous creators. Currently curated by Elisapie.",
-  "num_followers": 43100,
+  "description": "A free space for Indigenous creators. Currently curated by Zoon.",
+  "num_followers": 43115,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NzkzNywwMDAwMDAwMDEyNTk2ZTUzNTNhMDczNmY3NTdiNmRhMjJiNzgyYzI1",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDMzOWMwZGJiMWQ0MDQ5MzliZTQyN2NlY2QyNDk0NDQy",
   "tracks": [
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
         }
       ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Canada: Inuit Games and Songs",
-        "url": "https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX"
+        "name": "Sweetwater",
+        "url": "https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg"
       },
       "artists": [
         {
-          "name": "Zachariasi Tarkiapik",
-          "url": "https://open.spotify.com/artist/2z3PLddIFv7UjSZJuyHVkb"
+          "name": "Digging Roots",
+          "url": "https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Shaman Song (Ungava Bay)",
-      "url": "https://open.spotify.com/track/1AxYezRbc5AfdupFZygUmZ"
+      "duration_ms": 340333,
+      "name": "Sweetwater",
+      "url": "https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Ancestors Call",
-        "url": "https://open.spotify.com/album/6dl1bRIrWYiQkmG5WQDrmi"
+        "name": "January 3rd",
+        "url": "https://open.spotify.com/album/156A9DxWOf0I2eR07HhZWt"
       },
       "artists": [
         {
-          "name": "Huun-Huur-Tu",
-          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
+          "name": "Status/Non-Status",
+          "url": "https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK"
         }
       ],
-      "duration_ms": 201560,
-      "name": "Eki Attar",
-      "url": "https://open.spotify.com/track/3S6RmFF5mDEVHrO3BSQHO6"
+      "duration_ms": 223293,
+      "name": "January 3rd",
+      "url": "https://open.spotify.com/track/6dPE434t7I5SudDxK9g9U1"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Eal\u00e1n",
-        "url": "https://open.spotify.com/album/5XhnWsmzORt5ZIqAbrIdwl"
+        "name": "Communion",
+        "url": "https://open.spotify.com/album/2hOmwGT0EmeHFHJrGS2ACL"
       },
       "artists": [
         {
-          "name": "IS\u00c1K",
-          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
         }
       ],
-      "duration_ms": 143447,
-      "name": "M\u00e1ze",
-      "url": "https://open.spotify.com/track/2GKG7ViAwDQ3y4S8ATKB0R"
+      "duration_ms": 213471,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/38CEvCQnSpfQY2YVJIlLQR"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3AohlVPhmSulLxNSldid1A"
+        "name": "three visits",
+        "url": "https://open.spotify.com/album/1oqsZbbsM7bIO5dBs7UCWC"
       },
       "artists": [
         {
-          "name": "Otyken",
-          "url": "https://open.spotify.com/artist/63tficClWA0HEI8bnlbA2l"
+          "name": "Matthew Cardinal",
+          "url": "https://open.spotify.com/artist/2sQcQc1C5ns0yPsDHGo2Sp"
         }
       ],
-      "duration_ms": 177457,
-      "name": "Legend",
-      "url": "https://open.spotify.com/track/7yNKY8kI688WENDOAGZDqc"
+      "duration_ms": 369054,
+      "name": "three visits",
+      "url": "https://open.spotify.com/track/6ptBpgooy6IkHq4uAJUURR"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Qanormita ippa !?",
-        "url": "https://open.spotify.com/album/3mqMWGfh3LhiS0gcP6VyVY"
+        "name": "A Language Disappears",
+        "url": "https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD"
       },
       "artists": [
         {
-          "name": "FINNi",
-          "url": "https://open.spotify.com/artist/19CUaPvd08HE0VJphmug1i"
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
         }
       ],
-      "duration_ms": 198612,
-      "name": "Qanormita ippa !?",
-      "url": "https://open.spotify.com/track/55qOiI8MLYXflx099WKy8k"
+      "duration_ms": 187223,
+      "name": "A Language Dissapears - Single Edit",
+      "url": "https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Sedna",
-        "url": "https://open.spotify.com/album/31GEU4ydpqEpOLRTlA2TFk"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/2YNi2N3nIZ4K3YhvCVvvSd"
       },
       "artists": [
         {
-          "name": "Kelly Fraser",
-          "url": "https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW"
+          "name": "Wares",
+          "url": "https://open.spotify.com/artist/4IJfEp4CKdYvIGGm6Y8xf6"
         }
       ],
-      "duration_ms": 214800,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/2J36ck8FvDg9tuHK4GZLiH"
+      "duration_ms": 202467,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3326oudm1Xm57Nv0GtWQfe"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+        "name": "Watin",
+        "url": "https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN"
       },
       "artists": [
         {
-          "name": "Sugluk",
-          "url": "https://open.spotify.com/artist/7aUEnke20y9Y16DOlW9w50"
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
         }
       ],
-      "duration_ms": 168093,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/00evBpL6QjdSC8RRN22t0f"
+      "duration_ms": 243293,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/0pGjVEbs8ZvFXhDmvj1ika"
     },
     {
-      "added_at": "2023-03-10 16:29:10",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Sinnaktuq",
-        "url": "https://open.spotify.com/album/71mBekmIBnu7S6T6ylBkKV"
+        "name": "Sewn Back Together",
+        "url": "https://open.spotify.com/album/08YlFLF1PnZw9k7l2nU5Zs"
       },
       "artists": [
         {
-          "name": "Northern Haze",
-          "url": "https://open.spotify.com/artist/7p3iETLZU2U0cNLGRMWMqm"
-        }
-      ],
-      "duration_ms": 124451,
-      "name": "Anivunga",
-      "url": "https://open.spotify.com/track/6KeILsw4yoGqn5tByGByMX"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Nive Sings!",
-        "url": "https://open.spotify.com/album/4JB0E00zkwU1vSsSJsS4Cr"
-      },
-      "artists": [
-        {
-          "name": "Nive Nielsen & The Deer Children",
-          "url": "https://open.spotify.com/artist/05Giz5AaXwS9HSsxuzviNY"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "Aqqusernit",
-      "url": "https://open.spotify.com/track/5jGrkBBZqzoaXrlndf436l"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "I'm Lost in the City",
-        "url": "https://open.spotify.com/album/4goqttV3yu4Ko0VnUizuqP"
-      },
-      "artists": [
-        {
-          "name": "John Angaiak",
-          "url": "https://open.spotify.com/artist/7FOyXMa0HKrW38OLFDcAND"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Ak'a Tamaani",
-      "url": "https://open.spotify.com/track/0xxLdkS3wOtboXnsqzacNh"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Spirit Child",
-        "url": "https://open.spotify.com/album/22w9yuze0FnbT89YfbiOev"
-      },
-      "artists": [
-        {
-          "name": "Willie Thrasher",
-          "url": "https://open.spotify.com/artist/1tQFd76V3HmxyEWwv8JN5k"
-        }
-      ],
-      "duration_ms": 169173,
-      "name": "We Got to Take You Higher",
-      "url": "https://open.spotify.com/track/2WcovutiyPAqdbnwdgxrKl"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 205636,
-      "name": "Arnaq",
-      "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Side A / Side B",
-        "url": "https://open.spotify.com/album/02dmZq3r8VBbnmwMDC0m9N"
-      },
-      "artists": [
-        {
-          "name": "Pamyua",
-          "url": "https://open.spotify.com/artist/2M8PVNl4h0SpE23a6Z6BOW"
-        }
-      ],
-      "duration_ms": 84679,
-      "name": "Seal Hunt (Version A)",
-      "url": "https://open.spotify.com/track/2wp1tmLadHVWLbozNI8NbL"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Asanaqigavit",
-        "url": "https://open.spotify.com/album/56o8wpDs9OCbfrnjen44A2"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Lyberth",
-          "url": "https://open.spotify.com/artist/57Qb5XTIwCoy1ulGDHTWiR"
-        }
-      ],
-      "duration_ms": 286213,
-      "name": "Asanaqigavit/Du Er S\u00e5 K\u00e6rlig",
-      "url": "https://open.spotify.com/track/38jd4iEZaefLbxIrDFoHIW"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Arctic Rose",
-        "url": "https://open.spotify.com/album/7hE3zREXjhJ10LtamRp3jm"
-      },
-      "artists": [
-        {
-          "name": "Susan Aglukark",
-          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
-        }
-      ],
-      "duration_ms": 242426,
-      "name": "Song Of The Land",
-      "url": "https://open.spotify.com/track/0JS61l6afk4vYcCbrNl7OJ"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "World Music From The Cold Seas",
-        "url": "https://open.spotify.com/album/1CRTUPPs3Em8PKA0LqBovb"
-      },
-      "artists": [
-        {
-          "name": "Sume",
-          "url": "https://open.spotify.com/artist/36wVKG3ZpPyTcpp4i46ECV"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "Upernaaq",
-      "url": "https://open.spotify.com/track/4FTmCjTknB3lnw7vLB8fWU"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
-      },
-      "artists": [
-        {
-          "name": "Sikumiut",
-          "url": "https://open.spotify.com/artist/2H1t2WqXOOcuY2qlEHjlck"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Sikumiut",
-      "url": "https://open.spotify.com/track/14QGC8TQtKMPOCbr2sVn2z"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "OMBIIGIZI",
+          "url": "https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG"
         },
         {
-          "name": "Joe Grass",
-          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
-      "url": "https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Deep Snow",
-        "url": "https://open.spotify.com/album/3K5waztJmPmPxsMnpuCenO"
-      },
-      "artists": [
-        {
-          "name": "Simon Lynge",
-          "url": "https://open.spotify.com/artist/0jc7KP4FUYBw0Y82VoLBWH"
-        }
-      ],
-      "duration_ms": 238175,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/2Mv8kbev82bQMn5CjlubBz"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Idjagie\u200b\u0111\u200bas \u2013 In the Hand of the Night",
-        "url": "https://open.spotify.com/album/71NUvwXvBdk08xcACG4UoM"
-      },
-      "artists": [
-        {
-          "name": "Mari Boine",
-          "url": "https://open.spotify.com/artist/4t4unGD2iYlkONGDmBbkcE"
-        }
-      ],
-      "duration_ms": 287520,
-      "name": "Vuoi Vuoi Mu",
-      "url": "https://open.spotify.com/track/7HhLIVmJREKStoJXtacUIS"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
-        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
-      },
-      "artists": [
-        {
-          "name": "William Tagoona",
-          "url": "https://open.spotify.com/artist/14gHKMS3VeLznrTZil2zGl"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Anaanaga",
-      "url": "https://open.spotify.com/track/6PyXvacCdnHaKDvK0AjJlg"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Qaumariaq",
-        "url": "https://open.spotify.com/album/4BMMtvCdpmt1Vi92mUEV65"
-      },
-      "artists": [
-        {
-          "name": "The Trade-Offs",
-          "url": "https://open.spotify.com/artist/1MnrJrblGPojuCBRGDisvK"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Qaumariaq",
-      "url": "https://open.spotify.com/track/0l7aujB6vAnhJQ8YvD4ZhN"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "SHIFTING",
-        "url": "https://open.spotify.com/album/10v5r1u4kwiIpdbakONaps"
-      },
-      "artists": [
-        {
-          "name": "Beatrice Deer",
-          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
-        }
-      ],
-      "duration_ms": 125893,
-      "name": "AANNGIQ",
-      "url": "https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX"
-    },
-    {
-      "added_at": "2023-03-10 16:29:10",
-      "album": {
-        "name": "Canada: Inuit Games and Songs",
-        "url": "https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX"
-      },
-      "artists": [
-        {
-          "name": "Elijah Pudloo Mageeta",
-          "url": "https://open.spotify.com/artist/32IsJ3YVTAhYm4iytdN7MJ"
+          "name": "Status/Non-Status",
+          "url": "https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK"
         },
         {
-          "name": "Temegeak Pitaulassie",
-          "url": "https://open.spotify.com/artist/3TEXUYjtHpUqH86NWFEB0O"
-        },
-        {
-          "name": "Napache Samaejuk Pootoogook",
-          "url": "https://open.spotify.com/artist/2BrVaL2xpbmMVkvJ6DAQAC"
-        },
-        {
-          "name": "Marie Apaqaq",
-          "url": "https://open.spotify.com/artist/0rYybSRMU6GjXVrVb8qvWD"
-        },
-        {
-          "name": "Soria Eyituk",
-          "url": "https://open.spotify.com/artist/3c8NJ6JFFdzi6N9vxj7QSA"
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
         }
       ],
-      "duration_ms": 96666,
-      "name": "Katajjait on \"Hamma\" And Its Variants: Baffin Land / Hudson Bay / Baffin Land",
-      "url": "https://open.spotify.com/track/6qJozUlX1ao31KQHb4aWoK"
+      "duration_ms": 181959,
+      "name": "Cherry Coke",
+      "url": "https://open.spotify.com/track/0IJrtDPknuRyaiEhF6xDlC"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "\u00d4skimac\u00eetahowin: A New Beginning",
+        "url": "https://open.spotify.com/album/4GfjNENX210Fh5hmsHIRho"
+      },
+      "artists": [
+        {
+          "name": "Northern Cree",
+          "url": "https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq"
+        }
+      ],
+      "duration_ms": 292488,
+      "name": "Summer Sunset",
+      "url": "https://open.spotify.com/track/0mZEk4RtIuJOsqduOjNVxZ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Medicine Singers",
+        "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
+      },
+      "artists": [
+        {
+          "name": "Medicine Singers",
+          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
+        },
+        {
+          "name": "Yonatan Gat",
+          "url": "https://open.spotify.com/artist/7nZxuvhQs2uxHXggvMp95l"
+        }
+      ],
+      "duration_ms": 124769,
+      "name": "Hawk Song",
+      "url": "https://open.spotify.com/track/1eSU2JrcRkFN8ZBmZ9v5mN"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5MdHvw9LIwL9LzZwtWdCZU"
+      },
+      "artists": [
+        {
+          "name": "Indian Giver",
+          "url": "https://open.spotify.com/artist/4P6gOC9QpCSfZ7lgLqsZfH"
+        }
+      ],
+      "duration_ms": 86715,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4c1tlnvPW4WaXpSeDvAmz8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Theory of Ice",
+        "url": "https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9"
+      },
+      "artists": [
+        {
+          "name": "Leanne Betasamosake Simpson",
+          "url": "https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4"
+        }
+      ],
+      "duration_ms": 247765,
+      "name": "Surface Tension",
+      "url": "https://open.spotify.com/track/4GPWj4sEVR4a0s2ssHovd9"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "The OG",
+        "url": "https://open.spotify.com/album/0Q6dGRBbCePHeU9NTBndAw"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
+        }
+      ],
+      "duration_ms": 211754,
+      "name": "The OG",
+      "url": "https://open.spotify.com/track/4S9lAUqvr4EWhIYSaVAVKj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Fool Under Water",
+        "url": "https://open.spotify.com/album/3qlV7Y4btMh5tfC1F39f8g"
+      },
+      "artists": [
+        {
+          "name": "Ila Barker",
+          "url": "https://open.spotify.com/artist/6V5NP1pPpYLvS3hhyyUOAF"
+        }
+      ],
+      "duration_ms": 245181,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5SGVUrPePSmXGvGL61UAFM"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Niineta",
+        "url": "https://open.spotify.com/album/6Uhsg8iP4B789QSFc6l3b5"
+      },
+      "artists": [
+        {
+          "name": "Joe Rainey",
+          "url": "https://open.spotify.com/artist/6X5CaJJfNdCoFSuiS4d6wX"
+        }
+      ],
+      "duration_ms": 358835,
+      "name": "easy on the cide",
+      "url": "https://open.spotify.com/track/5kdxwpFgeKIhH2hYpmXoAz"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "STRIP",
+        "url": "https://open.spotify.com/album/1XuLfMPDmIWZpLRJatTc8b"
+      },
+      "artists": [
+        {
+          "name": "Prado Monroe",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/5c2uK4oBoXYn5LXYMYL0G3"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Guess Who I Saw In Paris",
+      "url": "https://open.spotify.com/track/3kJ1OOHzh1GHntXMTcXyEJ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Gaagige",
+        "url": "https://open.spotify.com/album/2SBEYUDTkXgPZT2atzdtoU"
+      },
+      "artists": [
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        }
+      ],
+      "duration_ms": 230467,
+      "name": "Gaagige - Single Edit",
+      "url": "https://open.spotify.com/track/5N63wxCYRKpT72lNmiNQyg"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Multidimensional Culture",
+        "url": "https://open.spotify.com/album/7HKq1geZSeixNxtQOc8ZCu"
+      },
+      "artists": [
+        {
+          "name": "Ghostkeeper",
+          "url": "https://open.spotify.com/artist/3aNeKUntysMTujH191jiGX"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Rolly",
+      "url": "https://open.spotify.com/track/74DHE5SiVR0yHD4EcmQdCB"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Beyond the Reservoir",
+        "url": "https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "duration_ms": 240592,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/3fpKyYKSKcieSZwdtvOQUr"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Cris Derksen: Orchestral Powwow",
+        "url": "https://open.spotify.com/album/1p4jzGhZk7BF9660debWXC"
+      },
+      "artists": [
+        {
+          "name": "Cris Derksen",
+          "url": "https://open.spotify.com/artist/7ix7Gz79EddnFl6LJSDuhc"
+        },
+        {
+          "name": "Northern Voice",
+          "url": "https://open.spotify.com/artist/3TfPTnc5AriMC5a4jUcNrT"
+        }
+      ],
+      "duration_ms": 397373,
+      "name": "Round Dance (feat. Northern Voice)",
+      "url": "https://open.spotify.com/track/74umBFDqQucnMVCO8wUpX9"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Wolastoqiyik Lintuwakonawa",
+        "url": "https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Eqpahak",
+      "url": "https://open.spotify.com/track/3uCKlvzqTRDefFXhmcQKZ3"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Shelter as We Go...",
+        "url": "https://open.spotify.com/album/6u9ng5eID9cYKnzqEAevg9"
+      },
+      "artists": [
+        {
+          "name": "Quantum Tangle",
+          "url": "https://open.spotify.com/artist/0cSZE2fT3uEf8MH8Pb1I7S"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Igluvut",
+      "url": "https://open.spotify.com/track/79Fx3uz2u3Cp8KQZvqtcEz"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Back At Me",
+        "url": "https://open.spotify.com/album/3cdsDMTEL9FbA8l6PASlG9"
+      },
+      "artists": [
+        {
+          "name": "OMBIIGIZI",
+          "url": "https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG"
+        },
+        {
+          "name": "Peter Dreimanis",
+          "url": "https://open.spotify.com/artist/29u2tzGMcS5hFxH4IV1iOU"
+        }
+      ],
+      "duration_ms": 212607,
+      "name": "Back At Me",
+      "url": "https://open.spotify.com/track/5rHXVsKyKvdq0UIC7LMo9G"
     }
   ],
   "unique_name": "Indigenous",

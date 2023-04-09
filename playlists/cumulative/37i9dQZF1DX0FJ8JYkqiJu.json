@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 205293,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/6vcTsbj5hBMXmPDHze27N1"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 244285,
       "name": "Don\u2019t Get Too Close",
       "url": "https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 244878,
       "name": "Fade Into Black",
       "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
@@ -1584,6 +1584,32 @@
       "duration_ms": 216270,
       "name": "Promises - Catching Flies Remix",
       "url": "https://open.spotify.com/track/0KtcZEGkkQpf5bwBKsxz3K"
+    },
+    {
+      "album": {
+        "name": "Protocol",
+        "url": "https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Able Joseph",
+          "url": "https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255582,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/02owX0PUSKGXw4tMPaUw56"
     },
     {
       "album": {

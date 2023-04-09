@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> MEAU \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\) op de cover van dé Nederpop playlist
+> MEAU \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\) op de cover van dé Nederpop playlist
 
 150 songs - 7 hr 15 min
 

@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Feist
 
-495 songs - 1 day 6 hr 49 min
+497 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [I Want You](https://open.spotify.com/track/7GzOtoJsiimil1RKK4zSo9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 6:23 | 2022-04-22 | 2022-05-20 |
 | [I'll Come Too](https://open.spotify.com/track/0ZMBqlhWnSlR4KCiUfLL8i) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g) | 3:42 | 2021-11-15 | 2022-04-21 |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2021-06-03 |  |
-| [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2021-06-03 |  |
+| [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2021-06-03 | 2023-04-09 |
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-12-16 |  |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2021-06-03 | 2022-07-29 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2022-10-31 |
@@ -308,6 +308,7 @@
 | [neverend](https://open.spotify.com/track/4uaaTw9zjr51URmFk3WTi3) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [neverend](https://open.spotify.com/album/59apC5reODbyI6NSFVHPli) | 4:26 | 2022-05-20 | 2022-06-03 |
 | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2021-06-03 | 2022-05-20 |
 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 | 2021-06-03 | 2022-11-24 |
+| [nice to know you](https://open.spotify.com/track/1Ox33f3cIVsAzhXpC6fYIp) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [nice to know you](https://open.spotify.com/album/1N97epSs8xnFTQxRqberB7) | 2:48 | 2023-04-07 |  |
 | [No Butterflies, No Nothing](https://open.spotify.com/track/3ZILqwsgKxsjrBLBjrOaSF) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [No Butterflies, No Nothing](https://open.spotify.com/album/0lU40mXWleCp13QB6lf30L) | 2:59 | 2021-06-03 | 2022-07-18 |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2021-06-03 | 2022-04-20 |
 | [No Shadow](https://open.spotify.com/track/6KyccUT8S3KMRh5wt4CN2n) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 3:18 | 2021-09-24 | 2022-04-19 |
@@ -440,7 +441,7 @@
 | [The Conclusion](https://open.spotify.com/track/6jPxM1V4M1DdiPgMoe8FBS) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:45 | 2021-06-03 | 2022-06-04 |
 | [The Darkness \- Remix](https://open.spotify.com/track/606BSzBpRxkKi9qIbSpIbH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [The Darkness \(Remix\)](https://open.spotify.com/album/3ZzRwLaCEYwUvxUkT6P43A) | 4:06 | 2021-06-11 | 2022-01-10 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-15 |  |
-| [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2021-10-08 |  |
+| [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2021-10-08 | 2023-04-09 |
 | [The Hollow Sound of the Morning Chimes](https://open.spotify.com/track/5BGfqsNVHVGlgAzXhliMBk) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [The Hollow Sound of the Morning Chimes](https://open.spotify.com/album/5hzKzfkYrxw0EpmW7awj9f) | 6:48 | 2021-06-03 | 2022-04-21 |
 | [The Look On Your Face](https://open.spotify.com/track/4wCukIqVlqd452beXYxmXK) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [The Look On Your Face](https://open.spotify.com/album/5j18aQAFLAox8iPVx433b8) | 3:52 | 2021-10-22 | 2022-04-19 |
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-06-03 | 2022-09-02 |
@@ -455,6 +456,7 @@
 | [Time](https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:45 | 2021-06-03 | 2022-07-29 |
 | [Time For Crime](https://open.spotify.com/track/28EvBSVXP4bqNxnshOJb77) | [Orion](https://open.spotify.com/artist/762tIikXbFRfp0Jl17ufIJ) | [Time For Crime](https://open.spotify.com/album/4FQ5G82EAAbIC7c7Pqp506) | 3:21 | 2021-06-03 | 2022-04-20 |
 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 | 2021-06-03 |  |
+| [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-07 |  |
 | [Today \(with Tirzah\)](https://open.spotify.com/track/7vqbA9MfCnSFMTT0cikF8b) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [R.Y.C](https://open.spotify.com/album/49XdLHYoA83A2JpKbJykSP) | 3:20 | 2021-06-03 | 2022-04-23 |
 | [Too Dead Inside](https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Too Dead Inside](https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2022-04-09 | 2022-04-24 |

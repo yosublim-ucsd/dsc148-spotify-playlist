@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-480 songs - 1 day 3 hr 33 min
+482 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Selva Negra](https://open.spotify.com/track/05554ATgymiSkXHLdpGl5d) | [Grace Caracol](https://open.spotify.com/artist/0OGNY2wV1dPmSv01JKrpoL) | [Selva Negra](https://open.spotify.com/album/3JNSwB2kvBmxzlEAk08HJU) | 3:05 | 2022-04-01 | 2022-04-29 |
 | [Serenidad](https://open.spotify.com/track/1ZVI0MOeSErPZcGmeTCA7C) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/0lqj2DO9dGyRG4QQ5AQdci) | 3:28 | 2022-01-21 | 2022-07-26 |
 | [Serenidad](https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs) | 3:28 | 2022-07-15 | 2023-03-23 |
+| [Serenidad](https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV) | 3:28 | 2023-04-07 |  |
 | [Serpientes](https://open.spotify.com/track/0Uu56M8h27DWtDRS0WB8wo) | [Paula y Los Pájaros](https://open.spotify.com/artist/5ieJxCq2svgyLpVgL7Xalk) | [Serpientes](https://open.spotify.com/album/5WnrMugZ9igrl5RQlZb0C3) | 4:16 | 2022-04-01 | 2022-04-25 |
 | [Señales Confusas](https://open.spotify.com/track/2tnINrlZKtJ1o6kzmU5fEN) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Señales Confusas](https://open.spotify.com/album/4sAn6CuARgEGO6AoehDnVP) | 3:53 | 2022-01-21 | 2022-07-27 |
 | [Si Tuviera](https://open.spotify.com/track/61dDCTOQcmJgAY0mmpfoTj) | [Alondra Bentley](https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3) | [Si Tuviera](https://open.spotify.com/album/5L57yYMGUPhpYfz0eFxIjl) | 2:55 | 2022-01-21 | 2022-10-20 |
@@ -424,7 +425,7 @@
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2022-01-14 | 2022-07-27 |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-07-15 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-01-14 | 2022-07-29 |
-| [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 |  |
+| [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 | 2023-04-09 |
 | [Te Pido](https://open.spotify.com/track/17aiyNeLuMT3a88sr4Bsmt) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Te Pido](https://open.spotify.com/album/1pmpmLXG9a8YSAALamKYuF) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2022-01-21 | 2022-07-27 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-01-21 |  |
@@ -442,7 +443,7 @@
 | [Todo lo que hemos hecho](https://open.spotify.com/track/2vPLLswygDu5YPmRCxbNik) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto I: La \(Re\) Conciliación](https://open.spotify.com/album/1SJF6XS1MgjBugP0sLeX7Y) | 3:54 | 2022-07-15 | 2022-07-21 |
 | [Todo Lo Que Querías Saber](https://open.spotify.com/track/6UXqLyJpoigdoZb9aeuhJw) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Pies Sobre la Tierra](https://open.spotify.com/album/5LLxqVApJGh42eDQIdRo4Q) | 4:31 | 2022-01-21 | 2022-07-29 |
 | [Todo Lo Tiene](https://open.spotify.com/track/0K7bCDBZ2mkZCCw6M95b4j) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Todo Lo Tiene](https://open.spotify.com/album/7KnN6kXH1J0OIaM5rYrz8I) | 4:10 | 2022-01-21 | 2022-07-29 |
-| [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 | 2022-05-06 |  |
+| [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 | 2022-05-06 | 2023-04-09 |
 | [Torpe](https://open.spotify.com/track/5xfiwqLO6R21eRzWnjw7J4) | [Agustina Bécares](https://open.spotify.com/artist/6rC1DqYU1RqOE8aNV1RAf2) | [Torpe](https://open.spotify.com/album/5pPQfx95y0PSGvGohtBDO5) | 2:42 | 2022-04-01 | 2022-04-16 |
 | [Tu Paisaje](https://open.spotify.com/track/3Bmt4jOf8kcJteJdvtEZNs) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:05 | 2022-01-14 | 2022-07-27 |
 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-03-17 |  |
@@ -476,6 +477,7 @@
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2022-01-14 | 2022-07-28 |
 | [Vuelo](https://open.spotify.com/track/24eo3E9uK6zPl0bvlIZuoi) | [Maria Trapaglia](https://open.spotify.com/artist/5f53oTxcEXYARPX4xRIO0i) | [Vuelo](https://open.spotify.com/album/4jmOTynTRGQeByOvtnCFzx) | 3:50 | 2022-04-01 | 2022-04-21 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-08 |  |
+| [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 | 2023-04-07 |  |
 | [y regalamelo](https://open.spotify.com/track/16lIxq1EPneaRXmH7t6OnH) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [y regalamelo](https://open.spotify.com/album/5HgDdJRNvEyRoNOvajcNti) | 2:55 | 2022-01-21 | 2022-06-19 |
 | [Ya Es Muy Tarde](https://open.spotify.com/track/3sGAVerncV8XFlfA5WBRhX) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ya Es Muy Tarde](https://open.spotify.com/album/5RTdwTUrJUvY6hBumUq9Ds) | 3:01 | 2022-01-21 | 2022-07-05 |
 | [Ya No](https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Ya No](https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0) | 2:29 | 2022-07-15 |  |

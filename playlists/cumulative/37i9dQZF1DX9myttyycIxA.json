@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 83133,
       "name": "all in",
       "url": "https://open.spotify.com/track/58tzJQpMWgsPaWmSypQ2AN"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 257614,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4"
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Big Plans",
+        "url": "https://open.spotify.com/album/3u3dIsBYRvqoHwBAbp1Ba1"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220891,
+      "name": "Big Plans",
+      "url": "https://open.spotify.com/track/2JBiR5DVvF05VWERn4NeRl"
+    },
+    {
+      "album": {
         "name": "Big Wheel",
         "url": "https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD"
       },
@@ -1638,6 +1656,24 @@
       "duration_ms": 160089,
       "name": "blame",
       "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+    },
+    {
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs"
+      },
+      "artists": [
+        {
+          "name": "LIES",
+          "url": "https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282339,
+      "name": "Blemishes",
+      "url": "https://open.spotify.com/track/4jmZ9N5KxhpPNzYodi114O"
     },
     {
       "album": {
@@ -4150,10 +4186,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 216266,
       "name": "Done With Bits",
       "url": "https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264546,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze"
     },
     {
       "album": {
@@ -5294,6 +5348,24 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+    },
+    {
+      "album": {
+        "name": "fluke",
+        "url": "https://open.spotify.com/album/1GJcQho6zi8rICzT8Yi3l8"
+      },
+      "artists": [
+        {
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "forget her",
+      "url": "https://open.spotify.com/track/3IbN46ROZg3EjzttvYscQK"
     },
     {
       "album": {
@@ -9312,7 +9384,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 204281,
       "name": "Monkey Ball Gatekeeper (Cinnamon)",
       "url": "https://open.spotify.com/track/5GcTGdSfTJOs0G7Q0T0Dzj"
@@ -9514,7 +9586,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 124533,
       "name": "Mythical Bonds",
       "url": "https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ"
@@ -12925,6 +12997,24 @@
     },
     {
       "album": {
+        "name": "Steamroller",
+        "url": "https://open.spotify.com/album/68nQzRa9NE4R2mFPPgPwWk"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205484,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q"
+    },
+    {
+      "album": {
         "name": "You Haven't Missed Much",
         "url": "https://open.spotify.com/album/7MZw0rg127xSEM1CXDkIIh"
       },
@@ -13296,7 +13386,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 227640,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK"
@@ -15330,7 +15420,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 137000,
       "name": "Why I Come Back Home",
       "url": "https://open.spotify.com/track/5TtqOOP7YBToVhk8GI4bBz"

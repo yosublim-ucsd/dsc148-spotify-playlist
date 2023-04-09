@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en portada.
 
-167 songs - 8 hr 43 min
+171 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-13 |  |
 | [Bounce](https://open.spotify.com/track/5q1wShNQKfniCCv097p00x) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/7yOETWq7Ft6mjRNQxgXyhY) | 2:38 | 2021-12-13 | 2022-07-29 |
 | [Bounce](https://open.spotify.com/track/6KUmpDrv5YOGR4Re7KJJze) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/6Becef5FVLJfocz5dk1DNF) | 2:38 | 2022-06-27 | 2023-02-21 |
+| [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 | 2023-04-07 |  |
 | [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 | 2022-08-16 |  |
 | [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 | 2022-10-14 |
 | [Buscando el Sol](https://open.spotify.com/track/0X6vzLwQa5suHlByNvbOsJ) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Buscando el Sol](https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a) | 3:19 | 2022-02-09 | 2022-04-15 |
@@ -111,6 +112,7 @@
 | [Merch](https://open.spotify.com/track/3eHQUipnS6lCIWRhKa8Fs3) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Multi](https://open.spotify.com/artist/5Hp4j1fNOVJAfj0QWJbsnR) | [Merch](https://open.spotify.com/album/5NexntZMObc9laiYBG8s48) | 2:35 | 2022-06-27 |  |
 | [Mexico](https://open.spotify.com/track/55bd4KmdD0m1o4cmreo5uJ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mexico](https://open.spotify.com/album/0hpNndgh1slM2ILQtVwb3M) | 2:41 | 2021-12-13 | 2022-03-09 |
 | [Mezcal](https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mezcal](https://open.spotify.com/album/4pcAzYQ2pQWtDTg4Q9tfkh) | 3:14 | 2021-12-13 |  |
+| [Mira Ma](https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 | 2023-04-07 |  |
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2021-12-13 |  |
 | [Nada Más](https://open.spotify.com/track/5A4oXZIqEqTG77wq4B1Txh) | [Sailor An](https://open.spotify.com/artist/0pKECWtFUx8RrVzMDVb6Wr) | [Nada Más](https://open.spotify.com/album/0B63I00LvOlF2F4DDWPqv2) | 3:17 | 2021-12-13 |  |
 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-12-13 |  |
@@ -118,6 +120,7 @@
 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 | 2021-12-13 |  |
 | [No Estoy](https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/0LiFjBoSemLpzSCOsGXTOF) | 3:58 | 2022-06-27 |  |
 | [No Estoy](https://open.spotify.com/track/4HhOasqIGURvWe4jRDfMOc) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/5B8WkZ5IfTZRKAmhQQ7owH) | 3:58 | 2021-12-13 | 2022-07-29 |
+| [No Le Bajes](https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [No Le Bajes](https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT) | 2:57 | 2023-04-07 |  |
 | [No Me Pueden Parar](https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [No Me Pueden Parar](https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK) | 3:28 | 2023-03-24 |  |
 | [No Puedes Parar](https://open.spotify.com/track/0S6bK0SXy9NZxidqc2SERP) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Mujer De Fuego](https://open.spotify.com/album/70JgCMpy5oRmrNSXUWegPY) | 3:36 | 2021-12-13 |  |
 | [No Soy Criminal](https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [No Soy Criminal](https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno) | 3:37 | 2021-12-13 | 2023-02-21 |
@@ -169,6 +172,7 @@
 | [Versos Tristes](https://open.spotify.com/track/7ALPJQQxtsEQnZid1GDyH9) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Versos Tristes](https://open.spotify.com/album/64j88cpynr6CNVRtHeJvnC) | 3:33 | 2021-12-13 | 2023-02-21 |
 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 | 2021-12-13 |  |
 | [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 | 2022-02-17 |  |
+| [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-04-07 |  |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-12-13 |  |
 | [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 | 2021-12-13 |  |
 | [Yo Aprendi](https://open.spotify.com/track/0GgamUsKuvYz3gv8k4uTuI) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [Polvo De La Humedad](https://open.spotify.com/album/7pxFxYIDIvoDg6eYZbtbTS) | 3:12 | 2021-12-13 |  |

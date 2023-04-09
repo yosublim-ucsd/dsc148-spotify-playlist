@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. rocco on the cover.
 
-1,048 songs - 2 day 5 hr 45 min
+1,050 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-16 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/0f5oefcDaN8RCIZrVJa8Q7) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/2sse1UJ2m1BwZ243r8duR7) | 4:54 | 2021-05-29 | 2021-06-12 |
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 | 2022-10-14 |
-| [Don't Know How to Girlfriend](https://open.spotify.com/track/3V85ifdF1As9rpzJl0m916) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:01 | 2022-10-07 |  |
+| [Don't Know How to Girlfriend](https://open.spotify.com/track/3V85ifdF1As9rpzJl0m916) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:01 | 2022-10-07 | 2023-04-09 |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-05-03 | 2021-05-29 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2022-01-07 | 2022-02-12 |
 | [Don't You Want Me](https://open.spotify.com/track/38X5UR1bKeg85ocjyPNAcl) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Celine Autumn](https://open.spotify.com/artist/6Pp0HjTuD5G0IfcHXqpusQ) | [Don't You Want Me](https://open.spotify.com/album/2eg78jugnXfoMypTi5fpus) | 3:33 | 2022-06-24 | 2023-04-01 |
@@ -483,6 +483,7 @@
 | [ik it](https://open.spotify.com/track/6OCnZGYDWyOBNTvyBCAzd2) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [ik it](https://open.spotify.com/album/2IHdxCvfJNGNmADbf3zc5G) | 2:53 | 2020-10-29\* | 2020-11-07 |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2020-10-29\* | 2021-01-09 |
 | [ily sm ihy](https://open.spotify.com/track/5WkzW0h65dpavYGSruhm7D) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [ily sm ihy](https://open.spotify.com/album/1JAKBNuRkhwrrcmEkf0FRZ) | 2:27 | 2022-01-14 | 2022-03-05 |
+| [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 | 2023-04-07 |  |
 | [in case you miss me](https://open.spotify.com/track/0NAvBMEfXk1ke0RoR4NPni) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:50 | 2021-06-27 | 2021-07-31 |
 | [In My Dreams](https://open.spotify.com/track/5TbK093FtYeUq1HDDb4hNq) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [In My Dreams](https://open.spotify.com/album/0z90jVPCmX75274NuNx0RL) | 2:19 | 2021-10-16 | 2022-01-08 |
 | [in my dreams.](https://open.spotify.com/track/0s6sxvoH0PQeqF3EAxWNQC) | [Wander All Winter.](https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm), [Joshua Mine](https://open.spotify.com/artist/0TkO3rxGMiOiivMNLxFCJq) | [in my dreams.](https://open.spotify.com/album/6k84Ya7LAcNmUaqJTfKt40) | 3:11 | 2021-05-15 | 2021-05-29 |
@@ -517,6 +518,7 @@
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-08-14 | 2021-11-27 |
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2020-12-19 | 2021-01-16 |
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-04-22 |  |
+| [KEEP IT COOL!](https://open.spotify.com/track/1H4sbFieU2PFUMYugcGNlb) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [KEEP IT COOL!](https://open.spotify.com/album/1H0zkjJIFUVuOPn1Jr6NdF) | 2:50 | 2023-04-07 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-02-19 |
 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-03 |  |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-04-30 | 2021-06-27 |
@@ -654,7 +656,7 @@
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-02-20 | 2021-04-24 |
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-14 | 2021-03-06 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-05-29 | 2021-11-20 |
-| [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-04-15 |  |
+| [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-04-15 | 2023-04-09 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 |  |
 | [off](https://open.spotify.com/track/0ZaoyHVn2qHN7NoTqH2qbK) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Good Karma](https://open.spotify.com/artist/3e1VExchYabwD6b6QDe4rI) | [off](https://open.spotify.com/album/3hq0lrG23NHRQmMmuLlDmF) | 2:31 | 2023-02-10 | 2023-04-01 |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2021-05-15 | 2021-06-27 |

@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Get On Down",
+        "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Get On Down",
+      "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
+    },
+    {
+      "album": {
         "name": "Get Together",
         "url": "https://open.spotify.com/album/1ieRCC0ykBTwInYhHxXGew"
       },
@@ -578,7 +600,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174598,
       "name": "Heartbeat - Ferreck Dawn Remix",
       "url": "https://open.spotify.com/track/4mSTPmCqktzNRnAx3BDODE"
@@ -955,6 +977,32 @@
     },
     {
       "album": {
+        "name": "Jack Had A Groove (Glen Horsborough Remix)",
+        "url": "https://open.spotify.com/album/00NoNHchpYhlQ9TIfjlfu1"
+      },
+      "artists": [
+        {
+          "name": "HP Vince",
+          "url": "https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW"
+        },
+        {
+          "name": "Chuck Roberts",
+          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
+        },
+        {
+          "name": "Glen Horsborough",
+          "url": "https://open.spotify.com/artist/1J46gHqs7zPa7Lciz41abR"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243870,
+      "name": "Jack Had A Groove - Glen Horsborough Edit",
+      "url": "https://open.spotify.com/track/68YRtsiy9LHICl8IPxhiif"
+    },
+    {
+      "album": {
         "name": "Jack Had A Groove (KPD Remix)",
         "url": "https://open.spotify.com/album/4k3BRM4j0YPtzpb2NfChfa"
       },
@@ -1095,6 +1143,46 @@
     },
     {
       "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
+    },
+    {
+      "album": {
+        "name": "Lennon",
+        "url": "https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205429,
+      "name": "Lennon",
+      "url": "https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"
+    },
+    {
+      "album": {
         "name": "Let Me Take You",
         "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
       },
@@ -1136,7 +1224,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 217935,
       "name": "Like You - Mighty Mouse Remix",
       "url": "https://open.spotify.com/track/6hw1qavyBjne9NjGHYCJ7F"
@@ -1734,7 +1822,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
@@ -2096,7 +2184,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"

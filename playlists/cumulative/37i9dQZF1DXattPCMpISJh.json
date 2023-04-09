@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Celebrities",
+        "url": "https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Celebrities",
+      "url": "https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG"
+    },
+    {
+      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f"
       },
@@ -622,6 +640,24 @@
       "duration_ms": 188398,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
+    },
+    {
+      "album": {
+        "name": "Conversation Starter",
+        "url": "https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW"
+      },
+      "artists": [
+        {
+          "name": "Tomode",
+          "url": "https://open.spotify.com/artist/5Q5iKvamaJt7Gz1Bz1JRGA"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201430,
+      "name": "Conversation Starter",
+      "url": "https://open.spotify.com/track/59RtIEhD4XJkRmfLj1eEAM"
     },
     {
       "album": {
@@ -867,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/2yXcDJCkVy5aEgkEzI1cxO"
+      },
+      "artists": [
+        {
+          "name": "Gjon's Tears",
+          "url": "https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/4Wi7j71MROAcJPSTT11HQy"
+    },
+    {
+      "album": {
         "name": "Do I Do (Radio Edit)",
         "url": "https://open.spotify.com/album/6mXfyALqYhNgAKKBIlgyY3"
       },
@@ -970,7 +1024,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 211773,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4zR1K26LJZ2ZqDOGtCyZRs"
@@ -1148,10 +1202,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 239681,
       "name": "First Thing",
       "url": "https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR"
+    },
+    {
+      "album": {
+        "name": "Flirt",
+        "url": "https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO"
+      },
+      "artists": [
+        {
+          "name": "Camille Trust",
+          "url": "https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf"
+        },
+        {
+          "name": "jayo",
+          "url": "https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Flirt",
+      "url": "https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF"
     },
     {
       "album": {
@@ -1206,7 +1282,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 234493,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
@@ -1439,6 +1515,50 @@
     },
     {
       "album": {
+        "name": "I Found More Love (Sophie Lloyd Remix - Extended)",
+        "url": "https://open.spotify.com/album/5mqePSgQ6PqiB2nExt0Y5i"
+      },
+      "artists": [
+        {
+          "name": "Midnight Magic",
+          "url": "https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le"
+        },
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528520,
+      "name": "I Found Love - Sophie Lloyd Remix - Extended Mix",
+      "url": "https://open.spotify.com/track/3ZQzvmQyG7T0UAlrotKwI8"
+    },
+    {
+      "album": {
+        "name": "I Like (The Music that You Play)",
+        "url": "https://open.spotify.com/album/4l9xaowTpYHv7iqXBnUlnE"
+      },
+      "artists": [
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+        },
+        {
+          "name": "Chatobaron",
+          "url": "https://open.spotify.com/artist/0LslH1cGQAi9LcdHz8nfuc"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445866,
+      "name": "I Like The Music (That You Play) - Club Vocal",
+      "url": "https://open.spotify.com/track/6DucX5qCUh5EKCzYF8x8r2"
+    },
+    {
+      "album": {
         "name": "I Ran (So Far Away) [The Liongold Remixes]",
         "url": "https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy"
       },
@@ -1634,7 +1754,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 233684,
       "name": "Instant Sunshine - Luke Million Remix",
       "url": "https://open.spotify.com/track/751PUhAgj41GvTjm4HOLc6"
@@ -1966,7 +2086,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 323292,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd"
@@ -2006,7 +2126,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 282379,
       "name": "Living the Fantasy - Edit",
       "url": "https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i"
@@ -2182,6 +2302,28 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI"
+      },
+      "artists": [
+        {
+          "name": "T-Groove",
+          "url": "https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt"
+        },
+        {
+          "name": "Maddam Mya",
+          "url": "https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328197,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO"
     },
     {
       "album": {
@@ -2364,7 +2506,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 188200,
       "name": "Only Direction",
       "url": "https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N"
@@ -2714,7 +2856,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 253573,
       "name": "Say You Will",
       "url": "https://open.spotify.com/track/4z0dNvWLgIurGazB5SIQOw"
@@ -2736,6 +2878,24 @@
       "duration_ms": 145319,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/18eFjMhBiekCdJeNGhdkF9"
+    },
+    {
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/1d5rKxAiv7gfOPO8Yb0TSm"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/1HEvA91tHBpt78hZLIq0MG"
     },
     {
       "album": {
@@ -2918,6 +3078,28 @@
       "duration_ms": 230400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/1hlwWbnyFeLayYT2AxKoFS"
+    },
+    {
+      "album": {
+        "name": "Still In Love (Dave Lee Mixes)",
+        "url": "https://open.spotify.com/album/7o4Ta5jFnBIp3gHPGeNLNs"
+      },
+      "artists": [
+        {
+          "name": "Dynasty",
+          "url": "https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421054,
+      "name": "Still In Love - Dave Lee Solar Powered Club Mix",
+      "url": "https://open.spotify.com/track/44uMMMbmxXEKLL1ijxUsyw"
     },
     {
       "album": {
@@ -3596,7 +3778,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 269224,
       "name": "You're Not Normal (The Brothers Nylon Remix)",
       "url": "https://open.spotify.com/track/2pbCnVeEzLRjeJvxIDPMxJ"

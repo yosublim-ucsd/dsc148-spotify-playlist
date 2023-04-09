@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Beriso
 
-273 songs - 20 hr 10 min
+274 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Nadie Le Interesa Si Quedás Atrás \- En Vivo en Mr\. Jones](https://open.spotify.com/track/2ySORtlOGpMRX0EJ6NDDwd) | [Willy Quiroga](https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE), [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Esta Noche No Parece Igual \(En Vivo en Mr\. Jones\)](https://open.spotify.com/album/3ruPgicuSbKH3JFcDMr4P6) | 3:34 | 2022-06-10 | 2022-06-18 |
 | [A Rodar Mi Vida \- En Vivo](https://open.spotify.com/track/4tHukPtCIjMugUkLh0aIpE) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 5:40 | 2022-04-01 |  |
 | [A Tu Lado](https://open.spotify.com/track/4Zu65V5poIejIIuMAiBwjD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En el Ojo del Huracán](https://open.spotify.com/album/4PpokEgfGa0hYQt6lYvw2O) | 3:14 | 2022-04-01 | 2022-07-20 |
-| [A Tu Lado](https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En el Ojo del Huracán](https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV) | 3:14 | 2022-06-24 |  |
+| [A Tu Lado](https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En el Ojo del Huracán](https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV) | 3:14 | 2022-06-24 | 2023-04-09 |
 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe) | 3:42 | 2022-06-24 |  |
 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/7h5HLYcfviLPgldQzM0MnA) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/4678H4zVhphgBOu0eWZt7S) | 3:42 | 2022-04-01 | 2022-07-27 |
 | [Abuso de Poder \- Live](https://open.spotify.com/track/0Mtjb39XqDqtUwd5VAiWwl) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Abuso de Poder \(Live\)](https://open.spotify.com/album/2j8PSe8LB7OP8HKz2dq7zY) | 3:12 | 2022-07-29 | 2022-08-20 |
@@ -185,6 +185,7 @@
 | [No Voy En Tren \- Live At The Roxy](https://open.spotify.com/track/369835rx5WNLBZ4tDdaG52) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán Live At The Roxy](https://open.spotify.com/album/1ACoUEUChNALtgDkdK7gTc) | 3:14 | 2022-06-10 | 2022-07-13 |
 | [Nunca Quise \- En Vivo Luna Park](https://open.spotify.com/track/101iy0A0T20E8D8Gi1HLiR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra \(15 Aniversario \- Remasterizado\)](https://open.spotify.com/album/6lwEfjAV0TPNUQxrnoDbF1) | 4:39 | 2022-04-01 | 2022-07-27 |
 | [Once \- En Vivo](https://open.spotify.com/track/18IcFu22fTHg9ozQ7cmfkz) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Once \(En Vivo\)](https://open.spotify.com/album/50CiSjlh8UQmAlViVVy2E8) | 4:29 | 2022-04-01 | 2022-07-19 |
+| [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 | 2023-04-07 |  |
 | [Oro de Abeja \(Vivo en Obras\)](https://open.spotify.com/track/6WYtFrLzFsoQmeipeBmmXz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 4:43 | 2022-04-01 | 2022-07-02 |
 | [Panic Show \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 3:38 | 2022-06-24 |  |
 | [Panic Show \- Live](https://open.spotify.com/track/5imJJUpdG3p7VpLNqIb75l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo](https://open.spotify.com/album/7N0ZseL9dDJRCUfLSMDTrK) | 3:38 | 2022-04-01 | 2022-07-29 |

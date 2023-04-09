@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 325084,
       "name": "Creatchy Stomp OTB",
       "url": "https://open.spotify.com/track/0HTEAsoaGKIqmpSlpUqqXp"
@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 157333,
       "name": "MXC.MMBL",
       "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
@@ -3747,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Rat Trap",
+        "url": "https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238378,
+      "name": "Rat Trap",
+      "url": "https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p"
+    },
+    {
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
       },
@@ -4432,6 +4450,24 @@
       "duration_ms": 372797,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3lK8UA4FR2FiQpvtarLLol"
+    },
+    {
+      "album": {
+        "name": "Stede",
+        "url": "https://open.spotify.com/album/6oZ0MoMJASYGOH2PLQBJNt"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254271,
+      "name": "Stede",
+      "url": "https://open.spotify.com/track/1KhBlF3NmiYlCaJwZyWsCz"
     },
     {
       "album": {
@@ -5612,7 +5648,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 250451,
       "name": "Touchy - Tiny Room Sessions",
       "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
@@ -6134,6 +6170,52 @@
       "duration_ms": 152948,
       "name": "Youngstown 1",
       "url": "https://open.spotify.com/track/22APBlIRGvgdsEELXZZmox"
+    },
+    {
+      "album": {
+        "name": "Youngstown 3",
+        "url": "https://open.spotify.com/album/4htievQOqL7x7JWTwRSGon"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Winston Bell",
+          "url": "https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Antonio Labra",
+          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
+        },
+        {
+          "name": "Drehova",
+          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
+        },
+        {
+          "name": "Thomas Russell",
+          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
+        },
+        {
+          "name": "Nate Yingling",
+          "url": "https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197019,
+      "name": "Youngstown 3",
+      "url": "https://open.spotify.com/track/2idubl1I8IfDTatwfwapCB"
     },
     {
       "album": {

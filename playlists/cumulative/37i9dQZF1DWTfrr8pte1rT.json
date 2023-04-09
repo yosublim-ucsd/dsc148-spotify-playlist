@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Church Outfit",
+        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114351,
+      "name": "Church Outfit",
+      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
+    },
+    {
+      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/2JxpatA9qcbA6d2znDuk2s"
       },
@@ -1409,6 +1427,32 @@
     },
     {
       "album": {
+        "name": "Do Or Die (Alternate Versions)",
+        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "VYPER \uae68\ubb3c\ub2e4",
+          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
+      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
+    },
+    {
+      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -1432,6 +1476,28 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "album": {
@@ -1604,7 +1670,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 213560,
       "name": "Dying To Know You",
       "url": "https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO"
@@ -4362,7 +4428,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 208500,
       "name": "Rain (Idris Elba Edit)",
       "url": "https://open.spotify.com/track/7zTnfiIlfE8qUtXp9lSH97"
@@ -4440,6 +4506,32 @@
       "duration_ms": 185379,
       "name": "Ready For War (feat. Joe Buras of Born Of Osiris)",
       "url": "https://open.spotify.com/track/1lYXxGp7yHS4mTweHvmVtE"
+    },
+    {
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx"
     },
     {
       "album": {
@@ -5074,7 +5166,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 169285,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
@@ -5776,7 +5868,7 @@
           "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "date_added": "2023-04-06",
+      "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163007,
@@ -6174,7 +6266,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201235,
       "name": "Watch Me Now (feat. Koda & VAAAL)",
       "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"

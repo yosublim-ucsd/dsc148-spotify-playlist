@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-192 songs - 11 hr 0 min
+193 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Drops of Jupiter](https://open.spotify.com/track/4sLflKbSXbWqjOeho1AzzN) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Drops of Jupiter](https://open.spotify.com/album/7Caun80S8HBYdgYsoIK0Pu) | 4:04 | 2021-03-19 | 2022-07-29 |
 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 | 2021-03-19 |  |
 | [Erase Me](https://open.spotify.com/track/3iYuh64szQA0C0UV6cVe5S) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Erase Me](https://open.spotify.com/album/0ElKoOgZ9nlb5GW0nKX9X7) | 3:27 | 2021-03-19 | 2023-04-07 |
+| [Erase Me \(feat\. 10K.Caash\)](https://open.spotify.com/track/6MKlUSv0Magp6Cg901vZMH) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 | 2021-03-19 |  |
 | [Every Teardrop Is a Waterfall](https://open.spotify.com/track/5m0YCRCIg3FYjGgA8gGKXv) | [The Clan](https://open.spotify.com/artist/7oludeeTSpiIclzw9iPjHX) | [Every Teardrop Is a Waterfall](https://open.spotify.com/album/6bQZmbhouNSwgVQzeYjdWK) | 4:09 | 2021-03-19 | 2022-07-21 |
 | [Everywhere](https://open.spotify.com/track/6CoviEJTThZGD6YjbA3q4c) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everywhere](https://open.spotify.com/album/5xMneXss8T6BWf9ppkZc3P) | 3:15 | 2021-03-19 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/0JxDTC2o0zwDPFKi5WsBrN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/6oHrtFk3T2ziQLYEZGqnTG) | 3:24 | 2021-03-19 | 2022-07-29 |
@@ -91,7 +92,7 @@
 | [Just What I Needed](https://open.spotify.com/track/1ZhMrafxgoBuLxf5CF1vrH) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:44 | 2021-03-19 |  |
 | [Just What I Needed](https://open.spotify.com/track/4oUMGM2qK7t7JlgWHbFUvD) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:44 | 2021-03-19 | 2022-07-29 |
 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 | 2021-03-19 |  |
-| [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 | 2021-03-19 |  |
+| [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 | 2021-03-19 | 2023-04-09 |
 | [Let It Be](https://open.spotify.com/track/0eZ4bLUnh0NkGwCEmPvRYI) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Let It Be](https://open.spotify.com/album/27njwfI83O3b2ho4MgCKEG) | 3:52 | 2021-03-19 |  |
 | [Let It Be](https://open.spotify.com/track/21u6zgstEm23O0P6NvVoIg) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:52 | 2021-03-19 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/2cNufOrLqcZ1TNXh4hUjeK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/6oHrtFk3T2ziQLYEZGqnTG) | 3:16 | 2021-03-19 | 2022-07-29 |

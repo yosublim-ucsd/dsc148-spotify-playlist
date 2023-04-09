@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: BIA",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Kali",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -188,6 +188,24 @@
       "duration_ms": 174253,
       "name": "Ain't Shit",
       "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "album": {
+        "name": "Aint Got Time",
+        "url": "https://open.spotify.com/album/1ao8jKjlX1V1nsWgnW7eJg"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Aint Got Time",
+      "url": "https://open.spotify.com/track/3l7tZsu3paLDT1iVy1XiSl"
     },
     {
       "album": {
@@ -892,7 +910,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142809,
       "name": "Body Do",
       "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142896,
       "name": "Give U Some (feat. Rob49)",
       "url": "https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0"
@@ -3000,6 +3018,24 @@
       "duration_ms": 156000,
       "name": "Juice",
       "url": "https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J"
+    },
+    {
+      "album": {
+        "name": "Keep Dat Nigga",
+        "url": "https://open.spotify.com/album/3BYFEDzli2cr8ZgVarGcLj"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138945,
+      "name": "Keep Dat Nigga",
+      "url": "https://open.spotify.com/track/1J6LmildSwpP7q8OICHsn3"
     },
     {
       "album": {

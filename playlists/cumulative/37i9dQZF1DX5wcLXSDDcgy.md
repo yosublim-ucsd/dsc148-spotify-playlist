@@ -4,7 +4,7 @@
 
 > This Is Agust D\. The essential tracks, all in one playlist.
 
-20 songs - 1 hr 0 min
+21 songs - 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Intro : DT sugA \(Feat\. DJ Friz\)](https://open.spotify.com/track/3GAz3o5o3lZGUOPUSPG8ul) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 1:04 | 2023-04-04 |  |
 | [Moonlight](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 2:43 | 2023-04-04 |  |
 | [People](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:17 | 2023-04-04 |  |
+| [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-07 |  |
 | [Skit](https://open.spotify.com/track/0ZzK9J1kipwcLbwC9RZWCX) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 1:14 | 2023-04-04 |  |
 | [So Far Away](https://open.spotify.com/track/6iFsAGMsGLvLesAhzTcRpl) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 5:58 | 2023-04-04 |  |
 | [Strange \(feat\. RM\)](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 3:16 | 2023-04-04 |  |

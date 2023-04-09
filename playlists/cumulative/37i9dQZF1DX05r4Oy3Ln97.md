@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-233 songs - 11 hr 55 min
+234 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Love Me](https://open.spotify.com/track/2hJzh7MhYDQxP33adTYPGZ) | [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [MEDEIA](https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s) | [Love Me](https://open.spotify.com/album/3K0ytsFW0iCaBTMQQG9l4y) | 2:36 | 2021-10-29 | 2022-04-20 |
 | [Lovesick](https://open.spotify.com/track/102nBrztQxUecvsqMgqYIx) | [Kintexa](https://open.spotify.com/artist/779YMnTx0kUsdVndWCNxYO), [Adeline Um](https://open.spotify.com/artist/4KgNBDUTsA4PHunh86lffT) | [Lovesick](https://open.spotify.com/album/3Ojm6OJtCDJVwNoBNhTqDY) | 2:36 | 2021-10-29 | 2022-04-17 |
 | [Lucky](https://open.spotify.com/track/0Quhzm1B1Z9I5S9RP6BgLh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Lucky](https://open.spotify.com/album/29hQOfDBBJ2kIVXy5nI0FX) | 3:25 | 2022-03-25 | 2022-04-21 |
-| [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-31 |  |
+| [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-31 | 2023-04-09 |
 | [Make Your Move \(feat\. Bertie Scott\)](https://open.spotify.com/track/1ecOBF62HZkvbbVp416HZV) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Make Your Move \(feat\. Bertie Scott\)](https://open.spotify.com/album/2uu9q4XJ988gAnDHZmHzqG) | 3:35 | 2022-03-11 | 2022-07-29 |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-11-24 | 2023-03-11 |
 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S) | 4:00 | 2022-04-01 | 2022-12-01 |
@@ -197,6 +197,7 @@
 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 | 2021-10-29 | 2023-01-28 |
 | [Sun Screen](https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sun Screen](https://open.spotify.com/album/3B3oVJJzRieSTbS8Q8hPut) | 2:12 | 2021-10-29 | 2022-06-04 |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-10-29 | 2022-04-18 |
+| [Surf Song](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Surf Song](https://open.spotify.com/album/5YhmrTqgAJJlTOm3WOPfHq) | 2:28 | 2023-04-07 |  |
 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 | 2022-03-25 | 2023-04-01 |
 | [Swim](https://open.spotify.com/track/7mSu3xUir7sG81HeBl5RVf) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Swim](https://open.spotify.com/album/2IThnSyUnupQqbJ7SvUiDC) | 2:52 | 2022-03-25 | 2022-04-17 |
 | [Take Me Away](https://open.spotify.com/track/2fYLHOOmAn4rTO6zLYx0wj) | [NAOMi](https://open.spotify.com/artist/50zLQngWFzxVRJcQHVNpwj) | [Take Me Away](https://open.spotify.com/album/3XPCkW2JqpYza3WNaJ4j1q) | 3:27 | 2021-10-29 | 2022-07-29 |

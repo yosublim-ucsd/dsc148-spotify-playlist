@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=GRkdBRNXRs\-c3\_OL2XTfrA">Lucy Kruger & The Lost Boys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,719 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,727 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feedback Hounds](https://open.spotify.com/track/02FhwPLpWOtfGz9M33eKFG) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/54FdctR7tCJoXBNCZvhyYT) | 3:56 |
+| 1 | [Feedback Hounds](https://open.spotify.com/track/0BLBZXRlN1FrW93Qs959qE) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4wEk7sSn1PyVEsF0jVL9Io) | 3:56 |
 | 2 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
 | 3 | [The Caring](https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6) | 3:06 |
-| 4 | [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 |
+| 4 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 |
 | 5 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
 | 6 | [In My Dreams](https://open.spotify.com/track/0DXmLK3tPnsVbwLn35SJui) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [In My Dreams](https://open.spotify.com/album/2bE6cQW9HoGmHSX6MlxCDY) | 3:36 |
 | 7 | [The Things We Dare Not Tell](https://open.spotify.com/track/1bIXMzlYYkaIBMRH7vG1Lu) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [The Things We Dare Not Tell](https://open.spotify.com/album/2obV1R1hywZW5riJG3Ys5U) | 4:21 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 35 | [Rose\-tinted](https://open.spotify.com/track/6etwIyuLOsMobfxRdCWuru) | [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Rose\-tinted](https://open.spotify.com/album/7vt8yiAAlJKzHujypyDa1Y) | 3:36 |
 | 36 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 |
 | 37 | [Dizzy](https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [Dizzy](https://open.spotify.com/album/3nw8WU1ZFdsdguO8xzspPt) | 3:20 |
-| 38 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 |
+| 38 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 |
 | 39 | [Ndi a Ni Funa](https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Kozo Zwane](https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k) | [Ndi a Ni Funa](https://open.spotify.com/album/1u5Wl8S3EuGd0woWFeJ68I) | 3:48 |
 | 40 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 | 41 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 75 | [Bloom](https://open.spotify.com/track/3gv47i3eI5YN7vVX1Rax9m) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Bloom](https://open.spotify.com/album/67ECqw3BYzNRrSbRQ02eZ1) | 5:03 |
 | 76 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 |
 
-Snapshot ID: `MTY4MDgxODM0MCwwMDAwMDAwMGQ2YWIwYzdmOWMyMmMwZDk2NDIwMjkwMDZlMWVjZjk0`
+Snapshot ID: `MTY4MDgxODM0MCwwMDAwMDAwMDZjM2U2ZjkzMzVlN2Y3MGM0Yzk2ZDRhOGY5YjA1ZmJm`

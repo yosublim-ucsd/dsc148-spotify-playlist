@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 55248,
+  "num_followers": 55275,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQ5MzczMywwMDAwMDAwMGI5OWQ5NjZmMzQ3YmM4NWZiZDZmYWRiOTEzNTUzZWQx",
+  "snapshot_id": "MTY4MDQ5MzczMywwMDAwMDAwMDk4MTBhNTY3MWNlYzgxZmMyY2JjZWRlNTYwZGY4ODY0",
   "tracks": [
     {
       "added_at": "2023-04-03 03:48:53",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-04-03 03:48:53",
       "album": {
+        "name": "Obras-Primas",
+        "url": "https://open.spotify.com/album/6eVTZVohCd8lmcnPIrZ7GP"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/5TUmfePkCdoSYSavOykhau"
+    },
+    {
+      "added_at": "2023-04-03 03:48:53",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 200586,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
-    },
-    {
-      "added_at": "2023-04-03 03:48:53",
-      "album": {
-        "name": "Obras-Primas",
-        "url": "https://open.spotify.com/album/6eVTZVohCd8lmcnPIrZ7GP"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/5TUmfePkCdoSYSavOykhau"
     },
     {
       "added_at": "2023-04-03 03:48:53",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-03 03:48:53",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "You're Mine, You!",
-      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
-    },
-    {
-      "added_at": "2023-04-03 03:48:53",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
+    },
+    {
+      "added_at": "2023-04-03 03:48:53",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "You're Mine, You!",
+      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
     },
     {
       "added_at": "2023-04-03 03:48:53",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-04-03 03:48:53",
       "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
+    },
+    {
+      "added_at": "2023-04-03 03:48:53",
+      "album": {
         "name": "Language of Love",
         "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 209492,
       "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl"
-    },
-    {
-      "added_at": "2023-04-03 03:48:53",
-      "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "The Touch Of Your Lips",
-      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     },
     {
       "added_at": "2023-04-03 03:48:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-03 03:48:53",
       "album": {
-        "name": "Jazz and Essentials",
-        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Rat In My Kitchen",
-      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
-    },
-    {
-      "added_at": "2023-04-03 03:48:53",
-      "album": {
         "name": "Relaxing Bossa Lounge",
         "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 158931,
       "name": "A Hard Day\u00b4s Night (Bossa Version)",
       "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+    },
+    {
+      "added_at": "2023-04-03 03:48:53",
+      "album": {
+        "name": "Jazz and Essentials",
+        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Rat In My Kitchen",
+      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
     },
     {
       "added_at": "2023-04-03 03:48:53",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-03 03:48:53",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
-    },
-    {
-      "added_at": "2023-04-03 03:48:53",
-      "album": {
         "name": "In the Air",
         "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 285400,
       "name": "In the Air Tonight",
       "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
+    },
+    {
+      "added_at": "2023-04-03 03:48:53",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2023-04-03 03:48:53",

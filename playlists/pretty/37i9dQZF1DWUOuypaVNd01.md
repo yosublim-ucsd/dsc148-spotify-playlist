@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,282 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,341 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 41 | [9mm](https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:05 |
 | 42 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 43 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
-| 44 | [Dia D](https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS) | [blkmc](https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F), [Cenoura Beats](https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n) | [Dia D](https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT) | 2:17 |
+| 44 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 45 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
-| 46 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
+| 46 | [Dia D](https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS) | [blkmc](https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F), [Cenoura Beats](https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n) | [Dia D](https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT) | 2:17 |
 | 47 | [Tudo Normal](https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [$aint GR](https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX) | [Tudo Normal](https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2) | 2:45 |
 | 48 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 49 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 50 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
 
-Snapshot ID: `MTY3OTYyNjg2MCwwMDAwMDAwMDQ5YjQwNWIwZmY5NWU3MDcxOTM2ZTRiZmYwMzBmY2Iz`
+Snapshot ID: `MTY3OTYyNjg2MCwwMDAwMDAwMGNkZDc2MWRjY2MzMmU3OGMxOTY3MmIyZTI4ZDQxZTAw`

@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141378,
+  "num_followers": 141383,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDk3ODY0MGI0MmU5Y2I4ZjFhODg4ODIxMjg4YjA5YTky",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDAwYjdlYzc1N2VlODkyYzA0NmVjZGQ3NDczNzAyOWY5",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Take It To The Street",
-        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Take It To The Street",
-      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New New Orleans Jazz",
         "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 294760,
       "name": "Hot Lips",
       "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "My Feet Can't Fail Me Now",
-        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Do It Fluid",
-      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Rebirth For Life",
         "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Ultimate Mardi Gras",
-        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+        "name": "My Feet Can't Fail Me Now",
+        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
       "artists": [
         {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
         }
       ],
-      "duration_ms": 201146,
-      "name": "Mardi Gras In New Orleans",
-      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+      "duration_ms": 312640,
+      "name": "Do It Fluid",
+      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -583,6 +567,22 @@
       "duration_ms": 220080,
       "name": "Canal Street Blues",
       "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Ultimate Mardi Gras",
+        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Mardi Gras In New Orleans",
+      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
+        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Lord, Lord, Lord",
+      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
         "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 164200,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
-        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
-      },
-      "artists": [
-        {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Lord, Lord, Lord",
-      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -811,30 +811,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
-        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
-      },
-      "artists": [
-        {
-          "name": "Kid Thomas",
-          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
-        },
-        {
-          "name": "Thomas Jefferson",
-          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
-        },
-        {
-          "name": "Percy Humphrey",
-          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New Orleans Footwarmers",
         "url": "https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ"
       },
@@ -871,18 +847,42 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Great Olympia Band",
-        "url": "https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB"
+        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
+        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
       },
       "artists": [
         {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+          "name": "Kid Thomas",
+          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
+        },
+        {
+          "name": "Thomas Jefferson",
+          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
+        },
+        {
+          "name": "Percy Humphrey",
+          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
         }
       ],
-      "duration_ms": 223373,
-      "name": "On the Square",
-      "url": "https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1"
+      "duration_ms": 267093,
+      "name": "When You're Smiling",
+      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Best of Dixieland",
+        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
+      },
+      "artists": [
+        {
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+        }
+      ],
+      "duration_ms": 156003,
+      "name": "Tiger Rag 3",
+      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
     }
   ],
   "unique_name": "New Orleans Brass",

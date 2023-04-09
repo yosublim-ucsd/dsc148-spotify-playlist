@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-343 songs - 19 hr 25 min
+344 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-03-06 |  |
 | [Let Go \(El Día\)](https://open.spotify.com/track/571295eoFtv5NcQRUXbt4k) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Let Go](https://open.spotify.com/album/31TBi8zTRhWs1tQqOs6WDK) | 2:47 | 2021-06-05 | 2021-11-11 |
 | [Let You Know](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW) | [Carter.](https://open.spotify.com/artist/4FNkz4oChr6RwFLZqHQiX0), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Let You Know](https://open.spotify.com/album/3j0SwqbhvA8Aw0pmET5Wh9) | 2:43 | 2020-09-13\* |  |
+| [Lie](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP) | [BRETSN](https://open.spotify.com/artist/0q1KWQ2KDqSA6neWGPi2Mm), [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF) | [Lie](https://open.spotify.com/album/1GvBsRk5yQfKPShCSFH88g) | 2:50 | 2023-04-07 |  |
 | [Like I'm on Fire \- Kartell Remix](https://open.spotify.com/track/3ipwa1I4I5IZ1RKrxsxBhl) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [Like I'm on Fire](https://open.spotify.com/album/1fjHFYjweQpUSrMO2oay53) | 5:08 | 2021-07-17 | 2021-07-24 |
 | [Like Mmh](https://open.spotify.com/track/11ra4Y7CUE7lAJZOXkmGSA) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Like Mmh](https://open.spotify.com/album/2LtGXVyKS8ad2EaJoN7MCV) | 2:42 | 2021-03-14 |  |
 | [Loneliness](https://open.spotify.com/track/3pQHlRvlWeFxClCKo0cTw0) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa) | [Loneliness](https://open.spotify.com/album/0T0U2nxtvqZlH142fMTRCs) | 2:44 | 2021-01-18 | 2021-03-06 |

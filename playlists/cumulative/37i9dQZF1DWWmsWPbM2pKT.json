@@ -320,7 +320,7 @@
           "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "date_added": "2023-04-04",
+      "date_added": "2023-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181058,
@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH"
+    },
+    {
+      "album": {
         "name": "Lovers From The Past",
         "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
       },
@@ -1340,7 +1358,7 @@
           "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "date_added": "2023-04-04",
+      "date_added": "2023-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180326,
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"

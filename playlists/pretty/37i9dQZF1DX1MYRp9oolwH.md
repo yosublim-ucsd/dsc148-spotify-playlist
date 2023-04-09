@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,819 likes - 71 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,970 likes - 71 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 6 | [Naa Ninnalaloo](https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Satyan](https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m) | [Richie Gadi Pelli](https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp) | 3:35 |
 | 7 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 8 | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/track/6Pu2h98HTGs437yCGnK16b) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/album/4jLEzKrOoUFyJzlTTrKwCy) | 3:36 |
-| 9 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Mm Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 |
+| 9 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 |
 | 10 | [Neetho Ee Gadichina Kaalam](https://open.spotify.com/track/220ENw46j8SPA7z5gNxkjA) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/6sozvXmQZrU4CR2OLL87PT) | 3:51 |
 | 11 | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gundellonaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO) | 3:20 |
 | 12 | [Yedha Pongenaa](https://open.spotify.com/track/2uFuVr7pangSzmAqBmULbh) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Nachinavadu](https://open.spotify.com/album/5gDcn9YRrKw4LSLbY1hwyJ) | 4:36 |

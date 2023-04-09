@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 104467,
       "name": "Bella",
       "url": "https://open.spotify.com/track/3iSgrKma1x5hoMrY3HL4bY"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151741,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/5mwe2MGlVC6GS4MSDjlKgQ"
@@ -2737,6 +2737,28 @@
     },
     {
       "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "album": {
         "name": "DL4V",
         "url": "https://open.spotify.com/album/5zUdVfoMZZy3h5tIxLWYEv"
       },
@@ -2980,6 +3002,24 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "album": {
@@ -3486,7 +3526,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201492,
       "name": "For One",
       "url": "https://open.spotify.com/track/5Ugb7DYEyyCVZnzcq6hdVp"
@@ -3574,7 +3614,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 178226,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
@@ -4304,7 +4344,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 158598,
       "name": "Home For My Heart",
       "url": "https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB"
@@ -4908,7 +4948,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 179579,
       "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
@@ -5346,7 +5386,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 209542,
       "name": "La vie est belle",
       "url": "https://open.spotify.com/track/4ZysoMgf9OXFxRabF3XQzF"
@@ -5604,6 +5644,24 @@
       "duration_ms": 183575,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/2taK5bRxkbInf6yTSLAZMt"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0K8Ca4bjlP69vodJbSJetS"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/1psTcgIcjntUtw8PbunwwA"
     },
     {
       "album": {
@@ -6248,7 +6306,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 270000,
       "name": "Mobb Mentality",
       "url": "https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu"
@@ -7425,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "Perth",
+        "url": "https://open.spotify.com/album/5CcszYeWdW5CxLMRadic4L"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Perth",
+      "url": "https://open.spotify.com/track/6ZaCKD6mzsj9gWKAL1RPE2"
+    },
+    {
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
@@ -7939,6 +8015,32 @@
     },
     {
       "album": {
+        "name": "One Is Da Loneliest Number",
+        "url": "https://open.spotify.com/album/3AwyK8wo2BT9drLneAXEY5"
+      },
+      "artists": [
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Merky ACE",
+          "url": "https://open.spotify.com/artist/15uvoIS6p9Gs3QZSjSqIMG"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "R U Tired?",
+      "url": "https://open.spotify.com/track/7zjq3jcemzahrxnDXugrTk"
+    },
+    {
+      "album": {
         "name": "The Big 3",
         "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
       },
@@ -8410,6 +8512,24 @@
       "duration_ms": 152612,
       "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
       "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
+    },
+    {
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/2lFkZFJ1ibZfwqembA7Nof"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7INo35yvWnVY5PcEUlg1d4"
     },
     {
       "album": {
@@ -9163,6 +9283,24 @@
     },
     {
       "album": {
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209682,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
+    },
+    {
+      "album": {
         "name": "The Family",
         "url": "https://open.spotify.com/album/5Z8kqFUd6mjXX8mxKopR1o"
       },
@@ -9434,6 +9572,28 @@
       "duration_ms": 199757,
       "name": "Too Many Lies",
       "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
+    },
+    {
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        },
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH"
     },
     {
       "album": {
@@ -9722,7 +9882,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 223075,
       "name": "VEX (FEAT. GHETTS & BACKROAD GEE)",
       "url": "https://open.spotify.com/track/5W3J4sNMvx5H7ZjWobJvls"
@@ -9740,7 +9900,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 161095,
       "name": "W2L",
       "url": "https://open.spotify.com/track/6hbaeTUKbpRhqs7DntRjGL"

@@ -1,12 +1,12 @@
 {
-  "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 381663,
+  "description": "Back to the golden age of the scene. Cover: Finch",
+  "num_followers": 382323,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMDA1ODIwN2JkNzRjZTYzY2Q5NDYzODNjMTMzMDdkMDAx",
+  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMGI1YTg5OTA5ZGI0ZmQ1ZWQ5YzY0Y2RhY2JmOWE1Y2Nl",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Thank You for the Venom",
-      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 374973,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Thank You for the Venom",
+      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 181336,
       "name": "You're So Last Summer - Remastered",
       "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "A Flair For The Dramatic",
         "url": "https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 216026,
-      "name": "Anthem of Our Dying Day",
-      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -667,6 +651,22 @@
       "duration_ms": 220600,
       "name": "Becoming the Bull",
       "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Anthem of Our Dying Day",
+      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
+        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 95586,
+      "name": "Such Small Hands",
+      "url": "https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "On Letting Go",
         "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Buried a Lie",
-      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
-        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
       },
       "artists": [
         {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 95586,
-      "name": "Such Small Hands",
-      "url": "https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d"
+      "duration_ms": 179986,
+      "name": "Buried a Lie",
+      "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Calling All Cars",
+      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "You Can't Spell Slaughter Without Laughter",
         "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 261240,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Calling All Cars",
-      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "Wildlife",
+        "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 414925,
+      "name": "King Park",
+      "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "What It Is To Burn",
         "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 247426,
       "name": "Roses for the Dead",
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "Wildlife",
-        "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 414925,
-      "name": "King Park",
-      "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
     },
     {
       "added_at": "2023-03-20 09:14:23",

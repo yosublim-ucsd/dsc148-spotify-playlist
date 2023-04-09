@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: TOMOO
 
-778 songs - 2 day 0 hr 1 min
+780 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [drivin'](https://open.spotify.com/track/2arT5zAY4wphTwipc07SeS) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [drivin'](https://open.spotify.com/album/0k6uJOhFGvSW7n5iqrJr3A) | 3:47 | 2022-03-15 | 2022-04-13 |
 | [DubStory](https://open.spotify.com/track/7rnbYYEaz20FaXfpzUHkqq) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [TOKYO OLD SCHOOL](https://open.spotify.com/album/6MnBxETQ3RwIKPvqpU5ssb) | 4:30 | 2023-02-21 | 2023-03-29 |
 | [D・T・F](https://open.spotify.com/track/061MFvSxejBkapUzNkOEia) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [D・T・F](https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1) | 3:31 | 2022-04-27 | 2022-06-15 |
+| [Eadgb](https://open.spotify.com/track/3Xzc2XEAocSqgmYwOHWMYe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:34 | 2023-04-06 |  |
 | [EDEN](https://open.spotify.com/track/4jRREEnEK7gta1bdJsYyDD) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [EDEN](https://open.spotify.com/album/53wQpWZuveMWCC8woe9rmO) | 3:39 | 2023-04-04 |  |
 | [Eien No Shonen](https://open.spotify.com/track/7kqwsjBG0cdUsCjIzo28jP) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Eien No Shonen](https://open.spotify.com/album/6xUc4STKf3dg4GY4h14vYu) | 4:03 | 2022-12-31 | 2023-01-04 |
 | [Eien No Shonen](https://open.spotify.com/track/5uvPrkePnmZytwqYMnbLWo) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:08 | 2023-01-03 | 2023-01-13 |
@@ -190,6 +191,7 @@
 | [HOMEWORK](https://open.spotify.com/track/1s1kPQn6VPPIpQjm4dy2T9) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 2:51 | 2023-01-12 | 2023-02-02 |
 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 | 2022-09-27 | 2022-11-02 |
 | [Hontowane,](https://open.spotify.com/track/1G5cJCr6WwmiKRGlCbq6WS) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Hontowane,](https://open.spotify.com/album/0Kyfu9ZMYITiwDUngdTpJc) | 3:21 | 2022-10-18 | 2023-02-02 |
+| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 |  |
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 | 2023-02-27 |
 | [I Don't Have a Pen](https://open.spotify.com/track/0hOjpzwQDkUcPP3V2pbPDb) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:21 | 2022-02-17 | 2022-03-09 |
 | [I go wiv da wind](https://open.spotify.com/track/5hyMLmkaFmd628J2DPfRpH) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [I go wiv da wind](https://open.spotify.com/album/5135A6GVHzDSxUH13Z24u0) | 2:21 | 2023-03-31 |  |
@@ -609,7 +611,7 @@
 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2022-12-13 | 2023-02-15 |
 | [ロマンスリフレクション](https://open.spotify.com/track/5u8cewChWsrfMN56zcQg8U) | [日和陽](https://open.spotify.com/artist/5Madixj1jo0ga1hH3NUSx9) | [ロマンスリフレクション](https://open.spotify.com/album/5hk3wGYeAttmJHoQuM0LOS) | 2:54 | 2023-04-04 |  |
 | [ワンルーム](https://open.spotify.com/track/1IZjP9p8OvqJ6Niar0KIEK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 5:35 | 2022-07-26 | 2022-08-03 |
-| [一弦](https://open.spotify.com/track/05uQEjzJxKTpGXbB0el7lX) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [oidaki](https://open.spotify.com/album/5ruTjVEuHfYAsVcV53GIU9) | 3:34 | 2023-02-21 |  |
+| [一弦](https://open.spotify.com/track/05uQEjzJxKTpGXbB0el7lX) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [oidaki](https://open.spotify.com/album/5ruTjVEuHfYAsVcV53GIU9) | 3:34 | 2023-02-21 | 2023-04-09 |
 | [一筋差す](https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [一筋差す](https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm) | 3:05 | 2022-12-31 | 2023-01-13 |
 | [世田谷代田](https://open.spotify.com/track/27B6088aPHsSSEyQ7wMcZ8) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [世田谷代田](https://open.spotify.com/album/5hRvRnJcXZkJsV5yA8xE7V) | 4:46 | 2022-03-22 | 2022-05-11 |
 | [世間の歩き方 \-The Guide to Life in Public\-](https://open.spotify.com/track/1GWnxsoRijVWpxRCgD4OBj) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [世間の歩き方 \-The Guide to Life in Public\-](https://open.spotify.com/album/2Izrvd9XdffSNVZCnJaHdi) | 3:38 | 2022-02-17 | 2022-03-02 |
@@ -783,7 +785,7 @@
 | [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 | 2022-05-03 | 2022-05-27 |
 | [青藍遊泳](https://open.spotify.com/track/2jIfery4lw2abLEQ3QBBIO) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳](https://open.spotify.com/album/5dlzxOKdX0PwEvd3kfzJva) | 3:48 | 2022-06-14 | 2022-07-27 |
 | [面影](https://open.spotify.com/track/1xxQh8BSsVOcnSSMkLtJ0U) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [面影](https://open.spotify.com/album/4IZaX0XSU8FuSEs0ugX0tQ) | 3:47 | 2022-04-12 | 2022-05-13 |
-| [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 |  |
+| [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [食欲](https://open.spotify.com/track/7xwewmsS7PzGMtdvRNqZff) | [SephiroSpace](https://open.spotify.com/artist/1WFZhAfqVFdVZRBSOM9o18) | [僕の宇宙 君の宇宙](https://open.spotify.com/album/46kewcuoGgxMAsXoNALFgh) | 2:35 | 2022-08-04 | 2022-08-24 |
 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 | 2023-02-14 |  |
 

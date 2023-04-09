@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "The Best of Trojan Soul Reggae Vol. 1",
+        "url": "https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134573,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G"
+    },
+    {
+      "album": {
         "name": "The Best of Horace Andy",
         "url": "https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 136185,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk"
@@ -2518,10 +2536,32 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 280960,
       "name": "Having A Party",
       "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
+    },
+    {
+      "album": {
+        "name": "Scratch Came Scratch Saw Scratch Conquered",
+        "url": "https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Steve Marshall",
+          "url": "https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280490,
+      "name": "Having A Party",
+      "url": "https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO"
     },
     {
       "album": {
@@ -8505,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "The Best of Horace Andy",
+        "url": "https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "You Are My Angel",
+      "url": "https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI"
+    },
+    {
+      "album": {
         "name": "Super Best",
         "url": "https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH"
       },
@@ -8516,7 +8574,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174219,
       "name": "You Are My Angel",
       "url": "https://open.spotify.com/track/20Pv33mbJKBMUURzMpLr3p"

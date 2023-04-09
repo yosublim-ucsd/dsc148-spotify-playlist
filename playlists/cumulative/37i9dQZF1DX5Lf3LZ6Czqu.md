@@ -2,9 +2,9 @@
 
 ### [String Theory](https://open.spotify.com/playlist/37i9dQZF1DX5Lf3LZ6Czqu)
 
-> Instrumental guitar shreddery\. Cover: Covet
+> Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-119 songs - 8 hr 57 min
+121 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,12 +70,14 @@
 | [Just Funky \(feat\. Travis Carlton & Lemar Carter\)](https://open.spotify.com/track/7DYbZkxRMGvy7OUx7676nk) | [Tomo Fujita](https://open.spotify.com/artist/4p00lD0GrsSqEK0sxFQpET), [Lemar Carter](https://open.spotify.com/artist/4LIPbJNLsO8GVfA5BLorLm), [Travis Carlton](https://open.spotify.com/artist/1aRHDzpzYUMLJBwZItVsTP) | [Blue Sky \(feat\. Travis Carlton\)](https://open.spotify.com/album/5k7TV6UPBb7DSyp81aqk37) | 4:44 | 2021-05-04 |  |
 | [Knappsack](https://open.spotify.com/track/2neNxCaTPEwuGTvP7QAU1c) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Knappsack](https://open.spotify.com/album/2JaxSwQuKmKzeUjzlQwfE2) | 5:21 | 2021-05-04 |  |
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-05-04 |  |
-| [Massive](https://open.spotify.com/track/0WtuYPDKBMnvwumPKWkorN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:54 | 2021-05-04 |  |
+| [Massive](https://open.spotify.com/track/0WtuYPDKBMnvwumPKWkorN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:54 | 2021-05-04 | 2023-04-09 |
 | [Midnight Rain](https://open.spotify.com/track/451BVL5WAcGirIBdOzfRrX) | [Jack Thammarat](https://open.spotify.com/artist/3C8YVJZQ0bIDW3oqZJIq6W) | [Midnight Rain](https://open.spotify.com/album/1bBdAdFpMwYGy3rJcPugpp) | 1:33 | 2021-05-04 |  |
 | [Midnight Sunset](https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf) | [Massimo Varini](https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz) | [Midnight Sunset](https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX) | 3:33 | 2022-07-01 |  |
 | [My House Is Green](https://open.spotify.com/track/4bSi283Toy50x9UzZYEaz1) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44) | [The Best Of](https://open.spotify.com/album/2nxCuE6pLMbVShn4OZwCoD) | 4:02 | 2021-05-04 |  |
 | [nero](https://open.spotify.com/track/5T5RWyueGVOFIGnIRn81z4) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR) | 6:37 | 2021-05-04 |  |
+| [Never 4' Ever](https://open.spotify.com/track/1rEuL0pumpLC69dTOWbYFd) | [Yannis Karalis](https://open.spotify.com/artist/2N95xJrQfxdzzVI0P8rmew), [Michaelangelo Niarchos](https://open.spotify.com/artist/0E2JWV6JOuloRzJB0MWLME) | [Never 4' Ever](https://open.spotify.com/album/2pSUGZhWuX5ZILNGcIwklB) | 4:07 | 2023-04-07 |  |
 | [New Life](https://open.spotify.com/track/5LjXhZiJQC4cVjoMK1hV4T) | [Fabrizio Leo](https://open.spotify.com/artist/2Y65wPQtQsQnsIvsaV0cmr) | [Coming Home](https://open.spotify.com/album/5H9k65V3wheS2odmJ78YdJ) | 3:47 | 2021-05-04 |  |
+| [Nine \(feat\. NovaGina\)](https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK), [NovaGina](https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B) | [Away With Words, Pt.2](https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN) | 3:17 | 2023-04-07 |  |
 | [Nu Som](https://open.spotify.com/track/2F5ojPnjFZd7a3g5HJroXv) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Nu Som](https://open.spotify.com/album/4DfgGHHHDVWQN2VTUbf5BJ) | 5:28 | 2021-05-04 | 2022-07-29 |
 | [Nu Som](https://open.spotify.com/track/2monwhL9bsFNaobXHhrLDa) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Eleven](https://open.spotify.com/album/36d8L5jU3W6tbkCh59eS82) | 5:28 | 2021-05-04 |  |
 | [Planetary Lockdown](https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv) | [Bumblefoot](https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj) | [Planetary Lockdown](https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8) | 5:16 | 2022-10-11 |  |

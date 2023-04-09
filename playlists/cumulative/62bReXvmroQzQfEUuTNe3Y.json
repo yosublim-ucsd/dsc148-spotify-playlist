@@ -3415,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/1GvBsRk5yQfKPShCSFH88g"
+      },
+      "artists": [
+        {
+          "name": "BRETSN",
+          "url": "https://open.spotify.com/artist/0q1KWQ2KDqSA6neWGPi2Mm"
+        },
+        {
+          "name": "SANDMO",
+          "url": "https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170778,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP"
+    },
+    {
+      "album": {
         "name": "Like I'm on Fire",
         "url": "https://open.spotify.com/album/1fjHFYjweQpUSrMO2oay53"
       },

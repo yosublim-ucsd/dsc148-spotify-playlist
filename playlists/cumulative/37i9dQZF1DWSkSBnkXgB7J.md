@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-90 songs - 4 hr 49 min
+91 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 | 2022-07-21 |  |
 | [Enta Eli](https://open.spotify.com/track/3J7sclIMiseZABX8RedFoh) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Enta Eli](https://open.spotify.com/album/4si6u0GkICCUzzthCzSkzq) | 2:34 | 2022-11-08 |  |
 | [Eskendereya](https://open.spotify.com/track/6JosJk8TjtMqYEFU9KiN5t) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Eskendereya](https://open.spotify.com/album/51ScKyJykdjnsKa8L5O6ir) | 3:05 | 2022-06-24 |  |
-| [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 | 2022-06-24 |  |
+| [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 | 2022-06-24 | 2023-04-09 |
+| [FAWDA](https://open.spotify.com/track/5WxlfJ1bzFVP2keqmQnMTC) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [FAWDA](https://open.spotify.com/album/2sKwWuqZcp3yjmVgrNBhAx) | 3:20 | 2023-03-01 |  |
 | [Fayadan](https://open.spotify.com/track/30Avn44lyZjowxu2pBggcJ) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Fayadan](https://open.spotify.com/album/3ZQ8wMsn57IDRjcfd6DRDO) | 2:34 | 2022-06-24 | 2022-11-09 |
 | [Fesam](https://open.spotify.com/track/4A5EWaur2f9Wu44tnBJrRH) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Moataz Mady](https://open.spotify.com/artist/08f43lunay0gG19Cd7k3iU) | [El Aasela](https://open.spotify.com/album/5VyF7ggNDvSyD1WyD2Jssj) | 4:09 | 2022-06-24 | 2022-11-09 |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-06-24 |  |

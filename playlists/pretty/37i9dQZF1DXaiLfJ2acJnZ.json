@@ -1,15 +1,15 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 37657,
+  "num_followers": 37816,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyOTcxNCwwMDAwMDAwMGQyMGJjYjk4YWI4MGU3NTAzMmI2YTdlODBmMjJiMTQ3",
+  "snapshot_id": "MTY4MDYyOTcxNCwwMDAwMDAwMDVhYTUyNmQ4YzczY2VlMjcxOTY1MTI5NzkzZWJiOWUy",
   "tracks": [
     {
-      "added_at": "2023-04-07 01:00:47",
+      "added_at": "2023-04-09 00:36:12",
       "album": {
         "name": "live more & love more",
         "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
-      "added_at": "2023-04-07 01:00:47",
+      "added_at": "2023-04-09 00:36:12",
       "album": {
         "name": "It's Euphoric",
         "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
@@ -167,6 +167,22 @@
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
+      "added_at": "2023-04-09 00:36:12",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-03-24 16:50:00",
@@ -201,6 +217,22 @@
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
+      "added_at": "2023-04-09 00:36:12",
+      "album": {
+        "name": "i loved a boy",
+        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "i loved a boy",
+      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
+    },
+    {
       "added_at": "2023-03-24 16:50:00",
       "album": {
         "name": "Special (feat. SZA)",
@@ -219,38 +251,6 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
-    },
-    {
-      "added_at": "2023-04-07 01:00:47",
-      "album": {
-        "name": "i loved a boy",
-        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "i loved a boy",
-      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
-    },
-    {
-      "added_at": "2023-04-07 01:00:47",
-      "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-03-24 16:50:00",
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT"
     },
     {
-      "added_at": "2023-04-07 01:00:47",
+      "added_at": "2023-04-09 00:36:12",
       "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
     },
     {
-      "added_at": "2023-04-07 01:00:47",
+      "added_at": "2023-04-09 00:36:12",
       "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-24 16:50:00",
       "album": {
-        "name": "One Foot in Front of the Other",
-        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "One Foot in Front of the Other",
-      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
-    },
-    {
-      "added_at": "2023-03-24 16:50:00",
-      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
+    },
+    {
+      "added_at": "2023-03-24 16:50:00",
+      "album": {
+        "name": "One Foot in Front of the Other",
+        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "One Foot in Front of the Other",
+      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
     },
     {
       "added_at": "2023-03-24 16:50:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-24 16:50:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
-    },
-    {
-      "added_at": "2023-03-24 16:50:00",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/138lSNAApov9p0YikNh5gh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 201951,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V"
+    },
+    {
+      "added_at": "2023-03-24 16:50:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
     },
     {
       "added_at": "2023-03-24 16:50:00",

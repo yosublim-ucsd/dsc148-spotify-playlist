@@ -1,52 +1,32 @@
 {
   "description": "Up and down I-95. Cover: A Boogie Wit Da Hoodie",
-  "num_followers": 440672,
+  "num_followers": 440806,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0ODU2OCwwMDAwMDAwMGI5ODU3NDE0NzUzM2RiNjRjMzIwMDI3Zjg0YWI0ODU2",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQ3MTNkZmNmYjQ3MGE5M2Q0NDdlZDc4ZThiYWZiMDg3",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "HO4ME",
-        "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
+        "name": "Upnow (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
       },
       "artists": [
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 235711,
-      "name": "HO4ME",
-      "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+      "duration_ms": 162386,
+      "name": "Upnow (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
     },
     {
       "added_at": "2023-03-18 03:02:07",
@@ -67,6 +47,62 @@
       "duration_ms": 136176,
       "name": "PMR (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Secrets (feat. Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Secrets (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2023-02-18 02:09:58",
@@ -117,6 +153,38 @@
       "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "SIXTEEN",
+        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 152948,
+      "name": "SIXTEEN",
+      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Players",
@@ -133,44 +201,68 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Upnow (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 162386,
-      "name": "Upnow (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
+      "duration_ms": 154869,
+      "name": "Princess Diana",
+      "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Secrets (feat. Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
+        "name": "Favorite Song",
+        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Secrets (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
+      "duration_ms": 208630,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -229,6 +321,66 @@
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 134520,
+      "name": "DUI",
+      "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Don't Text Don't Call",
+        "url": "https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 235674,
+      "name": "Don't Text Don't Call",
+      "url": "https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "HO4ME",
+        "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 235711,
+      "name": "HO4ME",
+      "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "850 (We On Top) [feat. Rich The Kid]",
@@ -247,6 +399,42 @@
       "duration_ms": 219041,
       "name": "850 (We On Top) [feat. Rich The Kid]",
       "url": "https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Quarters",
+        "url": "https://open.spotify.com/album/4kjptLBuZcavHOjEX1Al65"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 148584,
+      "name": "Quarters",
+      "url": "https://open.spotify.com/track/0BYSlACvBBTSjSO6rezjGp"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "black enuff",
+        "url": "https://open.spotify.com/album/6hm8EXSOCKbRxEypqsmag4"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "black enuff",
+      "url": "https://open.spotify.com/track/0L9p0fF3HdxKEvKLaNBM4w"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -269,38 +457,6 @@
       "url": "https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Give You What You Want",
-        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159330,
-      "name": "Give You What You Want",
-      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "SIXTEEN",
-        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 152948,
-      "name": "SIXTEEN",
-      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "JUST FRIENDS ?",
@@ -317,20 +473,20 @@
       "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "BAD BITCHES",
+        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 129619,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -385,6 +541,50 @@
       "url": "https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "UK",
+        "url": "https://open.spotify.com/album/6KLFKObVq23rmM23HNzTe0"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        }
+      ],
+      "duration_ms": 153913,
+      "name": "UK",
+      "url": "https://open.spotify.com/track/3p2DjXHj8Z4yGnVrx3eHrU"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/31wtuS1eGW8CQAw3RzF9GS"
+      },
+      "artists": [
+        {
+          "name": "DJ Holiday",
+          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        }
+      ],
+      "duration_ms": 192104,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/6SgOztsz4Ophor1UU637Nc"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Devil's Work 2",
@@ -401,20 +601,20 @@
       "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Nu Nu",
-        "url": "https://open.spotify.com/album/4u45cvxz1r2X5uDbEm6aVJ"
+        "name": "The Fan",
+        "url": "https://open.spotify.com/album/0zrhNmvEYi4Uz0fxqPJtcU"
       },
       "artists": [
         {
-          "name": "Cuban Doll",
-          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
         }
       ],
-      "duration_ms": 151343,
-      "name": "Nu Nu",
-      "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
+      "duration_ms": 263688,
+      "name": "The Fan",
+      "url": "https://open.spotify.com/track/7en18lOvylt7uZo3vTrRfl"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -449,22 +649,6 @@
       "url": "https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Sicc & Tired",
-        "url": "https://open.spotify.com/album/7FIJ2AxOrNcVm0PtCrWJSK"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Sicc & Tired",
-      "url": "https://open.spotify.com/track/6tSDBBVEeRGUQLXSZGSXkn"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Back In My Prime",
@@ -487,6 +671,30 @@
       "duration_ms": 200930,
       "name": "YKTV (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "L.O.L (Count On You 2)",
+        "url": "https://open.spotify.com/album/1H0qyvLimOEuivrs0mFjIT"
+      },
+      "artists": [
+        {
+          "name": "Neek Bucks",
+          "url": "https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc"
+        },
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "L.O.L (Count On You 2)",
+      "url": "https://open.spotify.com/track/68nLUA5otB6EMeAuaDbNxf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -581,24 +789,20 @@
       "url": "https://open.spotify.com/track/1wlm2FDfo5EVvlVST5SZ9O"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Don't Text Don't Call",
-        "url": "https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7"
+        "name": "Rockin' & Rollin",
+        "url": "https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
         }
       ],
-      "duration_ms": 235674,
-      "name": "Don't Text Don't Call",
-      "url": "https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn"
+      "duration_ms": 132413,
+      "name": "Rockin' & Rollin",
+      "url": "https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n"
     },
     {
       "added_at": "2023-03-18 03:02:07",
@@ -631,6 +835,22 @@
       "duration_ms": 139603,
       "name": "Whamm",
       "url": "https://open.spotify.com/track/3DIcTbNf44ekC4Ce9MObZt"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Nu Nu",
+        "url": "https://open.spotify.com/album/4u45cvxz1r2X5uDbEm6aVJ"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "duration_ms": 151343,
+      "name": "Nu Nu",
+      "url": "https://open.spotify.com/track/6UIAPd2u3Pn81z0U5SebIO"
     },
     {
       "added_at": "2023-03-18 03:02:07",
@@ -733,6 +953,26 @@
       "url": "https://open.spotify.com/track/1LLdw50jSFEG7CaLQa4drf"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "One Mic, One Gun",
+        "url": "https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "One Mic, One Gun",
+      "url": "https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "jersey luv",
@@ -817,22 +1057,6 @@
       "url": "https://open.spotify.com/track/1N6lBW01dWgpsnfIYzeA7S"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "BAD BITCHES",
-        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        }
-      ],
-      "duration_ms": 129619,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Luv 4 My Block",
@@ -849,20 +1073,20 @@
       "url": "https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Favorite Song",
-        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/7GnkUh95eKGXaEclBqlW6a"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+          "name": "Baby Jeweler",
+          "url": "https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C"
         }
       ],
-      "duration_ms": 208630,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+      "duration_ms": 192471,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/09ymqRvHbSzrzCdIQgP6Un"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -959,22 +1183,6 @@
       "duration_ms": 147695,
       "name": "GNARLY! (WITH ARMANI WHITE)",
       "url": "https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "The Fan",
-        "url": "https://open.spotify.com/album/0zrhNmvEYi4Uz0fxqPJtcU"
-      },
-      "artists": [
-        {
-          "name": "Cousin Stizz",
-          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
-        }
-      ],
-      "duration_ms": 263688,
-      "name": "The Fan",
-      "url": "https://open.spotify.com/track/7en18lOvylt7uZo3vTrRfl"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1081,26 +1289,6 @@
       "url": "https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Poppin (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/2cUwAy0kZRzyfqgki1Z74B"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 173806,
-      "name": "Poppin (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/2QFkYE7FjOYVTWhLrB9GwH"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Already Know",
@@ -1195,6 +1383,62 @@
       "duration_ms": 176936,
       "name": "It's Officially Done",
       "url": "https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Same Ole Bizzy",
+        "url": "https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 162283,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "THIS IS NOT A DRILL",
+        "url": "https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg"
+      },
+      "artists": [
+        {
+          "name": "Melvoni",
+          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "COUNTING SHEEP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Me vs. Myself (Deluxe)",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 206294,
+      "name": "Needed That",
+      "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1389,22 +1633,6 @@
       "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "6 Years In Hell",
-        "url": "https://open.spotify.com/album/5ewpj51rLhRvGaVnXbXI6Q"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        }
-      ],
-      "duration_ms": 206768,
-      "name": "6 Years In Hell",
-      "url": "https://open.spotify.com/track/2cLPx8lCksR5I4aQ358lWu"
-    },
-    {
       "added_at": "2023-02-03 05:15:14",
       "album": {
         "name": "Fools Fall N Love (feat.YoungBoy Never Broke Again)",
@@ -1461,6 +1689,22 @@
       "url": "https://open.spotify.com/track/50LeJQcIsFvCcqJwtm2ZFt"
     },
     {
+      "added_at": "2023-02-03 05:15:14",
+      "album": {
+        "name": "Uh Ohhh",
+        "url": "https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        }
+      ],
+      "duration_ms": 132958,
+      "name": "Uh Ohhh",
+      "url": "https://open.spotify.com/track/2Mj6dY4if9Utm2PONcFJ9O"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Best for Me",
@@ -1483,22 +1727,6 @@
       "duration_ms": 172933,
       "name": "Best for Me",
       "url": "https://open.spotify.com/track/0Ad3j3QJ7W3nxeLG3w189u"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Till We Drop",
-        "url": "https://open.spotify.com/album/2BeAZCYBLLDiwhciEsAgeW"
-      },
-      "artists": [
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Till We Drop",
-      "url": "https://open.spotify.com/track/3nD6o21RsGGvA2MTNaT54o"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1593,38 +1821,6 @@
       "url": "https://open.spotify.com/track/3rLIFJmJNoDWd43ayQHCEo"
     },
     {
-      "added_at": "2023-02-03 05:15:14",
-      "album": {
-        "name": "Highlife",
-        "url": "https://open.spotify.com/album/3ougtWVAzlkKT3hc1xajmy"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 158072,
-      "name": "Highlife",
-      "url": "https://open.spotify.com/track/5Tg9jKR0KWPD6zDXfej4fx"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Princess Diana",
-      "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Blessing",
@@ -1661,26 +1857,6 @@
       "url": "https://open.spotify.com/track/7IA8ksXrY276otudaP7knL"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "One Mic, One Gun",
-        "url": "https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "One Mic, One Gun",
-      "url": "https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Free Agency",
@@ -1699,146 +1875,6 @@
       "duration_ms": 183931,
       "name": "Free Agency",
       "url": "https://open.spotify.com/track/7tJOSbWE58Tk9dF3S0YsYz"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Same Ole Bizzy",
-        "url": "https://open.spotify.com/album/0mhAJL1Zjj4kctvZm1TnYs"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 162283,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/1tpUBwq7Osr0rmiMqbF6Cn"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "THIS IS NOT A DRILL",
-        "url": "https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg"
-      },
-      "artists": [
-        {
-          "name": "Melvoni",
-          "url": "https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 197593,
-      "name": "COUNTING SHEEP (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Gangsta",
-        "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
-      },
-      "artists": [
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Me vs. Myself (Deluxe)",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 206294,
-      "name": "Needed That",
-      "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
-    },
-    {
-      "added_at": "2023-02-03 05:15:14",
-      "album": {
-        "name": "Uh Ohhh",
-        "url": "https://open.spotify.com/album/3oLpVsCNrXzenMpK6NYy1a"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        }
-      ],
-      "duration_ms": 132958,
-      "name": "Uh Ohhh",
-      "url": "https://open.spotify.com/track/2Mj6dY4if9Utm2PONcFJ9O"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "DAMN (feat. Dave East)",
-        "url": "https://open.spotify.com/album/2l9ANOEZxOwFbYxOlBlqYc"
-      },
-      "artists": [
-        {
-          "name": "Godfather of Harlem",
-          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 193603,
-      "name": "DAMN (feat. Dave East)",
-      "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "CATCH DA FLU",
-        "url": "https://open.spotify.com/album/5bvS1SrSrGHqLZrjdWj1wp"
-      },
-      "artists": [
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "TRIALS AND TRIBULATIONS",
-      "url": "https://open.spotify.com/track/3fYEFtPjmYhktsC2WCIRS5"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Cheating Freestyle",
-        "url": "https://open.spotify.com/album/37NDokVZ0FFTmQwlgKT3nO"
-      },
-      "artists": [
-        {
-          "name": "Jay Critch",
-          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
-        }
-      ],
-      "duration_ms": 145057,
-      "name": "Cheating Freestyle",
-      "url": "https://open.spotify.com/track/3NNPdTY3gy65ziwmLoaq1u"
     }
   ],
   "unique_name": "State of Mind",

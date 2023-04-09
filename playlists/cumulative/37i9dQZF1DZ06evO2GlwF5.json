@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30f3\u30af\u3099\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3+ \u30df\u30c4\u30cf\u3099\u30c1",
+        "url": "https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256151,
+      "name": "action!",
+      "url": "https://open.spotify.com/track/3TNvQjJyFZyMcxu16b62rW"
+    },
+    {
+      "album": {
         "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 3)",
         "url": "https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 197333,
       "name": "Aoi Hitomi",
       "url": "https://open.spotify.com/track/1qq3YfabdCwpHFhqnWSnUz"
@@ -570,6 +588,24 @@
       "duration_ms": 264000,
       "name": "Waiting for the rain",
       "url": "https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE"
+    },
+    {
+      "album": {
+        "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 1)",
+        "url": "https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Yakusoku wa Iranai",
+      "url": "https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX"
     },
     {
       "album": {
@@ -1316,7 +1352,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 212336,
       "name": "\u7d04\u675f\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl"

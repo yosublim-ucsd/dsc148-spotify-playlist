@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Billie Marten
 
-1,403 songs - 3 day 11 hr 7 min
+1,406 songs - 3 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,8 @@
 | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/track/5gxd09Fnkylal8TLCAVvNv) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/album/24z1u6qVeGPWVQlq4JjDMi) | 4:35 | 2022-05-05 | 2022-07-08 |
 | [Go Down Together](https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Go Down Together](https://open.spotify.com/album/3YtQHYbQ55OQapg8SxhIkh) | 3:15 | 2021-04-16 | 2021-07-15 |
 | [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-07-28 | 2022-09-30 |
-| [God Above](https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 | 2023-04-06 |  |
+| [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-04-06 |  |
+| [God Above](https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 | 2023-04-06 | 2023-04-09 |
 | [God Melodies \- Single Version](https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [God Melodies](https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF) | 3:30 | 2021-01-23 | 2021-02-26 |
 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 | 2022-11-18 | 2023-01-20 |
 | [God Turn Me Into a Flower](https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [God Turn Me Into A Flower](https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J) | 6:25 | 2022-11-18 | 2022-11-23 |
@@ -597,7 +598,8 @@
 | [Hybrid](https://open.spotify.com/track/6zxpIfvQumUZatd79TlI2q) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Matthew Progress](https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 2:53 | 2021-08-27 | 2021-10-16 |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-10-08 | 2022-01-21 |
 | [I Am](https://open.spotify.com/track/43zpkKrr2y8z5slhChCove) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [I Am](https://open.spotify.com/album/3Y1yYXh6bOkZFyVgRjQfGo) | 3:36 | 2020-09-29\* | 2020-10-23 |
-| [I Can Do It For You](https://open.spotify.com/track/5Uhqy3ZTadLqXAKVz1IxhX) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/3fZKX9nOaRHAGDKGybrtfg) | 2:16 | 2023-04-06 |  |
+| [I Can Do It for You](https://open.spotify.com/track/2O0kG8Su5u4Y86y66elVC9) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N) | 2:16 | 2023-04-06 |  |
+| [I Can Do It For You](https://open.spotify.com/track/5Uhqy3ZTadLqXAKVz1IxhX) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/3fZKX9nOaRHAGDKGybrtfg) | 2:16 | 2023-04-06 | 2023-04-09 |
 | [I Do It For You](https://open.spotify.com/track/4bzdFCiqEGDBjshBNdAerM) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [I Do It For You](https://open.spotify.com/album/1vvsh2qWaz7Jo2OGigvcHH) | 3:33 | 2021-03-14 | 2021-04-16 |
 | [I Do This All The Time](https://open.spotify.com/track/6Pgc3ulraOY7usQgIaIpK6) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [I Do This All The Time](https://open.spotify.com/album/2fOkjRk00FwotcjUliTv6x) | 4:51 | 2021-04-30 | 2021-07-09 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-09-17 | 2021-10-29 |
@@ -1270,7 +1272,8 @@
 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-10 |  |
 | [To Be Yours \(feat\. Claud\)](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours \(feat\. Claud\)](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-17 |  |
 | [To Carry \(On and On\)](https://open.spotify.com/track/664fHE7AIHGUjHC2WWtvmO) | [KOJI](https://open.spotify.com/artist/2YkHarpEDjDNHgqsIzklAs) | [To Carry \(On and On\)](https://open.spotify.com/album/2DWeyUoCGftGOifUTpF5el) | 3:05 | 2021-03-19 | 2021-05-21 |
-| [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 |  |
+| [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 |  |
+| [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 | 2023-04-09 |
 | [To Repel Ghosts](https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [To Repel Ghosts](https://open.spotify.com/album/06B3ihAJGFAeMbpAOJWtQn) | 3:26 | 2022-10-20 | 2023-02-03 |
 | [Today \(can't help but cry\)](https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Today \(can't help but cry\)](https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb) | 4:12 | 2022-12-16 | 2023-03-31 |
 | [Tomorrow](https://open.spotify.com/track/2UJ0ZmLNpyLoAZxl5lLNjq) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Tomorrow](https://open.spotify.com/album/3iJPgO8XMWS2mh91Mxbfgp) | 3:22 | 2022-10-20 | 2022-11-25 |

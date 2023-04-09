@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 112005,
+  "num_followers": 112123,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDQ4Y2Q0ZjY3NDE3ZjY2ZmY5ZTJjN2ExMGMyMmM5NjJj",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGUwN2I2MDkxYjQ5YmUzNzI4YTdmYWQ1YzgyN2Y0ODY5",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "15b",
+        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 163566,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 163566,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Pra todas as mulheres",
         "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 168251,
       "name": "Pra todas as mulheres",
       "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Fiz Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 192222,
-      "name": "Fiz Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 172794,
       "name": "+ 1 Minuto",
       "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Fiz Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        }
+      ],
+      "duration_ms": 192222,
+      "name": "Fiz Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Cansar De Dan\u00e7ar",
-        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "Cansar De Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Em Casa Com os Gil",
         "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 234570,
       "name": "Barato Total",
       "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Cansar De Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "Cansar De Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Servi\u00e7o",
-        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Sinto Muito",
         "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 217110,
       "name": "Onde Estar\u00e1",
       "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Coisa de Acender",
         "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 222315,
       "name": "Devagarinho 2.0 (prod. DKVPZ)",
       "url": "https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2023-03-17 03:00:00",

@@ -1590,7 +1590,7 @@
     {
       "album": {
         "name": "Planted Consciousness",
-        "url": "https://open.spotify.com/album/4UOr6Y8APxNdRvMmCvvm7e"
+        "url": "https://open.spotify.com/album/1sXVQVk18NRpjNyOcFs2O5"
       },
       "artists": [
         {
@@ -1601,6 +1601,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Planted Consciousness",
+      "url": "https://open.spotify.com/track/1nYn6YOpRFwn0cD0Z6M58Y"
+    },
+    {
+      "album": {
+        "name": "Planted Consciousness",
+        "url": "https://open.spotify.com/album/4UOr6Y8APxNdRvMmCvvm7e"
+      },
+      "artists": [
+        {
+          "name": "Banton Tune",
+          "url": "https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
       "duration_ms": 204000,
       "name": "Planted Consciousness",
       "url": "https://open.spotify.com/track/6yCYFXg5iUxSf2JYDHLooQ"

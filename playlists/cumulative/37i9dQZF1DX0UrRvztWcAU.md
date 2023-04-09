@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-527 songs - 1 day 5 hr 41 min
+528 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2022-08-19 | 2022-09-10 |
 | [Always Be There](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Always Be There](https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597) | 3:18 | 2022-09-02 | 2022-09-10 |
 | [Always You](https://open.spotify.com/track/7x8sxMcoMdzvgiPERHcqen) | [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC), [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Always You](https://open.spotify.com/album/0qclkjtxnpStUZISQpxT8T) | 3:12 | 2021-12-16 | 2022-07-29 |
+| [AM:PM](https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM](https://open.spotify.com/album/6VddpmwRbN12eh98innuj7) | 3:02 | 2023-03-24 |  |
 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 | 2022-07-08 |  |
 | [Antisocial Socialites](https://open.spotify.com/track/5siE2dsOEkxxB8GuyOxPyg) | [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp), [nicopop.](https://open.spotify.com/artist/7DFChT5ZG46iXGb5z2IxYq), [Yuri Joness](https://open.spotify.com/artist/4Aps5MV0tm2w87FMhnJPs8) | [Antisocial Socialites](https://open.spotify.com/album/7zjokF0bxNC9UKASxkLidq) | 3:29 | 2021-12-16 | 2022-07-29 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2022-12-14 |  |
@@ -447,7 +448,7 @@
 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 | 2022-09-18 | 2022-10-01 |
 | [Tell Her About It](https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:49 | 2021-12-16 | 2022-12-14 |
 | [Tell Me](https://open.spotify.com/track/2i16GU60FIhw9k5Wix4TMB) | [Stefan Tosovic](https://open.spotify.com/artist/1B0dXhcaPbzMP40bQQlqpW), [Cecilie Toth](https://open.spotify.com/artist/6DVD0hbEmINkFbAQ7o7DAB) | [Tell Me](https://open.spotify.com/album/3eoprEltYkcCuvWD9EIBfo) | 3:09 | 2022-02-22 | 2022-07-29 |
-| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2022-07-08 |  |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2022-07-08 | 2023-04-09 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/3acriFyHOVFW8heimUC0IW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4) | 3:58 | 2022-04-11 | 2022-05-16 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2022-07-08 | 2022-07-31 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-12-14 |  |

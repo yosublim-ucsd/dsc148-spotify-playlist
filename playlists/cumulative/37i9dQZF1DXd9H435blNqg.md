@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-94 songs - 5 hr 16 min
+95 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Big Boy](https://open.spotify.com/track/3n8HMjq9XEllt8kyD1JGBy) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:03 | 2021-02-12 |  |
 | [Blood In The Water](https://open.spotify.com/track/1Rjo59fEVsnBdahY0ULQNd) | [Rufus Black](https://open.spotify.com/artist/49Vne8CJANvjP9t0cvoQ14), [Ben Jones](https://open.spotify.com/artist/5fwhUGocXqNm9fQYkt4h0D), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb), [Russ Parker](https://open.spotify.com/artist/73MneyMGWkvOiPeDvldHoe), [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [Blood In The Water](https://open.spotify.com/album/09rxHR1agURAUCivjjFQBB) | 3:46 | 2022-04-15 | 2023-03-02 |
 | [Blood In The Water](https://open.spotify.com/track/6tsRuvYMEMZkujPu4jiQCG) | [Rufus Black](https://open.spotify.com/artist/49Vne8CJANvjP9t0cvoQ14), [Ben Jones](https://open.spotify.com/artist/5fwhUGocXqNm9fQYkt4h0D), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb), [Russ Parker](https://open.spotify.com/artist/73MneyMGWkvOiPeDvldHoe), [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [Blood In The Water](https://open.spotify.com/album/5lSY3MZOCvKsFsSniZMxrW) | 3:46 | 2022-08-31 |  |
-| [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 | 2021-02-12 |  |
+| [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 | 2021-02-12 | 2023-04-09 |
 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 | 2021-02-12 |  |
 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 | 2021-02-12 |  |
 | [Can't Nobody Stop Us](https://open.spotify.com/track/2rMBpAO4Nyb80MriqR0GuV) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/1GD79gaA6JEDwdSnWh29vJ) | 3:14 | 2021-02-12 | 2022-07-29 |
@@ -98,6 +98,7 @@
 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 | 2021-02-12 |  |
 | [Too Bad](https://open.spotify.com/track/57pB9r5nTsngcIWivigDxQ) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Too Bad](https://open.spotify.com/album/7JKSnFB0Xl6bkcMfHbQK8n) | 3:10 | 2021-02-12 | 2022-07-29 |
 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 | 2022-08-31 |  |
+| [Walls](https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 3:00 | 2023-04-07 |  |
 | [Watch Yo Mouf](https://open.spotify.com/track/6VM4509PIwTpt2sKR5XMlR) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:42 | 2021-02-12 | 2022-07-29 |
 | [Watch Yo Mouf](https://open.spotify.com/track/6sJYiMRXLKF2JflTtzKs9U) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/5dKt7PvytEEmmXv7mqbuw2) | 2:42 | 2021-02-12 |  |
 | [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 | 2022-08-31 |  |

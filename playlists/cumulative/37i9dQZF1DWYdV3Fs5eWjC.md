@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-122 songs - 6 hr 41 min
+123 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bikini Bottom](https://open.spotify.com/track/4RsqpFi9rvEfjtMywsOYkQ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 1:46 | 2023-04-06 |  |
 | [Bisexual Anthem](https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU) | 3:07 | 2022-05-31 |  |
 | [BITTERSWEET](https://open.spotify.com/track/52tFvypUPX3uDgVgqrNtY9) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [BITTERSWEET](https://open.spotify.com/album/5LdnNVb0nomYIlLiRUtAcq) | 3:25 | 2020-07-10 | 2022-09-13 |
-| [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-05-31 |  |
+| [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-05-31 | 2023-04-09 |
 | [Boys In The Ocean](https://open.spotify.com/track/1kQXCF4D2OZb7uflk6Q5Bz) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Boys In The Ocean](https://open.spotify.com/album/48z032ADzLfisp0n8EIqqm) | 3:15 | 2021-06-11 | 2022-07-28 |
 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 | 2020-06-01 |  |
 | [Bystanders \(in space\)](https://open.spotify.com/track/4vgt7oc3CZojtj4aXVoyht) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Live From Blackalachia](https://open.spotify.com/album/4XYSf2qmvzh7gsnQVWmnL8) | 4:30 | 2022-05-31 | 2022-07-29 |
@@ -99,6 +99,7 @@
 | [On My Mind](https://open.spotify.com/track/7700T9tYeO5NdTBnLNlGEI) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind](https://open.spotify.com/album/06l4Kfsm6hDRVGbHseECRv) | 3:17 | 2021-06-11 | 2022-07-22 |
 | [On My Mind \- Pride Edit](https://open.spotify.com/track/505pKYmmekm1gBQ0vschO6) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind \(Pride Edit\)](https://open.spotify.com/album/2SiHQSDH4L2hVFXeRzVlga) | 3:23 | 2021-06-25 | 2022-07-28 |
 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 | 2021-07-09 | 2023-04-07 |
+| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-06 |  |
 | [Platinum](https://open.spotify.com/track/6IiMrJX8AvYCCt8Tcm9276) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Platinum](https://open.spotify.com/album/6MuJ7AjwnsuXXn43s8dctR) | 3:39 | 2021-02-26 | 2022-07-21 |
 | [Pride](https://open.spotify.com/track/3tkyPGRH7SARvUl8rQ59kH) | [Trans Trenderz](https://open.spotify.com/artist/0LtriUtP4hxIQuscQbhfs4), [Blxck Cxsper](https://open.spotify.com/artist/1G3Md9NFjNTht06zDM1or3), [Lady Londyn](https://open.spotify.com/artist/0grNu3cmjl3FL0YDSP2TvM) | [Pride](https://open.spotify.com/album/4vUL1NQGqSYr2fctxuhzj5) | 3:31 | 2021-06-25 | 2022-07-29 |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2020-06-01 |  |

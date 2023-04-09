@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-216 songs - 12 hr 48 min
+217 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 | 2022-08-14 |
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-12 |  |
 | [Cumbia Cumbia Cumbia](https://open.spotify.com/track/6TGMcOJ33TcHL3rAJuREMp) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [Cumbia Cumbia Cumbia](https://open.spotify.com/album/6upbBKdqb1xtf5OhVZA8Bw) | 2:45 | 2022-12-09 | 2023-01-14 |
-| [Cumbia de las de Antes](https://open.spotify.com/track/1fzB9xEEm67lzQnfXhEYOT) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa), [Orquesta New Bolivia Band](https://open.spotify.com/artist/0sM3QFGXDpskQ0NdK9xkwj) | [Cumbia de las de Antes](https://open.spotify.com/album/0aW5hgWBEDz8GtXLdD2Ky9) | 2:17 | 2023-03-24 |  |
+| [Cumbia de las de Antes](https://open.spotify.com/track/1fzB9xEEm67lzQnfXhEYOT) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa), [Orquesta New Bolivia Band](https://open.spotify.com/artist/0sM3QFGXDpskQ0NdK9xkwj) | [Cumbia de las de Antes](https://open.spotify.com/album/0aW5hgWBEDz8GtXLdD2Ky9) | 2:17 | 2023-03-24 | 2023-04-09 |
 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 | 2023-02-17 |  |
 | [Cumbia Despechada \(feat\. Gino Mella\)](https://open.spotify.com/track/0i38plpKu7S0NCIh8PfcFM) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Cumbia Despechada](https://open.spotify.com/album/6LW0dk5JXVmNLHOCIzoim2) | 2:44 | 2023-01-13 | 2023-03-11 |
 | [Cumbia Vieja](https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cumbia Vieja](https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o) | 2:45 | 2022-08-26 | 2022-10-29 |
@@ -196,6 +196,7 @@
 | [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 | 2023-01-06 |  |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 | 2022-07-02 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 |  |
+| [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-07 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2022-07-22 | 2022-10-31 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 3:32 | 2023-01-06 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/7Gq4ceSyXidlIF9T6ZjX8D) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Unico Amor](https://open.spotify.com/album/1PgEY4CHlURqdIO5lru0Fv) | 3:34 | 2021-12-24 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Omar Andino\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,417 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,431 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 37 | [TIC TAC](https://open.spotify.com/track/5aUNWjdLcTDUvM9LNvM1Gz) | [JAVVI ELIAS](https://open.spotify.com/artist/0wdQR6Qd64uSVhNJy7M2F0) | [TIC TAC](https://open.spotify.com/album/3y25gODVUqLXu8aNYEBFt4) | 3:08 |
 | 38 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 |
 | 39 | [Estoy Aquí](https://open.spotify.com/track/17ACclkBnDrzkK3z9CuiFg) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Estoy Aquí](https://open.spotify.com/album/6BXyH6CsYfddDGuDBp0Nbl) | 3:32 |
-| 40 | [tulipanes](https://open.spotify.com/track/70mNWCsbhgA1C5TBa3nh7Y) | [LAUREN SOFÍA](https://open.spotify.com/artist/5mzGJi5OUAlS45MQ6LsHlt) | [tulipanes](https://open.spotify.com/album/5xjrY0deqdmqrD6O0k2Wmm) | 3:02 |
-| 41 | [Cliché](https://open.spotify.com/track/3woHOk7oXSBn61tGSCZfs0) | [joelle](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [Cliché](https://open.spotify.com/album/2HMVb6eiCfRvhZMzJPqITQ) | 2:46 |
+| 40 | [Cliché](https://open.spotify.com/track/3woHOk7oXSBn61tGSCZfs0) | [joelle](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [Cliché](https://open.spotify.com/album/2HMVb6eiCfRvhZMzJPqITQ) | 2:46 |
+| 41 | [tulipanes](https://open.spotify.com/track/70mNWCsbhgA1C5TBa3nh7Y) | [LAUREN SOFÍA](https://open.spotify.com/artist/5mzGJi5OUAlS45MQ6LsHlt) | [tulipanes](https://open.spotify.com/album/5xjrY0deqdmqrD6O0k2Wmm) | 3:02 |
 | 42 | [correr](https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz) | 2:53 |
 | 43 | [Universos Distintos](https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz), [André Prando](https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk) | [Universos Distintos](https://open.spotify.com/album/0UB9bGnLYP2xs4YK9CweHw) | 3:52 |
 | 44 | [Mi lugar en el mundo](https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Mi lugar en el mundo](https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC) | 3:32 |
 | 45 | [yo creo que nos podríamos hacer bien](https://open.spotify.com/track/2KA4JH7Gsaov1zi3CIKu2U) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [yo creo que nos podríamos hacer bien](https://open.spotify.com/album/5DRCrokzbS8eYvDAwZczwW) | 3:24 |
-| 46 | [Urge](https://open.spotify.com/track/2sv9MHEg3lMT3dLhJtbVfq) | [La Banda Acústica Rodante](https://open.spotify.com/artist/7jPsSClkGHYOCFsYIUfxwg) | [Urge](https://open.spotify.com/album/5bdqzF9xHhKWSKBRZFUpmN) | 4:23 |
-| 47 | [TAMAGOTCHI](https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [TAMAGOTCHI](https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn) | 3:19 |
+| 46 | [TAMAGOTCHI](https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [TAMAGOTCHI](https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn) | 3:19 |
+| 47 | [Urge](https://open.spotify.com/track/2sv9MHEg3lMT3dLhJtbVfq) | [La Banda Acústica Rodante](https://open.spotify.com/artist/7jPsSClkGHYOCFsYIUfxwg) | [Urge](https://open.spotify.com/album/5bdqzF9xHhKWSKBRZFUpmN) | 4:23 |
 | 48 | [Fuera en el Camino](https://open.spotify.com/track/58a24gnfCMiqU6FsbJVNt5) | [Costas](https://open.spotify.com/artist/7J4QsLCXzX1JVzmmt9pW6B) | [Bajo la Oscuridad Púrpura](https://open.spotify.com/album/3wfpgiflDDNFWolfmBYsiD) | 4:54 |
 | 49 | [Me Levanto Solo](https://open.spotify.com/track/5Kj9gesd6cum0socwlqPxV) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [Solo, Vol\. 1](https://open.spotify.com/album/7BS7wIq72yuLc4sKgeHLEX) | 2:39 |
 | 50 | [Hide](https://open.spotify.com/track/26syP1xGZ8QF041r3Go6Wg) | [Gina D'Soto](https://open.spotify.com/artist/2BOv7cnGKraoayCdo44HLi), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Hide](https://open.spotify.com/album/292JiBiYB1rTpC879lf0ui) | 3:32 |
 
-Snapshot ID: `MTY4MDcxNDAwMCwwMDAwMDAwMDUwYTYyZWYwNTc2YzQzMDJjZDkwMGE3MGQxOGVmMTM4`
+Snapshot ID: `MTY4MDcxNDAwMCwwMDAwMDAwMDM4NDQ4NTI3YTNhMzU3ZmY0MjU2MTg1N2ZkNmRlNTE2`

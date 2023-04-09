@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-304 songs - 17 hr 33 min
+306 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [La Cita](https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36) | 4:18 | 2022-01-14 | 2022-07-29 |
 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 | 2022-07-22 |  |
 | [La Estrategia](https://open.spotify.com/track/7rwBT0s2G44oK66I3cCzf4) | [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [La Estrategia](https://open.spotify.com/album/4RhpW9N4X7ukSSSz0u8keA) | 3:17 | 2022-03-18 | 2022-06-03 |
+| [La Mitad](https://open.spotify.com/track/1n0TUKFvT1C9u2saSdZlIA) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [La Mitad](https://open.spotify.com/album/7hEQGmeTuNe2493OL3I2ib) | 2:50 | 2023-04-07 |  |
 | [La Rutina](https://open.spotify.com/track/6C094RYoKyovRnKMBTM3wD) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [La Rutina](https://open.spotify.com/album/4XyfsuL6Qn0afy1fAQmbzQ) | 2:46 | 2022-02-04 | 2022-06-27 |
 | [La Tengo Que Olvidar](https://open.spotify.com/track/6EFt4egCAPQOU95A18V5F6) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero 2000](https://open.spotify.com/album/6ClFgIBXkUyzem001BPj6P) | 3:43 | 2022-07-22 |  |
 | [La Tengo Que Olvidar](https://open.spotify.com/track/6JDZmQKev4hZFBrFYgTtWu) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero 2000](https://open.spotify.com/album/3AOdhtEZz6rbFCJtKFikfl) | 3:43 | 2022-01-14 | 2022-07-29 |
@@ -170,7 +171,7 @@
 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 | 2022-01-21 | 2022-07-26 |
 | [Muñequito de Peluche](https://open.spotify.com/track/3PXeR8XO9uPbtEkRHZD3DL) | [Conjunto Musical Orlando Ayunes](https://open.spotify.com/artist/030U2Bb48fTzzhk3NxcQZC) | [Vamos por Mas..](https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-01-14 |  |
-| [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 | 2022-02-18 |  |
+| [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 | 2022-02-18 | 2023-04-09 |
 | [No aguanto más](https://open.spotify.com/track/0TMA7Pec4bH1JNfEN0mc3U) | [Hector Pacheco](https://open.spotify.com/artist/1X7iGHo0VLJ3IjhDini4gK) | [No aguanto más 2008](https://open.spotify.com/album/73ZHxX3YkAPRoifUMdFVQe) | 4:11 | 2023-03-31 |  |
 | [No Debería Quererte](https://open.spotify.com/track/5P4xezLTnfp7alej9QCFyN) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [No Debería Quererte](https://open.spotify.com/album/5GNeYcySMXqQu8oth22Vaw) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [No Es Mi Despedida](https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:04 | 2023-03-10 |  |
@@ -197,6 +198,7 @@
 | [Olvida Tus Penas](https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Olvida Tus Penas](https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS) | 2:38 | 2022-10-22 | 2022-11-19 |
 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2022-01-14 |  |
 | [Para Que](https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ilan Amores](https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z) | [Para Que](https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3) | 3:57 | 2022-09-09 | 2022-12-17 |
+| [Para Siempre / Tan Solo Tu \(Enganchados\)](https://open.spotify.com/track/5atnHTTAommfPj4DUkTkim) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Los Piazzolis](https://open.spotify.com/artist/7113fJ6VpBoPcTLCwjFlN3) | [Para Siempre / Tan Solo Tu \(Enganchados\)](https://open.spotify.com/album/40MRt8hm2FkJJFYEbvlEH3) | 5:16 | 2023-04-07 |  |
 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 | 2022-01-14 |  |
 | [Pega la Vuelta](https://open.spotify.com/track/51seuwibGTQsUod6oScKtR) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:49 | 2022-01-14 |  |
 | [Perdoname](https://open.spotify.com/track/6CBqiWLSkGN7szUkaxKRFx) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Perdoname](https://open.spotify.com/album/6r0KL8RMANGN9gyiSetBrz) | 3:51 | 2022-01-21 | 2022-04-20 |
@@ -310,7 +312,7 @@
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-01-14 | 2023-03-12 |
 | [¿Que Cambió?](https://open.spotify.com/track/0aok5y5x0UaWukaODVACWy) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Que Cambió?](https://open.spotify.com/album/6pysRGftB6wL724toX1epM) | 2:13 | 2022-04-01 | 2022-04-16 |
 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/3j8KqAjYT9nA993cJbcbQi) | [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [¿Quieres Ser Mi Amante?](https://open.spotify.com/album/4PnXX6JkqXoS1LrqGr8KBV) | 3:28 | 2022-01-21 | 2022-05-11 |
-| [Ámame](https://open.spotify.com/track/654pI1J9vB1K8SSVUe0ZUP) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Ámame](https://open.spotify.com/album/4swAxvFAAKtzCLFDZjM6mz) | 3:46 | 2023-03-04 |  |
+| [Ámame](https://open.spotify.com/track/654pI1J9vB1K8SSVUe0ZUP) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Ámame](https://open.spotify.com/album/4swAxvFAAKtzCLFDZjM6mz) | 3:46 | 2023-03-04 | 2023-04-09 |
 | [Ángel](https://open.spotify.com/track/3rTlccmgs9a7XvpPcvuoZT) | [El Sarna](https://open.spotify.com/artist/76sidf7GPVRd1c0nvvgam4) | [Marito Tres Vol.3](https://open.spotify.com/album/0KUg5Wzqbcqu2vw8iXmPt6) | 2:51 | 2022-04-01 | 2022-07-28 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

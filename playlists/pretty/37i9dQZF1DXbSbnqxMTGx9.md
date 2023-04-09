@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,760,803 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,267 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 57 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 |
 | 58 | [Stalag 17](https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl) | [Ansel Collins](https://open.spotify.com/artist/0IH1Rx8zeWyZLVrBloZp1Q) | [Double Barrel \- The Best of Dave & Ansel Collins](https://open.spotify.com/album/0i2pbEHt0qGGjTCcrJdVXf) | 2:59 |
 | 59 | [Too Late \- 7" Mix](https://open.spotify.com/track/6Kc2RjSw2HXKNU2BZRlniN) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Winner \- The Roots of Gregory Isaacs 1974\-1978](https://open.spotify.com/album/0XiWne50xxHBDoEE1XoLz6) | 2:46 |
-| 60 | [You Are My Angel](https://open.spotify.com/track/20Pv33mbJKBMUURzMpLr3p) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:54 |
+| 60 | [You Are My Angel](https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:52 |
 | 61 | [Another Day Is Dawning \(aka There Is A Hope Somewhere\)](https://open.spotify.com/track/6El7fcz3FF1JbEPAwbsBJu) | [Earl Lawrence](https://open.spotify.com/artist/2XuZhOJe4s5pAbFzTbybaz) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 3:10 |
 | 62 | [Pirate](https://open.spotify.com/track/4E4WIb8yqs5jHMVAaVIOfc) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:32 |
 | 63 | [Simmer Down Quashie](https://open.spotify.com/track/08bRUmisdtmcWvt4Gr6hnD) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [The Best of The Pioneers](https://open.spotify.com/album/59qX9UWoEoXW5wpuv8FMks) | 1:46 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 74 | [First Time for a Long Time](https://open.spotify.com/track/3mX9OqJiqLFTakCk1WrzG2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Double Dekker \(Expanded Version\)](https://open.spotify.com/album/7tt21btxenzyLsiI17qivz) | 2:29 |
 | 75 | [Blackman's Word \(Black Man's Pride\)](https://open.spotify.com/track/5KYdwJCvwGsAeTwUJn8ZIe) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1) | 2:49 |
 | 76 | [Woman of the Ghetto](https://open.spotify.com/track/6p23ND9fHO5zPyLYL3OJ8H) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh), [The Tommy McCook Band](https://open.spotify.com/artist/1CRP6GIsX8uCeJZk5Y7VJy) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 3:21 |
-| 77 | [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 |
+| 77 | [Ain't No Sunshine](https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Trojan Soul Reggae Vol\. 1](https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX) | 2:14 |
 | 78 | [Samfie Man](https://open.spotify.com/track/7lg50PPjR4ae8VaSXWp46z) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [The Best of The Pioneers](https://open.spotify.com/album/59qX9UWoEoXW5wpuv8FMks) | 2:57 |
 | 79 | [Is It Because I'm Black?](https://open.spotify.com/track/3FEEfb772gpjK2J7GUsEb8) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Ken Boothe Collection: Eighteen Classic Songs](https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99) | 3:42 |
 | 80 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 170 | [No Love Allowed](https://open.spotify.com/track/0aJNqdKdmaRnegDDzOUelc) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [LMK](https://open.spotify.com/artist/6no7KNnx2aInmnGc9mFciJ) | [Singasong](https://open.spotify.com/album/6ME2dfYLPusdWevj5vsula) | 4:01 |
 | 171 | [East of the River Nile \- 1971 Version](https://open.spotify.com/track/44Oy8VNAjajn6zT2BRUxzy) | [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [Rebel Music: A Reggae Anthology](https://open.spotify.com/album/6fzSXHcEKtKgewVwHydgsD) | 2:47 |
 | 172 | [Cool Breeze](https://open.spotify.com/track/2zOtovzvUDmLziEnXYtXZg) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/1Mv5W0xVXErq07JDQRzB1Q) | 3:23 |
-| 173 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
+| 173 | [Having A Party](https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Steve Marshall](https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE) | [Scratch Came Scratch Saw Scratch Conquered](https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi) | 4:40 |
 | 174 | [Dr\. Dekker](https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:55 |
 | 175 | [Don De Lion](https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:25 |
 | 176 | [Don't Stay Away](https://open.spotify.com/track/7vEUzhrht7OqeF4FcNyAbx) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [One Life to Live \(Expanded Version\)](https://open.spotify.com/album/6qOih5SFSPbmMSkYrf8Ztu) | 2:33 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMDRlNmVlMmU1YThlM2UzNjJjM2E1NTk3NTZkNmM0ZGNm`
+Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMGNlMmI3MGM2MWZlZjQ4MzE1MWRhNWM5YzhhM2QzMTYz`

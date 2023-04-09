@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Samantha Fish
+> All new, all blues\. Cover: Gov't Mule
 
-206 songs - 12 hr 9 min
+207 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Darkness I Feel](https://open.spotify.com/track/43haQPyxARYypn8u8ocsym) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Darkness I Feel](https://open.spotify.com/album/1kANdOqNzn3Ua5rKRezSFj) | 3:11 | 2022-02-25 |  |
 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2023-03-03 |  |
 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 | 2021-05-14 | 2022-05-07 |
+| [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 | 2023-04-07 |  |
 | [Everything You Need](https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Everything You Need](https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB) | 3:38 | 2021-06-11 | 2022-05-07 |
 | [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2021-02-05 | 2022-03-26 |
 | [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 | 2022-12-09 | 2023-03-18 |
@@ -83,7 +84,7 @@
 | [I Never Like It When You Leave](https://open.spotify.com/track/2Kp5p8jiWH42gJVv4cHNBZ) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [I Never Like It When You Leave](https://open.spotify.com/album/0Q84Iiq3eoEpJ1DedX64x9) | 3:14 | 2021-02-05 | 2022-03-26 |
 | [I'll Be Glad](https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [I'll Be Glad](https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6) | 4:58 | 2022-08-26 |  |
 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 | 2022-03-25 | 2022-06-19 |
-| [I've Got To Use My Imagination](https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [I've Got To Use My Imagination](https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe) | 5:05 | 2023-02-13 |  |
+| [I've Got To Use My Imagination](https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [I've Got To Use My Imagination](https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe) | 5:05 | 2023-02-13 | 2023-04-09 |
 | [Ice Cream Man](https://open.spotify.com/track/0Xg38XEeI0xRYODGTuFH55) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Ice Cream Man](https://open.spotify.com/album/0jz9kjRqQ0Xx9uNpUE3WoJ) | 3:29 | 2021-02-05 | 2022-03-26 |
 | [If I Die](https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU) | [Maggie Koerner](https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe) | [The Bartholomew Songs](https://open.spotify.com/album/24cBWx1hlT9GUBZBOJjcal) | 3:52 | 2022-03-25 |  |
 | [If You're Gonna Leave Me](https://open.spotify.com/track/1o5m2tSsrzqLyJf6qfmSrO) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [If You're Gonna Leave Me](https://open.spotify.com/album/3yfkg9em3SCAygQPfoORh1) | 5:32 | 2021-05-21 | 2022-05-07 |

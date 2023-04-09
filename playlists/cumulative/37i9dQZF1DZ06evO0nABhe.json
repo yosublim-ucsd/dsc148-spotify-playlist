@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Silent Murder/Slow Jam",
+        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "A Silent Murder/Slow Jam",
+      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
+    },
+    {
+      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },

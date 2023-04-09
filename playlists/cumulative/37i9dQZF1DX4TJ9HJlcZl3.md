@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-66 songs - 4 hr 12 min
+68 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 | 2023-01-06 |  |
 | [Konichiwa](https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [The Don](https://open.spotify.com/album/0drE0Xqo5yrSPirL3edUuX) | 4:37 | 2022-10-21 |  |
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2022-10-21 |  |
-| [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-10-21 |  |
+| [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-10-21 | 2023-04-09 |
 | [Ms\. Marigold](https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 1](https://open.spotify.com/album/6nfTINfvFH6VZb81AYTxFP) | 4:16 | 2022-10-21 |  |
 | [New Fascination](https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:20 | 2022-10-28 |  |
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-10-21 | 2022-11-12 |
@@ -56,6 +56,7 @@
 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 | 2022-11-18 |  |
 | [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 | 2022-10-21 |  |
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-01-13 |  |
+| [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 |  |
 | [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/6yTchvmjqKDj4psl8WunJK) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Paris II](https://open.spotify.com/album/3mIkvHphijwLhjlYZPWJN7) | 3:39 | 2022-10-21 | 2022-12-24 |
@@ -68,10 +69,11 @@
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 | 2022-11-11 |  |
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |
+| [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 |  |
 | [What Ever It May Be](https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be](https://open.spotify.com/album/3cjiYBTwHHXEsA08KPpyaT) | 4:00 | 2022-10-21 |  |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 |  |
 | [Why I Came To California](https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22) | 4:39 | 2022-10-21 |  |
-| [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2022-10-21 |  |
+| [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2022-10-21 | 2023-04-09 |
 | [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 | 2022-10-21 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-13 |  |
 

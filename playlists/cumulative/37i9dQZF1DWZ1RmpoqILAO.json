@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation Cover: Faye Webster",
+  "description": "indie tunes with country experimentation Cover: Wednesday",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -470,6 +470,24 @@
       "duration_ms": 145660,
       "name": "Farm Cat",
       "url": "https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs"
+    },
+    {
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Formula One",
+      "url": "https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI"
     },
     {
       "album": {

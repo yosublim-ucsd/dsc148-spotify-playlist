@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 274586,
       "name": "Blashyrkh - Mighty Ravendark",
       "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
@@ -3817,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "Triade III : Nyx",
+        "url": "https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0"
+      },
+      "artists": [
+        {
+          "name": "Aara",
+          "url": "https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456750,
+      "name": "Moribunda",
+      "url": "https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F"
+    },
+    {
+      "album": {
         "name": "Nemesis Divina",
         "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
       },
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 370650,
       "name": "Unstern",
       "url": "https://open.spotify.com/track/309A8NlAFgdMAWo2qeMFIG"
@@ -6340,6 +6358,24 @@
       "duration_ms": 278181,
       "name": "Vultures of North",
       "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
+    },
+    {
+      "album": {
+        "name": "War Against All",
+        "url": "https://open.spotify.com/album/42itntO9qiIkUewMznm08m"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206678,
+      "name": "War Against All",
+      "url": "https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD"
     },
     {
       "album": {

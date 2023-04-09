@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,983 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,998 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [死んだ!](https://open.spotify.com/track/7zFAcqgCwF9AgKdSPwImiC) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [死んだ!](https://open.spotify.com/album/7wjP7t4lJVhp6g6atYj3PD) | 3:40 |
+| 1 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 |
 | 2 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 |
 | 3 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 |
 | 4 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 26 | [Imperfect](https://open.spotify.com/track/15If8Hrsgq8jro2a4LSi9A) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:45 |
 | 27 | [Role Playing](https://open.spotify.com/track/7AhXYCly0Z5vupZPEcLO0e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:39 |
 | 28 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 |
-| 29 | [Chance!](https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Chance!/Yugata](https://open.spotify.com/album/7h83mVTDGHwtGOli9lYNZg) | 3:36 |
+| 29 | [Chance!](https://open.spotify.com/track/5VfBsV4CGXTEoXcpKCYlbJ) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [R](https://open.spotify.com/album/4EickkApFQdwrGpgR8a7Q7) | 3:35 |
 | 30 | [ヒーローインポッシボー](https://open.spotify.com/track/3EJO9ApZrY39AWSkIeMCRU) | [花江夏樹](https://open.spotify.com/artist/6bd1YR3Ogw2OGpjydfk2TP) | [青春は残酷じゃない](https://open.spotify.com/album/0poQ2GG7EViIoWCwWaE71d) | 4:25 |
 | 31 | [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 |
 | 32 | [スーパーヒーロー](https://open.spotify.com/track/1CF2fTdiBSR6teCFkz58rh) | [となりの坂田。](https://open.spotify.com/artist/39hHIBvCe897cm5gTUp3cc) | [CRUISE TICKET](https://open.spotify.com/album/3TzgqnTRe1DcS9GOsMHgmc) | 3:52 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 77 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 78 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MTY4MDc5MzIwMCwwMDAwMDAwMDI0ZmNmNTQyYjdiZTM3ZGIwMjljNGEyMzUzNGM4ZmQ0`
+Snapshot ID: `MTY4MDc5MzIwMCwwMDAwMDAwMDAwZjU3YmQ4Y2EwYTU4NmI2YzRhOWEzYmU3NTQ1NDBm`

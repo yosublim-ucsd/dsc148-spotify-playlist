@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-237 songs - 12 hr 2 min
+239 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 |  |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 |  |
 | [If I Disappear](https://open.spotify.com/track/5mIcxmKHXnhY1lJJDKJGxW) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/0QefDAEkbSEFUIXkbgZAl7) | 3:28 | 2022-05-06 |  |
-| [Ignite](https://open.spotify.com/track/4KucTjdHBmBQnWDuBEkx5x) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe), [22 Void Beats](https://open.spotify.com/artist/7HSsXPuibnpm1vpFZLQPIL), [Nat James](https://open.spotify.com/artist/0kARaGLd8qru6OU5yCMHeK) | [Ignite](https://open.spotify.com/album/5TIQMdZH1peU8YK8tTyAdm) | 2:50 | 2023-04-05 |  |
+| [Ignite](https://open.spotify.com/track/4KucTjdHBmBQnWDuBEkx5x) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe), [22 Void Beats](https://open.spotify.com/artist/7HSsXPuibnpm1vpFZLQPIL), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Ignite](https://open.spotify.com/album/5TIQMdZH1peU8YK8tTyAdm) | 2:50 | 2023-04-05 |  |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 |  |
 | [ILY](https://open.spotify.com/track/1CODxPEoQv5e0yJuOiLvbj) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:40 | 2022-12-07 |  |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 |  |
@@ -137,6 +137,7 @@
 | [Memory Lane](https://open.spotify.com/track/3I4i9lPdYexRsU79R7KnoM) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Memory Lane](https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7) | 4:02 | 2022-08-12 |  |
 | [Memory Nights](https://open.spotify.com/track/3ooflzDgtL0pqnikV7HUDW) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [Memory Nights](https://open.spotify.com/album/1TaHRPxZD4e0lzVB8EU2AG) | 3:16 | 2022-12-26 |  |
 | [Mess](https://open.spotify.com/track/6bOXwq9j9wFe4M8LAHc3cl) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7) | [Mess](https://open.spotify.com/album/5TpIbGAHt0rVaw52JIP8md) | 2:20 | 2022-12-16 |  |
+| [Mirage Of My Heart](https://open.spotify.com/track/6lsu0PNBCk03cdTnZpdgVO) | [D'Amico & Valax](https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc), [Fayzone](https://open.spotify.com/artist/1hSg7N5p2IUGoWCKtzEHcA) | [Mirage Of My Heart](https://open.spotify.com/album/6ncDWBhtWeEWVWCrmfS3Ud) | 3:09 | 2023-04-07 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 |  |
 | [Need U](https://open.spotify.com/track/0JlKZ0W9iPJctsUMNSDMeo) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Lynzz](https://open.spotify.com/artist/7BNmWFren7JBhowtx1SgdH) | [Need U](https://open.spotify.com/album/1PShwrLIuLYacTtC9O6U8b) | 1:57 | 2022-07-19 |  |
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 |  |
@@ -176,6 +177,7 @@
 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 |  |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 |  |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 |  |
+| [Reflect](https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Reflect](https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G) | 3:04 | 2023-04-07 |  |
 | [Retrophonic](https://open.spotify.com/track/2jT3LKqUJVrcT6TYJhcsJg) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Retrophonic](https://open.spotify.com/album/1c0bNZGrgSQlcALkrwSgQ2) | 2:31 | 2022-05-13 |  |
 | [Rift](https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Rift](https://open.spotify.com/album/6TkCdwfbCgi9m4YRbcvzbt) | 3:26 | 2022-12-28 |  |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 |  |

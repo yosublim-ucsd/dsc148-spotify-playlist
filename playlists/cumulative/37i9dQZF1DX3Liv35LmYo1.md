@@ -4,13 +4,13 @@
 
 > Moody electronica for the night time hours
 
-123 songs - 9 hr 50 min
+124 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2022-12-01 |  |
 | [Affirmation Practice](https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Affirmation Practice](https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK) | 5:11 | 2023-01-26 |  |
-| [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 | 2023-03-23 |  |
+| [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 | 2023-03-23 | 2023-04-09 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-02 |  |
 | [All Together, Here Together](https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR) | [Adult Art Club](https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl) | [All Together, Here Together](https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx) | 3:58 | 2022-12-01 | 2023-03-03 |
 | [All Ways](https://open.spotify.com/track/6FXo8XBPJVRVTnULgrMEVt) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [All Ways](https://open.spotify.com/album/2fSalddDJUxWeDeXl2yTwR) | 4:16 | 2023-03-16 |  |
@@ -67,6 +67,7 @@
 | [I'm Tired](https://open.spotify.com/track/2lm0Hj6EKbRuuTq8jHyPfk) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [I'm Tired](https://open.spotify.com/album/77zvDk6C1Uzb2QqWXj0ZZK) | 4:00 | 2023-02-09 | 2023-02-16 |
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-12-01 | 2023-03-31 |
 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 | 2023-02-09 |  |
+| [Inertia](https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Inertia](https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ) | 5:05 | 2023-04-05 |  |
 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 | 2022-12-01 |  |
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2022-12-01 |  |
 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-12-01 |  |

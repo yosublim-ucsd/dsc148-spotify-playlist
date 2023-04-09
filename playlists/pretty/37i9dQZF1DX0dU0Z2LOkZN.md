@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,756 likes - 212 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,834 likes - 212 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 109 | [A Good Place To Start](https://open.spotify.com/track/6Q2poRW19b3n8NiBG5Kg5r) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [A Good Place To Start](https://open.spotify.com/album/7laxXMjnlr0v5nFNJrPeHP) | 2:44 |
 | 110 | [Elevate](https://open.spotify.com/track/1Hk6wy6Ls9sRtYN4ywTMBQ) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Elevate](https://open.spotify.com/album/5PNdrzPhJTBcJmNYeXGwpT) | 2:22 |
 | 111 | [Dawn](https://open.spotify.com/track/542V4DMmIm3h0a5lo7uk0r) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Dawn](https://open.spotify.com/album/60uGW82WOYQY9xI0mDAGNc) | 1:56 |
-| 112 | [Dole](https://open.spotify.com/track/7uU6DWbTaCLqA0Ib89rRnC) | [Manu Beats](https://open.spotify.com/artist/2Hz5xXafhlWZ7jEyckuICA) | [Jugo](https://open.spotify.com/album/6SeEmMHlEu9LxVC9ffoUB5) | 2:06 |
+| 112 | [Dole](https://open.spotify.com/track/3nqP667gj8DvV0FHv2daDe) | [Manu Beats](https://open.spotify.com/artist/53TLjNkhvF2hn3Glj0IRsw) | [Jugo](https://open.spotify.com/album/3Qj5bXwcQvIYmTQk3KT4kN) | 2:06 |
 | 113 | [Pop Swmmn](https://open.spotify.com/track/7vjRv3UGr2GlR1UlrER6j9) | [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI) | [Pop Swmmn](https://open.spotify.com/album/5dZ2WWhZHMmalEqXYY3xMF) | 1:45 |
 | 114 | [landscape 03](https://open.spotify.com/track/5VZTOpR13aqA3AMIRl0cbB) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [landscape 03](https://open.spotify.com/album/6BfN2wyjPgiCmY7f1xduMi) | 1:54 |
 | 115 | [Hostage](https://open.spotify.com/track/0XMg3uwQt36LsHkUYK8j0D) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Hostage](https://open.spotify.com/album/10HwD6rL3vKCqhjpQE55dB) | 1:43 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 211 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 212 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MTY3ODcyMDg1NywwMDAwMDAwMDUyZTgxNGRmNzg2ZjgxNTFiNmNhM2EwMGJlOWVmZmU2`
+Snapshot ID: `MTY3ODcyMDg1NywwMDAwMDAwMDI5OTg0Y2Y3NjRhYWM5MGY1ZWI4NmIwZmNhZmI0NjBi`

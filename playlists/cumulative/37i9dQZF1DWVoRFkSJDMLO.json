@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Shay Lia \ud83c\udde9\ud83c\uddef",
+  "description": "Inspired by African drums. Cover: Popcaan, Black Sherif \ud83c\uddef\ud83c\uddf2 \ud83c\uddec\ud83c\udded ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "2:30",
+        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
     },
     {
       "album": {
@@ -298,7 +316,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 63818,
       "name": "Amapiano Breakfast",
       "url": "https://open.spotify.com/track/7tQtJ77H7lyfw3CgfAa8LV"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
@@ -2283,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "album": {
         "name": "Don't Run (feat. Skinny Fabulous)",
         "url": "https://open.spotify.com/album/7kDrvkStFWFTVu1UxoO1Zu"
       },
@@ -2302,6 +2342,24 @@
       "duration_ms": 181760,
       "name": "Don't Run (feat. Skinny Fabulous)",
       "url": "https://open.spotify.com/track/6aF81NdXGIX08g4ForvGgX"
+    },
+    {
+      "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "album": {
@@ -3246,6 +3304,36 @@
       "duration_ms": 182400,
       "name": "GYAL TIME AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/7mst3i1t1O7HT08ch5v47B"
+    },
+    {
+      "album": {
+        "name": "Ha Ke Tsebe",
+        "url": "https://open.spotify.com/album/0sB19m4iBuRnlabh29k1O9"
+      },
+      "artists": [
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Deejay Neptune",
+          "url": "https://open.spotify.com/artist/2e2TN9zRilpcjZp8jorgez"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356911,
+      "name": "Ha Ke Tsebe",
+      "url": "https://open.spotify.com/track/2zcX47cMqiX6JPOmI5tMG8"
     },
     {
       "album": {
@@ -4863,6 +4951,32 @@
     },
     {
       "album": {
+        "name": "Mera Na",
+        "url": "https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Mera Na",
+      "url": "https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4"
+    },
+    {
+      "album": {
         "name": "MI PAPER",
         "url": "https://open.spotify.com/album/0OB1qnvDpny15yKOBhGSs0"
       },
@@ -5148,7 +5262,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 167804,
       "name": "Neat Wid It",
       "url": "https://open.spotify.com/track/3Bufahkgz5F6tgcMlyRCrW"
@@ -5174,7 +5288,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 257071,
       "name": "Never Let Go Remix Part II",
       "url": "https://open.spotify.com/track/7eFyuht8qmDQ1p1spSEBoH"
@@ -5636,7 +5750,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 161250,
       "name": "One GadZilla",
       "url": "https://open.spotify.com/track/3AFy7ivBRJIsn3p1BSVoXI"
@@ -5852,6 +5966,24 @@
       "duration_ms": 179347,
       "name": "Owo Ni Koko",
       "url": "https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH"
+    },
+    {
+      "album": {
+        "name": "Ozimba",
+        "url": "https://open.spotify.com/album/59EDpXugNaArAuc4g6K2GQ"
+      },
+      "artists": [
+        {
+          "name": "Bouff",
+          "url": "https://open.spotify.com/artist/5Kl861FVAII9f5FP0RSo8s"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Ozimba",
+      "url": "https://open.spotify.com/track/61OA4Ii9A4GDMBeLMQimUK"
     },
     {
       "album": {
@@ -6700,7 +6832,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 149812,
       "name": "Rora",
       "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
@@ -7884,7 +8016,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 165564,
       "name": "Taking It",
       "url": "https://open.spotify.com/track/7x7PxF2HqqgwcIcqvdlXP0"
@@ -9328,6 +9460,24 @@
       "duration_ms": 235339,
       "name": "you know.",
       "url": "https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE"
+    },
+    {
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136855,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"
     },
     {
       "album": {

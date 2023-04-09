@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-78 songs - 3 hr 44 min
+79 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Walk Of Shame](https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Walk Of Shame](https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi) | 2:28 | 2022-07-14 | 2022-11-23 |
 | [Watch Out for the Big Girl](https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq) | [Jimmy Jones](https://open.spotify.com/artist/3Jl6zZey7n9sVPK6vcZhtT) | [Watch Out for the Big Girl](https://open.spotify.com/album/7FoJmYkMDrOvRVQA0wtYnY) | 3:33 | 2022-07-14 | 2022-11-23 |
 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 | 2022-07-14 | 2022-11-23 |
-| [ZAZA](https://open.spotify.com/track/64y0NPZeOIewgF413KARfy) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [ZAZA](https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB) | 2:29 | 2022-11-22 |  |
+| [ZAZA](https://open.spotify.com/track/64y0NPZeOIewgF413KARfy) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [ZAZA](https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB) | 2:29 | 2022-11-22 | 2023-04-09 |
+| [ZAZA](https://open.spotify.com/track/7l9wTfGuhVAT9al8qfoRaN) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [ZAZA](https://open.spotify.com/album/7faNgphUt8ZokHRiFs2IYW) | 2:29 | 2022-11-22 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-821 songs - 1 day 19 hr 1 min
+822 songs - 1 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Lay, Lady, Lay](https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:17 | 2019-06-12 | 2022-07-29 |
 | [Leader Of The Pack](https://open.spotify.com/track/7aKIYYsFGoq7En1JaD7V6B) | [Shangris Las](https://open.spotify.com/artist/4CGcgDiX93XldTnb7JMGlx) | [50 From The Fifties Juke Box Originals Volume 5](https://open.spotify.com/album/4SFGA3xugnb9CMkdYuJ22L) | 2:53 | 2020-08-22 | 2020-08-27 |
 | [Leader Of The Pack](https://open.spotify.com/track/6wzLLGFlWQ5jqTL13MU069) | [The Shangri\-Las](https://open.spotify.com/artist/1WvziZcLLYLoMMdmQx7qcN) | [Leader Of The Pack](https://open.spotify.com/album/58tVdRacBIEFx7vOK6HDdb) | 2:53 | 2019-06-26 | 2021-10-16 |
-| [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 | 2019-05-26\* |  |
+| [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 | 2019-05-26\* | 2023-04-09 |
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2019-07-16 | 2019-08-27 |
 | [Let's Dance](https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [The Hits](https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW) | 2:29 | 2020-12-22 | 2022-03-08 |
 | [Let's Go to San Francisco](https://open.spotify.com/track/2iPwJYTWNGX3ohNBSbAXRw) | [The Flower Pot Men](https://open.spotify.com/artist/4oKgbGuOb8lHdp5pagOEBf) | [Ready Steady Go \- The Sixties](https://open.spotify.com/album/51bKDnaXmzBljocMnd55b7) | 3:38 | 2019-07-17 | 2019-07-27 |
@@ -468,6 +468,7 @@
 | [My Generation \- Original Mono Version](https://open.spotify.com/track/40bvnVS14b2gF3ZfiTKPAf) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0) | 3:17 | 2019-06-22 | 2021-10-16 |
 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 | 2022-06-08 |  |
 | [My Girl](https://open.spotify.com/track/0zex2SX7o2pkJzi73C4m9o) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [American 60's](https://open.spotify.com/album/5eHKnC751agHqEc7sEF5y4) | 2:55 | 2019-05-26\* | 2022-07-29 |
+| [My Girl](https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:55 | 2022-08-12 |  |
 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 | 2019-05-26\* | 2022-07-29 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-06-08 |  |
 | [My Girl \- Single Version/Mono](https://open.spotify.com/track/7sMjzdbSUuhcJIFdR3D8pS) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Love Songs & Chill](https://open.spotify.com/album/7oHVRFtPa3Tf6h8AAqczOK) | 2:55 | 2022-08-12 | 2022-11-13 |

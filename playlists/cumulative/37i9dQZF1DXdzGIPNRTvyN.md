@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-88 songs - 4 hr 1 min
+89 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Allegro](https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegro](https://open.spotify.com/album/4eykRomPItwi8yylcsHXC9) | 2:11 | 2023-03-13 | 2023-03-21 |
 | [Alpenglow](https://open.spotify.com/track/1JDiDQ4xtzLADSb9z6BpyA) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Alpenglow](https://open.spotify.com/album/6ccaqEk1vaiZ7MD0nVL5Ck) | 2:40 | 2023-03-13 |  |
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
+| [Amedeo Nuevo](https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo Nuevo](https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre) | 2:15 | 2023-04-09 |  |
 | [Anjali \- Sound Bath](https://open.spotify.com/track/0LBeVv1VwIG7ggMO9KnKoJ) | [Science Of Dreams](https://open.spotify.com/artist/1KKkMFJaPv6zDbGVIPsM8c) | [Anjali \(Sound Bath\)](https://open.spotify.com/album/3Z8rKbN7ZoADeJHCUTtvCF) | 2:16 | 2023-03-03 |  |
 | [Aqua](https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [Aqua](https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948) | 2:37 | 2023-03-13 |  |
 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 | 2023-03-13 |  |
@@ -25,7 +26,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Close Your Eyes](https://open.spotify.com/album/40951TFlj3CPsvl1Xtx8Wa) | 3:16 | 2023-03-13 | 2023-04-03 |
 | [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 | 2023-01-24 |  |
 | [Cíclica](https://open.spotify.com/track/0jqfKwvVglieA2ESdKU8JM) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Cíclica](https://open.spotify.com/album/5jVMmxJaXohVz7BwmJqiBW) | 3:52 | 2023-01-24 |  |
-| [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-03-13 |  |
+| [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-03-13 | 2023-04-09 |
 | [Deep Canyon \- Sound Bath](https://open.spotify.com/track/0djnuIQ6iW0QIaIZRdgQaP) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Deep Canyon \(Sound Bath\)](https://open.spotify.com/album/79kfrMA3wytdzEOsFwYdNn) | 2:01 | 2023-03-04 |  |
 | [Draumkennd \(Sound Bath\)](https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Draumkennd \(Sound Bath\)](https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ) | 2:31 | 2023-03-20 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-01-24 |  |

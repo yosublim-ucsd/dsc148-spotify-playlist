@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 160473,
       "name": "1-800-Swallow Me (feat. Jasiah)",
       "url": "https://open.spotify.com/track/7tIFl5tbjhQHhAf6K8A2ru"
@@ -536,10 +536,36 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 85361,
       "name": "ARMAGEDDON",
       "url": "https://open.spotify.com/track/7gNQHMTkHAaReyA6kFIfKE"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186472,
+      "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
+      "url": "https://open.spotify.com/track/5iieKgPJ2EeL0BwlGQOocT"
     },
     {
       "album": {
@@ -1346,7 +1372,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 95483,
       "name": "Break Shit",
       "url": "https://open.spotify.com/track/46PndWC5iW7JpdmaY2Jswq"
@@ -3618,7 +3644,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 145000,
       "name": "Helmut Lang",
       "url": "https://open.spotify.com/track/3fegtZrtpwZlcPRJOAm6yG"
@@ -3811,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/5A8JOYgRDNtIjZZ0iKLHoI"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120003,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/3poxqSMtdBNPqSAJauVvTk"
+    },
+    {
+      "album": {
         "name": "Human (feat. Night Lovell)",
         "url": "https://open.spotify.com/album/7iQcMBuqbzJSnPV8VDix6h"
       },
@@ -3950,6 +3994,32 @@
       "duration_ms": 120636,
       "name": "I SAW A GHOST",
       "url": "https://open.spotify.com/track/308nDdX2dufnNzssguoaoi"
+    },
+    {
+      "album": {
+        "name": "I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.",
+        "url": "https://open.spotify.com/album/6JfAaVEfkuNVR4pOnGg3mB"
+      },
+      "artists": [
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        },
+        {
+          "name": "All But 6",
+          "url": "https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.",
+      "url": "https://open.spotify.com/track/5YlUuBa1ksvlWjqI9Uqmhu"
     },
     {
       "album": {
@@ -4964,7 +5034,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 134117,
       "name": "LOCKJAW!",
       "url": "https://open.spotify.com/track/1rFCvKfD7szM7oUp6Et82B"
@@ -6462,7 +6532,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 120624,
       "name": "Red Rain",
       "url": "https://open.spotify.com/track/2gnZhOhmmX0rDqdm3inrvC"
@@ -7171,6 +7241,24 @@
     },
     {
       "album": {
+        "name": "Stick Out When I'm Live",
+        "url": "https://open.spotify.com/album/5ju3Ng1zbjb4LjVxxnupAh"
+      },
+      "artists": [
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143105,
+      "name": "Stick Out When I'm Live",
+      "url": "https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/2SaTMaYwMzNy4rqU3zEDzV"
       },
@@ -7270,6 +7358,24 @@
       "duration_ms": 111901,
       "name": "SUZUKA",
       "url": "https://open.spotify.com/track/0l1c87dSuIkYxwJlFkWk3y"
+    },
+    {
+      "album": {
+        "name": "switch up",
+        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104173,
+      "name": "switch up",
+      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
     },
     {
       "album": {
@@ -8032,6 +8138,24 @@
       "duration_ms": 117170,
       "name": "WAY TOO WAVY",
       "url": "https://open.spotify.com/track/1whdJyi0euy9qjyBG7KVKJ"
+    },
+    {
+      "album": {
+        "name": "WEEDKILLER",
+        "url": "https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126189,
+      "name": "WEEDKILLER",
+      "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"
     },
     {
       "album": {

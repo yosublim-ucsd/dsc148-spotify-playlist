@@ -4,7 +4,7 @@
 
 > C.R.O & Duki en la casa del Trap de Argentino.
 
-188 songs - 9 hr 13 min
+190 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bipolar](https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Bipolar](https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i) | 3:01 | 2022-05-27 | 2023-03-18 |
 | [Bla Bla](https://open.spotify.com/track/3lJVVNEMVTodlhVIi6P1IT) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Bla Bla](https://open.spotify.com/album/2aAmbfScnK7UmJHXW25gi1) | 2:37 | 2022-01-21 | 2022-05-20 |
 | [Blindado](https://open.spotify.com/track/4idht8ED4RPnqC3ZEJz2AQ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Blindado](https://open.spotify.com/album/3ybgfOXXi3uHWHrkNttAJJ) | 2:41 | 2022-01-21 | 2022-05-28 |
+| [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 | 2023-04-07 |  |
 | [BUTAKA REMIX](https://open.spotify.com/track/0zjTkRarpooMGylbCGBWLC) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [BUTAKA REMIX](https://open.spotify.com/album/6vksgfUQK2ChEdMmhJvtAQ) | 4:16 | 2022-01-21 | 2022-11-12 |
 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-01-21 |  |
 | [Cama Vacia](https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cama Vacia](https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe) | 2:52 | 2022-01-21 | 2022-08-06 |
@@ -68,6 +69,7 @@
 | [Frixen](https://open.spotify.com/track/38aRvHQWv2qFBY4BAucb8C) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Frixen](https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6) | 2:35 | 2023-02-10 |  |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 | 2022-07-05 |  |
+| [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 | 2023-04-07 |  |
 | [GELATO](https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [GELATO](https://open.spotify.com/album/0xbDePSBrKFaoYUsTCEjKq) | 3:30 | 2023-03-31 |  |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2022-01-21 |  |

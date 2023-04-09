@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: NMIXX) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 886882,
+  "num_followers": 887494,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyMDQwMCwwMDAwMDAwMGYwNjQ1YTM4NzQ3OTZmOTZiMzIzMzkyZmZmY2U4OWU1",
+  "snapshot_id": "MTY4MDYyMDQwMCwwMDAwMDAwMGQ1YmY4YjVjNjMxMTlhNTI1OWMzY2IwZDJmMjk5MGJk",
   "tracks": [
     {
       "added_at": "2023-04-04 15:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "MIC ON",
-        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "ILLELLA",
-      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
         "name": "Queendom - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "ILLELLA",
+      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
+        "name": "the Billage of perception: chapter three",
+        "url": "https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 203107,
+      "name": "EUNOIA",
+      "url": "https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-04-04 15:00:00",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
-        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 209482,
       "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
       "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"
+    },
+    {
+      "added_at": "2023-04-04 15:00:00",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
     },
     {
       "added_at": "2023-04-04 15:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 178293,
       "name": "Poppy (Korean Ver.)",
       "url": "https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8"
-    },
-    {
-      "added_at": "2023-04-04 15:00:00",
-      "album": {
-        "name": "the Billage of perception: chapter three",
-        "url": "https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 203107,
-      "name": "EUNOIA",
-      "url": "https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N"
     }
   ],
   "unique_name": "EQUAL K-Pop",

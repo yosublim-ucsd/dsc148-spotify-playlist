@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-213 songs - 15 hr 31 min
+214 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 | 2022-07-27 | 2022-07-29 |
 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 | 2022-07-27 |  |
 | [sharp ♯](https://open.spotify.com/track/70VRn9TesY8dkfxNnEOZhY) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/6mlqY4QJsj8XDIstWD7ZwS) | 3:39 | 2022-07-27 | 2022-07-29 |
+| [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-08 |  |
 | [SOLDIER \-哀しみの詩\-](https://open.spotify.com/track/1FVhSxoxYXRs4PMfRpz8BV) | [CHINO](https://open.spotify.com/artist/0XfijNDFFxkYrFz7TqojhZ) | [SOLDIER \-哀しみの詩\-](https://open.spotify.com/album/6afn6rCEdZC8F86HcQUC5H) | 4:15 | 2022-07-27 |  |
 | [STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜](https://open.spotify.com/track/4T81RNowuPk5LNXKAYs6fo) | [川添智久](https://open.spotify.com/artist/14yIpuKNGdFM87fiaKd0RT) | [STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜](https://open.spotify.com/album/5p87iECgoz6gPa8sicNRNe) | 4:35 | 2022-07-27 |  |
 | [StarRingChild](https://open.spotify.com/track/0bdfOQXXLBTTKc66uRoa0i) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5Gi6gsJYzaNA6KTFcalRQw) | 5:28 | 2022-07-27 | 2022-07-29 |

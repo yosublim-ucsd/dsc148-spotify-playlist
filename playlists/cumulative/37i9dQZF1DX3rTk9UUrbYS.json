@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Excerpt from Spectre D'un Songe",
+        "url": "https://open.spotify.com/album/2xCmofdVvMCpcO9GwFSBY8"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Courvoisier",
+          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+        },
+        {
+          "name": "Cory Smythe",
+          "url": "https://open.spotify.com/artist/5UageRpKPwCqXQLs79kXO3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579211,
+      "name": "Excerpt from Spectre d'un songe",
+      "url": "https://open.spotify.com/track/7m2KJDkBZ9KA1P9l3OQeRf"
+    },
+    {
+      "album": {
         "name": "Captain Black",
         "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
       },

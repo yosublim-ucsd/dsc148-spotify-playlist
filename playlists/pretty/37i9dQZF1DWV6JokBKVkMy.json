@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 733,
+  "num_followers": 740,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDA1MmY4MzBlYzIwZDQ1MTIyZWQ4N2E1ZTI1ZmZjMDBk",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDE1ZTliNjZiNGU2ZGQ2YmY2ZWZlOWIwYWQzNDUxYzM3",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Roule a li m\u00eame",
-        "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
-      },
-      "artists": [
-        {
-          "name": "Missty",
-          "url": "https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC"
-        }
-      ],
-      "duration_ms": 226853,
-      "name": "Vilain mani\u00e8re",
-      "url": "https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zoli",
         "url": "https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 316446,
       "name": "Zoli",
       "url": "https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Roule a li m\u00eame",
+        "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
+      },
+      "artists": [
+        {
+          "name": "Missty",
+          "url": "https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC"
+        }
+      ],
+      "duration_ms": 226853,
+      "name": "Vilain mani\u00e8re",
+      "url": "https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sa Pa Zot Traka",
+        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
+      },
+      "artists": [
+        {
+          "name": "Lin",
+          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Sa Pa Zot Traka",
+      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sa Pa Zot Traka",
-        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
-      },
-      "artists": [
-        {
-          "name": "Lin",
-          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Sa Pa Zot Traka",
-      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "Andy Janvier",
-          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
-        }
-      ],
-      "duration_ms": 246766,
-      "name": "Janvier",
-      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Le Roi du s\u00e9ga",
         "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192200,
       "name": "S\u00e9ga Jacquot",
       "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+      },
+      "artists": [
+        {
+          "name": "Andy Janvier",
+          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
+        }
+      ],
+      "duration_ms": 246766,
+      "name": "Janvier",
+      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",

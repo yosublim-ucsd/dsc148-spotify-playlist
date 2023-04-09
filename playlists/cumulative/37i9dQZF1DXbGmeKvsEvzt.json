@@ -172,7 +172,7 @@
     {
       "album": {
         "name": "Redemption",
-        "url": "https://open.spotify.com/album/1KnSrc1CXIjiMmp1BegVa4"
+        "url": "https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H"
       },
       "artists": [
         {
@@ -183,6 +183,24 @@
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194885,
+      "name": "Body to Body #Ycd",
+      "url": "https://open.spotify.com/track/0UF970jvIUBs02GoWDVObi"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/1KnSrc1CXIjiMmp1BegVa4"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
       "duration_ms": 194885,
       "name": "Body to Body #Ycd",
       "url": "https://open.spotify.com/track/0ZhescxCiR4hDgz08jd6fu"

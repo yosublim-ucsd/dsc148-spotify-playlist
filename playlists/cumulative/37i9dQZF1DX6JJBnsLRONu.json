@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Long Cool World",
+        "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316565,
+      "name": "The Nighthawks Are Out",
+      "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
+    },
+    {
+      "album": {
         "name": "Days of Being Wild",
         "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
       },

@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Vicenta
 
-335 songs - 20 hr 22 min
+336 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Acorde Digital](https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Acorde Digital](https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO) | 2:48 | 2022-10-07 | 2023-01-28 |
 | [Actitud](https://open.spotify.com/track/11JRqjddI6Znfd0YIeEgF1) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Actitud](https://open.spotify.com/album/2wkGD4lTmhxNp2hm5yQZzV) | 2:25 | 2022-04-15 | 2022-07-29 |
 | [Adolescencia](https://open.spotify.com/track/7lRwxlvyAkYFgXFiDgcLMZ) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro](https://open.spotify.com/album/2BzXETPGRSHbyV5m1dfpgF) | 3:16 | 2022-04-15 | 2022-07-28 |
-| [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 |  |
+| [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 | 2023-04-09 |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2022-04-15 | 2022-12-10 |
 | [Al Borde del Abismo](https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo) | [Al Borde del Abismo](https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten) | 3:09 | 2022-04-15 | 2023-01-28 |
 | [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 |  |
@@ -167,7 +167,7 @@
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 |  |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 |  |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 |  |
-| [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 |  |
+| [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2023-04-09 |
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-07-15 | 2023-01-28 |
 | [Like](https://open.spotify.com/track/7hB9FRqaIGGIxtz1615Z8A) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Like](https://open.spotify.com/album/1Ts5Ro0AlGvQsUqRRM3z90) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-04-15 | 2022-07-27 |
@@ -193,7 +193,7 @@
 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 |  |
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |
 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 | 2022-08-25 |
-| [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 | 2022-09-02 | 2023-04-06 |
+| [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 | 2022-09-02 |  |
 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2022-12-09 |  |
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-04-15 | 2022-07-27 |
 | [Musical \- Remix](https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Yaguar Beats](https://open.spotify.com/artist/1QWeqTfs4i1yVqYybGHpBP) | [Musical \(Remix\)](https://open.spotify.com/album/0IUzPLNB37oEO7TxIAeUq9) | 3:47 | 2022-07-08 | 2022-07-30 |
@@ -273,6 +273,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-04-15 | 2022-08-27 |
 | [SIN TI](https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM) | [Benji B](https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R) | [SIN TI](https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX) | 2:54 | 2023-03-24 |  |
 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 | 2022-04-15 | 2022-07-29 |
+| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 |  |
 | [Sinfonía](https://open.spotify.com/track/4Jr5xnojFBpqe2e0lnor5A) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Sinfonía](https://open.spotify.com/album/5VeegDgRdju23x1HN6Gy2I) | 3:03 | 2022-04-15 | 2022-07-29 |
 | [Sobre la Profundidad](https://open.spotify.com/track/5FWCG1rDK3X2FPMpzmddxd) | [Matorral](https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd) | [Sobre la Profundidad](https://open.spotify.com/album/2dGiRub4mmXwFzRmp9dwJE) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Solo Solo](https://open.spotify.com/track/16qBTMdJ1aedTCf078l492) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Solo Solo](https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo) | 3:07 | 2022-05-27 | 2023-01-28 |

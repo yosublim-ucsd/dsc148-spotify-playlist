@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2609591,
+  "num_followers": 2610021,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDE0ZDFiYTQ4NGFlYTA0MWM0MjY4ZDM5OWMzNDI0YjE5",
+  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDA0ZTViZTNjMWM3MWY3NDU4NmZlYjg3Y2FjZGZiNmIw",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Fever for da Flavor",
+        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
+      },
+      "artists": [
+        {
+          "name": "H-Town",
+          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+        }
+      ],
+      "duration_ms": 330945,
+      "name": "Knockin' da Boots",
+      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Rufus Featuring Chaka Khan",
@@ -235,22 +251,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Fever for da Flavor",
-        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
-      },
-      "artists": [
-        {
-          "name": "H-Town",
-          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
-        }
-      ],
-      "duration_ms": 330945,
-      "name": "Knockin' da Boots",
-      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "All The Things (Your Man Won't Do)",
-      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Enter The Dru",
         "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 272560,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 380533,
+      "name": "All The Things (Your Man Won't Do)",
+      "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
     },
     {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Gap Band III",
+        "url": "https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 340933,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "If I Ever Fall In Love",
@@ -711,22 +727,6 @@
       "duration_ms": 289693,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Gap Band III",
-        "url": "https://open.spotify.com/album/3L3I4Bjtm23rTstzrYIB49"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 340933,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
     },
     {
       "added_at": "2023-02-02 23:04:07",

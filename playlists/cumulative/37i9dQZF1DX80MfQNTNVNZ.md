@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-362 songs - 21 hr 39 min
+363 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-12-23 |  |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 |  |
 | [4AM](https://open.spotify.com/track/2LLuBYP7bKBvtVo77SndPB) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [4AM](https://open.spotify.com/album/1OGYNltozyJz1dl3YdI9Gg) | 3:03 | 2022-03-24 | 2022-04-16 |
+| [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-06 |  |
 | [Air Power \(feat\. The Kount\)](https://open.spotify.com/track/0m6ehZK0yTw5rLvYXy53ML) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Air Power \(feat\. The Kount\)](https://open.spotify.com/album/2yeVwhR3XVshdhp3ppP3M7) | 3:39 | 2021-12-23 | 2022-04-14 |
 | [Alive](https://open.spotify.com/track/6t9YFN1wrFtfm6py1N6GeK) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Alive](https://open.spotify.com/album/6LF44PFcCZSPxXDodXRfNo) | 3:04 | 2022-04-07 | 2023-04-07 |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/164VgxTozx99XCinCB9ITR) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 4:05 | 2021-12-23 | 2022-09-09 |
@@ -169,7 +170,7 @@
 | [LMKWYGH](https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 6:15 | 2022-08-18 | 2023-01-20 |
 | [Lonely](https://open.spotify.com/track/6upMBb2trQvnIGe8Ho1ZgE) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/7uepmRsBVVSXRvIxSPTtlX) | 3:52 | 2022-03-31 | 2022-04-13 |
 | [Lonely As I Ever Was](https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Lonely As I Ever Was](https://open.spotify.com/album/2zzmIdVneqgcQVkKicolqF) | 3:53 | 2021-12-23 | 2022-07-28 |
-| [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 | 2021-12-23 |  |
+| [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 | 2021-12-23 | 2023-04-09 |
 | [Love you bad \- feat\. YonYon](https://open.spotify.com/track/0vnfqTt8l5qVzCHdVUHleM) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:53 | 2022-03-24 | 2022-06-30 |
 | [Lovestained](https://open.spotify.com/track/5I67IXwHIMi0svzyp7GxUe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 2:55 | 2021-12-23 | 2022-07-25 |
 | [Lucky](https://open.spotify.com/track/1Lc6A4WmjLh6HbBiuoLQk1) | [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Lucky / Someone Like You](https://open.spotify.com/album/5h9LKoeKeOwQshK3cqhlXr) | 4:15 | 2022-03-24 | 2022-04-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 371853,
+  "num_followers": 371935,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMDg1MDU1M2FjMzgxY2Q5ODAxNzUxOTcyOTRmZWZhODll",
+  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMDQzZGI4YWE1MThlZjNhYmRiMDhhZmZkZDhjZjAxZmY3",
   "tracks": [
     {
       "added_at": "2023-04-06 14:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Amman",
         "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -943,6 +943,42 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "Rolling Back (Durante Remix)",
+        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Soldiner",
+        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 346214,
+      "name": "Soldiner",
+      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -963,22 +999,6 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "Soldiner",
-        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 346214,
-      "name": "Soldiner",
-      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Rolling Back (Durante Remix)",
-        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Above the Salt",
         "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 226690,
       "name": "Above the Salt",
       "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "A Quiet Voice",
+        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 282812,
+      "name": "A Quiet Voice",
+      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "Colorblind (WhoMadeWho Remix)",
         "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
       },
@@ -1195,22 +1215,26 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+        "name": "Protocol",
+        "url": "https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Able Joseph",
+          "url": "https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+      "duration_ms": 255582,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/02owX0PUSKGXw4tMPaUw56"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1243,22 +1267,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Hey Papi",
-        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 158859,
-      "name": "Hey Papi - Edit",
-      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -1275,38 +1283,38 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Don\u2019t Get Too Close",
-        "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
+        "name": "Hey Papi",
+        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Don\u2019t Get Too Close",
-      "url": "https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y"
+      "duration_ms": 158859,
+      "name": "Hey Papi - Edit",
+      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
     },
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "N i g h t D r i v e \u30b9\u30b1\u30e9\u30fc",
-        "url": "https://open.spotify.com/album/5Vk1caKy6OIgM2uOVeokLJ"
+        "name": "Fade Into Black",
+        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
       },
       "artists": [
         {
-          "name": "Skeler",
-          "url": "https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/6vcTsbj5hBMXmPDHze27N1"
+      "duration_ms": 244878,
+      "name": "Fade Into Black",
+      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
     }
   ],
   "unique_name": "Just Chill",

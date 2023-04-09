@@ -2,7 +2,7 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Gusi
+> Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
 295 songs - 18 hr 29 min
 

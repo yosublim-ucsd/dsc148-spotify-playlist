@@ -1,13 +1,33 @@
 {
-  "description": "Instrumental guitar shreddery. Cover: Covet",
-  "num_followers": 117530,
+  "description": "Instrumental guitar shreddery. Cover: Angel Vivaldi",
+  "num_followers": 117706,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDk2OTc4NmUwMzg1YjczNTZkMTU2MGQ2MjI5ZGMwOWEy",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGRjNzRlMzFmYzFmMDRhNTQ5OGZhZjNmN2QyNzczZTVh",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Away With Words, Pt.2",
+        "url": "https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN"
+      },
+      "artists": [
+        {
+          "name": "Angel Vivaldi",
+          "url": "https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK"
+        },
+        {
+          "name": "NovaGina",
+          "url": "https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B"
+        }
+      ],
+      "duration_ms": 197367,
+      "name": "Nine (feat. NovaGina)",
+      "url": "https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi"
+    },
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
@@ -91,6 +111,26 @@
       "duration_ms": 350085,
       "name": "Ego Death (feat. Steve Vai)",
       "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Never 4' Ever",
+        "url": "https://open.spotify.com/album/2pSUGZhWuX5ZILNGcIwklB"
+      },
+      "artists": [
+        {
+          "name": "Yannis Karalis",
+          "url": "https://open.spotify.com/artist/2N95xJrQfxdzzVI0P8rmew"
+        },
+        {
+          "name": "Michaelangelo Niarchos",
+          "url": "https://open.spotify.com/artist/0E2JWV6JOuloRzJB0MWLME"
+        }
+      ],
+      "duration_ms": 247088,
+      "name": "Never 4' Ever",
+      "url": "https://open.spotify.com/track/1rEuL0pumpLC69dTOWbYFd"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -1663,26 +1703,6 @@
       "duration_ms": 354974,
       "name": "Journey Through",
       "url": "https://open.spotify.com/track/2ht5zHY5EJYjNdvwLQpkz0"
-    },
-    {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "The Striped Album",
-        "url": "https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 234896,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/0WtuYPDKBMnvwumPKWkorN"
     },
     {
       "added_at": "2021-05-04 18:30:17",

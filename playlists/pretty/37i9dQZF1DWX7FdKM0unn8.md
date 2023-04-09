@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,831 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,909 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [사랑하기 때문에](https://open.spotify.com/track/0I9vXVUpijjek2ULH4UUJw) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [사랑하기 때문에](https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm) | 6:20 |
 | 2 | [너무 아픈 사랑은 사랑이 아니었음을](https://open.spotify.com/track/42cwRiFR25LYJG6CCsjWo9) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 6:19 |
 | 3 | [비처럼 음악처럼](https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:37 |
-| 4 | [나 항상 그대를](https://open.spotify.com/track/5PSj7PGrGLASjPkdOL318I) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [나 항상 그대를](https://open.spotify.com/album/3HoiIlaN0TJEWKA2rhy3rX) | 3:36 |
+| 4 | [나 항상 그대를](https://open.spotify.com/track/3M0WcSADmchmaHOpTu3E2q) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 3:36 |
 | 5 | [너의 의미](https://open.spotify.com/track/49uWXkinbydcksyObKqNVH) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 제10집 \- 너의 의미](https://open.spotify.com/album/5B9oqFQy4vx5k03d8Y7nzl) | 3:44 |
 | 6 | [슬픈 인연 Original Version](https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk) | [나미](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [A Long Winter](https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy) | 4:34 |
 | 7 | [당신은 모르실꺼야](https://open.spotify.com/track/51TasCMfQcoYiRvquIpF1S) | [혜은이](https://open.spotify.com/artist/0wpePehw25BtABst49wTMa) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao) | 3:16 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMDg0ZTA2MzRjOGUzMGI3NTQ5OTc5N2JhYzJiNzc0MGM5`
+Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMGQzNTVlMzM3M2NiNjk5YmZjYmFiOWM1ZDgwZDY0ZmM2`

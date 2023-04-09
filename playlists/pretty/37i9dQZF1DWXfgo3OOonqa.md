@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,022 likes - 85 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,177 likes - 85 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ) | 3:37 |
+| 1 | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ) | 3:38 |
 | 2 | [Ella mai](https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Ella mai](https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe) | 3:15 |
 | 3 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 |
 | 4 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 |

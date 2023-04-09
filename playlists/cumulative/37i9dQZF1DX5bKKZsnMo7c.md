@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-222 songs - 12 hr 13 min
+223 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 | 2022-05-17 |  |
 | [Miss Rhode Island](https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN) | [Elizabeth Gerardi](https://open.spotify.com/artist/01VYmP8UHNPe52WfMgsb4n) | [Miss Rhode Island](https://open.spotify.com/album/5CGv2NNFJPOqrtzT73eRL1) | 2:48 | 2022-06-24 | 2022-08-06 |
 | [mold](https://open.spotify.com/track/5qH0wXpyaWpXl0bn9gUK81) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [mold](https://open.spotify.com/album/6WwFcQVjSQQE4QUFttiB8P) | 4:03 | 2022-07-22 | 2022-11-19 |
-| [Money Machine](https://open.spotify.com/track/1XklKTFOPBXFpObBUYJnWb) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Live](https://open.spotify.com/album/6jrhLfqaMqnlGtegIoqVF7) | 3:15 | 2023-03-16 |  |
+| [Money Machine](https://open.spotify.com/track/1XklKTFOPBXFpObBUYJnWb) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Live](https://open.spotify.com/album/6jrhLfqaMqnlGtegIoqVF7) | 3:15 | 2023-03-16 | 2023-04-09 |
+| [Money Machine](https://open.spotify.com/track/1lcRKgU8mtBZTXq0sGUAzy) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Live](https://open.spotify.com/album/6sJitLH2ax5esRm7qA19vT) | 3:15 | 2023-03-16 |  |
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-05-17 |  |
 | [My R](https://open.spotify.com/track/4Li4x03VzGLRZW5B6hv0Xt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [My R](https://open.spotify.com/album/7HbKsuGxSH4WsAK3vIaPec) | 3:34 | 2022-06-07 | 2022-12-10 |
 | [My Time](https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP) | [bo en](https://open.spotify.com/artist/1EotkJocwHvhFOAsoOj1jJ) | [Pale Machine](https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu) | 5:13 | 2022-05-17 | 2022-06-25 |

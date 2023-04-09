@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 183056,
       "name": "Amantes Astrales",
       "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 190806,
       "name": "Para Hacernos Bien",
       "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
@@ -3134,6 +3134,28 @@
       "duration_ms": 167361,
       "name": "pizza",
       "url": "https://open.spotify.com/track/7rvKogufniHwoxQIgdcGde"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/0iyNfA2HmU9EmdXay16qvn"
+      },
+      "artists": [
+        {
+          "name": "FRNCE",
+          "url": "https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f"
+        },
+        {
+          "name": "T\u00c9P\u00daRPURA",
+          "url": "https://open.spotify.com/artist/4dYCpuND1Me98DuW9U0gjl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221344,
+      "name": "Poder",
+      "url": "https://open.spotify.com/track/5Et9S2tHzF6OQNVR3QyqMk"
     },
     {
       "album": {
@@ -3786,6 +3808,24 @@
       "duration_ms": 193168,
       "name": "Taba",
       "url": "https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda El\u00edo",
+          "url": "https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144116,
+      "name": "Te quiero ver",
+      "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
     },
     {
       "album": {

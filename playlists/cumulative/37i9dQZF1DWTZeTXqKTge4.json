@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/1LppY42rL5Y6LmNJ0evHez"
+      },
+      "artists": [
+        {
+          "name": "JMB Drippy",
+          "url": "https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "4AMINRDP",
+      "url": "https://open.spotify.com/track/2c0er12peuMMb9bol1Ktig"
+    },
+    {
+      "album": {
         "name": "5 Boutes",
         "url": "https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP"
       },
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 120368,
       "name": "Dehors",
       "url": "https://open.spotify.com/track/1GsemtxnOpIyhbqCUZ8INy"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 191812,
       "name": "Dunk On 'Em",
       "url": "https://open.spotify.com/track/0u4Q7fpXtrTAHTPYCKcoIA"
@@ -2620,6 +2638,24 @@
       "duration_ms": 172800,
       "name": "D\u00e9g\u00e2ts",
       "url": "https://open.spotify.com/track/2S50lBTEBC34nmqir5xOtv"
+    },
+    {
+      "album": {
+        "name": "Mort Pour Moi",
+        "url": "https://open.spotify.com/album/3PXJLrqBJwJt834HuaqBpP"
+      },
+      "artists": [
+        {
+          "name": "Dirty S",
+          "url": "https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191948,
+      "name": "D\u00e9\u00e7u",
+      "url": "https://open.spotify.com/track/5oLKUybX4AmzfGk0WLBXaF"
     },
     {
       "album": {
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 213781,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA"
@@ -4238,6 +4274,24 @@
       "duration_ms": 148732,
       "name": "Le r\u00e9el",
       "url": "https://open.spotify.com/track/5d68x1WwPsdImQQ3TXbwYv"
+    },
+    {
+      "album": {
+        "name": "Le vide",
+        "url": "https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229973,
+      "name": "Le vide",
+      "url": "https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI"
     },
     {
       "album": {
@@ -5219,6 +5273,28 @@
     },
     {
       "album": {
+        "name": "On Est Bless",
+        "url": "https://open.spotify.com/album/6zPmBVNYwgJQi2NMh9wmak"
+      },
+      "artists": [
+        {
+          "name": "Yulpronos",
+          "url": "https://open.spotify.com/artist/1YmzSlfT5rrEeWMA7raiAQ"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109776,
+      "name": "On Est Bless",
+      "url": "https://open.spotify.com/track/1qlFKIEznb6aCKtGTSBDN6"
+    },
+    {
+      "album": {
         "name": "Zayon",
         "url": "https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY"
       },
@@ -5406,7 +5482,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 144031,
       "name": "Paniquer",
       "url": "https://open.spotify.com/track/7fOSy5JIRzf3VFMtReUxSW"
@@ -6911,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "Tour de Piste",
+        "url": "https://open.spotify.com/album/5xZmN73bdOUrl79C6MOM1g"
+      },
+      "artists": [
+        {
+          "name": "Jam Khalil",
+          "url": "https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129266,
+      "name": "Tour de Piste",
+      "url": "https://open.spotify.com/track/0IxArEbwRpBYcwNg1hy3H0"
+    },
+    {
+      "album": {
         "name": "Trente-trois",
         "url": "https://open.spotify.com/album/0PqDN5YIGonbe7XyHl1Bky"
       },
@@ -7242,7 +7336,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 233571,
       "name": "Valid\u00e9",
       "url": "https://open.spotify.com/track/7qABSVRa8kvEdgeMuI5Oaa"
@@ -7260,7 +7354,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 225007,
       "name": "Vertige",
       "url": "https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy"
@@ -7514,6 +7608,28 @@
       "duration_ms": 210434,
       "name": "Zayon",
       "url": "https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE"
+    },
+    {
+      "album": {
+        "name": "zzz",
+        "url": "https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        },
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"
     },
     {
       "album": {

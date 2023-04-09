@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,858,883 likes - 270 songs - 12 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,861,740 likes - 270 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

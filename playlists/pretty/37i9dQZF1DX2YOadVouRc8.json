@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11686,
+  "num_followers": 11730,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDliZjYzZjU2ZTRjYTk4NzYzODM3ODI4ZGVlMzdiM2U2",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGRhY2IyY2JlMGYxNTU2NDViOWNkZDNiZWZhN2I4NWFh",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "FOR MY BABY",
+        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "FOR MY BABY",
+      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 188823,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "FOR MY BABY",
-        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "FOR MY BABY",
-      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Stuck (Your Heart)",
         "url": "https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 250488,
       "name": "Stuck (Your Heart)",
       "url": "https://open.spotify.com/track/6v1MYdTTNt0mJNZ6NEDnQ6"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
-      },
-      "artists": [
-        {
-          "name": "Naomi Achu",
-          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Heart Of The Heavenly Undeniable (HOTHU)",
         "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 133392,
       "name": "I Saw An Angel On The Roof & Wept",
       "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P"
+      },
+      "artists": [
+        {
+          "name": "H.O.M.A",
+          "url": "https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc"
+        }
+      ],
+      "duration_ms": 167992,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
       },
@@ -1411,6 +1427,26 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 187424,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Crayons",
         "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
       },
@@ -1423,22 +1459,6 @@
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P"
-      },
-      "artists": [
-        {
-          "name": "H.O.M.A",
-          "url": "https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc"
-        }
-      ],
-      "duration_ms": 167992,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1463,26 +1483,6 @@
       "duration_ms": 130666,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 187424,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
     },
     {
       "added_at": "2023-03-30 23:00:00",

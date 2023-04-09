@@ -4,11 +4,11 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Son Mieux
 
-140 songs - 8 hr 5 min
+141 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1000 Reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 Reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 |  |
+| [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 |  |
 | [1989](https://open.spotify.com/track/2LJSRQW2w3u2vbi9S6qJr5) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [1989](https://open.spotify.com/album/1a8HpWgvArprdjGViNrQEr) | 5:05 | 2023-02-23 |  |
 | [90s Kid](https://open.spotify.com/track/3JgcOUpDmbU5lguxvxKfKG) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [90s Kid](https://open.spotify.com/album/1THYYuaXwWyZsdgybQ6bCD) | 3:19 | 2023-02-23 | 2023-03-10 |
 | [A Fool](https://open.spotify.com/track/0yup5kApYOD1UANw4hgJrt) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [A Fool](https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh) | 3:32 | 2023-04-06 |  |
@@ -145,8 +145,9 @@
 | [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-23 |  |
 | [Wiser](https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S) | [PYRO](https://open.spotify.com/artist/1lgKBSJSuiEvyoiDwpRBFb) | [Wiser](https://open.spotify.com/album/1a7cqum0P2qEedF3Z1kwkL) | 3:35 | 2023-02-23 | 2023-03-10 |
+| [You Are You](https://open.spotify.com/track/2gsqXY6cxyCAJ7TiM3oyxW) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 2:58 | 2023-04-06 |  |
 | [You Are You](https://open.spotify.com/track/5v4NehPFLOhNRdK9T463Ux) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are You](https://open.spotify.com/album/5Fj9XdRrQutK1HfVKFXBPf) | 2:58 | 2023-03-24 | 2023-04-02 |
-| [You Are You](https://open.spotify.com/track/6f7zE48DUi32fhJnND4caO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 2:58 | 2023-03-30 |  |
+| [You Are You](https://open.spotify.com/track/6f7zE48DUi32fhJnND4caO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 2:58 | 2023-03-30 | 2023-04-09 |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-02-23 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

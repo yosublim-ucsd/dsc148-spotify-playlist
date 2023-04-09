@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,812 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,014 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 29 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 |
 | 30 | [Dil To Pagal Hai](https://open.spotify.com/track/5itw0WzsobhLXyxUuAj8OQ) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 5:36 |
 | 31 | [Safar](https://open.spotify.com/track/3BpaZLc6j9cBUsvnh5kinR) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 6:05 |
-| 32 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
-| 33 | [Yun Hi Chala Chal](https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Swades](https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW) | 7:26 |
+| 32 | [Yun Hi Chala Chal](https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Swades](https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW) | 7:26 |
+| 33 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
 | 34 | [Baadshah O Baadshah](https://open.spotify.com/track/57V7Fo4iocHEMJcf7Upt0M) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Baadshah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA) | 6:39 |
 | 35 | [Sajdaa](https://open.spotify.com/track/395gJWcJQK0C3GJfHAn7f6) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:05 |
 | 36 | [Are Re Are](https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 5:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 59 | [O Re Kanchi](https://open.spotify.com/track/4ViWr3p2fbaLBcejEgxNbb) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Sunita Rao](https://open.spotify.com/artist/4Z7fgPg7xFjaIVunM0ANF2) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:37 |
 | 60 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 |
 
-Snapshot ID: `MTY3OTAzNDgxNiwwMDAwMDAwMDYyN2FmN2EzNWMzNmM1NDU0ZjZkYTZjNjU5Y2E4YWI2`
+Snapshot ID: `MTY3OTAzNDgxNiwwMDAwMDAwMGZjYmFhZTg0MjU2YmRiM2I4NDM2MjlkOTlmYjIwZWMw`

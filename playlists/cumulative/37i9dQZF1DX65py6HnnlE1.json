@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "La Quiero y Es Ajena",
+      "url": "https://open.spotify.com/track/3vlG0VhDV0DU4P9kMHKyyZ"
+    },
+    {
+      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 179680,
       "name": "No Le Pare",
       "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"

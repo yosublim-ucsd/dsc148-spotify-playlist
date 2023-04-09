@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Irene del Rosario",
-  "num_followers": 503238,
+  "num_followers": 503270,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NTg2NiwwMDAwMDAwMDc5ZjAwZDg0MTFhMDE0ZTNiYzQzOWFhNjU2OGY5Yzk4",
+  "snapshot_id": "MTY4MDg5OTQxNSwwMDAwMDAwMDRkMDdhYTZjYTc0ZWExYjQ1ZjA2MDhhMDQzOGNjZjkz",
   "tracks": [
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "El Chico Aquel",
         "url": "https://open.spotify.com/album/2qcqsiuYR9K2JVfPfpkcgd"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3AiXSswmE5CCsFN8brUd92"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
@@ -45,7 +45,39 @@
       "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 159387,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Me Siento Libre (En Vivo)",
+        "url": "https://open.spotify.com/album/0Z3D0zDT21or5NFSFNBFBm"
+      },
+      "artists": [
+        {
+          "name": "Gaby Romero",
+          "url": "https://open.spotify.com/artist/1LWE6vCfCcdzmBLJ8aTkKy"
+        }
+      ],
+      "duration_ms": 147896,
+      "name": "Me Siento Libre - En Vivo",
+      "url": "https://open.spotify.com/track/227vbjK2tlAOl76wNwLzl9"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
@@ -65,23 +97,23 @@
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
-        "name": "Me Siento Libre (En Vivo)",
-        "url": "https://open.spotify.com/album/0Z3D0zDT21or5NFSFNBFBm"
+        "name": "Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
       },
       "artists": [
         {
-          "name": "Gaby Romero",
-          "url": "https://open.spotify.com/artist/1LWE6vCfCcdzmBLJ8aTkKy"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 147896,
-      "name": "Me Siento Libre - En Vivo",
-      "url": "https://open.spotify.com/track/227vbjK2tlAOl76wNwLzl9"
+      "duration_ms": 163840,
+      "name": "Ismael (En Vivo)",
+      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
@@ -101,39 +133,7 @@
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Ismael (En Vivo)",
-        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Ismael (En Vivo)",
-      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "En Mil Cosas (En Vivo)",
         "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
@@ -149,23 +149,23 @@
       "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 244642,
-      "name": "Ahi\u0301 Donde Me Ven",
-      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
@@ -181,23 +181,23 @@
       "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Porque Soy Abeja Reina",
         "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
@@ -229,7 +229,23 @@
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "La Misma Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Dije",
         "url": "https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
         "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
@@ -329,23 +345,7 @@
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Reza y Reza",
         "url": "https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824"
@@ -361,7 +361,23 @@
       "url": "https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Ese es el problema",
         "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Que Vuelvas / Bebe Dame",
         "url": "https://open.spotify.com/album/4QCle6zCruK9W630FupUSX"
@@ -393,23 +409,7 @@
       "url": "https://open.spotify.com/track/2XrOorKhvt1a1Ed9cSegMu"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "As\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 191028,
-      "name": "As\u00ed Nom\u00e1s",
-      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "La Chacalosa",
         "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
@@ -445,7 +445,23 @@
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "As\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 191028,
+      "name": "As\u00ed Nom\u00e1s",
+      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Triste Recuerdo",
         "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "8-MER",
         "url": "https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Besarte As\u00ed",
         "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN"
@@ -525,23 +541,7 @@
       "url": "https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Un Amor en el Olvido",
-        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Un Amor en el Olvido",
-      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "No Me Lamentare",
         "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
@@ -557,7 +557,23 @@
       "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Un Amor en el Olvido",
+        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Un Amor en el Olvido",
+      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Sangre De Gorilla",
         "url": "https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM"
@@ -573,23 +589,7 @@
       "url": "https://open.spotify.com/track/3pfkSqEtTtNvhxBVK79wZD"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
-        }
-      ],
-      "duration_ms": 117429,
-      "name": "Soy Mala",
-      "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Te fallaste a ti",
         "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
@@ -609,7 +609,23 @@
       "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "duration_ms": 117429,
+      "name": "Soy Mala",
+      "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "JGL (En Vivo)",
         "url": "https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Ni El Dinero Ni Nada (En Vivo)",
         "url": "https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
@@ -657,39 +673,7 @@
       "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Te Me Sigues Antojando",
-        "url": "https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Te Me Sigues Antojando",
-      "url": "https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Pa' Nosotras 8M",
-        "url": "https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Muy Buena o Est\u00fapida",
-      "url": "https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
@@ -705,23 +689,39 @@
       "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
-        "name": "Se Me Olvid\u00f3 Otra Vez",
-        "url": "https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f"
+        "name": "Te Me Sigues Antojando",
+        "url": "https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G"
+      "duration_ms": 185360,
+      "name": "Te Me Sigues Antojando",
+      "url": "https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Pa' Nosotras 8M",
+        "url": "https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Muy Buena o Est\u00fapida",
+      "url": "https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Pa' Dentro",
         "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
@@ -737,7 +737,23 @@
       "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Se Me Olvid\u00f3 Otra Vez",
+        "url": "https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Cu\u00e9ntenle Mentiras",
         "url": "https://open.spotify.com/album/6m4R2BnUW9uB13VAv30eOY"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "G. Blanco",
         "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "En Carne Viva",
         "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Por Confiar En El Amor",
         "url": "https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6"
@@ -825,23 +841,7 @@
       "url": "https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Fayer",
-        "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 184911,
-      "name": "Fayer",
-      "url": "https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
@@ -857,7 +857,23 @@
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Fayer",
+        "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 184911,
+      "name": "Fayer",
+      "url": "https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Soy Mala",
         "url": "https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "La Mesa Del Rinc\u00f3n",
         "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Porque tengo ganas",
         "url": "https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Vanessa Guillen",
         "url": "https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "En Peligro De Extinci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Ya Tengo Con Quien",
         "url": "https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU"
@@ -957,23 +973,7 @@
       "url": "https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
-      "album": {
-        "name": "Pi\u00e9nsalo",
-        "url": "https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl"
-      },
-      "artists": [
-        {
-          "name": "Tania Mondragon",
-          "url": "https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL"
-        }
-      ],
-      "duration_ms": 123834,
-      "name": "Pi\u00e9nsalo",
-      "url": "https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY"
-    },
-    {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Uno de los Buenos",
         "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
@@ -989,7 +989,23 @@
       "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
     },
     {
-      "added_at": "2023-03-31 15:17:46",
+      "added_at": "2023-04-07 20:30:14",
+      "album": {
+        "name": "Pi\u00e9nsalo",
+        "url": "https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl"
+      },
+      "artists": [
+        {
+          "name": "Tania Mondragon",
+          "url": "https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL"
+        }
+      ],
+      "duration_ms": 123834,
+      "name": "Pi\u00e9nsalo",
+      "url": "https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY"
+    },
+    {
+      "added_at": "2023-04-07 20:30:14",
       "album": {
         "name": "Desamor (Medley)",
         "url": "https://open.spotify.com/album/5eobty6ORu74MLDLLpQFMz"

@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 266614,
       "name": "2001",
       "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
@@ -786,7 +786,7 @@
           "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "date_added": "2023-04-02",
+      "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204364,
@@ -2631,6 +2631,32 @@
     },
     {
       "album": {
+        "name": "GEEK OUT!",
+        "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        },
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        },
+        {
+          "name": "The Breathing Effect",
+          "url": "https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "GEEK OUT!",
+      "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
@@ -3494,7 +3520,7 @@
           "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "date_added": "2023-04-01",
+      "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213622,
@@ -4970,7 +4996,7 @@
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "date_added": "2023-04-06",
+      "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185013,

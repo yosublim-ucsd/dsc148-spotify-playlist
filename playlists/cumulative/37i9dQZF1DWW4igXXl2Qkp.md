@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BlakeIANA
 
-710 songs - 1 day 7 hr 9 min
+711 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Jackie Chan](https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Jackie Chan](https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3) | 1:52 | 2023-03-29 |  |
 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 | 2023-02-15 |  |
 | [Jet Lag](https://open.spotify.com/track/48bX1EGF4U7viuyRmoHmdI) | [Squalla](https://open.spotify.com/artist/6K2OIj5Zjagg9rmHIL7FCD) | [Jet Lag](https://open.spotify.com/album/71cbgvGM8UuYarh9NJvxS1) | 2:58 | 2021-12-01 | 2022-01-14 |
-| [Jezus](https://open.spotify.com/track/05wARYu1q6uUQKVxIiibct) | [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE), [EAGZ580](https://open.spotify.com/artist/5HjiUevkVoIYCQ4Zcebnzl) | [Jezus](https://open.spotify.com/album/37BmeHaTqYeCKDCfDeU12o) | 2:04 | 2023-02-22 |  |
+| [Jezus](https://open.spotify.com/track/05wARYu1q6uUQKVxIiibct) | [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE), [EAGZ580](https://open.spotify.com/artist/5HjiUevkVoIYCQ4Zcebnzl) | [Jezus](https://open.spotify.com/album/37BmeHaTqYeCKDCfDeU12o) | 2:04 | 2023-02-22 | 2023-04-09 |
+| [Jezus](https://open.spotify.com/track/1b5b0x3gLg8cJ52EOVIxv5) | [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE), [EAGZ580](https://open.spotify.com/artist/5HjiUevkVoIYCQ4Zcebnzl) | [Jezus](https://open.spotify.com/album/10xeN58pX8Xj9t2waC6lJp) | 2:04 | 2023-02-22 |  |
 | [July!](https://open.spotify.com/track/6cvMsuvXWdYujR9xN5qbUz) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [July!](https://open.spotify.com/album/28VPe39kQYOWGr1c69ixhu) | 1:30 | 2022-02-10 | 2022-03-10 |
 | [JULY!](https://open.spotify.com/track/19AXZT23r5dBDOE1J2NnY6) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [JULY!](https://open.spotify.com/album/5CJPh7CKwCy1Q7lfhZR9sd) | 1:31 | 2022-11-30 | 2023-01-12 |
 | [Jump](https://open.spotify.com/track/08Wt1yyjZXDdjU3PqyuY2C) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [Jump](https://open.spotify.com/album/6SLOO6c1YSPeU9xkWsmNJR) | 2:30 | 2022-10-05 | 2022-12-01 |

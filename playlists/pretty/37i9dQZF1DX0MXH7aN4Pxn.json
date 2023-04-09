@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687496,
+  "num_followers": 687565,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMDM3NDBjNTViZjg4ZTkyNTk2NWU3NDQ5YzFiZGIyNTFk",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMGE4MzUwM2UwNGM0ZDRhZmI0ODc4N2MzMjZjYTVmNWFj",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Out Of Nowhere",
-        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
-      },
-      "artists": [
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        },
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Giant (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 229184,
       "name": "Giant (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 190955,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+      },
+      "artists": [
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -895,6 +895,26 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -943,26 +963,6 @@
       "duration_ms": 186727,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 196109,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "We Come 1",
-        "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
-      },
-      "artists": [
-        {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        },
-        {
-          "name": "Distorted Dreams",
-          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "We Come 1",
-      "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -1415,18 +1395,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "I Don\u2019t Wanna Know",
-        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
+        "name": "We Come 1",
+        "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
       },
       "artists": [
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Distorted Dreams",
+          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
         }
       ],
-      "duration_ms": 165093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
+      "duration_ms": 178285,
+      "name": "We Come 1",
+      "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Just Feels Tight",
-        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
+        "name": "I Don\u2019t Wanna Know",
+        "url": "https://open.spotify.com/album/5tnwqNjGJpYhDOCwQ5EQP0"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
         }
       ],
-      "duration_ms": 197977,
-      "name": "Just Feels Tight",
-      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
+      "duration_ms": 165093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/3gF8IZu75GhdYD4w7AFZi0"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1479,6 +1463,22 @@
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Just Feels Tight",
+        "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Just Feels Tight",
+      "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 168201,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 168201,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
     },
     {
       "added_at": "2022-12-31 15:51:36",

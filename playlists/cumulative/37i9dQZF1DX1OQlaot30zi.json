@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 121944,
       "name": "ALL BLACK",
       "url": "https://open.spotify.com/track/6nA4OpYGJueT3aBsC9JqlC"
@@ -13016,7 +13016,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 146503,
       "name": "GOTTA KEEP IT A HUNNID",
       "url": "https://open.spotify.com/track/2yJCaie2aqGULgfNuYEbC0"
@@ -13226,6 +13226,24 @@
       "duration_ms": 174008,
       "name": "Guagliune Sfurtunate",
       "url": "https://open.spotify.com/track/3tzNF9kVhgxXk1FfwSQUWF"
+    },
+    {
+      "album": {
+        "name": "Guai",
+        "url": "https://open.spotify.com/album/77p5ovWZ1yMCjkYYLPnGel"
+      },
+      "artists": [
+        {
+          "name": "Masta Rais",
+          "url": "https://open.spotify.com/artist/5Bj2x6Ly5Ma3roaWVTrAma"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179797,
+      "name": "Guai",
+      "url": "https://open.spotify.com/track/0Eui5zYATuwmv29RxQTXdA"
     },
     {
       "album": {

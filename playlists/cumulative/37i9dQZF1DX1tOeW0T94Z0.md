@@ -2,7 +2,7 @@
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Kreesha Turner
 
 131 songs - 8 hr 35 min
 

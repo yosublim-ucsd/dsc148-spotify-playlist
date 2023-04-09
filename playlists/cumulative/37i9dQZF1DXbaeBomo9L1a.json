@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -1054,6 +1072,24 @@
       "duration_ms": 246442,
       "name": "LQRA Session #11",
       "url": "https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb"
+    },
+    {
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "album": {
@@ -1377,6 +1413,32 @@
     },
     {
       "album": {
+        "name": "RIKII 2",
+        "url": "https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c"
+      },
+      "artists": [
+        {
+          "name": "Rk Sensation",
+          "url": "https://open.spotify.com/artist/2jEgUhp8qDy6EH5yZ3nadk"
+        },
+        {
+          "name": "Montserrat Alay",
+          "url": "https://open.spotify.com/artist/105u1BUf8wMzV48Ju6Ixae"
+        },
+        {
+          "name": "Neithan",
+          "url": "https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264834,
+      "name": "Si No Eres T\u00fa? - Remix",
+      "url": "https://open.spotify.com/track/5akPAaHUlKCXdGwncvMlK2"
+    },
+    {
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -1596,6 +1658,28 @@
       "duration_ms": 161500,
       "name": "WM (Wifey Material)",
       "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
+    },
+    {
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103520,
+      "name": "X Tu Casa",
+      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
     },
     {
       "album": {

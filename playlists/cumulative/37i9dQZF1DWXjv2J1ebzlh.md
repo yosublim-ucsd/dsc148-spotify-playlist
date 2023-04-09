@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,915 songs - 5 day 8 hr 50 min
+1,916 songs - 5 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 | 2022-06-09 |  |
 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/1yAXD9x09EhJHlq2qQCyuD) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping Us Now / Chapter Three](https://open.spotify.com/album/5rIjiIXVzF7xqWYLZtbpZY) | 6:11 | 2022-07-27 |  |
 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/79UEK0XYemip32SdLdAegB) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping us Now & Chapter Three](https://open.spotify.com/album/4JDARvfHaSYTE5mUBxDIgH) | 6:11 | 2022-06-09 | 2022-07-29 |
+| [Ain't No Sunshine](https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Trojan Soul Reggae Vol\. 1](https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX) | 2:14 | 2023-03-17 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/6ICYsILYG5nyNdQuG8EuJQ) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Feel Good All Over: Anthology 1970\-1976](https://open.spotify.com/album/7FhbsHNTfBc0FdGMo0ILQC) | 2:14 | 2022-07-12 | 2022-07-29 |
-| [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 | 2022-07-27 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 | 2022-07-27 | 2023-04-09 |
 | [Ain't No Sunshine](https://open.spotify.com/track/4uEVSicqWTP9BV03nT7QdB) | [Sivuca](https://open.spotify.com/artist/11L2rdluUfcxyWcX2feoCm) | [Sivuca](https://open.spotify.com/album/17NZWLPWY3TFp8BQqKyK4B) | 4:49 | 2022-06-09 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/2dcFp5BKSHTbzoyJd0MdRk) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 3:33 | 2022-06-09 |  |
 | [Aisi Chaal Mein Chalon](https://open.spotify.com/track/0p9NvfotJjKV4MZwhyoWkP) | [Nisar Bazmi](https://open.spotify.com/artist/4JRIUIuyjvhkGS0BkFTrYs) | [A Touch Of Class \- Nisar Bazmi Instrumental](https://open.spotify.com/album/1e6UWDIZFAlsyWTRVDFo9l) | 3:35 | 2022-07-12 |  |
@@ -1428,7 +1429,7 @@
 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 | 2022-06-09 |  |
 | [Pienso En Ti](https://open.spotify.com/track/3JWvrmokQ2VUYqW1IUMDaH) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Pienso En Ti](https://open.spotify.com/album/373DEHk5WPJkSV2tqGw9xc) | 2:34 | 2022-06-09 | 2023-03-25 |
 | [Pienso en Ti](https://open.spotify.com/track/5MTqGnSwYu60DcBOSmAXka) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Pienso en Ti](https://open.spotify.com/album/7l4bjoSXFSkUVtJZONiosI) | 2:34 | 2023-03-17 |  |
-| [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 | 2022-06-09 |  |
+| [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surfboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 | 2022-06-09 |  |
 | [Pitchito](https://open.spotify.com/track/08p72zHGG4lSMXlljziGxx) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Pitchito / Ananas Tornillo](https://open.spotify.com/album/2GnwyKQEU1e1VzQ70jJmAT) | 4:05 | 2022-06-09 |  |
 | [Piya Tu Ab To Aaja](https://open.spotify.com/track/42ZzD15Cukv9MwSuNSAcjn) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Caravan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cQLF08KjM9FAxGHKIkxs6) | 5:26 | 2022-06-09 |  |
 | [Ponchito de Colores](https://open.spotify.com/track/6INMHk5ysfDW9uWbqP6wKW) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [16 Exitos Bailables](https://open.spotify.com/album/4u7k1pMhfvvSBBjNMMX7x9) | 2:42 | 2022-06-09 |  |

@@ -4985,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "Sdot Go - WNA",
+        "url": "https://open.spotify.com/album/2SCd2rfr1TaH0SO7ew9sbG"
+      },
+      "artists": [
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139343,
+      "name": "Sdot Go - WNA",
+      "url": "https://open.spotify.com/track/2mNcQnrHoGyM7QmzA6oEqt"
+    },
+    {
+      "album": {
         "name": "See Red",
         "url": "https://open.spotify.com/album/6czePQabCT1KxJznPxKPBI"
       },
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 139344,
       "name": "WNA",
       "url": "https://open.spotify.com/track/0QlvprQJkt1hOIgfeaAfgj"

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Kommand
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Buggin
 
-371 songs - 23 hr 54 min
+377 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,11 @@
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-03 |  |
 | [A Love Letter](https://open.spotify.com/track/00tjbl5vqZ1STRSkj0PJ6R) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [A Love Letter](https://open.spotify.com/album/0I8Yv6gRPKHeRZzBIB2mXf) | 5:47 | 2022-06-10 |  |
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 |  |
+| [A6 \- Meteora\|20 Demo](https://open.spotify.com/track/6xOULyOGGvUDqSNgi73CRe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:54 | 2023-04-07 |  |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 |  |
 | [Acres Of Love](https://open.spotify.com/track/6B43mtMINuEDxR0bLdgB0B) | [Bastions](https://open.spotify.com/artist/28I7fJRc6dm6a4Cq7kNSS6) | [Acres Of Love](https://open.spotify.com/album/6ucVxV2U0gR91H5z7M80HH) | 3:39 | 2022-05-06 |  |
 | [Algorithmic](https://open.spotify.com/track/4m2bvfftBXmEkiOccSJeb3) | [Spotlights](https://open.spotify.com/artist/4gTFseNIUKC5dbk6tRps6H) | [Algorithmic](https://open.spotify.com/album/1CdNaopxtSliDFO9Q7UBIa) | 5:01 | 2023-02-10 |  |
+| [All Eyes On You](https://open.spotify.com/track/5oCoojHpOtASHLom7rgsLj) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [All Eyes On You](https://open.spotify.com/album/7Gjwvw6ue2wFZ9Ihm09AQy) | 1:32 | 2023-04-07 |  |
 | [All I've Lost](https://open.spotify.com/track/5NCBRQvPOhILMg7ARKTkt3) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Ashes Lie Still](https://open.spotify.com/album/2ChfG1mtw2bhvNY1tO2hzE) | 5:03 | 2022-11-04 |  |
 | [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-10 |  |
 | [An Offering to the Night](https://open.spotify.com/track/0EVyJFYojg61MfOHChMEhk) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [An Offering to the Night](https://open.spotify.com/album/7FbcDuhf1XenyNKutT6lZP) | 2:13 | 2022-12-09 |  |
@@ -59,6 +61,7 @@
 | [Celestial Cyst](https://open.spotify.com/track/14wL8L1F2XrdNopkBfNfRL) | [Artificial Brain](https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr) | [Celestial Cyst](https://open.spotify.com/album/2VO1OEHxQyxYmaN58H3WvA) | 4:30 | 2022-04-08 |  |
 | [Christian Missile Crisis](https://open.spotify.com/track/7mvDc5Xwp1SMcOJUduRBA5) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Christian Missile Crisis](https://open.spotify.com/album/67DLHlnVU77iC8AszFPB5W) | 4:57 | 2022-09-30 |  |
 | [Church Burns](https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Church Burns](https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB) | 3:03 | 2022-01-21 |  |
+| [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-07 |  |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 | 2022-04-15 |  |
 | [Circles](https://open.spotify.com/track/4aYkfJgC7xafLornfFse4L) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [Circles](https://open.spotify.com/album/2LuHmKnCWfLwmQhGuOPNMZ) | 3:15 | 2022-09-23 |  |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-08 |  |
@@ -72,6 +75,7 @@
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 |  |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 |  |
 | [CUT.BLEED.REPEAT](https://open.spotify.com/track/7DECB48H9EToEwvpd0Cxf3) | [PROJECT: VENGEANCE](https://open.spotify.com/artist/7HcrrlXGMsiC4nteuArgi9), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [CUT.BLEED.REPEAT](https://open.spotify.com/album/1R9xrOaKyMkGxBFD4fYYY8) | 3:34 | 2023-03-10 |  |
+| [Cycle Killer](https://open.spotify.com/track/1CQOTxF4mHUnj0eVoVAZVK) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Boomerang / Cycle Killer](https://open.spotify.com/album/78DHoATuJeFLEWNG8iqm8z) | 2:06 | 2023-04-07 |  |
 | [Dagger Dragger](https://open.spotify.com/track/3I0iaBY4eNmJJlCgu86ppw) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Dagger Dragger](https://open.spotify.com/album/6qHj91jBNyU856zUf8O6yb) | 4:00 | 2023-03-03 |  |
 | [Damnation](https://open.spotify.com/track/5afgTvdlApyuy2Ciu5DZyd) | [Raw Breed](https://open.spotify.com/artist/6QEopd1XsizMiGKMMqRRFn) | [Damnation](https://open.spotify.com/album/2z0KrMrHcKDNT48ae7aGrn) | 1:41 | 2022-09-02 |  |
 | [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-10-28 |  |
@@ -283,6 +287,7 @@
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 |  |
+| [Spectral Forge](https://open.spotify.com/track/0nf5AK5juSdYHzeShAHKT5) | [Spinebreaker](https://open.spotify.com/artist/7riHR2ykMbIJW94DD69wAq) | [Spectral Forge](https://open.spotify.com/album/3KCmt7Caefq1d6KncnG4ex) | 4:44 | 2023-04-07 |  |
 | [Spirit Liberation](https://open.spotify.com/track/4fnNlOmWOoLJtwETdf38bC) | [Mutually Assured Destruction](https://open.spotify.com/artist/674hXtod8wUNvAUKUvElhf), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Spirit Liberation](https://open.spotify.com/album/0QVaj5KVMxrrDg4KAnCWBK) | 2:30 | 2022-04-15 |  |
 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 |  |
 | [Starve](https://open.spotify.com/track/1tV2sOs3uIJrEdvpfblAqJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Starve](https://open.spotify.com/album/1NFAlXfwkDbedNfC2rek74) | 3:41 | 2023-03-31 |  |
@@ -331,6 +336,7 @@
 | [They Fear Us](https://open.spotify.com/track/4AoCVndz22Nf7nCag0pvSO) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3Jv1c7grobLidRkAE8PRA0) | 4:10 | 2022-02-04 |  |
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 |  |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
+| [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 |  |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 |  |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 
 > Best of Lata Mangeshkar, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,701 likes - 199 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,792 likes - 199 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 80 | [Naina Barse Rimjhim Rimjhim \(From "Woh Kaun Thi"\)](https://open.spotify.com/track/37SaNhJK2rviDHVgXPpNv0) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 6:25 |
 | 81 | [Sheesha Ho Ya Dil Ho](https://open.spotify.com/track/5ymaHdFoAsFgCQ58riwbOy) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 5:46 |
 | 82 | [Chalo Dildar Chalo](https://open.spotify.com/track/4tO2BqioXhRzf3OLx1NlO5) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Pakeezah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/725323yYZyNi4SzBVto6f0) | 3:37 |
-| 83 | [Dil Deewana \- Female Vocals](https://open.spotify.com/track/5M7LdQfurIG70nbvlSAO07) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Maine Pyar Kiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV) | 5:54 |
+| 83 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 |
 | 84 | [Dekho Maine Dekha Hai Ek Sapna](https://open.spotify.com/track/2wzL4qF4EVxvhDRjS3PYhK) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Love Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fFhDbxWRxP6fgA0gzxg8) | 5:36 |
 | 85 | [Naam Goom Jayega](https://open.spotify.com/track/2cgWbm4hCO9G1NUCcn19r9) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Humforlatadidi](https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr) | 5:35 |
 | 86 | [Ek Tu Hi Bharosa](https://open.spotify.com/track/4ioXcpExOaErZC40b7KUeD) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kids](https://open.spotify.com/artist/0a63ibJwG5TRXeYuAIVZvz) | [Pukar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OQnAi9EjuGLW3AMJ2zOry) | 6:37 |
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 194 | [Gore Gore O Banke Chhore](https://open.spotify.com/track/17TAWEy8ZxUkIDoHMoEPeK) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Amirbai Karnataki](https://open.spotify.com/artist/025NPyHBtWC9aQM4STXI5V) | [Samadhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7s4lAqqVKvLaIJ5MdFZPDz) | 3:05 |
 | 195 | [Sham Dhale Khidki Tale](https://open.spotify.com/track/6dWfuQ8Get4WW3nz2uNkJh) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [C\. Ramchandra](https://open.spotify.com/artist/4tuzg2QDbDF6ytPrszs4q1) | [Albela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JITRa3jlkGBQhHhCkl6Xn) | 3:41 |
 | 196 | [Inhin Logon Ne](https://open.spotify.com/track/6HT84RqFrC0wmQy4LvW0cn) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Pakeezah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/725323yYZyNi4SzBVto6f0) | 3:39 |
-| 197 | [Bindiya Chamke Gi](https://open.spotify.com/track/0Is8MSBOFmkzxQrev3xYu0) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Do Raaste \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a4sX2drStU5nV6k5JzF4i) | 5:46 |
+| 197 | [BINDIYA CHAMKE GI](https://open.spotify.com/track/24KJqChVEkGv0nmYTm3tfq) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:46 |
 | 198 | [Gir Gaya Jhumka Girne Do \(From "Jugnu"\)](https://open.spotify.com/track/6GXfy68Lb9DjcrrsDAm1Pw) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:20 |
 | 199 | [Aaj Na Chodenge \- Reprise](https://open.spotify.com/track/6ULuZZaprXMB79riIxZZOb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 5:15 |
 
-Snapshot ID: `MTY3OTk4MTE5MiwwMDAwMDAwMDYxNWE5NDM1NGFhODFiZjQwZTc0MGM0YjEyOThjMWI2`
+Snapshot ID: `MTY3OTk4MTE5MiwwMDAwMDAwMDRlYWNjYTRkNThkZjNiMzE0ZjA4YWFhOTlkZTAxYzVk`

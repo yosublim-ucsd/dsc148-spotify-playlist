@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773 likes - 73 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 73 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 11 | [hypotheticals](https://open.spotify.com/track/1HI84AsI0wokonlV760TRT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hypotheticals](https://open.spotify.com/album/3VYNIeDemi3QCq5QDFwHo2) | 2:04 |
 | 12 | [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 |
 | 13 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 |
-| 14 | [nature](https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/1ojtegqub3YXbSq9YNj9lF) | 3:21 |
-| 15 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 14 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 15 | [nature](https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/1ojtegqub3YXbSq9YNj9lF) | 3:21 |
 | 16 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 |
 | 17 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
 | 18 | [K.](https://open.spotify.com/track/1n4ngnAbnYsfvMRuDB6du3) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [K.](https://open.spotify.com/album/13cjffeJAT5ITEH07iWsP5) | 3:06 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 50 | [good stuff](https://open.spotify.com/track/6mglSejg7jejo0thhHQvER) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [good stuff](https://open.spotify.com/album/7bLybHcr7HWEAMghCBIKZL) | 3:11 |
 | 51 | [Halftime](https://open.spotify.com/track/0dYC9Xt3t8SfY0CdK1Vitk) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 3:05 |
 | 52 | [ruin it](https://open.spotify.com/track/38zxMTxPyAwdwmr8M749hj) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:14 |
-| 53 | [Mood Swings](https://open.spotify.com/track/61MjxgY9B0UqkOM2Jt8tVV) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 2:41 |
-| 54 | [Heart of Snow](https://open.spotify.com/track/3WaITDWjpDyZb0S6Y4PV3c) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:50 |
+| 53 | [Heart of Snow](https://open.spotify.com/track/3WaITDWjpDyZb0S6Y4PV3c) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:50 |
+| 54 | [Mood Swings](https://open.spotify.com/track/61MjxgY9B0UqkOM2Jt8tVV) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Sounds Like Me](https://open.spotify.com/album/5JtVEQcCIuCuwnzndvF9Zp) | 2:41 |
 | 55 | [twenty something](https://open.spotify.com/track/3ZQDiTdMdujWmiwUOi8DUQ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:30 |
 | 56 | [disarm me](https://open.spotify.com/track/7gcU9pn3ZOGzEnshKIeeH9) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear](https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn) | 3:11 |
 | 57 | [crying in my car](https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:57 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 72 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 73 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgwMTM3NzUsMDAwMDAwMDAyMjU1ODJiYWYyNWY2NzcwMzAxYmYyMjg1NTNlYTU2ZA==`
+Snapshot ID: `MjgwMTY2NTUsMDAwMDAwMDAxODU3OThiOGVkZDM2NGQ1YmUyMDFjNTZkMGU2MWJhZQ==`

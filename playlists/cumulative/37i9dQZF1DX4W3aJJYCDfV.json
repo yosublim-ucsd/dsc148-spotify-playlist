@@ -990,6 +990,10 @@
       },
       "artists": [
         {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
           "name": "Amin\u00e9",
           "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
@@ -1000,10 +1004,6 @@
         {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         }
       ],
       "date_added": "2023-04-06",
@@ -12875,7 +12875,7 @@
     },
     {
       "album": {
-        "name": "Downer (Feat. Chanel Loren)",
+        "name": "DOWNER (feat. Chanel Loren)",
         "url": "https://open.spotify.com/album/5fUayPllA4fQOHz54heZoQ"
       },
       "artists": [
@@ -12896,7 +12896,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163493,
-      "name": "Downer (Feat. Chanel Loren)",
+      "name": "DOWNER (feat. Chanel Loren)",
       "url": "https://open.spotify.com/track/5pKdj9LSPKxwQKIPjLFbwM"
     },
     {
@@ -15230,10 +15230,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 206000,
       "name": "Father",
       "url": "https://open.spotify.com/track/1xkf8uZp8Be2jKLgHH10KH"
+    },
+    {
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0sWj0J8O9oZo5OHk23bXUX"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/5ONzR8lIWKokELVBLbt9lr"
     },
     {
       "album": {
@@ -18580,7 +18598,7 @@
     {
       "album": {
         "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh"
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
       },
       "artists": [
         {
@@ -18591,6 +18609,24 @@
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206103,
+      "name": "God Above",
+      "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+    },
+    {
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26"
@@ -40667,6 +40703,24 @@
     },
     {
       "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
         "name": "Seat At The Table",
         "url": "https://open.spotify.com/album/5BEAFUm1QHZrzYeEXTCS1r"
       },
@@ -48548,7 +48602,7 @@
     {
       "album": {
         "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7"
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
@@ -48559,6 +48613,24 @@
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+    },
+    {
+      "album": {
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
       "duration_ms": 285839,
       "name": "To Rage",
       "url": "https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R"
@@ -53966,6 +54038,28 @@
       "duration_ms": 319586,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/5Men1Ylu4EIFdU2Ia3rIsI"
+    },
+    {
+      "album": {
+        "name": "WTF (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "WTF (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr"
     },
     {
       "album": {

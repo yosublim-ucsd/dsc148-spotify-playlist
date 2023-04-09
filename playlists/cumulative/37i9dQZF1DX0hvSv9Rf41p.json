@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 303857,
       "name": "6am Bounce",
       "url": "https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI"
@@ -264,6 +264,24 @@
       "duration_ms": 241600,
       "name": "All We Needed",
       "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF"
+      },
+      "artists": [
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371612,
+      "name": "Amateur",
+      "url": "https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu"
     },
     {
       "album": {
@@ -1126,6 +1144,24 @@
       "duration_ms": 180000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/1iyFpZJ5zipXxMfj0FseRq"
+    },
+    {
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
     },
     {
       "album": {
@@ -2434,7 +2470,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 170285,
       "name": "Error Sound",
       "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
@@ -4588,7 +4624,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 146000,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q"
@@ -5168,6 +5204,28 @@
       "duration_ms": 178285,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
       "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
+    },
+    {
+      "album": {
+        "name": "Meant To Be Lonely",
+        "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Meant To Be Lonely",
+      "url": "https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j"
     },
     {
       "album": {
@@ -6153,7 +6211,7 @@
     },
     {
       "album": {
-        "name": "Outcast",
+        "name": "OUTCAST",
         "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
       },
       "artists": [
@@ -6170,7 +6228,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 272431,
-      "name": "Outcast",
+      "name": "OUTCAST",
       "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
     },
     {

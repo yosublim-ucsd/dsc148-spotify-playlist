@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,474 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,673 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Will the Circle Be Unbroken](https://open.spotify.com/track/0QpactOWKs6d2vbTdDyVsS) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Keep On The Sunny Side](https://open.spotify.com/album/30NfKkepysJaQZwPlEgnCK) | 2:42 |
-| 2 | [Blue Yodel \(T for Texas\)](https://open.spotify.com/track/2pzpApfqE2LaXW5StD1FUA) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [RCA Country Legends](https://open.spotify.com/album/6TXhBKNTITmOTWCbHaQKIG) | 3:23 |
+| 2 | [Blue Yodel \(T for Texas\)](https://open.spotify.com/track/2pzpApfqE2LaXW5StD1FUA) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [RCA Country Legends](https://open.spotify.com/album/6TXhBKNTITmOTWCbHaQKIG) | 3:23 |
 | 3 | [Barbara Allen](https://open.spotify.com/track/7IKviaNxgzeaTe5L4xABaS) | [Bradley Kincaid](https://open.spotify.com/artist/1vwJ8b0MaJHt3g6RIsZUkZ) | [Mountain Ballads and Old\-Time Songs](https://open.spotify.com/album/2B5KwIYnFejB10SYYikVFI) | 3:25 |
 | 4 | [I'll Fly Away](https://open.spotify.com/track/1AbAgU9d0zjmjjpBxlo0bN) | [James Carson](https://open.spotify.com/artist/4KlHTYtH6LJzjEm5mkLjRj), [Martha Carson](https://open.spotify.com/artist/1mv0j6pnqOnEc0HK6EWeeo) | [I'll Fly Away](https://open.spotify.com/album/4QpbC6Qv8WkdH6F8LFudPr) | 2:26 |
 | 5 | [Fox Chase](https://open.spotify.com/track/0YxDiM6hlJ03lssgbqTBGJ) | [Deford Bailey](https://open.spotify.com/artist/3bE11yTlWRtZxf6koQcfx4) | [Harp Blowers \(1925\-1936\)](https://open.spotify.com/album/372jNv3qcYBIVVy3jO2PGn) | 3:01 |
 | 6 | [You Are My Sunshine](https://open.spotify.com/track/6JTXYn6PFzw96JzDUHhUPJ) | [Jimmy Davis](https://open.spotify.com/artist/6iju57wVv8TZo8AwR1Xwfo) | [Live at Quad Studios](https://open.spotify.com/album/05Hv7w4M4rt71TFzESEkEl) | 4:57 |
-| 7 | [Blue Yodel Number 9](https://open.spotify.com/track/0whofgM5TzipCssf2Uw0Ci) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Blues Vol 2](https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV) | 2:40 |
+| 7 | [Blue Yodel Number 9](https://open.spotify.com/track/0whofgM5TzipCssf2Uw0Ci) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Blues Vol 2](https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV) | 2:40 |
 | 8 | [Wildwood Flower](https://open.spotify.com/track/0ZrKOKa7eAhOjwhZuWfEbD) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [RCA Country Legends](https://open.spotify.com/album/3qzRlWw1ENnOIvexD6HtqS) | 3:09 |
-| 9 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 |
+| 9 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 |
 | 10 | [Comin' Round the Mountain](https://open.spotify.com/track/3nMmHC2qYTqWwi5JWo9UvN) | [Uncle Dave Macon](https://open.spotify.com/artist/5Aa1aFuL2vUePqwhMFnxO0), [Sam McGee](https://open.spotify.com/artist/6wVVmu3MgTVHlrTe69ChzB) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 3:07 |
-| 11 | [Blue Yodel Number 8](https://open.spotify.com/track/2JD8UrewYKCTG9ZZo8Eu16) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Blues Vol 2](https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV) | 2:59 |
+| 11 | [Blue Yodel Number 8](https://open.spotify.com/track/2JD8UrewYKCTG9ZZo8Eu16) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Blues Vol 2](https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV) | 2:59 |
 | 12 | [Keep On the Sunny Side](https://open.spotify.com/track/7ibI58MUAAiaqYkVDV6fef) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [RCA Country Legends](https://open.spotify.com/album/3qzRlWw1ENnOIvexD6HtqS) | 2:53 |
 | 13 | [Mountain Dew \- Original King Recordings](https://open.spotify.com/track/4Ygk7VMmn6izMPf0TSBayF) | [Grandpa Jones](https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD) | [Complete King Recordings 1943\-1956 \- Volume 2 Of Four \(Original King Recordings\)](https://open.spotify.com/album/1TXPDEHNJspu6tL4xL0osA) | 2:45 |
 | 14 | [Home On the Range](https://open.spotify.com/track/1Hr94ZADw5cfltOCueNNPK) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:38 |

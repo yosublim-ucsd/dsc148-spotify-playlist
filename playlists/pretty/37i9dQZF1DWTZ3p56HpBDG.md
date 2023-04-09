@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,593 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,631 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 4 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 |
 | 5 | [Raavanan](https://open.spotify.com/track/5MXh9jcDFvbIEXscQyjQSX) | [Rolex Rasathy](https://open.spotify.com/artist/2N7p9fqrrUSQbfAlCqPTPY), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu) | [Raavanan](https://open.spotify.com/album/4Bz5Mfp1ond3RCJGRdgOBz) | 3:14 |
 | 6 | [Alive](https://open.spotify.com/track/59mrqUmhpmcfUns8BKkV30) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:48 |
-| 7 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 |
+| 7 | [Devil In A Dress](https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/37Hau8GSFmAPCUHBpyZC6Z) | 1:51 |
 | 8 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 |
 | 9 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
 | 10 | [Don't Let Go](https://open.spotify.com/track/222VjaQ6wUWhe3SnbNHJ2K) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/5WGtuS2pMdXz7WfOrM9vcN) | 2:38 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 32 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
 | 33 | [Chasin M's](https://open.spotify.com/track/5labhgEWJVHdSFaV2lFHbq) | [Ali Kulture](https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Dj Rob Mista DMV](https://open.spotify.com/artist/0iaMgxQqEcbMtu9bu9lkYR) | [Chasin M's](https://open.spotify.com/album/58Ofpkh7xXrtngf6cxgtuB) | 3:35 |
 
-Snapshot ID: `MTY2ODY2NTEzOSwwMDAwMDAwMDczNjNiZTI0YzNkOWJkODQ5MTljN2I5OGU5MTAxZTFk`
+Snapshot ID: `MTY2ODY2NTEzOSwwMDAwMDAwMDU0NjE3OTY4NTM4NmJiOGZhMDJjMjcxZjZmNTUxNTIw`

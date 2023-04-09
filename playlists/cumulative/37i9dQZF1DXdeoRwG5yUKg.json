@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Fool (Live)",
+        "url": "https://open.spotify.com/album/4ybMTnHNIQcBzVCFRRHuZZ"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288241,
+      "name": "Fool (Live)",
+      "url": "https://open.spotify.com/track/60TAAGvOtUcY95dHgvluSw"
+    },
+    {
+      "album": {
         "name": "Bluesamericana",
         "url": "https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF"
       },

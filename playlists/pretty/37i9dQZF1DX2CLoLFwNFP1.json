@@ -1,15 +1,15 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 18472,
+  "num_followers": 18585,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMGQxNjNmY2RlN2EwMzA2YTUyMTIyNDU4ZDU1YmZkMTZm",
+  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMDYxZmY0YTljNjc4M2ViMzRkNDFjNjEwYTVmMzM4ZmJh",
   "tracks": [
     {
-      "added_at": "2023-04-07 00:33:06",
+      "added_at": "2023-04-09 00:24:59",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "BRB",
-        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
       },
       "artists": [
         {
-          "name": "H1GHR MUSIC",
-          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 304746,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
+      "duration_ms": 191141,
+      "name": "Butterflies (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -559,22 +563,18 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
       },
       "artists": [
         {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "H1GHR MUSIC",
+          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Butterflies (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
+      "duration_ms": 304746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -779,6 +779,58 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
+        "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
+      "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
         "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
       },
@@ -795,26 +847,6 @@
       "duration_ms": 188106,
       "name": "DNA (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Son Malas (Feat. Jay Park)",
-        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
-      },
-      "artists": [
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Son Malas",
-      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -875,54 +907,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
-        "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
+        "name": "Son Malas (Feat. Jay Park)",
+        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
         }
       ],
-      "duration_ms": 316000,
-      "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
-      "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
+      "duration_ms": 148640,
+      "name": "Son Malas",
+      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 221387,
       "name": "The Purge",
       "url": "https://open.spotify.com/track/3gGyzpBLb7pqOw5oC47QaV"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219993,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 198949,
       "name": "Dank",
       "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219993,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 191187,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -2135,6 +2135,26 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "Alone Tonight (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 0",
         "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
       },
@@ -2160,13 +2180,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
         }
       ],
-      "duration_ms": 251846,
-      "name": "Alone Tonight (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
+      "duration_ms": 230414,
+      "name": "Feature (Feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -2183,26 +2203,6 @@
       "duration_ms": 268066,
       "name": "Million",
       "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Cha Cha Malone",
-          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
-        }
-      ],
-      "duration_ms": 230414,
-      "name": "Feature (Feat. Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
     },
     {
       "added_at": "2023-02-22 06:37:37",

@@ -578,7 +578,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 192370,
       "name": "Atlas Falls",
       "url": "https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l"
@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2"
+    },
+    {
+      "album": {
         "name": "Figure Eight",
         "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
       },
@@ -3494,7 +3512,7 @@
           "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
         }
       ],
-      "date_added": "2023-03-10",
+      "date_added": "2023-03-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204676,
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 280151,
       "name": "Ludens",
       "url": "https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ"
@@ -5368,6 +5386,24 @@
       "duration_ms": 182885,
       "name": "sanjake",
       "url": "https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp"
+    },
+    {
+      "album": {
+        "name": "save urself (runaway)",
+        "url": "https://open.spotify.com/album/6pCIJ9SOQndRMZK403UF7v"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "save urself (runaway)",
+      "url": "https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX"
     },
     {
       "album": {

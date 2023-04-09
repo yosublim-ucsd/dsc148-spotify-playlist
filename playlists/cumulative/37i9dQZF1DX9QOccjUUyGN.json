@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Krawk",
+  "description": "tranquilo e calmo, no flow. Foto: Tribo da Periferia, Hungria Hip Hop, MC Ryan SP",
   "name": "tamo flex",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 124878,
       "name": "After Party",
       "url": "https://open.spotify.com/track/2tjCd0Rdc4rjJSrps6wKZu"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 139802,
       "name": "Amo(r) Frontal",
       "url": "https://open.spotify.com/track/5hD0juwLCRiE4MmC4Nlvig"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 172992,
       "name": "Gin & Campari",
       "url": "https://open.spotify.com/track/6KO5LTv13zmGhUCFNOssKl"
@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 173720,
       "name": "Habilidades",
       "url": "https://open.spotify.com/track/2F4akcB8Eb1B4xF4rI8xTM"
@@ -3682,6 +3682,32 @@
       "duration_ms": 134081,
       "name": "Lord",
       "url": "https://open.spotify.com/track/3xlr48QzAcZKdSLy8YNN2l"
+    },
+    {
+      "album": {
+        "name": "Lote 88",
+        "url": "https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Lote 88",
+      "url": "https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09"
     },
     {
       "album": {
@@ -4730,6 +4756,36 @@
       "duration_ms": 153564,
       "name": "NANANI NAN\u00c3O",
       "url": "https://open.spotify.com/track/2aruxtZqyHLdm7X3XJv7lL"
+    },
+    {
+      "album": {
+        "name": "Nasci pra Brilhar",
+        "url": "https://open.spotify.com/album/4BBqa46ffUIg4TXuKfvKTW"
+      },
+      "artists": [
+        {
+          "name": "Dkria",
+          "url": "https://open.spotify.com/artist/2ePVbElTLzV4pYWxwuTciH"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "JR ON",
+          "url": "https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA"
+        },
+        {
+          "name": "Firma \u00e9 Forte",
+          "url": "https://open.spotify.com/artist/7CPUMb3I6hyvnjYRW0YUro"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Nasci pra Brilhar",
+      "url": "https://open.spotify.com/track/1Xg1iIBGh8NwVFL1JL6cQU"
     },
     {
       "album": {
@@ -5871,7 +5927,7 @@
         },
         {
           "name": "Did Brock",
-          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+          "url": "https://open.spotify.com/artist/2XTuIpfoWGJVfnPZg88yM5"
         }
       ],
       "date_added": "2023-03-10",
@@ -6443,6 +6499,36 @@
     },
     {
       "album": {
+        "name": "Segue a Paz",
+        "url": "https://open.spotify.com/album/2ISKlcpwU8oJgEPuvU8oSV"
+      },
+      "artists": [
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Mc Orelha",
+          "url": "https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD"
+        },
+        {
+          "name": "MaisALTO",
+          "url": "https://open.spotify.com/artist/6bHV9BesPg9osPD2gKZzhB"
+        },
+        {
+          "name": "Dj Terrorista",
+          "url": "https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Segue a Paz",
+      "url": "https://open.spotify.com/track/4diQTKvUgF0NsFCwid5crP"
+    },
+    {
+      "album": {
         "name": "Sei Que C\u00ea Gosta 2",
         "url": "https://open.spotify.com/album/1DB5TEoM1CkkSoiJ4BwN8W"
       },
@@ -6968,6 +7054,24 @@
       "duration_ms": 144718,
       "name": "Toma Medalha",
       "url": "https://open.spotify.com/track/4lOmgaoGMVnCbwoFEbmprq"
+    },
+    {
+      "album": {
+        "name": "Trancado na Mente",
+        "url": "https://open.spotify.com/album/4CtvwOB3sKXHAiGKaVNUtB"
+      },
+      "artists": [
+        {
+          "name": "Uxie Kid",
+          "url": "https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91330,
+      "name": "Trancado na Mente",
+      "url": "https://open.spotify.com/track/0BqJCWNvE2Dl8TdLhsK3TE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 183989,
+  "num_followers": 184292,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg4OTQwNSwwMDAwMDAwMDdlMTVmMzdmMmFhYTBhZDI5ZWEwY2E3ZDgxNzlmYTYw",
+  "snapshot_id": "MTY0OTg4OTQwNSwwMDAwMDAwMGM5MTkyZTIzMmJjZDY0Mzg0YTEwY2U1NTY0MThiNTA1",
   "tracks": [
     {
       "added_at": "2022-04-13 22:36:45",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 169953,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 215133,
       "name": "Viva La Fiesta (Me Like To Party)",
       "url": "https://open.spotify.com/track/2taVzkrj093yCYb9DecjBN"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 169953,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX"
     },
     {
       "added_at": "2022-04-13 22:36:45",

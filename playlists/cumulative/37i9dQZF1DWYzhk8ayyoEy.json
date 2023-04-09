@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 156026,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/39BRQDkqjcezvjud5PqYgQ"
@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/4sUGi3g3MQF8k412qqtcbD"
+      },
+      "artists": [
+        {
+          "name": "Royston Noell",
+          "url": "https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206011,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2Coxhwa6oQfrM03g6U57vw"
+    },
+    {
+      "album": {
         "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
         "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
       },
@@ -762,6 +780,24 @@
       "duration_ms": 187003,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm"
+    },
+    {
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
     },
     {
       "album": {
@@ -1134,6 +1170,24 @@
       "duration_ms": 219000,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs"
+    },
+    {
+      "album": {
+        "name": "Stand Up Eight",
+        "url": "https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187688,
+      "name": "Stand Up Eight",
+      "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
     },
     {
       "album": {

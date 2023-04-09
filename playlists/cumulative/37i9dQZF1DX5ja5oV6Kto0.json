@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=mWugfQs4RISsLpEMEkQwlw\"> Amaarae</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=4yHtKxJDS1GE7kDEEx2NSA\"> Baaba J</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180705,
       "name": "Cold",
       "url": "https://open.spotify.com/track/10Acd9i7TFQNQzEJKKiv8r"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 126857,
       "name": "Detonate",
       "url": "https://open.spotify.com/track/6ufuzc7b2zgkpK22dPcmti"
@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/5AjGB7aIvJDBCL0P1aKmMl"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "It's Different",
+      "url": "https://open.spotify.com/track/23oGcL0ZWXXsr80Mq1JJIT"
+    },
+    {
+      "album": {
         "name": "It's Okay to Cry",
         "url": "https://open.spotify.com/album/1HuqJPQqxMpyWLwzVir5QB"
       },
@@ -4757,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
+      "album": {
         "name": "AA side",
         "url": "https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr"
       },
@@ -4842,6 +4878,24 @@
       "duration_ms": 190819,
       "name": "On Read",
       "url": "https://open.spotify.com/track/5CheHKOp9uplfggsbwjkLs"
+    },
+    {
+      "album": {
+        "name": "WINNY",
+        "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Operation",
+      "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
     },
     {
       "album": {
@@ -6962,7 +7016,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 216214,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"

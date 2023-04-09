@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,308 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,566 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 15 | [2nd Intro](https://open.spotify.com/track/7tYu8dbXS8Ma6hUtszmd1s) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 1:56 |
 | 16 | [Walk On Water \(feat\. A$AP Twelvyy, A$AP Ant, A$AP Nast, A$AP Ferg & Playboi Carti\)](https://open.spotify.com/track/0WQcnrsEqrY2e5nexGe3HX) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 3:56 |
 | 17 | [PICASSO](https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Just 4 Yall](https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ) | 3:32 |
-| 18 | [WNA](https://open.spotify.com/track/0QlvprQJkt1hOIgfeaAfgj) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV) | [WNA](https://open.spotify.com/album/4gONkY34eM5GbkYNHxnkDL) | 2:19 |
+| 18 | [Sdot Go \- WNA](https://open.spotify.com/track/2mNcQnrHoGyM7QmzA6oEqt) | [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Sdot Go \- WNA](https://open.spotify.com/album/2SCd2rfr1TaH0SO7ew9sbG) | 2:19 |
 | 19 | [NY Is Killing Me](https://open.spotify.com/track/14uWrjrpU9TSpahKYPxyZx) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Scram Jones](https://open.spotify.com/artist/0Bi7gsMOc5xrBd3gSfGsFZ), [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H) | [NY Is Killing Me](https://open.spotify.com/album/0Xhr6mhVCkUSZ9vZdFDDjB) | 3:15 |
 | 20 | [UP THE SCORE \(feat\. 22Gz & Maxo Kream\)](https://open.spotify.com/track/3rR3hHT5VOtyK2XawVEf0Q) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [WORLD GOT ME FUCKED UP, Vol\. 1](https://open.spotify.com/album/6y7mcLV51J3lCgAyKjXO2h) | 3:17 |
 | 21 | [Designer](https://open.spotify.com/track/0ypoiJsQKWq7jyYOotHUiY) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Losses \- Bonus](https://open.spotify.com/track/71sCy1XpXl9rxTEu4XIPcR) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:15 |
 | 50 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
 
-Snapshot ID: `MTY4MDgzMDEwNCwwMDAwMDAwMGE5MDhlZDM3MWQ3ZjExNGViMTJlMWVkN2MzODVlY2Qy`
+Snapshot ID: `MTY4MDgzMDEwNCwwMDAwMDAwMDMyMjAzYmM1YjA5YTZkNGZkZjMxNjUzMGZkOTZjYWQw`

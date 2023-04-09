@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-165 songs - 8 hr 46 min
+166 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 | 2022-10-06 | 2023-02-02 |
 | [Deal With It](https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5) | 2:32 | 2022-11-17 |  |
 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 | 2022-10-06 |  |
-| [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-10-06 |  |
+| [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-10-06 | 2023-04-09 |
+| [Devil In A Dress](https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/37Hau8GSFmAPCUHBpyZC6Z) | 1:51 | 2022-11-17 |  |
 | [Do You Love Her Now](https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:34 | 2021-11-10 | 2022-07-19 |
 | [Don't Let Go](https://open.spotify.com/track/222VjaQ6wUWhe3SnbNHJ2K) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/5WGtuS2pMdXz7WfOrM9vcN) | 2:38 | 2022-10-14 |  |
 | [Don't Let Go](https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl) | [Strong Asian Mothers](https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB) | [Don't Let Go](https://open.spotify.com/album/62zbZ4GgUDL4rqKdbQEjrA) | 2:38 | 2022-10-06 | 2022-10-22 |

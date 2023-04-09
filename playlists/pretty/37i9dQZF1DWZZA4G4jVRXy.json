@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 117693,
+  "num_followers": 117793,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMGU5YTIxNjkzNDNmNjY4M2E1N2U5Y2VhMjAzY2VmNDUz",
+  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMGM0NzY5ZmJkYjQ4OTYzN2RlNGI1NTA2Mzg2YTIyMjgz",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -141,22 +141,6 @@
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Lolita (Original Motion Picture Soundtrack)",
@@ -171,6 +155,22 @@
       "duration_ms": 203933,
       "name": "Lolita Ya Ya",
       "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Dear Mama",
         "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Fuzzy Retail Sampler",
         "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Savage And The Sensuous Bongos",
-        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
-      },
-      "artists": [
-        {
-          "name": "Don Ralke",
-          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Head Hunter",
-      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Quiet Village",
@@ -803,6 +787,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Savage And The Sensuous Bongos",
+        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
+      },
+      "artists": [
+        {
+          "name": "Don Ralke",
+          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Head Hunter",
+      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Days Of Wine And Roses",
         "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 185493,
       "name": "Slow And Easy",
       "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Mini Skirt",
-      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -847,6 +831,22 @@
       "duration_ms": 196226,
       "name": "Hana Maui - Digitally Remastered 1995",
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
-        "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Waldo",
-          "url": "https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Within The Temple Of Macuilizochitl",
-      "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Legend Of The Jivaro",
         "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 174800,
       "name": "Jivaro",
       "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
+        "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Waldo",
+          "url": "https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Within The Temple Of Macuilizochitl",
+      "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1093,6 +1093,22 @@
       "url": "https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
+        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Xtabay - Remastered",
+      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Voodoo!",
@@ -1139,22 +1155,6 @@
       "duration_ms": 207892,
       "name": "Bim-Boo",
       "url": "https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
-        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Xtabay - Remastered",
-      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",

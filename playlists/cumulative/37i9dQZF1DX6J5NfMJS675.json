@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 417106,
       "name": "10.2.5.",
       "url": "https://open.spotify.com/track/5tXmO8vouyWoyWt8WvOvIA"
@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/691b38mQKtfisEdhiV3kvD"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240403,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj"
+    },
+    {
+      "album": {
         "name": "Balance EP",
         "url": "https://open.spotify.com/album/17rZITHT3bbJAHwLB3MiFu"
       },
@@ -1366,6 +1384,24 @@
       "duration_ms": 394548,
       "name": "Clear Conscience",
       "url": "https://open.spotify.com/track/1psPPhlXSeuUBbRlZ47FRj"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes EP",
+        "url": "https://open.spotify.com/album/1vdhcibrbib1EV1iLZxInF"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/5yQm4HrLdxmTEQgBN7XFnj"
     },
     {
       "album": {
@@ -2492,7 +2528,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 187583,
       "name": "Eckstein Eckstein",
       "url": "https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1"
@@ -2518,6 +2554,24 @@
       "duration_ms": 187583,
       "name": "Eckstein Eckstein",
       "url": "https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi"
+    },
+    {
+      "album": {
+        "name": "El Medano",
+        "url": "https://open.spotify.com/album/39n9hXab7m4eYvS64UN0Vz"
+      },
+      "artists": [
+        {
+          "name": "Thomas Lizzara",
+          "url": "https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509346,
+      "name": "El Medano",
+      "url": "https://open.spotify.com/track/7uTLJJ0mb3LCsICzSlKrlR"
     },
     {
       "album": {
@@ -2724,6 +2778,24 @@
       "duration_ms": 254890,
       "name": "Exosphere (Original Mix)",
       "url": "https://open.spotify.com/track/2HnZw41eV5iYJYSYMlKOMt"
+    },
+    {
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
+      },
+      "artists": [
+        {
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348444,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
     },
     {
       "album": {
@@ -2956,7 +3028,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 342459,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4WvfqOcx8jQEeJVKnZ9KgG"
@@ -3210,6 +3282,32 @@
       "duration_ms": 481568,
       "name": "Future of Mankind",
       "url": "https://open.spotify.com/track/615ulFHm7SWnombHGnu984"
+    },
+    {
+      "album": {
+        "name": "Gam Gam (2023)",
+        "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        },
+        {
+          "name": "Mauro Pilato",
+          "url": "https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP"
+        },
+        {
+          "name": "Max Monti",
+          "url": "https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248888,
+      "name": "Gam Gam - 2023",
+      "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
     },
     {
       "album": {
@@ -4181,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "ULTRAKUNST",
+        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280226,
+      "name": "JE N'EXISTE PAS",
+      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
+    },
+    {
+      "album": {
         "name": "Raver's Heart EP",
         "url": "https://open.spotify.com/album/0RIG2BzZFToEUuJtZPZrWB"
       },
@@ -5060,7 +5176,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 384480,
       "name": "Motokobo",
       "url": "https://open.spotify.com/track/3J8xd0PgO6nKvvsmB3q53H"
@@ -5286,7 +5402,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 260307,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/6LOlij2K5ipBbtIcOEHLiZ"
@@ -5666,7 +5782,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 240916,
       "name": "Phantasy",
       "url": "https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c"
@@ -5768,7 +5884,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 351955,
       "name": "Pills - Deborah de Luca Remix",
       "url": "https://open.spotify.com/track/7kXnFFxdau1mKmTHs4CYt3"
@@ -5996,7 +6112,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 365373,
       "name": "Quiet Woman - Simina Grigoriu Remix",
       "url": "https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY"
@@ -6181,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
+    },
+    {
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
       },
@@ -6254,6 +6392,24 @@
       "duration_ms": 418533,
       "name": "Reverse Psychology",
       "url": "https://open.spotify.com/track/4j6IGvQ60qnehb9apAN73W"
+    },
+    {
+      "album": {
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/2lsxrGOWD9r2aAD5sv5xTl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373098,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/2CfIVKNRUy44cca4c7GmMu"
     },
     {
       "album": {
@@ -6344,6 +6500,24 @@
       "duration_ms": 205696,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
+    },
+    {
+      "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "album": {
@@ -7502,7 +7676,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 360000,
       "name": "The Coldest Form",
       "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
@@ -7802,7 +7976,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 313976,
       "name": "Their Blood - Ellen Allien Remix",
       "url": "https://open.spotify.com/track/4VSV8oyD0wSDWZ36IcaP0i"
@@ -7824,6 +7998,24 @@
       "duration_ms": 399425,
       "name": "There's No One Left To Trust",
       "url": "https://open.spotify.com/track/34ne8DjjVzC1BoO5CAho0a"
+    },
+    {
+      "album": {
+        "name": "Through My Veins EP",
+        "url": "https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod"
+      },
+      "artists": [
+        {
+          "name": "Marhu",
+          "url": "https://open.spotify.com/artist/25az6IQ02a8MQRCKU4JEea"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Through My Veins - Edit",
+      "url": "https://open.spotify.com/track/17wUCYjzJFiGXiipM7QMIW"
     },
     {
       "album": {

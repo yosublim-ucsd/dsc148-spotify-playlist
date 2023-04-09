@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Crown Lands",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Greta Van Fleet",
   "name": "Rock Your Block",
   "tracks": [
     {
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 219551,
       "name": "Chew Me Up (feat. Terrible Johnny)",
       "url": "https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk"
@@ -2056,6 +2056,24 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Moonlight",
+        "url": "https://open.spotify.com/album/0CBVF3VGMooid9U17Ryzdt"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181307,
+      "name": "Dancing With The Moonlight",
+      "url": "https://open.spotify.com/track/1KR1KO0WzuRsNYQXcQYjiq"
     },
     {
       "album": {
@@ -2686,6 +2704,24 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
       "album": {
@@ -3700,7 +3736,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 192451,
       "name": "Grow Up Tomorrow",
       "url": "https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9"
@@ -4851,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/7pksbj88zVcexbacR0GfrP"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306261,
+      "name": "Lady Of The Lake",
+      "url": "https://open.spotify.com/track/0dO4yJPnKN7BreiWnwTgXs"
+    },
+    {
+      "album": {
         "name": "Lady Of The Lake",
         "url": "https://open.spotify.com/album/3tsFExvmbleMDeTBvYrT46"
       },
@@ -4862,7 +4916,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 306261,
       "name": "Lady Of The Lake",
       "url": "https://open.spotify.com/track/6yd4ITFNoDmZlwLVn6Z9TF"
@@ -5880,6 +5934,24 @@
       "duration_ms": 176910,
       "name": "Meet Me At The Riot",
       "url": "https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc"
+    },
+    {
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "album": {
@@ -9558,7 +9630,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
@@ -9742,6 +9814,24 @@
       "duration_ms": 243859,
       "name": "Truth Be Told",
       "url": "https://open.spotify.com/track/1N61QLRTGgzb97qTd03KhZ"
+    },
+    {
+      "album": {
+        "name": "try again",
+        "url": "https://open.spotify.com/album/5mB0WqDGxpdEvhvEgZlUOL"
+      },
+      "artists": [
+        {
+          "name": "Cam Kahin",
+          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "try again",
+      "url": "https://open.spotify.com/track/0S09s70YzPQOKChK4ybdMZ"
     },
     {
       "album": {
@@ -10591,6 +10681,24 @@
     },
     {
       "album": {
+        "name": "Whatever You Break",
+        "url": "https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb"
+      },
+      "artists": [
+        {
+          "name": "Texas King",
+          "url": "https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186867,
+      "name": "Whatever You Break",
+      "url": "https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA"
+    },
+    {
+      "album": {
         "name": "Remember Never Before",
         "url": "https://open.spotify.com/album/72uKcGYgxFDS0suNyqq2LU"
       },
@@ -10602,7 +10710,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 200560,
       "name": "When You Stop",
       "url": "https://open.spotify.com/track/4lu7jm5pq8H9kOYrJkXR9b"
@@ -10692,7 +10800,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"

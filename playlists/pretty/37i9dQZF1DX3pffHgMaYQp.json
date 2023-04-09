@@ -1,12 +1,12 @@
 {
   "description": "m\u00fasica para insubordinados. Blnko en portada. ",
-  "num_followers": 72177,
+  "num_followers": 72178,
   "original_name": "lo hice por el punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MjQwMCwwMDAwMDAwMDg0MTQyYjQxMGFhMTc3OTJiZjE2ZTM2ZDQyMTNhZjUy",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDNlODFlMTJjNGUzMzUwOWRmY2FmODJhZGY2NjliYWVl",
   "tracks": [
     {
       "added_at": "2023-03-23 23:21:27",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
     },
     {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Filosa",
+        "url": "https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "Filosa",
+      "url": "https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x"
+    },
+    {
       "added_at": "2022-03-25 17:01:02",
       "album": {
         "name": "Cumbia Feminista",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
     },
     {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Estrella Antivida",
+        "url": "https://open.spotify.com/album/6j80yKNQXqeAE6hH3xpXbg"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 110392,
+      "name": "Estrella Antivida",
+      "url": "https://open.spotify.com/track/01Ek9zGfuPYnBs5abDWhjK"
+    },
+    {
       "added_at": "2022-03-25 17:01:02",
       "album": {
         "name": "Mala Vibra",
@@ -75,6 +107,26 @@
       "duration_ms": 141516,
       "name": "Harto",
       "url": "https://open.spotify.com/track/0NNLYEiVbJhYaudmD4yCUl"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Gasolina en las Bocinas (Molas Mazo)",
+        "url": "https://open.spotify.com/album/4AQ1jslxEgd8qUEK7rCr6L"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
+        {
+          "name": "Los Fresones Rebeldes",
+          "url": "https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Gasolina en las Bocinas - Molas Mazo",
+      "url": "https://open.spotify.com/track/5fBesiOx4Nmqvl8ea0J9qY"
     },
     {
       "added_at": "2023-03-31 06:00:00",

@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Cuando Me Hayas Perdido",
+        "url": "https://open.spotify.com/album/14clFFI0eKdesRHFlQYkyD"
+      },
+      "artists": [
+        {
+          "name": "ANDER DEFRANK",
+          "url": "https://open.spotify.com/artist/15MCoBJv3FwrZE1F4MNkGT"
+        },
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Cuando Me Hayas Perdido",
+      "url": "https://open.spotify.com/track/7CZw1UNzbvrmW1bMK7U8Ly"
+    },
+    {
+      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -975,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
+    },
+    {
+      "album": {
         "name": "Le doy perreo",
         "url": "https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn"
       },
@@ -1008,6 +1052,46 @@
       "duration_ms": 146813,
       "name": "LO MISMO QUE MORIR",
       "url": "https://open.spotify.com/track/1XYjy0yiCL1utjnBRWou6f"
+    },
+    {
+      "album": {
+        "name": "Los Dos Fallamos",
+        "url": "https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160988,
+      "name": "Los Dos Fallamos",
+      "url": "https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ"
+    },
+    {
+      "album": {
+        "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213998,
+      "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+      "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
     },
     {
       "album": {
@@ -1662,6 +1746,32 @@
       "duration_ms": 173861,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/1vgh1s6f4qtY9TDKK8EfyJ"
+    },
+    {
+      "album": {
+        "name": "Un Finde | CROSSOVER #2",
+        "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Un Finde | CROSSOVER #2",
+      "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
     },
     {
       "album": {

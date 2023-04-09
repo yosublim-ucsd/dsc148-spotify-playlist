@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bAylah(\uc544\uc77c\ub77c)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 317222,
+  "num_followers": 317414,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMDliZGFmODNjNTgzMWU1YTg0NTdlMjNjNzc4ODcyYzA5",
+  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMGQ1MjcxYmViNzNkOGNmNjA5NTUwMmZiMzgxNzI1Njc4",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:23",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-04-07 01:24:44",
+      "added_at": "2023-04-09 00:48:40",
       "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0"
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -635,8 +635,8 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+        "name": "Love, Yerin",
+        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
+      "duration_ms": 205800,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Myo (Cat)",
-        "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Myo (Cat)",
-      "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 264678,
       "name": "Will Last Forever",
       "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Myo (Cat)",
+        "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Myo (Cat)",
+      "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -803,8 +803,8 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Love, Yerin",
-        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
       },
       "artists": [
         {
@@ -812,25 +812,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 205800,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -851,6 +835,22 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Big world",
-      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Crash Course in Romance OST Part 3",
-        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 250831,
-      "name": "The opposite side",
-      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1259,22 +1243,6 @@
       "duration_ms": 221333,
       "name": "You&I",
       "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1295,6 +1263,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Crash Course in Romance OST Part 3",
+        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 250831,
+      "name": "The opposite side",
+      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
-      },
-      "artists": [
-        {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Invitation",
         "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 210000,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Everyday waiting you",
-        "url": "https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb"
+        "name": "Faith OST",
+        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
       "artists": [
         {
-          "name": "Lee Yejoon",
-          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 241386,
-      "name": "Everyday waiting you",
-      "url": "https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M"
+      "duration_ms": 267937,
+      "name": "Walking Slowly",
+      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Faith OST",
-        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
+        "name": "Everyday waiting you",
+        "url": "https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb"
       },
       "artists": [
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "Lee Yejoon",
+          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
         }
       ],
-      "duration_ms": 267937,
-      "name": "Walking Slowly",
-      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+      "duration_ms": 241386,
+      "name": "Everyday waiting you",
+      "url": "https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "One Day More",
-        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
       "artists": [
         {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 247986,
-      "name": "One Day More",
-      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+      "duration_ms": 227054,
+      "name": "Tale",
+      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
     }
   ],
   "unique_name": "v o K a l",

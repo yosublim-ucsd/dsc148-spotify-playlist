@@ -1,13 +1,65 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Shay Lia",
-  "num_followers": 73208,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Bebe Rexha",
+  "num_followers": 73694,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY4NDI5NCwwMDAwMDAwMDRhYThhZDNkOWU0ZGQxOWFlZGEzZTkyYjJlMGIyYzQw",
+  "snapshot_id": "MTY4MDk3MjI5MSwwMDAwMDAwMGVhZWQ0Mzc2OTMwOGEzMWYzOGYwMzBmNmM2NGZiMzM3",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:35:04",
+      "album": {
+        "name": "Call on Me",
+        "url": "https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 170102,
+      "name": "Call on Me",
+      "url": "https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
+    },
+    {
+      "added_at": "2023-03-17 15:55:23",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
@@ -41,20 +93,28 @@
       "url": "https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ"
     },
     {
-      "added_at": "2023-03-31 04:35:04",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Call on Me",
-        "url": "https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 170102,
-      "name": "Call on Me",
-      "url": "https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2023-04-03 02:48:44",
@@ -87,6 +147,22 @@
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "21 Flaws",
+        "url": "https://open.spotify.com/album/2B1SFtydatVss2IalXULGh"
+      },
+      "artists": [
+        {
+          "name": "MISS MOLLY",
+          "url": "https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA"
+        }
+      ],
+      "duration_ms": 167488,
+      "name": "21 Flaws",
+      "url": "https://open.spotify.com/track/4xgOf211tEtSk8d9H4fBSE"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -133,6 +209,38 @@
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Feel Like Coming Home",
+        "url": "https://open.spotify.com/album/1ARa2sb7Rp1VBr8OxqGRgX"
+      },
+      "artists": [
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Feel Like Coming Home",
+      "url": "https://open.spotify.com/track/5lAZtr9ReykoA8yaNKFuWZ"
+    },
+    {
+      "added_at": "2023-04-07 04:21:15",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO"
+      },
+      "artists": [
+        {
+          "name": "Ghita",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "duration_ms": 168434,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50"
+    },
+    {
       "added_at": "2023-03-31 04:35:04",
       "album": {
         "name": "Tell Mama",
@@ -163,6 +271,42 @@
       "duration_ms": 172500,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"
+    },
+    {
+      "added_at": "2023-04-08 16:44:50",
+      "album": {
+        "name": "Higher Than Heaven (Deluxe)",
+        "url": "https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192349,
+      "name": "Tastes Like You",
+      "url": "https://open.spotify.com/track/4HLcj0MD2tg91flaBCIJHJ"
+    },
+    {
+      "added_at": "2023-03-17 15:55:23",
+      "album": {
+        "name": "Who the Hell Is Edgar?",
+        "url": "https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0"
+      },
+      "artists": [
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        },
+        {
+          "name": "SALENA",
+          "url": "https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "Who the Hell Is Edgar?",
+      "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -261,26 +405,6 @@
       "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Who the Hell Is Edgar?",
-        "url": "https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0"
-      },
-      "artists": [
-        {
-          "name": "TEYA",
-          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
-        },
-        {
-          "name": "SALENA",
-          "url": "https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "Who the Hell Is Edgar?",
-      "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
-    },
-    {
       "added_at": "2023-03-31 04:35:04",
       "album": {
         "name": "Substitution",
@@ -319,22 +443,6 @@
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "So Hard So Hot",
-        "url": "https://open.spotify.com/album/01ixXX3vEIf4hDOmCkztMY"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        }
-      ],
-      "duration_ms": 267546,
-      "name": "So Hard So Hot",
-      "url": "https://open.spotify.com/track/3EkWwQyUB220deoBPcBWZl"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -387,26 +495,6 @@
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
       },
@@ -435,22 +523,6 @@
       "duration_ms": 159353,
       "name": "Baby Was A Dancer",
       "url": "https://open.spotify.com/track/1TJ2BnYssITgFEuOGE0oIv"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "So Bad Together",
-        "url": "https://open.spotify.com/album/337cy5h4uKBBHzD7TBv8e1"
-      },
-      "artists": [
-        {
-          "name": "Tash Blake",
-          "url": "https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "So Bad Together",
-      "url": "https://open.spotify.com/track/2S8YM7YkZuNrXuz84WqEoA"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -575,22 +647,6 @@
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
@@ -651,22 +707,6 @@
       "duration_ms": 220223,
       "name": "GOOD PUSS",
       "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Things Aren't Nice In Paradise",
-        "url": "https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz"
-      },
-      "artists": [
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Things Aren't Nice In Paradise",
-      "url": "https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -819,22 +859,6 @@
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 178458,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
         "name": "Diamonds & Dancefloors",
         "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
       },
@@ -967,22 +991,6 @@
       "duration_ms": 110000,
       "name": "BOYTOY",
       "url": "https://open.spotify.com/track/0uhM3a59WXfYEsxbmjga6S"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     },
     {
       "added_at": "2023-03-17 15:55:23",

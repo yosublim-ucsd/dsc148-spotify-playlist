@@ -2084,10 +2084,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 377660,
       "name": "Teleported",
       "url": "https://open.spotify.com/track/389hyI9sMvHVruG0dTD4Vi"
+    },
+    {
+      "album": {
+        "name": "Stargate EP",
+        "url": "https://open.spotify.com/album/2PSH7ccyenkcp0e7t9WBAl"
+      },
+      "artists": [
+        {
+          "name": "Anunaku",
+          "url": "https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377660,
+      "name": "Teleported",
+      "url": "https://open.spotify.com/track/5vIA30Y4Emhay6NSvpDZMJ"
     },
     {
       "album": {

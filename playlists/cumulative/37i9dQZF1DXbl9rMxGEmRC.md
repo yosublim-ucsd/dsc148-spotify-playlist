@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-369 songs - 1 day 8 hr 5 min
+371 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Black Metal](https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV) | 3:41 | 2022-07-13 |  |
 | [Black Moon Rising](https://open.spotify.com/track/07joZaONeftWMUyrXi7F7a) | [Necrophobic](https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa) | [Darkside](https://open.spotify.com/album/6OtkpXQWWxrBcIpyt2COXH) | 2:50 | 2022-11-14 | 2022-12-06 |
 | [Blackest Sabbath 1997](https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Blackest Sabbath 1997](https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m) | 6:06 | 2021-12-17 | 2022-05-28 |
-| [Blashyrkh \- Mighty Ravendark](https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Battles in the North](https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw) | 4:34 | 2022-07-13 |  |
+| [Blashyrkh \- Mighty Ravendark](https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Battles in the North](https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw) | 4:34 | 2022-07-13 | 2023-04-09 |
 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 | 2022-02-11 |  |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/07zQA8UkyxpmnRhPjHOVOB) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq) | 4:25 | 2022-07-13 | 2022-07-29 |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) | 4:25 | 2022-07-13 |  |
@@ -218,6 +218,7 @@
 | [Momentary Trails](https://open.spotify.com/track/2KAnVNkix64ZZwDQSQ6Xuy) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [Solitarian](https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5) | 5:14 | 2021-12-17 | 2022-04-09 |
 | [Mono No Aware](https://open.spotify.com/track/2gsV4pyZk0hTkZKOGISkcF) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Mono No Aware](https://open.spotify.com/album/5sBYlEpYJG7XDEj4BECS9P) | 9:43 | 2022-01-14 | 2022-02-11 |
 | [Moonflowers Bloom in Misery](https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Moonflowers \(Deluxe Edition\)](https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek) | 6:19 | 2021-12-17 |  |
+| [Moribunda](https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Triade III : Nyx](https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0) | 7:36 | 2023-04-07 |  |
 | [Mother North](https://open.spotify.com/track/79iREiH6mrODItQGLaidt8) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb) | 6:25 | 2022-07-13 |  |
 | [Mother North \- Remastered 2016](https://open.spotify.com/track/2kBBRk0vuVdQjA1LH494Qz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/6K0rkORxLaVvOC72xW9ZgB) | 6:25 | 2022-07-13 | 2022-07-29 |
 | [Mountain Magick](https://open.spotify.com/track/0BgrdFSWYIM4DiWFdaOOyX) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/6F3UlS1JBlGkzeTrYuJMiB) | 5:55 | 2023-02-15 | 2023-03-04 |
@@ -347,7 +348,7 @@
 | [Under A Funeral Moon](https://open.spotify.com/track/4kGQ1zZbbVeZVftLCgufsb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under a Funeral Moon](https://open.spotify.com/album/6mFiCalfpMfPPfmXnqlQNV) | 4:57 | 2022-07-13 | 2022-07-28 |
 | [Under a Funeral Moon \- Studio](https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under A Funeral Moon](https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj) | 5:06 | 2022-07-13 | 2023-02-16 |
 | [Unsilent Storms In The North Abyss](https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Pure Holocaust](https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ) | 3:14 | 2022-07-13 |  |
-| [Unstern](https://open.spotify.com/track/309A8NlAFgdMAWo2qeMFIG) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Unstern](https://open.spotify.com/album/1jb95cQtwpDGUCuyra2FLO) | 6:10 | 2023-03-03 |  |
+| [Unstern](https://open.spotify.com/track/309A8NlAFgdMAWo2qeMFIG) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Unstern](https://open.spotify.com/album/1jb95cQtwpDGUCuyra2FLO) | 6:10 | 2023-03-03 | 2023-04-09 |
 | [Urkraft](https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Urkraft](https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM) | 7:35 | 2022-04-01 | 2022-07-25 |
 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 | 2022-01-07 | 2022-04-09 |
 | [Vargtimman](https://open.spotify.com/track/5bMmrsetYnEO89tBG05ljx) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/2TQ3R02Fi7ZgFEzegs4QsK) | 5:07 | 2021-12-17 | 2022-05-14 |
@@ -357,6 +358,7 @@
 | [Voces Ab Alta](https://open.spotify.com/track/2dYYziGqbCMgX1Y4yYWDUp) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Voces Ab Alta](https://open.spotify.com/album/1DdYqnJfJaXcpJq9TUW9Xj) | 5:39 | 2021-12-17 | 2022-03-11 |
 | [Vomiting Void](https://open.spotify.com/track/7zRN92DMeBbCcwMEBsS3Iy) | [Ciemra](https://open.spotify.com/artist/2jQQJhLOvicHLW0obfFDvx) | [Vomiting Void](https://open.spotify.com/album/1mrbD6kLf00SOGzSDvzywo) | 3:52 | 2023-02-15 |  |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 |  |
+| [War Against All](https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/42itntO9qiIkUewMznm08m) | 3:26 | 2023-04-07 |  |
 | [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 | 2022-08-13 |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |
 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 | 2022-04-01 | 2022-04-29 |

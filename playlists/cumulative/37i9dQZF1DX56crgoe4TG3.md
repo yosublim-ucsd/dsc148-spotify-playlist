@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-201 songs - 12 hr 45 min
+202 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [When Doves Cry \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 4:40 | 2021-08-20 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/2dJrn376fJPUCj1f4txnRQ) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Where Is My Mind?](https://open.spotify.com/album/7vH2fXhej1rubfAOvqwECV) | 3:30 | 2021-08-20 |  |
 | [White Bird](https://open.spotify.com/track/2PtX9ivW736enJeAIY5G0h) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Laps In Seven](https://open.spotify.com/album/10iKg9kGMqfPquNwsXzcdm) | 6:00 | 2021-08-20 | 2022-04-02 |
+| [White Rabbit](https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [White Rabbit](https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd) | 5:15 | 2023-04-07 |  |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-08-20 |  |
 | [Wild Horses](https://open.spotify.com/track/4xMmjrefx4NlEOHfGu3EQf) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7) | 4:38 | 2021-08-20 | 2022-07-29 |
 | [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 | 2022-05-27 |  |

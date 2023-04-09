@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 20575,
+  "num_followers": 20776,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5NDQzMCwwMDAwMDAwMDY3ZWYwNjdkNmVkNjgzNWU5MGEwNzQyMzVjOTViMmQx",
+  "snapshot_id": "MTY4MDc5NDQzMCwwMDAwMDAwMGEwOTVjNmNlOGE1YmMxYjJkZjQ0NDFlYzY4NWNiOTI1",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Taught to Be Proud",
-        "url": "https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f"
+        "name": "Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00",
+        "url": "https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF"
       },
       "artists": [
         {
-          "name": "Tea Leaf Green",
-          "url": "https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4"
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
         }
       ],
-      "duration_ms": 241986,
-      "name": "The Garden (Pt. III)",
-      "url": "https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ"
+      "duration_ms": 516413,
+      "name": "This Must Be the Place (Naive Melody)",
+      "url": "https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00",
-        "url": "https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF"
+        "name": "Taught to Be Proud",
+        "url": "https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f"
       },
       "artists": [
         {
-          "name": "The String Cheese Incident",
-          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+          "name": "Tea Leaf Green",
+          "url": "https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4"
         }
       ],
-      "duration_ms": 516413,
-      "name": "This Must Be the Place (Naive Melody)",
-      "url": "https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx"
+      "duration_ms": 241986,
+      "name": "The Garden (Pt. III)",
+      "url": "https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "A Picture of Nectar",
-        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 431333,
-      "name": "Stash",
-      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Shack-man",
         "url": "https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 271000,
       "name": "Bubblehouse",
       "url": "https://open.spotify.com/track/2YtX5xh7y5FoQywRmsGCeK"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "A Picture of Nectar",
+        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 431333,
+      "name": "Stash",
+      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "A Live One",
-        "url": "https://open.spotify.com/album/4UTjy2dLYT8i8ItyboijlW"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Bouncing Around the Room - Live Version - Clifford Ball, 1994",
-      "url": "https://open.spotify.com/track/639B1pi6YZJvLMA1DAzYTo"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "At Fillmore East",
         "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 1159912,
       "name": "You Don't Love Me - Live At Fillmore East, March 12, 1971",
       "url": "https://open.spotify.com/track/04hwplKxASneVsFWzbSpCX"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "A Live One",
+        "url": "https://open.spotify.com/album/4UTjy2dLYT8i8ItyboijlW"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Bouncing Around the Room - Live Version - Clifford Ball, 1994",
+      "url": "https://open.spotify.com/track/639B1pi6YZJvLMA1DAzYTo"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "11/17/98 Calvin Theatre, Northampton, MA",
-        "url": "https://open.spotify.com/album/02BIsMTC3oRpFYCVld4fk3"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 437691,
-      "name": "Climb to Safety",
-      "url": "https://open.spotify.com/track/5rd5B3BbGkiXlyf49rGpHb"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live At The Academy Of Music 1971",
         "url": "https://open.spotify.com/album/1qDR31BZNhAH8ExjJuHhAj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 268400,
       "name": "Don't Do It - Live At The Academy Of Music / 1971",
       "url": "https://open.spotify.com/track/64UtYRCtvr37iCHy6Rx6mE"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "11/17/98 Calvin Theatre, Northampton, MA",
+        "url": "https://open.spotify.com/album/02BIsMTC3oRpFYCVld4fk3"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 437691,
+      "name": "Climb to Safety",
+      "url": "https://open.spotify.com/track/5rd5B3BbGkiXlyf49rGpHb"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre",
-        "url": "https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9"
+        "name": "GarciaLive Volume Two: August 5th, 1990 Greek Theatre",
+        "url": "https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs"
       },
       "artists": [
         {
@@ -1068,17 +1068,17 @@
           "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
         },
         {
-          "name": "Clarence Clemons",
-          "url": "https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO"
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
         }
       ],
-      "duration_ms": 665397,
-      "name": "Dear Prudence - Live",
-      "url": "https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM"
+      "duration_ms": 645680,
+      "name": "The Harder They Come (feat. B\u00e9la Fleck) - Live",
+      "url": "https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live From The Fall",
-        "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Regarding Steven",
-      "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live at House of Blues Boston (12/31/2018)",
         "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 430066,
       "name": "Lost in the Cold (Live)",
       "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Live From The Fall",
+        "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Regarding Steven",
+      "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "GarciaLive Volume Two: August 5th, 1990 Greek Theatre",
-        "url": "https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs"
+        "name": "GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre",
+        "url": "https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9"
       },
       "artists": [
         {
@@ -1176,17 +1176,17 @@
           "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
         },
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
           "name": "Jerry Garcia",
           "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Clarence Clemons",
+          "url": "https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO"
         }
       ],
-      "duration_ms": 645680,
-      "name": "The Harder They Come (feat. B\u00e9la Fleck) - Live",
-      "url": "https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu"
+      "duration_ms": 665397,
+      "name": "Dear Prudence - Live",
+      "url": "https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Port Chester, NY :: 2016-12-30",
-        "url": "https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf"
-      },
-      "artists": [
-        {
-          "name": "Joe Russo's Almost Dead",
-          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
-        }
-      ],
-      "duration_ms": 1069773,
-      "name": "Throwing Stones - Live 2016-12-30",
-      "url": "https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Peoples Motel Band",
         "url": "https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 240904,
       "name": "Tomorrow Might As Well Be Today - Live",
       "url": "https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Port Chester, NY :: 2016-12-30",
+        "url": "https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "duration_ms": 1069773,
+      "name": "Throwing Stones - Live 2016-12-30",
+      "url": "https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY"
     },
     {
       "added_at": "2023-04-06 15:04:32",

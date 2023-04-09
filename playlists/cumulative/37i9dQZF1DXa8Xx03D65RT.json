@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "19-02-21",
       "url": "https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 191613,
       "name": "Above Light",
       "url": "https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180218,
       "name": "Broparken",
       "url": "https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5"
@@ -4906,6 +4906,24 @@
       "duration_ms": 161250,
       "name": "Les couleurs du ciel",
       "url": "https://open.spotify.com/track/3nyasiaSCFSEfxEEYg4jpx"
+    },
+    {
+      "album": {
+        "name": "Les mots",
+        "url": "https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117549,
+      "name": "Les mots",
+      "url": "https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv"
     },
     {
       "album": {
@@ -9404,7 +9422,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 116006,
       "name": "Truss",
       "url": "https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe"
@@ -9714,6 +9732,24 @@
       "duration_ms": 138094,
       "name": "Up toward the sky",
       "url": "https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH"
+    },
+    {
+      "album": {
+        "name": "Utsjoki",
+        "url": "https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT"
+      },
+      "artists": [
+        {
+          "name": "Vegard",
+          "url": "https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143867,
+      "name": "Utsjoki",
+      "url": "https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 63592,
+  "num_followers": 63704,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjE2NiwwMDAwMDAwMDhkY2E4N2IzMDljNGI0MjFjM2JhYTc1YWI0ZjYxOWRk",
+  "snapshot_id": "MTY3Mzg3NjE2NiwwMDAwMDAwMDEzOGU3OWVhZjA1OGU3ZTE3Y2YyNmUyYzdiOWU4Y2Ez",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "You Could Be Mine",
+      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Jon Bon Jovi",
-          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Blaze Of Glory",
-      "url": "https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Load",
         "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 269573,
       "name": "Until It Sleeps",
       "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blaze Of Glory",
+      "url": "https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
+        "name": "Everything Must Go 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "A Design for Life - Remastered",
+      "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
         "name": "Lunch, Recess & Detention",
         "url": "https://open.spotify.com/album/3TGtyfwv5KOmHENjkY8TQc"
       },
@@ -1263,18 +1279,50 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Everything Must Go 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2"
+        "name": "The Man Who",
+        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
       },
       "artists": [
         {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 257640,
-      "name": "A Design for Life - Remastered",
-      "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
+      "duration_ms": 213666,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Stupid Girl - Remastered 2015",
+      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1299,54 +1347,6 @@
       "duration_ms": 358222,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "The Man Who",
-        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl - Remastered 2015",
-      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "90s Mixtape",
-        "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
       "artists": [
         {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 219813,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8"
+      "duration_ms": 381400,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
+        "name": "90s Mixtape",
+        "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
         "name": "Post Orgasmic Chill",
         "url": "https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 285693,
       "name": "Secretly",
       "url": "https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Awful",
-      "url": "https://open.spotify.com/track/6O0hdCHa2K3zXM4OK9tsmA"
     }
   ],
   "unique_name": "90s Summer Rock",

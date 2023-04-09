@@ -6511,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "Never forget to smile",
+        "url": "https://open.spotify.com/album/0a9ua95iM8g4pSqXkty576"
+      },
+      "artists": [
+        {
+          "name": "\u5915\u65b9\u306e\u72ac(U \u30fb\u30a7\u30fb)",
+          "url": "https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Never forget to smile",
+      "url": "https://open.spotify.com/track/0Ai8kfNRzoD55JuDHi0qu8"
+    },
+    {
+      "album": {
         "name": "New Adventure",
         "url": "https://open.spotify.com/album/3o7NGZYi9oRV6aRnfbOBJg"
       },
@@ -8812,7 +8830,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 243696,
       "name": "Spring Fever",
       "url": "https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR"
@@ -8928,7 +8946,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 121411,
       "name": "Stay Around",
       "url": "https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O"
@@ -9120,7 +9138,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 138880,
       "name": "Sudachi",
       "url": "https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H"

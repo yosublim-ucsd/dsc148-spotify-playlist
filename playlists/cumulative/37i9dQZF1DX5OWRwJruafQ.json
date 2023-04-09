@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 107600,
       "name": "100",
       "url": "https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 185569,
       "name": "Doaba Zone",
       "url": "https://open.spotify.com/track/4aPJDwEXwpND92r8VVfgvi"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 130328,
       "name": "Expense",
       "url": "https://open.spotify.com/track/4LPNEtQxELZYdaacTHWMxq"
@@ -694,6 +694,32 @@
       "duration_ms": 197125,
       "name": "Gaddi",
       "url": "https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj"
+    },
+    {
+      "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/4iaAssa1mvJrF2JeOi3V3U"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Turner",
+          "url": "https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166617,
+      "name": "Gang",
+      "url": "https://open.spotify.com/track/6JUucJOwksTvrjjnq3yyqQ"
     },
     {
       "album": {
@@ -920,7 +946,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 149999,
       "name": "Jaan",
       "url": "https://open.spotify.com/track/4fWxieoPIFyOJxzXwdlFuQ"
@@ -1032,7 +1058,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 153944,
       "name": "Maan Punjabi - Spotify Singles",
       "url": "https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C"
@@ -1228,7 +1254,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 148444,
       "name": "Nakhra",
       "url": "https://open.spotify.com/track/2mCSLb0iW0XRrKDVjMzNhm"
@@ -1802,7 +1828,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151846,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1"

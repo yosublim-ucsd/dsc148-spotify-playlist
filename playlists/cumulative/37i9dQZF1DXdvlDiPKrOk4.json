@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Lata Didi - Free Hits",
+        "url": "https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339613,
+      "name": "BANGLE KE PEECHHE",
+      "url": "https://open.spotify.com/track/1wmKoQ4kzcE7dZ7N84VpzJ"
+    },
+    {
+      "album": {
         "name": "Samadhi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/42tJue2GQXcTMfOtP5q4TE"
       },
@@ -212,7 +230,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 339613,
       "name": "Bangle Ke Peechhe",
       "url": "https://open.spotify.com/track/2NptrDJFXKX6U7Xcrcg9F8"
@@ -277,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Lata Didi - Free Hits",
+        "url": "https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355265,
+      "name": "DIL DEEWANA",
+      "url": "https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA"
+    },
+    {
+      "album": {
         "name": "Maine Pyar Kiya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV"
       },
@@ -288,7 +324,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 354426,
       "name": "Dil Deewana - Female Vocals",
       "url": "https://open.spotify.com/track/5M7LdQfurIG70nbvlSAO07"

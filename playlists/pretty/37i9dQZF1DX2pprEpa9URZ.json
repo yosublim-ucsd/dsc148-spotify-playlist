@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 700955,
+  "num_followers": 701570,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDI1YWIxNTMwNDk0Zjg4MGU5NGM5ZmJjNTNmNjhlYzA1",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDVkYjZmYWU4ZGIyNWUyNGE2OGI1MTZhODc3YmE0YTU4",
   "tracks": [
     {
       "added_at": "2023-02-17 15:33:17",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
     },
     {
-      "added_at": "2023-04-07 00:52:51",
+      "added_at": "2023-04-09 00:56:39",
       "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
     },
     {
-      "added_at": "2023-04-07 00:52:51",
+      "added_at": "2023-04-09 00:56:39",
       "album": {
         "name": "Dancing Colours",
         "url": "https://open.spotify.com/album/7zoVXfKEQorTWts3Lz3gmp"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
     },
     {
-      "added_at": "2023-04-07 00:52:51",
+      "added_at": "2023-04-09 00:56:39",
       "album": {
         "name": "Pantarei",
         "url": "https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
     },
     {
-      "added_at": "2023-04-07 00:52:51",
+      "added_at": "2023-04-09 00:56:39",
       "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
     },
     {
-      "added_at": "2023-04-07 00:52:51",
+      "added_at": "2023-04-09 00:56:39",
       "album": {
         "name": "Bekaboo",
         "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 371106,
       "name": "Mesta",
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Star Tripper",
-        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Star Tripper",
-      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -447,22 +447,6 @@
       "duration_ms": 193278,
       "name": "Milambi",
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -507,22 +491,34 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Experiencing a Significant Gravitas Shortfall",
-        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
       },
       "artists": [
         {
-          "name": "Commoner",
-          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
-        },
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
-      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+        "name": "Experiencing a Significant Gravitas Shortfall",
+        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Commoner",
+          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
+        },
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+      "duration_ms": 292000,
+      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
+      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
       "artists": [
         {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
         }
       ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1195,82 +1195,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
-        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
-      },
-      "artists": [
-        {
-          "name": "Bonga",
-          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
-        },
-        {
-          "name": "Everything Counts",
-          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
-        }
-      ],
-      "duration_ms": 451375,
-      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
-      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Voodoo Guitar",
-        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
-      },
-      "artists": [
-        {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
-        },
-        {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
-        },
-        {
-          "name": "Timboletti",
-          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
-        }
-      ],
-      "duration_ms": 637455,
-      "name": "Voodoo Guitar - Timboletti Remix",
-      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -1303,6 +1227,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -1315,6 +1255,66 @@
       "duration_ms": 282520,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
+        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+      },
+      "artists": [
+        {
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        },
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+        }
+      ],
+      "duration_ms": 451375,
+      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
+      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Voodoo Guitar",
+        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+        },
+        {
+          "name": "Timboletti",
+          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
+        }
+      ],
+      "duration_ms": 637455,
+      "name": "Voodoo Guitar - Timboletti Remix",
+      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
+      },
+      "artists": [
+        {
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+        },
+        {
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 286392,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Tripoli",
-          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
-        }
-      ],
-      "duration_ms": 382066,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     }
   ],
   "unique_name": "Org\u00e1nica",

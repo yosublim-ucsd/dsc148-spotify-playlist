@@ -6847,6 +6847,24 @@
     },
     {
       "album": {
+        "name": "They Wait",
+        "url": "https://open.spotify.com/album/2FokvDZKaJuVqKcSof5sJ6"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239557,
+      "name": "They Wait",
+      "url": "https://open.spotify.com/track/5F3KK7xrW55qI2Vm7meMnc"
+    },
+    {
+      "album": {
         "name": "Loose Future",
         "url": "https://open.spotify.com/album/7CungZ9S54si6eKBOqhnF6"
       },

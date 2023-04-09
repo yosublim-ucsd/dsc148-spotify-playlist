@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 15772,
+  "num_followers": 15773,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGFmYTdlODY5YzQ2NzdhYTQ4MTEzMmM4NjVmNzg0MDcx",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDNmZmEwMGIyODk3YTY4N2Y2ZTk5NThlZGYzZDg5NDIw",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
-      },
-      "artists": [
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Slow Flow",
+        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "Rosas e Rimas",
+      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 256161,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Slow Flow",
-        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
-      },
-      "artists": [
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "Rosas e Rimas",
-      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Oriente",
         "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 202617,
       "name": "Linda, Louca e Mimada",
       "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

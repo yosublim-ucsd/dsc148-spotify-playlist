@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 39879,
+  "num_followers": 39920,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGNkNmZkOGRhZTQxOGM2MzgzOWQ0MDA2ZDcyYjZlNTNi",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGZkMWRiMTQxNzM0MTdjNTA1YTI2ZWEzZTEzYTU4ZGMz",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lost Halloween",
-        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
-      },
-      "artists": [
-        {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
-        }
-      ],
-      "duration_ms": 120480,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Dootone Rock 'N' Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
+        "name": "Lost Halloween",
+        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
       },
       "artists": [
         {
-          "name": "Helen Humes",
-          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 136255,
-      "name": "Real Fine Daddy",
-      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
+      "duration_ms": 120480,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -495,18 +479,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "Dootone Rock 'N' Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+      "duration_ms": 136255,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -527,6 +511,22 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",

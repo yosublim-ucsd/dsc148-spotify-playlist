@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 131343,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 198106,
       "name": "Dama Dama (Album Version)",
       "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
@@ -1926,6 +1926,24 @@
       "duration_ms": 175642,
       "name": "la corriente",
       "url": "https://open.spotify.com/track/3wFJRE20CNfzL0CqRj45Vn"
+    },
+    {
+      "album": {
+        "name": "La flor (Mov.1: La Flor)",
+        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200985,
+      "name": "La flor - Mov.1: La Flor",
+      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
     },
     {
       "album": {
@@ -3854,7 +3872,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 159653,
       "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
       "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"

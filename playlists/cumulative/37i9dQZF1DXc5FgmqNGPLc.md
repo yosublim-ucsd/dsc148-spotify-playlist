@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-114 songs - 17 hr 2 min
+115 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Autumn Leaves \- Live At Philharmonie, Munich / 1986](https://open.spotify.com/track/7tyDWNVuIKEDuZS33Fm9S4) | [Joseph Kosma](https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y), [Jacques Enoch](https://open.spotify.com/artist/4mhblJOpL8srpTB3EdhuML), [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Still Live](https://open.spotify.com/album/5rQaZGSxnTBpFvj5V2fp7P) | 10:24 | 2021-11-12 |  |
 | [BLACCK \- Live](https://open.spotify.com/track/0vI6b1bVuS4BRAMLj7gb52) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Chronology Of A Dream: Live At The Village Vanguard](https://open.spotify.com/album/0D5GKNmcgkY8aqokBx4aID) | 4:06 | 2021-11-12 |  |
 | [Bluesbird Blues \- Live](https://open.spotify.com/track/4wgMRK5oV43WPIKeq9F5b7) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Live at Fabrik Hamburg 1981, Vol\. 1](https://open.spotify.com/album/7JBQQD8VDvqSacOz4NsQYg) | 9:33 | 2023-03-24 |  |
-| [Bright Evenings \- Live in New York City, February 8, 1975](https://open.spotify.com/track/4oCWrzlFLt6mmUiJZMH8LQ) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Bright Evenings \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/4PH7anaZ0DmyUzBDMAqbA9) | 2:55 | 2022-03-18 |  |
+| [Bright Evenings \- Live in New York City, February 8, 1975](https://open.spotify.com/track/4oCWrzlFLt6mmUiJZMH8LQ) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Bright Evenings \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/4PH7anaZ0DmyUzBDMAqbA9) | 2:55 | 2022-03-18 | 2023-04-09 |
 | [But Not for Me](https://open.spotify.com/track/7rfKGmNCu9wK0dfShVcOzt) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [But Not For Me](https://open.spotify.com/album/6hOKusm7cMOwYEDyccPull) | 9:32 | 2022-10-21 |  |
 | [But Not For Me \- Live](https://open.spotify.com/track/2YgzzUngwKJ193BuITI15o) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Up At Minton's](https://open.spotify.com/album/1G8ODQXuTjHPc0JXNHnT0m) | 11:29 | 2021-11-12 |  |
 | [C Jam Blues \- Live at the Blue Note Club, Chicago; 1994 Remix](https://open.spotify.com/track/1wHGIsLlqW1sPsiVY6zyml) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Live At The Blue Note](https://open.spotify.com/album/2Pi1i1PxmSDcczxHrhzj1p) | 4:52 | 2021-11-12 |  |
@@ -121,6 +121,7 @@
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
 | [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
 | [You Gotta Move \- Live](https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [You Gotta Move \(Live\)](https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI) | 14:01 | 2023-01-13 |  |
+| [Your Smile \- Live](https://open.spotify.com/track/5dF9OuGFO1rtDfpbULTpL0) | [Victor Feldman](https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Trevor Feldman](https://open.spotify.com/artist/2e44l2JbTpsjkrk97ji0A1) | [Your Smile \(Live\)](https://open.spotify.com/album/6lHTZb9TcHVd2qKE7QDilR) | 8:54 | 2023-04-07 |  |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

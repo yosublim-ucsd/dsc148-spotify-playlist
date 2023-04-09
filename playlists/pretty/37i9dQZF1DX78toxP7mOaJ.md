@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,779 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,846 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 77 | [Mona Lisa](https://open.spotify.com/track/1kpbUkXdbld68SQ0oW7ZsR) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Mona Lisa](https://open.spotify.com/album/33UtZ7otPosBmFYjSmDDIz) | 1:58 |
 | 78 | [Back Row](https://open.spotify.com/track/77zddEmVpZt9EIOUt6urSv) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Back Row](https://open.spotify.com/album/0xNOKlAx6QrqSVmJjbspks) | 2:55 |
 | 79 | [Sugar](https://open.spotify.com/track/1ue2D3NhDmQVvQU3uTAUvh) | [Rodeo Boys](https://open.spotify.com/artist/4zawN6PuzzIybbu2kKhI0r) | [Sugar](https://open.spotify.com/album/3LhxKqKGXTQj76ekNkSbTm) | 3:22 |
-| 80 | [Heaven Can Wait](https://open.spotify.com/track/73NpteJe447ilGqgvXW2EH) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/1yu0ZfTJVvsrgjMF9tDuGn) | 3:00 |
+| 80 | [Heaven Can Wait](https://open.spotify.com/track/3guk5WtW5t43UKXLrx5HgH) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/0D1pDHXoeqeOdBmtzbnji3) | 3:00 |
 
-Snapshot ID: `MTY4MDcxMDQwMCwwMDAwMDAwMDcwM2UwZTkwNzgzM2ViMjg5ODk4YjMwYWZiMTVlMjM1`
+Snapshot ID: `MTY4MDcxMDQwMCwwMDAwMDAwMDMwNWE2NmExMWI5ZDU0ZmY1OTlkZTM0ODY3ZGZjNTAz`

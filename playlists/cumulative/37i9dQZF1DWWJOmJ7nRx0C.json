@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: The Smashing Pumpkins",
+  "description": "The hardest songs, loud. Very loud. Cover: Greta Van Fleet",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "album": {
+        "name": "A Crooked Melody",
+        "url": "https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235835,
+      "name": "A Crooked Melody",
+      "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
     },
     {
       "album": {
@@ -543,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Another Way",
+        "url": "https://open.spotify.com/album/6V7n8Wl01gSsYOAlZwudcq"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/2F0nY9fBUjceQEhH7L48zK"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
       },
@@ -554,7 +590,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
@@ -720,7 +756,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 212294,
       "name": "Back On Deck",
       "url": "https://open.spotify.com/track/6F9vB3P2MvPBaD9QgSVTXM"
@@ -940,7 +976,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 240203,
       "name": "Best at Being the Worst",
       "url": "https://open.spotify.com/track/5icnQhZE9x54UqAxBK9po3"
@@ -1056,6 +1092,24 @@
       "duration_ms": 222739,
       "name": "Beyond the Vale",
       "url": "https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI"
+    },
+    {
+      "album": {
+        "name": "Bird in the Hand",
+        "url": "https://open.spotify.com/album/2JTKmi6xzP0Th7GkJWoCDi"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268182,
+      "name": "Bird in the Hand",
+      "url": "https://open.spotify.com/track/2uAv9cbaThjjSbRHxhDDuH"
     },
     {
       "album": {
@@ -1266,7 +1320,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 114285,
       "name": "BLOODPUDDLE",
       "url": "https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO"
@@ -1988,6 +2042,24 @@
       "duration_ms": 182243,
       "name": "CHAOS",
       "url": "https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe"
+    },
+    {
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/20nHfQZxWN5YHRVRzMGVyL"
+      },
+      "artists": [
+        {
+          "name": "Royal Bliss",
+          "url": "https://open.spotify.com/artist/2DntubHirEICSdXa23WNpV"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192956,
+      "name": "Chasing Stars",
+      "url": "https://open.spotify.com/track/5uWWDJfWRHtd3F5tAMgqyp"
     },
     {
       "album": {
@@ -3600,6 +3672,24 @@
     {
       "album": {
         "name": "Drown",
+        "url": "https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg"
+      },
+      "artists": [
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208837,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5T7MwiVZR9HCW1TBPJR0gP"
+    },
+    {
+      "album": {
+        "name": "Drown",
         "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
       },
       "artists": [
@@ -4022,7 +4112,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
@@ -5354,7 +5444,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 256984,
       "name": "Hold On (feat. Lacey Sturm)",
       "url": "https://open.spotify.com/track/0Wzgs4xAJ9JHZ4WXxqQd4I"
@@ -5684,7 +5774,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 235040,
       "name": "I Still Burn",
       "url": "https://open.spotify.com/track/7LYlvig8Sjclil4xO7ZKjk"
@@ -6282,7 +6372,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 299060,
       "name": "Kill Or Be Killed",
       "url": "https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3"
@@ -6981,6 +7071,24 @@
     },
     {
       "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279737,
+      "name": "Love From The Other Side",
+      "url": "https://open.spotify.com/track/5zqdoQXjMmqb1GyzTKa4E9"
+    },
+    {
+      "album": {
         "name": "Love is Red",
         "url": "https://open.spotify.com/album/4oEGYiFN0HZvJJZNUnUMXJ"
       },
@@ -7108,7 +7216,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 229007,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o"
@@ -7256,6 +7364,24 @@
       "duration_ms": 206648,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
+    },
+    {
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "album": {
@@ -7898,7 +8024,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 223386,
       "name": "Nobody Wants to Die",
       "url": "https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx"
@@ -8294,6 +8420,24 @@
       "duration_ms": 192052,
       "name": "Pain // Happiness",
       "url": "https://open.spotify.com/track/3eCpH7rYjareU4NBxlG91G"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241153,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
     },
     {
       "album": {
@@ -8857,6 +9001,24 @@
     },
     {
       "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "album": {
         "name": "PURGE ft. Siiickbrain",
         "url": "https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1"
       },
@@ -9312,7 +9474,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 215362,
       "name": "Rotoscope",
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
@@ -9442,7 +9604,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/4Q9zJZBVJRGkiOWaZbEFIK"
@@ -9532,7 +9694,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
@@ -9694,7 +9856,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
@@ -10594,7 +10756,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
@@ -10670,6 +10832,24 @@
       "duration_ms": 198515,
       "name": "StuckintheMiddle",
       "url": "https://open.spotify.com/track/41wOSqwwI5BYv0Eke9yZHv"
+    },
+    {
+      "album": {
+        "name": "Stupid Human",
+        "url": "https://open.spotify.com/album/2Saei1iuBMHld4AxrVhbLU"
+      },
+      "artists": [
+        {
+          "name": "Blame My Youth",
+          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205078,
+      "name": "Stupid Human",
+      "url": "https://open.spotify.com/track/4OO3HzU2dgsmAIuZ6RVj5Z"
     },
     {
       "album": {
@@ -11462,7 +11642,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 178415,
       "name": "The Optimist",
       "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
@@ -11895,6 +12075,24 @@
     },
     {
       "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219043,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911"
+    },
+    {
+      "album": {
         "name": "Thousand Lifetimes",
         "url": "https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6"
       },
@@ -12192,7 +12390,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 176072,
       "name": "Under The Knife",
       "url": "https://open.spotify.com/track/2iZ1OrZmOS5tZefoy4nqb1"
@@ -12396,7 +12594,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 233350,
       "name": "Vivien",
       "url": "https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr"
@@ -12818,7 +13016,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 208979,
       "name": "Welcome to the Chaos (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe"

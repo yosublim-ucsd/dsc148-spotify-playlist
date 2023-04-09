@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 237600,
       "name": "Dona Do Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU"
@@ -1600,6 +1600,24 @@
       "duration_ms": 172500,
       "name": "Enganada",
       "url": "https://open.spotify.com/track/4syj8Nofc0O0BJ1EtOKCaT"
+    },
+    {
+      "album": {
+        "name": "Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/7hK8tp2hartNZYIdAk7qwk"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Entre N\u00f3s",
+      "url": "https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM"
     },
     {
       "album": {

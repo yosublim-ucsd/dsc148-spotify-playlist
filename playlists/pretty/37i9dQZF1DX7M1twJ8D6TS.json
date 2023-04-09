@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 117807,
+  "num_followers": 117969,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDhiNjQwOGFjNjkwZjg0ODc3MjAzNjNkMjVmNDk0MDk1",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDVlZjc5NjIzNzlkMDIxNGE1ODBjNDI0OWJiMmMxYTE1",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 241838,
-      "name": "Pay No Rent",
-      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
+      "duration_ms": 187633,
+      "name": "Unrung",
+      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -328,25 +328,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 187633,
-      "name": "Unrung",
-      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
+      "duration_ms": 241838,
+      "name": "Pay No Rent",
+      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -363,6 +347,22 @@
       "duration_ms": 179691,
       "name": "Lovin' Where It's Goin'",
       "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Don't Even Say Bye",
-        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 237060,
-      "name": "Don't Even Say Bye",
-      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Don't Even Say Bye",
+        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 237060,
+      "name": "Don't Even Say Bye",
+      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Hellbent",
-        "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 193645,
-      "name": "You, Me and a Bottle",
-      "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Leanna",
         "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 174555,
       "name": "Hey Moon",
       "url": "https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Hellbent",
+        "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 193645,
+      "name": "You, Me and a Bottle",
+      "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Unwanted Man",
-        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Unwanted Man",
-      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "He Ain't a Cowboy",
         "url": "https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0"
       },
@@ -867,21 +851,37 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Leanna",
-        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 225500,
-      "name": "Around Forever",
-      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
+      "duration_ms": 256875,
+      "name": "Unwanted Man",
+      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
     },
     {
-      "added_at": "2023-04-07 00:25:49",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 244429,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
+    },
+    {
+      "added_at": "2023-04-09 01:28:54",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "No Vacancy",
-        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
+        "name": "Leanna",
+        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 244429,
-      "name": "No Vacancy",
-      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
+      "duration_ms": 225500,
+      "name": "Around Forever",
+      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -943,6 +943,22 @@
       "duration_ms": 201826,
       "name": "I'm Not Alright",
       "url": "https://open.spotify.com/track/3PURovRKyJaBmgzPfmMJ4O"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Bad Reputation",
         "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 211075,
       "name": "Heaven's Jukebox",
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
     },
     {
-      "added_at": "2023-04-07 00:25:49",
+      "added_at": "2023-04-09 01:28:54",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1119,6 +1103,22 @@
       "duration_ms": 277171,
       "name": "Cigarettes and Alcohol",
       "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Loser Mentality",
-        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 193525,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "You Look Good in Neon",
         "url": "https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 240386,
       "name": "You Look Good in Neon",
       "url": "https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Loser Mentality",
+        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 193525,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Horses in Heaven",
-        "url": "https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8"
-      },
-      "artists": [
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        },
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Horses in Heaven",
-      "url": "https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Hold My Beer",
         "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 239045,
       "name": "Hold My Beer",
       "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Horses in Heaven",
+        "url": "https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        },
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Horses in Heaven",
+      "url": "https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Any Other Guy",
-        "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Any Other Guy",
-      "url": "https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Something 'Bout a Southern Girl",
         "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+        "name": "Any Other Guy",
+        "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
       },
       "artists": [
         {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
         }
       ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
+      "duration_ms": 258053,
+      "name": "Any Other Guy",
+      "url": "https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1499,6 +1483,22 @@
       "duration_ms": 216084,
       "name": "What It Doesn\u2019t Do",
       "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Lightning Fast",
-        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Lightning Fast",
-      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Waiting for the Fall",
         "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 206280,
       "name": "Honky Tonk On",
       "url": "https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Lightning Fast",
+        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Lightning Fast",
+      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     },
     {
       "added_at": "2022-05-27 04:00:00",

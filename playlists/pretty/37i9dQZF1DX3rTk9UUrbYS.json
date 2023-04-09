@@ -1,13 +1,33 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 41632,
+  "num_followers": 41676,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDdlNjdiMDllZjllOGJiMzY0OWNlMzgzNWE2MmZlNGZi",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDc2NzEyYjcxZDFkOWZiMWQzMWUwMzU2MjFiYWZlYTdj",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Excerpt from Spectre D'un Songe",
+        "url": "https://open.spotify.com/album/2xCmofdVvMCpcO9GwFSBY8"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Courvoisier",
+          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+        },
+        {
+          "name": "Cory Smythe",
+          "url": "https://open.spotify.com/artist/5UageRpKPwCqXQLs79kXO3"
+        }
+      ],
+      "duration_ms": 579211,
+      "name": "Excerpt from Spectre d'un songe",
+      "url": "https://open.spotify.com/track/7m2KJDkBZ9KA1P9l3OQeRf"
+    },
     {
       "added_at": "2021-06-11 04:01:00",
       "album": {

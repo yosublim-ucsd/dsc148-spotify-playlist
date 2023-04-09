@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 43103,
+  "num_followers": 43166,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGMyNTg1YTAyZWY3MzExNTlhOTFhNGEzNjc2YTAwYzg3",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDhiNzM2OTg0NjczMDVmNzExYjRmZjhiOWUxZjY4ZjMw",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Bala Reash",
-        "url": "https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI"
-      },
-      "artists": [
-        {
-          "name": "Bigsam",
-          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        },
-        {
-          "name": "MoJaNaD",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 226690,
-      "name": "Bala Reash",
-      "url": "https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "The Long March",
         "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 376586,
       "name": "Carry the Earth",
       "url": "https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Bala Reash",
+        "url": "https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        },
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 226690,
+      "name": "Bala Reash",
+      "url": "https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Can I Live",
-        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
+        "name": "Nai 1",
+        "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
       },
       "artists": [
         {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Can I Live",
-      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
+      "duration_ms": 328773,
+      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
+      "url": "https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Nai 1",
-        "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
+        "name": "Can I Live",
+        "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
       },
       "artists": [
         {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
         }
       ],
-      "duration_ms": 328773,
-      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
-      "url": "https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV"
+      "duration_ms": 112000,
+      "name": "Can I Live",
+      "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -807,6 +807,22 @@
       "duration_ms": 283724,
       "name": "Tareeq",
       "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
+          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
-        "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
-      },
-      "artists": [
-        {
-          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
-          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Fattah Al Ward",
         "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 226866,
       "name": "Che Guevara",
       "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
+        "url": "https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "duration_ms": 226716,
+      "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
+      "url": "https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -927,22 +943,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
-        "url": "https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z"
-      },
-      "artists": [
-        {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
-        }
-      ],
-      "duration_ms": 226716,
-      "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
-      "url": "https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Palestine",
         "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+        "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx"
       },
       "artists": [
         {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
         }
       ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
+      "duration_ms": 188814,
+      "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
-        "url": "https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx"
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
       },
       "artists": [
         {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
         }
       ],
-      "duration_ms": 188814,
-      "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
-      "url": "https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu"
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Telephone",
-        "url": "https://open.spotify.com/album/06yTr9V77gQArdYMsmzX2i"
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
       },
       "artists": [
         {
-          "name": "EL X \u0627\u0644\u0625\u0643\u0633",
-          "url": "https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP"
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
         }
       ],
-      "duration_ms": 201882,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY"
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
       },
       "artists": [
         {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
         }
       ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
+      "duration_ms": 209999,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/06yTr9V77gQArdYMsmzX2i"
+      },
+      "artists": [
+        {
+          "name": "EL X \u0627\u0644\u0625\u0643\u0633",
+          "url": "https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1147,22 +1163,6 @@
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
     },
     {
       "added_at": "2022-12-17 09:00:30",

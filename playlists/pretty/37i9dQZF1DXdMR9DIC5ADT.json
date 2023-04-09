@@ -1,12 +1,12 @@
 {
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: FLO",
-  "num_followers": 1262,
+  "num_followers": 1283,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMGMwYTM2Mjc3ZjUwOTU3MTRiZWRiZjA0Y2EzYWFiNzUz",
+  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDkyOTQ2OTQ4MGVkODdjMDRiNzc3ZjViYjVhZjA4YzI5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:00:00",
@@ -52,6 +52,10 @@
       },
       "artists": [
         {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
           "name": "Amin\u00e9",
           "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
@@ -62,10 +66,6 @@
         {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         }
       ],
       "duration_ms": 190373,
@@ -508,7 +508,7 @@
       "added_at": "2023-04-06 15:00:00",
       "album": {
         "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7"
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
@@ -518,7 +518,7 @@
       ],
       "duration_ms": 285839,
       "name": "To Rage",
-      "url": "https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R"
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
+        "name": "orange blood",
+        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
         }
       ],
-      "duration_ms": 104160,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/31CzqHBAfAfowv3psQ3dvS"
+      "duration_ms": 145833,
+      "name": "missin something",
+      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "orange blood",
-        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3"
       },
       "artists": [
         {
-          "name": "Zach Templar",
-          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 145833,
-      "name": "missin something",
-      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
+      "duration_ms": 104160,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/31CzqHBAfAfowv3psQ3dvS"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
     }
   ],
   "unique_name": "The WISHLIST",

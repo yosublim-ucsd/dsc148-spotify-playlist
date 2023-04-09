@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Plebe Rude",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Rea\u00e7\u00e3o em Cadeia",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 217237,
       "name": "Aos Poucos",
       "url": "https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie"
@@ -844,6 +844,24 @@
       "duration_ms": 152275,
       "name": "Caminha (Que Aqui \u00e9 da Osvaldo)",
       "url": "https://open.spotify.com/track/67jEIIt6rLIqUpgmeUZ35P"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00e3o da Despedida",
+        "url": "https://open.spotify.com/album/6tJVfCUBxlD6FODRlNqhXT"
+      },
+      "artists": [
+        {
+          "name": "Rea\u00e7\u00e3o Em Cadeia",
+          "url": "https://open.spotify.com/artist/4pANXhF65AgL4mE9PybDJJ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273685,
+      "name": "Can\u00e7\u00e3o da Despedida",
+      "url": "https://open.spotify.com/track/6X4TqBLTfYj11DLzEmWOi6"
     },
     {
       "album": {
@@ -1274,6 +1292,24 @@
       "duration_ms": 207070,
       "name": "CORPO FECHADO",
       "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/1CPoaapWJCITmBOKSRjapV"
+      },
+      "artists": [
+        {
+          "name": "Nakara",
+          "url": "https://open.spotify.com/artist/4CLTPlhKeXJzbqIyfDELlm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104250,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/3f8PZ7RZezcJYNmrLLRZdw"
     },
     {
       "album": {
@@ -3581,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Sou Poeta",
+        "url": "https://open.spotify.com/album/1l0VCps6k6VghvS1HoZd8M"
+      },
+      "artists": [
+        {
+          "name": "Supla",
+          "url": "https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "N\u00e3o Sou Poeta",
+      "url": "https://open.spotify.com/track/6mo20XLvNQkFmO5Cfl654N"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tem Fim",
         "url": "https://open.spotify.com/album/3s3ppgiKb1i30FmkLHB01O"
       },
@@ -4475,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Erasing Karma",
+        "url": "https://open.spotify.com/album/1dZz30rUJ6za0cBguk9J5S"
+      },
+      "artists": [
+        {
+          "name": "Disaster Cities",
+          "url": "https://open.spotify.com/artist/3vKjfCsDtpVTKvUdU08O1M"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249624,
+      "name": "Quando a Cidade Te Engolir",
+      "url": "https://open.spotify.com/track/4IrPMbWD7dMCPMERokpwmd"
+    },
+    {
+      "album": {
         "name": "Quando o Encontro \u00c9 Mais",
         "url": "https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq"
       },
@@ -4681,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/0jOq3szYO0fmY7aDyJxArd"
+      },
+      "artists": [
+        {
+          "name": "SWITCH STANCE",
+          "url": "https://open.spotify.com/artist/01TTnjfMDojtBpB5axyWtv"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224731,
+      "name": "Retratos",
+      "url": "https://open.spotify.com/track/64poXwxQ1aTRCuuT7hFmmW"
+    },
+    {
+      "album": {
         "name": "Rico de Felicidade",
         "url": "https://open.spotify.com/album/4ddtUV4pKaz3v9UPUl362M"
       },
@@ -4818,7 +4908,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 297098,
       "name": "Rooster",
       "url": "https://open.spotify.com/track/7ijmX7o4MB06LDVVcuohlI"
@@ -5574,7 +5664,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 266558,
       "name": "Tudo por Nada - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5XyPbaCM4pSMGV9ZsnANnH"
@@ -5614,7 +5704,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201290,
       "name": "T\u00c1 TODO MUNDO MAL",
       "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
@@ -5838,7 +5928,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 234946,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO"

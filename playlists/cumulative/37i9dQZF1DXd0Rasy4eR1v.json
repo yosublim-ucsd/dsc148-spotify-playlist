@@ -5866,10 +5866,32 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 156000,
       "name": "Qadar",
       "url": "https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv"
+    },
+    {
+      "album": {
+        "name": "Qadar",
+        "url": "https://open.spotify.com/album/7DXlR5TzcQNWlKigCnim9A"
+      },
+      "artists": [
+        {
+          "name": "Erazzy",
+          "url": "https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj"
+        },
+        {
+          "name": "Faisal",
+          "url": "https://open.spotify.com/artist/23rsdxCW9BVpz5VlZQgXP9"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Qadar",
+      "url": "https://open.spotify.com/track/6WplmpF1sgSyE2EZfJGhXf"
     },
     {
       "album": {

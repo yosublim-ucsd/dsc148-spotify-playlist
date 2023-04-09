@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,814 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,830 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 38 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
 | 39 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 |
 | 40 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 |
-| 41 | [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 |
+| 41 | [FAWDA](https://open.spotify.com/track/5WxlfJ1bzFVP2keqmQnMTC) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [FAWDA](https://open.spotify.com/album/2sKwWuqZcp3yjmVgrNBhAx) | 3:20 |
 | 42 | [Zabatna](https://open.spotify.com/track/2KakK2ldIwk32Lyp8cHRab) | [Tarek Al Atrash](https://open.spotify.com/artist/53SkAdBSeRmu5xA0G6Yii8) | [Zabatna](https://open.spotify.com/album/2q0BFnd8N5N0v5kEx8uih4) | 4:01 |
 | 43 | [Baadek Bizakerti](https://open.spotify.com/track/583BG3e4wpZzkwJTPbQc2W) | [Chris Moussa](https://open.spotify.com/artist/72DLvyPzbU6R4NZel6MaX5) | [Baadek Bizakerti](https://open.spotify.com/album/5CGX6rOvDdKLcB7usNXyNH) | 3:16 |
 | 44 | [Sahraya](https://open.spotify.com/track/10ygQHP8JTic3iXGiLM2To) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k) | [Sahraya](https://open.spotify.com/album/6NpsqEqR1yZ5YTyPQZUewf) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 59 | [Wojoud Efterady](https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr) | [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Wojoud Efterady](https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ) | 4:11 |
 | 60 | [يا حبيبة](https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y) | [Alawar](https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq) | [يا حبيبة](https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4) | 3:06 |
 
-Snapshot ID: `MTY3NzY5MTg4NywwMDAwMDAwMGI0YjkzYmVlZDAzMTE0ODE0ZTJkMjEwOWQ2ZDQ1Mjk2`
+Snapshot ID: `MTY3NzY5MTg4NywwMDAwMDAwMDVkY2U4NDQxMzE3NTJlY2U3MDM3OGQ4ZmNkZmVjNjAx`

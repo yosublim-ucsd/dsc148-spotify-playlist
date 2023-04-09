@@ -2141,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Eliza I See",
+        "url": "https://open.spotify.com/album/4hpwXwZhArrRprpzYYYJ1W"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Eliza I See",
+      "url": "https://open.spotify.com/track/1Fr0659YlxAn5zCjXhh0wG"
+    },
+    {
+      "album": {
         "name": "Annie Eve EP",
         "url": "https://open.spotify.com/album/2P6NEuvCNqWDYKdozSy9y6"
       },

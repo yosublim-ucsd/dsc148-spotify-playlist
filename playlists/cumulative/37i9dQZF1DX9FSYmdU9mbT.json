@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205135,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf"
+    },
+    {
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 548661,
+  "num_followers": 548990,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMDUyYWFhNzhhODg1ZDBmZWIzNTE1YjgxYmQ5ODUwNmM1",
+  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMDRkZjgxOTMxZDM0M2U1MTFmOGIzMzgwODg5NjdlZDQ0",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -16,7 +16,7 @@
       },
       "artists": [
         {
-          "name": "Poor Mans Poison",
+          "name": "Poor Man's Poison",
           "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
         }
       ],
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 245960,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
-      "added_at": "2023-04-07 00:59:10",
+      "added_at": "2023-04-09 01:23:50",
       "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
-      },
-      "artists": [
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Heart Of My Own",
         "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 229626,
       "name": "Heart Of My Own",
       "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 458000,
-      "name": "Heron Blue",
-      "url": "https://open.spotify.com/track/6GoESztTu0GEiWuVFgsBUx"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 242266,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 458000,
+      "name": "Heron Blue",
+      "url": "https://open.spotify.com/track/6GoESztTu0GEiWuVFgsBUx"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 125493,
       "name": "Diggin A Grave",
       "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "War Brides",
+        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
+      },
+      "artists": [
+        {
+          "name": "Amelia Curran",
+          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Devils",
+      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "The Dirty River Boys",
         "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "War Brides",
-        "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
-      },
-      "artists": [
-        {
-          "name": "Amelia Curran",
-          "url": "https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Devils",
-      "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Lions And Lambs",
-        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
-      },
-      "artists": [
-        {
-          "name": "Cary Ann Hearst",
-          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Anna & Elizabeth",
         "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 88293,
       "name": "Long Time Travelin'",
       "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Lions And Lambs",
+        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
+      },
+      "artists": [
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Digging Up Birds: A Collection of Rarities & Others",
         "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 188660,
       "name": "No Way Out but Down (Alternate Version)",
       "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "The Longest Day",
+        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Barnaby Bright",
+          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 270228,
+      "name": "Highway 9",
+      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Longest Day",
-        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
       "artists": [
         {
-          "name": "Barnaby Bright",
-          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 270228,
-      "name": "Highway 9",
-      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
       "artists": [
         {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     }
   ],
   "unique_name": "Southern Gothic",

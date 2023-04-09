@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-491 songs - 1 day 6 hr 50 min
+492 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2022-03-21 | 2022-06-08 |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-12-20 | 2022-03-22 |
 | [El Invento](https://open.spotify.com/track/6GMm8JHFtSg65AEOc7Wf98) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/56KsGn0Csgq33guHWklJwk) | 2:33 | 2022-03-21 | 2022-06-08 |
+| [Eliza I See](https://open.spotify.com/track/1Fr0659YlxAn5zCjXhh0wG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Eliza I See](https://open.spotify.com/album/4hpwXwZhArrRprpzYYYJ1W) | 3:23 | 2023-04-07 |  |
 | [Elvis](https://open.spotify.com/track/1XqgAxEgNcv06wIKfL9ZIy) | [Annie Eve](https://open.spotify.com/artist/3dcu4MssOVYMKugx0oAO9b) | [Annie Eve EP](https://open.spotify.com/album/2P6NEuvCNqWDYKdozSy9y6) | 3:54 | 2022-03-21 | 2022-06-08 |
 | [Emma](https://open.spotify.com/track/3JuorOgRlJVqX9zAf8BZRo) | [Silences](https://open.spotify.com/artist/2O7t5nO7qGlTbKxRXVBmBT) | [Nevernames](https://open.spotify.com/album/2tBjQfTQyFwLhmYbfxB59D) | 3:24 | 2022-03-21 | 2022-06-08 |
 | [Ends of the Earth](https://open.spotify.com/track/33onVefa4PMs8b705pKRGz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ) | 4:44 | 2022-03-21 | 2022-06-08 |

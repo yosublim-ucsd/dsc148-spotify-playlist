@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Bonne nuit mon prince",
+        "url": "https://open.spotify.com/album/09f5AoxyFNYxiB5RvhL8MU"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Valois",
+          "url": "https://open.spotify.com/artist/5iLuRSlCuDAt7iaA7gkTv5"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123456,
+      "name": "Bonne nuit mon prince",
+      "url": "https://open.spotify.com/track/5W03XGSGZLULtu0UykT4iv"
+    },
+    {
+      "album": {
         "name": "Twinkle, Twinkle, Little Star",
         "url": "https://open.spotify.com/album/4kn6vjaZBrC25WwrizfxrH"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 114000,
       "name": "Bursdagen Min",
       "url": "https://open.spotify.com/track/37LpZqpAba2OC0nJ5wMcbt"
@@ -1139,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Colorful Cradle",
+        "url": "https://open.spotify.com/album/5hUrWZiRNULGZ4W8tXKSNg"
+      },
+      "artists": [
+        {
+          "name": "Loyd Niles",
+          "url": "https://open.spotify.com/artist/1ra6sPkU3EB25Ad5RKBtBx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93513,
+      "name": "Colorful Cradle",
+      "url": "https://open.spotify.com/track/3mxfB0w2Yvy47YczoYjczW"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/02aZLwmuV1skZCgOPXgwas"
       },
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 73000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/6Xm8pB1mJEhDQoRqXdrPbR"
@@ -1409,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Daytime Lullaby",
+        "url": "https://open.spotify.com/album/66kSO4tsfYCS9droErYj8t"
+      },
+      "artists": [
+        {
+          "name": "Wilfred Field",
+          "url": "https://open.spotify.com/artist/5wgNGykMuRZ83zl43wxA7o"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82162,
+      "name": "Daytime Lullaby",
+      "url": "https://open.spotify.com/track/03wRQCCSlqdCFXhcFjAaWZ"
+    },
+    {
+      "album": {
         "name": "Deirdres Waltz",
         "url": "https://open.spotify.com/album/5Jlx23qLd7tDiIS2uMNdWz"
       },
@@ -1474,7 +1528,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 100128,
       "name": "Discovering The World",
       "url": "https://open.spotify.com/track/07x1wRDHfUcXBrzodCFyjb"
@@ -1600,10 +1654,28 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 103624,
       "name": "Down By The Bay",
       "url": "https://open.spotify.com/track/33vHl033oQ8m50wbAEc5jg"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/1T9Z7uWLpBdOA54sAlKhfP"
+      },
+      "artists": [
+        {
+          "name": "Poppy Penguin",
+          "url": "https://open.spotify.com/artist/70lc84qIQU7cNBmLtOQrt3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99224,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/13GKdhfHesxaGXTOS6y1Ui"
     },
     {
       "album": {
@@ -2306,6 +2378,24 @@
       "duration_ms": 201600,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs"
+    },
+    {
+      "album": {
+        "name": "Good Night Grayson",
+        "url": "https://open.spotify.com/album/6uPBLnjDvFc193OEFGcIm1"
+      },
+      "artists": [
+        {
+          "name": "Alicja Pawlowska",
+          "url": "https://open.spotify.com/artist/3sZRepzXEVWUR0vTDpmBBn"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84545,
+      "name": "Good Night Grayson",
+      "url": "https://open.spotify.com/track/0zsIopO9kaoXuMNPnJjLqS"
     },
     {
       "album": {
@@ -3638,7 +3728,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 64708,
       "name": "Lily's Lullaby",
       "url": "https://open.spotify.com/track/514iqNsy7WFVUXMfYnpNAU"
@@ -4470,6 +4560,24 @@
       "duration_ms": 90250,
       "name": "My Sandbox",
       "url": "https://open.spotify.com/track/1L3xkGcRKxIdUU5AwM1LHu"
+    },
+    {
+      "album": {
+        "name": "My Secret Place",
+        "url": "https://open.spotify.com/album/5MT1OH2BkiLxkB7UbyWHvL"
+      },
+      "artists": [
+        {
+          "name": "Laurel Hoh",
+          "url": "https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "My Secret Place",
+      "url": "https://open.spotify.com/track/1xgf2QEkPmD8gPNKSNrqLE"
     },
     {
       "album": {
@@ -5366,7 +5474,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 152142,
       "name": "Rubbing my eyes",
       "url": "https://open.spotify.com/track/7z1VnmeKEV0iNhjPo6ILTk"
@@ -5478,6 +5586,24 @@
       "duration_ms": 81839,
       "name": "Schlaf, Kindlein, schlaf",
       "url": "https://open.spotify.com/track/3VKuGHMdxkXLATdMPKK7ih"
+    },
+    {
+      "album": {
+        "name": "Watching Over You",
+        "url": "https://open.spotify.com/album/1hBdVtoMRo0QBbrloHZ1yk"
+      },
+      "artists": [
+        {
+          "name": "Hope Hall",
+          "url": "https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119617,
+      "name": "Serene Slumber",
+      "url": "https://open.spotify.com/track/63UWqD2mAFfFG6LrWcr0sy"
     },
     {
       "album": {
@@ -6086,7 +6212,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 110624,
       "name": "Sov du lilla videung",
       "url": "https://open.spotify.com/track/5VlwYfYylw2SmfCwYREh7C"
@@ -6302,7 +6428,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 123468,
       "name": "Tell Me Tomorrow",
       "url": "https://open.spotify.com/track/0uSaKxMuMKIxksSDvNTiY9"
@@ -7130,7 +7256,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 120973,
       "name": "Tomorrow Is My Birthday",
       "url": "https://open.spotify.com/track/6m4pnakL7ZNIwp0Haqo6pH"
@@ -7220,7 +7346,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 70906,
       "name": "Tryggare kan ingen vara",
       "url": "https://open.spotify.com/track/69yqJDedbETZZWbNAZoB9w"
@@ -7260,6 +7386,24 @@
       "duration_ms": 92000,
       "name": "Turkey in The Straw",
       "url": "https://open.spotify.com/track/685PXnzZpuJ08GiyEcTocA"
+    },
+    {
+      "album": {
+        "name": "Twinkle",
+        "url": "https://open.spotify.com/album/75WvVFSdbljSTsTqeIm1sL"
+      },
+      "artists": [
+        {
+          "name": "Derina Berger",
+          "url": "https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81702,
+      "name": "Twinkle",
+      "url": "https://open.spotify.com/track/3p8jIuNsUTVG5PHyyr0G6W"
     },
     {
       "album": {
@@ -7512,6 +7656,24 @@
       "duration_ms": 64000,
       "name": "When You Opened Up Your Eyes",
       "url": "https://open.spotify.com/track/37kjqjUgTdKgvvjgsExBKB"
+    },
+    {
+      "album": {
+        "name": "When You Sleep",
+        "url": "https://open.spotify.com/album/43jxhKZdMjJM1JhOtcZO6b"
+      },
+      "artists": [
+        {
+          "name": "Nia Glynn",
+          "url": "https://open.spotify.com/artist/6qHUfCJ0xqPOXDYb3Vg1FM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77879,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/4h1HSn6yB1musNToOSIIRp"
     },
     {
       "album": {

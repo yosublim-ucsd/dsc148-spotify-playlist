@@ -850,7 +850,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 111506,
       "name": "angeldust",
       "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 153245,
       "name": "come back",
       "url": "https://open.spotify.com/track/6efdzU3R68skVEHDJONh8p"
@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 209583,
       "name": "Dying",
       "url": "https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe"
@@ -4920,7 +4920,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 132712,
       "name": "Ghostrider",
       "url": "https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT"
@@ -6348,6 +6348,24 @@
       "duration_ms": 177634,
       "name": "i know why you stay out",
       "url": "https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n"
+    },
+    {
+      "album": {
+        "name": "I Know You Well",
+        "url": "https://open.spotify.com/album/17oX3YBKy2BE3OHjM4PEMH"
+      },
+      "artists": [
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "I Know You Well",
+      "url": "https://open.spotify.com/track/7ytLyMShHFZlvzLbDhdUVt"
     },
     {
       "album": {
@@ -10100,7 +10118,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 198000,
       "name": "Penance",
       "url": "https://open.spotify.com/track/4jJsIHgePHhMHSa6J6P9ZB"
@@ -10578,7 +10596,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 188418,
       "name": "Read Your Mind",
       "url": "https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff"
@@ -10810,7 +10828,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 176906,
       "name": "right here",
       "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
@@ -11208,7 +11226,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 163755,
       "name": "Salt",
       "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
@@ -12962,6 +12980,24 @@
       "duration_ms": 212706,
       "name": "swim",
       "url": "https://open.spotify.com/track/4g8r81G1g4Jn3gPu1iyYoC"
+    },
+    {
+      "album": {
+        "name": "switch up",
+        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104173,
+      "name": "switch up",
+      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
     },
     {
       "album": {
@@ -14794,7 +14830,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 119142,
       "name": "Why Do I Hear Breathing?",
       "url": "https://open.spotify.com/track/0w7MzV3fcO059kkPJUINyB"
@@ -15318,6 +15354,24 @@
       "duration_ms": 209057,
       "name": "Young Kid",
       "url": "https://open.spotify.com/track/7kXNWZbHd8ojf6H08XMdtC"
+    },
+    {
+      "album": {
+        "name": "your eyes",
+        "url": "https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133026,
+      "name": "your eyes",
+      "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"
     },
     {
       "album": {

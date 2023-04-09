@@ -4,11 +4,11 @@
 
 > Ease into the day
 
-338 songs - 20 hr 32 min
+340 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Would Be\) Grateful](https://open.spotify.com/track/4XzrcuI4PKbuQU1E347ed2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [\(I Would Be\) Grateful](https://open.spotify.com/album/3lKECaEhm6tDUaTCGucJvW) | 4:16 | 2022-03-18 |  |
+| [\(I Would Be\) Grateful](https://open.spotify.com/track/4XzrcuI4PKbuQU1E347ed2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [\(I Would Be\) Grateful](https://open.spotify.com/album/3lKECaEhm6tDUaTCGucJvW) | 4:16 | 2022-03-18 | 2023-04-09 |
 | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/album/6Xw2btwdvf4zFwt8XxBG0r) | 2:55 | 2021-11-19 | 2023-02-18 |
 | [15](https://open.spotify.com/track/66FmBx9jNIjm4WhTOPJMwi) | [Bishop Ivy](https://open.spotify.com/artist/2Iq2lTFLmxtdaYCmhRSMbb) | [15](https://open.spotify.com/album/1ukbsiFX0gLmoS5bCbMysd) | 3:17 | 2020-10-17 | 2022-04-20 |
 | [6 AM](https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [6 AM](https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL) | 3:50 | 2022-08-05 | 2022-08-27 |
@@ -220,6 +220,7 @@
 | [New Start](https://open.spotify.com/track/7ywmf8Yz7s7erljhh06QGl) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [New Start](https://open.spotify.com/album/2y1oMqGnG9WyLcuwVJSPz8) | 4:42 | 2020-10-17 | 2022-06-11 |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 |  |
 | [No Fooling Me](https://open.spotify.com/track/60j0tXalnpq8iWnh4RyaSQ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [No Fooling Me](https://open.spotify.com/album/0zuuaG3siQ3MBXDYef8I7g) | 2:46 | 2020-10-17 | 2022-04-17 |
+| [Not Gone](https://open.spotify.com/track/1O9mxTVOk4hehQNbD5gndC) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 2:50 | 2023-04-07 |  |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2020-10-17 | 2023-02-18 |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2020-10-17 | 2022-10-14 |
 | [Nothing](https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Nothing](https://open.spotify.com/album/6vxh3eBU46aqiwersrZ090) | 2:42 | 2020-10-17 | 2022-07-24 |
@@ -307,6 +308,7 @@
 | [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 | 2022-01-06 |  |
 | [Thank You](https://open.spotify.com/track/4mVm8cTbilqoIWCYNNjCxt) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2020-10-17 | 2023-02-04 |
+| [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 | 2023-04-07 |  |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 |  |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 |  |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2020-10-17 | 2023-02-04 |
@@ -325,7 +327,7 @@
 | [Until Your Heart Breaks](https://open.spotify.com/track/1CTczmxxog61Pb8zCQXTHa) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Until Your Heart Breaks](https://open.spotify.com/album/5vrsJP1CrwXcVP2pwM2u72) | 3:27 | 2020-10-17 | 2023-02-14 |
 | [Until Your Heart Breaks](https://open.spotify.com/track/1KMRQT3HgJ4xKGhBr6BhTz) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Until Your Heart Breaks](https://open.spotify.com/album/5GlFPzvXhHqsYxbcLANITK) | 3:27 | 2020-10-17 | 2022-07-18 |
 | [Vibin' to It](https://open.spotify.com/track/0VLur18KTXWpIoRHEni0OJ) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/4FhvZMQJ984gNLhB5xaobl) | 4:05 | 2022-05-06 | 2023-03-26 |
-| [Vibin' to It](https://open.spotify.com/track/1C6I1zTrq2ykBIc85EVNVu) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/6n3ApWN4JdOPyLFpbbneIm) | 4:05 | 2022-05-13 |  |
+| [Vibin' to It](https://open.spotify.com/track/1C6I1zTrq2ykBIc85EVNVu) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/6n3ApWN4JdOPyLFpbbneIm) | 4:05 | 2022-05-13 | 2023-04-09 |
 | [Walls](https://open.spotify.com/track/7xDABKlqkXpu2esECKpdO2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Walls](https://open.spotify.com/album/2RvK9TDTryf7oM3bjcD7JF) | 3:49 | 2023-02-03 |  |
 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2020-10-17 | 2022-04-21 |
 | [Warm Love](https://open.spotify.com/track/0CRQCibRDepJbBqFpVdAOH) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Warm Love](https://open.spotify.com/album/5Vd9d9uRtf3WyAiVktsa9l) | 3:31 | 2020-10-17 | 2022-04-21 |

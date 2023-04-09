@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,969 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,068 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,7 +609,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 599 | [Cumbia Sobre El Mar](https://open.spotify.com/track/37pWwirKiLXJM6EKHn3Soq) | [Trio Serenata](https://open.spotify.com/artist/1XQ6yrNWT17FAepFzRYI5q) | [La Cumbia Está Llamando \- Early Cumbia From Colombia](https://open.spotify.com/album/5cnBdljuMe92rjF9cWuyu8) | 2:53 |
 | 600 | [แว่นวิเศษ](https://open.spotify.com/track/3zuYCSVycxF9IHDuGMJbbT) | [สุชาติ เทียนทอง](https://open.spotify.com/artist/4PD56jybsnFJTzZuB5dejq) | [แว่นวิเศษ](https://open.spotify.com/album/2I7Zy6VtEvGpi7HIviSnYI) | 2:32 |
 | 601 | [El Cuchipe](https://open.spotify.com/track/2HicXaPMCToQwInYIIeQuY) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:57 |
-| 602 | [Ain't No Sunshine](https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:16 |
+| 602 | [Ain't No Sunshine](https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Trojan Soul Reggae Vol\. 1](https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX) | 2:14 |
 | 603 | [Hey Joe](https://open.spotify.com/track/5LXPhjTLuWxvMINC3W2LFL) | [Willy DeVille](https://open.spotify.com/artist/4I7KSNpB2zt6XTyCXw7ca9) | [Backstreets of Desire](https://open.spotify.com/album/4SdjNm8umu6y3IbwUW2iTW) | 4:13 |
 | 604 | [Timbarma](https://open.spotify.com/track/2DMNbBoZnuDkQcoFjRiAMb) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Ali Farka Touré](https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok) | 5:08 |
 | 605 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
@@ -882,7 +882,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 872 | [Si I Bon Di I Bon](https://open.spotify.com/track/6n6KQhXIBs4MkhI6JGwsmC) | [Le Ry\-co Jazz](https://open.spotify.com/artist/1IRR3JBFXllNbzAkidW1Bo) | [Disques Debs International Vol\. 1](https://open.spotify.com/album/6o719MUZj3nUFQb4s1JeRm) | 5:05 |
 | 873 | [Samba Maneiro](https://open.spotify.com/track/6QFy8lfzC8qP0sMG14daTZ) | [Rosa Maria](https://open.spotify.com/artist/2y6NMHOK3fgS7DN9bNpRk6) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 2:53 |
 | 874 | [Zum\-Zum](https://open.spotify.com/track/0K8xwzpW6hYmfDTMlsZOhp) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Morning Jazz](https://open.spotify.com/album/0JBpOJHie2i2KubS49lWme) | 2:50 |
-| 875 | [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 |
+| 875 | [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surfboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 |
 | 876 | [Gurbet](https://open.spotify.com/track/2cJhhpxflevAtPFku1kxID) | [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6) | [Yorumcu](https://open.spotify.com/album/6LnGhVLzQPFRJtRKvlNKg8) | 3:26 |
 | 877 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
 | 878 | [Morre O Burro, Fica O Homem](https://open.spotify.com/track/1uQbyC6EdqLjAfMc20V5LT) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Ben](https://open.spotify.com/album/1k20FeozgWwMfD3HDMKKXZ) | 2:06 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDgzOGZmMmQ2YmIxYWRiMDE4ZmE2Nzc4NmNiNDRlNTk1`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDdjZjI4MjMzNGUyNjJkZGIzMDZjNjBjMmU4MDY5ZGI4`

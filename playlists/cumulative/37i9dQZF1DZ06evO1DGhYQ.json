@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/09BAPBuFcC954BFuppwQNq"
+      },
+      "artists": [
+        {
+          "name": "Evie Clair",
+          "url": "https://open.spotify.com/artist/7K4kPTcSdsMPSgUZuMOBpH"
+        },
+        {
+          "name": "Christina",
+          "url": "https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5zVKtLmay2prqHsRSDBuCR"
+    },
+    {
+      "album": {
         "name": "LONELY LONELY",
         "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },

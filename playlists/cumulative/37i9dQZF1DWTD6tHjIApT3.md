@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: あいみょん
 
-1,255 songs - 3 day 9 hr 59 min
+1,256 songs - 3 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,8 @@
 | [Sparkle](https://open.spotify.com/track/1sbMOKGzOfH82AHgCQPNib) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Sparkle](https://open.spotify.com/album/7D5HZy7UAEmYBj1gXCuAS6) | 2:55 | 2022-05-31 | 2022-07-29 |
 | [Spinning World](https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spinning World](https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ) | 4:00 | 2022-07-14 | 2022-10-21 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 |  |
-| [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/track/3YxxvRxUolgQP4HDZPAxI7) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/album/52QtwQu8LAtmVOdrLmEC6P) | 3:18 | 2023-03-21 |  |
+| [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/track/3YxxvRxUolgQP4HDZPAxI7) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/album/52QtwQu8LAtmVOdrLmEC6P) | 3:18 | 2023-03-21 | 2023-04-09 |
+| [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/track/6U6vWlwcVN4yjTxPw0M0UX) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 3:18 | 2023-04-06 |  |
 | [squall](https://open.spotify.com/track/0RtN8xsqHQokF21hzCMT4H) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [fountain blue ni somatte](https://open.spotify.com/album/1ApuYreYSimEs5IBDrse22) | 3:25 | 2022-07-28 | 2022-08-03 |
 | [Square One](https://open.spotify.com/track/2oVTlsZ7v779HoRGe83ENx) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Square One](https://open.spotify.com/album/2q4xhsQq7Hv7NSteC6NPiz) | 2:52 | 2022-05-31 | 2022-07-05 |
 | [Stand Out Chameleon](https://open.spotify.com/track/7zHNelbcomEoDCsgvxYjg0) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Stand Out Chameleon](https://open.spotify.com/album/0WG01blQPb4kAib42VQYPg) | 2:21 | 2023-04-04 |  |

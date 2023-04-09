@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-91 songs - 6 hr 4 min
+92 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 | 2022-07-07 |  |
 | [2am](https://open.spotify.com/track/6j00YWxtOgfHICJsFEb5Gx) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [2am \- Single](https://open.spotify.com/album/19riw0861BcVHxwrJbiybk) | 4:59 | 2022-07-07 | 2022-11-13 |
 | [Anyone Can Play Guitar](https://open.spotify.com/track/23oUaizFBFVFI5PxJrkiO5) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:37 | 2022-04-14 | 2022-07-08 |
-| [Automatic](https://open.spotify.com/track/2Nghjyjd1l1p21oQ4ywk7t) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC) | 3:29 | 2022-07-07 |  |
+| [Automatic](https://open.spotify.com/track/3jyJzmWN5Y2uwSpeFdB6bV) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/0o4KKmnolqFk2uJHTaxt54) | 3:29 | 2022-07-07 |  |
+| [Automatic](https://open.spotify.com/track/2Nghjyjd1l1p21oQ4ywk7t) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Drugstore Heaven](https://open.spotify.com/album/22LWHEt5nZlH8ZTo0YywgC) | 3:29 | 2022-07-07 | 2023-04-09 |
 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 | 2022-07-07 |  |
 | [Bennie And The Jets](https://open.spotify.com/track/0LHzd11GIXVmND7TfQnGiy) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [70's Pop Number 1's](https://open.spotify.com/album/5i8kfdER1rHnhzYcQc5KXX) | 5:23 | 2022-07-07 |  |
 | [Biblical Violence](https://open.spotify.com/track/3YmFlUmOV28Sf14lJp1QDF) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:03 | 2022-04-14 | 2022-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Tungevaag x Orange Inc
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,314 likes - 45 songs - 2 hr 9 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,354 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 14 | [Going Round Again \(feat\. Ayoni\)](https://open.spotify.com/track/2YssH0iT8GvLINlrltx6KI) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Going Round Again \(feat\. Ayoni\)](https://open.spotify.com/album/5qP4lmY2o3CWtwXmO4iYMC) | 2:34 |
 | 15 | [Otherside](https://open.spotify.com/track/39vDtKwVN5meiIUwhFWaCd) | [Bluckther](https://open.spotify.com/artist/6iPD95GXysz0X96JtbGej6), [HENNZ](https://open.spotify.com/artist/69aV8AtQ1MXqtF8DcetA2e), [Johan Oslah](https://open.spotify.com/artist/6ECNM9MU6FIc1V7jYOKaWY) | [Otherside](https://open.spotify.com/album/0zvUYwo9Gmz23hHGwqz1Rz) | 3:34 |
 | 16 | [Thing Called Love](https://open.spotify.com/track/3IJOxTXxF4NmIcSeU1Xmdv) | [DEADLINE](https://open.spotify.com/artist/2EkuI6mftAAZAREUymRJqi), [Nery](https://open.spotify.com/artist/0HtRbLnldyITXXvFuvdeSE) | [Thing Called Love](https://open.spotify.com/album/0Tz6Xk2PGIutlt8KyPIOvM) | 2:20 |
-| 17 | [Made You Do](https://open.spotify.com/track/5wOSdtHawVXW7zTQBIcPRj) | [Miggy](https://open.spotify.com/artist/5gtQmONYhSpg9p1CHc1Yvk) | [Made You Do](https://open.spotify.com/album/4RcBndDl7UJOmtVum1vWBB) | 2:53 |
+| 17 | [Made You Do](https://open.spotify.com/track/5wOSdtHawVXW7zTQBIcPRj) | [Miggy](https://open.spotify.com/artist/3KO3WvudPthjtZASc7eh5V) | [Made You Do](https://open.spotify.com/album/4RcBndDl7UJOmtVum1vWBB) | 2:53 |
 | 18 | [Joshua Tree \(feat\. Z3LLA\)](https://open.spotify.com/track/49ZRG9VBqHbvGbFkyOZNIZ) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Joshua Tree \(feat\. Z3LLA\)](https://open.spotify.com/album/1Okp3DxvMe0mTALzIyghav) | 3:01 |
 | 19 | [E\-Motion](https://open.spotify.com/track/5eWPgMMyrVAefVGvZBnXnu) | [LIVA \(BR\)](https://open.spotify.com/artist/4QJh8fiELd6lGjPb6PhGl1) | [E\-Motion](https://open.spotify.com/album/0bEn7xqJ32mEqYp9r3nbi4) | 3:24 |
 | 20 | [Nikes \(ANGELPLAYA Remix\)](https://open.spotify.com/track/4FII6jFjWVJ3vJQZBxmgBO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [Nikes \(ANGELPLAYA Remix\)](https://open.spotify.com/album/20mtMkuXwrqjoQwwhIckdU) | 2:24 |

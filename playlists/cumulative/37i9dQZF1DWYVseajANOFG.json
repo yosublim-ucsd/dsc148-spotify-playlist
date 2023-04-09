@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD"
@@ -3340,6 +3340,32 @@
       "duration_ms": 155125,
       "name": "Van Duro",
       "url": "https://open.spotify.com/track/3rBITsfts82foOS58VKMoj"
+    },
+    {
+      "album": {
+        "name": "VIRAL",
+        "url": "https://open.spotify.com/album/5OHHCufZg80tvQarKY4y0U"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/0oCbJ7Ap6RYWtQM1JK3YXC"
     },
     {
       "album": {

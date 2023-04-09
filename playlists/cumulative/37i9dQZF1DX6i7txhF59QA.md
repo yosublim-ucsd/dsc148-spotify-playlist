@@ -2,9 +2,9 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: Lee Chan Won\(이찬원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Hong Ja\(홍자\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-790 songs - 1 day 21 hr 10 min
+791 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Coming home](https://open.spotify.com/track/50eaioaMEGRbia13qeyU4h) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/44u1ZQbUrDmFKK3dk1m0m9) | 3:55 | 2023-02-24 |  |
 | [Coming home](https://open.spotify.com/track/7kAoWIj2uWUrZRosRZ2kMp) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 3:55 | 2022-04-21 | 2022-07-23 |
 | [Companion](https://open.spotify.com/track/3gTrOXrnkpfGokyhg4nwsX) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:08 | 2022-05-03 | 2022-06-08 |
+| [Connori](https://open.spotify.com/track/5IDb5wJ0M85sc7yeyNSl5V) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Connori](https://open.spotify.com/album/6sUM94T6JNla86rl4U8S4U) | 4:44 | 2023-04-07 |  |
 | [Convenience store](https://open.spotify.com/track/5OhJdq3H0I3TXqlkD5RiCR) | [Lee Chan Won](https://open.spotify.com/artist/0D66ZMgUm5l0ndTPGRXWga) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 2:49 | 2022-04-07 | 2022-07-27 |
 | [Convenience store](https://open.spotify.com/track/6isqtJN5IckTIABWdyOgc4) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Convenience store](https://open.spotify.com/album/2mWPGgfw22gygkkKoGIiCE) | 2:49 | 2022-04-07 | 2023-01-05 |
 | [Corny Love Song \(By yoyomi\)](https://open.spotify.com/track/69YKBl2G3axRJORVBWM2Ge) | [PD J.Y\. Park](https://open.spotify.com/artist/2dSnfAUCf6PXbiiek4047K) | [Corny Love Song \(By Yoyomi\)](https://open.spotify.com/album/4919luY2QbWcvZQ13jE4rg) | 3:54 | 2022-04-07 | 2022-07-27 |
@@ -208,7 +209,7 @@
 | [Flying deep in the night](https://open.spotify.com/track/5k2AaRbRObN1g0T7MwQNT5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 3:03 | 2022-04-22 | 2022-07-24 |
 | [Follow Me \(Prod\. by Young Tak\)](https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Follow Me](https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3) | 2:42 | 2022-05-03 |  |
 | [Follow Me \(Prod\. by Young Tak\)](https://open.spotify.com/track/1rBWy9cDi872kGCdaiJwNU) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 2:42 | 2022-04-07 | 2022-07-29 |
-| [For Your Soul](https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:24 | 2022-04-22 |  |
+| [For Your Soul](https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:24 | 2022-04-22 | 2023-04-09 |
 | [Forbidden Love](https://open.spotify.com/track/7FnHUlrCjWvFPF3AYcCQ12) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Dream](https://open.spotify.com/album/4QlmckbPKjwvpfDO9DzDpQ) | 4:27 | 2022-04-07 | 2022-07-28 |
 | [Forever friend](https://open.spotify.com/track/3KLvJg6RxDB3F6Pq7x1jD2) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 2:57 | 2022-04-22 | 2022-06-08 |
 | [Forget me not](https://open.spotify.com/track/0hmmbb7ABooeAdEbMew4D8) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 4:19 | 2022-04-07 | 2022-07-06 |

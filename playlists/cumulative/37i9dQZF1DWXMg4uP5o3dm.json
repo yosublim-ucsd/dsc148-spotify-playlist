@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/6r2LkXt6DqfQGV70OHAilY"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/1VptKlDOriidHrb0eaIo22"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV"
       },
@@ -385,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
       },
@@ -690,7 +726,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 164117,
       "name": "Coke Nose",
       "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
@@ -821,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Young Dumb",
+        "url": "https://open.spotify.com/album/3t55Gq48Pbw1uw51T4WSoi"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170247,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/3HQgbZUdzP6kn27L5c0LcV"
+    },
+    {
+      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm"
       },
@@ -884,7 +938,7 @@
           "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
         }
       ],
-      "date_added": "2023-03-20",
+      "date_added": "2023-02-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196880,
@@ -1388,7 +1442,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 183127,
       "name": "Feel Real Pretty",
       "url": "https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e"
@@ -1670,7 +1724,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 124000,
       "name": "FWM2",
       "url": "https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq"
@@ -2073,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "I Am Sad",
+        "url": "https://open.spotify.com/album/7jpY82CCpKIxcycDg7JR7V"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201056,
+      "name": "I Don't Like It When You're Lonely",
+      "url": "https://open.spotify.com/track/2BFQ1wZQZrZj4e2C8DvsfD"
+    },
+    {
+      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -2254,7 +2326,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 254269,
       "name": "Last Resort & Spa",
       "url": "https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1"
@@ -2662,7 +2734,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 179956,
       "name": "Mx. Sinister",
       "url": "https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM"
@@ -3098,7 +3170,7 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/0isrhXBLy3hrbG6ZrNOBmK"
@@ -3484,6 +3556,24 @@
       "duration_ms": 195573,
       "name": "Same",
       "url": "https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY"
+    },
+    {
+      "album": {
+        "name": "save urself (runaway)",
+        "url": "https://open.spotify.com/album/6pCIJ9SOQndRMZK403UF7v"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "save urself (runaway)",
+      "url": "https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX"
     },
     {
       "album": {
@@ -4090,7 +4180,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 158733,
       "name": "Too Bizarre (with Swae Lee & Siiickbrain)",
       "url": "https://open.spotify.com/track/5YRcIZnrTmdXgZJwmT0LJS"

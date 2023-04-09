@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-189 songs - 12 hr 4 min
+190 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Black Anime](https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:20 | 2023-03-09 |  |
 | [Black Dog \- Remaster](https://open.spotify.com/track/0D58ERdLBDRgT86BPnH8ps) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 4:55 | 2023-02-11 |  |
 | [Blackstrap](https://open.spotify.com/track/0uPk8BMGZIRNzrsFER80l8) | [The Besnard Lakes](https://open.spotify.com/artist/2hMif9QK1Knz7gD5XIUsER) | [The Besnard Lakes Are The Last Of The Great Thunderstom Warnings](https://open.spotify.com/album/5rGiRjTQSLOEpwLuvoepg7) | 6:35 | 2022-09-13 |  |
+| [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2023-04-07 |  |
 | [Blue](https://open.spotify.com/track/6lp6YWBzpPj1oaGZiTD5x2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Miles](https://open.spotify.com/album/7J3XAN9vV4smAoiz1TQwHB) | 2:18 | 2022-01-13 |  |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
 | [BUSY / SIRENS](https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 5:29 | 2023-01-13 |  |

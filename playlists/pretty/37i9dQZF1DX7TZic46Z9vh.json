@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 38216,
+  "num_followers": 38241,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDNhODhmOTM3NDkzMDI5YTZhNGExYzU1NDc5MjQ4ODhi",
+  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMGEwODcyZDhiYjAzZWFlMTE4ZTcxZDlhY2M3OGQ4NmZh",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Volumen I",
-        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
-      },
-      "artists": [
-        {
-          "name": "Nahuatl",
-          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Tiempo Perdido",
-      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Toncho Pilatos",
         "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 230973,
       "name": "Tommy Lyz",
       "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Volumen I",
+        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
+      },
+      "artists": [
+        {
+          "name": "Nahuatl",
+          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Tiempo Perdido",
+      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
     },
     {
       "added_at": "2021-09-06 15:34:44",

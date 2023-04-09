@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "LIKE IT LIKE IT",
+        "url": "https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188033,
+      "name": "Love,Maybe(Japanese ver.)",
+      "url": "https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm"
+    },
+    {
+      "album": {
         "name": "LUMINOUS",
         "url": "https://open.spotify.com/album/2SK988TDKtheZT9zVozte4"
       },
@@ -1969,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Teddy Bear (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Teddy Bear - Japanese Ver.",
+      "url": "https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o"
+    },
+    {
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -2200,6 +2236,28 @@
       "duration_ms": 195882,
       "name": "When The Sun Goes Down",
       "url": "https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng"
+    },
+    {
+      "album": {
+        "name": "Call Me Back When You Get A Moment",
+        "url": "https://open.spotify.com/album/6bE6HDahCecQQ8QnrEIP6l"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/6Zib96PhBuBL0o9ycIbX0l"
     },
     {
       "album": {

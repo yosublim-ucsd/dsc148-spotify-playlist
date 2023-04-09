@@ -381,6 +381,32 @@
     },
     {
       "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        },
+        {
+          "name": "Ivan Neville",
+          "url": "https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv"
+        },
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278453,
+      "name": "Dreaming Out Loud [Feat. Ivan Neville, Ruthie Foster]",
+      "url": "https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK"
+    },
+    {
+      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -554,7 +580,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 731509,
       "name": "Get out of Your Head",
       "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
@@ -828,6 +854,24 @@
       "duration_ms": 370666,
       "name": "Just A Little",
       "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
+    },
+    {
+      "album": {
+        "name": "Just Music",
+        "url": "https://open.spotify.com/album/7EB6VqMWgy5CVXMqOVvDGG"
+      },
+      "artists": [
+        {
+          "name": "Marbin",
+          "url": "https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382014,
+      "name": "Just Music",
+      "url": "https://open.spotify.com/track/4Ixf4fxQiHDcUNgK2KtDXY"
     },
     {
       "album": {
@@ -1390,6 +1434,28 @@
       "duration_ms": 565240,
       "name": "Saturday's Children (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
+    },
+    {
+      "album": {
+        "name": "Scarlet Begonias",
+        "url": "https://open.spotify.com/album/3WfxL85c4fIfRNPLli2tXo"
+      },
+      "artists": [
+        {
+          "name": "Dave McMurray",
+          "url": "https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x"
+        },
+        {
+          "name": "Oteil Burbridge",
+          "url": "https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347600,
+      "name": "Scarlet Begonias",
+      "url": "https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0"
     },
     {
       "album": {

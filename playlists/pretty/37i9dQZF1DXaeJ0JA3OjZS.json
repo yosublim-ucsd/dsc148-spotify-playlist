@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 37091,
+  "num_followers": 37552,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMGQyMDVkYzM2MjY2ZGY3OGE3YjJkMWE0YmJhZmYwZGNl",
+  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMGZlMmQ5MjRiYTUxNThkNmM1MzJjMzUxNDk1MGRlZDVm",
   "tracks": [
     {
       "added_at": "2022-08-01 23:22:41",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 205165,
-      "name": "El Moro de Cumpas",
-      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "Con el Poder del Corrido",
         "url": "https://open.spotify.com/album/1D2hxYcke3d29b1vOkf9Wr"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 205165,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
         "name": "Agarr\u00f3 Camino",
         "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
-        }
-      ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 276760,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+        }
+      ],
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "El Texano y el Machete",
+      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
         "name": "El Caballo Robado",
         "url": "https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 212214,
       "name": "El Caballo Robado",
       "url": "https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
     },
     {
       "added_at": "2022-08-01 23:22:41",

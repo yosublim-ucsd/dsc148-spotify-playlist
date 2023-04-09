@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 35149,
+  "num_followers": 35228,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDFhZmU2NDQ1NmJhNWQwNzA4ODZmOTRiZmQ2NzU4MzMx",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMGI2Yjg5NzExMWYyZGU0MzYxYzliNGMzODc1Nzg4YzI1",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Moongod",
-        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
-      },
-      "artists": [
-        {
-          "name": "Aeternam",
-          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
-        }
-      ],
-      "duration_ms": 341175,
-      "name": "Moongod",
-      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Znousland 2",
         "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 242000,
       "name": "Khoroto (Gultrah Sound System)",
       "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Moongod",
+        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
+      },
+      "artists": [
+        {
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
+        }
+      ],
+      "duration_ms": 341175,
+      "name": "Moongod",
+      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
     },
     {
       "added_at": "2021-10-14 08:16:07",

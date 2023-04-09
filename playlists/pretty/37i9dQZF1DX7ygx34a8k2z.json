@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 121958,
+  "num_followers": 122457,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMDM3MmZhNTIzNmU0MmJjNmIxODY3ZjIzMWJlYmNhNzRi",
+  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMDFhZTFhMmIwZTI0YTVjMDAyMzI1M2Y4MTFiNWU4ODZj",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 145706,
       "name": "Blister In The Sun",
       "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
+        "name": "Kerosene Hat",
+        "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
+      },
+      "artists": [
+        {
+          "name": "Cracker",
+          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
-        "name": "Kerosene Hat",
-        "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
-      },
-      "artists": [
-        {
-          "name": "Cracker",
-          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Only Happy When It Rains",
-      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Kill the Moonlight",
         "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 159386,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "American Thighs",
-        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
-      },
-      "artists": [
-        {
-          "name": "Veruca Salt",
-          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Seether",
-      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Whatever And Ever Amen (Remastered Edition)",
         "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 271720,
       "name": "Brick",
       "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "American Thighs",
+        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
+      },
+      "artists": [
+        {
+          "name": "Veruca Salt",
+          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Seether",
+      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 357693,
-      "name": "Sugar Kane",
-      "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 230533,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 357693,
+      "name": "Sugar Kane",
+      "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
     },
     {
       "added_at": "2023-01-10 19:08:23",

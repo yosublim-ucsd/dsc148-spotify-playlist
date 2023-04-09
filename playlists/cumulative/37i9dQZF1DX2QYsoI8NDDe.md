@@ -4,7 +4,7 @@
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Irene del Rosario
 
-277 songs - 15 hr 32 min
+278 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Me Voy](https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Me Voy](https://open.spotify.com/album/5iIJGuHDAOFUfshFN5kxcN) | 2:55 | 2022-01-07 | 2022-01-22 |
 | [Mentiras](https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Solo Lo Mejor: 20 Exitos](https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD) | 3:56 | 2022-01-07 | 2022-07-29 |
 | [Mentiras](https://open.spotify.com/track/15Ua6Q1yeD6GHdf4J0Elws) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [30 Exitos Insuperables](https://open.spotify.com/album/33ZPVVNd1W4MaLloP1H2UC) | 3:56 | 2023-01-09 | 2023-03-04 |
+| [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 | 2023-04-07 |  |
 | [Merecía Más](https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Merecía Más](https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa) | 3:01 | 2022-05-20 | 2022-08-04 |
 | [Mi Corazón](https://open.spotify.com/track/2CUyd0sqedJTEanrE1rNA0) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Mi Corazón](https://open.spotify.com/album/5HJsp7RhsiDhuE9xvEJBsO) | 3:04 | 2022-01-07 | 2022-07-27 |
 | [Mi Corazón](https://open.spotify.com/track/4JIGvUeyXTKEzZ8mv0ApKl) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Mi Corazón](https://open.spotify.com/album/6o7i9pTUqE8FC6WbqtKqMa) | 3:04 | 2022-08-03 | 2022-12-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. AKRIILA. \nDales play, dales power.",
-  "num_followers": 11559,
+  "num_followers": 11566,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDMyMjJjM2Y3ZDM0ZjNmZDgzMzBhNTdiYjk3ZDRiMGEy",
+  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDA2MmU4MDAyNzU2OGRlYzM5MGU2YWUxOTliNzI2MWJm",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 184145,
-      "name": "Libre Albedr\u00edo",
-      "url": "https://open.spotify.com/track/1V199S6f6QMqqb7j1V4MaF"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Soy una Gerla",
         "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 116412,
       "name": "Soy una Gerla",
       "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 184145,
+      "name": "Libre Albedr\u00edo",
+      "url": "https://open.spotify.com/track/1V199S6f6QMqqb7j1V4MaF"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Casa Sola",
+        "url": "https://open.spotify.com/album/3AxQRFzSpDQAbJI0Qdaptm"
+      },
+      "artists": [
+        {
+          "name": "Gigi Caro",
+          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
+        },
+        {
+          "name": "Dimelo Yepo",
+          "url": "https://open.spotify.com/artist/6Ow7CkDp2FoHmZ1ZDHiZF7"
+        }
+      ],
+      "duration_ms": 169138,
+      "name": "Casa Sola",
+      "url": "https://open.spotify.com/track/4YYSXN3iq5qnhfLypUdxYf"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Luni Tun",
         "url": "https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 201237,
       "name": "Luni Tun",
       "url": "https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Casa Sola",
-        "url": "https://open.spotify.com/album/3AxQRFzSpDQAbJI0Qdaptm"
-      },
-      "artists": [
-        {
-          "name": "Gigi Caro",
-          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
-        },
-        {
-          "name": "Dimelo Yepo",
-          "url": "https://open.spotify.com/artist/6Ow7CkDp2FoHmZ1ZDHiZF7"
-        }
-      ],
-      "duration_ms": 169138,
-      "name": "Casa Sola",
-      "url": "https://open.spotify.com/track/4YYSXN3iq5qnhfLypUdxYf"
     },
     {
       "added_at": "2023-04-05 03:00:00",

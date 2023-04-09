@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 106780,
+  "num_followers": 107440,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxMTc2NSwwMDAwMDAwMDA2ZmUyMmQ4OWQyOTM3OTdmODI3MzU0NTIyZjI5NmVm",
+  "snapshot_id": "MTY4MDUxMTc2NSwwMDAwMDAwMDNkZmExNmE2NTU2MTU0ZDIxMDA0NzM2MTc3MGRjYmU0",
   "tracks": [
     {
       "added_at": "2023-04-03 08:49:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "Disco Fizz (Expanded Edition)",
         "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2023-04-03 08:49:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "Livin' Up",
-        "url": "https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray"
-      },
-      "artists": [
-        {
-          "name": "B.W.H.",
-          "url": "https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f"
-        }
-      ],
-      "duration_ms": 287760,
-      "name": "Livin' Up",
-      "url": "https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 447775,
       "name": "Italo Amore (Musumeci Edit)",
       "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
+        "name": "Livin' Up",
+        "url": "https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray"
+      },
+      "artists": [
+        {
+          "name": "B.W.H.",
+          "url": "https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f"
+        }
+      ],
+      "duration_ms": 287760,
+      "name": "Livin' Up",
+      "url": "https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv"
     }
   ],
   "unique_name": "Italo Disco",

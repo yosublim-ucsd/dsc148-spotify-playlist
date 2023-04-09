@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Rezz
 
-443 songs - 1 day 0 hr 39 min
+444 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Step Into It](https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Karsten Sollors](https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35) | [Step Into It](https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq) | 3:09 | 2022-11-18 | 2023-03-11 |
 | [Step To](https://open.spotify.com/track/0HsQvGaux6t1XMptT4XrhU) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Step To](https://open.spotify.com/album/2K3748HtawpGZUmelDKNhx) | 3:42 | 2022-10-07 | 2023-02-11 |
 | [Stimulate](https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Stimulate](https://open.spotify.com/album/1le5zXq9nLfSCTVm8LPtnc) | 3:02 | 2022-01-14 | 2022-06-11 |
-| [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/track/2nB2qlEjAaVtLxNcIUvfWj) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/album/37bxAsxhH15sKeIvRVfjYk) | 2:53 | 2022-08-12 |  |
+| [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/track/2nB2qlEjAaVtLxNcIUvfWj) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Stranger Things Theme \(Felix Cartal's After Dark Remix\)](https://open.spotify.com/album/37bxAsxhH15sKeIvRVfjYk) | 2:53 | 2022-08-12 | 2023-04-09 |
 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-07-15 | 2022-12-03 |
 | [Submit](https://open.spotify.com/track/6J66tZw5bpW7V3xBbpZsCo) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Submit](https://open.spotify.com/album/2R86HHKKU9H1jUG1AnMAzQ) | 3:10 | 2022-01-14 | 2022-04-02 |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-03-10 |  |
@@ -403,6 +403,7 @@
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-10-28 |  |
 | [The Players Anthem](https://open.spotify.com/track/2LoIZdDNnPXLMdFON1aEuZ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/7FndyrfOQ0ZJV5CwiVVKbu) | 3:17 | 2022-05-27 | 2022-08-13 |
 | [The Players Anthem](https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL) | 3:17 | 2022-04-01 | 2022-07-29 |
+| [THE POWER!](https://open.spotify.com/track/253hNdYwpTLBlMpgm2RYIQ) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [THE POWER!](https://open.spotify.com/album/7Ewjy1z4p5QKz0EFrgXskf) | 2:44 | 2023-03-31 |  |
 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 | 2022-12-02 |  |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-10-07 | 2023-02-11 |
 | [Think About](https://open.spotify.com/track/0mgpKVkh9yenAnNB0lTWO4) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Think About](https://open.spotify.com/album/2cYsiuYP1rpKpLWjwSBvaL) | 3:24 | 2022-09-30 | 2023-02-25 |

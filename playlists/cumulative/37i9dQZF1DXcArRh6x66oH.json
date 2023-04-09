@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "I Am Appalachia",
+        "url": "https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160147,
+      "name": "I Am Appalachia",
+      "url": "https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5"
+    },
+    {
+      "album": {
         "name": "If I Were the Devil",
         "url": "https://open.spotify.com/album/6h3QqAyUznHmGJj90J3WZl"
       },

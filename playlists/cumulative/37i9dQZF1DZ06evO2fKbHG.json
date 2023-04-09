@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100853,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx"
+    },
+    {
+      "album": {
         "name": "Give 'Em Enough Rope (Remastered)",
         "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
       },
@@ -290,6 +308,24 @@
       "duration_ms": 354746,
       "name": "Futura 2000",
       "url": "https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k"
+    },
+    {
+      "album": {
+        "name": "The Cost of Living - EP",
+        "url": "https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Gates of the West",
+      "url": "https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU"
     },
     {
       "album": {

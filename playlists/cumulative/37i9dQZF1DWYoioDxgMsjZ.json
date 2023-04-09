@@ -56,10 +56,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 178599,
       "name": "a woman is a god",
       "url": "https://open.spotify.com/track/5kcERXTIoNbkBjb6o4vYBf"
+    },
+    {
+      "album": {
+        "name": "goldilocks x",
+        "url": "https://open.spotify.com/album/1ub4u5KekqUhWrOoBzoB6s"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178599,
+      "name": "a woman is a god",
+      "url": "https://open.spotify.com/track/7fEs3RW4KCT7II7SWFU2Gx"
     },
     {
       "album": {

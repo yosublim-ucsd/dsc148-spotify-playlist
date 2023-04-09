@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 171000,
       "name": "43VR",
       "url": "https://open.spotify.com/track/2oVs3DVmsCK5yL55v9YbK2"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 330640,
       "name": "deepfake",
       "url": "https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 158614,
       "name": "Fun and Forget",
       "url": "https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n"
@@ -994,10 +994,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
+    },
+    {
+      "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184665,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/07TVw9EACsJKkgkb729Bs6"
     },
     {
       "album": {
@@ -1287,6 +1305,32 @@
     },
     {
       "album": {
+        "name": "lol.",
+        "url": "https://open.spotify.com/album/4JsRJhklpfdlHCrMEvAEJK"
+      },
+      "artists": [
+        {
+          "name": "Left at London",
+          "url": "https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE"
+        },
+        {
+          "name": "Jedwill",
+          "url": "https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id"
+        },
+        {
+          "name": "wishlane",
+          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166937,
+      "name": "lol.",
+      "url": "https://open.spotify.com/track/2b1jwf7qPlVHcXLB8jkOp9"
+    },
+    {
+      "album": {
         "name": "losemymind",
         "url": "https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu"
       },
@@ -1432,6 +1476,24 @@
       "duration_ms": 135530,
       "name": "never goes down like that (ft. Ezekiel)",
       "url": "https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11"
+    },
+    {
+      "album": {
+        "name": "PERFECT!",
+        "url": "https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125564,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K"
     },
     {
       "album": {
@@ -1988,7 +2050,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -2320,7 +2382,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142250,
       "name": "U Neva",
       "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
@@ -2530,7 +2592,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 152551,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm"
@@ -2548,7 +2610,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 138299,
       "name": "You Make Me Sick!",
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"

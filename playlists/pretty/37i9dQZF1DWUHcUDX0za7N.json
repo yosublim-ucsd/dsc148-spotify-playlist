@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=ip5h-Z8eR1iYN7c6rAjd0w\" > SGaWD </a> ",
-  "num_followers": 17786,
+  "num_followers": 17842,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4OTA1MCwwMDAwMDAwMGU3NDA5NWQwMWI4NjE1ZjIwNWI0OTk2YjM5ZGIyNTY2",
+  "snapshot_id": "MTY4MDI4OTA1MCwwMDAwMDAwMDIyM2Y0NmMwZGFiOGNlOTkxZmI3NWNmZWNhMWMxM2Rm",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Love Triangle",
         "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 152456,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
     },
     {
-      "added_at": "2023-04-07 00:15:20",
+      "added_at": "2023-04-09 00:14:53",
       "album": {
         "name": "Wahala",
         "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Bad Boy Etiquette 101",
-        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "No Peace (Violence)",
-      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+      },
+      "artists": [
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
-      },
-      "artists": [
-        {
-          "name": "Keeya Keys",
-          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Moving Mad",
-        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
         }
       ],
-      "duration_ms": 142894,
-      "name": "Moving Mad",
-      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
+      "duration_ms": 241738,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
+        "name": "Moving Mad",
+        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
       },
       "artists": [
         {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
         }
       ],
-      "duration_ms": 241738,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
+      "duration_ms": 142894,
+      "name": "Moving Mad",
+      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1175,6 +1175,22 @@
       "duration_ms": 131478,
       "name": "MIDLIFE CRISIS",
       "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Blessed Sinner",
+        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
+      },
+      "artists": [
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "duration_ms": 178599,
+      "name": "Blessed Sinner",
+      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Blessed Sinner",
-        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
-      },
-      "artists": [
-        {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
-        }
-      ],
-      "duration_ms": 178599,
-      "name": "Blessed Sinner",
-      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
       "added_at": "2023-03-30 23:00:00",

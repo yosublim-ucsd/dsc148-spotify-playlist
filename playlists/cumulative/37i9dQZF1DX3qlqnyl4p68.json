@@ -760,10 +760,28 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 79773,
       "name": "Planck's Constant",
       "url": "https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79773,
+      "name": "Planck's Constant",
+      "url": "https://open.spotify.com/track/6WuFaFnm8gMsz0yakLYNUE"
     },
     {
       "album": {

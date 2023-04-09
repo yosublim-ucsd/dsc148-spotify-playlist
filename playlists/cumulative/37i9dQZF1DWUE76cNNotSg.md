@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-330 songs - 21 hr 47 min
+332 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Hesitate](https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM) | 4:11 | 2020-12-22 |  |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-12-22 | 2022-12-01 |
 | [Home](https://open.spotify.com/track/4xBzlpnMJryekTEICKsRiK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 2:36 | 2020-12-22 | 2022-04-21 |
-| [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2020-12-22 |  |
+| [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2020-12-22 | 2023-04-09 |
 | [Horizon \- Poolside Remix](https://open.spotify.com/track/1pZLRkzmhVCNMtvsSNq4Bp) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Horizon \(Poolside Remix\)](https://open.spotify.com/album/2Wm1dPwEOiM0uOHpj8oy3D) | 5:51 | 2020-12-22 | 2022-04-18 |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2021-03-19 | 2022-12-24 |
 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 | 2020-12-22 |  |
@@ -134,6 +134,7 @@
 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 | 2020-12-22 |  |
 | [I Wanna Know](https://open.spotify.com/track/0xGTpQrQSRS2o8TMYGCyOr) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [I Wanna Know](https://open.spotify.com/album/4g93Ifdeb2qTaoSDFMFUDS) | 5:20 | 2020-12-22 | 2022-07-29 |
 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 | 2021-03-19 |  |
+| [IDK](https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [IDK](https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85) | 2:43 | 2023-04-07 |  |
 | [In the Garden](https://open.spotify.com/track/0mYb0BPh3rC1YuAVBtr6Di) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [In the Garden](https://open.spotify.com/album/2vOAHsQ1zmVnJgE9y0SgCx) | 3:40 | 2021-10-01 | 2022-07-20 |
 | [In The Genes](https://open.spotify.com/track/7qmfoJOvyf8FgUxFpKTyKq) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Love Music](https://open.spotify.com/album/6Vic53TolsMk2phqGftC3p) | 8:00 | 2020-12-22 | 2022-04-18 |
 | [Infield \(Young & Sick Remix\)](https://open.spotify.com/track/3xkMBk1wMJ3aEnWO0sSOW7) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC), [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Infield \(Young & Sick Remix\)](https://open.spotify.com/album/1kTRU2NEv60y4JYGUwuvNt) | 4:58 | 2020-12-22 | 2022-07-29 |
@@ -249,6 +250,7 @@
 | [See You Again](https://open.spotify.com/track/26gAJmT5PipdLamyFMy7c8) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/6oRdKgJrTM7mNHNhCZZYs6) | 4:22 | 2021-03-19 | 2022-07-29 |
 | [Shine a Light \- Flight Facilities Remix](https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine a Light](https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG) | 5:49 | 2020-12-22 |  |
 | [Shine A Light \- Flight Facilities Remix](https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd) | [The C90s](https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Shine A Light](https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9) | 5:49 | 2020-12-22 | 2022-11-20 |
+| [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 | 2023-04-07 |  |
 | [Simple](https://open.spotify.com/track/05LiQlMRX2PlThoHWPjGae) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Simple](https://open.spotify.com/album/4w3xE0xHZhglqAd8hXofGw) | 3:48 | 2020-12-22 | 2022-04-19 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-22 |  |
 | [Sleep In](https://open.spotify.com/track/3AnlNDM6RIFcljsQVlW33z) | [Telekinesis](https://open.spotify.com/artist/3faZppLa0MVUYBlyp7zDAo) | [Sleep In](https://open.spotify.com/album/6eak6RgXakNttqksWm8080) | 4:20 | 2020-12-22 | 2022-04-21 |
@@ -276,7 +278,7 @@
 | [SWIM](https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:37 | 2022-05-13 | 2022-06-04 |
 | [Swimming \- Radio Edit](https://open.spotify.com/track/6cWcSmtGQT9OmFPNDhfwlr) | [I'm Not A Band](https://open.spotify.com/artist/56SpKYTYuMIsMidg3rYOrF) | [Swimming](https://open.spotify.com/album/4kmvJtSyTccj6nNH2ddTmV) | 3:06 | 2020-12-22 | 2022-04-19 |
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-08-27 | 2022-07-28 |
-| [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2020-12-22 |  |
+| [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2020-12-22 | 2023-04-09 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-12-22 |  |
 | [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2020-12-22 |  |
 | [Taking Over](https://open.spotify.com/track/3uXle1XlLjIXh2LCPQ0hPa) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/2SltvftvL174qfJ9COX0ko) | 5:36 | 2020-12-22 | 2022-04-12 |

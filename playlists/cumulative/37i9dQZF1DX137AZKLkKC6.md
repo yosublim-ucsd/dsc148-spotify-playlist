@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Jhonny Rivera y Luisito Muñoz
 
-124 songs - 6 hr 23 min
+125 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-12-02 | 2023-02-14 |
 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2022-08-12 |  |
 | [LA UBI](https://open.spotify.com/track/5gPYfQZslTQV5516i27ZRs) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [LA UBI](https://open.spotify.com/album/1E52H00B5Jxzuth8Jp72XP) | 2:36 | 2022-12-16 | 2023-01-28 |
+| [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-04-07 |  |
 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 | 2022-08-12 |  |
 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 | 2022-08-12 | 2022-11-05 |
 | [Mala Mujer](https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:01 | 2022-08-12 |  |
@@ -88,7 +89,7 @@
 | [Ni Que Fueras la Mas Buena](https://open.spotify.com/track/3rbeV5mt1vaQP0p7Ts1E17) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 2:35 | 2022-08-12 | 2023-03-04 |
 | [Ni Tengo Ni Necesito](https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Ni Tengo Ni Necesito](https://open.spotify.com/album/3y0wLmxhOrDjmSw0LUUVEi) | 3:21 | 2022-08-12 |  |
 | [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 | 2023-03-17 |  |
-| [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 |  |
+| [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 | 2023-04-09 |
 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 | 2022-12-02 | 2023-01-28 |
 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beeren](https://open.spotify.com/artist/0RLMeX0AW8JhHRRdFJWOAB) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 | 2023-03-03 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 | 2022-08-12 |  |

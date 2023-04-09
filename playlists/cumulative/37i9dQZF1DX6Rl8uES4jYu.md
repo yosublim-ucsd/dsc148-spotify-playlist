@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-366 songs - 20 hr 42 min
+367 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Crybaby](https://open.spotify.com/track/1dBmN1VxLCgBEVnvE5NCGe) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4), [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU) | [Crybaby](https://open.spotify.com/album/38hQVfL0zZ8BCQ1fmp2O3g) | 3:37 | 2021-05-14 | 2022-07-17 |
 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 | 2021-09-21 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/71rj28ER4lLn4hzv5uoU28) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Cody Dear](https://open.spotify.com/artist/019crWCRkPjQjBnhKaafTV) | [Dance With Me](https://open.spotify.com/album/0FpS3fMRCvjggvuaNFQzvg) | 2:33 | 2020-11-13 | 2022-03-26 |
+| [Dance With You \(The Comeback\)](https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Dance With You \(The Comeback\)](https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp) | 2:44 | 2023-04-07 |  |
 | [Daydreams](https://open.spotify.com/track/7471rZWt1MAHHS54AUd0cy) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Daydreams/Sunset](https://open.spotify.com/album/0SxqQkr5kB82oG93fRvtjE) | 4:02 | 2020-11-13 | 2022-03-26 |
 | [Design](https://open.spotify.com/track/1pX8oB4YvglQZEkLJBMkRv) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Design](https://open.spotify.com/album/5x1d3pzZkeUW3lDPgsbPHH) | 3:37 | 2021-05-14 | 2022-04-21 |
 | [Devotion \- Shakur Ahmad Remix](https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe) | [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Shakur Ahmad](https://open.spotify.com/artist/2AH7NRIWkddZkdpyiFuR8S) | [Devotion \(Shakur Ahmad Remix\)](https://open.spotify.com/album/5MLhPlELucdc3OdlACAXdC) | 3:20 | 2021-04-09 | 2022-08-09 |
@@ -156,7 +157,7 @@
 | [I Told You](https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [I Told You](https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp) | 3:27 | 2022-06-03 |  |
 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 | 2021-09-03 | 2022-07-20 |
 | [Ice Cold](https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Ice Cold](https://open.spotify.com/album/08a5OpPDqZ8vXfu3AejPdW) | 3:16 | 2020-11-13 | 2022-03-26 |
-| [If Perfect Was Real](https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Wass](https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo) | [If Perfect Was Real](https://open.spotify.com/album/5JgF7N6lWqVwh0udZsmy3F) | 3:13 | 2022-09-02 |  |
+| [If Perfect Was Real](https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Wass](https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo) | [If Perfect Was Real](https://open.spotify.com/album/5JgF7N6lWqVwh0udZsmy3F) | 3:13 | 2022-09-02 | 2023-04-09 |
 | [In It To Win](https://open.spotify.com/track/41b2WXj5ZzBpPoVx7WvHMg) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:07 | 2020-11-13 | 2022-03-22 |
 | [It Never Rains](https://open.spotify.com/track/67URyvNo0ymOlShJB9JclN) | [GEO](https://open.spotify.com/artist/0U1xtc0gukCZNjTf9mY5a1) | [It Never Rains](https://open.spotify.com/album/5S7KTMA8maUeDLgFuXzOn8) | 2:29 | 2020-11-13 | 2022-03-26 |
 | [It's Not All About You](https://open.spotify.com/track/1Pzyen9KGLK2lKzA2rnOMm) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [It's Not All About You](https://open.spotify.com/album/5bHX5DB1yKo05tOC8n4CVR) | 2:31 | 2020-11-13 | 2022-03-26 |

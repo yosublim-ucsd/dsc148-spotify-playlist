@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: king isis",
-  "num_followers": 282393,
+  "num_followers": 282418,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDNiNTYyM2QxM2EwZWJlOGViYjBmODA3ODljODZmZjNl",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQzMDUwODE3Njc2OTRlOWEzOGExY2U1MDNjZjRlOTQz",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/1ADmIBKMDRcs6Cfj2Xe0XJ"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs"
+      },
+      "artists": [
+        {
+          "name": "LIES",
+          "url": "https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8"
+        }
+      ],
+      "duration_ms": 282339,
+      "name": "Blemishes",
+      "url": "https://open.spotify.com/track/4jmZ9N5KxhpPNzYodi114O"
+    },
+    {
       "added_at": "2023-03-23 16:45:13",
       "album": {
         "name": "House",
@@ -71,6 +87,38 @@
       "duration_ms": 122812,
       "name": "Where I Met U",
       "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Woman on Fire",
+        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 178571,
+      "name": "Woman on Fire",
+      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Steamroller",
+        "url": "https://open.spotify.com/album/68nQzRa9NE4R2mFPPgPwWk"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Big Plans",
+        "url": "https://open.spotify.com/album/3u3dIsBYRvqoHwBAbp1Ba1"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "duration_ms": 220891,
+      "name": "Big Plans",
+      "url": "https://open.spotify.com/track/2JBiR5DVvF05VWERn4NeRl"
+    },
+    {
       "added_at": "2023-03-23 19:45:10",
       "album": {
         "name": "Feed The Fire",
@@ -119,6 +183,22 @@
       "duration_ms": 218709,
       "name": "Feed The Fire",
       "url": "https://open.spotify.com/track/3Y1t6DTEVCbiAovIAKsiIo"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze"
     },
     {
       "added_at": "2023-03-23 16:45:13",
@@ -137,20 +217,20 @@
       "url": "https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Woman on Fire",
-        "url": "https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV"
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/1yXSX2NYq0beXees0O5EXg"
       },
       "artists": [
         {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
         }
       ],
-      "duration_ms": 178571,
-      "name": "Woman on Fire",
-      "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
+      "duration_ms": 257614,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/5wVwKdWcEwgf2pX3SgBod4"
     },
     {
       "added_at": "2023-03-10 16:10:27",
@@ -167,6 +247,22 @@
       "duration_ms": 219595,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "fluke",
+        "url": "https://open.spotify.com/album/1GJcQho6zi8rICzT8Yi3l8"
+      },
+      "artists": [
+        {
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
+        }
+      ],
+      "duration_ms": 188714,
+      "name": "forget her",
+      "url": "https://open.spotify.com/track/3IbN46ROZg3EjzttvYscQK"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1523,102 +1619,6 @@
       "duration_ms": 285734,
       "name": "carnegie hall",
       "url": "https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN"
-    },
-    {
-      "added_at": "2023-01-27 16:57:43",
-      "album": {
-        "name": "Done With Bits",
-        "url": "https://open.spotify.com/album/0W6rOrXfNXH3h79NANKqvc"
-      },
-      "artists": [
-        {
-          "name": "Varsity",
-          "url": "https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Done With Bits",
-      "url": "https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X"
-    },
-    {
-      "added_at": "2023-02-10 16:41:23",
-      "album": {
-        "name": "Why I Come Back Home",
-        "url": "https://open.spotify.com/album/44815HD3TRzWtAR7GFacn9"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pit",
-          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Why I Come Back Home",
-      "url": "https://open.spotify.com/track/5TtqOOP7YBToVhk8GI4bBz"
-    },
-    {
-      "added_at": "2023-03-03 05:09:00",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK"
-    },
-    {
-      "added_at": "2022-10-21 14:21:13",
-      "album": {
-        "name": "Mythical Bonds",
-        "url": "https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q"
-      },
-      "artists": [
-        {
-          "name": "Mamalarky",
-          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Mythical Bonds",
-      "url": "https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ"
-    },
-    {
-      "added_at": "2023-03-03 16:39:02",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7fGs8fgBZi8JmAEGdNFF9E"
-      },
-      "artists": [
-        {
-          "name": "Equipment",
-          "url": "https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx"
-        }
-      ],
-      "duration_ms": 204281,
-      "name": "Monkey Ball Gatekeeper (Cinnamon)",
-      "url": "https://open.spotify.com/track/5GcTGdSfTJOs0G7Q0T0Dzj"
-    },
-    {
-      "added_at": "2023-01-27 16:57:43",
-      "album": {
-        "name": "all in",
-        "url": "https://open.spotify.com/album/1RkdjUcv7ylxxn1rJT0iI4"
-      },
-      "artists": [
-        {
-          "name": "ghost orchard",
-          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
-        }
-      ],
-      "duration_ms": 83133,
-      "name": "all in",
-      "url": "https://open.spotify.com/track/58tzJQpMWgsPaWmSypQ2AN"
     }
   ],
   "unique_name": "undercurrents",

@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: JuJu Secret\(주주 시크릿\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-286 songs - 17 hr 49 min
+287 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fantasy 환상](https://open.spotify.com/track/3LvH2lQUntKlOnVpeleN6A) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy 환상](https://open.spotify.com/album/0x3N3cCTdp0G4bVC9douOO) | 3:30 | 2022-05-11 | 2022-07-29 |
 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 | 2022-07-04 | 2022-08-22 |
 | [Find me](https://open.spotify.com/track/7xRrS3FHDkUiDvhFXceyhZ) | [Soppy](https://open.spotify.com/artist/6hH5LLQUCxSckZ5EEmcVJm) | [Find me](https://open.spotify.com/album/39TnHfqboN2tNkKpXG0oTp) | 3:20 | 2022-05-11 | 2022-06-13 |
-| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 |  |
+| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 | 2023-04-09 |
 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 | 2022-05-11 |  |
 | [Flight](https://open.spotify.com/track/6XXqH3KcRkpDNJYf2kRhBA) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:32 | 2022-05-11 | 2022-06-28 |
 | [Forget You \(Feat\. Rainbow note, Louie\)](https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC) | [Aliven](https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E), [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Forget You](https://open.spotify.com/album/60zXXx58lbLisnStPn442S) | 4:38 | 2022-07-04 | 2022-08-13 |
@@ -211,6 +211,7 @@
 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 | 2022-05-11 |  |
 | [Scent](https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Scent](https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G) | 3:31 | 2022-07-04 | 2022-08-12 |
 | [Seaside 깊은 밤 깊은 바다](https://open.spotify.com/track/4n7cF3CwbFpW4m3HwS9kEO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/0OK6BqDE5hyHR3zSI2POWr) | 3:42 | 2022-05-11 | 2022-07-26 |
+| [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 | 2023-02-14 |  |
 | [SEOUL CITY POP](https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs) | 3:22 | 2022-05-11 | 2022-07-29 |
 | [Seven Breeze \(Feat\. Ldy\)](https://open.spotify.com/track/6WHEV4TkWE2XlMC0ZoByoi) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Ldy](https://open.spotify.com/artist/2MAu2oPXgklWH93ogCNEiy) | [New Edition 22](https://open.spotify.com/album/0Wi4E0M5Jy5z8BIMayUByQ) | 3:40 | 2022-05-11 | 2022-07-27 |
 | [SHADE](https://open.spotify.com/track/1w4p96v9sOAQAXbsVH98rs) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:16 | 2022-05-11 | 2022-07-29 |

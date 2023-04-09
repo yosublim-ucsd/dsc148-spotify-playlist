@@ -7884,7 +7884,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150220,
       "name": "Montana",
       "url": "https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE"
@@ -9086,6 +9086,24 @@
       "duration_ms": 185270,
       "name": "Pe\u015fimde Kara Geceler",
       "url": "https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69"
+    },
+    {
+      "album": {
+        "name": "CAFFEINEE",
+        "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104521,
+      "name": "PHONK (200mg)",
+      "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
     },
     {
       "album": {

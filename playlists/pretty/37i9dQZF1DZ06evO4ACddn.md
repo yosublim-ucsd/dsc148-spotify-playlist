@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 868 likes - 29 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 870 likes - 29 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 23 | [Comfortably Numb](https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Comfortably Numb](https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de) | 6:19 |
 | 24 | [What If You Fall In](https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 5:14 |
 | 25 | [Chasing Knives](https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:54 |
-| 26 | [Collider](https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs) | 3:08 |
+| 26 | [Bottled Time](https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4) | 3:07 |
 | 27 | [Place Isn't Lost](https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk) | 2:58 |
 | 28 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 |
-| 29 | [Bottled Time](https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Dust & Bones](https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4) | 3:07 |
+| 29 | [Collider](https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs) | 3:08 |
 
-Snapshot ID: `MjgwMTMxMTgsMDAwMDAwMDA3OGRlY2EzNDIzNDgyNzU3NzM4YTA0ZWQwNDEyZjU0OQ==`
+Snapshot ID: `MjgwMTU5NTgsMDAwMDAwMDA1ZTliYjkxMWMyOGRmYTYwOTUwY2RiZjQ0NDA4NDFmZA==`

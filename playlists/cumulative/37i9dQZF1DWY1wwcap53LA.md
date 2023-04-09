@@ -2,9 +2,9 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Tanner Adell, by Ian Woods.
+> Country music making waves\. Cover: Rodell Duff
 
-134 songs - 6 hr 57 min
+136 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Love My Hair](https://open.spotify.com/track/0P8ODcKOpxIKrPA84JU0ag) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Love My Hair](https://open.spotify.com/album/3KmzkYKZq0heDFvoNSW7AK) | 2:57 | 2021-12-03 |  |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2022-07-01 | 2023-02-17 |
 | [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-10 |  |
+| [Magnolia](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 | 2023-04-07 |  |
 | [Miles](https://open.spotify.com/track/2guSqTXMytOv1FMosnvYRs) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:11 | 2022-07-22 |  |
 | [Miles \(feat\. BRELAND\)](https://open.spotify.com/track/4wdgg5hbea29X8J32o53Nr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Miles \(feat\. BRELAND\)](https://open.spotify.com/album/5E5R2LEd9j0EoCC4F1zHV9) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [My Masterpiece](https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [My Masterpiece](https://open.spotify.com/album/10QTTpkxjazlLxVPmDu400) | 3:30 | 2021-12-03 |  |
@@ -137,6 +138,7 @@
 | [Whiskeysippi River](https://open.spotify.com/track/1LPvaOfo7A7fL5L8qMZO8z) | [Tracey Blake](https://open.spotify.com/artist/4Q1l0KvTqvy9SM3XF9n07P) | [Whiskeysippi River](https://open.spotify.com/album/7d0FHNsKz47v9HGgpoSROS) | 3:55 | 2021-12-03 |  |
 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 | 2022-10-07 |  |
 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-12-03 |  |
+| [Won't Be Long](https://open.spotify.com/track/1cfQ6T7ZhWMDSoZssoTWTI) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Won't Be Long](https://open.spotify.com/album/2B4Lyflq8rxDQamu3nVuYf) | 3:15 | 2023-04-07 |  |
 | [Wrecked](https://open.spotify.com/track/06eu1Ntmqj1XQT7kspc0mN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/63WJUkOUzblbgJ5AK5eb27) | 2:48 | 2021-12-03 | 2022-08-25 |
 | [Wrecked](https://open.spotify.com/track/14utDIRjqZIp00XPn6ixVx) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/7aTwKQTvJ2g5aoVffmAFXs) | 2:48 | 2022-08-12 |  |
 | [Wrecked](https://open.spotify.com/track/4lWGy4jl5j7UYjjp4imcuP) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:48 | 2022-10-14 | 2022-11-13 |

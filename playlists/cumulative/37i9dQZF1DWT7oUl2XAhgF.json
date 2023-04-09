@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Bridge of Love",
+        "url": "https://open.spotify.com/album/1zPVAfmWW8w5VBYpeewE6S"
+      },
+      "artists": [
+        {
+          "name": "Bobby Harden & The Soulful Saints",
+          "url": "https://open.spotify.com/artist/71Gn2qVCqTPof7twyFKasz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315480,
+      "name": "Bridge of Love",
+      "url": "https://open.spotify.com/track/4gzjWQHdsN0aLhKK1YDEqY"
+    },
+    {
+      "album": {
         "name": "Brooklyn to Brooklin",
         "url": "https://open.spotify.com/album/78cN2KkuMGa8dlBenxWpeR"
       },
@@ -2523,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Like a Ship (Live from Strange Manor)",
+        "url": "https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312373,
+      "name": "Like a Ship - Live from Strange Manor",
+      "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
+    },
+    {
+      "album": {
         "name": "Little Birdie",
         "url": "https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7"
       },
@@ -3816,7 +3852,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 310291,
       "name": "Rose Gold",
       "url": "https://open.spotify.com/track/1qXqUyVNrd2ymu7PQ6xoiC"
@@ -4844,7 +4880,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 224626,
       "name": "Tumblin'",
       "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"

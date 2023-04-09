@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Somehow heartbreak feels good in a place like this. Cover: Charlotte Lawrence",
+  "description": "Somehow heartbreak feels good in a place like this. Cover: Lizzy McAlpine",
   "name": "sad hour",
   "tracks": [
     {
@@ -146,10 +146,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 227750,
       "name": "A Letter To Everyone Who's Hurt Me",
       "url": "https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "album": {
@@ -236,7 +254,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 168342,
       "name": "Airport",
       "url": "https://open.spotify.com/track/6xoTS49UGtrLmKpIo3FQQg"
@@ -953,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/7y3ET5fbEgCohTwHOkM6zh"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218708,
+      "name": "Born With A Broken Heart",
+      "url": "https://open.spotify.com/track/1GTcBwVrpxpTLeJXtceeb8"
+    },
+    {
+      "album": {
         "name": "Girls In Purgatory (Full Moon Edition)",
         "url": "https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia"
       },
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 215048,
       "name": "Carry It Well",
       "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
@@ -3376,7 +3412,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 169499,
       "name": "How Are You?",
       "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
@@ -3650,6 +3686,42 @@
       "duration_ms": 213986,
       "name": "i can't breathe",
       "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
+    },
+    {
+      "album": {
+        "name": "I Can't Swim",
+        "url": "https://open.spotify.com/album/4kUoDTy9PghTaRg2bJb4VG"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218818,
+      "name": "I Can't Swim",
+      "url": "https://open.spotify.com/track/3T7yCHl6ovJaQHsSKQSgVm"
+    },
+    {
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "album": {
@@ -4619,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "leave me in the dark",
+        "url": "https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "leave me in the dark",
+      "url": "https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1"
+    },
+    {
+      "album": {
         "name": "LET EM GO",
         "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
       },
@@ -5136,7 +5226,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 188785,
       "name": "Love Under The Influence",
       "url": "https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl"

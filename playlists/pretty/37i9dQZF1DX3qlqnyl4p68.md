@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,158 likes - 41 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,544 likes - 41 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 28 | [The Gingerbread House](https://open.spotify.com/track/64lmmA3uSfoB1j4lKQkVxI) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ) | 3:20 |
 | 29 | [Kill Party](https://open.spotify.com/track/76r9tesmwZzwJWl3UzZaWU) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y) | 0:50 |
 | 30 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 |
-| 31 | [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 |
+| 31 | [Planck's Constant](https://open.spotify.com/track/6WuFaFnm8gMsz0yakLYNUE) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 1:19 |
 | 32 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 |
 | 33 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 |
 | 34 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 40 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 |
 | 41 | [Go Tomorrow](https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Hill House \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd) | 2:37 |
 
-Snapshot ID: `MTY3MDYxMTEwNywwMDAwMDAwMDlkNzlhZDM5N2IyYzUzNzk2NzYwYTFhODU1NDI4NWE2`
+Snapshot ID: `MTY3MDYxMTEwNywwMDAwMDAwMGMzNTNlMjA2MmVhNzdiNjhhY2M2NGI5YTgyZWJmMmMz`

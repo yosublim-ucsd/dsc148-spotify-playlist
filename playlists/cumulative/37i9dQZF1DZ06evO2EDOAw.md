@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 49 min
+59 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 | 2023-03-04 |  |
 | [All Yours \(feat\. Anthony Brown\)](https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Anthony Brown](https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 7:05 | 2023-03-05 |  |
 | [Always Win \(Live\)](https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:25 | 2023-03-04 |  |
-| [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2nss3BcDr3j1xUN6S09kyf) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:09 | 2023-03-04 |  |
+| [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2nss3BcDr3j1xUN6S09kyf) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:09 | 2023-03-04 | 2023-04-09 |
 | [Come A Little Closer \- Live](https://open.spotify.com/track/7oSL5SUODjjZ7UFQc4IWzT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0) | 5:10 | 2023-03-04 |  |
 | [Don't Judge Me \(feat\. Missy Elliott\)](https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Don't Judge Me \(feat\. Missy Elliott\)](https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw) | 3:24 | 2023-03-04 |  |
 | [Done For Me \(feat\. Jekalyn Carr\)](https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:36 | 2023-03-05 |  |
@@ -31,6 +31,7 @@
 | [I Got You \(Always and Forever\)](https://open.spotify.com/track/333OkWOgbV6C8I5wRLfuSx) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 4:41 | 2023-03-04 |  |
 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 | 2023-03-04 |  |
 | [It Keeps Happening \(Live\)](https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:32 | 2023-03-04 |  |
+| [JESUS](https://open.spotify.com/track/1ETyQbaABnn028WbdBb93L) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 4:44 | 2023-04-08 |  |
 | [Love Like Crazy](https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:47 | 2023-03-04 |  |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4GUsJS1Y63xlv8w1C3Y4wq) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Making A Way \(feat\. Adia\)](https://open.spotify.com/album/4qx5I6vvqoQgssHapDeMEq) | 5:35 | 2023-03-04 | 2023-03-14 |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 5:35 | 2023-03-13 |  |

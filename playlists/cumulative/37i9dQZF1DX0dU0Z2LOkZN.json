@@ -1454,6 +1454,24 @@
     {
       "album": {
         "name": "Jugo",
+        "url": "https://open.spotify.com/album/3Qj5bXwcQvIYmTQk3KT4kN"
+      },
+      "artists": [
+        {
+          "name": "Manu Beats",
+          "url": "https://open.spotify.com/artist/53TLjNkhvF2hn3Glj0IRsw"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126964,
+      "name": "Dole",
+      "url": "https://open.spotify.com/track/3nqP667gj8DvV0FHv2daDe"
+    },
+    {
+      "album": {
+        "name": "Jugo",
         "url": "https://open.spotify.com/album/3mf3MUDJayrnec1yJrd2SQ"
       },
       "artists": [
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 126964,
       "name": "Dole",
       "url": "https://open.spotify.com/track/7uU6DWbTaCLqA0Ib89rRnC"

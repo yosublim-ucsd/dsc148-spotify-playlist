@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi hits with Gurdas Maan & Diljit Dosanjh
+> Ultimate 101 Punjabi Hits with Diljit Dosanjh & Gurdas Maan
 
-191 songs - 10 hr 5 min
+192 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2022-05-29 |  |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-05-29 |  |
 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 | 2022-12-10 | 2023-03-19 |
+| [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 | 2023-04-07 |  |
 | [Milde](https://open.spotify.com/track/2d5u6ttu5nqLIdpzebeSuP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/7GNukf9cYyeLwyDPyK1wtt) | [A for Arjan](https://open.spotify.com/album/1QWzDrem3DVrc3nBForpg4) | 2:07 | 2022-11-25 | 2022-12-01 |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-08-19 | 2023-01-13 |
 | [Mood Swings](https://open.spotify.com/track/30m1Wyp7zzpOYsBqvM7gYM) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Disturbing the Peace](https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN) | 2:24 | 2022-11-18 |  |
@@ -152,7 +153,7 @@
 | [Secret](https://open.spotify.com/track/1SAUUkJEPYqiewV2dZ7JnZ) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Addiction](https://open.spotify.com/album/4WcAyyIIMnHwS3cQaSNkfn) | 3:24 | 2022-11-30 | 2023-02-05 |
 | [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 | 2022-05-29 | 2022-10-18 |
 | [Shadow](https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:45 | 2022-05-29 | 2022-12-11 |
-| [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2022-05-29 |  |
+| [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2022-05-29 | 2023-04-09 |
 | [She's The One](https://open.spotify.com/track/6Xh1mVYnEauD71lkhLfAz2) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [She's The One](https://open.spotify.com/album/3Vx20Ff07mWb790n5wBihN) | 3:24 | 2023-02-13 |  |
 | [Sheesha](https://open.spotify.com/track/5uHy68Q7ZWe8Qq9k7EAprS) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sheesha](https://open.spotify.com/album/1qTxGh6NP5XUoN52jA3BB1) | 2:40 | 2022-09-06 |  |
 | [Shinin'](https://open.spotify.com/track/1qrAgbcxQpeaDv4ptgjl9e) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Shinin'](https://open.spotify.com/album/5cFE6guiFfiFRHNxhkWTEv) | 3:15 | 2022-05-29 |  |

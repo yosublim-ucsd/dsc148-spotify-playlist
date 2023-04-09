@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Cynnes",
+        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324333,
+      "name": "Cynnes",
+      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "album": {
         "name": "Together - Part One",
         "url": "https://open.spotify.com/album/2OyCp5DyvzRA35ZBssD2xg"
       },
@@ -5850,7 +5868,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 481732,
       "name": "Untitled - Or the Evening Redness in the West",
       "url": "https://open.spotify.com/track/0kypp3PzM92f6CZzlk5DTR"

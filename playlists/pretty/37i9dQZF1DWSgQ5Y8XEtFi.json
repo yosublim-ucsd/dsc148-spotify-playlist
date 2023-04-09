@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 192537,
+  "num_followers": 192673,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGZjOWY0NmZkYWI5ODU4NmVlZjAxNGZiZThjNjZmMmJk",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDljZjZmMjA5N2Y0YWJhMTE0N2E4NTdmNTMyZjFkOTc3",
   "tracks": [
     {
       "added_at": "2023-03-27 19:11:13",
@@ -27,6 +27,22 @@
       "duration_ms": 142825,
       "name": "SCARING THE HOES",
       "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Freak Mode",
+        "url": "https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 157669,
+      "name": "Freak Mode",
+      "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "OPTICAL RANGE",
-        "url": "https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24"
-      },
-      "artists": [
-        {
-          "name": "Mista Playa",
-          "url": "https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i"
-        }
-      ],
-      "duration_ms": 116826,
-      "name": "OPTICAL RANGE",
-      "url": "https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 118627,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/5dfMZKLa5AmXmsMmkQgu0t"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Cali Cartier Best Dog",
-        "url": "https://open.spotify.com/album/72J6nPzsj7dWFE729Crb5M"
-      },
-      "artists": [
-        {
-          "name": "Cali Cartier",
-          "url": "https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "GETITRIGHTBACK",
-      "url": "https://open.spotify.com/track/7FWaWGF9fHqtkqyKwmpztc"
     },
     {
       "added_at": "2023-03-27 19:11:13",

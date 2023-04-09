@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-247 songs - 13 hr 36 min
+248 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 | 2022-02-01 |  |
 | [Carte Blanche](https://open.spotify.com/track/5dbMRjxGYAOEbVEwMGEDlG) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [tofû](https://open.spotify.com/artist/6Lw31HQJ9LI6AeGBe8bnen) | [Carte Blanche](https://open.spotify.com/album/2aOvovhHojpQ3XKd6Bed9Z) | 4:37 | 2021-11-19 | 2022-02-02 |
 | [Casper](https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Casper](https://open.spotify.com/album/4G9owMlxWUofZIN4kwNMDq) | 2:41 | 2021-11-19 | 2023-04-01 |
+| [Chicken Wang](https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 1:58 | 2023-03-17 |  |
 | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/album/4YoITx9kq8TA5c64Henhc4) | 1:58 | 2021-11-19 | 2022-07-29 |
 | [Cobra](https://open.spotify.com/track/0BDmyy2xonhhvcl2QDg2Xh) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Cobra](https://open.spotify.com/album/1se7OjX41LBkLRQT73mR1t) | 4:15 | 2021-11-19 | 2021-12-28 |
 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 | 2022-02-01 | 2022-11-19 |
@@ -180,7 +181,7 @@
 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 | 2023-03-03 |  |
 | [Only Be Me](https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl) | 3:28 | 2022-02-01 | 2023-03-01 |
 | [Only You](https://open.spotify.com/track/60uzexsEyISDzri9vDavIT) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Only You](https://open.spotify.com/album/3gyyIawbIKykMMi5QGBPMA) | 4:18 | 2022-12-02 | 2023-02-12 |
-| [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2021-11-19 |  |
+| [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2021-11-19 | 2023-04-09 |
 | [Outta Here](https://open.spotify.com/track/2FAtvwUovZe4rx2xFgq19O) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Outta Here](https://open.spotify.com/album/45ftOGlHABO8dnOPjH9Q7s) | 4:00 | 2021-11-19 | 2022-02-02 |
 | [People I Know](https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [People I Know](https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS) | 3:36 | 2022-02-01 |  |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-05-11 | 2022-11-19 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 
 > Post club ride home
 
-[Spotify](https://open.spotify.com/user/spotify) - 483 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa) | 4:30 |
-| 2 | [Body to Body \#Ycd](https://open.spotify.com/track/0ZhescxCiR4hDgz08jd6fu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/1KnSrc1CXIjiMmp1BegVa4) | 3:14 |
+| 2 | [Body to Body \#Ycd](https://open.spotify.com/track/0UF970jvIUBs02GoWDVObi) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H) | 3:14 |
 | 3 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 |
 | 4 | [Tonongo](https://open.spotify.com/track/5sjK2PoEh0AxtJdKynjDRd) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Tonongo](https://open.spotify.com/album/2xIrPm8RWasyXeFgO8D5eR) | 2:29 |
 | 5 | [Tempted](https://open.spotify.com/track/4V9v5ehAQpFyZ3GQQhCGT7) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Tempted](https://open.spotify.com/album/5KefTVJlpmOtVTp9xnp1Yi) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbGmeKvsEvzt.md) - [plain]
 | 49 | [4 Nothin'](https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 3:29 |
 | 50 | [Tungba](https://open.spotify.com/track/4fA1ca0O5tOOYDWt1n0z2d) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Make E No Cause Fight](https://open.spotify.com/album/6MpKNL8E3hEPnsN1u2Y9Ik) | 3:08 |
 
-Snapshot ID: `MTY2OTk1NzAwMywwMDAwMDAwMDJjYWYzZWI4YzE1ZTBjZTM4Mjc1MjcyOTQ5ZjE1OWYy`
+Snapshot ID: `MTY2OTk1NzAwMywwMDAwMDAwMDNlNmIwYjFhMTAxN2Y3YWI4MzMwM2RhZmZhMDBhZWFh`

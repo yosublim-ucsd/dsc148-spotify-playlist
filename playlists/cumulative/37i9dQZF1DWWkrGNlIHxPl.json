@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 132734,
       "name": "Dirt Bag",
       "url": "https://open.spotify.com/track/1dy0gIKOgX4iOsW30qodhq"
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz"
+      },
+      "artists": [
+        {
+          "name": "KATARYA",
+          "url": "https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui"
+    },
+    {
+      "album": {
         "name": "LUXURY CASUAL II",
         "url": "https://open.spotify.com/album/5sZOgDWkKHGNtr8Spr45ya"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 128416,
       "name": "hellcats & audis",
       "url": "https://open.spotify.com/track/4bjWIB3R3qdRJkUHRLYa0A"
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 209351,
       "name": "MOONTALK",
       "url": "https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu"
@@ -3367,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI"
+    },
+    {
+      "album": {
         "name": "Que Sera Sera (Law Nebka Sawa)",
         "url": "https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK"
       },
@@ -3862,6 +3898,24 @@
       "duration_ms": 158746,
       "name": "SOLD",
       "url": "https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR"
+    },
+    {
+      "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216236,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm"
     },
     {
       "album": {

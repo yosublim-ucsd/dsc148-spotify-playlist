@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-208 songs - 11 hr 28 min
+209 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 | 2021-11-12 |  |
 | [If We Make It Through December](https://open.spotify.com/track/3a3q9YsTkgrG7dBF2ZdZfn) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/7xoBevaHIAcXvYiLdqhQMC) | 2:59 | 2021-11-12 | 2022-07-28 |
 | [In The Bleak Midwinter](https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [In The Bleak Midwinter](https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3) | 3:51 | 2021-11-12 | 2022-07-23 |
+| [In the Bleak Midwinter](https://open.spotify.com/track/2Q7EmuVCLEY72iw7klTdPA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [In the Bleak Midwinter](https://open.spotify.com/album/43u0uu5HLQ0nXJqIxlWwiW) | 4:20 | 2022-12-23 |  |
 | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/track/3nhFfJ2uGkKPW5AzU8YgNs) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/album/2KAc30ScQ8fSAXzAvNSR4H) | 3:13 | 2021-11-12 | 2022-07-29 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2022-10-14 | 2023-03-16 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/55qxgy5RW3lwMxPlpOdlAC) | 2:29 | 2021-11-12 | 2022-07-27 |
@@ -127,7 +128,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/1uIYa94i0ebCCDz4dlYPiN) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [lil drmr bb](https://open.spotify.com/album/5UAmTPmxuE5NWxxowhRtcf) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [Little Saint Nick](https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Little Saint Nick](https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP) | 2:15 | 2021-11-12 | 2023-02-01 |
 | [Lonely Christmas](https://open.spotify.com/track/1tXPA83Z367gV2LKAhFFON) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Lonely Christmas](https://open.spotify.com/album/37oKVipOX0GOHxfjAOaHf2) | 4:19 | 2021-11-12 | 2022-07-28 |
-| [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 | 2021-11-12 |  |
+| [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 | 2021-11-12 | 2023-04-09 |
 | [Lonely Man of Winter](https://open.spotify.com/track/3s1ajekHdEht2t8thsmFJT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Lonely This Christmas](https://open.spotify.com/track/17nkZDCa1MM4a9EopwfnAV) | [Lizzie Loveless](https://open.spotify.com/artist/0VYgAWwMWfQDvhsJg3wyHn) | [Lonely This Christmas](https://open.spotify.com/album/7y6V04lRxsmGuF2r3F3W54) | 3:21 | 2021-11-12 | 2022-07-20 |
 | [Lonely This Christmas](https://open.spotify.com/track/1myuYueGLh0ToUQTQKj5db) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Lonely This Christmas](https://open.spotify.com/album/7aZOmQvyXfwccx3xl6jOn9) | 3:38 | 2021-11-12 | 2022-07-22 |

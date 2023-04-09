@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 528848,
+  "num_followers": 529542,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODM4MiwwMDAwMDAwMGZjM2M0YjY2ZmExOGIyZmY2YWU2ODBiN2IyOWU2M2Q2",
+  "snapshot_id": "MTY3NTk5ODM4MiwwMDAwMDAwMDFmYzE2NTM0Yzc1NjhkOWEwMzBjMzlkOGQ5MzQ4N2Q5",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+      "duration_ms": 190800,
+      "name": "Song of the South",
+      "url": "https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Song of the South",
-      "url": "https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o"
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Lookin' For Love",
-        "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Lookin' for Love",
-      "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 222493,
       "name": "When You Say Nothing at All",
       "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Lookin' For Love",
+        "url": "https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Lookin' for Love",
+      "url": "https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Very Best Of David Frizzell & Shelly West",
-        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
+        "name": "The Family's Fine, But This One's All Mine!",
+        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
       },
       "artists": [
         {
           "name": "David Frizzell",
           "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        },
-        {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
         }
       ],
-      "duration_ms": 204386,
-      "name": "You're The Reason God Made Oklahoma",
-      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
+      "duration_ms": 237306,
+      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
+      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Family's Fine, But This One's All Mine!",
-        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
+        "name": "The Very Best Of David Frizzell & Shelly West",
+        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
       "artists": [
         {
           "name": "David Frizzell",
           "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        },
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
         }
       ],
-      "duration_ms": 237306,
-      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
-      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
+      "duration_ms": 204386,
+      "name": "You're The Reason God Made Oklahoma",
+      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "My Favorite Memory",
-      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Friday Night Blues",
         "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 198453,
       "name": "Friday Night Blues",
       "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "My Favorite Memory",
+      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Ten Years Of Hits",
-        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
-      },
-      "artists": [
-        {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Stand By Me - Single Version",
-      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 179373,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Ten Years Of Hits",
+        "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Stand By Me - Single Version",
+      "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Sunday In the South",
-      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 230400,
       "name": "The Conversation (with Hank Williams Jr.)",
       "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Sunday In the South",
+      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "80s Ladies",
-        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "80's Ladies",
-      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "35 Biggest Hits",
         "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 156106,
       "name": "Dixie On My Mind",
       "url": "https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "80s Ladies",
+        "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "80's Ladies",
+      "url": "https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
-        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 245733,
-      "name": "Do Ya'",
-      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
+      "duration_ms": 251600,
+      "name": "Good Ole Boys Like Me - Single Version",
+      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
+        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
         }
       ],
-      "duration_ms": 251600,
-      "name": "Good Ole Boys Like Me - Single Version",
-      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
+      "duration_ms": 245733,
+      "name": "Do Ya'",
+      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
     },
     {
       "added_at": "2022-07-25 21:36:54",

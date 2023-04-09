@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 105625,
+  "num_followers": 105701,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDJkMzAzZTBlYmUyNTcwMTY2YzYxYmU3ZGQxYzU2N2M5",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGRjMzJmMmYxNWZiNTE4ZTFjYzNiNjUyZDlmZThhZTY2",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Algod\u00f3n",
-        "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Algod\u00f3n",
-      "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "SUPERSTICIONES",
         "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 188890,
       "name": "Supersticiones",
       "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Algod\u00f3n",
+        "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Algod\u00f3n",
+      "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Galerna",
-        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 188901,
-      "name": "Galerna",
-      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 214080,
       "name": "De Ti",
       "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Daiquiri",
+        "url": "https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 218918,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Daiquiri",
-        "url": "https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg"
+        "name": "5 A.M.",
+        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
         }
       ],
-      "duration_ms": 218918,
-      "name": "Daiquiri",
-      "url": "https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs"
+      "duration_ms": 182442,
+      "name": "5 A.M.",
+      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1035,22 +1051,6 @@
       "duration_ms": 202986,
       "name": "Todo",
       "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "5 A.M.",
-        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 182442,
-      "name": "5 A.M.",
-      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 204490,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Wild Americanos",
-        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
       },
       "artists": [
         {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 245666,
-      "name": "WILD AMERICANOS",
-      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
+      "duration_ms": 204490,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1239,6 +1223,22 @@
       "duration_ms": 166086,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Wild Americanos",
+        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "WILD AMERICANOS",
+      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 163541,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
       "artists": [
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
+      "duration_ms": 149458,
+      "name": "What More",
+      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1459,22 +1475,6 @@
       "duration_ms": 211688,
       "name": "MIA",
       "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 149458,
-      "name": "What More",
-      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
     },
     {
       "added_at": "2023-03-10 21:49:16",

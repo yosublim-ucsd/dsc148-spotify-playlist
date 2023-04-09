@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 40985,
+  "num_followers": 41100,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGIxY2NhNGE4OGRmNmU0Nzc5ZGFmN2JjMjA1N2NmNzRi",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDBjZjMxYWQ1MTAzZjhkNGIwZjU0NzBmZDg5ZWJiMjFk",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Let You Go EP",
+        "url": "https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D"
+      },
+      "artists": [
+        {
+          "name": "Bare Up",
+          "url": "https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC"
+        }
+      ],
+      "duration_ms": 224921,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 249655,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Let You Go EP",
-        "url": "https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D"
-      },
-      "artists": [
-        {
-          "name": "Bare Up",
-          "url": "https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC"
-        }
-      ],
-      "duration_ms": 224921,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2"
     },
     {
       "added_at": "2022-08-12 16:34:51",

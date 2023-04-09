@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: J\u00e3o, Anitta",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: VIVI",
   "name": "Palco POP",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 128771,
       "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 233178,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0DbO51bb6PUxQIlr6XWVeZ"
@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Dia Azul",
+        "url": "https://open.spotify.com/album/2Webb4pLc4PtWCraYpOOab"
+      },
+      "artists": [
+        {
+          "name": "CALI",
+          "url": "https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188095,
+      "name": "Dia Azul",
+      "url": "https://open.spotify.com/track/3SHl55xRIt6VYxifFmqYAi"
+    },
+    {
+      "album": {
         "name": "Disfarce",
         "url": "https://open.spotify.com/album/2AWsgoxFjLB27lahfqvP5Y"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150260,
       "name": "FICA PRO CAF\u00c9",
       "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 191294,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5ounBh0Yphr8RStw0XO9XG"
@@ -2291,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "Flipada",
+        "url": "https://open.spotify.com/album/0AN8BR7RcqsuALOMqc2K6j"
+      },
+      "artists": [
+        {
+          "name": "ALVA",
+          "url": "https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s"
+        },
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118394,
+      "name": "Flipada",
+      "url": "https://open.spotify.com/track/42sJLxamwIgUwayWOshu65"
+    },
+    {
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
       },
@@ -2302,7 +2342,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 205253,
       "name": "FLOW",
       "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
@@ -2368,7 +2408,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 172819,
       "name": "Fofoca",
       "url": "https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f"
@@ -2606,7 +2646,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 164819,
       "name": "Geminiana",
       "url": "https://open.spotify.com/track/4KiXDE5NqGi5v4vh2Wpfuh"
@@ -3124,7 +3164,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 176603,
       "name": "imensid\u00e3o",
       "url": "https://open.spotify.com/track/5bxRFkubz1PxjklwhFIQXr"
@@ -3204,7 +3244,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 208167,
       "name": "Joga Na Minha Cara",
       "url": "https://open.spotify.com/track/3UDpEzyF6l8lAsmCoUyp53"
@@ -4766,7 +4806,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 186605,
       "name": "n\u00e3o consigo mais chorar",
       "url": "https://open.spotify.com/track/5yFSlEnufHWEwZPw79cQVP"
@@ -5226,7 +5266,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 127118,
       "name": "pantera",
       "url": "https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8"
@@ -5790,7 +5830,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151336,
       "name": "Pra L\u00e1 de Bagd\u00e1",
       "url": "https://open.spotify.com/track/46J2U8ewcEwAWmu9uj2dy8"
@@ -5852,7 +5892,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 140662,
       "name": "Praga",
       "url": "https://open.spotify.com/track/0KjcUsvsAFjDrcfkT1wLSE"
@@ -6478,7 +6518,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
@@ -6504,6 +6544,24 @@
       "duration_ms": 210461,
       "name": "Secret (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/67lKDoCZbRCJDa4RT68eme"
+    },
+    {
+      "album": {
+        "name": "sen(ti)r perdeu a gra\u00e7a",
+        "url": "https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165177,
+      "name": "sen(ti)r perdeu a gra\u00e7a",
+      "url": "https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr"
     },
     {
       "album": {
@@ -6888,7 +6946,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 177010,
       "name": "sub.ver.si.va",
       "url": "https://open.spotify.com/track/5LI9Jc5HDi6d3oPrwTG2gZ"
@@ -6950,7 +7008,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 169687,
       "name": "s\u00faplica",
       "url": "https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC"
@@ -7664,7 +7722,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 171084,
       "name": "vc \u00e9 uma bagun\u00e7a",
       "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
@@ -7750,6 +7808,24 @@
       "duration_ms": 316293,
       "name": "Vergonha Pra M\u00eddia 2 - O Retorno do Jedi",
       "url": "https://open.spotify.com/track/2iHe4RNM0IzIoPH3dq34jv"
+    },
+    {
+      "album": {
+        "name": "VINGANCINHA",
+        "url": "https://open.spotify.com/album/518E90Kf3wO1O2rI65G7Eb"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "VINGANCINHA",
+      "url": "https://open.spotify.com/track/0T1fxjJtJY0i6BRj5KtYJN"
     },
     {
       "album": {
@@ -7842,7 +7918,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 155440,
       "name": "Voc\u00ea se foi",
       "url": "https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf"
@@ -7878,7 +7954,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 177500,
       "name": "VOU EMBORA DO BRASIL",
       "url": "https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0"

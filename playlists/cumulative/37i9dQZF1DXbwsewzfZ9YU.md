@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Drug Church
 
-84 songs - 3 hr 37 min
+86 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-02-24 |  |
 | [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 | 2023-02-24 |  |
 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 | 2023-02-24 |  |
+| [Hate Me](https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Hate Me](https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M) | 2:11 | 2023-04-07 |  |
 | [Heavens Gate](https://open.spotify.com/track/6PzTwR5RbSBMhDR3JPSo66) | [Earth Exit](https://open.spotify.com/artist/6wIhtZWHOCUqvIZaxXJKsc) | [Earth Exit](https://open.spotify.com/album/2H4taIZ3OvhgHYA3c4K6Wp) | 3:26 | 2023-02-24 |  |
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/0UuWYnVAiIlKE7Y7nphiYY) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Heaven is Here](https://open.spotify.com/album/4ehKSfXDueVpMXqUTnWbme) | 2:39 | 2023-02-24 |  |
 | [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 | 2023-02-24 |  |
@@ -51,7 +52,7 @@
 | [Lust For Destruction](https://open.spotify.com/track/5bB9QzD925TajYC4ZoSJ5P) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Good To Feel](https://open.spotify.com/album/3xi1s4oxx0TiyuF6Mulucr) | 1:53 | 2023-02-24 | 2023-03-11 |
 | [Magazine Beach](https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 1:26 | 2023-02-24 |  |
 | [Memories](https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:34 | 2023-04-03 |  |
-| [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 |  |
+| [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 | 2023-04-09 |
 | [Modern Fatigue](https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke) | [Long Knife](https://open.spotify.com/artist/3SsyiDM90YglLgxOXaaJCA) | [Curb Stomp Earth](https://open.spotify.com/album/7LziAYYYgbI8Hdn7UrqKoV) | 2:40 | 2023-02-24 |  |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 |  |
 | [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 | 2023-04-03 |  |
@@ -68,7 +69,7 @@
 | [Predator](https://open.spotify.com/track/1ybz0ZxYntBCRhT4XidpSZ) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [The Last Laugh](https://open.spotify.com/album/0jLiscuEhkYovlrf6u09Af) | 2:10 | 2023-02-24 |  |
 | [Pretty Low](https://open.spotify.com/track/1hXSR6c8azfILRB5LSYmfW) | [Expire](https://open.spotify.com/artist/4AfTOzBubFP6STibJPTxwt) | [Pretty Low](https://open.spotify.com/album/65jtRijOpSO5fSNiwktHDe) | 2:26 | 2023-02-24 |  |
 | [Prove You Wrong](https://open.spotify.com/track/4IVOI84lTIm8Uo6KEm7jK7) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 1:53 | 2023-02-24 |  |
-| [Psychic Jailbreak](https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/1g7U1EbReW4TqUHYc1dTsd) | 3:03 | 2023-02-24 |  |
+| [Psychic Jailbreak](https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/1g7U1EbReW4TqUHYc1dTsd) | 3:03 | 2023-02-24 | 2023-04-09 |
 | [Reaper](https://open.spotify.com/track/1Z1gDW1hKjKM8HX3tmeKOq) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Ronin](https://open.spotify.com/album/1dMvXfgG3u4lJ144uO4elO) | 1:38 | 2023-02-24 |  |
 | [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 | 2023-02-24 |  |
 | [Shadow Figure](https://open.spotify.com/track/1LFFTtAGghxZLGZcBj2jPo) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Consume Me](https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN) | 2:31 | 2023-02-24 |  |
@@ -91,6 +92,7 @@
 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 | 2023-02-24 |  |
 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 | 2023-02-24 |  |
 | [WORLD OF MALICE](https://open.spotify.com/track/3AU7Jjcn8c5mHXiaz3RKkj) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [WORLD OF MALICE](https://open.spotify.com/album/4vKCWsfMooaaH00SOq3RSn) | 3:24 | 2023-02-24 |  |
+| [Year of the Guillotine](https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5) | [Year of the Guillotine](https://open.spotify.com/album/0i3G0DRyZVya1t12C0TQXc) | 1:14 | 2023-04-07 |  |
 | [Zoo](https://open.spotify.com/track/5DuLYFs13hJ5QhAfXT3Jxs) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [What Makes You Tick?](https://open.spotify.com/album/5cDmhZrR4QJCYxE0W5GvOm) | 1:15 | 2023-02-24 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcángel & Bizarrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523,683 likes - 104 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,523,806 likes - 104 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 59 | [No Hitter](https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [No Hitter](https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi) | 2:44 |
 | 60 | [Mvrda Cartel](https://open.spotify.com/track/52gnw9ctHcycIpMREoMMt9) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Mvrda Cartel](https://open.spotify.com/album/2nTgaQvTxMsk9DorINL6yy) | 3:12 |
 | 61 | [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 |
-| 62 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
+| 62 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
 | 63 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 |
 | 64 | [El Fucking MVP](https://open.spotify.com/track/4bZe10GGfnMktu6OZlgnub) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [El Fucking MVP](https://open.spotify.com/album/5nrTy8lrAvz3a0f96CxEH4) | 3:00 |
 | 65 | [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 |

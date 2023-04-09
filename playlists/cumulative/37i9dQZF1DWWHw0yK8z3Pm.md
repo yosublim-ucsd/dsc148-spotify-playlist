@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Cat Clyde
 
-252 songs - 15 hr 37 min
+254 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [American Me](https://open.spotify.com/track/3fpiUjp4x55znD0i8Nfxv8) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE) | [American Me](https://open.spotify.com/album/575myLnpElthZpP8fsRTCF) | 3:14 | 2022-05-13 |  |
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-05-13 | 2022-10-01 |
 | [Arlo](https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Arlo](https://open.spotify.com/album/4QdNH73Llt7pENDkJfXl0V) | 4:10 | 2022-11-11 | 2023-01-21 |
+| [Ave H Blue](https://open.spotify.com/track/49kM29AjpsB9Zv444PnvED) | [NUTANA](https://open.spotify.com/artist/2IlotRrtfpIKvTZhXoXDH0) | [NUTANA](https://open.spotify.com/album/6wwhPFPCp19M47e19Y8oK0) | 3:23 | 2023-04-07 |  |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 |  |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-11-14 |
@@ -152,13 +153,13 @@
 | [Make This Better](https://open.spotify.com/track/5LLA7OrEC2ouVUt6419VeN) | [Lydia Hol](https://open.spotify.com/artist/7hFH2Id7zwVCr9MWYyK0Y9) | [Some Dreamers of the Golden Dream](https://open.spotify.com/album/3ZEkYEtst5mhOV5KeTTjeG) | 3:42 | 2022-05-13 | 2022-08-20 |
 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 | 2022-09-23 |  |
 | [Maritime](https://open.spotify.com/track/084tzm3DFNpiUL4jIVbph2) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/4TUXE6sdbgtLZo80omZ4hX) | 4:38 | 2022-05-13 | 2022-07-29 |
-| [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 | 2022-07-22 |  |
+| [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 | 2022-07-22 | 2023-04-09 |
 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-05-13 | 2022-09-24 |
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-10-28 |  |
 | [Miracle Mile](https://open.spotify.com/track/2uL6H4ShIUYyu7FL0fRvsg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:08 | 2022-05-13 | 2023-01-21 |
 | [Montana Waltz](https://open.spotify.com/track/061lNZkKEjGQ8GKp8L3Rwf) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Montana Waltz](https://open.spotify.com/album/3o78Zmq1PKQbkYCwkVtNcq) | 3:49 | 2022-05-13 | 2022-07-29 |
 | [Montana Waltz](https://open.spotify.com/track/1XKzJ3kDUkFsSMI6wroeeT) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [That’s What Keeps the Rent Down, Baby](https://open.spotify.com/album/6ZHgmmd6CGjOsIQ7WUz181) | 3:49 | 2022-11-11 | 2022-11-13 |
-| [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 | 2022-07-22 |  |
+| [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 | 2022-07-22 | 2023-04-09 |
 | [Monte Carlo](https://open.spotify.com/track/06pqktYm4RL4yFzmjBUAKL) | [Carleton Stone](https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX) | [Papercut](https://open.spotify.com/album/5uCXxnJeYdhtu5tBmLRQbq) | 4:18 | 2023-03-24 |  |
 | [Monte Carlo](https://open.spotify.com/track/60cNfpipC3dIXISWhBZA2s) | [Carleton Stone](https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX) | [Monte Carlo](https://open.spotify.com/album/3R4gMsQ0un7dFWluY7upDW) | 4:18 | 2022-05-13 | 2023-03-25 |
 | [Morning Prayer](https://open.spotify.com/track/3pbigw15hLWzmaHruO6Ac5) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion](https://open.spotify.com/album/36IMFWSc4Xvq5P49sWOgWn) | 3:02 | 2022-05-13 | 2022-05-20 |
@@ -191,7 +192,7 @@
 | [Prairie](https://open.spotify.com/track/0LGUqza1L9nPakX9UXi5B4) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Prairie](https://open.spotify.com/album/41NAidTgQgMILE22jFjsu7) | 4:59 | 2022-05-13 | 2022-06-04 |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |
-| [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 |  |
+| [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 | 2023-04-09 |
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-05-13 |  |
 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 | 2022-08-20 |  |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-02-25 |
@@ -212,6 +213,7 @@
 | [Shrine of Shirl](https://open.spotify.com/track/5pdjxSigGGj1ebWvZ1Josd) | [Mike Bern](https://open.spotify.com/artist/6NkiWoBFvHUxmksmpNOgdA) | [Shrine of Shirl](https://open.spotify.com/album/3eeyMTWLqi0egjXGj9aOCN) | 3:07 | 2022-10-07 | 2022-12-10 |
 | [Slow Transmission](https://open.spotify.com/track/6fEz1L4UxlHBpKWiDDYMG5) | [Brandon Wolfe Scott](https://open.spotify.com/artist/3u4AhLmR5tHYc7EU9SJOVy) | [Slow Transmission](https://open.spotify.com/album/5amVQPmog3Wj9Vk3A0M4rk) | 4:20 | 2023-03-24 |  |
 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 | 2023-02-24 |  |
+| [Snakes and Ladders](https://open.spotify.com/track/7mnN6NVO9SdNtZhByoazrA) | [Jessica Rhaye](https://open.spotify.com/artist/0JI6j7EohGdNldcfMxq9By), [The Ramshackle Parade](https://open.spotify.com/artist/0TxRZtz5eUT5Vx3wkFQrZB) | [Snakes and Ladders](https://open.spotify.com/album/2QsIOMeDYFGLhWzIAellDK) | 3:42 | 2023-04-07 |  |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 |  |
 | [Souvenir](https://open.spotify.com/track/0DZM7vZBFKRkXnPpq17siT) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Souvenir B/W Pale Morning](https://open.spotify.com/album/0Gsju9lPWoExFjkRdz0izK) | 3:23 | 2022-05-13 |  |

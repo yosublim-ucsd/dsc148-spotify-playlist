@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-113 songs - 11 hr 4 min
+114 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Divine S.O.S](https://open.spotify.com/track/5f8iTVIIHWjBPdu4X5ympV) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:15 | 2022-06-30 | 2022-10-01 |
 | [Dreaming](https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 6:09 | 2023-02-15 |  |
 | [Dreaming](https://open.spotify.com/track/20x7Yl5RbR4KVXbm3zrfJT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 6:09 | 2022-05-29 | 2023-02-16 |
+| [Emerald City](https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:08 | 2023-04-08 |  |
 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 | 2022-05-29 |  |
 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 | 2022-05-30 |  |
 | [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2022-05-29 |  |
@@ -72,7 +73,7 @@
 | [Moons Of Titan](https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 4:18 | 2023-02-13 |  |
 | [Moons Of Titan](https://open.spotify.com/track/6czIMGJni7jAuZP2OFEsel) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 4:18 | 2022-05-29 | 2023-02-14 |
 | [Ndeya](https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 7:07 | 2022-05-29 | 2022-10-01 |
-| [Neon Night \(Rain\)](https://open.spotify.com/track/2Ry5IaOeSVK48Zky7tVMty) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:20 | 2023-03-31 |  |
+| [Neon Night \(Rain\)](https://open.spotify.com/track/2Ry5IaOeSVK48Zky7tVMty) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:20 | 2023-03-31 | 2023-04-09 |
 | [New Gods](https://open.spotify.com/track/3b80tMXogTgBVth0GyhSVU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:55 | 2022-05-29 | 2022-11-05 |
 | [Night Moves \(Fear\)](https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 2:24 | 2022-09-08 |  |
 | [Northline \- Live](https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 6:43 | 2022-06-01 | 2022-09-26 |

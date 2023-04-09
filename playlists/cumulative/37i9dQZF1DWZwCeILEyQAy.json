@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 129229,
       "name": "Back To The Basics",
       "url": "https://open.spotify.com/track/0zKpWmBCHseu9ewM1BUII7"
@@ -612,6 +612,24 @@
       "duration_ms": 125440,
       "name": "BIA BIA (feat. Lil Jon)",
       "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
+    },
+    {
+      "album": {
+        "name": "Big 4",
+        "url": "https://open.spotify.com/album/0RqOURh1V2vMtyTyZ8XSWN"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135960,
+      "name": "Big 4",
+      "url": "https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne"
     },
     {
       "album": {
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 143011,
       "name": "CHOSEN",
       "url": "https://open.spotify.com/track/4iWKWmaiUfSsREuTD4C0Bs"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142991,
       "name": "Da Fuck",
       "url": "https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b"
@@ -4821,6 +4839,28 @@
     },
     {
       "album": {
+        "name": "SLUT ME OUT (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203858,
+      "name": "SLUT ME OUT (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "album": {
         "name": "Smack a Bitch",
         "url": "https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii"
       },
@@ -5554,6 +5594,24 @@
       "duration_ms": 187875,
       "name": "Trick",
       "url": "https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe"
+    },
+    {
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/6B2DNmeETtyqel1b9YTly5"
+      },
+      "artists": [
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151620,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3qHAoKIwRZPW0rbtPMje5t"
     },
     {
       "album": {

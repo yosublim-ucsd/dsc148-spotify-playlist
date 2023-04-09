@@ -1,13 +1,45 @@
 {
   "description": "saturation, distortion, overdrive, feedBack. Cover: Riovaz",
-  "num_followers": 12412,
+  "num_followers": 12603,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGI3MDk1ZTk4MzEyYjNjZjM5NGU1MTMzZWU4N2Y4ODc3",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDJhZjcwYmE2MjU4MDg5OTk3MDY2NGFlYTQzN2YyYjkw",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/07TVw9EACsJKkgkb729Bs6"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "burbank house",
+        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 101647,
+      "name": "burbank house",
+      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
+    },
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 123795,
       "name": "Tantrum (Pace Yourself)",
       "url": "https://open.spotify.com/track/4DKZwMaxlfZv4APVu0i8eM"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "WISH I NEVER KNEW YOU",
-        "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "WISH I NEVER KNEW YOU",
-      "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
     },
     {
       "added_at": "2023-03-21 18:24:02",
@@ -59,22 +75,6 @@
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "hypochondriac",
-        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 330640,
-      "name": "deepfake",
-      "url": "https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
         "name": "teeth (you)",
         "url": "https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 121624,
       "name": "teeth (you)",
       "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "WISH I NEVER KNEW YOU",
+        "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "WISH I NEVER KNEW YOU",
+      "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -103,6 +119,22 @@
       "duration_ms": 170000,
       "name": "It's Goin Bad",
       "url": "https://open.spotify.com/track/1weAJG8eNS4Bbk0vYn7vV4"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "PERFECT!",
+        "url": "https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 125564,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -125,20 +157,28 @@
       "url": "https://open.spotify.com/track/621YYEli6NgMmjdJfTrMXX"
     },
     {
-      "added_at": "2023-03-15 19:57:27",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "burbank house",
-        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
+        "name": "lol.",
+        "url": "https://open.spotify.com/album/4JsRJhklpfdlHCrMEvAEJK"
       },
       "artists": [
         {
-          "name": "tsubi club",
-          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+          "name": "Left at London",
+          "url": "https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE"
+        },
+        {
+          "name": "Jedwill",
+          "url": "https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id"
+        },
+        {
+          "name": "wishlane",
+          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
         }
       ],
-      "duration_ms": 101647,
-      "name": "burbank house",
-      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
+      "duration_ms": 166937,
+      "name": "lol.",
+      "url": "https://open.spotify.com/track/2b1jwf7qPlVHcXLB8jkOp9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -175,6 +215,26 @@
       "duration_ms": 188000,
       "name": "don't bother me!!!",
       "url": "https://open.spotify.com/track/5aToRhEcNYAZbUt99vSDCL"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z"
+      },
+      "artists": [
+        {
+          "name": "auston ghost",
+          "url": "https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO"
+        },
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "duration_ms": 162177,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -361,26 +421,6 @@
       "url": "https://open.spotify.com/track/5mUmnERjdOtCpXrk3acdQY"
     },
     {
-      "added_at": "2023-03-16 16:31:47",
-      "album": {
-        "name": "Fun and Forget",
-        "url": "https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9"
-      },
-      "artists": [
-        {
-          "name": "SSJ Twiin",
-          "url": "https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts"
-        },
-        {
-          "name": "thekid.ACE",
-          "url": "https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM"
-        }
-      ],
-      "duration_ms": 158614,
-      "name": "Fun and Forget",
-      "url": "https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "random song",
@@ -485,54 +525,6 @@
       "url": "https://open.spotify.com/track/5CAvQkgGDGOyicH7e0Z6jN"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "U Neva",
-        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "U Neva",
-      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "You Make Me Sick!",
-        "url": "https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 138299,
-      "name": "You Make Me Sick!",
-      "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 152551,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm"
-    },
-    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "i dont wna cry",
@@ -547,6 +539,22 @@
       "duration_ms": 121296,
       "name": "i dont wna cry (haste)",
       "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "Fingers",
+        "url": "https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO"
+      },
+      "artists": [
+        {
+          "name": "Patrick O'neill",
+          "url": "https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Fingers",
+      "url": "https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -595,22 +603,6 @@
       "duration_ms": 209706,
       "name": "5g",
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -675,38 +667,6 @@
       "duration_ms": 142237,
       "name": "punk rock",
       "url": "https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "Hollywood Baby",
-        "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Hollywood Baby",
-      "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -847,22 +807,6 @@
       "duration_ms": 193186,
       "name": "alone",
       "url": "https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -1203,22 +1147,6 @@
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "43VR",
-        "url": "https://open.spotify.com/album/0DXjEDAzFa17vNnuhnpfy8"
-      },
-      "artists": [
-        {
-          "name": "Quiet Luke",
-          "url": "https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "43VR",
-      "url": "https://open.spotify.com/track/2oVs3DVmsCK5yL55v9YbK2"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/6a48qrtBppd0YVIZpEntaH"
       },
@@ -1539,42 +1467,6 @@
       "duration_ms": 149627,
       "name": "sos",
       "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "Fingers",
-        "url": "https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO"
-      },
-      "artists": [
-        {
-          "name": "Patrick O'neill",
-          "url": "https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Fingers",
-      "url": "https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "KIDS",
-        "url": "https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z"
-      },
-      "artists": [
-        {
-          "name": "auston ghost",
-          "url": "https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO"
-        },
-        {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        }
-      ],
-      "duration_ms": 162177,
-      "name": "KIDS",
-      "url": "https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4"
     },
     {
       "added_at": "2023-03-15 19:57:27",

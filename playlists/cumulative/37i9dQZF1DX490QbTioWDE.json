@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 262040,
       "name": "Amor De Adolescentes",
       "url": "https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV"
@@ -1378,6 +1378,28 @@
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
+    },
+    {
+      "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174292,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
     },
     {
       "album": {
@@ -2614,7 +2636,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 179957,
       "name": "Luna En Capricornio",
       "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
@@ -2975,6 +2997,28 @@
     },
     {
       "album": {
+        "name": "Mi vida sin tu amor",
+        "url": "https://open.spotify.com/album/681BLTSll6wrx9k6zFp0uu"
+      },
+      "artists": [
+        {
+          "name": "LA CHISPA",
+          "url": "https://open.spotify.com/artist/0q2zdnVTdj92ih63gKaCaj"
+        },
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215248,
+      "name": "Mi vida sin tu amor",
+      "url": "https://open.spotify.com/track/5q9LOgxe2LKZgXyJ82KRsy"
+    },
+    {
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1obdLtb9OxXlu5hZoruFJh"
       },
@@ -3084,6 +3128,28 @@
       "duration_ms": 142361,
       "name": "Monotonia",
       "url": "https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL"
+    },
+    {
+      "album": {
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "album": {
@@ -3250,6 +3316,24 @@
       "duration_ms": 189147,
       "name": "Ni Diabla Ni Santa",
       "url": "https://open.spotify.com/track/3hsuj2FuNZh9XSdVmFmusi"
+    },
+    {
+      "album": {
+        "name": "Ni Loca (Desde el Bar Session)",
+        "url": "https://open.spotify.com/album/3jKU345A9u34Xdg9hLhnVo"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175957,
+      "name": "Ni Loca - Desde el Bar Session",
+      "url": "https://open.spotify.com/track/2Ybsr6UYc8v3NkAfhWctw4"
     },
     {
       "album": {
@@ -3909,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Por Mis Venas",
+        "url": "https://open.spotify.com/album/5Mwi7DNc5L7tFhSF6WPVGz"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202969,
+      "name": "Por Mis Venas",
+      "url": "https://open.spotify.com/track/2XWTvlMp8SPMN65TJvO5Vi"
+    },
+    {
+      "album": {
         "name": "Trilogia: 2do Acto",
         "url": "https://open.spotify.com/album/5kkXVzQ1kvVTc6AVj0LQE6"
       },
@@ -4090,7 +4192,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 251280,
       "name": "Que Ironia",
       "url": "https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc"
@@ -4604,7 +4706,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
@@ -4710,6 +4812,24 @@
       "duration_ms": 314474,
       "name": "Soy Cordobe\u0301s",
       "url": "https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6"
+    },
+    {
+      "album": {
+        "name": "Sumando tus besos",
+        "url": "https://open.spotify.com/album/6lKP8WaDmigCdLwzQr7DDE"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203242,
+      "name": "Sumando tus besos",
+      "url": "https://open.spotify.com/track/6fYXEHXMxrDDg8T40RBLNC"
     },
     {
       "album": {
@@ -5550,7 +5670,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 68300,
       "name": "Violeta - En Vivo",
       "url": "https://open.spotify.com/track/7p2AoA6h2D8Cfgzau5DDTo"

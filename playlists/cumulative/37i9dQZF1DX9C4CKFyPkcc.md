@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-177 songs - 10 hr 28 min
+178 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [It's The Most Wonderful Time Of The Year \- Remastered 2007](https://open.spotify.com/track/2eqBIB27ZWL0uBRL26nRWc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 2:26 | 2021-12-24 |  |
 | [Jesus You Come \- Acoustic](https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Jesus You Come \(Acoustic\)](https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI) | 4:38 | 2021-12-24 |  |
 | [Jingle Bells](https://open.spotify.com/track/2kvXnUbRUnHS5195eyQp4a) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 1:49 | 2021-12-24 |  |
+| [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-11 |  |
 | [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-24 |  |
 | [Joy \(To the World\) \(feat\. Ryan Ellis\) \- \[Live\]](https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gloria \(Live\)](https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd) | 3:21 | 2022-12-11 | 2023-03-27 |
 | [Joy to the World](https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P) | [Celtic Worship](https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep), [Blue Rose Code](https://open.spotify.com/artist/3fALQUIY93XYP9h7JyPeeb), [Norrie MacIver](https://open.spotify.com/artist/1Z2xJmAUbB6S5b1dZySWHp) | [Come Behold: Christmas Collaborations](https://open.spotify.com/album/6oaRMjkCHhJql0hanPBhcZ) | 3:57 | 2022-12-11 |  |
@@ -182,7 +183,7 @@
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 |  |
-| [White Christmas](https://open.spotify.com/track/785GHbJRiiQ1Guu8V8vgWf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [The Spirit Of Christmas](https://open.spotify.com/album/11vKP9wxsaoQ0Ooosbute9) | 3:49 | 2021-12-24 |  |
+| [White Christmas](https://open.spotify.com/track/785GHbJRiiQ1Guu8V8vgWf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [The Spirit Of Christmas](https://open.spotify.com/album/11vKP9wxsaoQ0Ooosbute9) | 3:49 | 2021-12-24 | 2023-04-09 |
 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 | 2021-12-24 |  |
 | [Your Majesty](https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 3:19 | 2022-11-26 |  |
 

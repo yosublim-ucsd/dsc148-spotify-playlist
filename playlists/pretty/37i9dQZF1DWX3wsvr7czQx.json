@@ -1,13 +1,29 @@
 {
   "description": "Icons only. Cover: Belinda Carlisle",
-  "num_followers": 9016,
+  "num_followers": 9035,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDIwMTZkYmQ1NzEwNGVlNDkzYzkwMzJjMmVhYWMxMWMx",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDY1MWI1NjNmZGUxNTQ5OGQwNGFjNTA0NTk4NTA3MTYz",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "i/o (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 232247,
+      "name": "i/o - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/7onf6RIP2d08FOHos3U324"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
@@ -535,22 +551,6 @@
       "duration_ms": 240853,
       "name": "Metal Water Wood",
       "url": "https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 272497,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh"
     },
     {
       "added_at": "2021-10-29 04:01:00",

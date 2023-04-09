@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Rusherking, Yami Safdie & Micro TDH.
 
-174 songs - 8 hr 26 min
+175 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-05-24 | 2022-07-29 |
 | [ESPERO](https://open.spotify.com/track/1wy5Gw79M9973w36dMZcuH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [ESPERO](https://open.spotify.com/album/5DwV6ipYSjaP8Q4M0T5e5o) | 3:20 | 2023-03-17 |  |
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-05-24 |  |
+| [Extasy](https://open.spotify.com/track/2Ltczd2xWJXX7nuKkWtKjz) | [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP), [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Extasy](https://open.spotify.com/album/5EhWtBLkhLzuAwZxbsSm5U) | 3:26 | 2023-04-07 |  |
 | [Fantastic](https://open.spotify.com/track/25VGPBzih52Ou2gyJkaV9e) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [Nico Melo](https://open.spotify.com/artist/3RRYZ1jmjvHKX6sxBP2ANo) | [Fantastic](https://open.spotify.com/album/7DrCJyYqlEVuoQi4zy27UH) | 2:47 | 2022-12-06 |  |
 | [Fichaje \#1](https://open.spotify.com/track/1W0aQgl1jE9pz9k4sBdK8o) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Fichaje \#1](https://open.spotify.com/album/127kJoL8bE6Xuuhefxyb55) | 3:18 | 2023-02-03 |  |
 | [Flow de Barrio](https://open.spotify.com/track/4IJfIFvMB3lwPW93g6Asno) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flow de Barrio](https://open.spotify.com/album/4jjU50TCU52hjATJcXHeXw) | 2:30 | 2022-05-24 |  |

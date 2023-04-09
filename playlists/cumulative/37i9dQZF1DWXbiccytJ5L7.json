@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1AkNJ6AxARKT5KlI4lPGcl"
+      },
+      "artists": [
+        {
+          "name": "KillWill",
+          "url": "https://open.spotify.com/artist/0y8l3VxQbtzQRplAjSPAOd"
+        },
+        {
+          "name": "Cowboy Troy",
+          "url": "https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/0ZUs7kSj4AykrEwCBNiIAF"
+    },
+    {
+      "album": {
         "name": "Hey Boy, Hey Girl",
         "url": "https://open.spotify.com/album/4YemyQre4YNNvLLM3huRrN"
       },

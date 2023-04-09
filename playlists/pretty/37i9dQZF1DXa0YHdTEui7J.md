@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,345 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,466 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 34 | [Magnets \- Loco Dice Remix](https://open.spotify.com/track/79OOTDBFDzGnKB6Z1EtOhy) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P) | [Magnets \(The Remixes\)](https://open.spotify.com/album/3QvKAsfOZFm5kEKjIBk1Fl) | 6:56 |
 | 35 | [Bizzi](https://open.spotify.com/track/6daxLoDaCoSNR5fd2fRcHh) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [Bizzi](https://open.spotify.com/album/2eRdbIVUB1WoLQ5qjc6vcE) | 6:16 |
 | 36 | [Make You Feel](https://open.spotify.com/track/4wUFjTEGGI9BFAe63jpbgD) | [Ben Murphy](https://open.spotify.com/artist/25pgiXH1oj5pYmasjenRtr) | [Make You Feel](https://open.spotify.com/album/5s7joh0W9dnhBuoovXqqXi) | 6:27 |
-| 37 | [Teleported](https://open.spotify.com/track/389hyI9sMvHVruG0dTD4Vi) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/3MMXAjJb1e3xAesfRijKeZ) | 6:17 |
+| 37 | [Teleported](https://open.spotify.com/track/5vIA30Y4Emhay6NSvpDZMJ) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Stargate EP](https://open.spotify.com/album/2PSH7ccyenkcp0e7t9WBAl) | 6:17 |
 | 38 | [Amen](https://open.spotify.com/track/1SX075lwfSeKMjWQyAcaPp) | [Tilmann Jarmer](https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5) | [Afro Acid EP](https://open.spotify.com/album/4QQeP3Kt979lqrtUZFgyKs) | 6:22 |
 | 39 | [Sandwiches \- Radio Edit](https://open.spotify.com/track/5JwYRre2g3wFpeELRlY306) | [Detroit Grand Pubahs](https://open.spotify.com/artist/57SxomZx6rGWH3aJMAJxiu) | [Funk All Y'All](https://open.spotify.com/album/6fYnlnfGEGEI67H3i36PQR) | 3:02 |
 | 40 | [Wet Glue](https://open.spotify.com/track/1dEqxnHyIy3XtfLykXTBfk) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Youth Culture EP](https://open.spotify.com/album/4vd5u9ZqSHRlaJ2P7SrXX9) | 6:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 99 | [Groove Dealer](https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/3YO1Tk3rbxnr4HFHeb6UXD) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 
-Snapshot ID: `MTY3ODIyODg4NCwwMDAwMDAwMGZkMzYyNTY5MDk4NGE0NDNhYzQ1ZjAxNDJhY2JhOTUy`
+Snapshot ID: `MTY3ODIyODg4NCwwMDAwMDAwMDRjZmFjM2IyM2U3MDZlOWI2ZmYzZWRhYjQ0OTc3MjEy`

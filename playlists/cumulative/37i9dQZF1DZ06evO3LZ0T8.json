@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215284,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
       },

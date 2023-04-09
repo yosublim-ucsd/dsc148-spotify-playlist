@@ -4,7 +4,7 @@
 
 > Ro, Ro, Ro, Rodrigo carajo!
 
-65 songs - 5 hr 31 min
+66 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 | 2021-10-05 |  |
 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 | 2021-10-05 |  |
 | [Soy Cordobés](https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Soy Cordobés](https://open.spotify.com/album/2jLMR6wpMR1OX3GSgr0qOD) | 5:14 | 2021-10-05 | 2022-03-18 |
+| [Sumando tus besos](https://open.spotify.com/track/6fYXEHXMxrDDg8T40RBLNC) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sumando tus besos](https://open.spotify.com/album/6lKP8WaDmigCdLwzQr7DDE) | 3:23 | 2023-04-07 |  |
 | [Tema de "cabecita"](https://open.spotify.com/track/76DYAASchu5szMWFDuG1iP) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:30 | 2021-10-05 |  |
 | [Todo Me Lleva a Ti](https://open.spotify.com/track/6Lkh9lukUEPBTZ1gewNT0m) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Grandes Exitos](https://open.spotify.com/album/3LGZUJGeBB8KC0bVOtmulA) | 4:19 | 2021-10-05 |  |
 | [Un Largo Camino Al Cielo](https://open.spotify.com/track/0fmneMvBzm0QvGy3e8S7CR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 6:45 | 2021-10-05 | 2022-07-29 |

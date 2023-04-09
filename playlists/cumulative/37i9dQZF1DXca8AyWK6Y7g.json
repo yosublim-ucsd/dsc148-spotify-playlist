@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 162066,
       "name": "Crashland",
       "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
@@ -6619,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "different but exactly like you",
+        "url": "https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx"
+      },
+      "artists": [
+        {
+          "name": "Riley Biederer",
+          "url": "https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227341,
+      "name": "different but exactly like you",
+      "url": "https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u"
+    },
+    {
+      "album": {
         "name": "dirty dancing",
         "url": "https://open.spotify.com/album/5Ok7Du3YNww8fRqu8SSCe7"
       },
@@ -6638,6 +6656,24 @@
       "duration_ms": 159804,
       "name": "dirty dancing",
       "url": "https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW"
+    },
+    {
+      "album": {
+        "name": "dirty dishes",
+        "url": "https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207684,
+      "name": "dirty dishes",
+      "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
     },
     {
       "album": {
@@ -14443,6 +14479,24 @@
     },
     {
       "album": {
+        "name": "Just Let Me Cry",
+        "url": "https://open.spotify.com/album/0ltVM5Ui1277owWSjg7xjH"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127380,
+      "name": "Just Let Me Cry",
+      "url": "https://open.spotify.com/track/4q1BTo0HXKgjPQI52CIgXo"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/6fjbuJheXwHCA3829cKrop"
       },
@@ -15000,7 +15054,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 177176,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn"
@@ -17790,6 +17844,24 @@
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh"
+    },
+    {
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
       "album": {
@@ -23832,7 +23904,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 167029,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6YYvWyhAqooh8RqNeGsOlq"
@@ -27592,7 +27664,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 250071,
       "name": "U Taste Like Sundays",
       "url": "https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"

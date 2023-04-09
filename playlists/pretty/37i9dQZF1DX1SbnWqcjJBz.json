@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 51033,
+  "num_followers": 51260,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDg3MzVjOWE2MWU2NTRhZDZiYmJkZjE4OGFkOGY1OTQ5",
+  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMGQwYTlkMjIyYjIwODNkZTM3ZWRjZjM1YjM5OGZlNTYx",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 216520,
       "name": "If U Seek Amy",
       "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Stars Dance (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Glory Days (Expanded Edition)",
         "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Stars Dance (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Dance Love Pop (The Love Love Love Edition)",
         "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Gourmandises",
         "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 264282,
       "name": "Moi... Lolita",
       "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Warrior (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 214306,
       "name": "C'Mon",
       "url": "https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -955,6 +955,22 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 204176,
+      "name": "React",
+      "url": "https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -991,22 +1007,6 @@
       "duration_ms": 242160,
       "name": "What Dreams Are Made Of",
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "React",
-        "url": "https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 204176,
-      "name": "React",
-      "url": "https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
         }
       ],
-      "duration_ms": 192172,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
+      "duration_ms": 177816,
+      "name": "Genetics (feat. Pussycat Dolls)",
+      "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "TREAT MYSELF",
-        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 177816,
-      "name": "Genetics (feat. Pussycat Dolls)",
-      "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"
+      "duration_ms": 192172,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Welcome to the Dollhouse",
         "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 244266,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Better Mistakes",
+        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 160871,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1387,22 +1403,6 @@
       "duration_ms": 219520,
       "name": "What I Need (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Better Mistakes",
-        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160871,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Perfect Day Single",
-        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
-      },
-      "artists": [
-        {
-          "name": "Hoku",
-          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 241920,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Perfect Day Single",
+        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
+      },
+      "artists": [
+        {
+          "name": "Hoku",
+          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Pink Pony Club",
+        "url": "https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/65jNkB2GjWLUZ223XmuKLT"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 251320,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Pink Pony Club",
-        "url": "https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u"
     },
     {
       "added_at": "2022-12-28 17:02:11",

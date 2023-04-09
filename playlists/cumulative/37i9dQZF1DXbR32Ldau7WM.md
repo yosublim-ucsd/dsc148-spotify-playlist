@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: BAWDIES
 
-568 songs - 1 day 13 hr 47 min
+569 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Boots](https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Boots](https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh) | 3:22 | 2022-05-24 | 2022-07-14 |
 | [BOY 2022](https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [BOY 2022](https://open.spotify.com/album/3PGIfAOfGxRg5jTvZRXC8s) | 4:45 | 2022-08-23 | 2022-09-15 |
 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 | 2023-03-21 |  |
-| [Boys Jump The Midnight](https://open.spotify.com/track/3VW1vYhEHtz3NqszJuBSHA) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:31 | 2023-03-21 |  |
+| [Boys Jump The Midnight](https://open.spotify.com/track/3VW1vYhEHtz3NqszJuBSHA) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:31 | 2023-03-21 | 2023-04-09 |
 | [Boys Jump The Midnight](https://open.spotify.com/track/3yLXnO1XfG5XwgOLBLhgDa) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [天使たち](https://open.spotify.com/album/6fgVI73rX1mCalLT6OqxXb) | 4:32 | 2023-03-21 | 2023-03-23 |
 | [Brainy](https://open.spotify.com/track/1WgN2szYODur4O2MP9U6F9) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Brainy](https://open.spotify.com/album/6RAwYJgvKf2WJCgtn4RP0L) | 3:18 | 2022-05-12 | 2022-07-28 |
 | [BREATH](https://open.spotify.com/track/1NWqikUVTGltcoddedObxO) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [BREATH](https://open.spotify.com/album/0LwNWDQDwQyRucOKOTCBl2) | 3:29 | 2022-05-24 | 2022-06-19 |
@@ -166,6 +166,7 @@
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-17 | 2022-06-20 |
 | [M42](https://open.spotify.com/track/1dzaqFqckQFcRtGeGjDMJm) | [YUSUKE CHIBA \- SNAKE ON THE BEACH \-](https://open.spotify.com/artist/4kHNeHQ5nA9HDRVXXhR308) | [M42](https://open.spotify.com/album/6cnjTJEKJ59ENen1SueU4t) | 6:31 | 2022-08-04 | 2022-08-10 |
 | [MADPLAN \- Acoustic Version](https://open.spotify.com/track/7dBqAKjoUROaRIUrQWoz4S) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [MADPLAN \(Acoustic Version\)](https://open.spotify.com/album/3MOfcZAtE5czcj2nkmUugM) | 4:21 | 2022-06-30 | 2022-07-09 |
+| [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 | 2023-04-06 |  |
 | [Marvelous Persona](https://open.spotify.com/track/2rDzzZW7FS8xixmu0O6Ohh) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Marvelous Persona](https://open.spotify.com/album/5u4gcYdolL38QVLf65SPMp) | 4:15 | 2022-11-15 | 2022-11-23 |
 | [Mary](https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Mary](https://open.spotify.com/album/1hkJLQbCjVZQ2CznUNGaNx) | 3:11 | 2022-10-05 | 2023-04-05 |
 | [MASKER](https://open.spotify.com/track/55P9yi0rjccpyZXEwlpoGw) | [茂木洋晃](https://open.spotify.com/artist/7At1HZmLp2LhcIc62v5g2j) | [MASKER](https://open.spotify.com/album/6nZ1iebfVk6BLJ6KVlXOJw) | 5:19 | 2022-05-12 | 2022-06-12 |

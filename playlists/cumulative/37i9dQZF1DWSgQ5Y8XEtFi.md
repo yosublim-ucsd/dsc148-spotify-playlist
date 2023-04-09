@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-235 songs - 10 hr 31 min
+236 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-12-21 | 2023-03-28 |
 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 | 2022-04-20 | 2023-01-24 |
 | [For Real](https://open.spotify.com/track/3tcoEYOZUHKB3RKNByIN13) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 2:57 | 2022-03-29 | 2022-04-21 |
+| [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 | 2023-04-07 |  |
 | [from paris, with love](https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [drive\-by lullabies](https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05) | 3:02 | 2022-03-29 | 2022-07-21 |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 | 2022-08-09 |
 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 | 2022-04-20 | 2023-01-28 |
@@ -97,7 +98,7 @@
 | [GDP](https://open.spotify.com/track/0nQivvsZFERbPwGO6gp4KL) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 3:22 | 2022-04-26 | 2022-04-29 |
 | [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 | 2022-07-29 |
 | [Get Lit Or Die Tryin’](https://open.spotify.com/track/4P7tmkBQdidI2oeMZuOobs) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Get Lit Or Die Tryin’](https://open.spotify.com/album/04U5KnWcsgDLX6C3PNIesZ) | 3:31 | 2022-07-22 | 2022-07-29 |
-| [GETITRIGHTBACK](https://open.spotify.com/track/7FWaWGF9fHqtkqyKwmpztc) | [Cali Cartier](https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp) | [Cali Cartier Best Dog](https://open.spotify.com/album/72J6nPzsj7dWFE729Crb5M) | 2:30 | 2022-04-20 |  |
+| [GETITRIGHTBACK](https://open.spotify.com/track/7FWaWGF9fHqtkqyKwmpztc) | [Cali Cartier](https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp) | [Cali Cartier Best Dog](https://open.spotify.com/album/72J6nPzsj7dWFE729Crb5M) | 2:30 | 2022-04-20 | 2023-04-09 |
 | [GIDDY UP!](https://open.spotify.com/track/3VWcCQGmYVUGfS5vCz8HqX) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz) | [GIDDY UP!](https://open.spotify.com/album/06L4Vui8k8IxvF3F80JlVp) | 2:55 | 2022-04-20 | 2022-07-27 |
 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2023-03-27 |  |
 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 | 2023-03-27 |  |
@@ -167,7 +168,7 @@
 | [Norf Norf](https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:03 | 2022-03-29 | 2023-03-28 |
 | [OMG](https://open.spotify.com/track/223AWrYBuPJwm3oy9phMiS) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [OMG](https://open.spotify.com/album/3qBxCPF6tXFzBrCGAioasB) | 2:34 | 2023-03-27 |  |
 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 | 2023-03-27 |  |
-| [OPTICAL RANGE](https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i) | [OPTICAL RANGE](https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24) | 1:56 | 2022-05-02 |  |
+| [OPTICAL RANGE](https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i) | [OPTICAL RANGE](https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24) | 1:56 | 2022-05-02 | 2023-04-09 |
 | [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 | 2022-12-02 | 2022-12-17 |
 | [PANIC!!!](https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [PANIC!!!](https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p) | 2:20 | 2023-03-31 |  |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-28 |

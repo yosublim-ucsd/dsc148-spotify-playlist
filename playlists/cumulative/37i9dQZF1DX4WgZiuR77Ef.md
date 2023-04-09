@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-189 songs - 13 hr 15 min
+190 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 | 2021-10-29 |  |
 | [Brand New Day](https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Brand New Day](https://open.spotify.com/album/0Whv0ihThqPDFw9WBgk8fG) | 3:59 | 2021-08-06 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/6162qDKnzcPSOh1NcqoLM3) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Break the Wall](https://open.spotify.com/album/0EF3hnwr3Go8xCwBxC7gcE) | 3:59 | 2021-08-06 |  |
+| [Bump The Man](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 | 2023-04-07 |  |
 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 | 2022-05-27 |  |
 | [Call Me](https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo) | [Lowdown Brass Band](https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u) | [Call Me](https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq) | 3:41 | 2023-02-17 |  |
 | [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 | 2020-10-30 |  |
@@ -71,7 +72,7 @@
 | [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 | 2020-10-30 |  |
 | [Hazel](https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Hazel](https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU) | 4:01 | 2022-05-06 | 2022-07-29 |
 | [Hazel](https://open.spotify.com/track/45VqSJIZ9xUH2x7uyjdIIQ) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 4:01 | 2022-05-06 |  |
-| [He Said / She Said](https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA) | 4:01 | 2020-10-30 |  |
+| [He Said / She Said](https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA) | 4:01 | 2020-10-30 | 2023-04-09 |
 | [He Said / She Said](https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd) | 4:01 | 2020-10-30 | 2022-10-16 |
 | [He Said / She Said](https://open.spotify.com/track/6ZccMg8F7cWeBAV8Z3Mkc7) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Sugar Woman](https://open.spotify.com/album/5qC7W3d5LikVYLLRVkS499) | 4:01 | 2020-10-30 | 2022-11-13 |
 | [Heat](https://open.spotify.com/track/1TvQqcEiMkUqWXKwLpEEMy) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Honey Larochelle](https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc) | [TBNH](https://open.spotify.com/album/1D7sdhWa3jL1pgv3VS0aDD) | 3:50 | 2020-10-30 | 2022-04-09 |

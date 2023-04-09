@@ -4,12 +4,12 @@
 
 > Icons only\. Cover: Belinda Carlisle
 
-76 songs - 5 hr 2 min
+77 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 | 2022-01-21 |  |
-| [All Is Well](https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All Is Well](https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL) | 4:32 | 2021-10-22 |  |
+| [All Is Well](https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All Is Well](https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL) | 4:32 | 2021-10-22 | 2023-04-09 |
 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 | 2022-03-11 |  |
 | [Another One Like You](https://open.spotify.com/track/7LG4q9SfTN7JKSXfR9TjPP) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [The Book of Making / Yesterday Meets Today](https://open.spotify.com/album/37fPofkMlxgccr5E7sRXz3) | 3:46 | 2022-07-29 |  |
 | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78) | 3:44 | 2021-10-22 |  |
@@ -38,6 +38,7 @@
 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-10-22 |  |
 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 | 2021-11-05 |  |
 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 | 2022-07-08 |  |
+| [i/o \- Bright\-Side Mix](https://open.spotify.com/track/7onf6RIP2d08FOHos3U324) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/6TmXl8JQXo6XJvQShFn6Ru) | 3:52 | 2023-04-07 |  |
 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 | 2022-01-07 |  |
 | [Just A Notion](https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Just A Notion](https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6) | 3:31 | 2021-10-22 | 2023-02-04 |
 | [Knockabout World](https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [I Am Not a Dog on a Chain](https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN) | 3:25 | 2021-10-22 |  |

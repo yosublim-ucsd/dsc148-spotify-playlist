@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-162 songs - 10 hr 4 min
+163 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 | 2022-11-18 |  |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-07-01 | 2023-04-07 |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-29 |  |
-| [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2023-01-13 |  |
+| [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2023-01-13 | 2023-04-09 |
 | [Rattlesnake](https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS), [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 3:08 | 2022-05-25 |  |
 | [Rollin' and Tumblin'](https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ) | [Buddy Guy & Junior Wells](https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t) | [Guitar Blues 101](https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr) | 4:33 | 2022-05-25 |  |
 | [Rollin' On \(Acoustic\)](https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 4:18 | 2023-02-24 |  |
@@ -156,6 +156,7 @@
 | [This is Hip \- Remastered](https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:25 | 2022-05-25 |  |
 | [Tough Times](https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-10-14 |  |
 | [Travelling Back Home](https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd) | [Johnny Shines](https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko) | [Too Wet to Plow](https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp) | 3:58 | 2022-05-25 |  |
+| [Two Trains](https://open.spotify.com/track/1E6zG7BknaI9FQPIhb7o9r) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [Love Comin' Down](https://open.spotify.com/album/0kzGduWwsaqFQ4x4hJS8iS) | 4:32 | 2023-03-24 |  |
 | [Unknown Road](https://open.spotify.com/track/1yk9xba6I7cvfDBpkARZkN) | [Sara Syms](https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj) | [Unknown Road](https://open.spotify.com/album/0esv0rfP9vJSi0rduSczyK) | 3:32 | 2022-06-24 | 2022-06-29 |
 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 | 2023-03-03 |  |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2022-05-25 |  |

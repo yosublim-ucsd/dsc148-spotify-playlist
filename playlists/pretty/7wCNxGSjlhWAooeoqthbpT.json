@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7848,
+  "num_followers": 7849,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjA3NCxiMzRlN2ExZjc0NzBiNzVkMWYwNGEzYjg1MGFlNmNmMzY2MjZlODU0",
+  "snapshot_id": "MjA4MCxkNzdlNjQzMGVkNGNkNjkyMDA2NTY3NTVhYmY0N2YxMGViODZiMTA5",
   "tracks": [
     {
       "added_at": "2023-03-10 15:27:31",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/25d7Trux92YqeS1iZpa0TN"
     },
     {
+      "added_at": "2023-04-07 15:00:47",
+      "album": {
+        "name": "This Summer",
+        "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 141387,
+      "name": "This Summer",
+      "url": "https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz"
+    },
+    {
       "added_at": "2023-03-24 15:01:21",
       "album": {
         "name": "KISS N' TELL (feat. Dro Kenji)",
@@ -127,22 +143,6 @@
       "duration_ms": 126058,
       "name": "KISS N' TELL (feat. Dro Kenji)",
       "url": "https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee"
-    },
-    {
-      "added_at": "2023-02-24 15:22:24",
-      "album": {
-        "name": "Way Too Petty",
-        "url": "https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 132238,
-      "name": "Way Too Petty",
-      "url": "https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J"
     },
     {
       "added_at": "2023-02-21 16:32:32",
@@ -175,6 +175,22 @@
       "duration_ms": 187275,
       "name": "Been Thinking",
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "added_at": "2023-04-07 15:00:56",
+      "album": {
+        "name": "PERSISTENCE OF MEMORY",
+        "url": "https://open.spotify.com/album/0TgF49Q3rtApL5JWEIjkId"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "duration_ms": 132990,
+      "name": "PERSISTENCE OF MEMORY",
+      "url": "https://open.spotify.com/track/5uvSgKHzCOQr9RubvbRI76"
     },
     {
       "added_at": "2023-03-17 15:40:16",
@@ -463,22 +479,6 @@
       "duration_ms": 153000,
       "name": "Place",
       "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
-    },
-    {
-      "added_at": "2023-01-20 15:16:44",
-      "album": {
-        "name": "KEEP IT",
-        "url": "https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1"
-      },
-      "artists": [
-        {
-          "name": "Kid Culture",
-          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "KEEP IT",
-      "url": "https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5"
     },
     {
       "added_at": "2022-10-21 14:47:09",

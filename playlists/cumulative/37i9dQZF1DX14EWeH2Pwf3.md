@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-261 songs - 12 hr 52 min
+262 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,9 +185,10 @@
 | [OCCHI COLTELLO \(feat\. Gemitaiz, Giorgio Poi, Lil Kvneki & Massimo Pericolo\)](https://open.spotify.com/track/0TmwCu4nH8jntqXnDlH0qr) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 3:33 | 2022-12-01 | 2022-12-14 |
 | [OCCHI COLTELLO \(feat\. Gemitaiz, Giorgio Poi, Lil Kvneki & Massimo Pericolo\)](https://open.spotify.com/track/5Y5e87SEZbHZbXyGeCPZV5) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 3:33 | 2022-12-12 | 2023-01-04 |
 | [okk@pp@](https://open.spotify.com/track/6Eut6MtJYENAxBtNG0stnT) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [okk@pp@](https://open.spotify.com/album/2Ev7vWEFWmMsWdiZZKgVR1) | 2:22 | 2022-09-22 | 2022-10-14 |
+| [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-07 |  |
 | [OUTSIDER](https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OUTSIDER](https://open.spotify.com/album/0Y6y87L7QxjYMd9AotKayf) | 2:57 | 2023-03-23 | 2023-03-31 |
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-09 | 2022-06-10 |
-| [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-26 |  |
+| [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-26 | 2023-04-09 |
 | [PARE \(feat\. Madame\)](https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:45 | 2022-05-19 | 2022-07-15 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-09 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,014 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,085 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 20 | [Raina Beeti Jaye](https://open.spotify.com/track/4vJ8iKlaXGyuREfmY2ZWkG) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Amar Prem \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eUczyrgWxGjL6jDXZDxBl) | 5:18 |
 | 21 | [Kabhi Kabhi Mere Dil Mein \(Duet\)](https://open.spotify.com/track/3fv7fFA81kccqQc7FV5c7Y) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Humforlatadidi](https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr) | 4:58 |
 | 22 | [Jiya Jale](https://open.spotify.com/track/16W3Eqvgh4Sl84RoHZYnNV) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:09 |
-| 23 | [Bangle Ke Peechhe](https://open.spotify.com/track/2NptrDJFXKX6U7Xcrcg9F8) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Samadhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42tJue2GQXcTMfOtP5q4TE) | 5:39 |
+| 23 | [BANGLE KE PEECHHE](https://open.spotify.com/track/1wmKoQ4kzcE7dZ7N84VpzJ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:39 |
 | 24 | [Mera Saaya Saath Hoga](https://open.spotify.com/track/0za65XON6dtr5CE6LMQMkV) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 6:03 |
 | 25 | [Pyar Kiya To Darna Kya](https://open.spotify.com/track/1EezmZapxk6dDafoJuou6k) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 6:21 |
 | 26 | [Chalte Chalte Yun Hi Koi](https://open.spotify.com/track/1KpTS270MT96OszvcFVdlk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 5:53 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 45 | [Sun Sahiba Sun](https://open.spotify.com/track/1pn0wX6ko9xwhfp3IaEc8z) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Ram Teri Ganga Maili \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ASt0wBEpXn3pTmg79hcHA) | 5:14 |
 | 46 | [Rahen Na Rahen](https://open.spotify.com/track/35ZhIgB4X0J4R7HVo13s1i) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 4:25 |
 | 47 | [Are Re Are](https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 5:35 |
-| 48 | [Dil Deewana \- Female Vocals](https://open.spotify.com/track/5M7LdQfurIG70nbvlSAO07) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Maine Pyar Kiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV) | 5:54 |
+| 48 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 |
 | 49 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 
-Snapshot ID: `MTY4MDA4ODk0MywwMDAwMDAwMDdmMzIzOWIzMTYwZWY4ZjRhMDI1YWJmYzc2MWJlOGVl`
+Snapshot ID: `MTY4MDA4ODk0MywwMDAwMDAwMDRjNDAxOWI3ZjVhMzIwNWE2YzI4NTVkMDIxMTdhY2M1`

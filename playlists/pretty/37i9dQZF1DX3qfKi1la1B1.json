@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 108798,
+  "num_followers": 108845,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDNlNmM4MzMxM2ZlNzRkNThkODNiNmU4NWE4YmU2ZDg5",
+  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDIzNjhhNjUwYWNjMzNmNTYxMWI5OTY2YjJmMWVlOTBi",
   "tracks": [
     {
       "added_at": "2023-04-06 15:00:00",
@@ -271,8 +271,8 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "\u982c\u6756",
-        "url": "https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X"
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
       },
       "artists": [
         {
@@ -281,8 +281,8 @@
         }
       ],
       "duration_ms": 220236,
-      "name": "\u982c\u6756",
-      "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "I Love Life, Thank You",
         "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 162875,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Kids Are Growing Up (Part 1)",
-        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 121369,
-      "name": "Kids Are Growing Up (Part 1)",
-      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Kids Are Growing Up (Part 1)",
+        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 121369,
+      "name": "Kids Are Growing Up (Part 1)",
+      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
     },
     {
       "added_at": "2023-04-06 15:00:00",

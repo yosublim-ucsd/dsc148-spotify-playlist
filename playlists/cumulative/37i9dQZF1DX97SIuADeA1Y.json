@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "When the bassline slaps.",
+  "description": "The bassline keeps you moving.",
   "name": "SLAP!",
   "tracks": [
     {
@@ -32,6 +32,28 @@
       "duration_ms": 145740,
       "name": "100 Degrees (with S\u00e9b Mont)",
       "url": "https://open.spotify.com/track/6KZmW3m8H69be0JSMj6762"
+    },
+    {
+      "album": {
+        "name": "1001 Arabian Nights",
+        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Chipz",
+          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "1001 Arabian Nights",
+      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
     },
     {
       "album": {
@@ -210,6 +232,32 @@
       "duration_ms": 169102,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4oFjWv0hf8gPkG6ASFJTHz"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/30YfFxzM2z59UPq7AthlOQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "BASTL",
+          "url": "https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB"
+        },
+        {
+          "name": "Meggie York",
+          "url": "https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152490,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3VQbVgbSnqu7xPsVk91ZPS"
     },
     {
       "album": {
@@ -728,7 +776,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 123711,
       "name": "Changes",
       "url": "https://open.spotify.com/track/42ab6M2Xm2Jkuo3nMUVgj3"
@@ -1631,6 +1679,32 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2EiFRUPsvd47wrQbF5Lfv2"
+      },
+      "artists": [
+        {
+          "name": "Level 8",
+          "url": "https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        },
+        {
+          "name": "MITCH DB",
+          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5WVG4MP29MfXX4PdJ7jY4N"
+    },
+    {
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/3cT8LvgIoBHMgxFR6dn7Dl"
       },
@@ -1808,7 +1882,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 140654,
       "name": "Good Rush",
       "url": "https://open.spotify.com/track/7z58RaBxBmUdE8DfCdhUgR"
@@ -2432,7 +2506,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 120585,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/46vvP61lftD3CERdB3Y5yA"
@@ -2536,7 +2610,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 148000,
       "name": "Le bateau blanc",
       "url": "https://open.spotify.com/track/4yzqy6HQawQnh60xFcAh9z"
@@ -2952,7 +3026,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150000,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/6ipBg7UZGv2mCbUWdmnGtA"
@@ -3225,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4NYL4SD5w2GP3f5Q8EoYZp"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164916,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/18MCxsPkUPmVczH6MwcmMt"
+    },
+    {
+      "album": {
         "name": "No! (TCTS Remix)",
         "url": "https://open.spotify.com/album/18IITNp2thY6FcQVnQyzOT"
       },
@@ -3288,6 +3380,24 @@
       "duration_ms": 137786,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/7cgnBuGq8jSnW6u0Bcwags"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156916,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88"
     },
     {
       "album": {
@@ -3442,6 +3552,24 @@
       "duration_ms": 167924,
       "name": "Only For A Night",
       "url": "https://open.spotify.com/track/6FWNDcdJr58TPSTIdpIyx6"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7hHkHLdur7B5iz1TjrBpbZ"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122750,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5WsPTUQGLfJB4oyOJwlmn2"
     },
     {
       "album": {
@@ -3636,7 +3764,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 145920,
       "name": "PEPPERMINT (feat. Toby Romeo)",
       "url": "https://open.spotify.com/track/52RPbW5MNS0S6esTVqi9BA"
@@ -4064,7 +4192,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 140000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
@@ -4302,6 +4430,32 @@
       "duration_ms": 145161,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4Dicl4UZdgarU082FDHfrq"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3CWVSXYAfu1NVicztl5mLR"
+      },
+      "artists": [
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Felix Schorn",
+          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
+        },
+        {
+          "name": "AMBERLIND",
+          "url": "https://open.spotify.com/artist/0g5HtpcRYsOQKGocoiZPjr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3k9uXDiuQ08DDMP4ZrfJe1"
     },
     {
       "album": {

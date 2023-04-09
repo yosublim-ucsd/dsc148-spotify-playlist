@@ -1,12 +1,12 @@
 {
   "description": "Alleen maar motion en good vibes. Cover: Becky G",
-  "num_followers": 311115,
+  "num_followers": 311168,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDIwNTViM2U3ZThhNjdmNjA4NmUyMmU4NzBkYWNjMjNl",
+  "snapshot_id": "MTY4MDg2Nzk2NCwwMDAwMDAwMGU0MzUxZjFlNDBiMmZkZjkzNDcyNzc4NGFjMmZmMWYw",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -135,22 +135,6 @@
       "duration_ms": 162928,
       "name": "Wauw",
       "url": "https://open.spotify.com/track/0ktHq4CUjQwvqanG7VpFe9"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Dyscalculie",
-        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
-      },
-      "artists": [
-        {
-          "name": "Maks",
-          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
-        }
-      ],
-      "duration_ms": 93509,
-      "name": "Dyscalculie",
-      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -327,6 +311,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Dyscalculie",
+        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
+      },
+      "artists": [
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "duration_ms": 93509,
+      "name": "Dyscalculie",
+      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Midden In De Club",
         "url": "https://open.spotify.com/album/7hVIIRKPPaeSXY0d6qe8RW"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "En Die Dingen Daar",
+        "url": "https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2"
+      },
+      "artists": [
+        {
+          "name": "Naro",
+          "url": "https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y"
+        }
+      ],
+      "duration_ms": 133146,
+      "name": "En Die Dingen Daar",
+      "url": "https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Jini",
         "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 135209,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/7obgoX4SK8bxLIwbR41Dcq"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "En Die Dingen Daar",
-        "url": "https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2"
-      },
-      "artists": [
-        {
-          "name": "Naro",
-          "url": "https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y"
-        }
-      ],
-      "duration_ms": 133146,
-      "name": "En Die Dingen Daar",
-      "url": "https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1011,26 +1011,6 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/3j4j3AakOx6CC3yyY6Yq7d"
-      },
-      "artists": [
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        },
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        }
-      ],
-      "duration_ms": 143505,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/2BevMrVPQsDs6V7VZTdbhb"
     },
     {
       "added_at": "2023-04-06 22:00:00",

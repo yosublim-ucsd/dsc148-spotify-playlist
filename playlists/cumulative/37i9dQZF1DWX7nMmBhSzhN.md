@@ -4,7 +4,7 @@
 
 > Old film songs full of suspense!
 
-56 songs - 5 hr 5 min
+57 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Bachke Rehna Re Baba \- Pukar / Soundtrack Version](https://open.spotify.com/track/2wK3g7TTQa9AJMKcuYKbon) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Pukar](https://open.spotify.com/album/6mLcUrX2fVlMwC1nQzouOW) | 6:24 | 2021-11-26 |  |
 | [Dil Sachaa Aur Chehra Jhutha \- Sachaa Jhutha / Soundtrack Version](https://open.spotify.com/track/27UwJk6DYRrfkuDOlLyiS4) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Sachaa Jhutha](https://open.spotify.com/album/5VFC5NmbiFSCSsVMOTiJOo) | 4:02 | 2021-11-26 |  |
 | [Do Ghoont Mujhe Bhi Pila De](https://open.spotify.com/track/3w505W3zX10CJ8epUbMOJe) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Jheel Ke Us Paar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60nZIIkbWjz4lRD4cWx6kK) | 5:00 | 2021-11-26 |  |
+| [DUM MARO DUM](https://open.spotify.com/track/6OzJMald0LupR7GZ8ZtvD5) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Asha Tai \- Straight Drives](https://open.spotify.com/album/2kJFRuimkQCVEXL5j1iXrC) | 3:28 | 2023-02-02 |  |
 | [Dum Maro Dum](https://open.spotify.com/track/3lHUTskUQWjJBd6jWQgxfY) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Hare Rama Hare Krishna](https://open.spotify.com/album/5SDPiUl4jIEMx6jOmLDHrM) | 3:28 | 2021-11-26 | 2022-07-29 |
-| [Dum Maro Dum, Pt\. 2](https://open.spotify.com/track/2DeRGbBLFK2qIMcwJ9rw4j) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Hare Rama Hare Krishna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TRrjbjCjixM6LBR3ygqqi) | 3:28 | 2021-11-26 |  |
+| [Dum Maro Dum, Pt\. 2](https://open.spotify.com/track/2DeRGbBLFK2qIMcwJ9rw4j) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Hare Rama Hare Krishna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TRrjbjCjixM6LBR3ygqqi) | 3:28 | 2021-11-26 | 2023-04-09 |
 | [Duniya Mein Logon Ko, Pt\. 1](https://open.spotify.com/track/28nA1K1h6fklSgOuyEMjau) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Apna Desh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oK3df9angrWqZ782nQv3j) | 5:54 | 2021-11-26 |  |
 | [Ek Do Teen Char](https://open.spotify.com/track/3yRoV3XxY866zW6PZuwzXy) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tezaab](https://open.spotify.com/album/4eQtfr6HPK36oxfKS27te8) | 7:37 | 2021-11-26 |  |
 | [Ek Hasina Thi Ek Diwana Tha](https://open.spotify.com/track/4Io7LWhjZMORDTzHIsqDQ9) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Rishi Kapoor](https://open.spotify.com/artist/6pQezWTlQVJsE7hHVdzATb) | [Karz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz17xUt6l9nYcmY2Anj2J) | 7:52 | 2021-11-26 |  |

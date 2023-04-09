@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Don Toliver, AKA, Drake, K.O and more...
 
-189 songs - 10 hr 17 min
+190 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 | 2023-01-23 |  |
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-10 | 2022-11-15 |
 | [Milli](https://open.spotify.com/track/1aZDZjXRiAScYxLT9ZaRMI) | [Tebogo Wa Pitori](https://open.spotify.com/artist/4fmXw46U61bjoK3AL2xw9y) | [Novelist Of Distinction](https://open.spotify.com/album/2Ef7S0utz4z51W8NhwVUfn) | 2:44 | 2022-11-14 | 2022-12-13 |
-| [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 | 2023-03-10 |  |
+| [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 | 2023-03-10 | 2023-04-09 |
 | [MOSHITO](https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [SR3](https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT) | 2:25 | 2022-09-15 | 2022-11-11 |
 | [Mrholo Wayizolo \(feat\. Masterpiece YVK & Papta Mancane\)](https://open.spotify.com/track/7nEQ5vcdJDaQTWJO7ABpty) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Papta Mancane](https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D) | [Mrholo Wayizolo \(feat\. Masterpiece YVK & Papta Mancane\)](https://open.spotify.com/album/0otS0sJQFyp9MBFeis4WOW) | 5:11 | 2022-11-17 |  |
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2022-12-12 | 2023-02-24 |
@@ -154,6 +154,7 @@
 | [Rollin'](https://open.spotify.com/track/3z1B33YJDUYr9Show1dceh) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Rollin'](https://open.spotify.com/album/2Hl9b2l48h1c2oAQG4ob0a) | 3:52 | 2022-09-09 | 2022-11-15 |
 | [ronda](https://open.spotify.com/track/4KWaXaEz7aWWfjUuz2fSAR) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 3:03 | 2022-11-03 | 2022-11-11 |
 | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f) | 3:13 | 2022-09-15 | 2022-11-04 |
+| [Search & Rescue](https://open.spotify.com/track/7INo35yvWnVY5PcEUlg1d4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/2lFkZFJ1ibZfwqembA7Nof) | 4:32 | 2023-04-07 |  |
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-08-18 |  |
 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 | 2023-02-23 | 2023-03-07 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-15 | 2022-10-14 |

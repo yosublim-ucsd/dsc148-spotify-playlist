@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 36527,
+  "num_followers": 36769,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGExOGVkZDJlYjZlZjFkOTY5OWYyM2I1MTE3OTIxZmQz",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDczOTUxOTg0NjQ3NWFkMGU4NDM1OTE5NmRkYjI5OWNj",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -843,6 +843,30 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "BIPP",
         "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
@@ -903,30 +927,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
-      },
-      "artists": [
-        {
-          "name": "That Kid",
-          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "I <3 Harajuku",
         "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
@@ -943,6 +943,30 @@
       "duration_ms": 146938,
       "name": "I <3 Harajuku",
       "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "i hate it here",
+        "url": "https://open.spotify.com/album/6wept5tC2CCShExUQLoNFb"
+      },
+      "artists": [
+        {
+          "name": "33kiro",
+          "url": "https://open.spotify.com/artist/0Bfmkd0toyREldI0dZiRTt"
+        },
+        {
+          "name": "Sukoyomi",
+          "url": "https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp"
+        },
+        {
+          "name": "p4rkr",
+          "url": "https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD"
+        }
+      ],
+      "duration_ms": 157178,
+      "name": "i hate it here",
+      "url": "https://open.spotify.com/track/6n1ZjksfQve7uEkxGOiYgA"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1007,30 +1031,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "i hate it here",
-        "url": "https://open.spotify.com/album/6wept5tC2CCShExUQLoNFb"
-      },
-      "artists": [
-        {
-          "name": "33kiro",
-          "url": "https://open.spotify.com/artist/0Bfmkd0toyREldI0dZiRTt"
-        },
-        {
-          "name": "Sukoyomi",
-          "url": "https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp"
-        },
-        {
-          "name": "p4rkr",
-          "url": "https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD"
-        }
-      ],
-      "duration_ms": 157178,
-      "name": "i hate it here",
-      "url": "https://open.spotify.com/track/6n1ZjksfQve7uEkxGOiYgA"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "Be Your USA",
         "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 173000,
       "name": "Be Your USA",
       "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-29 16:59:10",

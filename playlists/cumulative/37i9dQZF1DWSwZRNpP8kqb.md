@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-127 songs - 7 hr 28 min
+128 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chacarera De Un Triste](https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p) | [Natalia Barrionuevo](https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC) | [Folk](https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM) | 2:36 | 2022-09-06 |  |
 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 | 2022-01-14 | 2023-03-12 |
 | [Chacarera Pal Trichaco](https://open.spotify.com/track/5Kz1mW7iVOBpbohYaj1Hpl) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Hasta El Cielo Mi Alma](https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4) | 2:24 | 2022-09-06 |  |
+| [Corazón de Agua](https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6) | 4:23 | 2023-03-17 |  |
 | [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 | 2022-08-12 | 2023-03-25 |
 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 | 2022-07-08 |  |
 | [Cuando Llegue el Alba](https://open.spotify.com/track/77hNwkwupXzT2hiMFjkhOB) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/03kAdjjhZySWGj6617vyub) | 3:57 | 2022-01-14 | 2022-07-29 |
@@ -125,7 +126,7 @@
 | [Tristeza Litoraleña](https://open.spotify.com/track/43dkp25S0X7YECB74V6LX7) | [María Cuevas](https://open.spotify.com/artist/5s1trlApuOH8ugiUCxWPXX) | [Aguas Nuevas](https://open.spotify.com/album/5ijvaVKCO6Fq6AVkKm65JU) | 3:18 | 2022-01-14 | 2022-08-19 |
 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 | 2022-01-14 |  |
 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 | 2022-01-14 |  |
-| [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 | 2022-01-14 |  |
+| [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 | 2022-01-14 | 2023-04-09 |
 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 | 2023-01-20 |  |
 | [Zamba azul](https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB) | [Mery Murua](https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l) | [Roble 10 Años](https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K) | 4:59 | 2022-01-14 | 2022-07-29 |
 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB) | 3:30 | 2022-01-14 | 2022-07-29 |

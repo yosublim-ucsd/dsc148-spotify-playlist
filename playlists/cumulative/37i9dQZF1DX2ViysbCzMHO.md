@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-223 songs - 12 hr 13 min
+224 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Girl in a Bar \(Acoustic\)](https://open.spotify.com/track/2ln7CmUkokQ7swgfnVGbLg) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Girl in a Bar \(Acoustic\)](https://open.spotify.com/album/5JPFX41LVUWPyz9MtYvbWc) | 3:43 | 2021-12-17 | 2022-07-09 |
 | [Girl On Fire \- Acoustic](https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire \(Acoustic\)](https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia) | 3:08 | 2022-12-16 |  |
 | [Girlfriend \- Acoustic](https://open.spotify.com/track/50ZUmhK9HlAcErRiStCLqw) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 2:54 | 2021-12-17 | 2022-07-29 |
+| [Girls Like You \- Stripped](https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Girls Like You \- Stripped](https://open.spotify.com/album/0iNFmOXHsrjgNL5NmSVvQu) | 2:59 | 2023-04-07 |  |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2021-12-17 |  |
 | [Going, Going, Gone \- Acoustic](https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Going, Going, Gone \(Acoustic\)](https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8) | 2:46 | 2022-12-16 |  |
 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 | 2021-12-17 |  |
@@ -186,7 +187,7 @@
 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 | 2021-12-17 |  |
 | [The Middle \- Acoustic](https://open.spotify.com/track/6DLprBjko8crRbx7n9LuSG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:18 | 2022-07-08 | 2022-07-24 |
 | [The Night \(Part 2 \- Acoustic\)](https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Night: The Collection](https://open.spotify.com/album/1GyXxGLL5CydaN34idnfzr) | 3:33 | 2023-02-17 |  |
-| [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 | 2022-12-16 |  |
+| [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 | 2022-12-16 | 2023-04-09 |
 | [Therapy \(Rainy Days Version\)](https://open.spotify.com/track/0V8s9vPRwAFxcImLRSjoGD) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy \(Rainy Days Version\)](https://open.spotify.com/album/4JEz7TLU7JCfMXKUrWLoLe) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2022-07-15 |  |
 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 | 2021-12-17 | 2022-07-29 |

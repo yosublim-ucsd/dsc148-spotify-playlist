@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Dominic Chin. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Gaston Pong. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -2994,6 +2994,24 @@
       "duration_ms": 122500,
       "name": "i like red",
       "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
+    },
+    {
+      "album": {
+        "name": "i luv u, just kidding",
+        "url": "https://open.spotify.com/album/22Pluldf64A2ZxCHWPrK6z"
+      },
+      "artists": [
+        {
+          "name": "Gaston Pong",
+          "url": "https://open.spotify.com/artist/60VWor37GAY948KKZibKiI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179003,
+      "name": "i luv u, just kidding",
+      "url": "https://open.spotify.com/track/2N3ic25EhopQBfvYiLfST4"
     },
     {
       "album": {
@@ -6994,6 +7012,28 @@
       "duration_ms": 109090,
       "name": "warm udon",
       "url": "https://open.spotify.com/track/1ms370DnPCWGYZnskrpYlu"
+    },
+    {
+      "album": {
+        "name": "watch your tone",
+        "url": "https://open.spotify.com/album/792jDd7X2RSRd13qvuhgVm"
+      },
+      "artists": [
+        {
+          "name": "Apriltwentyfifth",
+          "url": "https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL"
+        },
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "watch your tone",
+      "url": "https://open.spotify.com/track/4UxBgn0FpZsartRkpHkPCY"
     },
     {
       "album": {

@@ -1772,6 +1772,24 @@
     {
       "album": {
         "name": "2nd",
+        "url": "https://open.spotify.com/album/2lKNKxM6N6Q1nkKEZw7kkJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116655,
+      "name": "Icing on the Cake",
+      "url": "https://open.spotify.com/track/14Ao5GwSPhlroo0EhAgtRS"
+    },
+    {
+      "album": {
+        "name": "2nd",
         "url": "https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU"
       },
       "artists": [
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 193401,
       "name": "Maple Syrup Tears",
       "url": "https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH"

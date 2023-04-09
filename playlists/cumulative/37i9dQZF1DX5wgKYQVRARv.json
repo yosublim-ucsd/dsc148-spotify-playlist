@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Ne Obliviscaris",
+  "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Periphery",
   "name": "Progressive Metal",
   "tracks": [
     {
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 385708,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/7zFcWdYvXTSO95T4ixAIN0"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 301750,
       "name": "Constructive",
       "url": "https://open.spotify.com/track/3ZcFuobNEfiHDWsanugeT3"
@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 266131,
       "name": "He and the Sea",
       "url": "https://open.spotify.com/track/5Lxr2tr0kXmS6DcxKu4mXP"
@@ -6325,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Embrace the Infinity",
+        "url": "https://open.spotify.com/album/7HL5kk9mZEYfijS8K5YzEK"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256510,
+      "name": "Nothing Gold",
+      "url": "https://open.spotify.com/track/1WGC4W2dBxxxvH97h9qCP1"
+    },
+    {
+      "album": {
         "name": "Nous Sommes La Guerre",
         "url": "https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA"
       },
@@ -6761,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232594,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
+    },
+    {
+      "album": {
         "name": "penny royal poison",
         "url": "https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO"
       },
@@ -6812,6 +6848,24 @@
       "duration_ms": 371813,
       "name": "Periscope",
       "url": "https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5"
+    },
+    {
+      "album": {
+        "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
+        "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104367,
+      "name": "Peruvian Skies (Basic Tracks)",
+      "url": "https://open.spotify.com/track/7lXJWraADeGngycPUcBngY"
     },
     {
       "album": {
@@ -9272,7 +9326,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 213981,
       "name": "The Overthrow",
       "url": "https://open.spotify.com/track/6s1iGUH3IYzjOIqiG10Rqn"
@@ -9518,6 +9572,24 @@
       "duration_ms": 368733,
       "name": "The Shape of Things to Come",
       "url": "https://open.spotify.com/track/3lo7hmbnxQQLx5BNAwBV0T"
+    },
+    {
+      "album": {
+        "name": "The Summoning",
+        "url": "https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395716,
+      "name": "The Summoning",
+      "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Tamil Indie : Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DXc6qgnxonYgp)
 
-> Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
+> Featuring today's dopest MCs.<br/>Cover : ADK
 
 164 songs - 9 hr 34 min
 
@@ -37,7 +37,7 @@
 | [Ethum Sari Illa \- From "Valigal"](https://open.spotify.com/track/53nYwYfG3tc5pbpZPNAK65) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo) | [Ethum Sari Illa \(From "Valigal"\)](https://open.spotify.com/album/0H8Fp5AoDeM3QGdKTQWVcK) | 2:44 | 2022-09-13 |  |
 | [Ex Girlfriend](https://open.spotify.com/track/0tIQRW7OQs8NSsufOOetHo) | [Daniel Yogathas](https://open.spotify.com/artist/4epMOagTIGQjYgprh7PGRf) | [Ex Girlfriend](https://open.spotify.com/album/3vxXaoWfFzQBODGwfWXp9S) | 3:37 | 2021-12-01 |  |
 | [Fight The Power](https://open.spotify.com/track/1dpxObzxjyy6BRRuFo7nAX) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR), [Gk](https://open.spotify.com/artist/6nYMtT3AqM8pknGvufEmDG) | [Fight The Power](https://open.spotify.com/album/7tgDXq9hPKDLKW2FFb7vbZ) | 3:59 | 2021-12-16 |  |
-| [Fly High](https://open.spotify.com/track/22iRABFKUwl6l1XDgb4cRb) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Fly High](https://open.spotify.com/album/16YEyCLKrj1Ey1FF4vD5uc) | 3:11 | 2023-04-07 |  |
+| [Fly High](https://open.spotify.com/track/22iRABFKUwl6l1XDgb4cRb) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Fly High](https://open.spotify.com/album/16YEyCLKrj1Ey1FF4vD5uc) | 3:11 | 2023-04-06 |  |
 | [Game Flip](https://open.spotify.com/track/3DyarBoNphM65MNHmUHUhz) | [Wild Wild Women](https://open.spotify.com/artist/6pcnYS4spI2T6ON68zSseP), [JQueen](https://open.spotify.com/artist/6xWnLYqorRmx45XVLwSouu), [Hashtagpretty](https://open.spotify.com/artist/5VwAgYfMPtHdmziXUyCnOz), [Pratika](https://open.spotify.com/artist/3XTyIx2dpw9ulI4ALrny1Z), [MC Mahila](https://open.spotify.com/artist/75GyuL9axtpx57d4tP1qXW), [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP) | [Game Flip](https://open.spotify.com/album/2s8PZJYkeSaTgzKs0pdRpy) | 4:23 | 2022-02-11 | 2022-05-31 |
 | [GangDa](https://open.spotify.com/track/4WffAk4oWFV0Oqyq8YBOal) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [GangDa](https://open.spotify.com/album/3Xj35PchxeO80Oht6Kw5yE) | 1:00 | 2023-02-09 |  |
 | [Girlfriend \(feat\. Black Kaalai\)](https://open.spotify.com/track/18dzpdp7g87wNgOFoNl1dt) | [Nishan K](https://open.spotify.com/artist/4rzBlTGGiqbUDqrhcdCQPy), [Black Kaalai](https://open.spotify.com/artist/42HZW92hVhm2Di6skv3Bbb) | [Girlfriend \(feat\. Black Kaalai\)](https://open.spotify.com/album/1ayeMCNqIC3i9r4JOayQHq) | 3:18 | 2021-12-01 | 2022-08-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,503 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,488 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 | 14 | [Walkin'](https://open.spotify.com/track/77hICQxyUz6RbySKBi3kVN) | [Miles Davis Sextet](https://open.spotify.com/artist/1i4ed4I1y7YerI0fQV4lVc) | [Walkin'](https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6) | 13:25 |
 | 15 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 |
 | 16 | [Does Anybody Really Know What Time It Is?](https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:22 |
-| 17 | [Coyote](https://open.spotify.com/track/5jgl3Fzeyoysz2ZVhnFPlp) | [Urbxnxd](https://open.spotify.com/artist/6tUxchkjqhlH1pY0TIMbaj) | [Cayote](https://open.spotify.com/album/2HoVPKAoYnwDYIVhiMELHS) | 5:01 |
+| 17 | [Coyote](https://open.spotify.com/track/5jgl3Fzeyoysz2ZVhnFPlp) | [Urbxnxd](https://open.spotify.com/artist/7FyfYrtoOWSPcI1DkchzZy) | [Cayote](https://open.spotify.com/album/2HoVPKAoYnwDYIVhiMELHS) | 5:01 |
 | 18 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
 | 19 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 20 | [Allure](https://open.spotify.com/track/3XEHn72yyeU5VmCrvqh37n) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/2ROptx2K5R4YYqlQQRpT7k) | 4:51 |

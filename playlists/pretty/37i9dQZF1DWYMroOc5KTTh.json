@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 390134,
+  "num_followers": 390523,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMDc1MDI5YTg5NzA1YjM1YTJhMTkzMjBlMmZjMjU2Zjdh",
+  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMDZlOWEyODMyNzExMzEzNWJjZjljMDY4ZTI1NTY0MzUx",
   "tracks": [
     {
       "added_at": "2023-03-02 11:21:39",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-03-02 11:21:39",
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "added_at": "2023-03-02 11:21:39",
+      "album": {
         "name": "Yesterday's Gone",
         "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
-    },
-    {
-      "added_at": "2023-03-02 11:21:39",
-      "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-03-02 11:21:39",

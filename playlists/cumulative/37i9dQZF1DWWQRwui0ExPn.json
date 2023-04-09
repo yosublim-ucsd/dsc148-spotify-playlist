@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 107260,
       "name": "Alice",
       "url": "https://open.spotify.com/track/22wxDyfqvHg9IGx5sS2KCn"
@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 108705,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/5YmOBe3aZ2wBZ8oO6P8OfN"
@@ -15962,7 +15962,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 143333,
       "name": "Caught By The Sun",
       "url": "https://open.spotify.com/track/3Ofi9Y8mkSjCWXKhtSIcQa"
@@ -37160,7 +37160,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 141066,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/0jhiKLUTNXihMsjkPsQTgb"
@@ -43740,7 +43740,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "If U Wanna",
       "url": "https://open.spotify.com/track/5KuEzcJf9truWXN0EELIJz"
@@ -44142,7 +44142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 96374,
       "name": "Impulse Response",
       "url": "https://open.spotify.com/track/2xUjW1zqoQdUD4ZaiSJhh0"
@@ -53102,7 +53102,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Lluvia Azul",
       "url": "https://open.spotify.com/track/2CnpibBCEGKHiANk5wImnr"
@@ -69753,6 +69753,24 @@
     },
     {
       "album": {
+        "name": "Palme",
+        "url": "https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW"
+      },
+      "artists": [
+        {
+          "name": "Bird Svens\u00f8n",
+          "url": "https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Palme",
+      "url": "https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc"
+    },
+    {
+      "album": {
         "name": "Palmeiras",
         "url": "https://open.spotify.com/album/2x3oSfL2a0VYXSVXGXfaY7"
       },
@@ -81364,7 +81382,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142105,
       "name": "Shore Doze",
       "url": "https://open.spotify.com/track/4o658oYZwsyDSZ4q7Dy7yJ"
@@ -86450,7 +86468,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 158808,
       "name": "spring",
       "url": "https://open.spotify.com/track/4XChGuM6Vcl9wFwB5SLgR8"
@@ -95526,7 +95544,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 100738,
       "name": "Todo Tranqui",
       "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
@@ -102550,7 +102568,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 140571,
       "name": "What are we eating?",
       "url": "https://open.spotify.com/track/02vItcwtoE9ioCLqvMd7Pj"

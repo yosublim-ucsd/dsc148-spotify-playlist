@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 133252,
+  "num_followers": 133421,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMGZkYjY3NWI0NzQ4NjIzNmU0YjYyYTY2ZmJmNGU4MzRm",
+  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMDdiMjYwZjhkZGRmZGZjY2U4Y2JkNzBjMjcxYjVjNmQy",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
       },
       "artists": [
         {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
+      "duration_ms": 256394,
+      "name": "Vaquero Rockanrolero",
+      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
         }
       ],
-      "duration_ms": 256394,
-      "name": "Vaquero Rockanrolero",
-      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Los Nopales Tienen la Fuerza",
         "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 168948,
       "name": "Fue en un Caf\u00e9",
       "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
-        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Entre \u00c1ngeles y Poetas",
         "url": "https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 253013,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
+        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
     },
     {
       "added_at": "2020-11-13 06:01:00",

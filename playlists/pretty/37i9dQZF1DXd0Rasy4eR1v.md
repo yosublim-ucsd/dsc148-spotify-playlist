@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Izzchughtai
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,952 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,966 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 54 | [Lafzuna](https://open.spotify.com/track/0Cn3tEtNTRxvhyUAkDH5Ol) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [Curly Ney](https://open.spotify.com/artist/51BOOSWkcSZ33saGYAJDWw) | [Lafzuna](https://open.spotify.com/album/4crlIWzrjshR9Vsu9ozWgb) | 2:30 |
 | 55 | [can't you see?](https://open.spotify.com/track/4g2xjGzFCYRf5ps7hfJIcr) | [MAARIJ](https://open.spotify.com/artist/70dkTHwH6Pkzo2rvGfukp2), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [can't you see?](https://open.spotify.com/album/76rGXm8ZDTmpm8Ta7GDVQA) | 4:00 |
 | 56 | [Akhiyaan](https://open.spotify.com/track/4beNjighbUcgb7dOsQsrdL) | [Umar.](https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm), [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY) | [Akhiyaan](https://open.spotify.com/album/3qdvKCkGmHV1GQ4Z8fVFXQ) | 2:14 |
-| 57 | [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 |
+| 57 | [Qadar](https://open.spotify.com/track/6WplmpF1sgSyE2EZfJGhXf) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/23rsdxCW9BVpz5VlZQgXP9) | [Qadar](https://open.spotify.com/album/7DXlR5TzcQNWlKigCnim9A) | 2:36 |
 | 58 | [Pyaar Bhi Kya Nasha Hai](https://open.spotify.com/track/4AM68wkDAhKK34JwWn9Pwo) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Pyaar Bhi Kya Nasha Hai](https://open.spotify.com/album/6R96po3YMxLrgaErJ4XNpM) | 3:09 |
 | 59 | [La Makani](https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [La Makani](https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs) | 4:32 |
 | 60 | [Sannatay Ki Awaaz](https://open.spotify.com/track/1uPnVdI4yfzyhRfHpahx3F) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Sannatay Ki Awaaz](https://open.spotify.com/album/66ZxbKHHejfmfi7uRnSpU3) | 5:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 64 | [Dil Na Lanvee](https://open.spotify.com/track/40Uqtakcro5MbrLBQVwv22) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Dil Na Lanvee](https://open.spotify.com/album/0MqPkxDgVbpfgbgDkMgCgh) | 2:32 |
 | 65 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 |
 
-Snapshot ID: `MTY3OTQwMjEyNSwwMDAwMDAwMDEwOGU1ZjEwNDk4OWM5NDZkMDBmZTViM2QzNTc4ZWFk`
+Snapshot ID: `MTY3OTQwMjEyNSwwMDAwMDAwMDU4MzQ0NTQ0YjAzODYwZWUxZjZmYTU5YjQwMDFiMmE3`

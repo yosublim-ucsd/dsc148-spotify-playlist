@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-139 songs - 9 hr 44 min
+140 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Everybody Loves a Winner](https://open.spotify.com/track/2EUDthXhUTD7M40VSkWDq1) | [Lisa Mills](https://open.spotify.com/artist/5qjvtl7sQsjMEFadXXdEvE) | [The Triangle \(Expanded Edition\)](https://open.spotify.com/album/6ziGDbVoEO24tCewCBejrK) | 3:15 | 2021-07-30 |  |
 | [Fall Apart](https://open.spotify.com/track/1QCxnFbOnDiR1Ynd3cME4k) | [Jeff Jensen](https://open.spotify.com/artist/0GJFspOyGpSZJfFyH9EY3A) | [Morose Elephant](https://open.spotify.com/album/2x2Ot46HRi9VT9i5q9l5ZQ) | 4:27 | 2020-11-05 |  |
 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2020-11-05 |  |
+| [Fool \(Live\)](https://open.spotify.com/track/60TAAGvOtUcY95dHgvluSw) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fool \(Live\)](https://open.spotify.com/album/4ybMTnHNIQcBzVCFRRHuZZ) | 4:48 | 2023-04-07 |  |
 | [For Better or Worse](https://open.spotify.com/track/1wDDhcsJzOzICXpjLLaxX4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Bluesamericana](https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF) | 3:25 | 2020-11-05 |  |
 | [Forget Yourself](https://open.spotify.com/track/3fWcRT65iy7FIIEjitgfJ6) | [Natalia M\. King](https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg) | [Forget Yourself](https://open.spotify.com/album/35jiIi7b9WKbmxXfVcT0ai) | 3:38 | 2021-10-15 |  |
 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 | 2020-11-05 |  |

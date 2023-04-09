@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Whitney Houston",
-  "num_followers": 282497,
+  "num_followers": 282857,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0MjU1NCwwMDAwMDAwMGYwNjViNjk0YmM4MjUyMGFiYTk2ODlmODdhOTdjZTI2",
+  "snapshot_id": "MTY3MDk0MjU1NCwwMDAwMDAwMDMwZDM5M2UyZjdhYmMxZjM2NWQ1MzI2Y2Q3YTM0NGFj",
   "tracks": [
     {
       "added_at": "2022-11-10 16:45:53",
@@ -807,18 +807,22 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Extreme II: Pornograffitti (Deluxe)",
-        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 227826,
-      "name": "More Than Words - Remix",
-      "url": "https://open.spotify.com/track/5agRdN48WN57DGLja3klwV"
+      "duration_ms": 296266,
+      "name": "Every Time I Close My Eyes (with Kenny G)",
+      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
     }
   ],
   "unique_name": "90s Ballads",

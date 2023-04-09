@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=6mMSzZaoS3e4_CyF144yhA\"> Davido </a> ",
+  "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=falBka4OQx-yyjI-n5MhEg\"> Asake/a> ",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "2:30",
+        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
     },
     {
       "album": {
@@ -1531,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Normally",
+        "url": "https://open.spotify.com/album/4WAZw7oehd7CiSqUwo9ZGE"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151665,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/1QrbmrAxaoKlngNZ9XbeWw"
+    },
+    {
+      "album": {
         "name": "Love is Not Enough",
         "url": "https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ"
       },
@@ -1542,7 +1578,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151665,
       "name": "Normally",
       "url": "https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt"
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"

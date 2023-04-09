@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K?si=f5xUkCYQR\_6Cx8RzfhTXsg"> Bloody Civilian </a>
+> New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD?si=yaJau0xDRVyS\-9XTNnbhXg"> Preyé </a>
 
-331 songs - 16 hr 27 min
+332 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Coming Home](https://open.spotify.com/track/34qs8nKZqP6Mk6GCTTgZx2) | [The Kazez](https://open.spotify.com/artist/64LWPt0A50JOTxHxurU5tN) | [Pair](https://open.spotify.com/album/6M5LBR9GDMFIF3a7ptUJP5) | 2:42 | 2022-09-09 | 2022-11-04 |
 | [Confess](https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Confess](https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e) | 2:40 | 2022-11-18 | 2023-02-04 |
 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 | 2022-11-04 | 2022-11-19 |
+| [Cotton Candy \(Sweet Like\)](https://open.spotify.com/track/04GSGC4vUiRn6cDbsfTBwM) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Cotton Candy \(Sweet Like\)](https://open.spotify.com/album/381HEXGT1tAB97V4cxP0lH) | 2:42 | 2023-04-07 |  |
 | [Courage with Biage](https://open.spotify.com/track/3drRee5ge2p82tgabSmQPh) | [Eden Verg](https://open.spotify.com/artist/5nj1o05wXnBNmg81VfwItB) | [Courage with Biage](https://open.spotify.com/album/1yUgqzuX6IAXHcWEH0UIoX) | 3:11 | 2023-02-03 | 2023-02-11 |
 | [Cracks of You](https://open.spotify.com/track/2ERqWwFLCzEGV1YPtKfxB6) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Cracks of You](https://open.spotify.com/album/6yEXMFSLXCMnATdGEG95Hm) | 2:56 | 2022-12-02 | 2023-02-04 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2023-02-04 |

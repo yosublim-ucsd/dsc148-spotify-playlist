@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-271 songs - 16 hr 21 min
+272 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 | 2022-02-11 |  |
 | [SRY](https://open.spotify.com/track/0liqgDxxKqACG9kponhjfn) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [SRY](https://open.spotify.com/album/1n0DHsZ1cJbiAwlqHnmz5Q) | 3:43 | 2021-12-03 |  |
 | [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 | 2021-12-03 |  |
+| [State Of Mind](https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [State Of Mind](https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN) | 3:25 | 2023-04-07 |  |
 | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K) | 4:52 | 2022-09-30 |  |
 | [Super Human](https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Super Human](https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf) | 4:06 | 2022-12-02 |  |
 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 | 2021-12-03 |  |

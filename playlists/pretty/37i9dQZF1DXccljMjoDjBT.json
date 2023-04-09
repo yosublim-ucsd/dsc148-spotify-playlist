@@ -1,12 +1,12 @@
 {
-  "description": "The best soft rock from the 1980s. Cover: Daryl Hall & John Oates",
-  "num_followers": 224654,
+  "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
+  "num_followers": 225032,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5MDU5OCwwMDAwMDAwMDMyY2JhMmE0ZmQ2NGQzYmQ5ZGMxMTA3N2E2OWNjYmM4",
+  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMDQ2Zjc2YzJlZmNhNDE3YmMwODhiYjcyYzc2YzAxOGIy",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -119,6 +119,22 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -187,54 +203,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -299,6 +283,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 264986,
-      "name": "Kiss on My List",
-      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -367,38 +367,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Hearts In Motion",
-        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Lonely Is the Night",
-      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Inside Information",
         "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
       },
@@ -411,6 +379,22 @@
       "duration_ms": 237693,
       "name": "I Don't Want to Live Without You",
       "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Kiss on My List",
+      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -443,6 +427,22 @@
       "duration_ms": 317933,
       "name": "Angelia",
       "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Desert Moon",
-        "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7"
       },
       "artists": [
         {
-          "name": "Dennis DeYoung",
-          "url": "https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68"
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
         }
       ],
-      "duration_ms": 368800,
-      "name": "Desert Moon",
-      "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
+      "duration_ms": 246560,
+      "name": "Love Is A Bridge",
+      "url": "https://open.spotify.com/track/0EcU5IQCJ53kzGnVYvalRE"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Monsoon",
-        "url": "https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7"
+        "name": "Desert Moon",
+        "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "Dennis DeYoung",
+          "url": "https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68"
         }
       ],
-      "duration_ms": 246560,
-      "name": "Love Is A Bridge",
-      "url": "https://open.spotify.com/track/0EcU5IQCJ53kzGnVYvalRE"
+      "duration_ms": 368800,
+      "name": "Desert Moon",
+      "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Chicago 16 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 304813,
-      "name": "Hard to Say I'm Sorry / Get Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 245306,
       "name": "I Found Somebody",
       "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Chicago 16 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Hard to Say I'm Sorry / Get Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Street Corner Heroes",
-        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Brooklyn Girls - Remastered",
-      "url": "https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "World Radio",
         "url": "https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 280360,
       "name": "Heart (Stop Beating In Time)",
       "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Street Corner Heroes",
+        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Brooklyn Girls - Remastered",
+      "url": "https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27"
     },
     {
       "added_at": "2023-03-30 14:38:10",

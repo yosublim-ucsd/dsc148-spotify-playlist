@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,344 likes - 111 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,435 likes - 111 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 |
+| 1 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 |
 | 2 | [Anti\-Curse](https://open.spotify.com/track/4LOg3dKvCAJiF9NYC7YqzG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:18 |
 | 3 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 |
-| 4 | [God Above](https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 |
+| 4 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 |
 | 5 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
 | 6 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
 | 7 | [Star](https://open.spotify.com/track/4fCeKZHKZt5PTMEEGxHYQj) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Star](https://open.spotify.com/album/79H8ASriYHc6JBmxm4vq6f) | 5:21 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 17 | [String Theory](https://open.spotify.com/track/6n5RkZLMVIVp1QdmwaCp1g) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [String Theory](https://open.spotify.com/album/5YbdA6EHAvhcAimvoyQ4DQ) | 4:08 |
 | 18 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 |
 | 19 | [Windrush Baby](https://open.spotify.com/track/6UzZctITlti1xVg4zA6zeJ) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Windrush Baby](https://open.spotify.com/album/7Djnbj42u3dJfvr1fdcee7) | 3:24 |
-| 20 | [I Can Do It For You](https://open.spotify.com/track/5Uhqy3ZTadLqXAKVz1IxhX) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/3fZKX9nOaRHAGDKGybrtfg) | 2:16 |
+| 20 | [I Can Do It for You](https://open.spotify.com/track/2O0kG8Su5u4Y86y66elVC9) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N) | 2:16 |
 | 21 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 |
 | 22 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 |
 | 23 | [Until I Know](https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Until I Know](https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1) | 3:23 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 110 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 |
 | 111 | [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 |
 
-Snapshot ID: `MTY4MDgyMjAwMCwwMDAwMDAwMDBhZjM5NWYyMmQ1MzZlZjEwNzk0ZmQ5NDg2MzljMjgx`
+Snapshot ID: `MTY4MDgyMjAwMCwwMDAwMDAwMDJiN2EwYmNhY2ZjNzg5YTMyNWY1NGJhYjlkMTIyN2Qz`

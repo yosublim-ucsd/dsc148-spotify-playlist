@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 230208,
       "name": "EL HALAL",
       "url": "https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P"
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 172232,
       "name": "El Youm El Helw Dah",
       "url": "https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 264109,
       "name": "Ghasb Anny",
       "url": "https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -7131,6 +7131,28 @@
     },
     {
       "album": {
+        "name": "People, Pt. 2 (feat. IU)",
+        "url": "https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "People, Pt. 2 (feat. IU)",
+      "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
+    },
+    {
+      "album": {
         "name": "Butter / Permission to Dance",
         "url": "https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG"
       },
@@ -7728,7 +7750,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 290909,
       "name": "Saaban Aleky",
       "url": "https://open.spotify.com/track/1PvZPBCLn5pvAGec12ZlDV"
@@ -11026,6 +11048,24 @@
       "duration_ms": 238341,
       "name": "\u0637\u0644\u0642\u0627\u062a\u0649 \u0631\u0627\u0634\u0642\u0647",
       "url": "https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0644\u0627 \u0646\u0635 \u0643\u0644\u0645\u0629",
+        "url": "https://open.spotify.com/album/3FXWjjh9LaJQLEZh4GHaVN"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267937,
+      "name": "\u0637\u0645\u0646\u0649 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/44IiIpdfudUAV3np87r3gk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-630 songs - 1 day 23 hr 2 min
+631 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-20 |  |
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 |  |
 | [Blue Thoughts](https://open.spotify.com/track/7hvSyIZ9zoCASvdRjnQaQ6) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Blue Thoughts](https://open.spotify.com/album/6Y74yq4aQLCrlY2Iqt6Tw6) | 2:21 | 2022-04-28 |  |
+| [Blues for a Lost Love](https://open.spotify.com/track/5ZofcIkLEHUrLQh3TeTlji) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Blues for a Lost Love](https://open.spotify.com/album/1FhT1PEEuKf3ARcIujXGOL) | 2:46 | 2023-03-30 |  |
 | [Blues for Sharpie](https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 5:29 | 2022-04-14 | 2022-09-23 |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2022-04-14 | 2022-09-16 |
 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-03-09 |  |
@@ -374,7 +375,7 @@
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-06 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0MfK7lsLUvMq2CURkt61uF) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet \[Rudy Van Gelder edition\] \(Remastered\)](https://open.spotify.com/album/4klctF4THHFlLLTZGpa4D2) | 6:00 | 2022-04-14 | 2022-07-29 |
 | [My Funny Valentine \- Rudy Van Gelder Remaster 2007](https://open.spotify.com/track/5FYgwqjjq9kPCMj8yArfTr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 5:58 | 2022-06-30 | 2022-09-30 |
-| [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 |  |
+| [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 | 2023-04-09 |
 | [My Heart Is For You](https://open.spotify.com/track/3u6fXPiITVsTNolEqapeBU) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:39 | 2022-04-14 | 2022-07-29 |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-08 |  |
 | [My Ideal](https://open.spotify.com/track/0DEnkUHQ2ORI84fIwRCJYD) | [Solomon Rogers Band](https://open.spotify.com/artist/2k7YvEJ606E7fTWeKdINv8) | [My Ideal](https://open.spotify.com/album/4XybR9h4pjJZ2GHXKlVcjb) | 4:35 | 2022-04-14 | 2022-06-09 |

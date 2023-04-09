@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 64721,
+  "num_followers": 64880,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNjg2MiwwMDAwMDAwMDE2YTI5OGQ3MWI2MmIzOTZkMmFjYmRkOTU4Y2Q2Mzcx",
+  "snapshot_id": "MTY3NDgzNjg2MiwwMDAwMDAwMDY1MTVlMGY5ODkyMzM0ZWY4MDIwYmFkOWMwMGI1Y2U1",
   "tracks": [
     {
       "added_at": "2023-01-24 14:13:29",
@@ -583,21 +583,21 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Random Forest",
-        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
       },
       "artists": [
         {
-          "name": "Random Forest",
-          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
         }
       ],
-      "duration_ms": 327720,
-      "name": "Shadows Fall",
-      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
+      "duration_ms": 350228,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
     },
     {
-      "added_at": "2023-04-07 00:52:59",
+      "added_at": "2023-04-09 01:33:54",
       "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
+        "name": "Random Forest",
+        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
       },
       "artists": [
         {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+          "name": "Random Forest",
+          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
         }
       ],
-      "duration_ms": 350228,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
+      "duration_ms": 327720,
+      "name": "Shadows Fall",
+      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
-      "added_at": "2023-04-07 00:52:59",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
-    },
-    {
       "added_at": "2023-01-24 14:13:29",
       "album": {
         "name": "sleepmakeswaves",
@@ -791,6 +775,22 @@
       "duration_ms": 290453,
       "name": "It's Dark, It's Cold, It's Winter",
       "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
+    },
+    {
+      "added_at": "2023-04-09 01:33:54",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "In Gardens",
         "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 323395,
       "name": "In Gardens",
       "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
         }
       ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1135,22 +1151,6 @@
       "duration_ms": 254000,
       "name": "Keep The Orange Sun",
       "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Leaking Light",
-        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
-      },
-      "artists": [
-        {
-          "name": "Lachlan R. Dale",
-          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Leaking Light",
-      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+        "name": "Leaking Light",
+        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Lachlan R. Dale",
+          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+      "duration_ms": 174133,
+      "name": "Leaking Light",
+      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1251,6 +1235,22 @@
       "duration_ms": 229333,
       "name": "Those Winter Sundays",
       "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "I Wonder As I Wander",
         "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 136846,
       "name": "I Wonder As I Wander",
       "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
-      },
-      "artists": [
-        {
-          "name": "Sleepsleeprepeat",
-          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "10",
-      "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
+      },
+      "artists": [
+        {
+          "name": "Sleepsleeprepeat",
+          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "10",
+      "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
@@ -1455,38 +1471,34 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4AiU1Zx8RwfwrQvgblweFy"
       },
       "artists": [
         {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+          "name": "Aatom",
+          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
         }
       ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+      "duration_ms": 246660,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1"
     },
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV"
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
       },
       "artists": [
         {
-          "name": "Sleepsleeprepeat",
-          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
-        },
-        {
-          "name": "Perry Frank",
-          "url": "https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN"
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
         }
       ],
-      "duration_ms": 262285,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1507,18 +1519,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4AiU1Zx8RwfwrQvgblweFy"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV"
       },
       "artists": [
         {
-          "name": "Aatom",
-          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
+          "name": "Sleepsleeprepeat",
+          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
+        },
+        {
+          "name": "Perry Frank",
+          "url": "https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN"
         }
       ],
-      "duration_ms": 246660,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1"
+      "duration_ms": 262285,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
+        "name": "Floating Above Saturn",
+        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
       },
       "artists": [
         {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
+          "name": "Framed By Stars",
+          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
+      "duration_ms": 137986,
+      "name": "Floating Above Saturn",
+      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
-        "name": "Floating Above Saturn",
-        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
-      },
-      "artists": [
-        {
-          "name": "Framed By Stars",
-          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "Floating Above Saturn",
-      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
       "artists": [
         {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
         }
       ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1671,6 +1655,22 @@
       "duration_ms": 265000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     }
   ],
   "unique_name": "Ambient Post-Rock",

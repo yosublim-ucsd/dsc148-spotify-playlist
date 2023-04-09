@@ -4068,7 +4068,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 191615,
       "name": "Mapa de Estrelas",
       "url": "https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z"
@@ -5014,6 +5014,28 @@
       "duration_ms": 202638,
       "name": "N\u00e3o Identificado",
       "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Quero Mais Sofrer",
+        "url": "https://open.spotify.com/album/7janZyo1nG420VQ5iuw0Sj"
+      },
+      "artists": [
+        {
+          "name": "Vera de Maria Maga",
+          "url": "https://open.spotify.com/artist/1k2UbkaWtgMewasPQqNmcB"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152286,
+      "name": "N\u00e3o Quero Mais Sofrer",
+      "url": "https://open.spotify.com/track/1OI7eRWsHf78yq78dcfPE0"
     },
     {
       "album": {

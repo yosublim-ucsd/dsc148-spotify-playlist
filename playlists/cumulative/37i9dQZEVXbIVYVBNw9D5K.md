@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-635 songs - 1 day 8 hr 5 min
+636 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-02 | 2022-11-24 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-31 | 2023-01-16 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-05 | 2021-12-07 |
-| [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-04-01 |  |
+| [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-04-01 | 2023-04-09 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-03 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-08-15 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2021-10-30 |
@@ -472,6 +472,7 @@
 | [Peygamber Sabrı](https://open.spotify.com/track/3GFRJgMAPKeYJ717UeB0zp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:11 | 2021-05-30 | 2021-06-01 |
 | [Peşimde](https://open.spotify.com/track/5G5CKxNBvl6FRqNdVnmJUC) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Peşimde](https://open.spotify.com/album/5FAaYhLsDUf4zlwd2kWcHm) | 2:56 | 2021-03-27\* | 2021-05-05 |
 | [Peşimde Kara Geceler](https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Peşimde Kara Geceler](https://open.spotify.com/album/2o7SQ9Prx0iwQy73EZxaPT) | 3:05 | 2021-03-27 | 2021-04-04 |
+| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-08 |  |
 | [PHONK \(200mg\)](https://open.spotify.com/track/5L94pS0Z0qHqtVZtHbHXAb) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/6vlN46Kthwc4kvnFSoYudm) | 1:44 | 2023-04-01 | 2023-04-03 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-03 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-18 | 2022-09-20 |

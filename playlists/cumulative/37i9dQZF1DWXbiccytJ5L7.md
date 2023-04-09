@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-69 songs - 3 hr 55 min
+70 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 | 2023-03-17 |  |
 | [Forgive Me](https://open.spotify.com/track/2mBnRpo3EECA5UB24qU2AS) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:31 | 2023-03-17 |  |
 | [Good Times Roll](https://open.spotify.com/track/6iP3HRpbWj0iPd8gTSQgCn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 2:38 | 2023-03-17 |  |
+| [Heartland](https://open.spotify.com/track/0ZUs7kSj4AykrEwCBNiIAF) | [KillWill](https://open.spotify.com/artist/0y8l3VxQbtzQRplAjSPAOd), [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Heartland](https://open.spotify.com/album/1AkNJ6AxARKT5KlI4lPGcl) | 3:38 | 2023-04-07 |  |
 | [Hey Boy, Hey Girl](https://open.spotify.com/track/47f6eZgviwSZciXGv2iWYg) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Hey Boy, Hey Girl](https://open.spotify.com/album/4YemyQre4YNNvLLM3huRrN) | 3:20 | 2023-03-17 |  |
 | [Hick Hop Thang \(feat\. Jawga Boyz\)](https://open.spotify.com/track/7BQtrNgI3DoitGB1IE8gI9) | [Tennessee Shine](https://open.spotify.com/artist/2EMzEaCYBoIXBSAdyryi4l), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Tennessee Shine](https://open.spotify.com/album/4smxfavZtbma0XLdYiiMA0) | 3:57 | 2023-03-17 |  |
 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 | 2023-03-17 |  |

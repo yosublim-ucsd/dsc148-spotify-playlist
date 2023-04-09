@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: DURDN
 
-369 songs - 23 hr 31 min
+370 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2023-01-12 | 2023-01-25 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2023-01-12 | 2023-01-18 |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
-| [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 | 2023-04-05 |
+| [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 |  |
 | [BAUMKUCHEN](https://open.spotify.com/track/0Z2XB27naetMS2GOgXrE3f) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [BAUMKUCHEN](https://open.spotify.com/album/3dlOhyY45XqTWY208giI3T) | 4:25 | 2023-03-07 | 2023-03-29 |
 | [BEATING UP MYSELF](https://open.spotify.com/track/2ugohDT7qduGWCq6EYUjzQ) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [BEATING UP MYSELF](https://open.spotify.com/album/10uSUm4kURSuzZX7sO0YkL) | 3:02 | 2023-02-14 | 2023-03-01 |
 | [betbetbet](https://open.spotify.com/track/66FGcPvltgvvSr9x5NPSBG) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [betbetbet](https://open.spotify.com/album/2r4ejJEoty0NyQdfIhl7WM) | 3:37 | 2023-01-12 | 2023-02-01 |
@@ -77,7 +77,7 @@
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-04-06 |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-03 | 2023-03-29 |
 | [garden.](https://open.spotify.com/track/3FQGrW0IsZ0HKewjwq8bgQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER I: MEMENTO MOLLY](https://open.spotify.com/album/6D3UFoo05uS97YwuW8En48) | 3:35 | 2023-03-30 |  |
-| [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 |  |
+| [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-04-09 |
 | [Ghostyard](https://open.spotify.com/track/3oLqV1WFo9YqBKiOzEFUn9) | [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [Ghostyard](https://open.spotify.com/album/7r64o5DHZdPqhf2FoYTT5C) | 3:39 | 2023-01-17 | 2023-01-25 |
 | [GPS](https://open.spotify.com/track/07p84hBZV8ViWuSLXtCvfF) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [GPS](https://open.spotify.com/album/4HNInw0g44IblsgpOAXZVm) | 4:01 | 2023-01-24 | 2023-02-15 |
 | [Graduate?](https://open.spotify.com/track/3WpSjOiEzXGH6uhXGiPf5P) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [IN NEUTRAL](https://open.spotify.com/album/3DuyCMdGyXiNFVveVfgten) | 4:00 | 2023-01-12 | 2023-01-25 |
@@ -100,6 +100,7 @@
 | [Honey and Mustard](https://open.spotify.com/track/56RSWyXUBbBhJ6uveNOzkV) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [Honey and Mustard](https://open.spotify.com/album/4y7iJG3nWln6sBgcqwSO3s) | 1:56 | 2023-01-31 | 2023-02-22 |
 | [Hot Gimmick](https://open.spotify.com/track/6I7PdCUX6AdQi3twS3U2YF) | [letniy](https://open.spotify.com/artist/7h8q9EMQmWuU6Ma2My4PPr) | [Hot Gimmick](https://open.spotify.com/album/1x1DfVPxo1CP5P2g4oNcmb) | 3:27 | 2023-03-16 | 2023-03-29 |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2023-01-12 | 2023-01-27 |
+| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 |  |
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 |  |
 | [HURRY UP!!!](https://open.spotify.com/track/6aO0KMUSHdlz5wnq7qgXlW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/65GDZ705N3kG0ZFSosu8W1) | 2:06 | 2023-03-14 | 2023-03-29 |
 | [I go wiv da wind](https://open.spotify.com/track/5hyMLmkaFmd628J2DPfRpH) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [I go wiv da wind](https://open.spotify.com/album/5135A6GVHzDSxUH13Z24u0) | 2:21 | 2023-03-30 |  |
@@ -374,7 +375,7 @@
 | [都合](https://open.spotify.com/track/3hEopKpyeGAf9CoaAAU6D8) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [都合](https://open.spotify.com/album/7IZ3zDRZLZQljv701eNySG) | 4:30 | 2023-01-12 | 2023-01-18 |
 | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/track/1kiDe0vgBTCTUy26X8bKDj) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/album/1P9KiA8V5mnVYRHmtOA8Fy) | 6:21 | 2023-03-30 |  |
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-03-08 |
-| [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 |  |
+| [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-12 | 2023-02-01 |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
 

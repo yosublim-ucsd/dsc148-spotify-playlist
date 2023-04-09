@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-518 songs - 1 day 5 hr 16 min
+520 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Belmont Park](https://open.spotify.com/track/4qSDDMj8hSkjSMEybf3jdX) | [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Belmont Park](https://open.spotify.com/album/63ugzV8wka0qYk5oDp4uNe) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Benadryl](https://open.spotify.com/track/0qyt9rdN0bxh3NWa6NBc9o) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:16 | 2020-10-13\* | 2021-07-17 |
 | [Better In My Head](https://open.spotify.com/track/3jJdf5jT0HOXcWlRkjHe52) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Better In My Head](https://open.spotify.com/album/4b8PewXDOnVY5V9QxlOvOd) | 3:21 | 2021-06-26 | 2021-07-10 |
+| [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-07 |  |
 | [Better Not \(with Wafia\)](https://open.spotify.com/track/7n1940b6kHcaEewFSZXnXa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:42 | 2021-06-19 | 2021-12-24 |
 | [Better with You](https://open.spotify.com/track/7s2YoloTmfNK5udUDsv00O) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Better with You](https://open.spotify.com/album/4s5Vpl9QhDE28pRbO5EZSa) | 3:04 | 2022-03-11 | 2022-07-29 |
 | [betty](https://open.spotify.com/track/3IhtE4fkytdrtEfV34UzkD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:54 | 2021-09-25 | 2022-01-01 |
@@ -103,7 +104,7 @@
 | [CORDUROY](https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [hello TRINITY](https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh) | 3:11 | 2021-11-20 | 2022-02-12 |
 | [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [count on](https://open.spotify.com/track/1A4tabNlyLKLOHQW2XpjaU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Colin](https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu) | [count on](https://open.spotify.com/album/3Crvq8uqSTfvnn4IbIzAHY) | 3:26 | 2020-10-13\* | 2021-12-04 |
-| [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 | 2023-03-10 |  |
+| [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 | 2023-03-10 | 2023-04-09 |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2020-11-18 | 2021-11-20 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-10-14 | 2022-12-10 |
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 | 2023-03-02 |
@@ -245,7 +246,7 @@
 | [I'm A Believer](https://open.spotify.com/track/2nh8erBozDNU7vOEnmWsS7) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [I'm A Believer](https://open.spotify.com/album/4r9DrMEpm9ixgaxFhZH0YS) | 2:26 | 2021-11-27 | 2022-04-17 |
 | [I'm baby](https://open.spotify.com/track/5B6CTjpy80qbhMPD2lAwrD) | [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [I'm baby](https://open.spotify.com/album/3Cp8AH2uQwHH5pRdMdSaBU) | 2:40 | 2022-12-02 | 2023-01-21 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-10-28 |  |
-| [ICARUS](https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [ICARUS](https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL) | 2:35 | 2022-07-15 |  |
+| [ICARUS](https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [ICARUS](https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL) | 2:35 | 2022-07-15 | 2023-04-09 |
 | [If I Hated You](https://open.spotify.com/track/5YQ0CPa9i7g40fzkDJK3Vo) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES](https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla) | 3:33 | 2021-07-17 | 2022-04-17 |
 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 | 2020-10-13\* | 2021-02-19 |
 | [If You Wanna](https://open.spotify.com/track/3D5CGC9eFoSZuBn2h8DvMf) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Drowning in My Thoughts](https://open.spotify.com/album/3sWmFUtZwevRu4ABXSOlVR) | 2:19 | 2021-07-04 | 2022-01-22 |
@@ -358,6 +359,7 @@
 | [passionfruit](https://open.spotify.com/track/7lW2HbFRh65PMz82J7mPnb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/1haNHfsOFIrDKDFYr0pbsy) | 4:34 | 2020-10-13\* | 2020-11-18 |
 | [Patterns](https://open.spotify.com/track/5Wok14DtMdF9y57EnofNWO) | [Conventioner](https://open.spotify.com/artist/2DdKYZ2hIsoUTUV54Q0k1y) | [Patterns](https://open.spotify.com/album/2B4T4FLP3NgcdoPOCOk5hx) | 2:53 | 2021-07-04 | 2022-02-26 |
 | [Phases](https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases](https://open.spotify.com/album/4q983qnYbzKzO8ulICPKgm) | 3:35 | 2021-07-10 | 2021-09-11 |
+| [Piece of Art](https://open.spotify.com/track/48igULTT3gZFYS1FOxCQQ6) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/4EFSsesDCNX5l1EalI2mRS) | 4:04 | 2023-04-07 |  |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-06-24 |  |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2021-07-04 | 2021-08-10 |
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 | 2023-01-04 |
@@ -396,7 +398,7 @@
 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 | 2021-09-12 | 2022-04-17 |
 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 | 2021-11-06 | 2022-04-17 |
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2021-10-23 | 2022-04-17 |
-| [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 | 2022-12-28 | 2023-04-02 |
+| [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 | 2022-12-28 |  |
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-12-01 |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-09-25 | 2022-01-29 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-09-23 | 2022-10-08 |
@@ -487,7 +489,7 @@
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-11-11 | 2023-01-28 |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13\* | 2021-11-20 |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-11 | 2022-04-21 |
-| [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-02-19 |  |
+| [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-02-19 | 2023-04-09 |
 | [Universe](https://open.spotify.com/track/6g4tLLDSCsZiuPQCYggQ0X) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Universe](https://open.spotify.com/album/6NHTTGRUitvFNPC55j97jj) | 3:48 | 2023-03-10 | 2023-03-18 |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |
 | [VERDE MENTA](https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:08 | 2023-02-03 |  |

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-113 songs - 5 hr 11 min
+114 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-01-13 |  |
 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 |  |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-01-12 |  |
+| [Kind Of Blue In Green](https://open.spotify.com/track/5McZisEwv6FzvGSh0PM77K) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [Kind Of Blue In Green](https://open.spotify.com/album/1U1Zp9IDjrqrpo00IT9MVH) | 2:38 | 2023-03-28 |  |
 | [L'Autofilteur](https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [L'Autofilteur](https://open.spotify.com/album/4tWicAtKzwy8kQcbc7C3Ay) | 3:31 | 2023-01-12 | 2023-04-02 |
 | [Lavanta](https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [When Every Leaf Is A Flower](https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ) | 2:03 | 2023-01-12 |  |
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2023-01-12 | 2023-03-15 |
@@ -112,7 +113,7 @@
 | [Too Much](https://open.spotify.com/track/36X8j52PvjhJztIGopCjIJ) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Thursday](https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF) | 2:17 | 2023-01-12 |  |
 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 | 2023-01-12 | 2023-03-25 |
 | [Truly Another Classic](https://open.spotify.com/track/4Cesp17kIKOhUwQnqzdbG6) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:33 | 2023-01-12 |  |
-| [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 | 2023-01-12 |  |
+| [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 | 2023-01-12 | 2023-04-09 |
 | [VA Noir](https://open.spotify.com/track/3qa5y1yALHkSU3i698pici) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 1:45 | 2023-01-12 |  |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-01-12 |  |
 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 | 2023-01-12 |  |

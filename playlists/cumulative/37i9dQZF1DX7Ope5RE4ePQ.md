@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-80 songs - 6 hr 5 min
+81 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [DANCE: I\. when you're broken open](https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [Inbal Segev](https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Anna Clyne: DANCE \- Edward Elgar: Cello Concerto](https://open.spotify.com/album/2dDYUzvLOjEXbQh0i9i1p4) | 4:44 | 2022-07-05 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-04-01 | 2022-10-05 |
 | [Danse Macabre, Op\. 40, R.171](https://open.spotify.com/track/4PRnYCH5hoxypKVcOBvx3a) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Andrew Wan](https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 7:22 | 2022-04-01 |  |
+| [Elizabeth II \(arr\. piano\)](https://open.spotify.com/track/418Pod9FdQVI9DjlaG7DuK) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/album/4SNHCGNCX1JCDgRc8vXMrR) | 2:19 | 2023-04-07 |  |
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-04-01 |  |
 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 | 2022-04-01 |  |
 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2022-04-01 |  |

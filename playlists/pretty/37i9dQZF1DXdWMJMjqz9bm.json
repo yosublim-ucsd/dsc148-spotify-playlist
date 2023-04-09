@@ -1,29 +1,13 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Felly",
-  "num_followers": 189888,
+  "num_followers": 189992,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDcyMDA0NCwwMDAwMDAwMGU2Y2U4NDUxNmE1MDA2NjU1ODNlMGI2OTZkZjA5ZWY3",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGQ1NWMyMGYwMTM3Y2MzNmU4NjJlN2Y5ODRmNGU1NTQw",
   "tracks": [
-    {
-      "added_at": "2023-04-05 18:40:44",
-      "album": {
-        "name": "woosah",
-        "url": "https://open.spotify.com/album/4l7AZRHP009foD9OjeOiQn"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 162640,
-      "name": "woosah",
-      "url": "https://open.spotify.com/track/2pDJMENPO7ECZJTWBx29vg"
-    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
@@ -45,10 +29,42 @@
       "url": "https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-04-05 18:40:44",
       "album": {
-        "name": "Not A Beanie",
-        "url": "https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v"
+        "name": "woosah",
+        "url": "https://open.spotify.com/album/4l7AZRHP009foD9OjeOiQn"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 162640,
+      "name": "woosah",
+      "url": "https://open.spotify.com/track/2pDJMENPO7ECZJTWBx29vg"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Adeline",
+        "url": "https://open.spotify.com/album/35YQgaw6o5f2tjJH7GoIRk"
+      },
+      "artists": [
+        {
+          "name": "Brennan",
+          "url": "https://open.spotify.com/artist/7oHCZXKjXXta7qCFc0BAIX"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/4jb639rOE1s5Ov8bTEUiiT"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
       },
       "artists": [
         {
@@ -56,13 +72,65 @@
           "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         },
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
         }
       ],
-      "duration_ms": 136783,
-      "name": "Not A Beanie",
-      "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
+      "duration_ms": 129000,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "pretty little lies",
+        "url": "https://open.spotify.com/album/6xp6dC4sMedMlPOrDa5z0F"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "duration_ms": 116957,
+      "name": "pretty little lies",
+      "url": "https://open.spotify.com/track/2b7T5ppABd36WyFQQXyix4"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "fvcked up",
+        "url": "https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "fvcked up",
+      "url": "https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 264473,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
     },
     {
       "added_at": "2023-04-04 13:32:19",
@@ -79,6 +147,26 @@
       "duration_ms": 160676,
       "name": "OUT OF MY MIND",
       "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "INTENTION",
+        "url": "https://open.spotify.com/album/3WekRkctnb3QRPomnKFG3K"
+      },
+      "artists": [
+        {
+          "name": "Watsky",
+          "url": "https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi"
+        },
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "duration_ms": 200196,
+      "name": "YOUNG RUETTIGER (I DO WHAT I WANT)",
+      "url": "https://open.spotify.com/track/46BkJ2O37x5Tg8BjjYVcMj"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -113,10 +201,10 @@
       "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
+        "name": "Not A Beanie",
+        "url": "https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v"
       },
       "artists": [
         {
@@ -124,17 +212,13 @@
           "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         },
         {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
+      "duration_ms": 136783,
+      "name": "Not A Beanie",
+      "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
     },
     {
       "added_at": "2023-04-04 13:32:19",
@@ -169,22 +253,6 @@
       "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "pretty little lies",
-        "url": "https://open.spotify.com/album/6xp6dC4sMedMlPOrDa5z0F"
-      },
-      "artists": [
-        {
-          "name": "Drod",
-          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
-        }
-      ],
-      "duration_ms": 116957,
-      "name": "pretty little lies",
-      "url": "https://open.spotify.com/track/2b7T5ppABd36WyFQQXyix4"
-    },
-    {
       "added_at": "2023-04-04 13:41:51",
       "album": {
         "name": "You Say",
@@ -199,6 +267,26 @@
       "duration_ms": 224250,
       "name": "You Say",
       "url": "https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "ESCAPISM",
+        "url": "https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p"
+      },
+      "artists": [
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 221797,
+      "name": "Westside Story (with Duckwrth)",
+      "url": "https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -301,24 +389,20 @@
       "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "ILYSM",
-        "url": "https://open.spotify.com/album/3MnWd2qQ1TnZ7eJx80LQRY"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0xJXXwBEoMSWowPIs3iGIm"
       },
       "artists": [
         {
-          "name": "The Adoni",
-          "url": "https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK"
-        },
-        {
-          "name": "Pell",
-          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 151000,
-      "name": "ILYSM",
-      "url": "https://open.spotify.com/track/6g5YTzEAhClnTivb4x6iBR"
+      "duration_ms": 172235,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/3OO9piUhjFmPRlKv4AM7sl"
     },
     {
       "added_at": "2023-04-04 18:57:38",
@@ -335,22 +419,6 @@
       "duration_ms": 144457,
       "name": "deep end",
       "url": "https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "age tape 8",
-        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "mr. sunshine",
-      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -393,6 +461,22 @@
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "miranda!",
+        "url": "https://open.spotify.com/album/1pC6umMKhr0BrOtJT8QxG2"
+      },
+      "artists": [
+        {
+          "name": "Buppy.",
+          "url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4"
+        }
+      ],
+      "duration_ms": 139994,
+      "name": "miranda!",
+      "url": "https://open.spotify.com/track/3uG9TIm5RSa04lKkPvb4wu"
+    },
+    {
       "added_at": "2023-04-04 13:32:19",
       "album": {
         "name": "Black & Blue",
@@ -425,62 +509,6 @@
       "url": "https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "PISCES",
-        "url": "https://open.spotify.com/album/3gVEWxtcGekeJpW7uG31bG"
-      },
-      "artists": [
-        {
-          "name": "Mason Dane",
-          "url": "https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "PISCES",
-      "url": "https://open.spotify.com/track/0s5kJR8k8ZmsHRMnk61APm"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "DON'T GO",
-        "url": "https://open.spotify.com/album/3tOS1tlJPl6F539lKeslAq"
-      },
-      "artists": [
-        {
-          "name": "Kayps",
-          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
-        },
-        {
-          "name": "Calvin Bennett",
-          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
-        }
-      ],
-      "duration_ms": 118073,
-      "name": "DON'T GO",
-      "url": "https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL"
-    },
-    {
-      "added_at": "2023-04-04 13:32:19",
-      "album": {
-        "name": "PURPLE RAG PRINCE",
-        "url": "https://open.spotify.com/album/1DEKTyc3STPJG5MFXUOKPR"
-      },
-      "artists": [
-        {
-          "name": "Baby Prince",
-          "url": "https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d"
-        },
-        {
-          "name": "Kedus",
-          "url": "https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx"
-        }
-      ],
-      "duration_ms": 139009,
-      "name": "ISSUES",
-      "url": "https://open.spotify.com/track/10wnomX77L0VjAl0rTZWZA"
-    },
-    {
       "added_at": "2023-03-17 18:35:13",
       "album": {
         "name": "FREAK",
@@ -495,6 +523,22 @@
       "duration_ms": 178536,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/1ruk2OKHi2tmcEPtUvnAt8"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Over Love",
+        "url": "https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU"
+      },
+      "artists": [
+        {
+          "name": "Jay Kayze",
+          "url": "https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj"
+        }
+      ],
+      "duration_ms": 82142,
+      "name": "Over Love",
+      "url": "https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -621,22 +665,6 @@
       "url": "https://open.spotify.com/track/5rLKasnwdMsum1BOb5t3In"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "HOPE",
-      "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "on life",
@@ -651,22 +679,6 @@
       "duration_ms": 132260,
       "name": "on life",
       "url": "https://open.spotify.com/track/2p3bubd7FHs1XN4tiasCqJ"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Low AF",
-        "url": "https://open.spotify.com/album/6GqrcES0T5SRFUMQIFlW6R"
-      },
-      "artists": [
-        {
-          "name": "Olen",
-          "url": "https://open.spotify.com/artist/0m34JtkojthW5WYugFm0e3"
-        }
-      ],
-      "duration_ms": 164354,
-      "name": "Low AF",
-      "url": "https://open.spotify.com/track/444aQGmahNP5O87IGAEAYi"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -719,22 +731,6 @@
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "slow",
-        "url": "https://open.spotify.com/album/4xbP5uCoRcocDrvZujOm7Y"
-      },
-      "artists": [
-        {
-          "name": "Drod",
-          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
-        }
-      ],
-      "duration_ms": 112220,
-      "name": "slow",
-      "url": "https://open.spotify.com/track/0OsBYGVkUv8htOal8W5Wiw"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
         "name": "Pretty Ones",
         "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
       },
@@ -783,22 +779,6 @@
       "duration_ms": 158120,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/3obnp1i01eTrrU816HOfxx"
-    },
-    {
-      "added_at": "2023-02-09 23:39:32",
-      "album": {
-        "name": "LOOKING FOR A REASON",
-        "url": "https://open.spotify.com/album/5tmVKEjXtSHFG6rgnttSCp"
-      },
-      "artists": [
-        {
-          "name": "MO",
-          "url": "https://open.spotify.com/artist/1m2fmnsuy3S4Hnay7C5O8D"
-        }
-      ],
-      "duration_ms": 99841,
-      "name": "LOOKING FOR A REASON",
-      "url": "https://open.spotify.com/track/6T2XnrZJX141DhJdOWFQuM"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -923,22 +903,6 @@
       "duration_ms": 182382,
       "name": "Tripping Over Air",
       "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Every Season",
-        "url": "https://open.spotify.com/album/3SdqNIbAVIDXSyBd3Igkon"
-      },
-      "artists": [
-        {
-          "name": "Ferris",
-          "url": "https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r"
-        }
-      ],
-      "duration_ms": 161436,
-      "name": "Every Season",
-      "url": "https://open.spotify.com/track/0Z1RYues9se6bzT0Fnaptb"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1109,22 +1073,6 @@
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Up In Smoke",
-        "url": "https://open.spotify.com/album/6pPfoz3LLLSefNhlsutlFq"
-      },
-      "artists": [
-        {
-          "name": "Nate Good",
-          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Up In Smoke",
-      "url": "https://open.spotify.com/track/0F5snJXMeqXbS4bBfFk7dG"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Moonrock",
@@ -1171,22 +1119,6 @@
       "duration_ms": 153926,
       "name": "villains",
       "url": "https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "3 Feet Tall",
-        "url": "https://open.spotify.com/album/06ASZgUX18vrOFKMXOtHzs"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 141594,
-      "name": "3 Feet Tall",
-      "url": "https://open.spotify.com/track/3B1G2NmxLSvSygfcGmBkq4"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1259,22 +1191,6 @@
       "duration_ms": 168180,
       "name": "Miss You a Little (feat. lovelytheband)",
       "url": "https://open.spotify.com/track/2tijppLc0gaWA2AfPDANvq"
-    },
-    {
-      "added_at": "2022-12-16 15:39:03",
-      "album": {
-        "name": "AdaLINE",
-        "url": "https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1"
-      },
-      "artists": [
-        {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
-        }
-      ],
-      "duration_ms": 165791,
-      "name": "AdaLINE",
-      "url": "https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1445,22 +1361,6 @@
       "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
     },
     {
-      "added_at": "2022-10-14 18:20:32",
-      "album": {
-        "name": "age tape 9",
-        "url": "https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 126739,
-      "name": "careless",
-      "url": "https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA"
-    },
-    {
       "added_at": "2022-09-30 05:34:00",
       "album": {
         "name": "numb (feat. blackbear)",
@@ -1479,22 +1379,6 @@
       "duration_ms": 177729,
       "name": "numb (feat. blackbear)",
       "url": "https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU"
-    },
-    {
-      "added_at": "2022-11-25 06:40:00",
-      "album": {
-        "name": "She Loves Me Not",
-        "url": "https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o"
-      },
-      "artists": [
-        {
-          "name": "Olmos",
-          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "She Loves Me Not",
-      "url": "https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1595,22 +1479,6 @@
       "duration_ms": 171844,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r"
-    },
-    {
-      "added_at": "2023-01-06 16:15:54",
-      "album": {
-        "name": "nice guy",
-        "url": "https://open.spotify.com/album/2LA2ow50W3Mr7Egc9qB03j"
-      },
-      "artists": [
-        {
-          "name": "Drod",
-          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
-        }
-      ],
-      "duration_ms": 110177,
-      "name": "nice guy",
-      "url": "https://open.spotify.com/track/1gWsvjLZDr32EE7PDAMCzF"
     },
     {
       "added_at": "2023-01-13 05:00:00",

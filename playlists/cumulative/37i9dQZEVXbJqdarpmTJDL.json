@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 182727,
       "name": "Apothimeno",
       "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
@@ -3313,6 +3313,28 @@
     },
     {
       "album": {
+        "name": "MEMENTO",
+        "url": "https://open.spotify.com/album/7At9VaYb02avtIUtQeIOZS"
+      },
+      "artists": [
+        {
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144950,
+      "name": "BOUNCY",
+      "url": "https://open.spotify.com/track/1o4EITAp7a7zGUO2zNZVxN"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -4434,7 +4456,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -6032,6 +6054,32 @@
       "duration_ms": 184015,
       "name": "Eipes Tha Figeis",
       "url": "https://open.spotify.com/track/1Fb2MdKgC5IYdinvP3RHp2"
+    },
+    {
+      "album": {
+        "name": "Street Business",
+        "url": "https://open.spotify.com/album/51zVTRP9si2TiCxjQXomIL"
+      },
+      "artists": [
+        {
+          "name": "Buzz",
+          "url": "https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Reddy A",
+          "url": "https://open.spotify.com/artist/75QGJWUR1GaWNKYNTxmciu"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Ekeina Ta Meri",
+      "url": "https://open.spotify.com/track/5pKkx2psY8nq3dHukJaakC"
     },
     {
       "album": {
@@ -9842,6 +9890,24 @@
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
+        "name": "MEMENTO",
+        "url": "https://open.spotify.com/album/7At9VaYb02avtIUtQeIOZS"
+      },
+      "artists": [
+        {
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "JACOB & CO",
+      "url": "https://open.spotify.com/track/0fgJM8xRHf33hR98YqYAEC"
     },
     {
       "album": {
@@ -16340,7 +16406,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 211862,
       "name": "PATITI",
       "url": "https://open.spotify.com/track/7bLtwKjbRujiAaEyTZ6YvT"
@@ -19643,6 +19709,28 @@
     },
     {
       "album": {
+        "name": "Strippers",
+        "url": "https://open.spotify.com/album/2xXJ2jo6EKnvHCxe8Cgeeh"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214344,
+      "name": "Strippers",
+      "url": "https://open.spotify.com/track/21XpNalPqaFWQD0SwpIH8S"
+    },
+    {
+      "album": {
         "name": "STUDIO",
         "url": "https://open.spotify.com/album/5vcn2sepkT73D9PsAEUWWY"
       },
@@ -20750,7 +20838,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 148677,
       "name": "Tn",
       "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"

@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 178545,
       "name": "Aino",
       "url": "https://open.spotify.com/track/08Y12A4mwKiGIOvap0hHPH"
@@ -858,6 +858,28 @@
       "duration_ms": 183206,
       "name": "Aktiverad (feat. Turisti, DAVI & Nebi) - Remix",
       "url": "https://open.spotify.com/track/7jWTlHrI7yiqOrXekfVPW2"
+    },
+    {
+      "album": {
+        "name": "ALAX? (feat. Pihlaja)",
+        "url": "https://open.spotify.com/album/534DOVelj65TLLk0VgpkR9"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159473,
+      "name": "ALAX? - feat. Pihlaja",
+      "url": "https://open.spotify.com/track/7b5eGNsoccPe4bDgPBWE6d"
     },
     {
       "album": {
@@ -2546,7 +2568,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 195250,
       "name": "B\u00e4m\u00e4 (feat. william)",
       "url": "https://open.spotify.com/track/0Gv4pKOPGajSF63YDPqKjD"
@@ -4698,7 +4720,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 167186,
       "name": "Elokuva",
       "url": "https://open.spotify.com/track/5NXAczluksdeHJ2p5GBqLi"
@@ -4828,7 +4850,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 222578,
       "name": "El\u00e4m\u00e4n ABC",
       "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
@@ -5258,7 +5280,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 184237,
       "name": "Eteisvalssi",
       "url": "https://open.spotify.com/track/628LprEZ2tP24jrT3cAdvq"
@@ -7787,6 +7809,32 @@
     },
     {
       "album": {
+        "name": "HuOMiOO",
+        "url": "https://open.spotify.com/album/0w9d6WM4vrVomTrk6hZty0"
+      },
+      "artists": [
+        {
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202138,
+      "name": "HuOMiOO",
+      "url": "https://open.spotify.com/track/68YijaiOaZVDrvELVak9WI"
+    },
+    {
+      "album": {
         "name": "Huonoja ideoita",
         "url": "https://open.spotify.com/album/2MXIK3PbQJmCwaGjp9aHkF"
       },
@@ -8020,7 +8068,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 208831,
       "name": "Hyv\u00e4stej\u00e4 ihanasti",
       "url": "https://open.spotify.com/track/1ayyKmYL4VWj7i4vZ58BDc"
@@ -11679,6 +11727,24 @@
     },
     {
       "album": {
+        "name": "Kyl\u00e4 keskell\u00e4 ei mit\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/6FFheRjnjoMPgkGdk2ymmE"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "Kyl\u00e4 keskell\u00e4 ei mit\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/4cNo4LHRbuK73a6eclNXYY"
+    },
+    {
+      "album": {
         "name": "Kyl\u00e4baari",
         "url": "https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW"
       },
@@ -14687,6 +14753,24 @@
     },
     {
       "album": {
+        "name": "Min\u00e4-Min\u00e4-Maa",
+        "url": "https://open.spotify.com/album/4XulLj6PmQDA7jy3Jc1oYF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200711,
+      "name": "Min\u00e4-Min\u00e4-Maa",
+      "url": "https://open.spotify.com/track/5doe9RHjy2PP6yFzt1CFyo"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -14946,7 +15030,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -14968,7 +15052,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 153000,
       "name": "Molemmat itkee (feat. Turisti)",
       "url": "https://open.spotify.com/track/6AZT9J4lxwgVuvIiKjvlUN"
@@ -17138,7 +17222,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 140088,
       "name": "ORANSSI",
       "url": "https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp"
@@ -18770,7 +18854,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 179878,
       "name": "Ram pam pam",
       "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
@@ -24377,6 +24461,24 @@
     },
     {
       "album": {
+        "name": "Veronica",
+        "url": "https://open.spotify.com/album/2ICmTmHQ1FkzVQgp510Nzv"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132874,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/7sh5CvW4iq5lwA8EsvJN96"
+    },
+    {
+      "album": {
         "name": "Vett\u00e4 kaivoon (feat. Keko Salata)",
         "url": "https://open.spotify.com/album/5hSCHKSYM2IAesgi1Y8cpj"
       },
@@ -24708,7 +24810,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Villiel\u00e4in",
       "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"

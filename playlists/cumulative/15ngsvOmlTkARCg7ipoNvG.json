@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Beauty In Harmony Arr. For Strings",
+        "url": "https://open.spotify.com/album/4rjE8ru1B9BcJG4y6JIAw3"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61544,
+      "name": "Beauty In Harmony Arr. For Strings",
+      "url": "https://open.spotify.com/track/63AVTRQtf4jxrS3h4fDplw"
+    },
+    {
+      "album": {
         "name": "Beauty Reflected",
         "url": "https://open.spotify.com/album/2vvtOxnomqhdaxWQGah2cZ"
       },
@@ -2375,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Calmness",
+        "url": "https://open.spotify.com/album/69Tzmwn08RnnDb4USQx8BI"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60568,
+      "name": "Calmness - Cello Version",
+      "url": "https://open.spotify.com/track/0ciB5W1l6QG9jNwD5n8UJy"
+    },
+    {
+      "album": {
         "name": "Healing Times",
         "url": "https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7"
       },
@@ -2530,7 +2566,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 135000,
       "name": "Changes (re-imagined)",
       "url": "https://open.spotify.com/track/1orja2bGT2fNCR9JHR1gtf"
@@ -3149,6 +3185,42 @@
     },
     {
       "album": {
+        "name": "Dark Mornings",
+        "url": "https://open.spotify.com/album/633MF5WEebTP4154gbTUWP"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60816,
+      "name": "Dark Mornings Arr. For Cello",
+      "url": "https://open.spotify.com/track/7tl4et1TC7j5phqYFbDz0X"
+    },
+    {
+      "album": {
+        "name": "Dark Sunset Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/6DNieqoaWKj4XcNLKsvMxq"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60661,
+      "name": "Dark Sunset Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/4d126bJ6EjgBB0WYzFHjv0"
+    },
+    {
+      "album": {
         "name": "Modern Piano Lullabies, Vol. 2",
         "url": "https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp"
       },
@@ -3200,7 +3272,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 130357,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/3A1FNWevfj55tBXDrTHXD8"
@@ -3629,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Destinations",
+        "url": "https://open.spotify.com/album/257ur04WUgVoQuKYmI4LKe"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61166,
+      "name": "Destinations - Cello Version",
+      "url": "https://open.spotify.com/track/16osSUelNoOFvRAeU2BR3a"
+    },
+    {
+      "album": {
         "name": "Spaces To See",
         "url": "https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI"
       },
@@ -3921,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Dreaming In The Valley Arr. For Cello",
+        "url": "https://open.spotify.com/album/4ODJbnSDoRTYj5ShicNn1I"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61666,
+      "name": "Dreaming In The Valley Arr. For Cello",
+      "url": "https://open.spotify.com/track/28eNTRAkUiIUbdl8Sgrchv"
+    },
+    {
+      "album": {
         "name": "Wishful",
         "url": "https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l"
       },
@@ -4094,7 +4202,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 151458,
       "name": "Duende",
       "url": "https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau"
@@ -4440,7 +4548,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150431,
       "name": "Etiquette",
       "url": "https://open.spotify.com/track/0w5IxASdcsL3cm5hgdmZl0"
@@ -5456,7 +5564,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 186681,
       "name": "Folding Time",
       "url": "https://open.spotify.com/track/1rfLn5H06ihmjabPCk9mHR"
@@ -6183,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Gentle Sun",
+        "url": "https://open.spotify.com/album/3lc9JgTfUtCJOAqEuVw5cS"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60956,
+      "name": "Gentle Sun Arr. For Cello",
+      "url": "https://open.spotify.com/track/2egZdp3IXU8pNfo9uENF2r"
+    },
+    {
+      "album": {
         "name": "Being Peace",
         "url": "https://open.spotify.com/album/3mWPJ1zkSKPGtk31qnZNXG"
       },
@@ -6612,7 +6738,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 255716,
       "name": "Habitual Words",
       "url": "https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj"
@@ -6832,6 +6958,24 @@
       "duration_ms": 62834,
       "name": "Here For Us",
       "url": "https://open.spotify.com/track/7w9oE3swQE4jW4gN3VgQkG"
+    },
+    {
+      "album": {
+        "name": "Hiatus Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/0jzGZxfcmpznw5tucgc99F"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61267,
+      "name": "Hiatus Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/3iaqZSoiAmEWzxflLSTPEx"
     },
     {
       "album": {
@@ -7120,6 +7264,24 @@
       "duration_ms": 66081,
       "name": "Hope Is True",
       "url": "https://open.spotify.com/track/2YiNveOYT0UOl5wRzYPSsQ"
+    },
+    {
+      "album": {
+        "name": "Hope Together",
+        "url": "https://open.spotify.com/album/6rkocIimpyqAeyHVj2Du8t"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61526,
+      "name": "Hope Together",
+      "url": "https://open.spotify.com/track/15mcPR1p3hWTcjKTxHdXEy"
     },
     {
       "album": {
@@ -7480,6 +7642,24 @@
       "duration_ms": 71068,
       "name": "Iris Again",
       "url": "https://open.spotify.com/track/2v21IQuVQIBEYbW4vn6yRz"
+    },
+    {
+      "album": {
+        "name": "January Melody",
+        "url": "https://open.spotify.com/album/0vXU5TUY60rCoUg75Alqwn"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62463,
+      "name": "January - Cello Version",
+      "url": "https://open.spotify.com/track/1jyUZF5c3qDO0p8Rfb2aYR"
     },
     {
       "album": {
@@ -8405,6 +8585,42 @@
     },
     {
       "album": {
+        "name": "Memories, Vol. 2",
+        "url": "https://open.spotify.com/album/4fgMhnmLUlZCGbz9Eh1ECd"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60154,
+      "name": "Memories Are Faded",
+      "url": "https://open.spotify.com/track/4fQs6kLS2JpMSszHYA6iN5"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/6cBlCFP74GNlrHeafgT83k"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62450,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/3uOo8GWlN91OxIK6wOsrdz"
+    },
+    {
+      "album": {
         "name": "Mend",
         "url": "https://open.spotify.com/album/0thoeshRRPrCSqe0W0QF6P"
       },
@@ -8474,6 +8690,24 @@
       "duration_ms": 64205,
       "name": "Mercury River",
       "url": "https://open.spotify.com/track/3ksi9wUM9mO49PY2EcZe9t"
+    },
+    {
+      "album": {
+        "name": "Midnight Solitude",
+        "url": "https://open.spotify.com/album/0eZqlqjFa9hsnCYKdTYriQ"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61184,
+      "name": "Midnight Solitude Arr. For Cello",
+      "url": "https://open.spotify.com/track/1qkyzGNDvslAqr9Kz2dfaw"
     },
     {
       "album": {
@@ -8639,6 +8873,24 @@
     },
     {
       "album": {
+        "name": "Moon Song Revisited",
+        "url": "https://open.spotify.com/album/004ef7mcKbuk538CyRj9ml"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61948,
+      "name": "Moon Song Revisited",
+      "url": "https://open.spotify.com/track/6nPTBJ66syw2UZEypuxtGA"
+    },
+    {
+      "album": {
         "name": "Moonlight Echoes",
         "url": "https://open.spotify.com/album/0jMKVVOxTLjUcM2Ti6urpr"
       },
@@ -8650,7 +8902,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 171032,
       "name": "Moonlight Echoes",
       "url": "https://open.spotify.com/track/1R4jHCzDcxyadZxB0ZCZqg"
@@ -8708,6 +8960,24 @@
       "duration_ms": 204000,
       "name": "Morning Prayer",
       "url": "https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy"
+    },
+    {
+      "album": {
+        "name": "Constant Glow",
+        "url": "https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61142,
+      "name": "Much Appreciation",
+      "url": "https://open.spotify.com/track/6GrymcnkkdfZZhEOhEKu61"
     },
     {
       "album": {
@@ -9197,6 +9467,42 @@
     },
     {
       "album": {
+        "name": "Nostalgic Sentiment",
+        "url": "https://open.spotify.com/album/0NIObh3asX3qpX7tV2iVtO"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61163,
+      "name": "Nostalgic Sentiment - Cello Version",
+      "url": "https://open.spotify.com/track/4gXkD3j35mLyekvYU1lAT1"
+    },
+    {
+      "album": {
+        "name": "Nostalgic Sentiment",
+        "url": "https://open.spotify.com/album/0NIObh3asX3qpX7tV2iVtO"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61695,
+      "name": "Nostalgic Sentiment - Piano Version",
+      "url": "https://open.spotify.com/track/7BKWmDFoSkiLsl6U06Kqbf"
+    },
+    {
+      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/7rqa0u1lTDoT45FPqTYVfd"
       },
@@ -9248,7 +9554,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 171064,
       "name": "Nothing But You And I",
       "url": "https://open.spotify.com/track/0qy0m8Qx0GqJih9QVaGLUG"
@@ -9500,7 +9806,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 145758,
       "name": "Orlando's Bloom",
       "url": "https://open.spotify.com/track/2tf0u3pAmrKiJdjiDAtiDm"
@@ -10228,7 +10534,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 130474,
       "name": "Prayer for Peace",
       "url": "https://open.spotify.com/track/5vnPvPXYYxZd4mRyUjpIuS"
@@ -10574,7 +10880,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 167296,
       "name": "Reading The Clouds",
       "url": "https://open.spotify.com/track/6SvWKLeu59Vys0mYhYZ2cA"
@@ -10704,7 +11010,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 122812,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/5sOLvn5qtR7E2pEelQrPE3"
@@ -11287,6 +11593,24 @@
     },
     {
       "album": {
+        "name": "Rivers Flow",
+        "url": "https://open.spotify.com/album/4T1fij8tkq5WJfFeQTkDqj"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61510,
+      "name": "Rivers Flow",
+      "url": "https://open.spotify.com/track/6nD2yoVVGKocPg301QNkww"
+    },
+    {
+      "album": {
         "name": "Resting For Now",
         "url": "https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P"
       },
@@ -11323,6 +11647,24 @@
     },
     {
       "album": {
+        "name": "Ruby Glow",
+        "url": "https://open.spotify.com/album/1XLYy6X4QHhdujqhuRVFox"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61846,
+      "name": "Ruby Glow",
+      "url": "https://open.spotify.com/track/5jnpU3MtVe0ImFUlBb4XNa"
+    },
+    {
+      "album": {
         "name": "Running Fox Trail (Piano Version)",
         "url": "https://open.spotify.com/album/4XTbcl4B4wcyj9RKf7BssI"
       },
@@ -11338,7 +11680,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 149640,
       "name": "Running Fox Trail (Piano Version)",
       "url": "https://open.spotify.com/track/17WraCA0bTAAimzkqujIb2"
@@ -11482,7 +11824,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 135272,
       "name": "Saman",
       "url": "https://open.spotify.com/track/2ljwAMOpgxhX0961LmvIm7"
@@ -12119,6 +12461,24 @@
     },
     {
       "album": {
+        "name": "Simple Moments Again",
+        "url": "https://open.spotify.com/album/5a1ZCzHsGRfVhne8wBnrjO"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61424,
+      "name": "Simple Moments Again",
+      "url": "https://open.spotify.com/track/60pvDd7q9OycrZ2mfv1E1L"
+    },
+    {
+      "album": {
         "name": "Lullabies by the Seaside",
         "url": "https://open.spotify.com/album/6pC7SbPTtjxRdWfEJqu14G"
       },
@@ -12570,6 +12930,24 @@
       "duration_ms": 61886,
       "name": "Somewhere Else - Piano Version",
       "url": "https://open.spotify.com/track/0rMSzsQPRaL0uumXpPL8sq"
+    },
+    {
+      "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/0J9bmFVSqLruS47ZRMlxUa"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61445,
+      "name": "Somewhere Else Arr. For Cello",
+      "url": "https://open.spotify.com/track/4EiTrIsILqaTK4wqwsNO93"
     },
     {
       "album": {
@@ -13149,6 +13527,24 @@
     },
     {
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/79PTlHzCS2iyU1GJU6qE3b"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60614,
+      "name": "Stories - Cello Version",
+      "url": "https://open.spotify.com/track/6eN1XXmSoUqj6tFPadXHWB"
+    },
+    {
+      "album": {
         "name": "Liminal Space",
         "url": "https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3"
       },
@@ -13448,7 +13844,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 132192,
       "name": "Sunshine - Cello Version",
       "url": "https://open.spotify.com/track/1uWSnTOYzUDfuuhnY2Ab37"
@@ -14355,6 +14751,24 @@
     },
     {
       "album": {
+        "name": "Uncertain Moments Arr. For Cello",
+        "url": "https://open.spotify.com/album/4UjZNIi69g7FX4HX1PhJt5"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61867,
+      "name": "Uncertain Moments Arr. For Cello",
+      "url": "https://open.spotify.com/track/7mWtxFwY4AxsYYE76o26dF"
+    },
+    {
+      "album": {
         "name": "Under Purple Skies",
         "url": "https://open.spotify.com/album/7w2ahbbl4Mv5qMdpCziWWG"
       },
@@ -14424,6 +14838,24 @@
       "duration_ms": 74042,
       "name": "Under The Waterfall",
       "url": "https://open.spotify.com/track/01NOJ8gPtsKAjK8dhy1aN5"
+    },
+    {
+      "album": {
+        "name": "Unending Moment",
+        "url": "https://open.spotify.com/album/5cEALCyLTDhYuXkh5mvmLB"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60925,
+      "name": "Unending Moment",
+      "url": "https://open.spotify.com/track/1yt7flEbKzxhSB5DpqyuSP"
     },
     {
       "album": {
@@ -14608,6 +15040,24 @@
       "duration_ms": 72080,
       "name": "Valley",
       "url": "https://open.spotify.com/track/4ormDrl0tKJZ5A8qZFIWRg"
+    },
+    {
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/0xctcVhf68ZLHnA7jJgY2t"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61000,
+      "name": "Vanilla - Cello Version",
+      "url": "https://open.spotify.com/track/3DMMJDxdLWtZZGH32hZ57r"
     },
     {
       "album": {
@@ -14838,7 +15288,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 145513,
       "name": "Waking",
       "url": "https://open.spotify.com/track/1ARKuBQQNe0W9TrrnDDdxZ"
@@ -15292,7 +15742,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 126125,
       "name": "Weight",
       "url": "https://open.spotify.com/track/4ZOYz0RMX3BTzflq5hFRJj"
@@ -15670,7 +16120,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 205824,
       "name": "With You",
       "url": "https://open.spotify.com/track/2DdVnSKkZIM94Eajw4nMEn"
@@ -15706,7 +16156,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150909,
       "name": "Without",
       "url": "https://open.spotify.com/track/1S991FKBFt4MHoietICl2c"

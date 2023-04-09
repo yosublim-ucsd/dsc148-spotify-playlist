@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-740 songs - 1 day 18 hr 18 min
+741 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-02 |
 | [Jamaica](https://open.spotify.com/track/4H7p2aGtZLMlZRKZxBlKN7) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Jamaica](https://open.spotify.com/album/5R64qUMmWl4LeKOAq6tDbg) | 3:08 | 2022-10-01 | 2023-02-25 |
 | [Jeans](https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Jeans](https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru) | 3:05 | 2021-03-27\* | 2021-04-11 |
-| [Jiggiri](https://open.spotify.com/track/0ibWzro5NbGXh8QClXy4da) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Jiggiri](https://open.spotify.com/album/0CwT7GIKcZfvtpwnBozG6n) | 6:04 | 2023-04-02 |  |
+| [Jiggiri](https://open.spotify.com/track/0ibWzro5NbGXh8QClXy4da) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Jiggiri](https://open.spotify.com/album/0CwT7GIKcZfvtpwnBozG6n) | 6:04 | 2023-04-02 | 2023-04-09 |
 | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/album/0rTt6YkFCoU9DlP92ih8Mk) | 6:04 | 2022-12-05 | 2023-03-19 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-25 | 2022-12-28 |
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-03-25 | 2022-06-15 |
@@ -508,6 +508,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-08 |
 | [Pecado](https://open.spotify.com/track/1CH8Ihw09lmLKNfQ8ryzqc) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Juan Palau](https://open.spotify.com/artist/3fu1SiB0Q7nAH7Oy12jiT9), [Kevin Bury](https://open.spotify.com/artist/719A9QNZmkVRQ9SPMpcD89) | [Pecado](https://open.spotify.com/album/4TpeLii8uhRyMbDt2mOxdc) | 3:49 | 2022-07-17 | 2022-08-27 |
 | [PECADO](https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 | 2022-04-02 | 2022-04-05 |
+| [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-08 |  |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-04-20 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-07-01 | 2021-10-03 |
 | [Perdedor](https://open.spotify.com/track/2pywACN8sE4UYHXzjckAzX) | [Fifty Voice](https://open.spotify.com/artist/22LDkXWITkaYTO3eJ3LyR3), [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz) | [Pasajeros](https://open.spotify.com/album/0MumJse9m8oXOssm5vgchG) | 2:53 | 2022-09-11 | 2022-10-09 |

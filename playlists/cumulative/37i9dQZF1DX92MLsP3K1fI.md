@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! LAGOS y Reik en portada.
 
-190 songs - 9 hr 44 min
+192 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Contigo](https://open.spotify.com/track/5Hb3UidmAF1veAx2vhQ2kr) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Contigo](https://open.spotify.com/album/6XrfQ9Sip8eC6X7yQ90PxH) | 2:47 | 2022-02-04 | 2022-07-20 |
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-01-28 |  |
 | [Coro de Amor](https://open.spotify.com/track/3n87suj86yX3ywoUBZUFyy) | [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Coro de Amor](https://open.spotify.com/album/41zImYlf6x5mwTsvOOPCf4) | 3:36 | 2022-02-18 | 2022-06-09 |
+| [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 | 2023-04-07 |  |
 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 | 2022-02-04 |  |
 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 | 2022-12-19 |  |
 | [Cuenta Hasta Diez](https://open.spotify.com/track/2hLPflU1zfDDnOUEkxNEQQ) | [Yaz Flores](https://open.spotify.com/artist/1lMvmt7aLyqJ54gNQSrW9i) | [Cuenta Hasta Diez](https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN) | 2:37 | 2022-02-04 | 2022-07-20 |
@@ -90,7 +91,7 @@
 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 | 2022-06-03 | 2022-10-15 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2022-10-31 |  |
 | [Mamita Linda](https://open.spotify.com/track/5A61GAR6FphQb4THLvE4Tl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Mamita Linda](https://open.spotify.com/album/0VWSdamEgFiObHa2U1Byau) | 3:12 | 2022-02-18 | 2022-07-29 |
-| [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2022-02-04 |  |
+| [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2022-02-04 | 2023-04-09 |
 | [Mariposa](https://open.spotify.com/track/1s8tH07V0xMkozNWmiFau9) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Mariposa](https://open.spotify.com/album/6rfhJg9kaJ5GvyFMeJGUZa) | 3:05 | 2022-02-04 | 2022-07-27 |
 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 | 2022-02-04 | 2023-02-25 |
 | [Me Acuerdo De Ti](https://open.spotify.com/track/7xjlh86xrmTziO2vIDCzfx) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Me Acuerdo De Ti](https://open.spotify.com/album/1pJvqBTjliDkW7EUzEUO7Y) | 3:21 | 2023-03-31 |  |
@@ -173,7 +174,7 @@
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2022-02-04 |  |
 | [Tan Viva](https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb) | [JNS](https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli) | [Tan Viva](https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs) | 3:25 | 2023-03-31 |  |
 | [Te Fuiste](https://open.spotify.com/track/4tY1tO1F7lYloVmHEq9fOs) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Te Fuiste](https://open.spotify.com/album/6l6pTc4bSbHUY3GHSmkeba) | 2:32 | 2023-02-10 | 2023-04-01 |
-| [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 | 2022-02-18 |  |
+| [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 | 2022-02-18 | 2023-04-09 |
 | [Te Quieres Ir](https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Te Quieres Ir](https://open.spotify.com/album/4Ymj7pfgVf3U3mYVSbZ8ZO) | 3:36 | 2022-02-04 | 2022-07-19 |
 | [Tempranito](https://open.spotify.com/track/1IUyKVuZARzyDfhBm9s6nl) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Balandra](https://open.spotify.com/album/1hiP68DOXAlmAKCsoeGX3S) | 2:40 | 2022-02-04 | 2022-07-28 |
 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2022-06-02 |  |
@@ -194,6 +195,7 @@
 | [Vamos A Mi Ritmo](https://open.spotify.com/track/4ySt3gOb6ioa2R8C9hlojC) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Isabela Souza](https://open.spotify.com/artist/2sSeIHqgpFdFg83U8kYnHY) | [Vamos A Mi Ritmo](https://open.spotify.com/album/6UanWjcM4BtuOxyUX6KbTc) | 3:04 | 2022-02-04 | 2022-07-10 |
 | [Vas A Querer](https://open.spotify.com/track/4ioNX7DDXjwVXeX0gxIcHo) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vas A Querer](https://open.spotify.com/album/3PLGh2ZWumnBTX6iGV6wqc) | 2:59 | 2022-04-22 | 2022-07-21 |
 | [VELOZzzz](https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [VELOZzzz](https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN) | 3:04 | 2022-10-31 | 2023-02-11 |
+| [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 | 2023-04-07 |  |
 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 | 2022-02-04 | 2023-01-29 |
 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 | 2022-02-04 | 2023-04-01 |
 | [¿Quién Lo Diría?](https://open.spotify.com/track/270oaSaxrykhHgzWHW1SI5) | [Lala Moré](https://open.spotify.com/artist/0z5FIYdXQFbwyRkliO8HsK) | [¿Quién Lo Diría?](https://open.spotify.com/album/0y0wbNrSmS2KKg1zILrkge) | 3:28 | 2022-02-04 | 2022-07-18 |

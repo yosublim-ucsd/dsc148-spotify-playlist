@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BlakeIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,135 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,245 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 65 | [Dancing In The Rain Love](https://open.spotify.com/track/3yYo9G7amMqLfzVoIrpHk0) | [CASSO](https://open.spotify.com/artist/7dHCVmzPtG2SUUvMwLNPQB) | [Dancing In The Rain Love](https://open.spotify.com/album/7LAd4f5v4GR7nvCfXfiZda) | 2:53 |
 | 66 | [Don Lemon](https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Don Lemon](https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr) | 2:26 |
 | 67 | [Crazy](https://open.spotify.com/track/5JOlpRKAaFHgbVyihSuEBo) | [JoeLew](https://open.spotify.com/artist/3NhCLsIR8nOpw7xoCqkwUD) | [Crazy](https://open.spotify.com/album/56kAFh4wODx0dL3GwWV4Vi) | 3:20 |
-| 68 | [Jezus](https://open.spotify.com/track/05wARYu1q6uUQKVxIiibct) | [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE), [EAGZ580](https://open.spotify.com/artist/5HjiUevkVoIYCQ4Zcebnzl) | [Jezus](https://open.spotify.com/album/37BmeHaTqYeCKDCfDeU12o) | 2:04 |
+| 68 | [Jezus](https://open.spotify.com/track/1b5b0x3gLg8cJ52EOVIxv5) | [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE), [EAGZ580](https://open.spotify.com/artist/5HjiUevkVoIYCQ4Zcebnzl) | [Jezus](https://open.spotify.com/album/10xeN58pX8Xj9t2waC6lJp) | 2:04 |
 | 69 | [Busy](https://open.spotify.com/track/4wmkT0Amgglm4IPiUBZYi5) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [Busy](https://open.spotify.com/album/6DVYVbOgVnCyndbmhx4bH4) | 2:56 |
 | 70 | [Big Bad Wolf](https://open.spotify.com/track/5QccbFykzI4ePpTCXx6Z0l) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Big Bad Wolf](https://open.spotify.com/album/040VJW8GgJQW9QHsVXajxc) | 3:24 |
 | 71 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [With The Stars](https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf) | [Fazer](https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr) | [With The Stars](https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8) | 3:32 |
 | 75 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 
-Snapshot ID: `MTY4MDcyNjM4MywwMDAwMDAwMDJiZjRiODQzYzM3Y2M4YjI2ODFlZTdiNDJlYWJmZTRi`
+Snapshot ID: `MTY4MDcyNjM4MywwMDAwMDAwMDBjMmE5YzUxN2VmODI1NjJmNjljMTM1OGRmNDM5Zjg0`

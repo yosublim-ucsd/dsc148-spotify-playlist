@@ -414,10 +414,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 200533,
       "name": "FAWDA",
       "url": "https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde"
+    },
+    {
+      "album": {
+        "name": "FAWDA",
+        "url": "https://open.spotify.com/album/2sKwWuqZcp3yjmVgrNBhAx"
+      },
+      "artists": [
+        {
+          "name": "Khalid Assiri",
+          "url": "https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "FAWDA",
+      "url": "https://open.spotify.com/track/5WxlfJ1bzFVP2keqmQnMTC"
     },
     {
       "album": {

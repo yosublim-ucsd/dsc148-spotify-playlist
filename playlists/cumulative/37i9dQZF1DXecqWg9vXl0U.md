@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Kaia Lana.
 
-236 songs - 12 hr 59 min
+238 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-02-17 |  |
 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 | 2022-03-25 | 2022-07-29 |
 | [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 | 2023-03-10 |  |
-| [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 | 2022-10-14 |  |
+| [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 | 2022-10-14 | 2023-04-09 |
 | [Amor Como Puñal](https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Amor Como Puñal](https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf) | 3:01 | 2022-03-25 | 2022-12-03 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-06 |  |
 | [Andreas](https://open.spotify.com/track/07YRawyEQ1GsIr3aAwr7jm) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr), [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Andreas](https://open.spotify.com/album/4m2RAhk06Y5ZjmWI6Fhl4Z) | 3:10 | 2022-03-25 | 2022-07-26 |
@@ -167,13 +167,14 @@
 | [Origami](https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Origami](https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD) | 3:01 | 2023-02-24 |  |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-24 | 2022-08-20 |
 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-03-25 | 2022-07-05 |
-| [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-03-25 |  |
+| [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-03-25 | 2023-04-09 |
 | [Película](https://open.spotify.com/track/3Nde02lABJ4GmP3xFM2hwG) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Película](https://open.spotify.com/album/14aRXGJzyAV3zwpNcK3mQz) | 3:11 | 2022-04-08 | 2022-07-28 |
 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2022-07-29 |  |
 | [Perdernos de Vista](https://open.spotify.com/track/4NSRJDeHgCxpicjoBbUuMK) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Perdernos de Vista](https://open.spotify.com/album/0wOlQ0jWhdrvoXAH4CWBDi) | 2:55 | 2022-03-25 | 2022-07-29 |
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2022-03-25 | 2022-10-08 |
 | [pikito](https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [pikito](https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz) | 3:00 | 2022-04-08 | 2023-02-25 |
 | [pizza](https://open.spotify.com/track/7rvKogufniHwoxQIgdcGde) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pizza](https://open.spotify.com/album/2i7oobLiBdNj4w4jwZKjh0) | 2:47 | 2022-03-25 | 2022-09-03 |
+| [Poder](https://open.spotify.com/track/5Et9S2tHzF6OQNVR3QyqMk) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f), [TÉPÚRPURA](https://open.spotify.com/artist/4dYCpuND1Me98DuW9U0gjl) | [Poder](https://open.spotify.com/album/0iyNfA2HmU9EmdXay16qvn) | 3:41 | 2023-04-07 |  |
 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 |  |
 | [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 | 2022-03-25 | 2023-03-31 |
@@ -208,6 +209,7 @@
 | [Sweet Things](https://open.spotify.com/track/5Y65mv534Bsxqtn68smUVn) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Sweet Things](https://open.spotify.com/album/1oUMyWqnfHw1o4xf830nBr) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [Sympatheia](https://open.spotify.com/track/20mXdKFJ9ej1e91pU0eSLj) | [Chris Koehn](https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn) | [Sympatheia](https://open.spotify.com/album/1E54qOGvpg1S2XATtzGHWL) | 4:24 | 2022-03-25 | 2022-04-22 |
 | [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 | 2022-03-25 | 2022-08-27 |
+| [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 | 2023-04-07 |  |
 | [Te Voy a Extrañar](https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Te Voy a Extrañar](https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8) | 3:37 | 2022-05-20 | 2023-01-19 |
 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 | 2022-03-25 | 2022-06-25 |
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2022-03-25 | 2022-11-01 |

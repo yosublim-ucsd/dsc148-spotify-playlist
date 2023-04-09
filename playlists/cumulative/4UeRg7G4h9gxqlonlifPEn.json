@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 145606,
       "name": "40s N 9s",
       "url": "https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2"
@@ -580,6 +580,24 @@
       "duration_ms": 189243,
       "name": "BITM",
       "url": "https://open.spotify.com/track/0TWdAfjArizwFkY4C4XFeI"
+    },
+    {
+      "album": {
+        "name": "Blast Off",
+        "url": "https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p"
     },
     {
       "album": {
@@ -1054,6 +1072,28 @@
       "duration_ms": 134320,
       "name": "Crocs",
       "url": "https://open.spotify.com/track/7L652Sm9c1PBnBPqdCA8RW"
+    },
+    {
+      "album": {
+        "name": "cruise ctrl",
+        "url": "https://open.spotify.com/album/5A3IW1BCgWAcqRyooeymPi"
+      },
+      "artists": [
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        },
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99520,
+      "name": "cruise ctrl",
+      "url": "https://open.spotify.com/track/3ei2osQeOFnl3Kzsztbxvq"
     },
     {
       "album": {
@@ -2051,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "I Serve the Base",
+      "url": "https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW"
+    },
+    {
+      "album": {
         "name": "Ice Baby",
         "url": "https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK"
       },
@@ -2138,7 +2196,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 185800,
       "name": "Impala",
       "url": "https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T"
@@ -2196,7 +2254,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 227280,
       "name": "International Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
@@ -4217,6 +4275,28 @@
     },
     {
       "album": {
+        "name": "Upnow feat. Coi Leray (mcvertt Mix)",
+        "url": "https://open.spotify.com/album/1UOiHvTZl7WPuGHaZbeNdo"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150422,
+      "name": "Upnow (mcvertt Mix) (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/29T7DPhqlokMgfZqgoVySB"
+    },
+    {
+      "album": {
         "name": "Valenslime",
         "url": "https://open.spotify.com/album/0XoN7zp50MCQQRuBsrECNm"
       },
@@ -4558,7 +4638,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 226115,
       "name": "Yungen (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"

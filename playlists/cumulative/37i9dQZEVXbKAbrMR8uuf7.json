@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -7272,7 +7272,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -9726,7 +9726,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
@@ -11236,7 +11236,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 219751,
       "name": "Padre Tiempo",
       "url": "https://open.spotify.com/track/1PtXtGJSDKTkB5urVEZ7rf"
@@ -12276,6 +12276,36 @@
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
+    },
+    {
+      "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/50WDuqdT6FQkjnVTNx9MiE"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252865,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/4wTXGVoFvKjqvFZNgHuioe"
     },
     {
       "album": {
@@ -14292,6 +14322,24 @@
       "duration_ms": 195918,
       "name": "Si Lo Puedes So\u00f1ar",
       "url": "https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF"
+    },
+    {
+      "album": {
+        "name": "Sin Rodeos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4Ta4hLPMNrbH2oNAmnsZ1X"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271750,
+      "name": "Si Quieres - Edici\u00f3n Especial",
+      "url": "https://open.spotify.com/track/16ZqRiXGgYOOWGseclBz8z"
     },
     {
       "album": {
@@ -16771,6 +16819,28 @@
     },
     {
       "album": {
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "album": {
         "name": "Volando (Remix)",
         "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
@@ -17408,7 +17478,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 155750,
       "name": "\u00bfQu\u00e9 Carajos Quieres T\u00fa Ahora?",
       "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"

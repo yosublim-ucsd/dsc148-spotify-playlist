@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=lsdcKdofRAOEWWUBZtXtMw"> Mercy Chinwo </a>
 
-153 songs - 15 hr 29 min
+154 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Make a Way \- Live](https://open.spotify.com/track/1DrlNnjjp7VBaJRfBOqqK3) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/13ytrQ0CS9ipmq1UdlwhfD) | 4:38 | 2019-11-06 | 2022-07-29 |
 | [Make a Way \- Live](https://open.spotify.com/track/1LFNi5RqhKR63C14W4vZRm) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/1ma43lJjgLa1zQryHyabA9) | 4:38 | 2019-11-06 | 2022-11-13 |
 | [Maranatha](https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 6:35 | 2023-01-31 | 2023-04-01 |
+| [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Kweku Teye](https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp) | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5) | 6:12 | 2023-04-07 |  |
 | [Messiah](https://open.spotify.com/track/408SouH6qikkfmpyVN0Aqa) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn](https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe) | 4:06 | 2018-10-01 | 2022-07-29 |
 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 | 2018-10-01 | 2023-04-01 |
 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 | 2018-10-01 | 2023-04-01 |

@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-380 songs - 20 hr 0 min
+381 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [If I Lose Myself \- Alesso vs OneRepublic](https://open.spotify.com/track/1hZk9dktp4yRFTm0TrycuH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:34 | 2022-06-17 |  |
 | [If I Lose Myself \- Alesso vs OneRepublic](https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:35 | 2021-12-16 | 2022-04-21 |
 | [If It Ain't Love \- Westfunk Remix](https://open.spotify.com/track/00mc1EK8IId9saksKbVvtI) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [If It Ain't Love \(Westfunk Remix\)](https://open.spotify.com/album/0vVwzbvyc5qlV5aOp4yzUJ) | 4:15 | 2021-12-16 | 2022-07-29 |
-| [Impossible \(feat\. John Martin\)](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Impossible \(feat\. John Martin\)](https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6) | 3:08 | 2021-12-16 |  |
+| [Impossible \(feat\. John Martin\)](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Impossible \(feat\. John Martin\)](https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6) | 3:08 | 2021-12-16 | 2023-04-09 |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-03-15 |  |
 | [Infinity 2008](https://open.spotify.com/track/7vseIfb8ooQmXzisuinchZ) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy) | [SLAM!FM Presents Clubbin' Best of 2008/2009](https://open.spotify.com/album/6GVBb7pAVvbvBxTRsXGdh8) | 3:10 | 2021-12-16 | 2022-07-28 |
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2022-06-17 |  |
@@ -258,6 +258,7 @@
 | [Places](https://open.spotify.com/track/6O85MfGECKBqAK2MgSbCaj) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Places](https://open.spotify.com/album/2qGpT0C22qkBM2KLziCMGC) | 3:22 | 2022-01-18 | 2022-02-01 |
 | [Play](https://open.spotify.com/track/29R1IMTTbDDA3VNlk6UEW5) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Play](https://open.spotify.com/album/7ugwbZf0nbP0s2s3IaiU70) | 3:06 | 2022-01-05 | 2022-04-20 |
 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:21 | 2021-12-16 | 2022-07-29 |
+| [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 | 2023-03-06 |  |
 | [Playbox](https://open.spotify.com/track/4PyjU6NkpXm78HRNAXg0fk) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Playbox](https://open.spotify.com/album/29TyN53CnU2go3iOWzB9dD) | 3:51 | 2021-12-16 | 2022-07-29 |
 | [Power](https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Power](https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE) | 2:28 | 2022-03-15 |  |
 | [Pulled My Gun](https://open.spotify.com/track/0Gd2Ae1ssubxu1ZTVqptcU) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Pulled My Gun](https://open.spotify.com/album/6zHkXamHKNSFkcjIZeg2Ki) | 2:36 | 2021-12-16 | 2022-07-29 |

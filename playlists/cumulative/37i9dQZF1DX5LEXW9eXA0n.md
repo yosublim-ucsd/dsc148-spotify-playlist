@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:JUNGKEY\(정키\)\) \(당신의 감성에 발라드, 려요\)
 
-839 songs - 2 day 6 hr 34 min
+842 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Drawing Our Moments](https://open.spotify.com/track/0BiJCg7FLwWGTYLEsnaHcz) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 4:33 | 2021-12-20 | 2022-07-08 |
 | [Dream](https://open.spotify.com/track/2Mbq7v42FvbLJewOfCw7hv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Dream](https://open.spotify.com/album/6mub9pdrLa8fCqzWP4kk64) | 3:08 | 2022-09-05 | 2022-10-13 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2021-12-20 | 2022-07-08 |
+| [Dreamer](https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Dreamer](https://open.spotify.com/album/07A0rd1XgK6o9pCDpMbXNa) | 3:35 | 2023-04-08 |  |
 | [Dreamin'](https://open.spotify.com/track/4F9IH5h9NkhJ9H4e1zWw10) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Let Me Be Your Knight \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1t4uYvNMGHu5wIGlXrY0O8) | 3:19 | 2022-03-24 | 2022-04-20 |
 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 | 2022-01-17 | 2022-06-18 |
 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-07-07 | 2022-08-19 |
@@ -635,6 +636,7 @@
 | [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 |  |
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-02-10 | 2022-02-17 |
+| [Step](https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1) | [DK\(DECEMBER\)](https://open.spotify.com/artist/7vso7EVqywol8P9vqTgoQn) | [Step](https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk) | 4:56 | 2023-04-08 |  |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 |  |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2023-01-21 |
@@ -836,6 +838,7 @@
 | [사랑하면 되나요](https://open.spotify.com/track/04vS9y0vNGeOSGnLBmnqyk) | [Bbalganyangmal](https://open.spotify.com/artist/02ThU5xgjGLsJBR4RspMwK), [현지](https://open.spotify.com/artist/4vv8PgzckIxkIlZo94VxqT) | [사랑하면 되나요](https://open.spotify.com/album/4kJD6CQyaLHklTnyRy9HNy) | 3:33 | 2023-01-20 | 2023-02-25 |
 | [아낌없이 주고 싶어](https://open.spotify.com/track/2D3o4ROlfkUE4NOBriN97p) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Themselves OST Chapter\. 3 \(Soundtrack\)](https://open.spotify.com/album/2E46TGiCyxX5W2xVtcg1LP) | 4:25 | 2022-12-27 | 2023-02-25 |
 | [안개 속 어디로](https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0RbcfAVkoy1nKigpkLmUaC) | 3:51 | 2022-08-01 | 2022-11-02 |
+| [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/album/6E7urCzpXOlGAu71563txg) | 4:24 | 2023-04-08 |  |
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |
 | [잊고 있는 중](https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [잊고 있는 중](https://open.spotify.com/album/1hQH5zANKRdlDLPxHwdwm1) | 3:57 | 2023-02-24 |  |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2021-12-23 | 2022-07-06 |

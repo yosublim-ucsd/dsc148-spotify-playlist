@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 56965,
+  "num_followers": 57018,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDM5NzY1YmY0MmY2YWFiMGRkMjNhNTM1N2Q1ZDZmZjRj",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGQ2YjdjNTRjYzQ5NDIxODIwMmQ1Y2I3NjBjMGEyNzQ0",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -503,26 +503,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Ardore (feat. Tobias Bernstrup)",
-        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        },
-        {
-          "name": "Tobias Bernstrup",
-          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ardore",
-      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Ardore (feat. Tobias Bernstrup)",
+        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        },
+        {
+          "name": "Tobias Bernstrup",
+          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ardore",
+      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -815,22 +815,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Never Let You Go (Skream Remix)",
-        "url": "https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi"
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
         }
       ],
-      "duration_ms": 220451,
-      "name": "Never Let You Go - Skream Remix (Edit)",
-      "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
+      "duration_ms": 409961,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
     }
   ],
   "unique_name": "Laser Disco",

@@ -102,7 +102,7 @@
 | [Whales](https://open.spotify.com/track/4NH6RqqfVmxabLwDcKlEM6) | [Tommy 2000](https://open.spotify.com/artist/2J4nqVgYL8lhIuy2GYxHVc) | [Whales](https://open.spotify.com/album/3XG46ILaDhxpXxUMoCJsfX) | 5:12 | 2022-11-21 |  |
 | [What You Want](https://open.spotify.com/track/51QwbYPuqPPF2Gl9edTn0Z) | [Soul Edifice](https://open.spotify.com/artist/36NoWFvGCEmiDodwEJj10M) | [Life Artefacts](https://open.spotify.com/album/2IeHdyvNfTVsVdZ6HhPGOI) | 5:29 | 2022-11-21 |  |
 | [What's Poppin \- Narciss' Champagne Poppin Remix](https://open.spotify.com/track/5cvWAwIWcYA9UU4YwcNjzG) | [Versus](https://open.spotify.com/artist/4iRPFD6sORIMMPmks0BxTm), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Quit Asking EP](https://open.spotify.com/album/0xGgT0dakLiwtiYugPqnkw) | 5:47 | 2022-07-23 |  |
-| [Wile Out \- Original Mix](https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO) | [Obsidian Wave](https://open.spotify.com/artist/2dIRkNnGoBVwWUPSKVPabb) | [Attack Decay Sustain, Vol\. 02](https://open.spotify.com/album/7a64ZuweC11nZ9E19gHCwC) | 4:53 | 2022-11-21 |  |
+| [Wile Out \- Original Mix](https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO) | [Obsidian Wave](https://open.spotify.com/artist/67l5wnaAV5jK8XqnruslPz) | [Attack Decay Sustain, Vol\. 02](https://open.spotify.com/album/7a64ZuweC11nZ9E19gHCwC) | 4:53 | 2022-11-21 |  |
 | [Zmbi Zne](https://open.spotify.com/track/01VLtsjg7w8ARt8WvCRnpF) | [Wavebndr](https://open.spotify.com/artist/56Hv4PqazAClj7ZhzaKCDT) | [InterWave 10](https://open.spotify.com/album/5aBKQXfuY5bRvmm1AYpj2S) | 6:25 | 2023-01-31 |  |
 
 \*This playlist was first scraped on 2022-07-27. Prior content cannot be recovered.

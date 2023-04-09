@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-155 songs - 10 hr 57 min
+156 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [It Hurts Me Too](https://open.spotify.com/track/6dEtTt8266eoCPhgaD2iDw) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/6eVIb9RFFRgvdxKlOXmmxm) | 4:49 | 2022-05-25 | 2022-07-29 |
 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 | 2022-10-03 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2022-05-25 |  |
-| [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 |  |
+| [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 | 2023-04-09 |
 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 | 2022-10-03 |  |
 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-05-25 |  |
 | [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-10-03 |  |
@@ -109,6 +109,7 @@
 | [My Journey To The Sky](https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 3:10 | 2022-10-10 |  |
 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 | 2022-10-03 | 2023-01-28 |
 | [Mystery Train](https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM), [The Blue Flames](https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A) | [Mystery Train / Love My Baby](https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz) | 2:24 | 2023-01-20 | 2023-03-27 |
+| [Mystery Train \- Remastered 2022](https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM), [The Blue Flames](https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A) | [Sun Records Originals: Mystery Train](https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy) | 2:24 | 2023-03-21 |  |
 | [Need Your Love So Bad \- 2002 Digital Remaster](https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [The Platinum Collection](https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl) | 7:53 | 2022-05-25 |  |
 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 | 2022-07-08 |  |
 | [No Limit to My Love](https://open.spotify.com/track/51YhgKncpDg0Y9nB1eB7Ox) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [No Limit to My Love](https://open.spotify.com/album/4Rm5WNevoHC55Fez7NO5Mj) | 4:26 | 2022-05-25 | 2022-07-29 |

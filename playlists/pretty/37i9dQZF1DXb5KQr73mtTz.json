@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9569,
+  "num_followers": 9599,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMGU4ODM4N2RiMTFhMmIxODA2NzhjOTdjY2FkMGQ0YmY2",
+  "snapshot_id": "MTY3OTkwNTUyMywwMDAwMDAwMDQzNjFhMWU0MTQzMWMwODdhOGFjZTA0OWIwZjIyMTg0",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
     },
     {
-      "added_at": "2023-04-07 01:06:44",
+      "added_at": "2023-04-09 01:16:34",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
+        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
+        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Living in the same time",
+      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -405,20 +421,20 @@
       "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
-      "added_at": "2023-02-28 10:14:13",
+      "added_at": "2023-04-09 01:16:34",
       "album": {
-        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
-        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Living in the same time",
-      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -435,22 +451,6 @@
       "duration_ms": 255373,
       "name": "The Road",
       "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
-    },
-    {
-      "added_at": "2023-04-07 01:06:44",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "The day was beautiful",
         "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
     },
     {
+      "added_at": "2023-04-09 01:16:34",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+    },
+    {
       "added_at": "2023-02-28 10:14:13",
       "album": {
         "name": "Undo",
@@ -665,20 +681,20 @@
       "url": "https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC"
     },
     {
-      "added_at": "2023-04-07 01:06:44",
+      "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+      "duration_ms": 216266,
+      "name": "Love Me Like You Used To",
+      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -695,22 +711,6 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Love Me Like You Used To",
-      "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
-      "added_at": "2023-04-07 01:06:44",
+      "added_at": "2023-04-09 01:16:34",
       "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"

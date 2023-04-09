@@ -922,7 +922,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 343106,
       "name": "Canvey Island",
       "url": "https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv"
@@ -2294,6 +2294,24 @@
       "duration_ms": 299533,
       "name": "Hiraeth (feat. Kim Van Loo)",
       "url": "https://open.spotify.com/track/4Pd7JgZI8zvewbeZLsIDxe"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "album": {
@@ -4301,7 +4319,7 @@
         },
         {
           "name": "Saint Rock",
-          "url": "https://open.spotify.com/artist/2lbMcFBLe4XhGSrfLFK5E2"
+          "url": "https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK"
         }
       ],
       "date_added": "2023-04-04",

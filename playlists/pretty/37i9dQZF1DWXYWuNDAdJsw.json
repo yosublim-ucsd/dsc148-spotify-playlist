@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 826593,
+  "num_followers": 826746,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU2NzExNSwwMDAwMDAwMDdmZGE4Njc5OWRkYjVlNDE3ZWM5ZDM4YzQ0Y2MwNTk3",
+  "snapshot_id": "MTY4MDU2NzExNSwwMDAwMDAwMGM2ODcyMjFhZWUzMWFlMDkyYzZkZmVlMzBkOTlhNjgy",
   "tracks": [
     {
       "added_at": "2023-04-04 00:11:55",
@@ -56,7 +56,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JhayCo",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Dispuesto (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
         "name": "La Realidad (Remix)",
         "url": "https://open.spotify.com/album/6eOK10Y1cLw4SAQiDfAunM"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 262600,
       "name": "La Realidad (Remix)",
       "url": "https://open.spotify.com/track/2PgsOTPkF25VJ9cZmUjSKE"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Dispuesto (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
     },
     {
       "added_at": "2023-04-04 00:11:55",

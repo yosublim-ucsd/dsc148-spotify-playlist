@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-77 songs - 5 hr 13 min
+78 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 | 2022-02-10 |  |
 | [The Good, The Bad And The Ugly \- 2004 Remaster](https://open.spotify.com/track/1JSIWsJfxOji0FrxFcxdCK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad And The Ugly \[Original Motion Picture Soundtrack / \(Remastered & Expanded\)\]](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 2:42 | 2022-02-10 |  |
 | [The Last Rockabilly](https://open.spotify.com/track/0N7xhtiFCCcVvWj6wLX80h) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [The Last Rockabilly](https://open.spotify.com/album/3fRaDR9AaKWjJZHcYKQc22) | 4:22 | 2023-03-10 |  |
+| [The Nighthawks Are Out](https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 5:16 | 2023-04-07 |  |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-02-10 |  |
 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 | 2022-02-10 |  |
 | [Ursa Major](https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/4p5LlAKeW83lehTf5sUCUo) | 4:10 | 2022-02-10 |  |

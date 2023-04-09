@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-292 songs - 18 hr 7 min
+293 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Satisfied](https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 2:46 | 2022-04-29 |  |
 | [Say Amen](https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:36 | 2022-03-25 | 2022-06-25 |
 | [Scars in Heaven](https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Scars in Heaven](https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf) | 4:28 | 2022-02-25 | 2022-03-21 |
-| [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 | 2023-03-10 |  |
+| [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 | 2023-03-10 | 2023-04-09 |
 | [Secrets](https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Secrets](https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw) | 3:46 | 2022-04-22 | 2022-08-27 |
 | [Sing Again \(Canto Ancora\)](https://open.spotify.com/track/2NTHZdkWT8o5iL5RzXVnEf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Jonathan Cilia Faro](https://open.spotify.com/artist/48pn3QEpesffeWPzW7pnq0) | [Sing Again \(Canto Ancora\)](https://open.spotify.com/album/2sr3yPBjq0lKT7rk4XvjCU) | 5:00 | 2022-02-25 | 2022-04-23 |
 | [So Beautiful \(Sungguh Indah\)](https://open.spotify.com/track/53gemxU7CBNTaZ1ZzbJ81h) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [So Beautiful \(Sungguh Indah\)](https://open.spotify.com/album/5alX0XDZTbEGGkXKFiaLok) | 5:09 | 2022-02-25 | 2022-04-23 |
@@ -254,6 +254,7 @@
 | [The Commission \(feat\. Cody Carnes\)](https://open.spotify.com/track/5cxp40aGW8jKngXgSFR0xF) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Commission \(feat\. Cody Carnes\)](https://open.spotify.com/album/6wIS4qpHJtPSw5GYuZtWdi) | 3:15 | 2022-04-22 | 2022-10-02 |
 | [The Commission \- Band Version](https://open.spotify.com/track/0tEr65nxKnGm9F6SyIBlEU) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [The Commission \(Band Version\)](https://open.spotify.com/album/6IXStrPPD6zGP1fkFvPZyG) | 3:15 | 2022-02-25 | 2022-04-23 |
 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 | 2022-10-01 |  |
+| [The Great Awakening](https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Great Awakening](https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7) | 3:30 | 2023-03-10 |  |
 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 | 2022-02-25 |  |
 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 | 2023-03-10 |  |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-06-24 |  |

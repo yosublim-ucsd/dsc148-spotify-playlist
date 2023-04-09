@@ -1,13 +1,33 @@
 {
   "description": "Chilled R&B jams for your most relaxed moods. Cover: 6LACK",
-  "num_followers": 2319733,
+  "num_followers": 2320159,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MzIwMCwwMDAwMDAwMGVjZDI1ODQyNzZiOTQxNWFiMDhkMDYxMmUyYWM5ZWM4",
+  "snapshot_id": "MTY4MDk4ODU1OCwwMDAwMDAwMDQzMmU0OWI3NWNlYWFlZDA1NWYxOTEwNTY5MTExZDQx",
   "tracks": [
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 241232,
+      "name": "Disillusioned (with serpentwithfeet)",
+      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
+    },
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 228080,
       "name": "B4L",
       "url": "https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1"
-    },
-    {
-      "added_at": "2023-03-31 06:13:20",
-      "album": {
-        "name": "In Pieces",
-        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Make It Look Easy",
-      "url": "https://open.spotify.com/track/19zaRJBWGDnWl6FII7PrAb"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -93,56 +97,36 @@
       "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
     },
     {
-      "added_at": "2023-03-31 04:04:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+        "name": "For Granted (feat. Arin Ray & 9th Wonder)",
+        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 212967,
-      "name": "Moral Conscience",
-      "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "I'm Baby (ft. Jvck James) [Acoustic]",
-        "url": "https://open.spotify.com/album/5I2I0af6nhLKsSzPy4lGkL"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
         }
       ],
-      "duration_ms": 205869,
-      "name": "I'm Baby (ft. Jvck James) - Acoustic",
-      "url": "https://open.spotify.com/track/3xT5b5eHJ4j5XZO1jiqzUi"
+      "duration_ms": 172000,
+      "name": "For Granted (feat. Arin Ray & 9th Wonder)",
+      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -163,6 +147,22 @@
       "duration_ms": 151266,
       "name": "311 (with Gwen Bunn)",
       "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -197,56 +197,20 @@
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 196933,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Victims & Villains",
-        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "white rice d\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 260669,
-      "name": "Black Anime",
-      "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
+      "duration_ms": 212967,
+      "name": "Moral Conscience",
+      "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -263,6 +227,22 @@
       "duration_ms": 177419,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 260669,
+      "name": "Black Anime",
+      "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -297,20 +277,24 @@
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+        "name": "I'm Baby (ft. Jvck James) [Acoustic]",
+        "url": "https://open.spotify.com/album/5I2I0af6nhLKsSzPy4lGkL"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+      "duration_ms": 205869,
+      "name": "I'm Baby (ft. Jvck James) - Acoustic",
+      "url": "https://open.spotify.com/track/3xT5b5eHJ4j5XZO1jiqzUi"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -327,6 +311,58 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 174512,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "I Hope",
+        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Victims & Villains",
+        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "white rice d\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -365,20 +401,24 @@
       "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 192611,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh"
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -399,6 +439,54 @@
       "duration_ms": 212933,
       "name": "Tam Tam",
       "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
+    },
+    {
+      "added_at": "2023-03-31 04:04:00",
+      "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 192611,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0PfurdlOZRYJ6pkrvHOkUh"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -483,6 +571,22 @@
       "duration_ms": 183050,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1085,22 +1189,6 @@
       "url": "https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Say You Want Me",
-        "url": "https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 196494,
-      "name": "Say You Want Me - Single Version",
-      "url": "https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Mood Swings",
@@ -1223,22 +1311,6 @@
       "duration_ms": 229052,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sometimes, I'm Speechless",
-        "url": "https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE"
-      },
-      "artists": [
-        {
-          "name": "IYAMAH",
-          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1413,22 +1485,6 @@
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "Body (EP)",
-        "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
-      },
-      "artists": [
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "Whateva U Need",
-      "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Sweet Distraction",
@@ -1521,30 +1577,6 @@
       "url": "https://open.spotify.com/track/0BWW2pFvM7tLmRGdDSvz6p"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
-      },
-      "artists": [
-        {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Quintin Gulledge",
-          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
-        }
-      ],
-      "duration_ms": 312341,
-      "name": "Soul Caliber",
-      "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
-    },
-    {
       "added_at": "2022-12-09 10:05:13",
       "album": {
         "name": "It Ain't Easy",
@@ -1631,22 +1663,6 @@
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "P.B.J.",
-        "url": "https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I"
-      },
-      "artists": [
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 248928,
-      "name": "P.B.J.",
-      "url": "https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2153,22 +2169,6 @@
       "url": "https://open.spotify.com/track/1fAgrabzFmIZLe9sOiVaC2"
     },
     {
-      "added_at": "2022-08-19 04:15:53",
-      "album": {
-        "name": "Sweet Heat",
-        "url": "https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd"
-      },
-      "artists": [
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
-    },
-    {
       "added_at": "2022-07-08 20:50:37",
       "album": {
         "name": "Life Is Good (feat. Scribz Riley)",
@@ -2295,22 +2295,6 @@
       "duration_ms": 204705,
       "name": "Good & Plenty - Remix",
       "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
-    },
-    {
-      "added_at": "2022-05-19 23:49:06",
-      "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
-      },
-      "artists": [
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Hennessy Tears",
-      "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
     },
     {
       "added_at": "2022-07-15 04:03:55",

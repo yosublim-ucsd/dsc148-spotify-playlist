@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > These women rock our worlds with their music and influence\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,323 likes - 88 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,630 likes - 88 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

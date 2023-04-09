@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 471023,
+  "num_followers": 471242,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDY3NzdmMjk4ZTQ2MjU2MTkyZWQ5ZjllOGU4ZTRiY2I0",
+  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDMzM2RhM2E4ZTk1Yzg3ZDhlM2NkYzE5ODQ0NmEwMjZj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Quinella",
+        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 253560,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 277960,
       "name": "Left Turn on a Red Light",
       "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Champagne Jam",
-        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 273226,
-      "name": "Champagne Jam",
-      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Champagne Jam",
+        "url": "https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 273226,
+      "name": "Champagne Jam",
+      "url": "https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "High On The Hog",
         "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
       },
@@ -1015,38 +1031,6 @@
       "duration_ms": 161506,
       "name": "Jim Dandy",
       "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rattlesnake Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Before the Bullets Fly",
-      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1067,18 +1051,34 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Quinella",
-        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 253560,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
+      "duration_ms": 220533,
+      "name": "Before the Bullets Fly",
+      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rattlesnake Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Van Zant Band",
-          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
-        }
-      ],
-      "duration_ms": 323268,
-      "name": "Southern Comfort",
-      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Stacked Deck (Remastered)",
         "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 142346,
       "name": "Hit the Nail on the Head - Remastered",
       "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Van Zant Band",
+          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
+        }
+      ],
+      "duration_ms": 323268,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Back to Rock",
-        "url": "https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7"
-      },
-      "artists": [
-        {
-          "name": "Ghost Riders",
-          "url": "https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Don't Know Where I'm Bound",
-      "url": "https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Live At The Moody Theater",
         "url": "https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 426200,
       "name": "Fire In The Kitchen",
       "url": "https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Back to Rock",
+        "url": "https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7"
+      },
+      "artists": [
+        {
+          "name": "Ghost Riders",
+          "url": "https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Don't Know Where I'm Bound",
+      "url": "https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ"
     },
     {
       "added_at": "2023-01-18 21:52:55",

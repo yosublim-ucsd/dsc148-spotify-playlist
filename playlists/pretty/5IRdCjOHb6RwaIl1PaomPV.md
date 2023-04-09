@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Jam City, plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,411 likes - 70 songs - 4 hr 2 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,408 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 36 | [Wanna Play House? \- Dub Version](https://open.spotify.com/track/48bEUZhhmxzXOGeuccfGc9) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Wanna Play House?](https://open.spotify.com/album/3prtz2DOF45x0INlLIHx1d) | 5:51 |
 | 37 | [Triad God's Coda](https://open.spotify.com/track/642NFB9smcLtEbmQtBALkw) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Triad God](https://open.spotify.com/artist/25U9EIeQHwCfEbygMdm08y) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 2:00 |
 | 38 | [STITCH + LILO](https://open.spotify.com/track/67tt80M2gQ6NgouaZXLKId) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 1:42 |
-| 39 | [Magatama \- Bitter Babe Remix](https://open.spotify.com/track/1TV4oN2g9BCRBexzbxc1Ap) | [Rilla](https://open.spotify.com/artist/6gTxC97bPYt3pbxSre1O3T), [Bitter Babe](https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW) | [Yukou / 遊光 EP](https://open.spotify.com/album/7GKhKyfoS1uoN3VE9yDkNY) | 3:01 |
+| 39 | [Magatama \- Bitter Babe Remix](https://open.spotify.com/track/1TV4oN2g9BCRBexzbxc1Ap) | [Rilla](https://open.spotify.com/artist/51Uwt3AgVZZ0gCtdq1UMYD), [Bitter Babe](https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW) | [Yukou / 遊光 EP](https://open.spotify.com/album/7GKhKyfoS1uoN3VE9yDkNY) | 3:01 |
 | 40 | [LA LANCHA](https://open.spotify.com/track/2lgqoVwr6NU9UKMXu1C1Mg) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [MÁXIMA VELOCIDAD](https://open.spotify.com/album/1579nMoiD6fjVA4QdkMwOt) | 4:45 |
 | 41 | [Cara a Cara \- DJ Firmeza Remix](https://open.spotify.com/track/4fG0CIVWydLtxdYkKHNoU6) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3), [DJ Firmeza](https://open.spotify.com/artist/6YcTxwf8y4oLvps4HlGKho) | [Cara a Cara \(DJ Firmeza Remix\)](https://open.spotify.com/album/3Npz80pySzHonbXjbjyAxq) | 3:54 |
 | 42 | [No Bitterness](https://open.spotify.com/track/3s3Twsw0pQr40yiZpS3toD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:38 |

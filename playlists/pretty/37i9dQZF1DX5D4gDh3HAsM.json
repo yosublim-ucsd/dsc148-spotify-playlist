@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 513273,
+  "num_followers": 513183,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDRhMDU2MjNkODU1MjA1ZTZkNjc0MWU1Zjg4Mjg4MTE4",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGY1N2FjOGM0MTY4MWZhN2UxOTI3NWUyODEwNjc2NjQw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Good \u201cSwing\u201d Wenceslas",
-      "url": "https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Just Me This Year",
@@ -455,6 +439,22 @@
       "duration_ms": 187005,
       "name": "Just Me This Year",
       "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Good \u201cSwing\u201d Wenceslas",
+      "url": "https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "To Us Is Given",
-      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Together Again (Remastered 2003)",
         "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194133,
       "name": "A Child Is Born - Remastered 2003",
       "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -711,26 +711,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Little Jack Frost Get Lost",
-      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas in the Rockies",
         "url": "https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 299040,
       "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
       "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "Little Jack Frost Get Lost",
+      "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
     },
     {
       "added_at": "2021-11-12 15:48:58",

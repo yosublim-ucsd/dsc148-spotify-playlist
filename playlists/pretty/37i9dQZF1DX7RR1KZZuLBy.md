@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,956 likes - 60 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,045 likes - 60 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 40 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 |
 | 41 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 |
 | 42 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 |
-| 43 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 |
+| 43 | [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 |
 | 44 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
 | 45 | [Our Nation](https://open.spotify.com/track/1Z4sDTyCOdZbvbwD0SBzrn) | [Heinz Winckler](https://open.spotify.com/artist/5Q1ldmPI95BBLkF8RyPIHF), [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD) | [Our Nation](https://open.spotify.com/album/3SC4tuvjDTwnIsKDCx9jOQ) | 4:15 |
 | 46 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 59 | [Glory to Jesus](https://open.spotify.com/track/6xTrc6cdCG4swyK75GfOmk) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [The Full Gospel Ministry of Worship](https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV), [Bishop William Murphy](https://open.spotify.com/artist/6SQCM4MqvXTzLEWovhqG6b) | [A Month of Sundays](https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR) | 5:11 |
 | 60 | [Yeshua](https://open.spotify.com/track/37T7RYTyUFprERyvcVgKXR) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Yeshua](https://open.spotify.com/album/55bIedlvdE17Lc5xS1kliN) | 3:19 |
 
-Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMDRlOWZjZmVkMWRhNDVkZmEzOGM2MWI5MTNkNzQ1OGYw`
+Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMDc4MTliMjFhMDVkMjYwNWFiYzEzNmVjMjAwYjJkMjAw`

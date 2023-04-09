@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 180160,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5CDldnbhdpDJs0KUIiOM6X"
@@ -4355,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Reflexi\u00f3n",
+        "url": "https://open.spotify.com/album/6Ax7V8TD0AovO6LKVT6OKf"
+      },
+      "artists": [
+        {
+          "name": "Eljuri",
+          "url": "https://open.spotify.com/artist/6iI8lCxLnRuyGsJamxFGD8"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263512,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/38c0MtaLa2nEC9bboc8G5b"
+    },
+    {
+      "album": {
         "name": "Milyakburra",
         "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
       },
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 195640,
       "name": "Polska efter Karls Anders",
       "url": "https://open.spotify.com/track/7lynTekJgwz0MEmFaVas0W"
@@ -8334,7 +8352,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 147573,
       "name": "Um Boom Boom Bap",
       "url": "https://open.spotify.com/track/04by5kpGvNBeJCB4XWUGCh"

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 364130,
+  "num_followers": 365295,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDg2ZTlkMzk5MWYzNjNkMzA3OGYyNzE0OWZmN2JhMjE3",
+  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDI2NzE1ZjcxNWI2NTk5ODE2YjUyNjQ1MmM2ZTQ1NjM3",
   "tracks": [
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
       },
       "artists": [
         {
-          "name": "BBHF",
-          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 158500,
-      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
+      "duration_ms": 263692,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
+        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "BBHF",
+          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
         }
       ],
-      "duration_ms": 263692,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
+      "duration_ms": 158500,
+      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "\u982c\u6756",
-        "url": "https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X"
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
       },
       "artists": [
         {
@@ -1161,8 +1161,8 @@
         }
       ],
       "duration_ms": 220236,
-      "name": "\u982c\u6756",
-      "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Go back / friends",
-        "url": "https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 232284,
-      "name": "Go back",
-      "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "How You Feel",
         "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 183493,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Go back / friends",
+        "url": "https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 232284,
+      "name": "Go back",
+      "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1319,6 +1319,26 @@
       "duration_ms": 188679,
       "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
       "url": "https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Haven (feat. Hana Hope)",
+        "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Haven - feat. Hana Hope",
+      "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1351,26 +1371,6 @@
       "duration_ms": 268119,
       "name": "Mirage Op.4 - Collective ver. (feat. \u9577\u6fa4\u307e\u3055\u307f)",
       "url": "https://open.spotify.com/track/4wx4CeiVDQM2RDq8b6nYWk"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "Haven (feat. Hana Hope)",
-        "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
-      },
-      "artists": [
-        {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Haven - feat. Hana Hope",
-      "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "\u30de\u30e8\u30a4\u30ac (PHIL REWORK)",
-        "url": "https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        },
-        {
-          "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
-          "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
-        },
-        {
-          "name": "Shuta Hasunuma",
-          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
-        }
-      ],
-      "duration_ms": 247295,
-      "name": "\u30de\u30e8\u30a4\u30ac - PHIL REWORK",
-      "url": "https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "Chrome Season",
         "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
       },
@@ -1467,6 +1443,30 @@
       "duration_ms": 170064,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "\u30de\u30e8\u30a4\u30ac (PHIL REWORK)",
+        "url": "https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        },
+        {
+          "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
+          "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
+        },
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "duration_ms": 247295,
+      "name": "\u30de\u30e8\u30a4\u30ac - PHIL REWORK",
+      "url": "https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "\u4e00\u7b4b\u5dee\u3059",
-        "url": "https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "\u4e00\u7b4b\u5dee\u3059",
-      "url": "https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 230319,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "\u4e00\u7b4b\u5dee\u3059",
+        "url": "https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "\u4e00\u7b4b\u5dee\u3059",
+      "url": "https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "Structure Of Romance (feat. Kyoko Koizumi)",
         "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 194017,
       "name": "Structure Of Romance (feat. Kyoko Koizumi)",
       "url": "https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "non zero sum game",
-        "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 208099,
-      "name": "non zero sum game",
-      "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
+        "name": "non zero sum game",
+        "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
       },
       "artists": [
         {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         }
       ],
-      "duration_ms": 149002,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+      "duration_ms": 208099,
+      "name": "non zero sum game",
+      "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Yonawo House",
-        "url": "https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 211742,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
       },
@@ -1719,6 +1703,38 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "Yonawo House",
+        "url": "https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 211742,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "HUES",
+        "url": "https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 238831,
+      "name": "We've Come So Far",
+      "url": "https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "brownie",
         "url": "https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4"
       },
@@ -1731,34 +1747,6 @@
       "duration_ms": 152957,
       "name": "brownie",
       "url": "https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "A440",
-        "url": "https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe"
-      },
-      "artists": [
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "tofubeats",
-          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        },
-        {
-          "name": "KOH",
-          "url": "https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "440hz (feat. Daichi Yamamoto x Koh)",
-      "url": "https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1795,26 +1783,30 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Sweet Sticky Thing(feat. mabanua, \u3055\u3089\u3055)",
-        "url": "https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR"
+        "name": "A440",
+        "url": "https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe"
       },
       "artists": [
         {
-          "name": "Pyramid",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
         },
         {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "KOH",
+          "url": "https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb"
         }
       ],
-      "duration_ms": 260026,
-      "name": "Sweet Sticky Thing(feat. mabanua, \u3055\u3089\u3055)",
-      "url": "https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE"
+      "duration_ms": 267173,
+      "name": "440hz (feat. Daichi Yamamoto x Koh)",
+      "url": "https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91"
     }
   ],
   "unique_name": "Tokyo Rising",

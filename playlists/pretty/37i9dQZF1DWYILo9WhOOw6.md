@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,923 likes - 92 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,226 likes - 92 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 9 | [Maximum Focus Delta \(1.7Hz\)](https://open.spotify.com/track/29Hn90Qbo0E3lwf97pJOHg) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 |
 | 10 | [Delta Sleep Waves 87.2Hz \- 88.6Hz](https://open.spotify.com/track/2eCKzMlnobzurHO3q6WvTc) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:11 |
 | 11 | [Binaural 1HZ Delta \- 87HZ \- 88HZ](https://open.spotify.com/track/0dkDiq6NzOTStndyEBdi6W) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Healing Sines Binaural](https://open.spotify.com/album/0AbJLoQG79vDi859ELxGJi) | 2:13 |
-| 12 | [Delta Revive 92 Hz](https://open.spotify.com/track/1AuhhyzXXeYDwDAD7IIObH) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Revive 92 Hz](https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd) | 2:48 |
+| 12 | [Delta Revive 92 Hz \- 93 Hz](https://open.spotify.com/track/1AuhhyzXXeYDwDAD7IIObH) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Revive 92 Hz \- 93 Hz](https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd) | 2:48 |
 | 13 | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Sleep & Relaxation](https://open.spotify.com/track/2YKt33Zzt3ljsMK7bhrlFM) | [E\_90](https://open.spotify.com/artist/027u97ysIth7sXh3py0Pfg) | [Delta Binaural Sinus 90 Hz \- 91 Hz \- Sleep & Relaxation](https://open.spotify.com/album/11UyZAncEjgX1d0hLo4Yg9) | 3:19 |
 | 14 | [Delta Binaural Sinus 90 Hz \- 91 Hz](https://open.spotify.com/track/5h7shlrQDPiG6hU4ZwcENM) | [brozains](https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA) | [Delta Binaural Sinus 90 Hz \- 91 Hz](https://open.spotify.com/album/4tyxvnBqk6ZYry5XCeQt3g) | 3:09 |
 | 15 | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/track/0kKvSsrcHaAv92QvNZFgrj) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/album/3VpVkXeykUTFsYY3JPW3SM) | 3:01 |

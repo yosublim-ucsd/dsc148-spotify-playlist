@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-264 songs - 14 hr 28 min
+265 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,12 +81,13 @@
 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 | 2022-07-07 |  |
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-07 |  |
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-17 |
-| [Dona Do Meu Coração](https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF), [Mozzy Jr](https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB) | [Dona Do Meu Coração](https://open.spotify.com/album/766f2mw4eB8TdjXhvelZTL) | 3:57 | 2023-03-24 |  |
+| [Dona Do Meu Coração](https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF), [Mozzy Jr](https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB) | [Dona Do Meu Coração](https://open.spotify.com/album/766f2mw4eB8TdjXhvelZTL) | 3:57 | 2023-03-24 | 2023-04-09 |
 | [DRIP](https://open.spotify.com/track/61GFnSZxDj81InwQ557bHn) | [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [DRIP](https://open.spotify.com/album/78vNTZsf7x1Un1jt6RGN1B) | 3:08 | 2022-10-06 | 2022-10-28 |
 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 | 2022-09-01 | 2022-09-30 |
 | [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 | 2023-03-17 |  |
 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 | 2022-07-07 | 2022-08-05 |
 | [Enganada](https://open.spotify.com/track/4syj8Nofc0O0BJ1EtOKCaT) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Enganada](https://open.spotify.com/album/2S3QLFmlbKPgooo0wialtq) | 2:52 | 2022-07-07 | 2022-07-21 |
+| [Entre Nós](https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Entre Nós](https://open.spotify.com/album/7hK8tp2hartNZYIdAk7qwk) | 3:12 | 2023-04-06 |  |
 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 | 2022-12-02 | 2023-01-06 |
 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 | 2022-07-07 |  |
 | [Esse Corpo](https://open.spotify.com/track/69KrMw0IRIwTDXWvib4wON) | [YRC](https://open.spotify.com/artist/6iDIU9vxMcfwrUkpzkoDc7), [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Esse Corpo](https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf) | 3:04 | 2022-09-01 | 2022-09-09 |

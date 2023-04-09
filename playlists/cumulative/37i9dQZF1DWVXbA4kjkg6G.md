@@ -4,7 +4,7 @@
 
 > Psychedelic beat science.
 
-127 songs - 12 hr 18 min
+128 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:00 | 2021-06-25 |  |
 | [Dayvan Cowboy](https://open.spotify.com/track/4Y2W4zKa3q72ztbkA0r8Va) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:00 | 2021-06-25 | 2023-02-02 |
 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 | 2021-06-25 |  |
-| [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 | 2021-06-25 |  |
+| [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 | 2021-06-25 | 2023-04-09 |
 | [Dig This Vibe](https://open.spotify.com/track/2xtVHxXsBNADpdNUr8Owpa) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 4:54 | 2021-06-25 | 2022-07-29 |
 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 | 2021-06-25 |  |
 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 | 2021-06-25 | 2023-02-07 |
@@ -134,6 +134,7 @@
 | [What Does Your Soul Look Like \- Pt\. 2](https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 13:51 | 2021-06-25 | 2023-01-30 |
 | [What Does Your Soul Look Like \- Pt.1](https://open.spotify.com/track/33gDgh1eLhTsrEeCSfuWWX) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Man From Mo’ Wax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq) | 6:21 | 2021-06-25 | 2022-08-12 |
 | [What Does Your Soul Look Like \- Pt.1](https://open.spotify.com/track/7bObrzqPrAN9fAKCoH8s40) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 6:21 | 2021-06-25 | 2022-07-29 |
+| [What Does Your Soul Look Like, Pt\. 1](https://open.spotify.com/track/6mV0YLf8jUgEuIunnDCzUD) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 6:21 | 2021-06-25 |  |
 | [What Does Your Soul Look Like, Pt\. 2](https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 13:51 | 2021-06-25 |  |
 
 \*This playlist was first scraped on 2022-04-14. Prior content cannot be recovered.

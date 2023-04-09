@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring TINI. ",
-  "num_followers": 471,
+  "num_followers": 571,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxMjYyMCwwMDAwMDAwMGRmYTdiZDQwOTRiMjBkNTAzMTYzNzFiOGFmODBjM2Ey",
+  "snapshot_id": "MTY4MDgxMjYyMCwwMDAwMDAwMGNlNjFiNjcwZTI4YWYzMTExMjhmMTBkZjliNDQ0MzAy",
   "tracks": [
     {
       "added_at": "2023-04-06 20:23:40",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-04-06 20:23:40",
       "album": {
+        "name": "plan",
+        "url": "https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "plan",
+      "url": "https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL"
+    },
+    {
+      "added_at": "2023-04-06 20:23:40",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2023-04-06 20:23:40",
       "album": {
-        "name": "plan",
-        "url": "https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "plan",
-      "url": "https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL"
-    },
-    {
-      "added_at": "2023-04-06 20:23:40",
-      "album": {
         "name": "Sincer\u00e1ndome",
         "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 219672,
       "name": "Sincer\u00e1ndome",
       "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
+    },
+    {
+      "added_at": "2023-04-06 20:23:40",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-04-06 20:23:40",
@@ -335,22 +351,6 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2023-04-06 20:23:40",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-04-06 20:23:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-06 20:23:40",
       "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
-    },
-    {
-      "added_at": "2023-04-06 20:23:40",
-      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+    },
+    {
+      "added_at": "2023-04-06 20:23:40",
+      "album": {
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
     },
     {
       "added_at": "2023-04-06 20:23:40",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-06 20:23:40",
       "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
+    },
+    {
+      "added_at": "2023-04-06 20:23:40",
+      "album": {
         "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
         "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
-    },
-    {
-      "added_at": "2023-04-06 20:23:40",
-      "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
     },
     {
       "added_at": "2023-04-06 20:23:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-04-06 20:23:40",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6"
-      },
-      "artists": [
-        {
-          "name": "Pau Mueller",
-          "url": "https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko"
-        }
-      ],
-      "duration_ms": 205296,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p"
-    },
-    {
-      "added_at": "2023-04-06 20:23:40",
-      "album": {
         "name": "Los Mejores A\u00f1os",
         "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202106,
       "name": "Los Mejores A\u00f1os",
       "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
+    },
+    {
+      "added_at": "2023-04-06 20:23:40",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6"
+      },
+      "artists": [
+        {
+          "name": "Pau Mueller",
+          "url": "https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko"
+        }
+      ],
+      "duration_ms": 205296,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p"
     },
     {
       "added_at": "2023-04-06 20:23:40",

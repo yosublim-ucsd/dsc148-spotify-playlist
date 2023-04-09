@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-503 songs - 1 day 10 hr 42 min
+504 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 | 2023-03-23 |  |
 | [A Fine Romance](https://open.spotify.com/track/191Pkd7ZYqI2zgQ3QbCbfM) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 3:41 | 2021-12-03 |  |
 | [A Foggy Day](https://open.spotify.com/track/1TIBoZ9EokVBNMJxetdfO0) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/4qNuS2VIZZozT0RcI8c5tJ) | 6:33 | 2021-12-03 | 2022-07-29 |
-| [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-06-30 |  |
+| [A Foggy Day](https://open.spotify.com/track/7b579YfrUOFI8jwCd8ZeZm) | [Robert Kaddouch](https://open.spotify.com/artist/1xbBIDmxFyssNnRwvZJCmO), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [53rd Street](https://open.spotify.com/album/5fR9R5HWZcyhdBXdpGsZiu) | 6:33 | 2022-06-30 | 2023-04-09 |
 | [A Knock On The Door](https://open.spotify.com/track/1lKkIBFCcsUOG14fPmvbhw) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [A Knock On The Door](https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F) | 3:27 | 2022-11-10 |  |
 | [A Mother's Love](https://open.spotify.com/track/1AO9JLBiy1gZREISyucd6v) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [A Mother's Love](https://open.spotify.com/album/35iuiVjjXK5RA7VpgYivTM) | 4:55 | 2023-02-09 |  |
 | [A Quiet Place](https://open.spotify.com/track/2sOncurUkrw3CYWliyxYSU) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [A Quiet Place](https://open.spotify.com/album/6pJy7KHyUogF78gFgqQOgu) | 2:28 | 2022-11-10 |  |
@@ -485,6 +485,7 @@
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-02-09 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/3fsiMFP50UJWm1TJlckFUq) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Lee Konitz Meets Jimmy Giuffre](https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs) | 5:02 | 2021-12-03 | 2023-03-27 |
 | [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2022-03-25 | 2022-09-27 |
+| [Whitsunday Islands](https://open.spotify.com/track/1zKGVPC73CCFAyTF5Hsyqy) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Whitsunday Islands](https://open.spotify.com/album/7ysiBzJ6c0Mv8Y1bFTjKdE) | 3:53 | 2023-03-30 |  |
 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 | 2021-12-03 |  |
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-12-01 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 | 2021-12-03 |  |

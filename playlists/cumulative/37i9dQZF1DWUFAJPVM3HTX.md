@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Annie Tracy\. Updates every Wednesday.
 
-1,174 songs - 2 day 12 hr 53 min
+1,175 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [One Plus One](https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [One Plus One](https://open.spotify.com/album/10gGLGbjwOaOwGnDPN6RV2) | 3:09 | 2022-03-23 | 2022-04-14 |
 | [Only Love](https://open.spotify.com/track/4oKaJZZAQOUnkjtQ9GsDwv) | [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Only Love](https://open.spotify.com/album/3fM9SLfzl2pu0pl4Hc0PVA) | 2:55 | 2022-02-02 | 2022-03-18 |
 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 | 2022-03-23 | 2022-04-28 |
+| [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-04-07 |  |
 | [OOOO AAH](https://open.spotify.com/track/0wxs4LBPtGl7r9HMsoLF5V) | [HXRY](https://open.spotify.com/artist/2iqM6ytAoq3ckSITRNOaWB) | [OOOO AAH](https://open.spotify.com/album/1stGmRuTdU000aOby2w4jU) | 2:42 | 2022-11-02 | 2022-12-01 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-11 | 2022-08-11 |
 | [Open \- Remix](https://open.spotify.com/track/0YPi0MjhQKT0Ey68g0r3ai) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:28 | 2022-11-30 | 2023-02-04 |

@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=MpB7fQOiQemHUhrZZlEuBA"> Stonebwoy </a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h?si=2e33ZQeKSQqH4E0377Z0sw"> Boijake </a>  and <a href="https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO?si=P5Cm2p4iSRWRDXWDS21hjQ"> Cina Soul </a>
 
-146 songs - 7 hr 55 min
+147 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-09 | 2023-02-24 |
 | [Goosebumps](https://open.spotify.com/track/61wxMXgLy8Vfxzx65gthIW) | [Jetey](https://open.spotify.com/artist/0BzP5LIn392sLAa78SapOZ) | [Goosebumps](https://open.spotify.com/album/0PNWsa8wiZNgdFqIUgmdSQ) | 3:24 | 2023-03-10 | 2023-03-18 |
 | [Happy](https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Happy](https://open.spotify.com/album/255TlgzhDs5gF0grRyW7Sl) | 2:51 | 2023-01-27 | 2023-02-04 |
+| [Hold Your Hand \(feat\. Cina Soul\)](https://open.spotify.com/track/10g2YHyH9nUwnwZxN1sFnN) | [Boijake](https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Hold Your Hand \(feat\. Cina Soul\)](https://open.spotify.com/album/6JT5DoACB7iBbfMRFu3BMi) | 2:37 | 2023-04-07 |  |
 | [Holding On \- Live Dub Mix](https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP) | [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [The Ghana Live Sessions](https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc) | 9:16 | 2023-03-17 |  |
 | [How It Feels](https://open.spotify.com/track/6FHrYFvLQF44jPGnCbY5kS) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [How It Feels](https://open.spotify.com/album/1KhzP6Qgliwr7oNZ4nBSUg) | 3:36 | 2023-03-17 |  |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-02-24 |
@@ -128,7 +129,7 @@
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2022-11-04 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-11-04 |  |
 | [Sophia](https://open.spotify.com/track/60836fFuqabzSTVWykb2YC) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sophia](https://open.spotify.com/album/33MnqYooSC2VMMQrL6S0Au) | 3:07 | 2022-11-04 | 2023-02-24 |
-| [Su Mo Mi](https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Su Mo Mi](https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4) | 3:24 | 2022-12-08 |  |
+| [Su Mo Mi](https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Su Mo Mi](https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4) | 3:24 | 2022-12-08 | 2023-04-09 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 | 2023-03-11 |
 | [Sugarcane](https://open.spotify.com/track/7rfguZ7DWKbdB59gwP5V4i) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Sugarcane](https://open.spotify.com/album/2y8kLNrsi23YWGA7uHDXpp) | 2:36 | 2022-11-04 |  |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-11-04 | 2022-12-25 |

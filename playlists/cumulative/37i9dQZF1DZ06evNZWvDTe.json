@@ -2524,10 +2524,32 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 221611,
       "name": "Stir It Up",
       "url": "https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS"
+    },
+    {
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221611,
+      "name": "Stir It Up (Feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 331536,
+  "num_followers": 331801,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGY2Zjc4NjJjZTFhZDdhZTZlZmQ1OWU0Y2Y3YzA0MzEw",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDVhOWI3N2Y1MDU2NmIwYThjNzdlYTMzNzBhZDIyZjkx",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "The Olympians",
         "url": "https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 217053,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 359698,
-      "name": "Gravy Train",
-      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 359698,
+      "name": "Gravy Train",
+      "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "3 (Remastered)",
@@ -467,22 +483,6 @@
       "duration_ms": 138533,
       "name": "Work Tapes",
       "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -591,26 +591,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl"
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
       },
       "artists": [
         {
-          "name": "Magic In Threes",
-          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
-        },
-        {
-          "name": "Charles Ray",
-          "url": "https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX"
-        },
-        {
-          "name": "Troy Atkins",
-          "url": "https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM"
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
         }
       ],
-      "duration_ms": 120185,
-      "name": "Stay In Your Lane",
-      "url": "https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3"
+      "duration_ms": 179546,
+      "name": "The Wrangler",
+      "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -647,34 +639,42 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        },
+        {
+          "name": "Charles Ray",
+          "url": "https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX"
+        },
+        {
+          "name": "Troy Atkins",
+          "url": "https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM"
         }
       ],
-      "duration_ms": 179546,
-      "name": "The Wrangler",
-      "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
+      "duration_ms": 120185,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         }
       ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
+      "duration_ms": 275200,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -693,20 +693,20 @@
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-02-19 05:01:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "VXNTX VXNTX",
+        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
+      },
+      "artists": [
+        {
+          "name": "Black Mantra",
+          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Got Ya Movin'",
@@ -831,22 +847,6 @@
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "VXNTX VXNTX",
-        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
-      },
-      "artists": [
-        {
-          "name": "Black Mantra",
-          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Psychic Powers",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Scratch My Itch",
         "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
       },
@@ -1039,6 +1039,26 @@
       "duration_ms": 239280,
       "name": "Do You Wanna Get Down",
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Jeff Franca",
+          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Permission to Land - 45",
+      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1075,26 +1095,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Jeff Franca",
-          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Permission to Land - 45",
-      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+        }
+      ],
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 302288,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
-      },
-      "artists": [
-        {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
-        }
-      ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2021-01-15 21:11:37",
@@ -1289,6 +1289,22 @@
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
+    },
+    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Drift",
@@ -1319,22 +1335,6 @@
       "duration_ms": 317000,
       "name": "Couple A Brownies",
       "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1373,20 +1373,24 @@
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Greasin The Wheels",
-        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
+        "name": "Watchu Want",
+        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
       },
       "artists": [
         {
-          "name": "The Sound Stylistics",
-          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
         }
       ],
-      "duration_ms": 293880,
-      "name": "THE CRISIS GENERATOR",
-      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
+      "duration_ms": 160866,
+      "name": "Watchu Want",
+      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
     }
   ],
   "unique_name": "Instrumental Funk",

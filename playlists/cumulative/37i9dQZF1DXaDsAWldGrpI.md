@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-114 songs - 8 hr 5 min
+115 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [When You Say Nothing At All \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:21 | 2021-07-22 |  |
 | [Where I Find God \(Live\)](https://open.spotify.com/track/4ulpcN5xjehEx4MbF7uk81) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Larry Fleet \- The Live Sessions \[Vol\. 1\]](https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM) | 4:15 | 2022-10-28 |  |
 | [Whiskey Rock\-A\-Roller \- Live](https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 4:27 | 2021-07-22 |  |
+| [Wings \- Live at the Ryman](https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wings \(Live at the Ryman\)](https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs) | 6:03 | 2023-04-07 |  |
 | [Wish for the World \- Live from Nashville](https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:39 | 2021-07-22 |  |
 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 | 2021-07-22 |  |
 | [Wreckage \- Live](https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage \(Live\)](https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O) | 3:31 | 2023-03-31 |  |

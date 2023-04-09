@@ -135,6 +135,36 @@
     },
     {
       "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "album": {
         "name": "4K",
         "url": "https://open.spotify.com/album/7Ad5KfoMmcEL3FRLRZ7zFa"
       },
@@ -600,7 +630,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 139634,
       "name": "atimemyfriend",
       "url": "https://open.spotify.com/track/1FZJuTa8z5fe1RC67AbuZ5"
@@ -618,7 +648,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 125711,
       "name": "Aug/28th",
       "url": "https://open.spotify.com/track/4htYIyBKyxzlTEX7VAkCVs"
@@ -954,6 +984,28 @@
       "duration_ms": 199731,
       "name": "Bitch Again",
       "url": "https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx"
+    },
+    {
+      "album": {
+        "name": "black enuff",
+        "url": "https://open.spotify.com/album/6hm8EXSOCKbRxEypqsmag4"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "black enuff",
+      "url": "https://open.spotify.com/track/0L9p0fF3HdxKEvKLaNBM4w"
     },
     {
       "album": {
@@ -4690,7 +4742,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 164861,
       "name": "MOTOWN",
       "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
@@ -5297,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Outside the Lines",
+        "url": "https://open.spotify.com/album/410Nzvl7VIx3G3wNywyxIv"
+      },
+      "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107290,
+      "name": "Outside the Lines",
+      "url": "https://open.spotify.com/track/7fYnkZZcCfIT7kDUSCF9of"
+    },
+    {
+      "album": {
         "name": "Outta Sight",
         "url": "https://open.spotify.com/album/5kCNr9R944DfHPbDCpjsDs"
       },
@@ -5775,6 +5845,24 @@
     },
     {
       "album": {
+        "name": "Purple Dye",
+        "url": "https://open.spotify.com/album/29SiDlNYMKxITfYMuYQHu0"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Purple Dye",
+      "url": "https://open.spotify.com/track/0a6GQAjN5xk87BaNEPIBOA"
+    },
+    {
+      "album": {
         "name": "Purr (feat. Kari Faux)",
         "url": "https://open.spotify.com/album/1iWIu8GEWjvJIoaWdqK2Fb"
       },
@@ -6182,7 +6270,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 130813,
       "name": "Sex Symbol",
       "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
@@ -6847,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "Strike (Holster)",
+        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
+    },
+    {
+      "album": {
         "name": "Suicide",
         "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
       },
@@ -7362,10 +7468,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 273620,
       "name": "Then Spring",
       "url": "https://open.spotify.com/track/7oZelwIXofSvJaWFVaab3q"
+    },
+    {
+      "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "THINK OF ME",
+      "url": "https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR"
     },
     {
       "album": {
@@ -7955,6 +8083,28 @@
     },
     {
       "album": {
+        "name": "ESCAPISM",
+        "url": "https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p"
+      },
+      "artists": [
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221797,
+      "name": "Westside Story (with Duckwrth)",
+      "url": "https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai"
+    },
+    {
+      "album": {
         "name": "Where 2 Next",
         "url": "https://open.spotify.com/album/1VZdh50iKGLhM3oukcqvJT"
       },
@@ -8222,7 +8372,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
@@ -8400,7 +8550,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 224250,
       "name": "You Say",
       "url": "https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK"

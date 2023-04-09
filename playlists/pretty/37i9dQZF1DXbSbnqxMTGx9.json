@@ -1,12 +1,12 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bunny Wailer",
-  "num_followers": 2760803,
+  "num_followers": 2769267,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg1NDU3MCwwMDAwMDAwMDRlNmVlMmU1YThlM2UzNjJjM2E1NTk3NTZkNmM0ZGNm",
+  "snapshot_id": "MTY2Mzg1NDU3MCwwMDAwMDAwMGNlMmI3MGM2MWZlZjQ4MzE1MWRhNWM5YzhhM2QzMTYz",
   "tracks": [
     {
       "added_at": "2022-09-22 13:49:30",
@@ -979,8 +979,8 @@
     {
       "added_at": "2022-09-22 13:49:30",
       "album": {
-        "name": "Super Best",
-        "url": "https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH"
+        "name": "The Best of Horace Andy",
+        "url": "https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
         }
       ],
-      "duration_ms": 174219,
+      "duration_ms": 172906,
       "name": "You Are My Angel",
-      "url": "https://open.spotify.com/track/20Pv33mbJKBMUURzMpLr3p"
+      "url": "https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI"
     },
     {
       "added_at": "2022-09-22 13:49:30",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2022-09-22 13:49:30",
       "album": {
-        "name": "Super Best",
-        "url": "https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH"
+        "name": "The Best of Trojan Soul Reggae Vol. 1",
+        "url": "https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
         }
       ],
-      "duration_ms": 136185,
+      "duration_ms": 134573,
       "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk"
+      "url": "https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G"
     },
     {
       "added_at": "2022-09-22 13:49:30",
@@ -2867,18 +2867,22 @@
     {
       "added_at": "2022-09-22 13:49:30",
       "album": {
-        "name": "Scratch Came, Scratch Saw, Scratch Conquered",
-        "url": "https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA"
+        "name": "Scratch Came Scratch Saw Scratch Conquered",
+        "url": "https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi"
       },
       "artists": [
         {
           "name": "Lee \"Scratch\" Perry",
           "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Steve Marshall",
+          "url": "https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE"
         }
       ],
-      "duration_ms": 280960,
+      "duration_ms": 280490,
       "name": "Having A Party",
-      "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
+      "url": "https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO"
     },
     {
       "added_at": "2022-09-22 13:49:30",

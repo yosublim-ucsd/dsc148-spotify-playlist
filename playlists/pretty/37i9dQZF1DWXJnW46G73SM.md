@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: على لوكا
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,928 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,995 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [جعفر العمدة \- تتر بداية المسلسل](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [جعفر العمدة \(تتر بداية المسلسل\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
+| 1 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
 | 2 | [We Lesa Ya Donya](https://open.spotify.com/track/3T3rQCq9rwox4gF1ATaJNz) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [We Lesa Ya Donya](https://open.spotify.com/album/5Cmt2DK38UfaUXSYnWYxdm) | 3:08 |
 | 3 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 |
 | 4 | [بيتنا \- تتر مسلسل العيلة دي](https://open.spotify.com/track/5MJvSm6EoCbuYTkRYESMrT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [بيتنا \(تتر مسلسل العيلة دي\)](https://open.spotify.com/album/4BLn54YmROpPMjUBhNSMOO) | 3:20 |

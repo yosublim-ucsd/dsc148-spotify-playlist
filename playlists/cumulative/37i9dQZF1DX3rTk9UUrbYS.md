@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-113 songs - 14 hr 33 min
+114 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Equation](https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7) | [Mike Sopko](https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed), [Bill Laswell](https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [On Common Ground](https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK) | 7:56 | 2020-10-02 |  |
 | [Equidistant Between](https://open.spotify.com/track/69g1WfQZwIeyZQxBxdPOVg) | [Huw V Williams](https://open.spotify.com/artist/6hRVe9j6YVlUtqN3csCB6u) | [Equidistant Between](https://open.spotify.com/album/5ysRzSXZhth8Bx5Iv1Gzdm) | 5:53 | 2020-08-25 |  |
 | [Everything I Love](https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 4:33 | 2020-08-25 |  |
+| [Excerpt from Spectre d'un songe](https://open.spotify.com/track/7m2KJDkBZ9KA1P9l3OQeRf) | [Sylvie Courvoisier](https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3), [Cory Smythe](https://open.spotify.com/artist/5UageRpKPwCqXQLs79kXO3) | [Excerpt from Spectre D'un Songe](https://open.spotify.com/album/2xCmofdVvMCpcO9GwFSBY8) | 9:39 | 2023-04-07 |  |
 | [Explain It To Me](https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL), [Ralph Bowen](https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX), [Tim Warfield](https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v), [Antonio Hart](https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA), [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv), [Ralph Peterson](https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7) | [Captain Black](https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX) | 7:48 | 2020-08-25 |  |
 | [Fast Forward](https://open.spotify.com/track/0ssTZCjpOLSJuGfDj7a9SV) | [Reggie Workman](https://open.spotify.com/artist/3mBoT9nTZ12JQPfrOrwD3p), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5), [Julian Priester](https://open.spotify.com/artist/1xIC7zdokMyFfUiFOnDw4o) | [Fast Forward](https://open.spotify.com/album/5MhCwKx1MxwS7W0zhjWAfd) | 6:39 | 2021-10-01 |  |
 | [Fiasco : In the Moment](https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG) | [Rope](https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO) | [In The Moment \(The Music of Charlie Haden\)](https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs) | 3:34 | 2021-12-03 |  |

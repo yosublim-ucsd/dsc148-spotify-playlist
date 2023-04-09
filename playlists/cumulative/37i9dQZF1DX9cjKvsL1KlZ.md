@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-329 songs - 15 hr 32 min
+330 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Scenario](https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 4:01 | 2022-06-17 | 2022-10-08 |
 | [Scenario](https://open.spotify.com/track/5Evn9HZVpqpKDV0nkWlPmx) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo \(Deluxe Version\)](https://open.spotify.com/album/22py1IeIi51c0GBYEHQTsI) | 4:01 | 2022-12-05 | 2023-02-02 |
 | [Scuba Diva](https://open.spotify.com/track/1vhhLLZDSjM9xCyLvW1ALQ) | [Leeky Bandz](https://open.spotify.com/artist/08UUGGbQJQENS4gOd6VU00) | [Life After Future](https://open.spotify.com/album/2fQ5deidLKC9hkT00trC4y) | 2:31 | 2022-07-01 | 2022-07-13 |
+| [Sdot Go \- WNA](https://open.spotify.com/track/2mNcQnrHoGyM7QmzA6oEqt) | [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Sdot Go \- WNA](https://open.spotify.com/album/2SCd2rfr1TaH0SO7ew9sbG) | 2:19 | 2023-04-07 |  |
 | [See Red](https://open.spotify.com/track/0Tme1gffQUvjvcocQ2FHTM) | [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [See Red](https://open.spotify.com/album/6czePQabCT1KxJznPxKPBI) | 2:00 | 2022-12-05 | 2023-01-18 |
 | [Shabba \(feat\. A$AP Rocky\)](https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:35 | 2022-03-01 | 2022-05-11 |
 | [Shake Dat](https://open.spotify.com/track/6YLBvzfTzi1cd3lPm4UGLY) | [Miah kenzo](https://open.spotify.com/artist/4dvnuDf43s9V544qpoBnBt), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Dj swill b](https://open.spotify.com/artist/5CNgkZmAoYZGyJ5MXppnfg) | [Shake Dat](https://open.spotify.com/album/2MPQ69ocR7OE0RjHjyaZCh) | 3:29 | 2023-04-07 |  |
@@ -322,7 +323,7 @@
 | [Whoa](https://open.spotify.com/track/3Z7x5vCdHcTYE6YgmnmH0w) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO) | [Whoa](https://open.spotify.com/album/3Xglak2q6GaPtelB0pIEmu) | 2:51 | 2022-06-03 | 2022-07-13 |
 | [Whole Lotta Wickery](https://open.spotify.com/track/5EqD4DdoK0FGgsSMP9HORW) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Merry Wickmas](https://open.spotify.com/album/7maLkOMxNNkoHbVE8VWVka) | 3:05 | 2022-03-01 |  |
 | [WICK](https://open.spotify.com/track/3hhTeIwULQvxl3GaeJJ1o2) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [WICK](https://open.spotify.com/album/7AUyTx5Ku4MvA4enIW2PZ3) | 1:21 | 2022-10-07 | 2023-01-18 |
-| [WNA](https://open.spotify.com/track/0QlvprQJkt1hOIgfeaAfgj) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV) | [WNA](https://open.spotify.com/album/4gONkY34eM5GbkYNHxnkDL) | 2:19 | 2023-04-07 |  |
+| [WNA](https://open.spotify.com/track/0QlvprQJkt1hOIgfeaAfgj) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV) | [WNA](https://open.spotify.com/album/4gONkY34eM5GbkYNHxnkDL) | 2:19 | 2023-04-07 | 2023-04-09 |
 | [Wockhardt](https://open.spotify.com/track/1Da2DD3CJyXvVWe3e80C3I) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Merry Wickmas](https://open.spotify.com/album/7maLkOMxNNkoHbVE8VWVka) | 2:11 | 2022-03-25 |  |
 | [WOO BACK](https://open.spotify.com/track/7vzlduIWamkMcTNXpRC3i8) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [MAYOR OF THE STREETS](https://open.spotify.com/album/5KbAqERoNehnL6RW78PvxJ) | 3:10 | 2022-06-17 | 2022-07-13 |
 | [Woo Nina](https://open.spotify.com/track/5h0Z4h27VDrbaZOzjOi9nB) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Rebel vs\. Rowdy](https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS) | 2:07 | 2022-11-08 | 2023-02-02 |

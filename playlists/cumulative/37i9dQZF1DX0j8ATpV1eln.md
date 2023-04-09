@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-133 songs - 8 hr 49 min
+135 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bloom of Youth](https://open.spotify.com/track/3wOFa4aCmZ1eijDOf3ETJv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [O×T Complete Songs TV Anime "Ace of Diamond"](https://open.spotify.com/album/31MVKQ2l23p7ffFgLuWKao) | 4:19 | 2022-07-26 |  |
 | [BOYA'S DREAM](https://open.spotify.com/track/18c1fBSVo077DkZMBJJv8v) | [エミリア\(CV:高橋李依\)](https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK) | [TV SERIES ”RE:ZERO \-STARTING LIFE IN ANOTHER WORLD” CHRACTER SONG ALBUM](https://open.spotify.com/album/4NVxZh19NZn5YvC7DhLh9w) | 3:29 | 2022-07-26 |  |
 | [BRAND NEW BLUE \(feat.オーイシマサヨシ\)](https://open.spotify.com/track/3WFmQpUgqoG9fKJQvyTIS2) | [沢村栄純\(CV:逢坂良太\)](https://open.spotify.com/artist/3B9T7Svm2a76E6NpvQPyKx), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [BRAND NEW BLUE](https://open.spotify.com/album/2b3sq1TGI2I6xOFTBdmPN1) | 3:59 | 2022-04-26 |  |
-| [Chance!](https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Chance!/Yugata](https://open.spotify.com/album/7h83mVTDGHwtGOli9lYNZg) | 3:36 | 2022-07-26 |  |
+| [Chance!](https://open.spotify.com/track/5VfBsV4CGXTEoXcpKCYlbJ) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [R](https://open.spotify.com/album/4EickkApFQdwrGpgR8a7Q7) | 3:35 | 2023-04-06 |  |
+| [Chance!](https://open.spotify.com/track/0qsCl2VGBKUq50K1gT184f) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Chance!/Yugata](https://open.spotify.com/album/7h83mVTDGHwtGOli9lYNZg) | 3:36 | 2022-07-26 | 2023-04-09 |
 | [Circle of Seasons](https://open.spotify.com/track/0INHmCFlkg3oI1vSlonQ0C) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N) | 3:27 | 2022-04-26 | 2022-07-29 |
 | [Circle of Seasons](https://open.spotify.com/track/6ykOsKAoSXcxywikdIY1zt) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/5ha7l4jh7vHgOrVRFGwpvz) | 3:27 | 2022-07-26 |  |
 | [Eiyu no Uta](https://open.spotify.com/track/3V3r7CtwCmrnRCeGa4V1rw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 4:03 | 2022-07-26 |  |
@@ -65,6 +66,7 @@
 | [Role Playing](https://open.spotify.com/track/7AhXYCly0Z5vupZPEcLO0e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:39 | 2022-07-26 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7xTgtfIJ54hKynnZPPPQzq) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:43 | 2022-07-26 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7jNQBs0eqcRBnJYBi3uXA1) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 3:44 | 2022-08-16 | 2022-11-13 |
+| [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-06 |  |
 | [Tears of a Genius](https://open.spotify.com/track/0V8zCJZH63TLW6uPTPl2eN) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Be The Best! Be The Blue!/Tears of a Genius](https://open.spotify.com/album/6caPYuL5B1w6SV05gcBZo1) | 4:44 | 2022-04-26 |  |
 | [The Show Must Go On!](https://open.spotify.com/track/3pxhvNnbNC1RRjooKaJIkj) | [Mankai Stage "A3!" ～ Autumn & Winter 2019 ～ All Cast](https://open.spotify.com/artist/0PrtmhjXzixHsZ8WqDWd6L) | ["Mankai Stage "A3!" \~ Autumn & Winter 2019 \~" Music Collection](https://open.spotify.com/album/5PQTVNw0GPJAL9dIY1UyTP) | 4:35 | 2022-07-26 |  |
 | [The Show Must Go On!](https://open.spotify.com/track/2TqPbikfiJUB6BcaIlnnVJ) | [MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~オールキャスト](https://open.spotify.com/artist/6GjVqZPNAGuZN13WoTyOcF) | [「MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~」MUSIC Collection](https://open.spotify.com/album/7m9rX4FJTMpj8QGaVg8ayP) | 4:35 | 2022-04-26 | 2022-07-29 |
@@ -132,7 +134,7 @@
 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 | 2022-04-26 |  |
 | [枕男子](https://open.spotify.com/track/0lZm2bb74dls6EwTtdEjjs) | [めりぃ\(CV:花江夏樹\)](https://open.spotify.com/artist/1BMSB705CtH9G636Jjkdkx) | [枕男子](https://open.spotify.com/album/3aHyg1IqLSSkWRVLWTwag5) | 4:28 | 2022-04-26 |  |
 | [楽園都市](https://open.spotify.com/track/0ZBFfztO6e114GIuwAJVqS) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [楽園都市](https://open.spotify.com/album/6IShVEkA3GxKPvm5KgK6HN) | 3:46 | 2022-04-26 | 2022-07-29 |
-| [死んだ!](https://open.spotify.com/track/7zFAcqgCwF9AgKdSPwImiC) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [死んだ!](https://open.spotify.com/album/7wjP7t4lJVhp6g6atYj3PD) | 3:40 | 2023-04-06 |  |
+| [死んだ!](https://open.spotify.com/track/7zFAcqgCwF9AgKdSPwImiC) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [死んだ!](https://open.spotify.com/album/7wjP7t4lJVhp6g6atYj3PD) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [永遠ループ](https://open.spotify.com/track/0PJarEtcj3Y1bXIfXuNPhV) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [永遠ループ](https://open.spotify.com/album/4w08dZDIB3LwmXtraluQK9) | 3:49 | 2022-04-26 |  |
 | [沼](https://open.spotify.com/track/0YFEhsLTwrbax3SGI61p8h) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [TVアニメ「臨死!! 江古田ちゃん」エンディングテーマ曲・第10話](https://open.spotify.com/album/3jI6Ok0NINQ0e37V7CjpzS) | 3:11 | 2022-04-26 | 2022-07-29 |
 | [神或アルゴリズム](https://open.spotify.com/track/5aZ44JdjXUHPSHQio5FPcG) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [神或アルゴリズム](https://open.spotify.com/album/5ALqfFMlEfepMOe3cAjnbw) | 3:43 | 2022-04-26 | 2022-07-29 |

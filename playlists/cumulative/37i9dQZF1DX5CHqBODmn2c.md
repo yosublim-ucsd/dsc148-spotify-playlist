@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-148 songs - 8 hr 40 min
+149 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [FLOWER ROAD \- KR Ver.](https://open.spotify.com/track/370HUQ80ZczhMaWuFZO54Q) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/5rnN2OpG9EzVaGgpzrkyzH) | 3:48 | 2022-03-18 | 2022-07-29 |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2022-03-18 |  |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2022-03-18 |  |
-| [Give It to Me](https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 2:29 | 2022-07-14 |  |
+| [Give It to Me](https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 2:29 | 2022-07-14 | 2023-04-09 |
+| [give it to me](https://open.spotify.com/track/1m0yEldZVNu9SzmtqfFWRt) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 2:29 | 2022-07-14 |  |
 | [Give It to Me](https://open.spotify.com/track/5eXlvP0dxI3Xo2ngmNoj9X) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/6GbiSEYL78RDLpxoxkWavo) | 2:29 | 2022-03-18 | 2022-07-29 |
 | [gold \(Feat\. Dean\)](https://open.spotify.com/track/0EYOhg4jMf7hCLeQIxlvKL) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [DEAN](https://open.spotify.com/artist/2AP2dAjeRdX48EXcLMXOjf) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:56 | 2022-03-18 |  |
 | [Gravity&Moon](https://open.spotify.com/track/0Lp21MktMCpCbnCpB6oUzC) | [NU'EST W](https://open.spotify.com/artist/0gdWU9IX6LIiuPvXh95pas) | [WHO, YOU](https://open.spotify.com/album/3W93QQ0j8poUcMM6LJu9bR) | 3:02 | 2022-03-18 | 2022-07-29 |

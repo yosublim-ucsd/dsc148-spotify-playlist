@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Jesse®
+> New and approved indie pop\. Cover: Ricky Montgomery
 
-1,523 songs - 3 day 8 hr 18 min
+1,525 songs - 3 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Better On Your Own](https://open.spotify.com/track/52IjH7U9fkLgqM4yVecYGz) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Better On Your Own](https://open.spotify.com/album/2GOkSjZzy8MKVNvgIVEz5f) | 2:23 | 2021-07-02 | 2021-12-28 |
 | [BeVerly Hills BoYfRiEnd \(with ROLE MODEL\)](https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [BeVerly Hills BoYfRiEnd \(Remixes\)](https://open.spotify.com/album/6fr4YPNUZHYdycSDvc5qV1) | 2:43 | 2021-01-16 | 2022-04-29 |
 | [Bicycle](https://open.spotify.com/track/6je24EioclOnquVFZzQa81) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Bicycle](https://open.spotify.com/album/60QH27LQtqQ11jZaDYodg7) | 2:27 | 2023-02-04 | 2023-02-11 |
+| [Big House](https://open.spotify.com/track/0JxgrqSA328tRUNWdTmRAL) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Big House](https://open.spotify.com/album/2tqpoS992y7iKD4M4C2Jmx) | 3:25 | 2023-04-07 |  |
 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 | 2020-10-16 | 2021-06-03 |
 | [birth by sleep](https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [never knows best](https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY) | 2:42 | 2021-09-07 | 2021-09-08 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2022-04-02 |
@@ -433,6 +434,7 @@
 | [End Of The World](https://open.spotify.com/track/08CQNIi20pWkYtp2Cd4t3o) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [End Of The World](https://open.spotify.com/album/7K6WpKqY0jElSM2DWvrixK) | 3:12 | 2022-01-28 | 2022-06-07 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-11 | 2021-11-28 |
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-15 | 2020-11-15 |
+| [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-04-07 |  |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-07-29 |
 | [every wave](https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 2:49 | 2021-10-11 | 2021-10-12 |
 | [everybody's fine but me](https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [everybody's fine but me](https://open.spotify.com/album/49ARfwZ0TaxWu7pzxTfSi1) | 2:26 | 2021-09-24 | 2022-04-16 |
@@ -443,7 +445,7 @@
 | [Everything Matters](https://open.spotify.com/track/6YFos93VQcZFMTEKFYjuAK) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:33 | 2022-06-17 | 2022-08-06 |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2021-06-02 | 2022-04-16 |
 | [Ex](https://open.spotify.com/track/5A8mTPfiiByMaV1qO1kNwU) | [Tucker Rivera](https://open.spotify.com/artist/09WHWCIpkmBt5LP1OyZLxb) | [Ex](https://open.spotify.com/album/5jV5HUmGlE0WaDTF0UErCE) | 3:13 | 2020-10-20 | 2020-11-15 |
-| [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 | 2023-02-10 |  |
+| [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 | 2023-02-10 | 2023-04-09 |
 | [exception](https://open.spotify.com/track/4Dicd9CnldAenKEzOj6dGp) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [exception](https://open.spotify.com/album/38UgB5Zzl3wvuEParM2E59) | 3:04 | 2021-05-07 | 2022-04-16 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-25 | 2022-04-19 |
 | [F2F](https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:05 | 2023-03-01 |  |
@@ -575,7 +577,7 @@
 | [Harmless Fun](https://open.spotify.com/track/5K09SsCBHoecbMq3fUN7BW) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/7utbZQTQuG0qyPxHloha0L) | 2:12 | 2022-03-04 | 2022-07-28 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-09-17 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-18 | 2022-04-21 |
-| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
+| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 | 2023-04-09 |
 | [Haunted](https://open.spotify.com/track/71Uv6VSCYTjjXOEokJwpj4) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Haunted](https://open.spotify.com/album/5tgF2RTf3CbJiU8GSoeUsy) | 2:53 | 2021-06-02 | 2022-04-15 |
 | [have a great day](https://open.spotify.com/track/2TmW432ldVYhIwAdJSlJEG) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [have a great day](https://open.spotify.com/album/0FOFp8kZa4HtV16w2TTqTS) | 3:22 | 2021-06-03 | 2021-10-14 |
 | [He Said She Said](https://open.spotify.com/track/5fdoU9T5AUNXj9NNWmRGLp) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [He Said She Said](https://open.spotify.com/album/6PU2JJHEfry8nJT8K3BDzL) | 3:09 | 2021-05-05 | 2022-04-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Pablo Chill-E.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Cazzu & Young Miko.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -199,7 +199,7 @@
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 241814,
+      "duration_ms": 249130,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM"
     },
@@ -1048,6 +1048,28 @@
       "duration_ms": 148000,
       "name": "Brillo De M\u00e1s",
       "url": "https://open.spotify.com/track/1I8sOduAGo1LSZbfn8XYyS"
+    },
+    {
+      "album": {
+        "name": "Brinca",
+        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Brinca",
+      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
     },
     {
       "album": {
@@ -3122,7 +3144,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 238139,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/1VkBkhPi23wlkxCID2eRni"
@@ -3266,7 +3288,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JhayCo",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -3794,7 +3816,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JhayCo",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -4184,7 +4206,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JhayCo",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -4520,7 +4542,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 240325,
       "name": "Na Oficial",
       "url": "https://open.spotify.com/track/5bWqWZMZQanGyoUvCwAUEA"
@@ -4874,7 +4896,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JhayCo",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],

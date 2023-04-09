@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2834,
+  "num_followers": 2839,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDUxMGJiOTQwMjFiNzgzNDE3YjY0NjM2NzZhYWZhODEy",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDM1YTE3YjJkOGYyNzBlNTU2Mjk5YWQwODgwYmMwMGZm",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -229,22 +229,6 @@
       "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Puerto Rico",
-        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
-    },
-    {
       "added_at": "2021-10-29 16:16:48",
       "album": {
         "name": "Talamanca (Vintage Culture Remix)",
@@ -263,6 +247,22 @@
       "duration_ms": 190080,
       "name": "Talamanca - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Los Tamales",
-        "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 334838,
-      "name": "Los Tamales",
-      "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 184320,
       "name": "Alma Roja - DJ Chus Remix",
       "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Los Tamales",
+        "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 334838,
+      "name": "Los Tamales",
+      "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
     },
     {
       "added_at": "2021-11-26 07:27:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA"
-      },
-      "artists": [
-        {
-          "name": "Ferra Black",
-          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 174000,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA"
+      },
+      "artists": [
+        {
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 168960,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
     },
     {
       "added_at": "2021-10-08 15:53:55",

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 150857,
       "name": "$P$ - Studio Session #02",
       "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 228750,
       "name": "60 De Zile II",
       "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 198000,
       "name": "Ai fost (cu Mario Fresh)",
       "url": "https://open.spotify.com/track/4MyHuRtOyiKMrmd3lUlLpg"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 121263,
       "name": "Antalya",
       "url": "https://open.spotify.com/track/3ELepxj3JfSWBMcAacT8d8"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 297272,
       "name": "Antetokounmpo",
       "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 119877,
       "name": "Bam Bam Bam",
       "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 194118,
       "name": "Birkin Baby",
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 201600,
       "name": "Brasileira - From \u201cTEAMBUILDING\u201d The Movie",
       "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
@@ -2696,6 +2696,28 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
+    },
+    {
+      "album": {
+        "name": "\u00cenainte de SL2",
+        "url": "https://open.spotify.com/album/32PzvqI7MBrrow4v603aIf"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Bubu",
+      "url": "https://open.spotify.com/track/09N4dWThFN6tisI6nZpapV"
     },
     {
       "album": {
@@ -3994,7 +4016,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 145846,
       "name": "CONTACT FATAL 2",
       "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
@@ -4286,7 +4308,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 141333,
       "name": "Cum O Dai Tu",
       "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
@@ -4466,7 +4488,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
@@ -4564,6 +4586,32 @@
       "duration_ms": 194416,
       "name": "Dat dreacu",
       "url": "https://open.spotify.com/track/4cpIZu6PY41v8RLOXVLES9"
+    },
+    {
+      "album": {
+        "name": "Dau \u00een ei ca-n aparate",
+        "url": "https://open.spotify.com/album/234xBtccCUnrssEJsWE024"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Dau \u00een ei ca-n aparate",
+      "url": "https://open.spotify.com/track/0OTJA25ZML2VwZA1AFt7Gv"
     },
     {
       "album": {
@@ -4930,7 +4978,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -9994,7 +10042,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -10906,7 +10954,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -11702,7 +11750,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
@@ -13503,6 +13551,28 @@
     },
     {
       "album": {
+        "name": "\u00cenainte de SL2",
+        "url": "https://open.spotify.com/album/32PzvqI7MBrrow4v603aIf"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171642,
+      "name": "Nu-mi pas\u0103",
+      "url": "https://open.spotify.com/track/12qwyJBYW8uiq0YJpvkgCO"
+    },
+    {
+      "album": {
         "name": "TRAUME & CO\u0218MARURI",
         "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
       },
@@ -14559,6 +14629,28 @@
     },
     {
       "album": {
+        "name": "People, Pt. 2 (feat. IU)",
+        "url": "https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "People, Pt. 2 (feat. IU)",
+      "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
+    },
+    {
+      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -15096,7 +15188,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 242125,
       "name": "Prea T\u00e2rziu",
       "url": "https://open.spotify.com/track/70fk6v3uqVJRZkYtVyZ2mV"
@@ -15510,7 +15602,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 193858,
       "name": "R8",
       "url": "https://open.spotify.com/track/5QGToaybBcCxxCajc0wRuA"
@@ -15848,7 +15940,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 81014,
       "name": "Regii NFT",
       "url": "https://open.spotify.com/track/2JqiJCN3C9QPcD3baxZYyN"
@@ -16865,6 +16957,24 @@
     },
     {
       "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
         "name": "\u0218tefan III",
         "url": "https://open.spotify.com/album/2T7Si5dLIM2yxetjzq0mVX"
       },
@@ -17501,6 +17611,24 @@
     },
     {
       "album": {
+        "name": "SLUT ME OUT",
+        "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
+    },
+    {
+      "album": {
         "name": "Sl\u0103biciuni",
         "url": "https://open.spotify.com/album/4nFDj0N2zAESEmtdat1e4S"
       },
@@ -17830,6 +17958,28 @@
       "duration_ms": 134400,
       "name": "Spritz",
       "url": "https://open.spotify.com/track/4urWFRtutwGhMyasLFnZrC"
+    },
+    {
+      "album": {
+        "name": "\u00cenainte de SL2",
+        "url": "https://open.spotify.com/album/32PzvqI7MBrrow4v603aIf"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147923,
+      "name": "Spun cuvinte",
+      "url": "https://open.spotify.com/track/5AxeXKFH4ADDoranaZIrYY"
     },
     {
       "album": {
@@ -18432,7 +18582,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 139145,
       "name": "SWAG & CASH",
       "url": "https://open.spotify.com/track/51A6ZoY6MPDL64kkKr1JLW"
@@ -18900,7 +19050,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 140625,
       "name": "Teancuri",
       "url": "https://open.spotify.com/track/5hHq6NZy0DBfOHC5CFuxUa"
@@ -19774,7 +19924,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 123448,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
@@ -20422,7 +20572,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -22130,6 +22280,28 @@
       "duration_ms": 271743,
       "name": "\u00eentr-o bun\u0103 zi",
       "url": "https://open.spotify.com/track/0rFaTsFjVMye1Eb767IISh"
+    },
+    {
+      "album": {
+        "name": "\u00cenainte de SL2",
+        "url": "https://open.spotify.com/album/32PzvqI7MBrrow4v603aIf"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "\u0218omez",
+      "url": "https://open.spotify.com/track/7KGFQg9EDaU6jmc7HN8LTE"
     },
     {
       "album": {

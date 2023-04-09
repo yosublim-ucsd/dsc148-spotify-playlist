@@ -2480,6 +2480,24 @@
     {
       "album": {
         "name": "Day Dream",
+        "url": "https://open.spotify.com/album/406jynG8Y0juiFhyOaviak"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295846,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi"
+    },
+    {
+      "album": {
+        "name": "Day Dream",
         "url": "https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2"
       },
       "artists": [
@@ -4450,7 +4468,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 297493,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/1LJqVtPwHTUbdsXI1eZg1a"
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 185239,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62"
@@ -8238,6 +8256,40 @@
       "duration_ms": 135815,
       "name": "Postcards from Rome",
       "url": "https://open.spotify.com/track/7hMInVWOxfdI1NI5MgCWdS"
+    },
+    {
+      "album": {
+        "name": "Potions",
+        "url": "https://open.spotify.com/album/4XEN52kySR4Eb7ZS8WsR2g"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "John Chin",
+          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
+        },
+        {
+          "name": "Nick Tannura",
+          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340538,
+      "name": "Potions",
+      "url": "https://open.spotify.com/track/7l5TggVCPxbK5AHUqsD8ZL"
     },
     {
       "album": {

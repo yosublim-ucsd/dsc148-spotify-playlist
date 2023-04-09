@@ -4,7 +4,7 @@
 
 > Best of Karva Chauth songs for you!
 
-40 songs - 2 hr 55 min
+41 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2023-02-01 |  |
 | [Saajanji Ghar Aaye](https://open.spotify.com/track/5yDC62x6y5vZc32PzULCeU) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:15 | 2023-02-01 |  |
 | [Sajan Sajan Teri Dulhan](https://open.spotify.com/track/3qNlWVGQ7S6qzK4F8nVtJz) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Aarzoo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0nceoyxnslifLLgZiGGZNW) | 7:21 | 2023-02-01 |  |
-| [Sajna Hai Mujhe Sajna Ke Liye](https://open.spotify.com/track/3qF1g0fvLVZwipeGhwWho9) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Saudagar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1r2KfvHwplYqL0sZBOfnDe) | 5:04 | 2023-02-01 |  |
+| [Sajna Hai Mujhe Sajna Ke Liye](https://open.spotify.com/track/3qF1g0fvLVZwipeGhwWho9) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Saudagar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1r2KfvHwplYqL0sZBOfnDe) | 5:04 | 2023-02-01 | 2023-04-09 |
+| [SAJNA HAI MUJHE SAJNA KE LIYE](https://open.spotify.com/track/6D3FuuwtEqZbfKZkNN9YHs) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Asha Tai \- Straight Drives](https://open.spotify.com/album/2kJFRuimkQCVEXL5j1iXrC) | 5:04 | 2023-02-01 |  |
 | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/track/3TrdGeV5bEpHezExHlsguD) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/album/21bDtSHJ5mVCeNBpIRsToX) | 3:35 | 2023-02-01 |  |
 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 | 2023-02-01 |  |
 | [Tera Ban Jaunga](https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:56 | 2023-02-01 |  |

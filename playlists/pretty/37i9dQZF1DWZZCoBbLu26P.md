@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life\. Cover: Bimini
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,686 likes - 92 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,726 likes - 92 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

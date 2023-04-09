@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-60 songs - 2 hr 37 min
+61 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [My Heart Has Teeth \(feat\. Skylar Grey\)](https://open.spotify.com/track/5zIgxHl35DFqbWvUgr70tn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Resident Evil \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4yFA6UYsl2PnSC8vHs35Cx) | 4:49 | 2022-07-15 |  |
 | [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:37 | 2021-10-25 |  |
 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 | 2021-10-25 |  |
-| [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 | 2021-10-25 |  |
+| [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 | 2021-10-25 | 2023-04-09 |
+| [Planck's Constant](https://open.spotify.com/track/6WuFaFnm8gMsz0yakLYNUE) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 1:19 | 2022-07-15 |  |
 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 | 2021-10-25 |  |
 | [Straight To Hell \(from Netflix's "Chilling Adventures of Sabrina”\)](https://open.spotify.com/track/3TsnZQm78Idawqs1KtOas4) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Sabrina Spellman](https://open.spotify.com/artist/040ydyDkutRTUunNufxr5T) | [Straight To Hell \(from Netflix's "Chilling Adventures of Sabrina”\)](https://open.spotify.com/album/7DgtPlDBL8ZycaSWC75eGz) | 2:40 | 2021-10-25 | 2022-09-03 |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2021-10-25 |  |

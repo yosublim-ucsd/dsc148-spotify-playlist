@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 262000,
       "name": "Flashed Junk Mind",
       "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
@@ -1904,6 +1904,24 @@
       "duration_ms": 208000,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4BNs4huwF1Vmdin9lEPOOS"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
+      },
+      "artists": [
+        {
+          "name": "the moss",
+          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192135,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
     },
     {
       "album": {

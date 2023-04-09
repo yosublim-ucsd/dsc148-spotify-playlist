@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "The Best of Trojan Soul Reggae Vol. 1",
+        "url": "https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134573,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G"
+    },
+    {
+      "album": {
         "name": "Feel Good All Over: Anthology 1970-1976",
         "url": "https://open.spotify.com/album/7FhbsHNTfBc0FdGMo0ILQC"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 136185,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/20WM9L3FvTpQdJudUgxRXk"
@@ -26653,7 +26671,7 @@
     },
     {
       "album": {
-        "name": "The Electric Acid Surboard Test",
+        "name": "The Electric Acid Surfboard Test",
         "url": "https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG"
       },
       "artists": [

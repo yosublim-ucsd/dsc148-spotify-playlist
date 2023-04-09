@@ -924,10 +924,32 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 254254,
       "name": "Ponme al Dia",
       "url": "https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb"
+    },
+    {
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214919,
+      "name": "Por Mi Reggae Muero 2020",
+      "url": "https://open.spotify.com/track/09yuQ2v1mHGWZVrpQB1Oj4"
     },
     {
       "album": {

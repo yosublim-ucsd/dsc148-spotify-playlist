@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Joaquina",
+  "description": "Fresh Latin pop on the rise. Cover: Rouss & Leo Rizzi",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 164680,
       "name": "Algo Diferente",
       "url": "https://open.spotify.com/track/0WvGzEjW8eZphqEzO2CKvb"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
@@ -4437,6 +4437,28 @@
     },
     {
       "album": {
+        "name": "No Te Conozco, Pero Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/7mErNgL0ywcgSDKsHDnZoT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Juan Pino",
+          "url": "https://open.spotify.com/artist/6Vri1Sn9BAdOZUz0eK1SK1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "No Te Conozco, Pero Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/781oj1x6Uc6SKEgyLFsJ0v"
+    },
+    {
+      "album": {
         "name": "Pinta y Colorea",
         "url": "https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI"
       },
@@ -4650,7 +4672,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 168994,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe"
@@ -5046,6 +5068,24 @@
       "duration_ms": 157647,
       "name": "PLAYA PRIVADA",
       "url": "https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L"
+    },
+    {
+      "album": {
+        "name": "PLAYBOY",
+        "url": "https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112297,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU"
     },
     {
       "album": {
@@ -5592,7 +5632,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 242424,
       "name": "sanvalent\u00edn:(",
       "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
@@ -6184,7 +6224,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 174253,
       "name": "Te Vi Mudar",
       "url": "https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU"
@@ -6540,6 +6580,24 @@
       "duration_ms": 234041,
       "name": "Tu Mundo",
       "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
     },
     {
       "album": {

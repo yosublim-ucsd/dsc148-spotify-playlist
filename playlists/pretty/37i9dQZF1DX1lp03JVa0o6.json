@@ -1,6 +1,6 @@
 {
   "description": "Today's biggest Dance hits! Cover: David Guetta, Coi Leray & Anne-Marie",
-  "num_followers": 401807,
+  "num_followers": 401920,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
@@ -256,6 +256,10 @@
       },
       "artists": [
         {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
           "name": "Amin\u00e9",
           "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
@@ -266,10 +270,6 @@
         {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         }
       ],
       "duration_ms": 190373,

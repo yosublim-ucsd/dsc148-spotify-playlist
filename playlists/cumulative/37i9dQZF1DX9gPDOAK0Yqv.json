@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/4OgrRzm4w3w6Brborvb1HC"
+      },
+      "artists": [
+        {
+          "name": "Local Dialect",
+          "url": "https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290493,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1LpdgDzDKRbHAGOhD3niGE"
+    },
+    {
+      "album": {
         "name": "Apollo 11",
         "url": "https://open.spotify.com/album/4K8v2zx2n4sSBSaTyPixHa"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 253425,
       "name": "Deeper Grounds",
       "url": "https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 262926,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
@@ -1299,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Glow / Void",
+        "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
+      "album": {
         "name": "Glutes",
         "url": "https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM"
       },
@@ -1529,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3xCGVoP1mnfrlOSIDlC6kN"
+      },
+      "artists": [
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Re-Type",
+          "url": "https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294193,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/23QInbXr2Cn4kEskVhqmrY"
+    },
+    {
+      "album": {
         "name": "It's All Fiction",
         "url": "https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7"
       },
@@ -1659,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Io",
+        "url": "https://open.spotify.com/album/4ixBSm1M7HT8EdDWXN8Qoa"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245806,
+      "name": "Io",
+      "url": "https://open.spotify.com/track/5fFbgdPYMQR0mGrBUBN8eT"
+    },
+    {
+      "album": {
         "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
         "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
       },
@@ -1718,7 +1794,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 168569,
       "name": "KIDS",
       "url": "https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX"
@@ -1801,6 +1877,32 @@
     },
     {
       "album": {
+        "name": "Let's Get It Right (Innellea Remix)",
+        "url": "https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344156,
+      "name": "Let's Get It Right - Innellea Remix",
+      "url": "https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi"
+    },
+    {
+      "album": {
         "name": "Life Moves Fast",
         "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
       },
@@ -1841,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Amplify",
+        "url": "https://open.spotify.com/album/2fnEK9AF3DqYemVCER91js"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398255,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3JULDUED9hQQ94gXnuFl5p"
+    },
+    {
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj"
       },
@@ -1874,7 +1994,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 275854,
       "name": "Looking Class",
       "url": "https://open.spotify.com/track/0l0iDqdVu0CgllGFKQ6D5l"
@@ -2254,6 +2374,24 @@
       "duration_ms": 348350,
       "name": "On My Knees - Cassian Remix",
       "url": "https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh"
+    },
+    {
+      "album": {
+        "name": "Reverse Affection",
+        "url": "https://open.spotify.com/album/1qEHygPuXMc1JsjXWHGo1F"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449520,
+      "name": "One",
+      "url": "https://open.spotify.com/track/7iOicmTfgUU7nx05MdwjNc"
     },
     {
       "album": {
@@ -2736,7 +2874,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 433170,
       "name": "Restore",
       "url": "https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu"
@@ -2936,7 +3074,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 344761,
       "name": "Shake This World",
       "url": "https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS"
@@ -3890,7 +4028,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 247519,
       "name": "Turn The Lights",
       "url": "https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ"

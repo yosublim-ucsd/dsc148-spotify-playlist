@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 189423,
+  "num_followers": 189585,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ3Mzg1OCwwMDAwMDAwMDdkNDA2OTEzMTVhNjQ2M2Q3ZjBjZTJiOGUwZDM0Mzk4",
+  "snapshot_id": "MTY3ODQ3Mzg1OCwwMDAwMDAwMDhmNGZhMTYxN2UzMzhlZThjY2FiYTE5NmQ3YTg2M2Mx",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -859,8 +859,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
+      "duration_ms": 221826,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -951,8 +951,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
+      "duration_ms": 241560,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Cindy Don't Know",
-      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 172866,
       "name": "M\u00e1s Que Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/7DJzizFfdq1illmP7Rg7RN"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/1W35GFblfAKr7TpHPXfSjk"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Mis Mejores Canciones: 17 Super Exitos",
-        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 184066,
-      "name": "Como La Flor - Remastered",
-      "url": "https://open.spotify.com/track/1W35GFblfAKr7TpHPXfSjk"
+      "duration_ms": 218733,
+      "name": "Cindy Don't Know",
+      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
     },
     {
       "added_at": "2023-03-10 18:44:18",

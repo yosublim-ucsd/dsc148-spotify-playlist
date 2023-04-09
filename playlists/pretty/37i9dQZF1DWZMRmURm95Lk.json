@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Kiave, Gheesa e Macro Marco in cover.",
-  "num_followers": 31495,
+  "num_followers": 31526,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQ2MCwwMDAwMDAwMGIyYmU5MDhkMjlkM2E4ZTNlYzUyYmE5OTI4MDgzYzgw",
+  "snapshot_id": "MTY4MDgxODQ2MCwwMDAwMDAwMGU3MWQ3ZWRmMDA5ZDczYmYxMzNhOTJlODZjZjg0YTc0",
   "tracks": [
     {
       "added_at": "2023-04-06 22:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 201618,
       "name": "Freccia",
       "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -847,46 +847,26 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/2lbw1UhnNbogs7OGGvhCjK"
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
       },
       "artists": [
         {
-          "name": "Do Your Thang",
-          "url": "https://open.spotify.com/artist/1LVuRp8vSEFxSsqs3ANToC"
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
         },
         {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
         },
         {
-          "name": "Jekesa",
-          "url": "https://open.spotify.com/artist/54D1PV1ggY7IvVLQK04YBx"
-        },
-        {
-          "name": "Penny",
-          "url": "https://open.spotify.com/artist/7HYg9A4AHw2p4FVmWs37oM"
-        },
-        {
-          "name": "Rubber Soul",
-          "url": "https://open.spotify.com/artist/4Lt9Xk37qXJD96hRCxOfrT"
-        },
-        {
-          "name": "Alan Beez",
-          "url": "https://open.spotify.com/artist/0byxUVCLvKGmlJnX8c3jUp"
-        },
-        {
-          "name": "Dj Dibba",
-          "url": "https://open.spotify.com/artist/3aU3YBlS9lXzeAVmCxfgUa"
-        },
-        {
-          "name": "Benjamin Ventura",
-          "url": "https://open.spotify.com/artist/311eLcQf3m45gs1sYUxKNc"
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
         }
       ],
-      "duration_ms": 194727,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/5tq1fOs4kZnsdGzcrsx8DN"
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -947,6 +927,50 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/2lbw1UhnNbogs7OGGvhCjK"
+      },
+      "artists": [
+        {
+          "name": "Do Your Thang",
+          "url": "https://open.spotify.com/artist/1LVuRp8vSEFxSsqs3ANToC"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Jekesa",
+          "url": "https://open.spotify.com/artist/54D1PV1ggY7IvVLQK04YBx"
+        },
+        {
+          "name": "Penny",
+          "url": "https://open.spotify.com/artist/7HYg9A4AHw2p4FVmWs37oM"
+        },
+        {
+          "name": "Rubber Soul",
+          "url": "https://open.spotify.com/artist/4Lt9Xk37qXJD96hRCxOfrT"
+        },
+        {
+          "name": "Alan Beez",
+          "url": "https://open.spotify.com/artist/0byxUVCLvKGmlJnX8c3jUp"
+        },
+        {
+          "name": "Dj Dibba",
+          "url": "https://open.spotify.com/artist/3aU3YBlS9lXzeAVmCxfgUa"
+        },
+        {
+          "name": "Benjamin Ventura",
+          "url": "https://open.spotify.com/artist/311eLcQf3m45gs1sYUxKNc"
+        }
+      ],
+      "duration_ms": 194727,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/5tq1fOs4kZnsdGzcrsx8DN"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
         "name": "Ti Pretendo XXX",
         "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 221380,
       "name": "Ti Pretendo XXX",
       "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        },
-        {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1235,6 +1235,42 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
+        "name": "Rebus",
+        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Bugie Bianche",
+      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Brokenspeakers",
+          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
+        }
+      ],
+      "duration_ms": 242378,
+      "name": "Casse rotte (feat. Brokenspeakers)",
+      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
         "name": "Dead poets",
         "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
       },
@@ -1263,42 +1299,6 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Brokenspeakers",
-          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
-        }
-      ],
-      "duration_ms": 242378,
-      "name": "Casse rotte (feat. Brokenspeakers)",
-      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Rebus",
-        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Bugie Bianche",
-      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Bellissimo",
-        "url": "https://open.spotify.com/album/1aFG5BkuyC5l0JSZG4RaLH"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        },
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Bellissimo",
-      "url": "https://open.spotify.com/track/0OR6yQeHG1OH1vCtDZsPw0"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
         "name": "Scienza Doppia H",
         "url": "https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 143892,
       "name": "Caramelle da uno sconosciuto",
       "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Bellissimo",
+        "url": "https://open.spotify.com/album/1aFG5BkuyC5l0JSZG4RaLH"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Bellissimo",
+      "url": "https://open.spotify.com/track/0OR6yQeHG1OH1vCtDZsPw0"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
+        "name": "Innocente",
+        "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        }
+      ],
+      "duration_ms": 168409,
+      "name": "Africa Twin (feat. Don Joe)",
+      "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -1579,6 +1599,22 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1599,18 +1635,18 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+      "duration_ms": 251133,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1631,58 +1667,6 @@
       "duration_ms": 225584,
       "name": "Ad occhi chiusi",
       "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/3Wxf52YtQYemd9ySvBh3Z2"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Innocente",
-        "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
-      },
-      "artists": [
-        {
-          "name": "Lucariello",
-          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        }
-      ],
-      "duration_ms": 168409,
-      "name": "Africa Twin (feat. Don Joe)",
-      "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Il coraggio di dirti",
-      "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Il coraggio di dirti",
+      "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
         "name": "Max",
         "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
       },
@@ -1723,34 +1723,6 @@
       "duration_ms": 260800,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Mercato nero",
-        "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
-      },
-      "artists": [
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Warez",
-          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "F35",
-      "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1779,6 +1751,34 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Mercato nero",
+        "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Warez",
+          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "F35",
+      "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1839,26 +1839,38 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Infernum",
-        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
+        "name": "Per tutti",
+        "url": "https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ"
       },
       "artists": [
         {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
         },
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Michele Venanzoni (TMHH)",
-          "url": "https://open.spotify.com/artist/3yTFQgU4MOiIvSCgcMqAHQ"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         }
       ],
-      "duration_ms": 180776,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
+      "duration_ms": 169540,
+      "name": "Per tutti",
+      "url": "https://open.spotify.com/track/6ohpYadq50CPaaOjlf2kZ2"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1879,18 +1891,26 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+        "name": "Infernum",
+        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Michele Venanzoni (TMHH)",
+          "url": "https://open.spotify.com/artist/3yTFQgU4MOiIvSCgcMqAHQ"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+      "duration_ms": 180776,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1939,38 +1959,22 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Per tutti",
-        "url": "https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ"
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
       "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        },
         {
           "name": "DJ Shocca",
           "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 169540,
-      "name": "Per tutti",
-      "url": "https://open.spotify.com/track/6ohpYadq50CPaaOjlf2kZ2"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "Solo nebbia",
-        "url": "https://open.spotify.com/album/6ZcPJ8ZpRNmKkc9R5VoZ8s"
-      },
-      "artists": [
+        },
         {
-          "name": "Blue Virus",
-          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
+          "name": "Danno E Masito",
+          "url": "https://open.spotify.com/artist/0RwwVSLbtwrboAdbOPwYv6"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Solo nebbia",
-      "url": "https://open.spotify.com/track/1XrNtowdY71ERfdm8snVKQ"
+      "duration_ms": 177400,
+      "name": "Coltelli",
+      "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -2007,26 +2011,6 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Danno E Masito",
-          "url": "https://open.spotify.com/artist/0RwwVSLbtwrboAdbOPwYv6"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Coltelli",
-      "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
         "name": "Lo Spirito Che Suona",
         "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 269760,
       "name": "Citt\u00e0 di vetro",
       "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Solo nebbia",
+        "url": "https://open.spotify.com/album/6ZcPJ8ZpRNmKkc9R5VoZ8s"
+      },
+      "artists": [
+        {
+          "name": "Blue Virus",
+          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Solo nebbia",
+      "url": "https://open.spotify.com/track/1XrNtowdY71ERfdm8snVKQ"
     }
   ],
   "unique_name": "Radici Hip-Hop",

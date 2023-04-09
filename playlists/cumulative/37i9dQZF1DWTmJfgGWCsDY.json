@@ -190,10 +190,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 239972,
       "name": "Honey Wangu",
       "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
+    },
+    {
+      "album": {
+        "name": "Hujafika",
+        "url": "https://open.spotify.com/album/7drsSeRr9mpAnM8WH7463n"
+      },
+      "artists": [
+        {
+          "name": "Swallah Boy",
+          "url": "https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215166,
+      "name": "Hujafika",
+      "url": "https://open.spotify.com/track/0Cs5QmEaFHNdTn93GUZbz1"
     },
     {
       "album": {

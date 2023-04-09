@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,838 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,256 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 127 | [Jim](https://open.spotify.com/track/6okhWB79mZuK96OJt3VAHU) | [Faire](https://open.spotify.com/artist/2YyXNn8mZ7CUAzS1X4u2UY) | [L'Enfer](https://open.spotify.com/album/5F1z37hg0DSbK12G6mNfNa) | 3:01 |
 | 128 | [La flemme](https://open.spotify.com/track/1ZNZwPhKKMrAuNEWAwSvOQ) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [La flemme](https://open.spotify.com/album/36p74zhgOv0AmA9pFcS6M0) | 3:03 |
 | 129 | [Je suis venue te dire](https://open.spotify.com/track/5UspWXQneWFk669M9aZTlD) | [Insolente](https://open.spotify.com/artist/6lNweRKE0EoaN1jXSZSuPq) | [Je suis venue te dire](https://open.spotify.com/album/3hRirGJugaUvEcsJGsNBL6) | 2:45 |
-| 130 | [No Shangri La](https://open.spotify.com/track/0P4Sf15I0czRVDrAS839Xf) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/5xobn0wZq7EJ94HSUCsyB0) | 4:26 |
+| 130 | [No Shangri La](https://open.spotify.com/track/5foqt8rbcJBuvIUy5KJDIy) | [David Shaw and The Beat](https://open.spotify.com/artist/2y3wW28lTVdgPLuqtF4Xcb) | [Love Songs With a Kick Vol\. One](https://open.spotify.com/album/1zLBCcLZGjEcvmB35sAW9m) | 4:26 |
 | 131 | [Nuit](https://open.spotify.com/track/7zIfcuvWSAxE4LjEwadMnH) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq) | [Noir Brésil](https://open.spotify.com/album/4dk8HjZCAwv5PPkEgjtZp2) | 3:17 |
 | 132 | [Le besoin de la nuit](https://open.spotify.com/track/21TqLHfodpT3HmhkMKAVdi) | [Fred Nevché](https://open.spotify.com/artist/72dcnDFjo3MFsrvpUAthMi) | [Valdevaqueros](https://open.spotify.com/album/3XMiMBIxEVMepYJJXD3uQZ) | 4:37 |
 | 133 | [Ça Y Est](https://open.spotify.com/track/2Gk9JKgMX4fcQR7rWfgHsE) | [Elvett](https://open.spotify.com/artist/4jTcePhvBRxrOONkmpm5WX) | [Ça Y Est](https://open.spotify.com/album/5CHwNsvl8TPWdCeZd2osPS) | 3:34 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMGU3ZGI0YmM3NzllNDU5MGRjZjUyZjU0ZTViODc2NGQ4`
+Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMGM5ZTdiYjI1OTYxZTlkYWQwZTk0OGIyMmQ0NWMyY2Rj`

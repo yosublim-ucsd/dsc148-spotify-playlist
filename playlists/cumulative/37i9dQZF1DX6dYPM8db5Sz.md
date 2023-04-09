@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=GRkdBRNXRs\-c3\_OL2XTfrA">Lucy Kruger & The Lost Boys</a>
 
-244 songs - 14 hr 9 min
+246 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Face to Face](https://open.spotify.com/track/4j30TGyE29sSpR1KVAqbCt) | [Benjamin Mack](https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY) | [Face to Face](https://open.spotify.com/album/4ObIsa7jUljBKrKJj4unwQ) | 3:00 | 2023-03-09 | 2023-03-25 |
 | [Falling For You](https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Falling For You](https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR) | 2:55 | 2022-11-10 | 2023-02-03 |
 | [Fantasies](https://open.spotify.com/track/7zltIKDQN6TMoERha3MiXo) | [Anke Richards](https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF) | [Fantasies](https://open.spotify.com/album/3ZOixT6OPYmcj1N1SQctmN) | 3:16 | 2023-01-26 | 2023-03-31 |
-| [Feedback Hounds](https://open.spotify.com/track/02FhwPLpWOtfGz9M33eKFG) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/54FdctR7tCJoXBNCZvhyYT) | 3:56 | 2023-04-06 |  |
+| [Feedback Hounds](https://open.spotify.com/track/02FhwPLpWOtfGz9M33eKFG) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/54FdctR7tCJoXBNCZvhyYT) | 3:56 | 2023-04-06 | 2023-04-09 |
+| [Feedback Hounds](https://open.spotify.com/track/0BLBZXRlN1FrW93Qs959qE) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4wEk7sSn1PyVEsF0jVL9Io) | 3:56 | 2023-04-06 |  |
 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 | 2022-11-24 | 2023-02-10 |
 | [Finding Paradise](https://open.spotify.com/track/0fmegVXiAaQ2pGgKsZUEZB) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Finding Paradise](https://open.spotify.com/album/3vjQseBx4vWN7iHLRHHOtg) | 3:35 | 2023-03-09 |  |
 | [First Blood](https://open.spotify.com/track/3YR0NA22mvARUqUvaRX8CT) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [First Blood](https://open.spotify.com/album/1LcWdAYFGeLOpvIjXktrIo) | 2:43 | 2022-07-01 | 2022-11-01 |
@@ -184,7 +185,7 @@
 | [Run Run Run](https://open.spotify.com/track/73Qj3FlA796dDuekSjPu1V) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Run Run Run](https://open.spotify.com/album/3e8bVEmirbDxQyjFwnRL7t) | 3:01 | 2023-03-09 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-09 | 2023-03-10 |
 | [Safe In The Sound](https://open.spotify.com/track/5o7Kgx1yYAV5mVTAlKToCS) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Safe In The Sound](https://open.spotify.com/album/3JqGxFavm15jJRLmePzGve) | 3:34 | 2023-03-09 | 2023-03-25 |
-| [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-09 |  |
+| [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-09 |  |
 | [Save Me](https://open.spotify.com/track/6yrdhCKzaN5c8JGNWzLtQy) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Save Me](https://open.spotify.com/album/39jSoPLLSCKFqy7VgmYMeV) | 3:18 | 2022-09-29 | 2022-10-21 |
 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 | 2022-11-24 | 2023-03-18 |
 | [sex symbol](https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [sex symbol](https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V) | 2:58 | 2022-12-01 | 2023-01-13 |
@@ -218,7 +219,8 @@
 | [Through The Misty With You \- From “The Score”](https://open.spotify.com/track/2yhH4M2YAc2jzFhOYDQ6K5) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Through The Misty With You \(From “The Score”\)](https://open.spotify.com/album/5HDG7vBlkkzyLAAJVq0Fxk) | 4:11 | 2022-08-04 | 2022-11-18 |
 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-09 |  |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-02 |  |
-| [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 |  |
+| [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 |  |
+| [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 | 2023-04-09 |
 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 | 2022-11-24 | 2023-01-13 |
 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 | 2022-12-01 |  |
 | [Trouble \- Radio Remix](https://open.spotify.com/track/3b1CgbC7s0TQ07ew2c2aaX) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [Trouble \(Radio Remix\)](https://open.spotify.com/album/1ZbJRgqfXY6Ydu28mX7DIn) | 2:40 | 2023-02-23 | 2023-03-18 |

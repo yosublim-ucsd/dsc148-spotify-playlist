@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,924 likes - 74 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,959 likes - 74 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 27 | [Rasa Cinta Ini](https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6) | 4:01 |
 | 28 | [Menepi Menetap](https://open.spotify.com/track/2hGIQ9tovrpsJzEBR2QQwE) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Deva Mahenra](https://open.spotify.com/artist/2R4MIJ7l2ZMXxhvXqzcC9J) | [Menepi Menetap](https://open.spotify.com/album/3zNCT8AVDWtkcmgbNxVhW3) | 3:46 |
 | 29 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 |
-| 30 | [Jatuh Cinta \(OST Keluarga Cemara 2\)](https://open.spotify.com/track/1bqkmiujAzPU2YOvCB3Mxj) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Jatuh Cinta \(OST Keluarga Cemara 2\)](https://open.spotify.com/album/2ZCF3Bul4PckNko2bqSfRO) | 3:27 |
+| 30 | [Jatuh Cinta \- Keluarga Cemara 2 Original Soundtrack](https://open.spotify.com/track/1bqkmiujAzPU2YOvCB3Mxj) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Jatuh Cinta \(Keluarga Cemara 2 Original Soundtrack\)](https://open.spotify.com/album/2ZCF3Bul4PckNko2bqSfRO) | 3:27 |
 | 31 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
 | 32 | [1+1](https://open.spotify.com/track/5faImH2zpFQUn30yWNsbi1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayhan Maditra](https://open.spotify.com/artist/2HYwIpyNXvSyC71IigLtgm) | [1+1](https://open.spotify.com/album/5JSl6xmvvbkANHFAoopYAG) | 4:08 |
 | 33 | [Hadapi Berdua](https://open.spotify.com/track/0KdabnQtfZVBGqXX3eMEz3) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 |

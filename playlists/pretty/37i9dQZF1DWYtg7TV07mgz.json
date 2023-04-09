@@ -1,12 +1,12 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1132348,
+  "num_followers": 1132861,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxMTc0MCwwMDAwMDAwMDFjMTA3ZmVlOTczMWUzODg1YWQ2ZmE4ODgxYTI2ZTdi",
+  "snapshot_id": "MTY1NzAxMTc0MCwwMDAwMDAwMGRlZGNmYWE1NjYzOGUzZTU4ZmFkNjBlY2Y4NDk5N2Qw",
   "tracks": [
     {
       "added_at": "2022-07-05 09:02:20",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 192294,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Music Sounds Better With You",
-        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
-      },
-      "artists": [
-        {
-          "name": "Stardust",
-          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
-        }
-      ],
-      "duration_ms": 260906,
-      "name": "Music Sounds Better With You - Radio Edit",
-      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "The Madman's Return",
         "url": "https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 225882,
       "name": "Rhythm Is A Dancer - 7\" Edit",
       "url": "https://open.spotify.com/track/4RADreHMvMkZwsPgPr9z5c"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
+      },
+      "artists": [
+        {
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Music Sounds Better With You - Radio Edit",
+      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/728voOLBbJUBgK2vooghcS"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 213337,
-      "name": "Save The World",
-      "url": "https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "Before the Storm",
         "url": "https://open.spotify.com/album/5GnRROSFWQhuxfDkyBALGb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/728voOLBbJUBgK2vooghcS"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 213337,
+      "name": "Save The World",
+      "url": "https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "Hypnotica (Benny Benassi Presents The Biz)",
         "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
@@ -779,30 +779,6 @@
       "duration_ms": 285570,
       "name": "Satisfaction - Isak Original Extended",
       "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
-      "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -835,6 +811,30 @@
       "duration_ms": 251986,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+      "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
     },
     {
       "added_at": "2022-07-05 09:02:20",

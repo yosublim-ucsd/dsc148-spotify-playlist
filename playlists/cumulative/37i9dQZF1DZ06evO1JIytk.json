@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 216000,
       "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
       "url": "https://open.spotify.com/track/1yuQcwJsaaUZHoZq8KeK9a"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
       "url": "https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED"
@@ -1400,6 +1400,24 @@
     {
       "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141986,
+      "name": "WORK & STRUGGLE",
+      "url": "https://open.spotify.com/track/3PIcPPY9EzW6uFNN9JREy3"
+    },
+    {
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
       },
       "artists": [
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 142040,
       "name": "WORK & STRUGGLE",
       "url": "https://open.spotify.com/track/3zF9b1R7lCz98gqbbUCKlZ"

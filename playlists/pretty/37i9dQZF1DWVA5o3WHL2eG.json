@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Dhurata Dora",
-  "num_followers": 25482,
+  "num_followers": 25637,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0NTYwMCwwMDAwMDAwMGI3MTJhOWZmNjliZWQ4NWU5YjQ5MDNhM2ExYzc2Zjkz",
+  "snapshot_id": "MTY4MDY0NTYwMCwwMDAwMDAwMDBhZTVkODNkNmZiMTYwNmZmMjA4MDE0ODE2ZmRkZDc3",
   "tracks": [
     {
       "added_at": "2023-04-04 22:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
+        "name": "Out Of Orbit",
+        "url": "https://open.spotify.com/album/7CQQhAFtWh0iVQWshzJPN6"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Out Of Orbit",
+      "url": "https://open.spotify.com/track/0jSblr1ZGJUxyX5lAABrN6"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 138056,
       "name": "One Call away <3",
       "url": "https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
-        "name": "Out Of Orbit",
-        "url": "https://open.spotify.com/album/7CQQhAFtWh0iVQWshzJPN6"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Out Of Orbit",
-      "url": "https://open.spotify.com/track/0jSblr1ZGJUxyX5lAABrN6"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Fluch",
-        "url": "https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh"
-      },
-      "artists": [
-        {
-          "name": "BECKS",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "Fluch",
-      "url": "https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Can't Control",
         "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
+        "name": "Fluch",
+        "url": "https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh"
+      },
+      "artists": [
+        {
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "Fluch",
+      "url": "https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
         "name": "Skandal im Patriarchat",
         "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 202308,
       "name": "Skandal im Patriarchat",
       "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "awg",
+        "url": "https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS"
+      },
+      "artists": [
+        {
+          "name": "marita",
+          "url": "https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u"
+        }
+      ],
+      "duration_ms": 101915,
+      "name": "awg",
+      "url": "https://open.spotify.com/track/5xiYSLtU88Vom101qBUhep"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "awg",
-        "url": "https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS"
+        "name": "ALIEN",
+        "url": "https://open.spotify.com/album/4ZtesfuyseB0PeWsO8NwDP"
       },
       "artists": [
         {
-          "name": "marita",
-          "url": "https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u"
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
         }
       ],
-      "duration_ms": 101915,
-      "name": "awg",
-      "url": "https://open.spotify.com/track/5xiYSLtU88Vom101qBUhep"
+      "duration_ms": 186654,
+      "name": "ALIEN",
+      "url": "https://open.spotify.com/track/0NsU1cd9CJMSyvQjKaUiVi"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -403,22 +419,6 @@
       "duration_ms": 170370,
       "name": "here/hier",
       "url": "https://open.spotify.com/track/0xmR39qz8TYHv9fvyDnyND"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
-        "name": "ALIEN",
-        "url": "https://open.spotify.com/album/4ZtesfuyseB0PeWsO8NwDP"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 186654,
-      "name": "ALIEN",
-      "url": "https://open.spotify.com/track/0NsU1cd9CJMSyvQjKaUiVi"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "He Nur Da",
-        "url": "https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG"
-      },
-      "artists": [
-        {
-          "name": "RAHEL",
-          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "He Nur Da",
-      "url": "https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Besser wird's nicht",
         "url": "https://open.spotify.com/album/3GYd3oBb4CtrclZg2N3tJy"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 262823,
       "name": "Besser wird's nicht",
       "url": "https://open.spotify.com/track/2jkasSIO7dCWmZ3N1lFFjd"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "He Nur Da",
+        "url": "https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG"
+      },
+      "artists": [
+        {
+          "name": "RAHEL",
+          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "He Nur Da",
+      "url": "https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
-        "url": "https://open.spotify.com/album/5ohQhVkAOMWVeWUVX3ulz2"
-      },
-      "artists": [
-        {
-          "name": "Juli Gilde",
-          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
-        }
-      ],
-      "duration_ms": 196411,
-      "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
-      "url": "https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "ASK FOR IT",
         "url": "https://open.spotify.com/album/3vtmwmHlxsruXPLFiSuG1S"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
+        "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
+        "url": "https://open.spotify.com/album/5ohQhVkAOMWVeWUVX3ulz2"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "duration_ms": 196411,
+      "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
+      "url": "https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
         "name": "Alles ok",
         "url": "https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 222668,
       "name": "Alles ok",
       "url": "https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "i don\u2019t get stressed",
+        "url": "https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf"
+      },
+      "artists": [
+        {
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
+        }
+      ],
+      "duration_ms": 149853,
+      "name": "i don\u2019t get stressed",
+      "url": "https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -587,38 +603,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "i don\u2019t get stressed",
-        "url": "https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 149853,
-      "name": "i don\u2019t get stressed",
-      "url": "https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
-        "name": "You Had 2",
-        "url": "https://open.spotify.com/album/1qmxldYTL5jZ5SCna56TCY"
-      },
-      "artists": [
-        {
-          "name": "THALA",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "You Had 2",
-      "url": "https://open.spotify.com/track/1Tq7zQdC9POU1RoTOzYxqN"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Storyline",
         "url": "https://open.spotify.com/album/5C8kuyx7vcfcrSee5dMFqj"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 245463,
       "name": "Storyline",
       "url": "https://open.spotify.com/track/6UEkQnIkENpazzNNFGFZ09"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "You Had 2",
+        "url": "https://open.spotify.com/album/1qmxldYTL5jZ5SCna56TCY"
+      },
+      "artists": [
+        {
+          "name": "THALA",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "You Had 2",
+      "url": "https://open.spotify.com/track/1Tq7zQdC9POU1RoTOzYxqN"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Innig",
-        "url": "https://open.spotify.com/album/73E0At64aluYFZ5BFk0V9M"
-      },
-      "artists": [
-        {
-          "name": "SERPENTIN",
-          "url": "https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF"
-        }
-      ],
-      "duration_ms": 285443,
-      "name": "Innig",
-      "url": "https://open.spotify.com/track/7jbQIpN7nz84Z7ptY6b2ak"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Signalverlust",
         "url": "https://open.spotify.com/album/0gaR1G5qMxBrWZxhupfQm6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189075,
       "name": "Signalverlust",
       "url": "https://open.spotify.com/track/3OZEPvVcLwpAg85AYoCoWv"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Innig",
+        "url": "https://open.spotify.com/album/73E0At64aluYFZ5BFk0V9M"
+      },
+      "artists": [
+        {
+          "name": "SERPENTIN",
+          "url": "https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF"
+        }
+      ],
+      "duration_ms": 285443,
+      "name": "Innig",
+      "url": "https://open.spotify.com/track/7jbQIpN7nz84Z7ptY6b2ak"
     },
     {
       "added_at": "2023-04-04 22:00:00",

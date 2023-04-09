@@ -4,7 +4,7 @@
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-175 songs - 10 hr 28 min
+176 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,9 @@
 | [Love Ya](https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Destination](https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC) | 3:25 | 2019-12-04 |  |
 | [LUCIFER](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 | 2019-12-04 |  |
 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 | 2019-12-04 |  |
+| [Ma Boy 2](https://open.spotify.com/track/2cYAVuwGtNXfaUTjX72WQ6) | [Electroboyz](https://open.spotify.com/artist/0zs9nRedA8m8o58lbkrpkr), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/0DheJTTPFft5OFLrZgwKJe) | 3:26 | 2019-12-04 |  |
 | [Ma Boy 2 \(feat\. 효린\)](https://open.spotify.com/track/5v3gKiiPLuTOEUoGt5XGZ6) | [Electroboyz](https://open.spotify.com/artist/0zs9nRedA8m8o58lbkrpkr) | [Rebirth](https://open.spotify.com/album/5AEGrLO44bhYDdsut3YaqA) | 3:27 | 2019-12-04 | 2022-07-29 |
-| [Ma Boy2](https://open.spotify.com/track/0xSvmfT0aAK3IY9aTvg0WD) | [일렉트로보이즈](https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/4ZMtRAREv9TDLgJCs1JyHL) | 3:26 | 2019-12-04 |  |
+| [Ma Boy2](https://open.spotify.com/track/0xSvmfT0aAK3IY9aTvg0WD) | [일렉트로보이즈](https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/4ZMtRAREv9TDLgJCs1JyHL) | 3:26 | 2019-12-04 | 2023-04-09 |
 | [Magic](https://open.spotify.com/track/0VNQpkPh5l5ncQJCfWMCKZ) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Secret Time](https://open.spotify.com/album/21aoDGVqQXkuz30ErlbqcA) | 3:23 | 2019-12-04 |  |
 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 | 2019-12-04 |  |
 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2019-12-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 473798,
+  "num_followers": 473963,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGI5MjY2MTQxZjcwZjdlY2RmYzU2ZGYyM2FkYTNjNjQ3",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDFlNmRiMGQ0NzVmMGI3OWIxOTQ2NTk3NzE5MDI2ZTcy",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -535,6 +535,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -615,26 +615,6 @@
       "duration_ms": 382333,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -715,6 +695,26 @@
       "duration_ms": 312680,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -951,6 +951,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "What Cha Gonna Do With My Lovin'",
+        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "What Cha Gonna Do With My Lovin'",
+      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "The Best Of Patti Austin",
         "url": "https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 169600,
       "name": "You Little Trustmaker",
       "url": "https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "What Cha Gonna Do With My Lovin'",
-        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "What Cha Gonna Do With My Lovin'",
-      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
     },
     {
       "added_at": "2020-04-14 18:41:41",

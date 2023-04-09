@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 418047,
+  "num_followers": 418353,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGY4MmE4YzYxN2QyYWFiMTllNThmZmE5Y2JiODE5NTYw",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDUxY2RhOTViYmYxN2Y2NmM3N2I5N2EwNmFjNmRlZjUy",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -279,22 +279,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
       "artists": [
         {
           "name": "Los Aut\u00e9nticos Decadentes",
           "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+      "duration_ms": 218493,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -395,18 +391,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
       "artists": [
         {
           "name": "Los Aut\u00e9nticos Decadentes",
           "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 218493,
-      "name": "La Guitarra",
-      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "The Maskatonians All Stars And Friends",
-        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Tu Que Pediras",
-      "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Confidencial/New Booklet",
         "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 189133,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Tu Que Pediras",
+      "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1NJb37v0xlymXsTxxHpd4h"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 186540,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/3HEIbdp1ZmSYEgHBoZfS5c"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Anakena (Deluxe)",
-        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 219649,
-      "name": "Sanguchito",
-      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Mi Vida En Otro Lado",
         "url": "https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+        "name": "Anakena (Deluxe)",
+        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+      "duration_ms": 219649,
+      "name": "Sanguchito",
+      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1655,6 +1639,22 @@
       "duration_ms": 254145,
       "name": "Como Te Voy a Olvidar - Edit",
       "url": "https://open.spotify.com/track/1vNuHEbQONnN0DJUBKeUXJ"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2021-12-21 17:00:46",

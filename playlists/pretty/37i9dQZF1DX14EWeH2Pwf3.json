@@ -1,31 +1,55 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Geolier",
-  "num_followers": 803934,
+  "num_followers": 806317,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyMjA2MCwwMDAwMDAwMDMzYzcxZDFhYzUwYWMxMjE4YzFlODU3MWY5YjlhMmUz",
+  "snapshot_id": "MTY4MDg4MTE3NiwwMDAwMDAwMGZhMzUwODIxOWUzMjA1MWQ1NGFlY2RiNDhhYmJiNGYx",
   "tracks": [
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
       },
       "artists": [
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+      "duration_ms": 167339,
+      "name": "IL MALE CHE MI FAI (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
@@ -53,23 +77,23 @@
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Yamamay",
         "url": "https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB"
@@ -85,27 +109,23 @@
       "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 171702,
-      "name": "Un Altro Show (feat. Geolier)",
-      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
@@ -125,7 +145,27 @@
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 171702,
+      "name": "Un Altro Show (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "ZONDA",
         "url": "https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK"
@@ -141,7 +181,7 @@
       "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "HOE + HARD (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
@@ -161,7 +201,7 @@
       "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
@@ -181,27 +221,7 @@
       "url": "https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "IL MALE CHE MI FAI (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
         "url": "https://open.spotify.com/album/54nLn2p65cXgkdIvmCJDhG"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Avanti",
         "url": "https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Radio Gotham",
         "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Habitat Cielo",
         "url": "https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc"
@@ -313,23 +333,7 @@
       "url": "https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "Baby Mama",
-        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
-      },
-      "artists": [
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 151160,
-      "name": "Baby Mama",
-      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
         "url": "https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk"
@@ -365,7 +369,23 @@
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "L'AMORE",
+        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 163399,
+      "name": "DONNA VEDI",
+      "url": "https://open.spotify.com/track/1ddXr35F0pevdaLeqW83NH"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
@@ -389,23 +409,23 @@
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
-        "name": "L'AMORE",
-        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
       },
       "artists": [
         {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
         }
       ],
-      "duration_ms": 163399,
-      "name": "DONNA VEDI",
-      "url": "https://open.spotify.com/track/1ddXr35F0pevdaLeqW83NH"
+      "duration_ms": 151160,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/4cRafb32DQSDpvIxe5awk5"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "PENSAVA",
         "url": "https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "RASOI / RIGOR MORTIS",
         "url": "https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/3zXE6GFKQeXt5DG1BYncDw"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -653,7 +673,27 @@
       "url": "https://open.spotify.com/track/3qY9QaUVAfBXNhen1oNCbf"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/2KSnpXWI8OsNu7k2lXAoOi"
@@ -693,27 +733,7 @@
       "url": "https://open.spotify.com/track/65GyRqnEejaE75SG2SNnSJ"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 215421,
-      "name": "X CASO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "MUJER",
         "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
@@ -749,7 +769,27 @@
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "Ghettosuperstar",
+        "url": "https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        },
+        {
+          "name": "Voleur pnz",
+          "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Lo-fi For U",
         "url": "https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb"
@@ -769,23 +809,7 @@
       "url": "https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "Pararara",
-        "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        }
-      ],
-      "duration_ms": 163118,
-      "name": "Pararara",
-      "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Notte in Caserma",
         "url": "https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
@@ -825,7 +849,7 @@
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
@@ -841,7 +865,7 @@
       "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/7H6877riJIFSominCYGZx8"
@@ -861,75 +885,7 @@
       "url": "https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "Ghettosuperstar",
-        "url": "https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN"
-      },
-      "artists": [
-        {
-          "name": "LJK",
-          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
-        },
-        {
-          "name": "Voleur pnz",
-          "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "DON DADA",
-        "url": "https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU"
-      },
-      "artists": [
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 217086,
-      "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
-      "url": "https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
-      "album": {
-        "name": "DIMMI CHE (feat. Bresh & Neima Ezza)",
-        "url": "https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "DIMMI CHE (feat. Bresh & Neima Ezza)",
-      "url": "https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr"
-    },
-    {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Marciapiedi (feat. Gemitaiz)",
         "url": "https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr"
@@ -961,7 +917,55 @@
       "url": "https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "DON DADA",
+        "url": "https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 217086,
+      "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
+      "url": "https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
+      "album": {
+        "name": "DIMMI CHE (feat. Bresh & Neima Ezza)",
+        "url": "https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "DIMMI CHE (feat. Bresh & Neima Ezza)",
+      "url": "https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr"
+    },
+    {
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
@@ -977,7 +981,7 @@
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
-      "added_at": "2023-04-06 23:01:00",
+      "added_at": "2023-04-07 14:55:19",
       "album": {
         "name": "Bandito",
         "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"

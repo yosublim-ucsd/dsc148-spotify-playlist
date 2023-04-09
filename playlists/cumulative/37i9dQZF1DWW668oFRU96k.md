@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Coi Leray + David Guetta + Anne\-Marie
 
-216 songs - 10 hr 46 min
+217 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Pressure \- Radio Edit](https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Pressure \(Radio Edit\)](https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J) | 3:09 | 2023-03-30 |  |
 | [Problem](https://open.spotify.com/track/1Y1FnMyAhGJ7VOS4czycLc) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Problem](https://open.spotify.com/album/2k9dKQz3sN4CAwkSKFcsEA) | 2:31 | 2023-02-23 | 2023-03-31 |
 | [Ready For Ya](https://open.spotify.com/track/02Zf0gJ5lAmY5P0obzgks4) | [Hover Glazz](https://open.spotify.com/artist/6EOiLiZEAtzwCBbqfDVjA3), [Adm Prayoggi](https://open.spotify.com/artist/073fzECWeiOl7mRQCRgUJ4) | [Ready For Ya](https://open.spotify.com/album/51HzadOMWFJG4E17yOs2sM) | 3:09 | 2023-02-02 | 2023-03-31 |
+| [Recall](https://open.spotify.com/track/2uJOUSKm3ldZmKJWHoWT3L) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Recall](https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX) | 2:52 | 2023-04-06 |  |
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 | 2023-02-02 | 2023-02-10 |
 | [Rockstar \- Telex Telexs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(Telex Telexs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-06 |  |
 | [Rollin Up](https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Van Heden](https://open.spotify.com/artist/7ARg1U4yL7yEnaE3pf1gN0), [A\-Trick](https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW) | [Rollin Up](https://open.spotify.com/album/3THVd9cRFXnUKP3JLph0ZP) | 2:39 | 2023-02-02 | 2023-02-17 |

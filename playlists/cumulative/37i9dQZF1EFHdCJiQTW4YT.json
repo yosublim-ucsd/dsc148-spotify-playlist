@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "i'm not doing well",
+        "url": "https://open.spotify.com/album/6RefAsL2l3Pyn9jiDhvULA"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194110,
+      "name": "i'm not doing well",
+      "url": "https://open.spotify.com/track/4f1apOSGQZRlZPLpfWsfUV"
+    },
+    {
+      "album": {
         "name": "In Our Bones",
         "url": "https://open.spotify.com/album/0nDpqGDg3ZsFWKCSPQE4M4"
       },
@@ -1318,6 +1336,24 @@
       "duration_ms": 156095,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB"
+    },
+    {
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE"
     },
     {
       "album": {
@@ -2254,6 +2290,24 @@
       "duration_ms": 209132,
       "name": "Will It Find Me",
       "url": "https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA"
+    },
+    {
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58929,
+      "name": "Wish On An Eyelash",
+      "url": "https://open.spotify.com/track/2XrMjGhpgMZp5qzD4iThEp"
     },
     {
       "album": {

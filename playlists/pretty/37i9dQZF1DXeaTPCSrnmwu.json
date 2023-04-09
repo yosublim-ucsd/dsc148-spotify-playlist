@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 20916,
+  "num_followers": 20949,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDkxMDFjNDRmMThlYTZjNmIzZGYxN2EzMzJiMWNmNTlh",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGU5NzQ3NGFiYWM1ZGI5NmI4YWJkYzQ4MzFjZjc5MjYw",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
         }
       ],
-      "duration_ms": 195120,
-      "name": "La Paloma - Yradier",
-      "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
+      "duration_ms": 333533,
+      "name": "Asi Bailaba Cuba - Instrumental",
+      "url": "https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
         }
       ],
-      "duration_ms": 333533,
-      "name": "Asi Bailaba Cuba - Instrumental",
-      "url": "https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX"
+      "duration_ms": 195120,
+      "name": "La Paloma - Yradier",
+      "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -743,6 +743,26 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Cuba Cuba",
+        "url": "https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX"
+      },
+      "artists": [
+        {
+          "name": "Guy Barker",
+          "url": "https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG"
+        },
+        {
+          "name": "Bernardo Sassetti",
+          "url": "https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Se\u00f1or Danzon",
+      "url": "https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Fly Me to the Moon and the Bossa Nova Pops",
         "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 172506,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/5faeLcLFmircGhMFbzUzL7"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Starlight EP",
-        "url": "https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31"
-      },
-      "artists": [
-        {
-          "name": "Erica Smith Trio",
-          "url": "https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "God Bless The Child",
-      "url": "https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -791,22 +795,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Cuba Cuba",
-        "url": "https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX"
+        "name": "Starlight EP",
+        "url": "https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31"
       },
       "artists": [
         {
-          "name": "Guy Barker",
-          "url": "https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG"
-        },
-        {
-          "name": "Bernardo Sassetti",
-          "url": "https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf"
+          "name": "Erica Smith Trio",
+          "url": "https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Se\u00f1or Danzon",
-      "url": "https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ"
+      "duration_ms": 290555,
+      "name": "God Bless The Child",
+      "url": "https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU"
     },
     {
       "added_at": "2021-01-18 15:57:14",

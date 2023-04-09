@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Fleece",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Goodbye Karelle",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Highly Unrecommended",
+        "url": "https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Highly Unrecommended",
+      "url": "https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D"
+    },
+    {
+      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX"
       },
@@ -3455,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Mort de peur",
+        "url": "https://open.spotify.com/album/3p3yaxFzVEgprptHO9qwu7"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Mort de peur",
+      "url": "https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS"
+    },
+    {
+      "album": {
         "name": "moving song",
         "url": "https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh"
       },
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 253788,
       "name": "NHFN",
       "url": "https://open.spotify.com/track/2ktmOeCr1RVJaZ6a6LN9mq"
@@ -3774,7 +3810,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 212744,
       "name": "OCTEMBRE",
       "url": "https://open.spotify.com/track/0ClSzOZrQAkJmmvRJY0oVV"

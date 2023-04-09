@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Jarabe de Palo.",
-  "num_followers": 543594,
+  "num_followers": 544163,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMGEzNWQzZTMwNTY3YmFhYTE1YTU2YTdlZDJhZjU2ZTI0",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDUzN2FhNTk4NjNhZDAyMTQzZmQ1NjA3ZWFmMmE0NTc1",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Voy A Pasarmelo Bien",
-        "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 235466,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+        "name": "Voy A Pasarmelo Bien",
+        "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+      "duration_ms": 235466,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Patchanka",
+        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
+      },
+      "artists": [
+        {
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Sinti\u00e9ndolo Mucho (feat. Leiva)",
         "url": "https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 244013,
       "name": "Sinti\u00e9ndolo Mucho (feat. Leiva)",
       "url": "https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Patchanka",
-        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
-      },
-      "artists": [
-        {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Muy Deficiente",
+        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "El roce de tu cuerpo",
+      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Rumbapop",
         "url": "https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Muy Deficiente",
-        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "El roce de tu cuerpo",
-      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Ba\u00efonarena (Live)",
         "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 227666,
       "name": "A San Fernando un Ratito a Pie y Otro Caminando",
       "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "\u00a1Hasta luego!",
+        "url": "https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Dulce condena",
+      "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "28.000 pu\u00f1aladas",
         "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 205591,
       "name": "El lenguaje de los coleteros",
       "url": "https://open.spotify.com/track/5Q4xFUlMcZJkP5GzMdZoOK"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "\u00a1Hasta luego!",
-        "url": "https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Dulce condena",
-      "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Gente Impresentable",
-        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "La senda del tiempo",
-      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "\u00daltimas Voluntades (Canci\u00f3n Original De La Pel\u00edcula)",
         "url": "https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 226487,
       "name": "\u00daltimas Voluntades - Canci\u00f3n Original De La Pel\u00edcula",
       "url": "https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Gente Impresentable",
+        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "La senda del tiempo",
+      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
     },
     {
       "added_at": "2023-04-06 22:00:00",

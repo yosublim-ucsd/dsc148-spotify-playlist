@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 96672,
+  "num_followers": 96778,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMGNjMjEzZTIxZWVlMDAyZmI0OGM0MzNiNTkxMGI0Yzgw",
+  "snapshot_id": "MTY0MDAxOTc0NSwwMDAwMDAwMGNiMDgyYWZkYzUxZDE0YWRlZDNhMmRhOTdmNzEyZTE2",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "Lito y Polaco",
-          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Maniatica Sexual",
-      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Nueva Generaci\u00f3n",
         "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 173653,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/7qA6NCWBEpbEusd6Phx9hy"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "Lito y Polaco",
+          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Maniatica Sexual",
+      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -872,13 +872,13 @@
       },
       "artists": [
         {
-          "name": "Chezina Y Pirin",
-          "url": "https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac"
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
         }
       ],
-      "duration_ms": 416634,
-      "name": "La Combinaci\u00f3n Perfecta Old School",
-      "url": "https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk"
+      "duration_ms": 65618,
+      "name": "Tu Amor Es un Crimen",
+      "url": "https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -888,13 +888,13 @@
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Chezina Y Pirin",
+          "url": "https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac"
         }
       ],
-      "duration_ms": 65618,
-      "name": "Tu Amor Es un Crimen",
-      "url": "https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip"
+      "duration_ms": 416634,
+      "name": "La Combinaci\u00f3n Perfecta Old School",
+      "url": "https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk"
     },
     {
       "added_at": "2021-12-20 17:02:25",

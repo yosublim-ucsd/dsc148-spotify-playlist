@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-519 songs - 1 day 14 hr 4 min
+520 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-04-17 | 2022-10-16 |
 | [Today Is Right Here](https://open.spotify.com/track/4jXbwdJRlBQWVxVaO3HmyX) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Midnight Rocker](https://open.spotify.com/album/7lvVMFWM7No3ePlj8gSCun) | 3:58 | 2022-04-14 | 2022-07-29 |
 | [Todo Cambia](https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Al Otro Lado del Mar](https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G) | 4:18 | 2022-09-03 | 2022-11-30 |
-| [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-08-31 |  |
+| [Tongo Barra](https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:33 | 2022-08-31 |  |
+| [Tongo Barra](https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Tongo Barra](https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN) | 5:33 | 2022-08-31 | 2023-04-09 |
 | [Too Many Kicks](https://open.spotify.com/track/3G1xg3Ak9AAoLtf19hd5SZ) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Moving Forward](https://open.spotify.com/album/5HFOwW2XFKuvxBAygK7pBE) | 5:25 | 2021-10-06 | 2022-04-17 |
 | [Too Many Kicks](https://open.spotify.com/track/3xEhK82PZD2xqdeUN9heH5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Moving Forward](https://open.spotify.com/album/3YCmrfPI8U7cW56Dhv9PDJ) | 5:25 | 2021-10-06 | 2022-08-06 |
 | [Totem \- David Walters Remix](https://open.spotify.com/track/2sMtCMxY9ocTQybHW7KxLg) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Totem \(David Walters Remix\)](https://open.spotify.com/album/3uPQR7dKbS3SsAbqqumoqz) | 6:32 | 2022-01-14 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-105 songs - 7 hr 7 min
+106 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Brooklyn's Finest](https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:35 | 2020-05-13 |  |
 | [Chelsea Morning](https://open.spotify.com/track/5G0q5jtbxFCoqfbIDCIGky) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 2:31 | 2020-05-13 | 2022-05-18 |
 | [City of Blinding Lights](https://open.spotify.com/track/4ItWussj1AjpGcBEwhMLP2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Devil Wears Prada \(Music from the Motion Picture\)](https://open.spotify.com/album/2JMIfKLVIBC2ecgFhxuT5s) | 5:44 | 2020-05-13 | 2022-05-16 |
-| [City Of Blinding Lights](https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:47 | 2022-01-24 |  |
+| [City Of Blinding Lights](https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:47 | 2022-01-24 | 2023-04-09 |
 | [Coney Island](https://open.spotify.com/track/4Yo5ugCS9WjFBu5HhBpcBk) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Photo Album](https://open.spotify.com/album/60Rnz307ETOWHn6LWlKMrK) | 2:40 | 2020-05-13 | 2022-07-29 |
+| [Downtown](https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 3:05 | 2022-01-24 |  |
 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 | 2022-01-24 | 2022-11-13 |
 | [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 | 2022-01-24 | 2023-04-04 |
 | [Downtown \- 64 Original Release With Petula Clark](https://open.spotify.com/track/5ixPfNV1Sx1HCuxdmBnbmE) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Downtown](https://open.spotify.com/album/0R9IY9LOH0uP2ibtPjfut5) | 3:05 | 2020-05-13 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 89121,
+  "num_followers": 89319,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDdiMjZmZGI2Y2E5ZGVlNjZkNDc4Zjc2MDE3NjU4NWJk",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDM0MWI2MDkzZjUzMjhlZmE1ZTVlZDRjMWU0MTRjOGJk",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -339,6 +339,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "A Little Less Conversation: Elvis vs JXL",
         "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 211506,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -659,6 +659,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Decksandrumsandrockandroll 20th anniversary",
         "url": "https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Maxinquaye",
-        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "Black Steel",
-      "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 411466,
       "name": "Open Up - Remastered",
       "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Maxinquaye",
+        "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "Black Steel",
+      "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "In Sides",
-        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
+        "name": "Saturday Teenage Kick",
+        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
         }
       ],
-      "duration_ms": 388200,
-      "name": "The Box, Pt. 1",
-      "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
+      "duration_ms": 327173,
+      "name": "Dealing with the Roster",
+      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Saturday Teenage Kick",
-        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
+        "name": "In Sides",
+        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 327173,
-      "name": "Dealing with the Roster",
-      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
+      "duration_ms": 388200,
+      "name": "The Box, Pt. 1",
+      "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Second Toughest In The Infants (Remastered)",
-        "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
+        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
+        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Blueski - Remastered",
-      "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
+      "duration_ms": 228146,
+      "name": "Beauty Never Fades (feat. Saffron)",
+      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
-        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+        "name": "Second Toughest In The Infants (Remastered)",
+        "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        },
-        {
-          "name": "Saffron",
-          "url": "https://open.spotify.com/artist/6ra7GePuTXt8U7iPGmMa8n"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Beauty Never Fades (feat. Saffron)",
-      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+      "duration_ms": 183013,
+      "name": "Blueski - Remastered",
+      "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
     },
     {
       "added_at": "2021-07-14 17:36:34",

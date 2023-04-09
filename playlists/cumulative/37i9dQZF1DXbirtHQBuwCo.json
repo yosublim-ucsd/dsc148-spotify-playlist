@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Jay Park, KATIE, WOOGIE)",
+  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: BIBI(\ube44\ube44))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 187133,
       "name": "55 (Feat. Yerin Baek, WENDY)",
       "url": "https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 203409,
       "name": "Bye bye my blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -2316,6 +2316,24 @@
       "duration_ms": 240000,
       "name": "CONFEXXION",
       "url": "https://open.spotify.com/track/5s3opyN6LAoYAxs3158KuP"
+    },
+    {
+      "album": {
+        "name": "mountain",
+        "url": "https://open.spotify.com/album/61Sj2WYFtPMbAUNREo8Eaf"
+      },
+      "artists": [
+        {
+          "name": "Suyo",
+          "url": "https://open.spotify.com/artist/6gKKbq1sXZsj3CumLq7v6A"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "conversation",
+      "url": "https://open.spotify.com/track/7uBRP5uKGhTIOW5RZV8TSg"
     },
     {
       "album": {
@@ -4863,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "I AM SHAMPOO",
+        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141259,
+      "name": "I AM SHAMPOO",
+      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
+    },
+    {
+      "album": {
         "name": "I can't make you love me",
         "url": "https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa"
       },
@@ -5678,6 +5714,28 @@
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/7cPLsI2lTuZhBKZi98Po6r"
+      },
+      "artists": [
+        {
+          "name": "Daul",
+          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Locked In (Feat. Jiselle)",
+      "url": "https://open.spotify.com/track/7KzkNqK1WohUzYHTJSmlOU"
     },
     {
       "album": {
@@ -11190,7 +11248,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"

@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 424693,
+  "num_followers": 425698,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDg3NWJlYWI2ODdkMDA1Njg4N2NlMWJhZGEyYmZhOTll",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGNkNGFkY2I4MzJiZjQ2MzAwNmIzZGI3ODkyMmRkM2Yz",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophia Somajo",
-          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
-        }
-      ],
-      "duration_ms": 239834,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Goodbye (feat. Lyse) [Radio Edit]",
         "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 201938,
       "name": "Goodbye (feat. Lyse) - Radio Edit",
       "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophia Somajo",
+          "url": "https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z"
+        }
+      ],
+      "duration_ms": 239834,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "September Song (Remixes)",
         "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 215030,
       "name": "September Song - Indian Summer Mix",
       "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Last Hurrah (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 191868,
-      "name": "Last Hurrah - David Guetta Remix",
-      "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Last Hurrah (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 191868,
+      "name": "Last Hurrah - David Guetta Remix",
+      "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
-      },
-      "artists": [
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 185104,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sonnentanz",
         "url": "https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 236333,
       "name": "Sonnentanz - Sun Don't Shine",
       "url": "https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/2E0mrQvminQ2RpbDB1149f"
-      },
-      "artists": [
-        {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        },
-        {
-          "name": "Sophie Strauss",
-          "url": "https://open.spotify.com/artist/7jkqVQ6YQ3LvAhVG03ZP4G"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/1VwFPiTNrvxg16OBBPDrEf"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 276600,
       "name": "Fade Out Lines - The Avener Rework",
       "url": "https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/2E0mrQvminQ2RpbDB1149f"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "Sophie Strauss",
+          "url": "https://open.spotify.com/artist/7jkqVQ6YQ3LvAhVG03ZP4G"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/1VwFPiTNrvxg16OBBPDrEf"
     },
     {
       "added_at": "2022-01-18 14:54:04",

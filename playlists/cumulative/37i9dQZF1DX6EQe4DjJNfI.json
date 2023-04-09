@@ -148,7 +148,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 177272,
       "name": "Aperta Start",
       "url": "https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM"
@@ -324,6 +324,32 @@
       "duration_ms": 248000,
       "name": "Brigas Demais",
       "url": "https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL"
+    },
+    {
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Caos",
+      "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
     },
     {
       "album": {
@@ -503,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o de Fogo",
+        "url": "https://open.spotify.com/album/2kOawmhLWEE2XifSM9boX2"
+      },
+      "artists": [
+        {
+          "name": "Truh",
+          "url": "https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136044,
+      "name": "Cora\u00e7\u00e3o de Fogo",
+      "url": "https://open.spotify.com/track/5PTljxsqsyMwwEBIm083rj"
+    },
+    {
+      "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k"
       },
@@ -562,7 +610,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 196204,
       "name": "Devi",
       "url": "https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF"
@@ -620,7 +668,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 136615,
       "name": "Escolhe",
       "url": "https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA"
@@ -664,6 +712,28 @@
       "duration_ms": 167951,
       "name": "Eu Quero pra Mim",
       "url": "https://open.spotify.com/track/4nXuUKg9sveh2T9mITEhrA"
+    },
+    {
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Facetime - Remix",
+      "url": "https://open.spotify.com/track/0ULGW9RhAaBfX3Lt3KQdL2"
     },
     {
       "album": {
@@ -783,6 +853,24 @@
     },
     {
       "album": {
+        "name": "jovemCARLOS",
+        "url": "https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217194,
+      "name": "incomum",
+      "url": "https://open.spotify.com/track/0h6oF0wN1AWD1waKl979Jp"
+    },
+    {
+      "album": {
         "name": "incomum",
         "url": "https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON"
       },
@@ -794,7 +882,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 217194,
       "name": "incomum",
       "url": "https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J"
@@ -1062,7 +1150,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 214001,
       "name": "mais que isso",
       "url": "https://open.spotify.com/track/0d5NlGvOFGrr66MDGX3W00"
@@ -1121,6 +1209,32 @@
     },
     {
       "album": {
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Me liga",
+      "url": "https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh"
+    },
+    {
+      "album": {
         "name": "Melhor Ficar Sozinho",
         "url": "https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC"
       },
@@ -1136,7 +1250,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 160932,
       "name": "Melhor Ficar Sozinho",
       "url": "https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn"
@@ -1510,7 +1624,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-09",
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
@@ -1540,6 +1654,28 @@
       "duration_ms": 192000,
       "name": "Pontas Soltas",
       "url": "https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ"
+    },
+    {
+      "album": {
+        "name": "Ponto de Equil\u00edbrio",
+        "url": "https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH"
+      },
+      "artists": [
+        {
+          "name": "Mutanx",
+          "url": "https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM"
+        },
+        {
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193014,
+      "name": "Ponto de Equil\u00edbrio",
+      "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
     },
     {
       "album": {
@@ -1760,6 +1896,32 @@
       "duration_ms": 148869,
       "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
       "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
+    },
+    {
+      "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Sensual",
+      "url": "https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70"
     },
     {
       "album": {
