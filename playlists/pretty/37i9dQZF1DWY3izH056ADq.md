@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,075 likes - 115 songs - 17 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,132 likes - 115 songs - 17 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 114 | [Voice Drama “SHOWDOWN” Part VISTY](https://open.spotify.com/track/1HKkbD5R3fNp4xQHgEDTMb) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 23:29 |
 | 115 | [Voice Drama “SHOWDOWN” Part 獄Luck](https://open.spotify.com/track/65hRgPKRfJDhBcsMvWU070) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 22:57 |
 
-Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMGNkOGU3MzcxOTgzOWU1NmViZmM1MTAzZmE1NGZmZDFl`
+Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMDM3YmZlNTM3OGU5MTM3Mzc1Y2I5OTdhYjJmNzRlM2Zh`

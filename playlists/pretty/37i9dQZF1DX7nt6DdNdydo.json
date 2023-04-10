@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 39920,
+  "num_followers": 39939,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGZkMWRiMTQxNzM0MTdjNTA1YTI2ZWEzZTEzYTU4ZGMz",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDY5ODI3ZGVlMzQ5MGFjOGViNzRiNDVlYjhhZjM4NzNi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -391,18 +391,26 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Swingsation: Lionel Hampton",
-        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
+        "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
+        "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
       },
       "artists": [
         {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+          "name": "Louis Jordan (alto saxophone",
+          "url": "https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA"
+        },
+        {
+          "name": "bandleader)",
+          "url": "https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY"
+        },
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
-      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
+      "duration_ms": 185346,
+      "name": "Ain't Nobody Here but Us Chickens",
+      "url": "https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -419,6 +427,22 @@
       "duration_ms": 156320,
       "name": "Hello Little Boy",
       "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Swingsation: Lionel Hampton",
+        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
+      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -451,30 +475,6 @@
       "duration_ms": 120480,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
-        "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan (alto saxophone",
-          "url": "https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA"
-        },
-        {
-          "name": "bandleader)",
-          "url": "https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY"
-        },
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Ain't Nobody Here but Us Chickens",
-      "url": "https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -611,22 +611,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
-        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
       "artists": [
         {
-          "name": "Humphrey Lyttelton",
-          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
         },
         {
-          "name": "Jimmy Rushing",
-          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
         }
       ],
-      "duration_ms": 116933,
-      "name": "Mr. Five By Five",
-      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+      "duration_ms": 286893,
+      "name": "Rhythm In The Barnyard",
+      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -663,22 +663,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+        "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
+        "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
       "artists": [
         {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+          "name": "Humphrey Lyttelton",
+          "url": "https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf"
         },
         {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
         }
       ],
-      "duration_ms": 286893,
-      "name": "Rhythm In The Barnyard",
-      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+      "duration_ms": 116933,
+      "name": "Mr. Five By Five",
+      "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Oreozin, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,874 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,985 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 45 | [Invejoso, Golpe](https://open.spotify.com/track/2xPCWuytIvEIms19wdgl2A) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX) | [Invejoso, Golpe](https://open.spotify.com/album/5n5K0cvH2kkw50kqn8i3s5) | 3:29 |
 | 46 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 |
 | 47 | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0) | 4:25 |
-| 48 | [Evoque Miami Blue](https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Evoque Miami Blue](https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap) | 2:09 |
-| 49 | [Australiana](https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Australiana](https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs) | 2:10 |
+| 48 | [Australiana](https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Australiana](https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs) | 2:10 |
+| 49 | [Evoque Miami Blue](https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Evoque Miami Blue](https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap) | 2:09 |
 | 50 | [Molly & Lean](https://open.spotify.com/track/0PsPpAjk9ZnQ3VkN2OiLzb) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Molly & Lean](https://open.spotify.com/album/3zGuvNZKU1hA3rUjvrnyOc) | 2:14 |
 
-Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMDExYzNiZWQ0OTY0NTM3NDg3ZmM1NzQwNTAxYWJiYTZh`
+Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMDBiOTJmMWE2YWI4OTM0ZWJhNTQ4YTU1YmVjZWU4NDYx`

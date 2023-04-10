@@ -4,7 +4,7 @@
 
 > 
 
-440 songs - 19 hr 40 min
+441 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Stay To Myself / Schedule II](https://open.spotify.com/track/6J1jmKkjbMUAJ2niLlRsLs) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-09-30 |  |
 | [Still Young Pablo](https://open.spotify.com/track/779gweiUnT5FA3QsKyOMNY) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Still Young Pablo](https://open.spotify.com/album/69gYAshYFvAXyrIKo5YGqx) | 2:27 | 2023-01-11 |  |
 | [Stop Breathing](https://open.spotify.com/track/2lLG56qpLP3UbcLuzMvkWX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:38 | 2022-12-15 |  |
+| [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-09 |  |
 | [Stumblin'](https://open.spotify.com/track/1SqocC5Kczq2f7Y0Uxdz8j) | [Maitchhh, Ion999](https://open.spotify.com/artist/2jJ3dHmsUVS70WcJidjy0P) | [Stumblin'](https://open.spotify.com/album/5UK34UItPiyIEElV7TYc54) | 3:51 | 2022-10-21 |  |
 | [Suicide Mission](https://open.spotify.com/track/6GpRLxHvsTayOnY83TZdmM) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [Suicide Mission](https://open.spotify.com/album/3oXmHRYseFn96UYT2I3BR1) | 2:25 | 2022-09-12 |  |
 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 | 2023-04-04 |  |

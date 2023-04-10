@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,899 likes - 93 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,963 likes - 93 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 | 4 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 2](https://open.spotify.com/track/4lyY06kGvzvmG6ErToOVLe) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:22 |
 | 5 | [A Catalogue of Afternoons](https://open.spotify.com/track/42c1ppLBsSbUjFNDzYLY10) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Catalogue Of Afternoons](https://open.spotify.com/album/3EmrqoUaH8b96oBjtbwfl5) | 1:50 |
 | 6 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 |
-| 7 | [Spring 1 \- 2022](https://open.spotify.com/track/2B3o5ddgGObs1M0CGkdTr9) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(2022\)](https://open.spotify.com/album/4TW6r5GP0V1Ji1ZMnrlgDl) | 2:32 |
+| 7 | [Richter: Spring 1 \- 2022](https://open.spotify.com/track/2B3o5ddgGObs1M0CGkdTr9) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Elena Urioste](https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls) | [Spring 1 \(2022\)](https://open.spotify.com/album/4TW6r5GP0V1Ji1ZMnrlgDl) | 2:32 |
 | 8 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 8](https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 1:58 |
 | 9 | [The Departure](https://open.spotify.com/track/3KG9I4JXpDwNQOsotE3uLh) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg) | 1:15 |
 | 10 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 3](https://open.spotify.com/track/73acjJgRohsq2yCD2FbkUX) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:18 |

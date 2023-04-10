@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 124575,
+  "num_followers": 124613,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDQ5OGU1OTYwNzg3NTNhMGZmYjljNTg1YzUwNTM3MjUy",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDMyYTM5ZDk4OTNmYzIwMjk3MjNkNDYyN2U5OGI1Mzc4",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -377,20 +377,20 @@
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
+      "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Living Chicago Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Lacy Gibson",
-          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 280573,
-      "name": "Drown In My Own Tears",
-      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
+      "duration_ms": 174506,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
+      "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Lacy Gibson",
+          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
+      "duration_ms": 280573,
+      "name": "Drown In My Own Tears",
+      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
     },
     {
       "added_at": "2018-02-27 18:08:29",

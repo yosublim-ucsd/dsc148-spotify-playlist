@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-102 songs - 9 hr 51 min
+103 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Um Bom Lugar](https://open.spotify.com/track/7sQPek0zBGZUTK4Eh2opvH) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:05 | 2022-02-25 | 2022-07-29 |
 | [Um Pião de Vida Loka](https://open.spotify.com/track/212C6IYOKvgi2G9a1mAPd2) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 7:47 | 2022-02-25 |  |
 | [Us Mano e as Mina](https://open.spotify.com/track/75LqUvMAxMeEvcJsrVahB1) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:39 | 2022-02-25 | 2022-07-29 |
-| [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 | 2022-02-25 |  |
+| [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 | 2022-02-25 | 2023-04-10 |
+| [Us Mano e as Mina \- 1999 Remasterizado](https://open.spotify.com/track/78PqlZRBZJcDRcYuUFXRy8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(1999 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:39 | 2022-12-02 |  |
 | [Verão na Vr](https://open.spotify.com/track/1zmrCI79qVk2BZJA6Skwdi) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Jogada Final](https://open.spotify.com/album/6l0hajkWQRFXLcdR5Pe455) | 6:33 | 2022-02-25 |  |
 | [Viajando Na Balada](https://open.spotify.com/track/4X7gsZvBDfhQyMGyoP6SYb) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Rap \- Edição Especial](https://open.spotify.com/album/20OITeapzgrpqEY0tny63t) | 5:11 | 2022-02-25 | 2022-11-13 |
 | [Viajando Na Balada](https://open.spotify.com/track/1bJC1W4KGqqSQ58Vt4xQBx) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/5EiEUPlz8hHCWC5jpF9Ms6) | 5:11 | 2022-02-25 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 55897,
+  "num_followers": 55911,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDYzODY0YWM4N2Y5ZDRmNjNiMmE1OWY2NWNkZDg5YzU3",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDM3YzY3N2NjOWZjYjk0NDEwZjQ4YmYzMjVlZmIwYjQx",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -367,30 +367,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk"
       },
       "artists": [
         {
-          "name": "Alan Jacques",
-          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Kid Gallo",
-          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
-        },
-        {
-          "name": "Amador",
-          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 163608,
-      "name": "Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
+      "duration_ms": 163880,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -427,22 +419,30 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk"
+        "name": "Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
         },
         {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Kid Gallo",
+          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
+        },
+        {
+          "name": "Amador",
+          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
         }
       ],
-      "duration_ms": 163880,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
+      "duration_ms": 163608,
+      "name": "Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -461,24 +461,20 @@
       "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
+      "added_at": "2023-03-03 06:00:00",
       "album": {
-        "name": "Nos Matamos",
-        "url": "https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml"
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         }
       ],
-      "duration_ms": 257657,
-      "name": "Nos Matamos",
-      "url": "https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A"
+      "duration_ms": 197647,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -517,20 +513,24 @@
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
-      "added_at": "2023-03-03 06:00:00",
+      "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
+        "name": "Nos Matamos",
+        "url": "https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
+      "duration_ms": 257657,
+      "name": "Nos Matamos",
+      "url": "https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -847,30 +847,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "necesito un break de tanta pendejad*",
-        "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Bastian",
-          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "necesito un break de tanta pendejad*",
-      "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Dm",
         "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
       },
@@ -891,18 +867,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+        "name": "necesito un break de tanta pendejad*",
+        "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
       "artists": [
         {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
         }
       ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+      "duration_ms": 178741,
+      "name": "necesito un break de tanta pendejad*",
+      "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 220000,
       "name": "Ceniza",
       "url": "https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     },
     {
       "added_at": "2023-02-24 19:45:10",

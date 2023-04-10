@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Planet Giza
 
-878 songs - 1 day 16 hr 46 min
+879 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [30 Point Nights 2](https://open.spotify.com/track/0cyfuVijCR6brMbiiBGjco) | [Beals L.E.S](https://open.spotify.com/artist/0KBVhlxrvPosdCZsqqEjXz) | [30 Point Nights 2](https://open.spotify.com/album/2R6ODA7EgcOwuQ49D14vXK) | 1:56 | 2022-01-07 | 2022-01-15 |
 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/1QNoq8VTijLPuVXqGAkMAp) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/34dTMVQitxHQO7MXXI1MPf) | 2:37 | 2022-01-07 | 2022-03-18 |
 | [40 Days 40 Nights](https://open.spotify.com/track/5mowBXcS0kBQ347Hb48QTc) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Pain Paints Paintings](https://open.spotify.com/album/1zDbcQiL9pDK3AYgjn4Iop) | 4:07 | 2022-01-07 | 2022-01-22 |
-| [401](https://open.spotify.com/track/0FK2SiLHQ8i1ulwx6DzV3s) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [401](https://open.spotify.com/album/0f366ETv0lw2788iwVexP8) | 2:42 | 2022-12-19 |  |
+| [401](https://open.spotify.com/track/3mej8S2elvgSBwZMoWzMjr) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [401](https://open.spotify.com/album/7GayrcbuLwu1t9VE0CMd6Z) | 2:42 | 2023-04-07 |  |
+| [401](https://open.spotify.com/track/0FK2SiLHQ8i1ulwx6DzV3s) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [401](https://open.spotify.com/album/0f366ETv0lw2788iwVexP8) | 2:42 | 2022-12-19 | 2023-04-10 |
 | [405](https://open.spotify.com/track/1kF2cUkE2cqA03A99FC3sQ) | [Juvy](https://open.spotify.com/artist/5WW1ErMJvuGaxJypZBfvy7) | [405](https://open.spotify.com/album/2OgI1fLyKsHRWFt50hSCTg) | 2:46 | 2022-10-07 | 2022-10-22 |
 | [4AM On Dupont](https://open.spotify.com/track/4vxTQp84vJKaHZI0lNbtzP) | [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD), [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [4AM On Dupont](https://open.spotify.com/album/6S77qSP8TbbRtm9yQiNJve) | 1:59 | 2022-09-23 | 2023-02-11 |
 | [5 AM in London](https://open.spotify.com/track/3CslgoZltqk8R1XV2f6GNq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Prophecy](https://open.spotify.com/album/4I13FVparFXcJj2JfEsHFG) | 2:54 | 2023-02-17 |  |

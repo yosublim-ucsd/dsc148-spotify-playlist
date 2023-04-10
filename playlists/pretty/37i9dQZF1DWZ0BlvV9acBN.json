@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 115324,
+  "num_followers": 115338,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDNjYmMwYWYwYTA3MDRiNjEyYzIwZTY5Nzc0NmJhMGQz",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGMyOTMzNDE4YzliYWI3MmZmOGIwOGIzM2JjNGYwYThj",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -79,6 +79,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "A Alegria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        }
+      ],
+      "duration_ms": 220185,
+      "name": "A Alegria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 339580,
       "name": "Rei da Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "A Alegria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        }
-      ],
-      "duration_ms": 220185,
-      "name": "A Alegria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vida/Eternidade",
-        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
       "artists": [
         {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
         }
       ],
-      "duration_ms": 258700,
-      "name": "Jo\u00e3o 1 - VEC",
-      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP"
       },
       "artists": [
         {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
         }
       ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
     },
     {
       "added_at": "2023-03-24 03:00:00",

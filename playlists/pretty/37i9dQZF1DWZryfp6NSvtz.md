@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Holding Absence
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,868 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,983 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 13 | [Stockholm](https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stockholm](https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0) | 3:17 |
 | 14 | [A Hooded Witness](https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3) | 4:06 |
 | 15 | [Neon Lights](https://open.spotify.com/track/3P6zs2KfMjiT5cuPJZPsZQ) | [The View](https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg) | [Neon Lights](https://open.spotify.com/album/40i6LfNN3Lo25yXKYmE9GR) | 3:21 |
-| 16 | [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 |
+| 16 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 |
 | 17 | [Breakdown](https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 3:03 |
 | 18 | [Tuff Luck](https://open.spotify.com/track/1otWE0vpz7LDL0TH9qUMYx) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Tuff Luck](https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9) | 2:15 |
 | 19 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Bullet](https://open.spotify.com/track/2ctGYwu2wHsfDHWPvmKWbw) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [SPLIIT SYSTEM](https://open.spotify.com/album/3oh8hFPyPHAMH25keYm6CH) | 2:49 |
 | 50 | [Raving Ghost](https://open.spotify.com/track/2IJQVCvCrgd6uUeav0qUqc) | [Olivia Jean](https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe) | [Raving Ghost](https://open.spotify.com/album/2lJvQANWigMntkDFThtVXw) | 3:13 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGY0MmJkNjhjYzhlZjBlMGU5YTYxYTc4MTEyN2ZhYWZk`
+Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMDZjMjE5ZmFjYjkwNzQ1YTFhNGVlODRmYmNiM2IyM2Q5`

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-7,288 songs - 15 day 18 hr 53 min
+7,289 songs - 15 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3387,6 +3387,7 @@
 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 | 2022-10-27 | 2022-11-04 |
 | [jeg elsker deg, men](https://open.spotify.com/track/2cODxfc9u2Zvl4EGmJ3slI) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg elsker deg, men](https://open.spotify.com/album/2bGbMiPCGM90Y1QxCwlQr3) | 3:56 | 2022-08-18 | 2022-08-26 |
 | [Jessie](https://open.spotify.com/track/3qN4CPVpGxA4NIjZe1FYmr) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Jessie](https://open.spotify.com/album/1hPZXipqT3uiKxkGU03kU5) | 2:27 | 2022-12-08 | 2022-12-16 |
+| [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-06 |  |
 | [Jetplan](https://open.spotify.com/track/4qjD0lKPmHERmCNgIk8tvZ) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Jetplan](https://open.spotify.com/album/2TsCKdEfShkSWDbrlvEaO4) | 4:09 | 2022-04-28 | 2022-05-06 |
 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 | 2022-07-14 | 2022-07-22 |
 | [Jiggy](https://open.spotify.com/track/3aBjNACueEZu3S3kXxnNzv) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Jiggy](https://open.spotify.com/album/1T3JGgaZr91l2pJmr5c9Bx) | 2:24 | 2022-04-21 | 2022-05-06 |

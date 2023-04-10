@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: LOST CHIPS\. Artwork: Isu Kim
 
-407 songs - 1 day 1 hr 55 min
+408 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [กระเป๋า \(packed\)](https://open.spotify.com/track/0c6W4I22IzQI3vGoSe4Igi) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [กระเป๋า \(packed\)](https://open.spotify.com/album/1WYonogpu1z7q3hlJWT5Eg) | 4:53 | 2022-12-08 | 2022-12-24 |
 | [กริบ](https://open.spotify.com/track/5y58IBc829NjHkSJ9nVFhk) | [Mellowmotion](https://open.spotify.com/artist/6oMTaPXFw1kdUHQvlfFgck) | [กริบ](https://open.spotify.com/album/5Wxovh57nTyODrogHUQ3V9) | 3:37 | 2022-11-04 | 2022-11-12 |
 | [กลับบ้าน \(Our home\)](https://open.spotify.com/track/2bv3z4gTam4RcFwdVO372F) | [A Little Bit High](https://open.spotify.com/artist/74m7Gc5TJuJ7IBAHjxDqzt) | [กลับบ้าน \(Our home\)](https://open.spotify.com/album/7329ETXvzGqHJzi9i7aWOJ) | 3:20 | 2022-09-15 | 2022-10-29 |
-| [กลับมาได้มั้ย](https://open.spotify.com/track/0jMwUDQ6b1FUDRkMS8aNT0) | [ArmAroy](https://open.spotify.com/artist/1Cu0qTQtZrYk1tAeJ4pnHU) | [กลับมาได้มั้ย](https://open.spotify.com/album/2HSk3jD6spqIOrYAQKgfNb) | 3:58 | 2023-04-06 |  |
+| [กลับมาได้มั้ย](https://open.spotify.com/track/0jMwUDQ6b1FUDRkMS8aNT0) | [ArmAroy](https://open.spotify.com/artist/1Cu0qTQtZrYk1tAeJ4pnHU) | [กลับมาได้มั้ย](https://open.spotify.com/album/2HSk3jD6spqIOrYAQKgfNb) | 3:58 | 2023-04-06 | 2023-04-10 |
 | [กลีบลำดวน](https://open.spotify.com/track/4g86IKZnctkmLPaVixUZJH) | [Mariko](https://open.spotify.com/artist/5SD1L5q8Ey69BKeU7cVZBO) | [กลีบลำดวน](https://open.spotify.com/album/15cfrD2XuueQrerZDrBNuU) | 4:03 | 2023-04-06 |  |
 | [กล่อง \- Forbidden](https://open.spotify.com/track/2u9NxSt6puZkMY8e2bglrK) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [กล่อง \(Forbidden\)](https://open.spotify.com/album/2TCSrruKKMNuXFNPhRzsEx) | 3:50 | 2022-10-07 | 2022-10-22 |
 | [กว่าจะมา](https://open.spotify.com/track/2uoL5po7rtiWWvlsPKCBQU) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [กว่าจะมา](https://open.spotify.com/album/5T4A89PfJrXE8FNPvIeabC) | 4:05 | 2023-04-06 |  |
@@ -316,6 +316,7 @@
 | [อย่างล่ก \- Worry](https://open.spotify.com/track/6QfxKnwLSkNLrZWzMsj5iB) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [อย่างล่ก \(Worry\)](https://open.spotify.com/album/1MmwDalaJ2UwHti6ACn1we) | 3:22 | 2022-11-04 | 2022-11-12 |
 | [อย่าตัดผม \(Don’t cut my hair, Please care my heart\)](https://open.spotify.com/track/3dBHDWfyEUuQ6Ko19AUjCr) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [อย่าตัดผม \(Don’t cut my hair, Please care my heart\)](https://open.spotify.com/album/4pCk2unFcyPkuWYee6yz2Z) | 3:31 | 2022-10-28 | 2022-11-12 |
 | [อย่าตามหาฉันอีกเลย \(END\)](https://open.spotify.com/track/4klavQXDW0P0wJaKbJngsN) | [Garret Weather](https://open.spotify.com/artist/06RW8KC2a31VoF9KETJuXS) | [อย่าตามหาฉันอีกเลย \(END\)](https://open.spotify.com/album/6YHl4pGXv0udd09bvlbFrC) | 4:19 | 2023-03-17 |  |
+| [อย่าบอกลา](https://open.spotify.com/track/5wwXDXxnAgkbTBEyWdqv3H) | [Minddays](https://open.spotify.com/artist/1b9uEjX6btdgvcqRS2uMQ2) | [อย่าบอกลา](https://open.spotify.com/album/5J8MBhgssB35zgCiMQLf1W) | 3:21 | 2023-04-06 |  |
 | [ออกเดินทาง \(NALA\)](https://open.spotify.com/track/17JhMru5Hnmh5fa0IXYRAW) | [Jimmy Blues](https://open.spotify.com/artist/7nZHTHhD4SwJr8XH66RF3w) | [ออกเดินทาง \(NALA\)](https://open.spotify.com/album/7kqNFh19aLyy4lpSzFPdnn) | 4:00 | 2023-03-17 | 2023-03-25 |
 | [อันฟอล \(Unfollow\)](https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [อันฟอล \(Unfollow\)](https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1) | 3:12 | 2022-09-15 | 2022-09-24 |
 | [อีมอญ ซ่อนรัก](https://open.spotify.com/track/35fQbt7OgBlNRwI0ceR4xS) | [Whyya](https://open.spotify.com/artist/6LaW2IcOcu8AmpTWZkYKIo) | [อีมอญ ซ่อนรัก](https://open.spotify.com/album/0CHQnBXfywD2YEqDMN68mF) | 3:06 | 2022-10-07 | 2022-10-22 |

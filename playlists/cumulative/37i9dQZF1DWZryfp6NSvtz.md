@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Holding Absence
 
-3,272 songs - 7 day 17 hr 43 min
+3,273 songs - 7 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2350,7 +2350,8 @@
 | [sadisfaction](https://open.spotify.com/track/3NapE0A1XKHudHMvvVScDE) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [WE'RE ALL GONNA F\*\*\*ING DIE.](https://open.spotify.com/album/0F2MV84CW3sxEVGCTKgxeZ) | 2:43 | 2022-07-08 | 2022-07-16 |
 | [Safety Net](https://open.spotify.com/track/7nPBzYE9o8OT4HG3QOec7v) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Safety Net](https://open.spotify.com/album/4uUTj3wjflOIq75naps5YY) | 2:52 | 2022-04-28 | 2022-05-06 |
 | [saggy genes](https://open.spotify.com/track/6ukTKEq8giCrDgY9hAzHKc) | [yeah, sure](https://open.spotify.com/artist/0siwkhjW3I1YWalU1GWEJ5) | [saggy genes](https://open.spotify.com/album/6LWJ0GY7inYjqRB4NlfPN1) | 3:23 | 2022-11-18 | 2022-11-26 |
-| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-07 |  |
+| [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-04-07 |  |
+| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-07 | 2023-04-10 |
 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 | 2023-03-24 | 2023-04-01 |
 | [Samantha](https://open.spotify.com/track/6HzHUak0SX37OJbpTOUdoB) | [Fresh not Chill](https://open.spotify.com/artist/27haRyrBkX38HdMBqeMi7u) | [Samantha](https://open.spotify.com/album/3965BurtVRJblIYIPEXwhG) | 3:48 | 2022-06-16 | 2022-06-24 |
 | [Same](https://open.spotify.com/track/7bvRiYdF3iz7MTDYC4vVWs) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Same](https://open.spotify.com/album/1SARpFDdsDM4ZS2UWqH51s) | 3:38 | 2022-06-16 | 2022-06-24 |

@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Insomniacks
 
-5,460 songs - 12 day 11 hr 41 min
+5,461 songs - 12 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3874,7 +3874,8 @@
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-04-07 | 2022-04-15 |
 | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f) | 3:13 | 2022-09-15 | 2022-09-23 |
 | [Sakitnya Penantian](https://open.spotify.com/track/5snuUm6fa8E97tzp2NeYk1) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1), [Wani Syaz](https://open.spotify.com/artist/1UjX1v1UPrGgz2JQGqnmkx) | [Sakitnya Penantian](https://open.spotify.com/album/0b7LG0ciGeCv9yHswzs5i9) | 3:05 | 2023-03-02 | 2023-03-10 |
-| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-06 |  |
+| [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-04-06 |  |
+| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-06 | 2023-04-10 |
 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-09 | 2023-03-18 |
 | [Sam and Jeanie McGreagor](https://open.spotify.com/track/4GZxOH1P8EdjJyEZY0SfPo) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Great White Sea Eagle](https://open.spotify.com/album/3sE3Ya11uxwRYdeMQNkePS) | 1:55 | 2023-01-12 | 2023-01-20 |
 | [Sama Seperti Dulu](https://open.spotify.com/track/4g32N8Vl5Dp8pnuzuiVLEg) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Sama Seperti Dulu](https://open.spotify.com/album/7vUeBaFOGUh4pPy0r38E51) | 3:40 | 2022-03-17 | 2022-03-25 |

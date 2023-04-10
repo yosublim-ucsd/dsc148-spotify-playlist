@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/3PqBYrAmvHfO0eVmqMSrcB"
+      },
+      "artists": [
+        {
+          "name": "Ha Anh Tuan",
+          "url": "https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "Th\u00e1ng T\u01b0 L\u00e0 L\u1eddi N\u00f3i D\u1ed1i C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/53zusvCJkyGYjEZ6bnLIjh"
+    },
+    {
+      "album": {
         "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
         "url": "https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg"
       },

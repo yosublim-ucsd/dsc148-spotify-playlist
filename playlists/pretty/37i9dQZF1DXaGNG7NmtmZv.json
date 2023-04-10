@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 182437,
+  "num_followers": 182503,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGJkZGE4MTUwOTNhYzZmYjEyM2JiOTZkYTI0MDY1OGQ2",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDIwMDNhMzFlOWFmNDZjOTQyZjE4NzczY2ViZTVjMjll",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "The Damned, the Shamed",
         "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 170453,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Sound Of The Republic",
-        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "You Ignore Them All",
-      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 104600,
       "name": "Just Can't Hate Enough",
       "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Sound Of The Republic",
+        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "You Ignore Them All",
+      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Hail Destroyer",
         "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 196680,
       "name": "Hail Destroyer",
       "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -699,6 +699,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "The Wounds That Never Heal",
-        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
-      },
-      "artists": [
-        {
-          "name": "Stigmata",
-          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
-        }
-      ],
-      "duration_ms": 263013,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+        "name": "The Wounds That Never Heal",
+        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
       },
       "artists": [
         {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+          "name": "Stigmata",
+          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
         }
       ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+      "duration_ms": 263013,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
     },
     {
       "added_at": "2020-12-08 15:12:11",

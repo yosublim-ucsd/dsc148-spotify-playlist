@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: REXORIA",
-  "num_followers": 725457,
+  "num_followers": 725624,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGZjZjExNTJjZjc2NGVkODA5NDM0OGUwNGUzZmVjMDRk",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDI5NTYyYzI1MmZmMWY3NThjODMzNzVjOTQ3MjBlODA1",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
-      },
-      "artists": [
-        {
-          "name": "Floor Jansen",
-          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
-        }
-      ],
-      "duration_ms": 208859,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
+      },
+      "artists": [
+        {
+          "name": "Floor Jansen",
+          "url": "https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ"
+        }
+      ],
+      "duration_ms": 208859,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "The Wonders Still Awaiting",
-        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
       "artists": [
         {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 312626,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -635,6 +619,22 @@
       "duration_ms": 276705,
       "name": "Fairy of the Bog",
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "The Wonders Still Awaiting",
+        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Ishimura",
-        "url": "https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y"
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
       },
       "artists": [
         {
-          "name": "Jason Richardson",
-          "url": "https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY"
-        },
-        {
-          "name": "Luke Holland",
-          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
         }
       ],
-      "duration_ms": 340280,
-      "name": "Ishimura",
-      "url": "https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo"
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1207,22 +1203,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Ishimura",
+        "url": "https://open.spotify.com/album/0hknSBplV9DntqhvmXEl1y"
+      },
+      "artists": [
+        {
+          "name": "Jason Richardson",
+          "url": "https://open.spotify.com/artist/4fsZkYcSEUEvZK2tEjzrVY"
+        },
+        {
+          "name": "Luke Holland",
+          "url": "https://open.spotify.com/artist/72zoL6dfUGwsPGITVTGIIb"
+        }
+      ],
+      "duration_ms": 340280,
+      "name": "Ishimura",
+      "url": "https://open.spotify.com/track/3t49GXyhiMgs9xLmpoGFMo"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Romance",
-          "url": "https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 224200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Romance",
+          "url": "https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "The Living and The Dead",
-        "url": "https://open.spotify.com/album/4W5j6t64ca4oKkku2VnQSe"
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
       },
       "artists": [
         {
-          "name": "Cruachan",
-          "url": "https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH"
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
         }
       ],
-      "duration_ms": 410548,
-      "name": "The Queen",
-      "url": "https://open.spotify.com/track/5UPzTaFmFFrdQhJjnAOsnY"
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
+        "name": "The Living and The Dead",
+        "url": "https://open.spotify.com/album/4W5j6t64ca4oKkku2VnQSe"
       },
       "artists": [
         {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
+          "name": "Cruachan",
+          "url": "https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH"
         }
       ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
+      "duration_ms": 410548,
+      "name": "The Queen",
+      "url": "https://open.spotify.com/track/5UPzTaFmFFrdQhJjnAOsnY"
     },
     {
       "added_at": "2023-03-24 04:01:00",

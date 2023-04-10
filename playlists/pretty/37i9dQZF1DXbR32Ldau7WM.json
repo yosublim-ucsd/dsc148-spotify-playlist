@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: BAWDIES",
-  "num_followers": 253553,
+  "num_followers": 253620,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDkzZGM4ZGEwZWI4MTRhMGJlMjNkZDJkMDdkNTg2OWYy",
+  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDU0YTdiNDJhYjk4MWY3YmZiNmFkNThiNTM1Y2QzYzdj",
   "tracks": [
     {
       "added_at": "2023-04-06 15:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "duration_ms": 224919,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
         "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "BackBeat",
-        "url": "https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj"
-      },
-      "artists": [
-        {
-          "name": "DOES",
-          "url": "https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy"
-        }
-      ],
-      "duration_ms": 230350,
-      "name": "BackBeat",
-      "url": "https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "BackBeat",
+        "url": "https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj"
+      },
+      "artists": [
+        {
+          "name": "DOES",
+          "url": "https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy"
+        }
+      ],
+      "duration_ms": 230350,
+      "name": "BackBeat",
+      "url": "https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
         "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 197837,
       "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
       "url": "https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ"
-      },
-      "artists": [
-        {
-          "name": "flumpool",
-          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
-        }
-      ],
-      "duration_ms": 224919,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Bump & Grind",
-        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "My Vision",
-      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "\u6681",
         "url": "https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 250026,
       "name": "\u6681",
       "url": "https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Bump & Grind",
+        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "My Vision",
+      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "SummerDay",
+        "url": "https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "duration_ms": 186571,
+      "name": "SummerDay",
+      "url": "https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "VOX",
         "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "SummerDay",
-        "url": "https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL"
+        "name": "ALVA",
+        "url": "https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY"
       },
       "artists": [
         {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+          "name": "a crowd of rebellion",
+          "url": "https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX"
         }
       ],
-      "duration_ms": 186571,
-      "name": "SummerDay",
-      "url": "https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD"
+      "duration_ms": 219266,
+      "name": "Lightning-Syndrome",
+      "url": "https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 207203,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "ALVA",
-        "url": "https://open.spotify.com/album/6KpTLS5HvingdMoftrjyjY"
-      },
-      "artists": [
-        {
-          "name": "a crowd of rebellion",
-          "url": "https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Lightning-Syndrome",
-      "url": "https://open.spotify.com/track/34KZjLIRpjGdinqG3lgD5y"
     },
     {
       "added_at": "2023-04-06 15:00:00",

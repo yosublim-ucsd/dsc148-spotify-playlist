@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Oliver Heldens & Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,500 likes - 72 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,589 likes - 72 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

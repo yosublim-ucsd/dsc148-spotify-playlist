@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,063 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,105 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 19 | [Down The Dirt Road Blues](https://open.spotify.com/track/4sCCIP8eG3HVizWnm1SQ0G) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [Charley Patton Vol\. 1 \(1929\)](https://open.spotify.com/album/0fWV8D1byaFWLivZSRqf8v) | 2:54 |
 | 20 | [The Twelves \(The Dirty Dozens\)](https://open.spotify.com/track/5jtf7Po8DDZoHK3APUUWeu) | [Casey Bill Weldon](https://open.spotify.com/artist/65DrfMsqDV0FYVyuu372EA), [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Presenting Casey Bill Weldon](https://open.spotify.com/album/2XHBjUYyfCWEMABC4shhXT) | 3:11 |
 | 21 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
-| 22 | [That's No Way To Get Along](https://open.spotify.com/track/17HuPAGnau4TRcKiFTdFFB) | [Robert Wilkins](https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6) | [Ghost World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5X2uCU5mLGRFJgy7PXJ0GW) | 2:52 |
+| 22 | [That's No Way to Get Along](https://open.spotify.com/track/1E3SCj7TMQCbWXGtzS2ZvY) | [Robert Wilkins](https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6) | [Presenting Robert Wilkins](https://open.spotify.com/album/5KT3VSwAI1EHmL6Pwo4GTZ) | 2:52 |
 | 23 | [Downtown Blues](https://open.spotify.com/track/17r2Et8LmSasIf0AYbkwQR) | [Frank Stokes](https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc) | [Presenting Frank Stokes](https://open.spotify.com/album/5UM7PHLz1egwEqNboCVmpb) | 3:17 |
 | 24 | [Catfish Blues](https://open.spotify.com/track/7A9yfYiBXLEvKn1oJy3nPL) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues Vol\. 3 "Catfish Blues"](https://open.spotify.com/album/4LjUYP4RO0OcX7f6lUVerz) | 2:54 |
 | 25 | [Man Stealer Blues](https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 49 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 50 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 
-Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMGIxMWE1Y2RmYTQyYTdhZDUxOGQ5ZGU4OTAyOWFkYTJh`
+Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMDNiNmQ1ZWQ3ODlkNDU5N2JjNzllYmY5MmM0NmQ3YTU0`

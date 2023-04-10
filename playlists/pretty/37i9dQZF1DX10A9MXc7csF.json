@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98258,
+  "num_followers": 98268,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDVhMTY1YmI5YTBmNjUxYjdjYzU0OGRiMzRjOTE4OGY5",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDVkZTMxOWM2YWVkMWMwYWIyMjcyN2Y0NzA0M2NhMzU5",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Blanco Y Negro",
-        "url": "https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR"
-      },
-      "artists": [
-        {
-          "name": "Dano Arias",
-          "url": "https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT"
-        },
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Blanco Y Negro",
-      "url": "https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Blanco Y Negro",
+        "url": "https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR"
+      },
+      "artists": [
+        {
+          "name": "Dano Arias",
+          "url": "https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Blanco Y Negro",
+      "url": "https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 162389,
-      "name": "5 Estrellas - En Vivo",
-      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "No Fuimos Nada",
         "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 182981,
       "name": "No Fuimos Nada",
       "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 162389,
+      "name": "5 Estrellas - En Vivo",
+      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
-      },
-      "artists": [
-        {
-          "name": "Panchito Vega",
-          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
       },
@@ -763,18 +747,34 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
       },
       "artists": [
         {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+          "name": "Panchito Vega",
+          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
         }
       ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
+      "duration_ms": 255000,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
       },
       "artists": [
         {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21"
+      },
+      "artists": [
+        {
+          "name": "Porto Fino",
+          "url": "https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe"
+        }
+      ],
+      "duration_ms": 217196,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Estilo Palazuelos",
         "url": "https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 155821,
       "name": "Estilo Palazuelos",
       "url": "https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21"
-      },
-      "artists": [
-        {
-          "name": "Porto Fino",
-          "url": "https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe"
-        }
-      ],
-      "duration_ms": 217196,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz"
     },
     {
       "added_at": "2023-03-17 06:06:33",

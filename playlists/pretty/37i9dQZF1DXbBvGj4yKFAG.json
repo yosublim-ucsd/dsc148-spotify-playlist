@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 23160,
+  "num_followers": 23518,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyNDQzOCwwMDAwMDAwMGQ3ZWM0ODAzNTJhNDJiOTQzZTQ5NmQzMjYxYmRlYmFj",
+  "snapshot_id": "MTY4MDgyNDQzOCwwMDAwMDAwMGVmOWU3OTU4MWU3NzQxMTcwMWMwYzBmYWIxMTRhYjU2",
   "tracks": [
     {
       "added_at": "2023-02-09 18:38:29",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/6rv9youaC5GcRiag510DL7"
     },
     {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "How To Never Stop Being Sad",
-      "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
-    },
-    {
       "added_at": "2023-02-09 18:41:55",
       "album": {
         "name": "the record",
@@ -307,6 +291,22 @@
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
+    },
+    {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 130742,
+      "name": "How To Never Stop Being Sad",
+      "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "alibi",
-        "url": "https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 301828,
-      "name": "alibi",
-      "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
-    },
-    {
       "added_at": "2023-02-09 18:38:29",
       "album": {
         "name": "New Ways To Die",
@@ -727,6 +711,22 @@
       "duration_ms": 242160,
       "name": "Fall With Me",
       "url": "https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "alibi",
+        "url": "https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 301828,
+      "name": "alibi",
+      "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 216299,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+      "duration_ms": 186346,
+      "name": "Triptych",
+      "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
     }
   ],
   "unique_name": "side effects",

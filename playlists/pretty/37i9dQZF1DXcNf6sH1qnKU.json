@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 416848,
+  "num_followers": 417462,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDM1OTBmNjI0NzUzZmE5Y2FlYjc1MTI0NTk5ZjI0OGM3",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDY4YjA3ZGY5ZmE5MTA5MDcxODJkNDBiMmI5NDc1ZTE5",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Work And Non Work",
-        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "The Book Lovers",
-      "url": "https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 255426,
       "name": "Off Your Face",
       "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Work And Non Work",
+        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "The Book Lovers",
+      "url": "https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "The Waves",
         "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -523,18 +523,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
+      "duration_ms": 191893,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -583,22 +583,6 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
-    },
-    {
-      "added_at": "2022-03-18 05:40:30",
-      "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -651,6 +635,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Sub Versions",
+        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
+      },
+      "artists": [
+        {
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
       },
@@ -665,20 +665,20 @@
       "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-03-18 05:40:30",
       "album": {
-        "name": "Sub Versions",
-        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
       },
       "artists": [
         {
-          "name": "YACHT",
-          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 130063,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
-      },
-      "artists": [
-        {
-          "name": "Locust",
-          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
-        }
-      ],
-      "duration_ms": 401111,
-      "name": "No-One in the World",
-      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Melody of Certain Damaged Lemons",
         "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 365533,
       "name": "In Particular",
       "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        }
+      ],
+      "duration_ms": 401111,
+      "name": "No-One in the World",
+      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
     },
     {
       "added_at": "2021-10-01 10:38:06",

@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-214 songs - 15 hr 35 min
+215 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Reason](https://open.spotify.com/track/5CKCJTCMiEFNTRVljknIaj) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Graduation 〜Singles〜](https://open.spotify.com/album/4bdX5QQ5zyxxEcYJOsefP2) | 4:50 | 2022-10-17 | 2022-11-13 |
 | [Reason](https://open.spotify.com/track/6NHwaWtSIQTZKP4ki1riR1) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Make Progress](https://open.spotify.com/album/2MxDcdAxU2FkEJoHNEmPw9) | 4:50 | 2022-07-27 |  |
 | [Reason](https://open.spotify.com/track/0rJPjKZa9rPorDETXOCQTd) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Reason](https://open.spotify.com/album/1LPcEhAt8ZEC8bGm9EERly) | 4:50 | 2022-07-27 | 2022-07-29 |
+| [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-09 |  |
 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 | 2022-07-27 |  |
 | [RedZone](https://open.spotify.com/track/1i7ARXUlSe5vlKwWGXxWCy) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/0vG3QKzQ8RViIQFZcKYdrV) | 3:47 | 2022-07-27 | 2022-07-29 |
 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 | 2022-07-27 |  |

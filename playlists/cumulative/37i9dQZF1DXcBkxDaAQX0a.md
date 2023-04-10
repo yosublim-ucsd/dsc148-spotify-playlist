@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-263 songs - 15 hr 34 min
+264 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Buried Without a Name](https://open.spotify.com/track/3Sz5n8f7rSVFAeGSa4FwOX) | [Single Wound](https://open.spotify.com/artist/45NdlnaWFaG6bGqjFNvRde) | [Buried Without a Name](https://open.spotify.com/album/1ODU3FiH4JBuhrmGqAun04) | 3:52 | 2022-04-04 | 2022-04-13 |
 | [California \(Acoustic\)](https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [California \(Acoustic\)](https://open.spotify.com/album/4yx7hj2FSxSit2mBktlrZL) | 4:18 | 2021-02-08 | 2022-07-27 |
 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 | 2021-02-08 |  |
-| [Cement](https://open.spotify.com/track/2NLUz9yivz34Omzme8bQUY) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:05 | 2022-04-04 |  |
+| [Cement](https://open.spotify.com/track/2NLUz9yivz34Omzme8bQUY) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:05 | 2022-04-04 | 2023-04-10 |
 | [Cement](https://open.spotify.com/track/56BLfdi68cTPiWy0OZ7Hq6) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/1euaS5eK34iGgsrG6fBiwd) | 3:05 | 2021-02-08 | 2022-07-29 |
 | [Clairvoyant](https://open.spotify.com/track/0nMOZnZA4GnipZXswSmCS6) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story so Far / Stick to Your Guns Split \- EP](https://open.spotify.com/album/712n8qxqHUs6yw84Y1NY6M) | 3:01 | 2021-02-08 |  |
 | [Cold in the City \(Acoustic\)](https://open.spotify.com/track/3IZMgZIbzIb73Ly3ObfvxJ) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City \(Acoustic\)](https://open.spotify.com/album/52cYagyGndWByJ8fNyNcQh) | 3:17 | 2022-04-04 | 2022-07-27 |
@@ -203,6 +203,7 @@
 | [Send Help](https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8) | [Lonely Avenue](https://open.spotify.com/artist/4opG4daBqDC4UOGwQbweRn) | [Attack on Robot Pirate Island](https://open.spotify.com/album/24RvoXg0dzzXEjThRoV1X6) | 3:23 | 2022-04-04 | 2023-01-28 |
 | [Sequel \- Acoustic](https://open.spotify.com/track/7pMq1eqT6Kh2tENYWqZTJ9) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Simmer Down \(Acoustic\)](https://open.spotify.com/album/1Yyjm4i0o5NawNialaKuLm) | 3:19 | 2022-04-04 | 2022-04-19 |
 | [She's Quiet \(Acoustic\)](https://open.spotify.com/track/4NlqCEZY5njqLwUR18hcTV) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/6Lr7fmCihSri2QStZmumN4) | 3:20 | 2021-02-08 | 2023-04-05 |
+| [She's Quiet \- Acoustic](https://open.spotify.com/track/4PkfRaum27YPheL0Kdu6wx) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/7Grtj3qLvoDzw8glKBPIfF) | 3:20 | 2022-04-04 |  |
 | [Sixteen](https://open.spotify.com/track/72PRHbPh44Rqj4NiiQYTzL) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Sixteen](https://open.spotify.com/album/5CqlverB4FuW80hC30NQpE) | 3:49 | 2022-04-04 | 2022-04-17 |
 | [Slam/Shy Guys \- Alternate Version](https://open.spotify.com/track/2pygS1r22iasUILa7K5U3L) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:10 | 2022-04-04 | 2022-04-19 |
 | [sleepwalking](https://open.spotify.com/track/4MUvToqpjVcQVcVD5snNnp) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Mike Kinsella, Owen](https://open.spotify.com/artist/6oGJj8pbXwYN5Jk0uiTHfS) | [sleepwalking](https://open.spotify.com/album/1JYZ7VEh3i5TKTSQnA2zKa) | 3:35 | 2021-02-08 | 2022-07-25 |

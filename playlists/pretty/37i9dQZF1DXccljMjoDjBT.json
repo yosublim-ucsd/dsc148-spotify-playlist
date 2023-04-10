@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 225032,
+  "num_followers": 225148,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMDQ2Zjc2YzJlZmNhNDE3YmMwODhiYjcyYzc2YzAxOGIy",
+  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMDgyMjJkNmI4Yjg2ZTZiNTY0YzI4ODgzZmZmNzQwZDIy",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Franke & The Knockouts (Original Recording Remastered)",
-        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
+        "name": "The Very Best Of Dan Fogelberg",
+        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
       },
       "artists": [
         {
-          "name": "Franke & The Knockouts",
-          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Sweetheart",
-      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
+      "duration_ms": 245293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Very Best Of Dan Fogelberg",
-        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
+        "name": "Franke & The Knockouts (Original Recording Remastered)",
+        "url": "https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t"
       },
       "artists": [
         {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+          "name": "Franke & The Knockouts",
+          "url": "https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0"
         }
       ],
-      "duration_ms": 245293,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
+      "duration_ms": 251293,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Throwing It All Away",
-      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Lookin' Back",
         "url": "https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 270506,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Throwing It All Away",
+      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
     },
     {
       "added_at": "2023-03-30 14:38:10",

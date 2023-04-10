@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Jasmine Jethwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,095 likes - 144 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,080 likes - 144 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

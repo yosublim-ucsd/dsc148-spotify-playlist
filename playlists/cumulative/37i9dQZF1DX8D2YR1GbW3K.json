@@ -3164,10 +3164,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 379260,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/3Ki1bFwSTFmZWI7TKu5DNF"
+    },
+    {
+      "album": {
+        "name": "Spaceman",
+        "url": "https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379260,
+      "name": "Spaceman - Original Mix",
+      "url": "https://open.spotify.com/track/3UkKMTiHxRt0E8SyF9tb45"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 20722,
+  "num_followers": 20752,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTMyMiwwMDAwMDAwMDExNTJkMmU0YTNmMGY4MjQzZDk2NmE0OTY1YzEzZTFm",
+  "snapshot_id": "MTY3NjcwMTMyMiwwMDAwMDAwMDg1NDVjNWQ3ZTY1NjEwMTU0MGM3ZTczZmFhYWIxMTZm",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Brighter",
         "url": "https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 279272,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Listen More",
+      "url": "https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 213680,
       "name": "Fun",
       "url": "https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Listen More",
-      "url": "https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty"
     },
     {
       "added_at": "2023-02-18 06:22:02",

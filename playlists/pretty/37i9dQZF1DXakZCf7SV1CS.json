@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 36769,
+  "num_followers": 36881,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDczOTUxOTg0NjQ3NWFkMGU4NDM1OTE5NmRkYjI5OWNj",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGRhMTAyYTM5M2Y1ZWE0NWZiMTgxZTIyNzAyODQxYTU0",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
-      },
-      "artists": [
-        {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
-        }
-      ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+      },
+      "artists": [
+        {
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+        }
+      ],
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "BIPP",
         "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
@@ -879,6 +879,30 @@
       "duration_ms": 224142,
       "name": "BIPP",
       "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "i hate it here",
+        "url": "https://open.spotify.com/album/6wept5tC2CCShExUQLoNFb"
+      },
+      "artists": [
+        {
+          "name": "33kiro",
+          "url": "https://open.spotify.com/artist/0Bfmkd0toyREldI0dZiRTt"
+        },
+        {
+          "name": "Sukoyomi",
+          "url": "https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp"
+        },
+        {
+          "name": "p4rkr",
+          "url": "https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD"
+        }
+      ],
+      "duration_ms": 157178,
+      "name": "i hate it here",
+      "url": "https://open.spotify.com/track/6n1ZjksfQve7uEkxGOiYgA"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -907,26 +931,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "doing it wrong",
-        "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
-      },
-      "artists": [
-        {
-          "name": "oaf1",
-          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
-        },
-        {
-          "name": "Dreamcache",
-          "url": "https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa"
-        }
-      ],
-      "duration_ms": 147965,
-      "name": "doing it wrong",
-      "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "I <3 Harajuku",
         "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
@@ -947,26 +951,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "i hate it here",
-        "url": "https://open.spotify.com/album/6wept5tC2CCShExUQLoNFb"
+        "name": "doing it wrong",
+        "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
       "artists": [
         {
-          "name": "33kiro",
-          "url": "https://open.spotify.com/artist/0Bfmkd0toyREldI0dZiRTt"
+          "name": "oaf1",
+          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
         },
         {
-          "name": "Sukoyomi",
-          "url": "https://open.spotify.com/artist/6yaYqVukNPDxUsFNH0I8Rp"
-        },
-        {
-          "name": "p4rkr",
-          "url": "https://open.spotify.com/artist/26zhNRtcs21tYaShItiOhD"
+          "name": "Dreamcache",
+          "url": "https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa"
         }
       ],
-      "duration_ms": 157178,
-      "name": "i hate it here",
-      "url": "https://open.spotify.com/track/6n1ZjksfQve7uEkxGOiYgA"
+      "duration_ms": 147965,
+      "name": "doing it wrong",
+      "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 465424,
       "name": "movinglikeazombie - remix",
       "url": "https://open.spotify.com/track/7xvyaMqkhnqnpTMgv7j3A2"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-29 16:59:10",

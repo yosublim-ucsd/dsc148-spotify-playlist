@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 95343,
+  "num_followers": 95477,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTEwNSwwMDAwMDAwMDY4MjUxMDAxNjFiZDYxY2U1MjAyM2Y4OGI2MGFmYjAw",
+  "snapshot_id": "MTY4MDAxOTEwNSwwMDAwMDAwMGU1ZjU0Y2U0MDQ3NGIwYWQ3ZDY2OGViMmNjNmZlZWU4",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
-      "added_at": "2023-04-09 01:08:47",
+      "added_at": "2023-04-10 00:33:37",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Progression Through Unlearning",
-        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
-      },
-      "artists": [
-        {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "Caboose",
-      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 174772,
       "name": "Arcarsenal",
       "url": "https://open.spotify.com/track/2IHmR8p2poiSaS3cgBKmOt"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
+      },
+      "artists": [
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179493,
       "name": "Tip Your Bartender",
       "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Giving Birth to Thunder",
-        "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
-      },
-      "artists": [
-        {
-          "name": "Indian Summer",
-          "url": "https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf"
-        }
-      ],
-      "duration_ms": 445293,
-      "name": "Woolworm",
-      "url": "https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 207906,
       "name": "Dine Alone",
       "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Giving Birth to Thunder",
+        "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
+      },
+      "artists": [
+        {
+          "name": "Indian Summer",
+          "url": "https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf"
+        }
+      ],
+      "duration_ms": 445293,
+      "name": "Woolworm",
+      "url": "https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp"
     },
     {
       "added_at": "2023-03-14 22:36:58",

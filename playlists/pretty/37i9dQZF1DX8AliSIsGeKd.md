@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Hidden Empire
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,894 likes - 78 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,990 likes - 78 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 11 | [Escape](https://open.spotify.com/track/71wVJnGhRNiG42cjOSxX7r) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Escape](https://open.spotify.com/album/61kPjIqOwrcpsaVHahjPO6) | 4:19 |
 | 12 | [D:evotion](https://open.spotify.com/track/3gcmh7rWcT1ppvVqQNfezy) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [D:evotion](https://open.spotify.com/album/03MR8BaM8z6HZ75ZQM6ulS) | 6:11 |
 | 13 | [Mezcalita](https://open.spotify.com/track/4uIAv1aDKmLUyEXANBgGac) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Mezcalita](https://open.spotify.com/album/3UpIzrokMVGiJXwbghHIVu) | 4:16 |
-| 14 | [Home](https://open.spotify.com/track/23QInbXr2Cn4kEskVhqmrY) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Home](https://open.spotify.com/album/3xCGVoP1mnfrlOSIDlC6kN) | 4:54 |
+| 14 | [Home](https://open.spotify.com/track/23QInbXr2Cn4kEskVhqmrY) | [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Home](https://open.spotify.com/album/3xCGVoP1mnfrlOSIDlC6kN) | 4:54 |
 | 15 | [Escalate](https://open.spotify.com/track/1KNxt1G0Vj86TLoWYgkvkl) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [VNES](https://open.spotify.com/artist/6q18QeBgyUKmb5am0dj8ql) | [Escalate](https://open.spotify.com/album/4pqGP5oV74MCFWcAsGrN7a) | 4:06 |
 | 16 | [Arpeggio](https://open.spotify.com/track/3yyUCi2aug4daXsYQa4x1L) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Arpeggio](https://open.spotify.com/album/3yc46nwWWvYQ6Gv24lN916) | 4:00 |
 | 17 | [Falling Apart](https://open.spotify.com/track/4mw5W12hU508IjqY0ZiXCw) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj) | [Falling Apart](https://open.spotify.com/album/015AigOaIldz8oQM931jP6) | 6:53 |

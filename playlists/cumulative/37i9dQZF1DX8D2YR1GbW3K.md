@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-197 songs - 13 hr 15 min
+198 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2021-04-16 |  |
 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 | 2021-04-16 |  |
 | [Spaceman](https://open.spotify.com/track/1Ca2ELRlvACAeI7xz9c9jR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Spaceman](https://open.spotify.com/album/14SHciJYQ4DnKzprcUzE1z) | 6:19 | 2021-04-16 | 2022-07-31 |
-| [Spaceman](https://open.spotify.com/track/3Ki1bFwSTFmZWI7TKu5DNF) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Hardwell Presents Revealed Volume 3](https://open.spotify.com/album/2dAoLe5veWKjPuVd0Tl5mL) | 6:19 | 2022-06-09 |  |
+| [Spaceman](https://open.spotify.com/track/3Ki1bFwSTFmZWI7TKu5DNF) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Hardwell Presents Revealed Volume 3](https://open.spotify.com/album/2dAoLe5veWKjPuVd0Tl5mL) | 6:19 | 2022-06-09 | 2023-04-10 |
+| [Spaceman \- Original Mix](https://open.spotify.com/track/3UkKMTiHxRt0E8SyF9tb45) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 6:19 | 2022-06-09 |  |
 | [Spaceman \- Original Mix](https://open.spotify.com/track/7JdUg35iILAbKrv9FbatbH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [The Sound Of Revealed 2012 \(Mixed By Dannic & Dyro\)](https://open.spotify.com/album/04pNClMetDtRZK0IObH63P) | 6:19 | 2022-06-09 | 2022-11-14 |
 | [Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:03 | 2021-04-16 |  |
 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 | 2022-06-09 |  |

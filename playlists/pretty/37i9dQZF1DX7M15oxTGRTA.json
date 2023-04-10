@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 67391,
+  "num_followers": 67472,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMDZlNWExNDZhZDdiOWQyYWQ0YjZiYzgwMGNjMWM0YmU4",
+  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMDBlZWJlYzY1YjI5NTlhYTRjYzQ3YWRiYzQwYzQ4OTBj",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "After 7",
+        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
+      },
+      "artists": [
+        {
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
+        }
+      ],
+      "duration_ms": 275826,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "After 7",
-        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
-      },
-      "artists": [
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 101150,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "As Inesquec\u00edveis De Tim Maia",
         "url": "https://open.spotify.com/album/4W5RIZq0lxqtncklhpH2hV"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 282066,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/0jlDIEbvMEFycwPA5eWBar"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 101150,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
     },
     {
       "added_at": "2023-01-19 17:27:16",

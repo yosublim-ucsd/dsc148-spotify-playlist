@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-866 songs - 2 day 1 hr 24 min
+867 songs - 2 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-13 | 2023-03-11 |
 | [Jersey Soccer](https://open.spotify.com/track/2zdo41igQIM3zYQdUctZTZ) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Jersey Soccer](https://open.spotify.com/album/5MJk9wK4BQRHUo4DqhVbhc) | 2:56 | 2022-09-02 | 2022-10-14 |
 | [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 3:30 | 2022-04-29 | 2022-10-01 |
-| [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-01-27 |  |
+| [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-01-27 | 2023-04-10 |
+| [Joiner](https://open.spotify.com/track/3rybnmLVOm9ZOi0mte3VBj) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:59 | 2023-01-27 |  |
 | [Judy](https://open.spotify.com/track/7aiMbRTTmHBTkm2MWXXhIB) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Judy / Jeremy's Wedding](https://open.spotify.com/album/28bMFSMKFsWPLsJfgaQlB3) | 2:32 | 2021-03-05 | 2022-04-29 |
 | [Judy Gnarland](https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Judy Gnarland](https://open.spotify.com/album/6KmgHZ5aSYu1gS807MYQ3K) | 2:52 | 2022-12-09 | 2022-12-15 |
 | [Junior Day League](https://open.spotify.com/track/2X5cnr6ctbJCqoJ2rb6WWk) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Around Again / Junior Day League](https://open.spotify.com/album/5ly8lNB38yHxAoGFvS7mTc) | 3:23 | 2021-08-27 | 2022-04-29 |

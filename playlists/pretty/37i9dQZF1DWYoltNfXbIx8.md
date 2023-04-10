@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,653 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,711 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 24 | [Prostituta](https://open.spotify.com/track/2LAA3rvQXZnDvXzX8ikRov) | [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy) | [Na Humildade](https://open.spotify.com/album/0ZOdrdFYiagQVXkLVFBLPl) | 6:52 |
 | 25 | [Pirituba, Pt\. 1](https://open.spotify.com/track/1JFXO85TT9cKw0WvOEJTtw) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:21 |
 | 26 | [Eu Sô Função](https://open.spotify.com/track/1YmavNGmgWmsLe6OZX6sJC) | [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Função](https://open.spotify.com/artist/5uq8RHK62SHZYx137LF3Sq), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Exilado Sim, Preso Não](https://open.spotify.com/album/7FVrGa7PMjkbdKaXbWR9Bd) | 6:27 |
-| 27 | [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 |
+| 27 | [Us Mano e as Mina \- 1999 Remasterizado](https://open.spotify.com/track/78PqlZRBZJcDRcYuUFXRy8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(1999 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:39 |
 | 28 | [Tik Tak \- Extended Mix](https://open.spotify.com/track/2VaEsWr6qb4IZjtlyeweW0) | [Doctor MC's](https://open.spotify.com/artist/3Jj7NIBaqFSHmcsO33ilwh) | [Mallokeragem Zona Leste](https://open.spotify.com/album/5uWvrQPCn5ivSJRKwnwiZ8) | 4:59 |
 | 29 | [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 |
 | 30 | [Qui Nem Judeu](https://open.spotify.com/track/3R4E2vWipow7sK2BpXXc20) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j) | [O Clã Prossegue](https://open.spotify.com/album/7KGHKQH1hx4zo1S2Bn4Gr6) | 5:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMDVhNjE4YjQzZjA3OWU3ZDdhNmVkYmY1OWVmMzg2YjY0`
+Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMGFjZjI2ZjY0MzkwZWM3NDUwMDE2ZTFiYzc1MjFkM2Yx`

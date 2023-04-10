@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 53688,
+  "num_followers": 53726,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDYxOWU0M2U4MzZhNzBmNDg4MWY5NTVhZDY1YzZlMjdi",
+  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDVmMmNlODhmZjY1YTViMjUyMWQ5Zjk1NTU0YWFhN2Ew",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Bent Elgiran & Haga Mestikhabya",
+        "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Bent Elgiran & Haga Mestikhabya",
+      "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "A Girl Within My Soul",
         "url": "https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 391386,
       "name": "A Girl Within My Soul",
       "url": "https://open.spotify.com/track/2LT201aq632QgRQqLWFN5O"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Bent Elgiran & Haga Mestikhabya",
-        "url": "https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Bent Elgiran & Haga Mestikhabya",
-      "url": "https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Soul (Rouh)",
-        "url": "https://open.spotify.com/album/499lxS0hhJcexWf3dZX2g8"
-      },
-      "artists": [
-        {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        }
-      ],
-      "duration_ms": 418106,
-      "name": "Soul (Rouh)",
-      "url": "https://open.spotify.com/track/4azmg1dcdnaNdppq6i8MgF"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Soul (Rouh)",
+        "url": "https://open.spotify.com/album/499lxS0hhJcexWf3dZX2g8"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        }
+      ],
+      "duration_ms": 418106,
+      "name": "Soul (Rouh)",
+      "url": "https://open.spotify.com/track/4azmg1dcdnaNdppq6i8MgF"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Keda Bardou (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 163631,
-      "name": "Keda Bardou - Acoustic Version",
-      "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ishraq Reminiscence",
         "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 197080,
       "name": "Wea'youneha",
       "url": "https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Keda Bardou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 163631,
+      "name": "Keda Bardou - Acoustic Version",
+      "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Baby Baby (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
-      },
-      "artists": [
-        {
-          "name": "Mok Saib",
-          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Baby Baby - Acoustic Version",
-      "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+        "name": "Baby Baby (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
       },
       "artists": [
         {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+          "name": "Mok Saib",
+          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
         }
       ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+      "duration_ms": 160000,
+      "name": "Baby Baby - Acoustic Version",
+      "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -735,6 +719,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+      },
+      "artists": [
+        {
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+        }
+      ],
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
         "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 274363,
       "name": "Walhani",
       "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
-        "url": "https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk"
-      },
-      "artists": [
-        {
-          "name": "Mahasneh",
-          "url": "https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX"
-        }
-      ],
-      "duration_ms": 164691,
-      "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
-      "url": "https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Revelation of Ecstasy and Rebellion",
         "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 354760,
       "name": "The Taste of Love",
       "url": "https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
+        "url": "https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk"
+      },
+      "artists": [
+        {
+          "name": "Mahasneh",
+          "url": "https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX"
+        }
+      ],
+      "duration_ms": 164691,
+      "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
+      "url": "https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dayman Bekheir",
-        "url": "https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Dayman Bekheir",
-      "url": "https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Alsahraa",
         "url": "https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 370542,
       "name": "Habibi Ta'al",
       "url": "https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Dayman Bekheir",
+        "url": "https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Dayman Bekheir",
+      "url": "https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK"
     },
     {
       "added_at": "2022-05-09 08:05:11",

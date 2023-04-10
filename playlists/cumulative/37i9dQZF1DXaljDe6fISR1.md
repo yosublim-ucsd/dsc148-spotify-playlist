@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-100 songs - 7 hr 51 min
+101 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Tudo por Você Também](https://open.spotify.com/track/7a2m3Z3GV54fPWhKNv55vI) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 6:09 | 2022-04-22 |  |
 | [Ucê Lembra](https://open.spotify.com/track/04KQ5fhrzEdfGB2L3OJJSv) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI) | [Ucê Lembra](https://open.spotify.com/album/5UfHBBQWL96CR6saMUKmUz) | 5:24 | 2022-04-01 |  |
 | [Us Mano e as Mina](https://open.spotify.com/track/75LqUvMAxMeEvcJsrVahB1) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:39 | 2022-03-11 | 2022-07-29 |
-| [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 | 2022-04-22 |  |
+| [Us Mano e as Mina](https://open.spotify.com/track/4MzP4ITKbtQ9e844ZjJwIP) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:39 | 2022-04-22 | 2023-04-10 |
+| [Us Mano e as Mina \- 1999 Remasterizado](https://open.spotify.com/track/78PqlZRBZJcDRcYuUFXRy8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(1999 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:39 | 2023-03-10 |  |
 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 | 2022-03-11 |  |
 | [Xeque\-Mate](https://open.spotify.com/track/0W0rmdD87ZMbEwDWbIsFge) | [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/3msqXtn7ZSfXBV3cMIm5ey) | 3:00 | 2022-03-11 | 2022-07-29 |
 | [Xeque\-Mate](https://open.spotify.com/track/71D0QjvTIfJJ23T7P5ZwJy) | [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/7Een9DWznzqUHEZA7Zyq9W) | 3:00 | 2022-04-22 |  |

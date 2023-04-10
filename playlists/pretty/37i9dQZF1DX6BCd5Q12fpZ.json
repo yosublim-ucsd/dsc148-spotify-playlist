@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60618,
+  "num_followers": 60634,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDFiYmZjOTk2NzNhNTNhZTQwODU5ZTBjYjM5ZGM4YzM5",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDc3ZTY2YjNlOWM3NTE5ZThjZGIzNDJmMTU2MWRhNjVi",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Presenting Brotherhood of Man",
-        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
-      },
-      "artists": [
-        {
-          "name": "Brotherhood of Man",
-          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
-        }
-      ],
-      "duration_ms": 178568,
-      "name": "Save Your Kisses for Me - Alternate Take",
-      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Essential",
         "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 182000,
       "name": "Je t'adore - Eurovision Mix",
       "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Presenting Brotherhood of Man",
+        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 178568,
+      "name": "Save Your Kisses for Me - Alternate Take",
+      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
-        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
+        "name": "This Is Our Night",
+        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
       },
       "artists": [
         {
-          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
-          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
         }
       ],
-      "duration_ms": 180558,
-      "name": "Is It True?",
-      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
+      "duration_ms": 177562,
+      "name": "This Is Our Night",
+      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "This Is Our Night",
-        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
+        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
+        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
       },
       "artists": [
         {
-          "name": "Sakis Rouvas",
-          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
+          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
         }
       ],
-      "duration_ms": 177562,
-      "name": "This Is Our Night",
-      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
+      "duration_ms": 180558,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
     },
     {
       "added_at": "2022-05-16 13:21:08",

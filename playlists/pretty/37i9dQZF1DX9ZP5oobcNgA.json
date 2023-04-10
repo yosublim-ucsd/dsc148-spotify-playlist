@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 106799,
+  "num_followers": 106877,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDU2YzVlOTljOGQ0ODkwODgxNzUxZjZhZDQ4ZjBlNTk1",
+  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMGY2MzA2Yzc5NmUzYTY2OWU2NDg4NWVmNDg3NjllMTll",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -835,6 +835,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel : The Best of Handel",
+        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Oboe Concerto No. 3 in G Minor Largo",
+      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Italian Cantatas, Vol. 7",
         "url": "https://open.spotify.com/album/31JoLNy9sV0D728V4VS03y"
       },
@@ -863,34 +891,6 @@
       "duration_ms": 318720,
       "name": "Apollo e Dafne, HWV 122: Aria: Felicissima quest'alma (Most fortunate is this soul) (Dafne)",
       "url": "https://open.spotify.com/track/3KHh3k2Ty3XQ2iRzklx6H3"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel : The Best of Handel",
-        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Jozef Cejka",
-          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Richard Edlinger",
-          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Oboe Concerto No. 3 in G Minor Largo",
-      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1559,6 +1559,38 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Judas Maccabaeus",
+        "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Nicholas McGegan",
+          "url": "https://open.spotify.com/artist/6tW7J49UTzVDW9ns4E37D1"
+        },
+        {
+          "name": "Philharmonia Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/01qUOft2n8sCRfZZ4ha52o"
+        },
+        {
+          "name": "Lisa Saffer",
+          "url": "https://open.spotify.com/artist/5ird6pJUDzdYUeBQPTIpzR"
+        },
+        {
+          "name": "Patricia Spence",
+          "url": "https://open.spotify.com/artist/4lkyNv96a6BEgb5FMzZlsW"
+        }
+      ],
+      "duration_ms": 395026,
+      "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
+      "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Rinaldo",
         "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
       },
@@ -1627,38 +1659,6 @@
       "duration_ms": 630320,
       "name": "Rinaldo, HWV 7b: Act I Scene 7: Aria: Cara sposa, amante cara, dove sei? (Rinaldo)",
       "url": "https://open.spotify.com/track/5arfFVyZnQnu2hzdWUlenq"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Judas Maccabaeus",
-        "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Nicholas McGegan",
-          "url": "https://open.spotify.com/artist/6tW7J49UTzVDW9ns4E37D1"
-        },
-        {
-          "name": "Philharmonia Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/01qUOft2n8sCRfZZ4ha52o"
-        },
-        {
-          "name": "Lisa Saffer",
-          "url": "https://open.spotify.com/artist/5ird6pJUDzdYUeBQPTIpzR"
-        },
-        {
-          "name": "Patricia Spence",
-          "url": "https://open.spotify.com/artist/4lkyNv96a6BEgb5FMzZlsW"
-        }
-      ],
-      "duration_ms": 395026,
-      "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
-      "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
     },
     {
       "added_at": "2022-06-28 08:56:25",

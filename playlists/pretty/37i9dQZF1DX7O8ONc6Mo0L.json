@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 240944,
+  "num_followers": 241048,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDNkOTAwZTlhYmVhOWNhZjk3ZmEyY2MzMmFhZmQxOWMx",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDkxOGFjMjYzODdiY2NlOWQ2NDkyMzc0MTI4ZTk1NDVk",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 444976,
-      "name": "Seu Amor: YOUnique - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Existe uma Sa\u00edda (Acoustic)",
         "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 216000,
       "name": "Existe uma Sa\u00edda",
       "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 444976,
+      "name": "Seu Amor: YOUnique - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
     },
     {
       "added_at": "2023-03-24 03:00:00",

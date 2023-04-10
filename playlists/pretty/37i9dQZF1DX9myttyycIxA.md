@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: king isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,418 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,428 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 80 | [Grief](https://open.spotify.com/track/5t9LP7mKj0KQPtg3LN5kvn) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Grief](https://open.spotify.com/album/57cK7JRwiSTzqEtNMVE6O7) | 3:39 |
 | 81 | [Cowboys in the Dark](https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:32 |
 | 82 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
-| 83 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 |
+| 83 | [Joiner](https://open.spotify.com/track/3rybnmLVOm9ZOi0mte3VBj) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:59 |
 | 84 | [Bound To Be](https://open.spotify.com/track/2UEIBvImcmgwOJsw7UCesE) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Bound To Be](https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb) | 3:30 |
 | 85 | [Fall In Line](https://open.spotify.com/track/1ktLGhV1hsf3kyuE7M4dTX) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Fall In Line](https://open.spotify.com/album/12gYB19Pcr9kchEehU6eHk) | 2:39 |
 | 86 | [Love Child](https://open.spotify.com/track/5NRUB58dHpsWrpSS3aUvvp) | [High Waisted](https://open.spotify.com/artist/3mnkKjjmtXT6mpSAxUSiIo) | [Love Child](https://open.spotify.com/album/1FzXfUv6thn2iE9qm2turU) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Lain \(phone clone\)](https://open.spotify.com/track/2JGvSzxJASZkdGxOVPQ0sP) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:01 |
 | 100 | [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDQzMDUwODE3Njc2OTRlOWEzOGExY2U1MDNjZjRlOTQz`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDc5ODZkNjhiMDYzODZkOTQ5YzU0ZmNlZDVmNGMzNWVj`

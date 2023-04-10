@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,463 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,604 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 56 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
 | 57 | [Moonlight Shadow](https://open.spotify.com/track/1rGFJSczQrjMYHi62OR8vH) | [stay:us](https://open.spotify.com/artist/698f11Z5HHN4S9VHdNV4is), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Moonlight Shadow](https://open.spotify.com/album/6lzT6YsquWyRwQlooAOWGM) | 2:31 |
 | 58 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
-| 59 | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/track/4N8XoCat9D67QHn7XDOHCZ) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Hypanda](https://open.spotify.com/artist/04SWu4kCwYK5DjY6V7KoEk), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/album/3exvA9tTSdyyykWzLqCrCq) | 2:19 |
-| 60 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 59 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
+| 60 | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/track/4N8XoCat9D67QHn7XDOHCZ) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Hypanda](https://open.spotify.com/artist/04SWu4kCwYK5DjY6V7KoEk), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/album/3exvA9tTSdyyykWzLqCrCq) | 2:19 |
 
-Snapshot ID: `MTY4MDg3MTI5NSwwMDAwMDAwMGRiYTVjYTJhYTkyZjQ1ZDZmYjU0MDAwNWVlNDNjMDQz`
+Snapshot ID: `MTY4MDg3MTI5NSwwMDAwMDAwMGIyZTcyMGNiNzllYzI3NGIzZWI0MGMyNWM0YTBkMTg0`

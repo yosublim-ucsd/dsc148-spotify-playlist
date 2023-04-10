@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,825 likes - 186 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,839 likes - 186 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 171 | [This Old Man](https://open.spotify.com/track/78OXx8UZn6xyJkGdqyKY9g) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Songs Sing Along \- 50 Toddler Nursery Rhymes](https://open.spotify.com/album/7Cu0Lwree7vTmDKqGjmbLp) | 1:18 |
 | 172 | [Hickory Dickory Dock Baby Nursery Rhyme](https://open.spotify.com/track/3qBWoH4ESJomspW1PSJsFI) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:16 |
 | 173 | [Short'nin' Bread](https://open.spotify.com/track/4LMuKlesZMky3iVQq2qOAP) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:46 |
-| 174 | [Bingo Dog Song](https://open.spotify.com/track/5sNumuFeIsnM7gX35q49GU) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChuTV Nursery Rhymes & Songs for Children, Vol\. 1](https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC) | 2:41 |
+| 174 | [Bingo Dog Song Nursery Rhyme](https://open.spotify.com/track/0Tt9r7jWnURy3CrJ5fzsxY) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Toddler Songs & Nursery Rhymes for Babies, Vol\. 1 \(US Version\)](https://open.spotify.com/album/2ZKTW5UsFiU4Y9Z38SbY4a) | 2:43 |
 | 175 | [Down By the Station](https://open.spotify.com/track/7CNYzWYdjeaQC73YFaIlGB) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:50 |
 | 176 | [Old MacDonald Had a Farm](https://open.spotify.com/track/4qAjPrY1lg12AkXDjTg46W) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 3:35 |
 | 177 | [The More We Sing Together](https://open.spotify.com/track/2KpOMq1ZwVXb3TMyJK1bkF) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 1:08 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 185 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:10 |
 | 186 | [Twinkle Twinkle Little Star Baby Nursery Rhyme](https://open.spotify.com/track/6KDxkfDlboIT2UPa4MfR2r) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:42 |
 
-Snapshot ID: `MTY3NzIzNTc4MSwwMDAwMDAwMDI1MTQ5N2RiOTAxNjYzOTM2N2Q3ZGU0MTYwZmY1MmM5`
+Snapshot ID: `MTY3NzIzNTc4MSwwMDAwMDAwMDBjOWY5YjNjMGQwM2VhY2YzOTRlYzAzNjc3MmZkYmVh`

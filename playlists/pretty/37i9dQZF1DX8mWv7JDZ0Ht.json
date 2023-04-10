@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ziggy Alberts, Vitor Kley",
-  "num_followers": 419322,
+  "num_followers": 419364,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGIxMzdkMDJlNzUwODg2MWEzNzY3ZmQzNTEzNTM5OTBl",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGQyMGJiODg4NzZjZmFjNWMyYmRlZmZlOWU4ZDA2ZjUw",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -233,7 +233,7 @@
         }
       ],
       "duration_ms": 182181,
-      "name": "PONTO DE VISTA",
+      "name": "Ponto De Vista",
       "url": "https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5"
     },
     {
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "cedo pra dizer",
         "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 186809,
       "name": "cedo pra dizer",
       "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Tudo Certo",
+        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Porto",
+          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Tudo Certo",
+      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "Rara",
         "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 190769,
       "name": "T\u00e3o Sem Gra\u00e7a",
       "url": "https://open.spotify.com/track/091LhYj7dDBpGT7Yrnuqi7"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Tudo Certo",
-        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Porto",
-          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Tudo Certo",
-      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "Atalaia",
         "url": "https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 192746,
       "name": "Atalaia",
       "url": "https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Pois \u00c9",
-        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
-      },
-      "artists": [
-        {
-          "name": "Iuri K",
-          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Pois \u00c9",
-      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Enquanto O Dia N\u00e3o Acabou",
         "url": "https://open.spotify.com/album/2ZOvUn9vzA6TI2Gw5IbWLM"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 191208,
       "name": "MENINA",
       "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Pois \u00c9",
+        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
+      },
+      "artists": [
+        {
+          "name": "Iuri K",
+          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Pois \u00c9",
+      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Se S\u00easse",
-        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
-      },
-      "artists": [
-        {
-          "name": "Gabi Shima",
-          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
-        }
-      ],
-      "duration_ms": 171752,
-      "name": "Se S\u00easse",
-      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Olhar Sereno",
         "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 185552,
       "name": "Olhar Sereno",
       "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Se S\u00easse",
+        "url": "https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA"
+      },
+      "artists": [
+        {
+          "name": "Gabi Shima",
+          "url": "https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj"
+        }
+      ],
+      "duration_ms": 171752,
+      "name": "Se S\u00easse",
+      "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
     },
     {
       "added_at": "2023-04-07 03:00:00",

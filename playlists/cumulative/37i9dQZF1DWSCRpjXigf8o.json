@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Hydranism",
+        "url": "https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/0JFz7Zs2GwJitL4Ptr8bY5"
+    },
+    {
+      "album": {
         "name": "Hot Summer",
         "url": "https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh"
       },
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 142840,
       "name": "Hot Summer",
       "url": "https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2"
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 251571,
       "name": "The Way You Look At Me",
       "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"

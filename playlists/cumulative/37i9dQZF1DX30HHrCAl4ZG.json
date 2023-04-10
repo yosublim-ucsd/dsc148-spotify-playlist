@@ -12393,6 +12393,24 @@
     },
     {
       "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274347,
+      "name": "Salad",
+      "url": "https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07"
+    },
+    {
+      "album": {
         "name": "Salad",
         "url": "https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E"
       },
@@ -12404,7 +12422,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 274347,
       "name": "Salad",
       "url": "https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU"

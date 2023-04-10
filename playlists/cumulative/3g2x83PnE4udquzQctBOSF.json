@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 195692,
       "name": "All My Dogs",
       "url": "https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 222374,
       "name": "Amor",
       "url": "https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 188160,
       "name": "Believe In Music",
       "url": "https://open.spotify.com/track/3xZcJMwrpm65gGTfA3ngL1"
@@ -278,6 +278,24 @@
       "duration_ms": 189251,
       "name": "Booty",
       "url": "https://open.spotify.com/track/6lhAa62sQdn2eUDbZgoaeF"
+    },
+    {
+      "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215284,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
     },
     {
       "album": {
@@ -390,6 +408,24 @@
       "duration_ms": 398000,
       "name": "Damnnn",
       "url": "https://open.spotify.com/track/2CH0ixni5BrCNceFTrIw8B"
+    },
+    {
+      "album": {
+        "name": "Dance With The Groove",
+        "url": "https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "Dance With The Groove",
+      "url": "https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel"
     },
     {
       "album": {
@@ -600,10 +636,28 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 226874,
       "name": "Ferda",
       "url": "https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
     },
     {
       "album": {
@@ -843,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/2oKOf2J7XNj4fyp91GNwte"
+      },
+      "artists": [
+        {
+          "name": "Nicolau Marinho",
+          "url": "https://open.spotify.com/artist/5oDO3Xserqplvx470RQlq9"
+        },
+        {
+          "name": "Tough Art",
+          "url": "https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213959,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0KW3srRTtq1XSRRBykgjNm"
+    },
+    {
+      "album": {
         "name": "How We Get Down",
         "url": "https://open.spotify.com/album/3LXZzUYOfJZHR8UkVvNTUA"
       },
@@ -872,7 +948,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 152578,
       "name": "I Entah",
       "url": "https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm"
@@ -912,6 +988,24 @@
       "duration_ms": 214153,
       "name": "In My Brain",
       "url": "https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8"
+    },
+    {
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/7L6yDxBlc6ZBGeS4Q56ehR"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221536,
+      "name": "Innocent Type",
+      "url": "https://open.spotify.com/track/4NCHV1VkxX2eJAKM1f1oXA"
     },
     {
       "album": {
@@ -1002,7 +1096,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 163500,
       "name": "La Samba",
       "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
@@ -1076,6 +1170,24 @@
       "duration_ms": 190491,
       "name": "Less That",
       "url": "https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d"
+    },
+    {
+      "album": {
+        "name": "Like Magic",
+        "url": "https://open.spotify.com/album/6aba6lO5d3mBePXpZMz8ao"
+      },
+      "artists": [
+        {
+          "name": "Rogerson",
+          "url": "https://open.spotify.com/artist/78en4vN76hJHQn9Vf19QJu"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Like Magic",
+      "url": "https://open.spotify.com/track/6ylVMjts8KG2MSaY9opfG9"
     },
     {
       "album": {
@@ -1228,10 +1340,32 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 174374,
       "name": "My Bank",
       "url": "https://open.spotify.com/track/3SnzEIFjDfjTSN60Ebkv0q"
+    },
+    {
+      "album": {
+        "name": "NEMO",
+        "url": "https://open.spotify.com/album/4aYOQcCVX4mIua85Ub8jCi"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Brittles",
+          "url": "https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "NEMO",
+      "url": "https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc"
     },
     {
       "album": {
@@ -1485,6 +1619,46 @@
     },
     {
       "album": {
+        "name": "Saturday Love",
+        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "Saturday Love",
+      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+    },
+    {
+      "album": {
+        "name": "Shoot the Shot",
+        "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359998,
+      "name": "Shoot the Shot",
+      "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+    },
+    {
+      "album": {
         "name": "\u00a5\u20ac$",
         "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
       },
@@ -1602,7 +1776,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 170061,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf"
@@ -1656,10 +1830,28 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 151384,
       "name": "Stop The Grains",
       "url": "https://open.spotify.com/track/6AoSReioPk372vr9EDshOn"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/5IqP9C9cQdux5zJpGUOdPI"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152558,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp"
     },
     {
       "album": {
@@ -1674,7 +1866,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 181417,
       "name": "Superlicious",
       "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
@@ -1735,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "The Mumble",
+        "url": "https://open.spotify.com/album/63xMbYrGDTZ2GTwG96AZch"
+      },
+      "artists": [
+        {
+          "name": "Groove Aspect",
+          "url": "https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "The Mumble",
+      "url": "https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP"
       },
@@ -1754,7 +1964,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 180461,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc"

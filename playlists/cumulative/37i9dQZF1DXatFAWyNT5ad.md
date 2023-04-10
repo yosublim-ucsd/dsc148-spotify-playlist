@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: GAYLE
 
-595 songs - 1 day 7 hr 5 min
+596 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-17 | 2022-07-26 |
 | [Echoing](https://open.spotify.com/track/7ab894xLywHmwswdr00QSr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Echoing](https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-14 |  |
+| [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 |  |
 | [Elephant In The Room](https://open.spotify.com/track/1cmkY5LNyHpESfwiQ1SH9v) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Elephant In The Room](https://open.spotify.com/album/5W0GraoGsDmTE020ZtiNA1) | 2:39 | 2022-11-11 | 2023-03-18 |
 | [Elephant In The Room](https://open.spotify.com/track/22jyNqimPlWBKDJQ76wqQ5) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Elephant In The Room](https://open.spotify.com/album/3kwAcIMBpwgQLfZNNrSvnQ) | 2:39 | 2022-03-24 | 2022-04-21 |
 | [Elizabeth](https://open.spotify.com/track/2a84nQl1QLtqignur40m1I) | [STRUAN](https://open.spotify.com/artist/2HMnTx5HskhESJ4x5jVPyb) | [Elizabeth](https://open.spotify.com/album/65iANnmULuO8SvsH8ObeDE) | 3:32 | 2022-03-24 | 2022-04-21 |
@@ -344,7 +345,7 @@
 | [Low Key In Love \(with paris jackson\)](https://open.spotify.com/track/41kxBQJuRpuvqlfR0Rh8fJ) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Low Key In Love \(with paris jackson\)](https://open.spotify.com/album/4TE3zcWHniKuBjwVwElauc) | 3:15 | 2022-03-24 | 2022-07-13 |
 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 | 2022-03-17 | 2022-07-03 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-17 | 2022-07-29 |
-| [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-24 |  |
+| [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-24 | 2023-04-10 |
 | [Maid Marian's Toast](https://open.spotify.com/track/3ULLSWSWdHM7B9GKT3llMR) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Cooler Returns](https://open.spotify.com/album/2ofh6hffQvD5vD3SqXENYI) | 2:23 | 2022-03-24 | 2022-04-19 |
 | [Make It Easy](https://open.spotify.com/track/5k2LqjXyy7iKU6dbIHQZhb) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Make It Easy](https://open.spotify.com/album/0WV6w3PUAtAxW7iwAJNFLB) | 4:16 | 2022-03-24 | 2022-04-21 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-03-24 | 2023-03-18 |

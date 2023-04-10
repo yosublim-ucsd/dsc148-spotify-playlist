@@ -4,12 +4,13 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-186 songs - 9 hr 25 min
+187 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [& Cry!](https://open.spotify.com/track/1Kz558WodSH2k1RI3QRBfz) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/2ozN6WSOV1MMQPlpUf6Mdd) | 2:49 | 2020-12-07 | 2022-11-24 |
-| [& Cry!](https://open.spotify.com/track/1Wh1z2Ijwsz2zXje1aPUJD) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [I Wish I Was Alive](https://open.spotify.com/album/1QkNpNl37CdEwFHZAM4QAc) | 2:49 | 2020-12-07 |  |
+| [& Cry!](https://open.spotify.com/track/1Wh1z2Ijwsz2zXje1aPUJD) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [I Wish I Was Alive](https://open.spotify.com/album/1QkNpNl37CdEwFHZAM4QAc) | 2:49 | 2020-12-07 | 2023-04-10 |
+| [& Cry!](https://open.spotify.com/track/2HwEwrqS0YeeJ0EKx15Yz1) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/5b4bBHp1uLYKwqKW48ZyTf) | 2:49 | 2020-12-07 |  |
 | [& Cry!](https://open.spotify.com/track/4RNJZa8dEqWdVLgNId51Go) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/4NB2SXLk3AaulbslxuisKS) | 2:49 | 2020-12-07 | 2023-03-26 |
 | [\(BLACK\)PLANET](https://open.spotify.com/track/7oCnWqmhuAIDnjWnBIuucm) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [\(BLACK\)PLANET](https://open.spotify.com/album/1LNUG7AMp0nJtHxYY1ObAW) | 1:53 | 2020-12-07 |  |
 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 | 2020-12-07 |  |

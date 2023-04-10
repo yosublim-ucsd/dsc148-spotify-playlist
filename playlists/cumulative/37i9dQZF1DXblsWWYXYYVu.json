@@ -414,7 +414,7 @@
     {
       "album": {
         "name": "Far Side of the World",
-        "url": "https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh"
+        "url": "https://open.spotify.com/album/0ocHlazsDX3Kk3VNVOWsys"
       },
       "artists": [
         {
@@ -429,6 +429,28 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Far Side of the World",
+      "url": "https://open.spotify.com/track/3MGpNC75JZVz3V2NAcIgg2"
+    },
+    {
+      "album": {
+        "name": "Far Side of the World",
+        "url": "https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh"
+      },
+      "artists": [
+        {
+          "name": "Holden Miller",
+          "url": "https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG"
+        },
+        {
+          "name": "Jake Fine",
+          "url": "https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
       "duration_ms": 176727,
       "name": "Far Side of the World",
       "url": "https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD"

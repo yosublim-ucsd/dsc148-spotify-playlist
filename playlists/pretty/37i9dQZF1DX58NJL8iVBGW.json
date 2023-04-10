@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 548990,
+  "num_followers": 549183,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMDRkZjgxOTMxZDM0M2U1MTFmOGIzMzgwODg5NjdlZDQ0",
+  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMGFlZGQyM2MwMGJhYWU5NWMzNWRlZjM2YThkMGM0ZGMx",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
-      "added_at": "2023-04-09 01:23:50",
+      "added_at": "2023-04-10 01:22:35",
       "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Jace Everett",
         "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 164440,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+        "name": "222",
+        "url": "https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
         }
       ],
-      "duration_ms": 218188,
-      "name": "Devil's Spoke",
-      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+      "duration_ms": 111186,
+      "name": "Dreamcatchers",
+      "url": "https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P"
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
       "artists": [
         {
-          "name": "Odetta Hartman",
-          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 111186,
-      "name": "Dreamcatchers",
-      "url": "https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx"
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "27 Ways",
         "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Put Your Needle Down",
-        "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 282133,
-      "name": "Iuka",
-      "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1327,6 +1311,22 @@
       "duration_ms": 88293,
       "name": "Long Time Travelin'",
       "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Put Your Needle Down",
+        "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Iuka",
+      "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Ribbon",
-        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 216538,
-      "name": "Ribbon",
-      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Blood Money (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 292112,
-      "name": "All The World Is Green - Live",
-      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
-    },
-    {
       "added_at": "2022-06-06 19:18:28",
       "album": {
         "name": "The Longest Day",
@@ -1567,6 +1551,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Blood Money (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 292112,
+      "name": "All The World Is Green - Live",
+      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
     },
     {
       "added_at": "2022-06-06 19:18:28",

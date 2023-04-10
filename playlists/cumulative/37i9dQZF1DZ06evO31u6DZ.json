@@ -70,10 +70,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 153693,
       "name": "Bonecrusher",
       "url": "https://open.spotify.com/track/4xd8rRuuzAXdZeEE1UNdTo"
+    },
+    {
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "Bonecrusher",
+      "url": "https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd"
     },
     {
       "album": {
@@ -893,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182555,
+      "name": "Stretch Your Legs to Coffin Length",
+      "url": "https://open.spotify.com/track/0fX3bWkpBC6u2LbsYcn7Z6"
+    },
+    {
+      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
       },
@@ -1066,7 +1102,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 123900,
       "name": "We Are 138",
       "url": "https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA"

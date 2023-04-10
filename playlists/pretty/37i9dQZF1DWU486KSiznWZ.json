@@ -1,45 +1,13 @@
 {
   "description": "\u0627\u0643\u062a\u0634\u0641\u0648\u0627 \u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629 \n\u0627\u0644\u063a\u0644\u0627\u0641:\u0645\u0627\u062c\u062f \u0627\u0644\u0645\u0647\u0646\u062f\u0633 ",
-  "num_followers": 192122,
+  "num_followers": 192187,
   "original_name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxMjEyNiwwMDAwMDAwMGUyMzljODA1M2E3NzBmYWY4OWFhMTRlZmE5ZmM1NTJj",
+  "snapshot_id": "MTY4MTA4Nzc5MSwwMDAwMDAwMDM0M2NiZjZkNzc2YjZiMTk4NmFmZDhiMTUxNTZlOTk5",
   "tracks": [
-    {
-      "added_at": "2023-04-04 12:42:06",
-      "album": {
-        "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
-        "url": "https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq"
-      },
-      "artists": [
-        {
-          "name": "Majid Almohandis",
-          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
-        }
-      ],
-      "duration_ms": 276010,
-      "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
-      "url": "https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s"
-    },
-    {
-      "added_at": "2023-04-04 12:42:06",
-      "album": {
-        "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
-        "url": "https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh"
-      },
-      "artists": [
-        {
-          "name": "Oumaima Taleb",
-          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
-        }
-      ],
-      "duration_ms": 285291,
-      "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
-      "url": "https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1"
-    },
     {
       "added_at": "2023-04-04 12:42:06",
       "album": {
@@ -87,6 +55,38 @@
       "duration_ms": 339591,
       "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
       "url": "https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH"
+    },
+    {
+      "added_at": "2023-04-04 12:42:06",
+      "album": {
+        "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
+        "url": "https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "duration_ms": 276010,
+      "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
+      "url": "https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s"
+    },
+    {
+      "added_at": "2023-04-04 12:42:06",
+      "album": {
+        "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
+        "url": "https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "duration_ms": 285291,
+      "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
+      "url": "https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1"
     },
     {
       "added_at": "2023-04-04 12:42:06",

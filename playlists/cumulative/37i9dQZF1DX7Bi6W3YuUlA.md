@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-359 songs - 18 hr 1 min
+360 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [9th Grade](https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:51 | 2021-12-11 | 2022-11-19 |
 | [A Painting Of Peace \(feat\. Mariah Anae\)](https://open.spotify.com/track/1CnBGNdzEq6lgyfLOoKyd3) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Mariah Anae](https://open.spotify.com/artist/25hDGQnara5RgwMDnUPJA1) | [A Painting Of Peace \(feat\. Mariah Anae\)](https://open.spotify.com/album/646wnZPifL8XNKL13YV3vy) | 4:01 | 2021-12-11 | 2022-11-19 |
 | [Abide](https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Abide](https://open.spotify.com/album/7GQqvnCTxwbBLAvImtplIX) | 4:27 | 2022-03-25 | 2022-07-29 |
-| [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG) | 2:47 | 2021-12-11 |  |
+| [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG) | 2:47 | 2021-12-11 | 2023-04-10 |
 | [Accelerate](https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Accelerate](https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l) | 2:07 | 2022-03-19 | 2022-11-19 |
 | [After The Funeral](https://open.spotify.com/track/1u0zWJ26f6fL7QH96Ei8B1) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [After The Funeral](https://open.spotify.com/album/2aI5qyjygnMEV5TQ0HgQ2j) | 3:42 | 2021-12-11 | 2022-07-25 |
 | [Against All Odds](https://open.spotify.com/track/4B8hf4Ormi2uOLIq6oykvR) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm) | [Streets Don't Love You 3](https://open.spotify.com/album/6l9ucGVweupaJKog9shQXP) | 2:42 | 2021-12-11 | 2022-07-29 |
@@ -33,6 +33,7 @@
 | [Attributes of Mercy](https://open.spotify.com/track/4sZHFjBABsitGtUnjFdzxd) | [Japhia Life](https://open.spotify.com/artist/0pGmLUvpjAFvYVb6V24z8Z) | [Attributes of Mercy](https://open.spotify.com/album/0K5LKC8zfe44DuZkrJxc1o) | 4:17 | 2021-12-11 | 2022-07-28 |
 | [Autopilot](https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [All Is True](https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs) | 3:16 | 2021-12-11 | 2022-11-19 |
 | [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 | 2022-11-18 | 2022-12-08 |
+| [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 | 2023-02-18 |  |
 | [BADMAN](https://open.spotify.com/track/4TIg48icSzqwThnahl0tR1) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [BADMAN](https://open.spotify.com/album/2eHRubiT5zlBfrr2Mz5CVQ) | 2:38 | 2022-03-19 | 2022-11-19 |
 | [Bando \(feat\. Parris Chariz\)](https://open.spotify.com/track/6aSLeYYyT70VCDYHx9ZRAu) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Bando \(feat\. Parris Chariz\)](https://open.spotify.com/album/57jK6pbNf5OKRExmFrTja6) | 2:48 | 2021-12-11 | 2022-05-26 |
 | [Battle](https://open.spotify.com/track/0FtqoHUA0GtyL8uejrXsGe) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Battle](https://open.spotify.com/album/22290Fvy9uA6afjqR0DoLQ) | 3:47 | 2022-03-25 | 2022-04-21 |

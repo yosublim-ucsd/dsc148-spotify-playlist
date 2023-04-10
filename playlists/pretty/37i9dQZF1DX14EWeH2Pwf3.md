@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,317 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,889 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 44 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 |
 | 45 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 |
 | 46 | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
-| 47 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 3:37 |
+| 47 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 3:37 |
 | 48 | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X) | 3:06 |
 | 49 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 50 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 |
 
-Snapshot ID: `MTY4MDg4MTE3NiwwMDAwMDAwMGZhMzUwODIxOWUzMjA1MWQ1NGFlY2RiNDhhYmJiNGYx`
+Snapshot ID: `MTY4MDg4MTE3NiwwMDAwMDAwMGFmZDQ0YTFjZjA3OTUzYmNmOWM0M2IxMmRmNzE0ZTcw`

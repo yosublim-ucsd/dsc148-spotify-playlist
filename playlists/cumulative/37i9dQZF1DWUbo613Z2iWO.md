@@ -2,7 +2,7 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Reggie Becton
+> R&B of the moment by the artists of the future\. Cover: JayO
 
 569 songs - 1 day 5 hr 28 min
 

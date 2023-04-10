@@ -4,7 +4,7 @@
 
 > From Annakili to Psycho \- all the Essential tracks of Isaignani!<br/>Cover : Ilaiyaraaja
 
-484 songs - 1 day 14 hr 6 min
+485 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Marugo Marugo](https://open.spotify.com/track/0vp4FqDh9Mk2NHmubHgCse) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Kovai Sarala](https://open.spotify.com/artist/4c2TlR2BorgIt1pTRH4nK3) | [Sathi Leelavathi](https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b) | 6:09 | 2021-11-01 | 2022-07-12 |
 | [Marugo Marugo](https://open.spotify.com/track/0FKygkSx3T2W0MG3RZEueV) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Vettri Vizhaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4B9wkh8i4A5AfLFIjsXhcP) | 5:47 | 2021-11-01 |  |
 | [Masthana](https://open.spotify.com/track/1hO88I2hMkuTTxL8wHXap5) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya](https://open.spotify.com/album/3HGKIXgVcddeXayKY2nJsm) | 5:54 | 2021-11-01 | 2022-07-29 |
-| [Masthana Masthana](https://open.spotify.com/track/6ASVX4UhxDCxYfmKpIDfYM) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TtpTZxgCpWIOFTUNePPys) | 5:55 | 2021-11-01 |  |
+| [Masthana Masthana](https://open.spotify.com/track/2H2XQ9hSeK9SIR7c36ODfw) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lOi6QGFgf6XWUL2QJxZON) | 5:55 | 2021-11-01 |  |
+| [Masthana Masthana](https://open.spotify.com/track/6ASVX4UhxDCxYfmKpIDfYM) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TtpTZxgCpWIOFTUNePPys) | 5:55 | 2021-11-01 | 2023-04-10 |
 | [Mayil Pola](https://open.spotify.com/track/2bZ184aj9umMiWp7Jl9sGS) | [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Bharathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EDU9G0BF2Q2E6zvjfTDIT) | 4:32 | 2021-11-01 |  |
 | [Mayil Pola](https://open.spotify.com/track/5js5B8rgwlAhSKtAJww0nh) | [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:32 | 2021-11-01 | 2022-07-29 |
 | [Mazhai Varuthu](https://open.spotify.com/track/0lOJlI4eCvdIRy3aKFMsKa) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Raja Kaiya Vacha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3swOebG7VNmVIdgH2G1IfV) | 4:47 | 2022-04-03 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182943,
+  "num_followers": 182927,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMGNkY2NjN2JmNjZhYzI3YjQ5YmM1YWQ3MjRkM2Y1NTU5",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDE4Nzc4YWUwYjU5YzM5ZjY5MmU0MWZlZTk3N2JjZTZj",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -319,18 +319,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+        "name": "Chinatown (feat. Bruce Springsteen)",
+        "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
       "artists": [
         {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 136954,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+      "duration_ms": 247968,
+      "name": "Chinatown (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -355,22 +359,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Chinatown (feat. Bruce Springsteen)",
-        "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 247968,
-      "name": "Chinatown (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
+      "duration_ms": 136954,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -831,6 +831,26 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 236486,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 236486,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Truth or Consequences",
         "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Girlhood",
-        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
-      },
-      "artists": [
-        {
-          "name": "Girlhood",
-          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "It Might Take a Woman",
-      "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -931,6 +915,22 @@
       "duration_ms": 186613,
       "name": "Secret Life (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "It Might Take a Woman",
+      "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Lonely Dancer",
         "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 187492,
       "name": "Lonely Dancer",
       "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     },
     {
       "added_at": "2021-08-12 14:57:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fGCinqxSq6.md) - [plain]
 
 > Mainstage act <a href="spotify:artist:2cFzYhiHqYS7o8ZIM9WD22">Mariana BO</a> releases an incredible high energy mix that gets us excited for festival season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,503 likes - 17 songs - 54 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,516 likes - 17 songs - 54 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

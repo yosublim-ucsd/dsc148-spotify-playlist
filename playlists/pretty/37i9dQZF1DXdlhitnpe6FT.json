@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 151392,
+  "num_followers": 151459,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDg1MzRkZTE3ZmQyZWI4YTk1YWIxODdlYzBkMjgwMzky",
+  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDVjMzJiZDAxNGQ5ODE1YTljNTFmZDE0OTQzMWQwNzI1",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -287,18 +287,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
+        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
       "artists": [
         {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+          "name": "Stephen Schlaks",
+          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
+        },
+        {
+          "name": "Michel",
+          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
         }
       ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
+      "duration_ms": 179703,
+      "name": "BLUE DOLPHIN",
+      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -319,22 +323,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
-        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
       "artists": [
         {
-          "name": "Stephen Schlaks",
-          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
-        },
-        {
-          "name": "Michel",
-          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
         }
       ],
-      "duration_ms": 179703,
-      "name": "BLUE DOLPHIN",
-      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
+        "name": "Instrumentales",
+        "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
       },
       "artists": [
         {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
+      "duration_ms": 183133,
+      "name": "Emmanuelle",
+      "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumentales",
-        "url": "https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
       "artists": [
         {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Emmanuelle",
-      "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
+      "duration_ms": 303333,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "The Gold Series - Latin Romance",
+        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
+      },
+      "artists": [
+        {
+          "name": "Francis Goya",
+          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
+        }
+      ],
+      "duration_ms": 234962,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Gold Series - Latin Romance",
-        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
-      },
-      "artists": [
-        {
-          "name": "Francis Goya",
-          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
-        }
-      ],
-      "duration_ms": 234962,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
-        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
-      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Svezia, Inferno E Paradiso",
+        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 116559,
+      "name": "Mah N\u00e0 Mah N\u00e0",
+      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhythms Of The World",
-        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
-      },
-      "artists": [
-        {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
-        }
-      ],
-      "duration_ms": 257633,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Sue\u00f1o azul",
         "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Manolo Sanlucar",
-        "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
+        "name": "Rhythms Of The World",
+        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
       },
       "artists": [
         {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+      "duration_ms": 257633,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Manolo Sanlucar",
+        "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
+      },
+      "artists": [
+        {
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Nadia's Theme (Theme from the Young and Restless)",
         "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Danke Schoen - Helmut Zacharias",
-        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
+        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
+        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
       },
       "artists": [
         {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+          "name": "Pablo Beltran Ruiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
         }
       ],
-      "duration_ms": 145800,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
+      "duration_ms": 135613,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
-        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+        "name": "Danke Schoen - Helmut Zacharias",
+        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
       },
       "artists": [
         {
-          "name": "Pablo Beltran Ruiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
         }
       ],
-      "duration_ms": 135613,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
+      "duration_ms": 145800,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La dama rossa uccide sette volte (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/68M4f2IyrzuzYg1jAMoLVg"
-      },
-      "artists": [
-        {
-          "name": "Bruno Nicolai",
-          "url": "https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl"
-        }
-      ],
-      "duration_ms": 122280,
-      "name": "Servizio fotografico",
-      "url": "https://open.spotify.com/track/1UbsI84khPCr2SlJQBkwOX"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Regar La Polilla",
         "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 200411,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La dama rossa uccide sette volte (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/68M4f2IyrzuzYg1jAMoLVg"
+      },
+      "artists": [
+        {
+          "name": "Bruno Nicolai",
+          "url": "https://open.spotify.com/artist/1zPQrFtF93xibAcM35FYvl"
+        }
+      ],
+      "duration_ms": 122280,
+      "name": "Servizio fotografico",
+      "url": "https://open.spotify.com/track/1UbsI84khPCr2SlJQBkwOX"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Celebration: A Musical Journey",
         "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Norwegian Rain",
-        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "The Approaching Storm",
-      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Roger Williams Greatest Hits",
         "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 181866,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Norwegian Rain",
+        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
+      },
+      "artists": [
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "The Approaching Storm",
+      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Happy Time Cha Chas",
+        "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Juarez",
+          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Latin-Esque",
         "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 157022,
       "name": "Star Dust",
       "url": "https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Happy Time Cha Chas",
-        "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Juarez",
-          "url": "https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
     },
     {
       "added_at": "2020-12-08 19:02:01",

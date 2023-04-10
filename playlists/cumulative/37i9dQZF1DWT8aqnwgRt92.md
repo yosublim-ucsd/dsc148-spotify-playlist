@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-593 songs - 1 day 13 hr 42 min
+594 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [切り傷](https://open.spotify.com/track/2KJ4Qr0M7KUsy5frJTTjVa) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇」エンディングテーマ「切り傷」](https://open.spotify.com/album/6JVfpI9ASJJIchwyPuZY9R) | 3:37 | 2023-02-21 | 2023-02-23 |
 | [刹那の誓い](https://open.spotify.com/track/4krsvetU6Z0yL0RfFeuvHA) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [刹那の誓い](https://open.spotify.com/album/75QchoEjeokxdFX2wAHenq) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [勇敢な君に](https://open.spotify.com/track/1F4Hv0bnA7Nq5ixKUOoMmE) | [長瀞さん\(CV.上坂すみれ\)](https://open.spotify.com/artist/5ZdJyfAOmOzp8GTVx3krLl) | [勇敢な君に/君のためなら](https://open.spotify.com/album/19x44ioB8AIAvlMta296Ni) | 3:51 | 2023-03-21 |  |
-| [厭わない](https://open.spotify.com/track/17f8pQdBqQd27349d4AINC) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0), [市ノ瀬加那](https://open.spotify.com/artist/3ZdaeWXncjBsPJoGkoF8w6) | [厭わない](https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac) | 3:33 | 2023-01-17 |  |
+| [厭わない](https://open.spotify.com/track/17f8pQdBqQd27349d4AINC) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0), [市ノ瀬加那](https://open.spotify.com/artist/3ZdaeWXncjBsPJoGkoF8w6) | [厭わない](https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac) | 3:33 | 2023-01-17 | 2023-04-10 |
 | [友情的行進](https://open.spotify.com/track/0VjvxavbMLReB2maDJwokt) | [ファンタスティック☆パイセン](https://open.spotify.com/artist/2VRte4lrD9hgjwg0js8r53) | [友情的行進](https://open.spotify.com/album/0yduV9d4GQsFrVg9pn7fY4) | 3:55 | 2022-09-29 | 2022-11-03 |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 | 2022-07-06 |
 | [叶える](https://open.spotify.com/track/7oHwqVKnYvnzNEXAgN4DZZ) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [叶える](https://open.spotify.com/album/0orb8MpHMhaVtaGg47vdgC) | 3:55 | 2023-01-12 | 2023-01-14 |
@@ -568,6 +568,7 @@
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
 | [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 | 2023-03-02 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |
+| [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-09 |  |
 | [脊髄ぶっこ抜き音頭\(女性Ver.\)](https://open.spotify.com/track/72eMKuoXuFdF0MrAQARVjy) | [ポプ子\(CV:石見舞菜香\)](https://open.spotify.com/artist/23asa50gen4Pqsiq6wfCHr), [ピピ美\(CV:長谷川育美\)](https://open.spotify.com/artist/0UfcIsa4gYHICPdbhgRQ2a) | [ポプテピピック ALLTIME BEST 3](https://open.spotify.com/album/1ovsSfBYS6hTimYnSZTMpN) | 1:28 | 2022-12-20 | 2022-12-22 |
 | [腕塚](https://open.spotify.com/track/0JAdB9U6meFetLWHmqG3RA) | [犬王\(CV:アヴちゃん\)](https://open.spotify.com/artist/7ywWY3GidvDeixGiFLdYZW) | [腕塚](https://open.spotify.com/album/4ogusjG9KOOJP0XS56YdoL) | 5:35 | 2022-05-28 | 2022-07-06 |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-01 | 2023-01-18 |

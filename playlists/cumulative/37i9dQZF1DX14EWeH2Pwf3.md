@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-262 songs - 12 hr 55 min
+263 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Fantasmi \(feat\. Geolier\)](https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:13 | 2023-01-19 |  |
 | [FEDELE AL QUARTIERE \(feat\. Vale Pain\)](https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:20 | 2022-09-28 |  |
 | [Ferrari \- Remix](https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Ferrari \(Remix\)](https://open.spotify.com/album/0zWMvd5j2ozFDLycUIVzbt) | 2:52 | 2022-09-08 | 2023-01-06 |
-| [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 3:37 | 2023-03-23 |  |
+| [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 3:37 | 2023-03-23 | 2023-04-10 |
+| [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 3:37 | 2023-04-07 |  |
 | [FREE SOLO \(feat\. Marracash\)](https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:33 | 2022-05-19 | 2022-08-05 |
 | [GanGa \(feat\. Baby Gang\)](https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:41 | 2023-01-26 | 2023-03-18 |
 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 | 2022-06-02 | 2022-09-02 |

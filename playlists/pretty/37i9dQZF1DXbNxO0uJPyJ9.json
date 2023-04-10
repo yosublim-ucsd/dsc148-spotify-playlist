@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 619559,
+  "num_followers": 619768,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwNDIyOCwwMDAwMDAwMGQ0OWNmZTYyZjM5ZjA3ZTg3ODliNjNlMWVjYTU0NGQy",
+  "snapshot_id": "MTY3MTgwNDIyOCwwMDAwMDAwMDI1YzhiMDI1NTQwMGQyOGZiNmQ4YjE3NDJlYmNjYTEz",
   "tracks": [
     {
       "added_at": "2022-12-23 14:03:48",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 373747,
-      "name": "1999 - 2019 Remaster",
-      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "Labour Of Love",
         "url": "https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 320933,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 373747,
+      "name": "1999 - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
     },
     {
       "added_at": "2022-12-23 14:03:48",

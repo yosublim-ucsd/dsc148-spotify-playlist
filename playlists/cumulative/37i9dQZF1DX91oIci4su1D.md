@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-598 songs - 1 day 12 hr 43 min
+599 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,12 +356,13 @@
 | [Mystery Land \- Abstract Vision Remix](https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Mystery Land \(Abstract Vision Remix\)](https://open.spotify.com/album/0HjlbIXGVYGWGNgOgVEGay) | 3:30 | 2023-02-03 | 2023-02-18 |
 | [Namaqua](https://open.spotify.com/track/1xAGRuYdaCx6lGAuDNtfxp) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Namaqua](https://open.spotify.com/album/2qJ52WvCqgrBjN26i9dzV3) | 3:58 | 2021-12-17 | 2023-02-25 |
 | [Need To Feel Loved](https://open.spotify.com/track/4SdHIbH7OmWuOYunj5BWtm) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Need To Feel Loved](https://open.spotify.com/album/0IeGNtS4eIPUePmQzvLOiV) | 4:09 | 2023-02-17 |  |
+| [Needing You](https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Needing You](https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7) | 3:36 | 2023-04-07 |  |
 | [Never Alone](https://open.spotify.com/track/3BDs1MOQNYRX0G0kmpV8Iw) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Never Alone](https://open.spotify.com/album/0YdiKCM6bohQZxmQOHbDWt) | 3:37 | 2022-01-14 | 2022-08-30 |
 | [Never Be Alone](https://open.spotify.com/track/6FAK5GkhC4kanPdOGTlWhz) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Mirjam Tumaini](https://open.spotify.com/artist/0VIpOJKQgRWdlBhePFUOpd) | [Never Be Alone](https://open.spotify.com/album/52zvyjKhpOAr2tMmPj1Qbo) | 3:06 | 2022-06-17 |  |
 | [Never Cry Again](https://open.spotify.com/track/4EEBn0pbdBm3eUk5WEyizA) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Never Cry Again](https://open.spotify.com/album/5atYDx8R2Nd8DAKRbO7TJa) | 3:50 | 2022-10-14 | 2023-01-14 |
 | [Never Fade Away \- Maarten de Jong Remix](https://open.spotify.com/track/6sscfnG0RcwxteRjd6VduT) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Lo\-Fi Sugar](https://open.spotify.com/artist/7dgk105OUyKcy7lfUn5uHy), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Never Fade Away \(Maarten de Jong Remix\)](https://open.spotify.com/album/79ZPuDNVySkxCXUgDdML8h) | 3:54 | 2022-01-14 | 2023-02-25 |
 | [Never Say Goodbye](https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA) | [Miss Rodriguez](https://open.spotify.com/artist/4yZGU0gzItG1ItNaTGKhiP) | [Never Say Goodbye](https://open.spotify.com/album/5M7fL4Kmiv0bHuDFiEGtii) | 3:16 | 2023-04-07 |  |
-| [Never Temporary](https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc) | [Greg Oakland](https://open.spotify.com/artist/74OcjgGgrViwZT8BfZS0gA), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Never Temporary](https://open.spotify.com/album/6NV6WnE3q9YxhglZoWt6f3) | 4:00 | 2023-04-07 |  |
+| [Never Temporary](https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc) | [Greg Oakland](https://open.spotify.com/artist/74OcjgGgrViwZT8BfZS0gA), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Never Temporary](https://open.spotify.com/album/6NV6WnE3q9YxhglZoWt6f3) | 4:00 | 2023-04-07 | 2023-04-10 |
 | [Never Thought I'd Find You](https://open.spotify.com/track/6J4oCRJ3IKS2WYlbU4r2ly) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Jam Da Bass](https://open.spotify.com/artist/3Gk4dBkVDyEMcCkW0GTd8I), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [Never Thought I’d Find You](https://open.spotify.com/album/1JlKTPdTwCeuwtpEXd4oCt) | 5:40 | 2023-04-07 |  |
 | [New Beginning](https://open.spotify.com/track/3mSvm233eEIHKM51fsvhie) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [New Beginning](https://open.spotify.com/album/0krjoAvDBsUqcDwniaar7X) | 3:31 | 2022-03-25 | 2023-03-07 |
 | [New Horizons](https://open.spotify.com/track/4AujrygiEHw3PSVVXAdNy4) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [New Horizons](https://open.spotify.com/album/5LyP1m1U6twd5YtodHX1nU) | 5:55 | 2023-01-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,448 likes - 76 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,473 likes - 76 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

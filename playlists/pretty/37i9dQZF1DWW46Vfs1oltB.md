@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Agust D\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,679 likes - 114 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,655 likes - 114 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

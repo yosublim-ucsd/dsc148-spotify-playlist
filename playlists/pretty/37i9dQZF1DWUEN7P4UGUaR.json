@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle ",
-  "num_followers": 21,
+  "num_followers": 27,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5NjM4MCwwMDAwMDAwMDFkNTI4MWM1NjhhNjY3YzFmYTUzNjBmOThhZGM2ZWRm",
+  "snapshot_id": "MTY4MDc5NjM4MCwwMDAwMDAwMDE2OTkyNmJmNWMzODI5MjBkZDg5MTI4ZjZjYThlM2Ni",
   "tracks": [
     {
       "added_at": "2023-04-06 15:53:00",
@@ -387,6 +387,42 @@
     {
       "added_at": "2023-04-06 15:53:00",
       "album": {
+        "name": "Me Dan Wo (feat. Kweku Teye)",
+        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Kweku Teye",
+          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
+        }
+      ],
+      "duration_ms": 372240,
+      "name": "Me Dan Wo (feat. Kweku Teye)",
+      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+    },
+    {
+      "added_at": "2023-04-06 15:53:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
+      },
+      "artists": [
+        {
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
+    },
+    {
+      "added_at": "2023-04-06 15:53:00",
+      "album": {
         "name": "Nkunim (The Victory Song)",
         "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
       },
@@ -419,6 +455,22 @@
     {
       "added_at": "2023-04-06 15:53:00",
       "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+    },
+    {
+      "added_at": "2023-04-06 15:53:00",
+      "album": {
         "name": "Deeper Touch",
         "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
@@ -447,58 +499,6 @@
       "duration_ms": 174236,
       "name": "Who Say God No Dey",
       "url": "https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU"
-    },
-    {
-      "added_at": "2023-04-06 15:53:00",
-      "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
-    },
-    {
-      "added_at": "2023-04-06 15:53:00",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
-      },
-      "artists": [
-        {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
-    },
-    {
-      "added_at": "2023-04-06 15:53:00",
-      "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
-        }
-      ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
     },
     {
       "added_at": "2023-04-06 15:53:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-06 15:53:00",
       "album": {
-        "name": "Gye Wayeyi",
-        "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 485423,
-      "name": "Gye Wayeyi",
-      "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
-    },
-    {
-      "added_at": "2023-04-06 15:53:00",
-      "album": {
         "name": "Ghana Local Praise Medley",
         "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2023-04-06 15:53:00",
+      "album": {
+        "name": "Gye Wayeyi",
+        "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 485423,
+      "name": "Gye Wayeyi",
+      "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
     },
     {
       "added_at": "2023-04-06 15:53:00",

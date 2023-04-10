@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 146214,
+  "num_followers": 146279,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMDBmZmE4OWUxYmMyOGRmMmFjYjk5OGJhM2JiNjBjNmM3",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMDZhYTI4NzM5MTY3ZTg2MWFmZmQ4MGI1ZjFkMDkwNWE4",
   "tracks": [
     {
       "added_at": "2023-03-31 03:01:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
-      "added_at": "2023-04-09 00:28:44",
+      "added_at": "2023-04-10 01:06:17",
       "album": {
         "name": "Recinto",
         "url": "https://open.spotify.com/album/2EK43yizJmRkxIxzsBPLWA"
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Chamem a Pol\u00edcia",
-        "url": "https://open.spotify.com/album/25l1kzAc76CEuXBsTm3O2a"
-      },
-      "artists": [
-        {
-          "name": "Stanley Castro",
-          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
-        },
-        {
-          "name": "MC Estudante",
-          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 185882,
-      "name": "Chamem a Pol\u00edcia",
-      "url": "https://open.spotify.com/track/0iJfSnKuZn2J69RfdWlZkv"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 197142,
       "name": "Meia Hora",
       "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
+        "name": "Chamem a Pol\u00edcia",
+        "url": "https://open.spotify.com/album/25l1kzAc76CEuXBsTm3O2a"
+      },
+      "artists": [
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        },
+        {
+          "name": "MC Estudante",
+          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 185882,
+      "name": "Chamem a Pol\u00edcia",
+      "url": "https://open.spotify.com/track/0iJfSnKuZn2J69RfdWlZkv"
     },
     {
       "added_at": "2023-03-31 03:01:00",

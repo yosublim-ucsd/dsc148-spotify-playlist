@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Billie Marten
 
-1,406 songs - 3 day 11 hr 18 min
+1,409 songs - 3 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 | 2022-09-22 | 2022-10-13 |
 | [Chasing Ghosts](https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9) | 2:59 | 2022-10-06 | 2022-10-28 |
 | [Check For Signs Of Life](https://open.spotify.com/track/2LswW8KbYNsM36agVAWeF0) | [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH) | [Check For Signs Of Life](https://open.spotify.com/album/6kAl3cYMeh0BV0CGBU1jp3) | 4:21 | 2022-10-27 | 2023-01-20 |
-| [Cherish](https://open.spotify.com/track/5wXbBwY0XVvfJPrcRC8uAS) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Cherish](https://open.spotify.com/album/78W94VFSWkblzNFZKQJiQn) | 3:23 | 2023-03-10 |  |
+| [Cherish](https://open.spotify.com/track/39GrR1d8r8gspKwZpjr1fv) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N) | 3:23 | 2023-04-06 |  |
+| [Cherish](https://open.spotify.com/track/5wXbBwY0XVvfJPrcRC8uAS) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Cherish](https://open.spotify.com/album/78W94VFSWkblzNFZKQJiQn) | 3:23 | 2023-03-10 | 2023-04-10 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2021-03-08 | 2021-03-09 |
 | [Cherry Flavoured](https://open.spotify.com/track/5ZawGS5kFVVxEZrN7FshIk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Cherry Flavoured](https://open.spotify.com/album/0ZupZSrJqTChpZ5PMoBB0u) | 3:28 | 2020-09-29\* | 2020-10-09 |
 | [Chew](https://open.spotify.com/track/0r58u0CoqZbuttdmcWB5qm) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Chew](https://open.spotify.com/album/7vSeanXi9dHntVCVQmQioq) | 2:19 | 2023-03-24 |  |
@@ -1014,7 +1015,8 @@
 | [rom com 2004](https://open.spotify.com/track/3q49241UYPoz4kfG2czJno) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [rom com 2004](https://open.spotify.com/album/3q1oMpbkdldxAeiuNc74lq) | 2:53 | 2021-07-16 | 2021-09-17 |
 | [Romance With A Memory](https://open.spotify.com/track/7mkz6Mdy6QfgBh1A01CMqx) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Romance With A Memory](https://open.spotify.com/album/29Li1FgoOYa9AROLXObjPt) | 2:57 | 2022-03-11 | 2022-04-08 |
 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Romeo \(feat\. Bas\)](https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir) | 2:46 | 2021-07-09 | 2021-07-23 |
-| [Rooftops](https://open.spotify.com/track/3Z7mt5WbpqXI3JGGP2CKf8) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Rooftops](https://open.spotify.com/album/5AKDe3Tu5FxcowK91B1vqG) | 3:53 | 2023-03-10 |  |
+| [Rooftops](https://open.spotify.com/track/3CKz6hWioZYBNznQazpjiH) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Giving The World Away \(Deluxe\)](https://open.spotify.com/album/7pK3LXkcjX6PXcDy4iwGL6) | 3:53 | 2023-04-06 |  |
+| [Rooftops](https://open.spotify.com/track/3Z7mt5WbpqXI3JGGP2CKf8) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Rooftops](https://open.spotify.com/album/5AKDe3Tu5FxcowK91B1vqG) | 3:53 | 2023-03-10 | 2023-04-10 |
 | [Rotten Bun](https://open.spotify.com/track/2pakEACVxDopSL00z5I7Un) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Rotten Bun](https://open.spotify.com/album/4QSEDR0tVANSjgtGjPfQoO) | 4:43 | 2022-12-02 | 2023-01-13 |
 | [Round The Bend](https://open.spotify.com/track/0opsz8A3M6dHfNdJ29IJiL) | [Malady](https://open.spotify.com/artist/6RIJbEJAkZ21AAbqrdztvh) | [Round The Bend](https://open.spotify.com/album/5K0skWIslhdCMK2tCofAIE) | 2:19 | 2022-03-11 | 2022-10-21 |
 | [Royal Morning Blue \- Edit](https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Royal Morning Blue](https://open.spotify.com/album/7KV5IU1kITYQkySptDrk2R) | 3:03 | 2021-09-24 | 2021-12-10 |
@@ -1246,7 +1248,8 @@
 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 | 2023-03-10 |  |
 | [The Way We Live Now](https://open.spotify.com/track/0VFsA8sKanEtD0RNQn9SNx) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 2:47 | 2021-05-28 | 2021-08-13 |
 | [The World](https://open.spotify.com/track/4Te5Lm9Ej1rqZRNSS6W96F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The World](https://open.spotify.com/album/7vIyvgSzQLfSNXl5Ux5z9l) | 4:09 | 2021-01-23 | 2021-02-06 |
-| [The Worm](https://open.spotify.com/track/3GA6ddFLnjqvEcl5ViYJq2) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/3P0YnSFTXF1l6EWLM4xZSR) | 5:17 | 2023-04-06 |  |
+| [The Worm](https://open.spotify.com/track/3GA6ddFLnjqvEcl5ViYJq2) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/3P0YnSFTXF1l6EWLM4xZSR) | 5:17 | 2023-04-06 | 2023-04-10 |
+| [The Worm](https://open.spotify.com/track/6PNDVLzOFOtHAaZPt3QVxK) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/18nFPSMXOuDuFG4zMzklTJ) | 5:17 | 2023-04-06 |  |
 | [There for You](https://open.spotify.com/track/2Xk53t3TnNSqeSm2pXD6jv) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:48 | 2021-10-01 | 2022-01-08 |
 | [there for you](https://open.spotify.com/track/0TJJup71B23lvjHbrK4yz4) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [there for you](https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi) | 2:52 | 2021-09-17 | 2021-10-29 |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 | 2022-04-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s. Cover: Keane",
-  "num_followers": 81548,
+  "num_followers": 81703,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMGQxMTVlODM4ODQxYzc1NTQ5YjAxZWQ0NjgwYzRiMWM5",
+  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMGJmM2FmZWQwOTRmNGVkMTMyYjk4ZDE3MGU4ZjQ4MDVh",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Passing Ships",
-      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Move Together",
-      "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "YES! (Commentary)",
         "url": "https://open.spotify.com/album/2pkE09f0DykOk472XemaTs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 257173,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Move Together",
+      "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
     },
     {
       "added_at": "2023-01-11 18:02:14",

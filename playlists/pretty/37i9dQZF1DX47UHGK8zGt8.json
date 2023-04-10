@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 422551,
+  "num_followers": 423000,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDNjMTYxNzc4YzMwZjAyNDg1MjQzYzY0NTYzNTY2MjVi",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDkxMjk1YWZmNTFkNDQxMmY2ZjkyN2EwN2YxOGMwMDM0",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Transforma(dor)",
         "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
       },
@@ -867,22 +867,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Toda Beleza",
-      "url": "https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa"
+      "duration_ms": 216336,
+      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -907,18 +903,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
         }
       ],
-      "duration_ms": 216336,
-      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
+      "duration_ms": 186382,
+      "name": "Toda Beleza",
+      "url": "https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

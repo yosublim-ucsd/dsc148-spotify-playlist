@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 17773,
+  "num_followers": 17781,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDI0OWM4MGU5NjE2OTk4N2UyZjVhODQ2ZDVhNjk4NjIy",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDc1NTViNDlkNDY3ZTA3NjBmOGMxMTg4ZjIyNWQzMGI0",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -111,6 +111,26 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "Rough Cut",
+        "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        },
+        {
+          "name": "Alan Hager",
+          "url": "https://open.spotify.com/artist/6ssL3omFOE1DG6dDop8nuL"
+        }
+      ],
+      "duration_ms": 167306,
+      "name": "I Want My Dog To Live Longer (The Greatest Wish)",
+      "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Hail To The Kings!",
         "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
@@ -123,22 +143,6 @@
       "duration_ms": 187893,
       "name": "Ain't No Fun (When The Rabbit Got The Gun)",
       "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -191,22 +195,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Rough Cut",
-        "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        },
-        {
-          "name": "Alan Hager",
-          "url": "https://open.spotify.com/artist/6ssL3omFOE1DG6dDop8nuL"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
-      "duration_ms": 167306,
-      "name": "I Want My Dog To Live Longer (The Greatest Wish)",
-      "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
+      "duration_ms": 215800,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Your Love Is Like A Cancer",
-      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Wander This World",
         "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 210973,
       "name": "Cherry Red Wine",
       "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Your Love Is Like A Cancer",
+      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
     },
     {
       "added_at": "2020-09-21 10:42:33",

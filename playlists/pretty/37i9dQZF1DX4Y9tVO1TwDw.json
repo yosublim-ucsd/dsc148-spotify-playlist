@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Loyal Lobos",
-  "num_followers": 19403,
+  "num_followers": 19409,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMDA2OTcyYzZiODBjZGExZGE0ZWM2ZjNiMmQ4N2U3ZThh",
+  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMGY2YjBmN2E4Y2ZkYTM3NTBkNTQ5YjhhNjUwZjhhNTI3",
   "tracks": [
     {
       "added_at": "2023-03-31 07:57:05",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
     },
     {
-      "added_at": "2023-04-09 01:22:50",
+      "added_at": "2023-04-10 01:20:50",
       "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/4O6GIo4XMXM80d4Ew0CB63"
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
+        "name": "No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 182981,
+      "name": "No Fuimos Nada",
+      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
-        "name": "No Fuimos Nada",
-        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 182981,
-      "name": "No Fuimos Nada",
-      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Sexo Sin Drama",
         "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 142216,
       "name": "Sexo Sin Drama",
       "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "ANYWAY",
-        "url": "https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "ANYWAY",
-      "url": "https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Del Amor Al Odio",
         "url": "https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 196231,
       "name": "Del Amor Al Odio",
       "url": "https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "ANYWAY",
+        "url": "https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "ANYWAY",
+      "url": "https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Drink Me Like Wine",
-        "url": "https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k"
-      },
-      "artists": [
-        {
-          "name": "Andria Rose",
-          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
-        }
-      ],
-      "duration_ms": 155172,
-      "name": "Drink Me Like Wine",
-      "url": "https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "Atmosf\u00e9rica",
         "url": "https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 237737,
       "name": "Atmosf\u00e9rica",
       "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Drink Me Like Wine",
+        "url": "https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k"
+      },
+      "artists": [
+        {
+          "name": "Andria Rose",
+          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
+        }
+      ],
+      "duration_ms": 155172,
+      "name": "Drink Me Like Wine",
+      "url": "https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8"
     },
     {
       "added_at": "2023-03-31 07:57:05",

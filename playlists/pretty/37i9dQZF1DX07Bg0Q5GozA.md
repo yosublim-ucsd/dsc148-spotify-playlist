@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Cub Sport
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,547 likes - 74 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,562 likes - 74 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

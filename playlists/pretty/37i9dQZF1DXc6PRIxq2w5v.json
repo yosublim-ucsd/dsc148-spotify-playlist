@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
-  "num_followers": 111082,
+  "num_followers": 111213,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGRlNTVlNjU1MDhkMTg0MWNmNTM1ZGYwMDc5MDRkZThm",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDFkMmVmMGUzZDUwMDk3ZjA1OGMyMjYxYjQ2N2Q1NWIx",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -603,30 +603,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Tempo pra Tudo",
-        "url": "https://open.spotify.com/album/1eok8fki5vOFimJnplkCTo"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 181183,
-      "name": "Tempo pra Tudo",
-      "url": "https://open.spotify.com/track/4reOAuEYcw13yImUIFS71W"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 220279,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Tempo pra Tudo",
+        "url": "https://open.spotify.com/album/1eok8fki5vOFimJnplkCTo"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 181183,
+      "name": "Tempo pra Tudo",
+      "url": "https://open.spotify.com/track/4reOAuEYcw13yImUIFS71W"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Teste",
+        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Teste",
+      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Estou de P\u00e9 (feat. Wesley Camilo, Cl\u00e9ber Ao Cubo, Biorki, J\u00e9ssica Augusto & Andr\u00e9 Mota)",
         "url": "https://open.spotify.com/album/4adVexlX4XXVgGa7Yglio8"
       },
@@ -739,18 +755,30 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Teste",
-        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+        "name": "Sentimentos",
+        "url": "https://open.spotify.com/album/79H2xT8f997tAX8L2A3WxQ"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        },
+        {
+          "name": "Mateus Joy",
+          "url": "https://open.spotify.com/artist/46vCbwxcm3fIFELDd5qvRc"
+        },
+        {
+          "name": "prod by baby",
+          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Teste",
-      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+      "duration_ms": 182484,
+      "name": "Sentimentos",
+      "url": "https://open.spotify.com/track/3l2piYSwB4JNz4Cs976Sk9"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -783,34 +811,6 @@
       "duration_ms": 217731,
       "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
       "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Sentimentos",
-        "url": "https://open.spotify.com/album/79H2xT8f997tAX8L2A3WxQ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "P. Oliveira",
-          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
-        },
-        {
-          "name": "Mateus Joy",
-          "url": "https://open.spotify.com/artist/46vCbwxcm3fIFELDd5qvRc"
-        },
-        {
-          "name": "prod by baby",
-          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
-        }
-      ],
-      "duration_ms": 182484,
-      "name": "Sentimentos",
-      "url": "https://open.spotify.com/track/3l2piYSwB4JNz4Cs976Sk9"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Oh Senhor",
         "url": "https://open.spotify.com/album/5ktjzD0X0Qp29Ek2EtL493"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Mulher de F\u00e9",
         "url": "https://open.spotify.com/album/0IT2j6KDkwBEQdT9qkXZpi"
       },
@@ -963,22 +963,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6U3CFFtuJJtxGjCJbdc1f5"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "SALMAZO",
+          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
         }
       ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+      "duration_ms": 79459,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/3Nmj5IKVbneuuUGRGHYMzZ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1003,34 +999,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "CQC",
-        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
-      },
-      "artists": [
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
         {
           "name": "Silas Magalh\u00e3es",
           "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 181090,
-      "name": "CQC",
-      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6U3CFFtuJJtxGjCJbdc1f5"
+        "name": "CQC",
+        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
       },
       "artists": [
         {
-          "name": "SALMAZO",
-          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 79459,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/3Nmj5IKVbneuuUGRGHYMzZ"
+      "duration_ms": 181090,
+      "name": "CQC",
+      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1087,8 +1071,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
       },
       "artists": [
         {
@@ -1096,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1223,30 +1207,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Esperan\u00e7a para o Perdido",
-        "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        },
-        {
-          "name": "P.N.D.K",
-          "url": "https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw"
-        },
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        }
-      ],
-      "duration_ms": 230831,
-      "name": "Esperan\u00e7a para o Perdido",
-      "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Senhor",
         "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
       },
@@ -1291,22 +1251,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Aben\u00e7oado D+ / 0800",
-        "url": "https://open.spotify.com/album/4dnB84B6bKXyI4wjOGQNLj"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "Aben\u00e7oado D+ / 0800",
-      "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Romanos 3: 24",
         "url": "https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq"
       },
@@ -1319,6 +1263,46 @@
       "duration_ms": 126216,
       "name": "Romanos 3: 24",
       "url": "https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Esperan\u00e7a para o Perdido",
+        "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        },
+        {
+          "name": "P.N.D.K",
+          "url": "https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw"
+        },
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Esperan\u00e7a para o Perdido",
+      "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1347,26 +1331,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Eu Era Servo",
-        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "Eu Era Servo",
-      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Sou Aben\u00e7oado",
         "url": "https://open.spotify.com/album/5OfpdJ366fJ7oUmL7XOPec"
       },
@@ -1387,6 +1351,22 @@
       "duration_ms": 230156,
       "name": "Sou Aben\u00e7oado",
       "url": "https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Aben\u00e7oado D+ / 0800",
+        "url": "https://open.spotify.com/album/4dnB84B6bKXyI4wjOGQNLj"
+      },
+      "artists": [
+        {
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "Aben\u00e7oado D+ / 0800",
+      "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1415,30 +1395,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Famoso: Gn 12",
-        "url": "https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 149972,
-      "name": "Famoso: Gn 12",
-      "url": "https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Repara",
         "url": "https://open.spotify.com/album/1qMQzRPRt3q457Vqv5W438"
       },
@@ -1459,6 +1415,50 @@
       "duration_ms": 226339,
       "name": "Repara",
       "url": "https://open.spotify.com/track/76EUcaCEhCkjeMI02Ahyki"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Eu Era Servo",
+        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "Eu Era Servo",
+      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Famoso: Gn 12",
+        "url": "https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz"
+      },
+      "artists": [
+        {
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 149972,
+      "name": "Famoso: Gn 12",
+      "url": "https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV"
     },
     {
       "added_at": "2023-03-24 03:00:00",

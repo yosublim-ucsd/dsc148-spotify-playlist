@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12274,
+  "num_followers": 12275,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDNjYTlkMjI3MWY1Nzk5YjQzZDdjOGMxMzdjNDE5OWFk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDg0NDRjNDVlMGY5MDI0MjIxNWQxMTFiZGMyOTk1NmM4",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "Harmonize",
+      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Leylines",
-        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Harmonize",
-      "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Warm Under the Light",
-      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "These Are My Roots",
         "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Warm Under the Light",
+      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "You're It!",
         "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
       },
@@ -631,42 +631,6 @@
       "duration_ms": 216706,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "My Name Is Bear",
-        "url": "https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor"
-      },
-      "artists": [
-        {
-          "name": "Nahko",
-          "url": "https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S"
-        }
-      ],
-      "duration_ms": 285480,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Put Down What You Are Carrying (with Brett Dennen)",
-        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 268006,
-      "name": "Put Down What You Are Carrying (with Brett Dennen)",
-      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -695,6 +659,42 @@
       "duration_ms": 197166,
       "name": "Change The World",
       "url": "https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Put Down What You Are Carrying (with Brett Dennen)",
+        "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 268006,
+      "name": "Put Down What You Are Carrying (with Brett Dennen)",
+      "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "My Name Is Bear",
+        "url": "https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor"
+      },
+      "artists": [
+        {
+          "name": "Nahko",
+          "url": "https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S"
+        }
+      ],
+      "duration_ms": 285480,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf"
     },
     {
       "added_at": "2023-01-03 17:09:40",

@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 118100,
+  "num_followers": 118195,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMGZlNjM0MjVmNDk4YWNiZjBlNjk2MTQ4Y2NhMmM5OTA1",
+  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMGIwZjZmYTllNDc3YTdkYzE5YjQxY2RkN2ZlOWMyMThl",
   "tracks": [
     {
       "added_at": "2023-04-06 14:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "The Last Goodbye (Hayden James Remix)",
         "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 224908,
       "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
       "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
     },
     {
       "added_at": "2023-04-06 14:00:00",

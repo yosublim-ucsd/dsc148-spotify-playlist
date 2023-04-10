@@ -4159,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Good Time/Hard Time",
+        "url": "https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N"
+      },
+      "artists": [
+        {
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/39GrR1d8r8gspKwZpjr1fv"
+    },
+    {
+      "album": {
         "name": "Cherish",
         "url": "https://open.spotify.com/album/78W94VFSWkblzNFZKQJiQn"
       },
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 203586,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/5wXbBwY0XVvfJPrcRC8uAS"
@@ -18953,6 +18971,28 @@
     },
     {
       "album": {
+        "name": "Giving The World Away (Deluxe)",
+        "url": "https://open.spotify.com/album/7pK3LXkcjX6PXcDy4iwGL6"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        },
+        {
+          "name": "Liam Benzvi",
+          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233237,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/3CKz6hWioZYBNznQazpjiH"
+    },
+    {
+      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/5AKDe3Tu5FxcowK91B1vqG"
       },
@@ -18968,7 +19008,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 233237,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/3Z7mt5WbpqXI3JGGP2CKf8"
@@ -23372,10 +23412,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 317765,
       "name": "The Worm",
       "url": "https://open.spotify.com/track/3GA6ddFLnjqvEcl5ViYJq2"
+    },
+    {
+      "album": {
+        "name": "The Worm",
+        "url": "https://open.spotify.com/album/18nFPSMXOuDuFG4zMzklTJ"
+      },
+      "artists": [
+        {
+          "name": "HMLTD",
+          "url": "https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317765,
+      "name": "The Worm",
+      "url": "https://open.spotify.com/track/6PNDVLzOFOtHAaZPt3QVxK"
     },
     {
       "album": {

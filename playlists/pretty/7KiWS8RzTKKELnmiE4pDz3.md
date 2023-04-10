@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 2 likes - 425 songs - 19 hr 2 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 2 likes - 426 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -433,5 +433,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 423 | [2020 Vision](https://open.spotify.com/track/6UlRHQJ3WT6VrIlKxSODNz) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [2020 Vision](https://open.spotify.com/album/5bkklyYbs2N8y3S7Uh08sO) | 2:45 |
 | 424 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 |
 | 425 | [BOYFRIEND, GIRLFRIEND \(2020 Demo\) \(feat\. YG\)](https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 |
+| 426 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 
-Snapshot ID: `Njk5Niw5ZWYyYzU1NmYxYzQ1MGM5OGMyZDIwOGUwYjkxMTNjODBhYzExMjMy`
+Snapshot ID: `Njk5NywxYjc4YTUwZWMyYzA3OWEzZWI0YjFkNTVkOWUzN2M4YmFkNWM3ZjA5`

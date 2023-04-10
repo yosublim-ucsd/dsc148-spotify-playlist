@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 75643,
+  "num_followers": 75671,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMDY5ZmZkMmVkOWRlNmNjYjc2NmY2MTc0YzA2OTlhYjgy",
+  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMDMyMGI1OGUyMjdkNDAxYTZjM2NiZmE4MzlhMzBjMGI0",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Hot One",
         "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 176445,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Drunk Sleeping In Taxis",
-        "url": "https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        }
-      ],
-      "duration_ms": 213424,
-      "name": "Drunk Sleeping In Taxis",
-      "url": "https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "SPICY",
         "url": "https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 194715,
       "name": "SPICY",
       "url": "https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Drunk Sleeping In Taxis",
+        "url": "https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 213424,
+      "name": "Drunk Sleeping In Taxis",
+      "url": "https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Lover Like Me",
-        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Lover Like Me",
-      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Lover Like Me",
+        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Lover Like Me",
+      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 282110,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I'm a Moth!!",
-        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 126545,
-      "name": "I'm a Moth!!",
-      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+      "duration_ms": 282110,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 193396,
       "name": "Space",
       "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Off the Rails",
         "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
       },
@@ -1511,22 +1531,6 @@
       "duration_ms": 218400,
       "name": "Phenomenon",
       "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Want U 2 Love Me",
-        "url": "https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv"
-      },
-      "artists": [
-        {
-          "name": "SOHMI",
-          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "Want U 2 Love Me",
-      "url": "https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza"
     }
   ],
   "unique_name": "Dope AF",

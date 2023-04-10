@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going w/ Designer, LaQuan Smith for \#NYFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,072 likes - 86 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,298 likes - 86 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

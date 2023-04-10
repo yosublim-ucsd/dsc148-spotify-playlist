@@ -34,10 +34,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 169626,
       "name": "& Cry!",
       "url": "https://open.spotify.com/track/1Wh1z2Ijwsz2zXje1aPUJD"
+    },
+    {
+      "album": {
+        "name": "& Cry!",
+        "url": "https://open.spotify.com/album/5b4bBHp1uLYKwqKW48ZyTf"
+      },
+      "artists": [
+        {
+          "name": "Middle Part",
+          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169626,
+      "name": "& Cry!",
+      "url": "https://open.spotify.com/track/2HwEwrqS0YeeJ0EKx15Yz1"
     },
     {
       "album": {

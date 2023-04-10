@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 473963,
+  "num_followers": 474062,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDFlNmRiMGQ0NzVmMGI3OWIxOTQ2NTk3NzE5MDI2ZTcy",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDY5ZTE3N2NjYWE2Yjk0ZjllZWE2OGU2OTg3NDU3Yzc2",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -919,6 +919,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "What Cha Gonna Do With My Lovin'",
+        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "What Cha Gonna Do With My Lovin'",
+      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 186306,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "What Cha Gonna Do With My Lovin'",
-        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "What Cha Gonna Do With My Lovin'",
-      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
     },
     {
       "added_at": "2020-04-14 18:41:41",

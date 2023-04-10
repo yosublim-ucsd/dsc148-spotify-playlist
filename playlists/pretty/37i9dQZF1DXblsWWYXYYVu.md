@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,533 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,536 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 51 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 |
 | 52 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 |
 | 53 | [Passengers \- Acoustic](https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW) | 3:36 |
-| 54 | [Far Side of the World](https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh) | 2:56 |
+| 54 | [Far Side of the World](https://open.spotify.com/track/3MGpNC75JZVz3V2NAcIgg2) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/0ocHlazsDX3Kk3VNVOWsys) | 2:56 |
 | 55 | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/track/75sA9kqySGXC9tOae0W0tA) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [DRIFT ALONG SMALL WORLD](https://open.spotify.com/album/5IvyxcEZTKhiGraQJ6Dgrg) | 2:42 |
 | 56 | [The Years](https://open.spotify.com/track/5ppLTSYuW2XRUXRrtHO72z) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/38IhoHvSsheHtFlofWm8Kw) | 3:39 |
 | 57 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Confidence](https://open.spotify.com/track/6pS9rYGCtegVdUKDuURMMf) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Confidence](https://open.spotify.com/album/5wBp5OtdqAJ70QLSWuE7JJ) | 2:35 |
 | 100 | [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDY1ODY4OTkyNDMwNDJhYjNhMGFjMGJhMjhjMTU4Zjg0`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGM4MGNhZGRlN2E2NWM2YjNjNDVlNzZlYmY5ZjVjYjRi`

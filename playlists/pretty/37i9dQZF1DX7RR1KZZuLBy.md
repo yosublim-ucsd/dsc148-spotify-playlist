@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,045 likes - 60 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,099 likes - 60 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 35 | [Settle for Less \(Live\)](https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [The Uprising](https://open.spotify.com/artist/4DW2FpAZ3RVvVr5sXOHbW1) | [The Dawn \(Live\)](https://open.spotify.com/album/69i6OVB0BEPOaQYf7fn7tl) | 3:50 |
 | 36 | [My Shepherd](https://open.spotify.com/track/5UTYCylVomPTnNpzdsaVBA) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [For His Glory](https://open.spotify.com/album/4bIg1qW3SmBMu59i3uQvXn) | 4:11 |
 | 37 | [We Fall Down \- Live](https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 4:53 |
-| 38 | [We Pray for More \(Live\)](https://open.spotify.com/track/3qHDG3DutLqetn3UimelYA) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:03 |
+| 38 | [We Pray for More \- Live](https://open.spotify.com/track/0eCtSZMAc4O3HGBmDpl1An) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:03 |
 | 39 | [YHWH \(Yahweh\)](https://open.spotify.com/track/0sPPjgqVXD58wnhwQBHLsF) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [YHWH](https://open.spotify.com/album/0RnxHhEYGNqrL5fY2YyIIN) | 5:43 |
 | 40 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 |
 | 41 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 59 | [Glory to Jesus](https://open.spotify.com/track/6xTrc6cdCG4swyK75GfOmk) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [The Full Gospel Ministry of Worship](https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV), [Bishop William Murphy](https://open.spotify.com/artist/6SQCM4MqvXTzLEWovhqG6b) | [A Month of Sundays](https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR) | 5:11 |
 | 60 | [Yeshua](https://open.spotify.com/track/37T7RYTyUFprERyvcVgKXR) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Yeshua](https://open.spotify.com/album/55bIedlvdE17Lc5xS1kliN) | 3:19 |
 
-Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMDc4MTliMjFhMDVkMjYwNWFiYzEzNmVjMjAwYjJkMjAw`
+Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMGEwNzgyNWIzMDFkZDEyZjQ2ZDU2YzNmMjhjZDhlYWU3`

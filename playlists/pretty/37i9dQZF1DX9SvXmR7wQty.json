@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Choses Sauvages",
-  "num_followers": 36262,
+  "num_followers": 36261,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDkyMWE0YWYxOTk5M2E2MWY5ZDhmZGNiOTM4ZTE5YjVh",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDRhY2QxMzg3OGYwODMxODA1NzlhNjQ1ZDI1MWE1ODJh",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -111,18 +111,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "La Calle 5",
-        "url": "https://open.spotify.com/album/6FpjXGzEcVhvj5BxR3nhqh"
+        "name": "Nouvelle \u00e8re",
+        "url": "https://open.spotify.com/album/7g7Sfraq90lpgOko9oEbTt"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         }
       ],
-      "duration_ms": 138075,
-      "name": "La Calle 5",
-      "url": "https://open.spotify.com/track/6VwYOe36B7rbLOzyUwxnCR"
+      "duration_ms": 186466,
+      "name": "Nouvelle \u00e8re",
+      "url": "https://open.spotify.com/track/5EGBzg0DuYFZFVLnG9rzjB"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -143,22 +147,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Nouvelle \u00e8re",
-        "url": "https://open.spotify.com/album/7g7Sfraq90lpgOko9oEbTt"
+        "name": "La Calle 5",
+        "url": "https://open.spotify.com/album/6FpjXGzEcVhvj5BxR3nhqh"
       },
       "artists": [
         {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        },
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Nouvelle \u00e8re",
-      "url": "https://open.spotify.com/track/5EGBzg0DuYFZFVLnG9rzjB"
+      "duration_ms": 138075,
+      "name": "La Calle 5",
+      "url": "https://open.spotify.com/track/6VwYOe36B7rbLOzyUwxnCR"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Nous deux",
+      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Enchant\u00e9",
         "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 214173,
       "name": "Si j'avais (feat. La Fouine)",
       "url": "https://open.spotify.com/track/3uymlCR4UeQQvspZdk7tkW"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -503,18 +503,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "FEEL GOOD",
-        "url": "https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF"
+        "name": "C'est mon ann\u00e9e",
+        "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
       },
       "artists": [
         {
-          "name": "Julien Granel",
-          "url": "https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45"
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Ghetto Ph\u00e9nom\u00e8ne",
+          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
         }
       ],
-      "duration_ms": 199146,
-      "name": "FEEL GOOD",
-      "url": "https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv"
+      "duration_ms": 225882,
+      "name": "C'est mon ann\u00e9e",
+      "url": "https://open.spotify.com/track/0FdjDIwGRs7vQLUOk4XLE7"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -535,22 +539,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "C'est mon ann\u00e9e",
-        "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "Ghetto Ph\u00e9nom\u00e8ne",
-          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
+          "name": "Julien Granel",
+          "url": "https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45"
         }
       ],
-      "duration_ms": 225882,
-      "name": "C'est mon ann\u00e9e",
-      "url": "https://open.spotify.com/track/0FdjDIwGRs7vQLUOk4XLE7"
+      "duration_ms": 199146,
+      "name": "FEEL GOOD",
+      "url": "https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "J'ai besoin d'un break",
-        "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
-      },
-      "artists": [
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "J'ai besoin d'un break",
-      "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII"
       },
@@ -627,6 +611,42 @@
       "duration_ms": 173253,
       "name": "Joli c\u0153ur",
       "url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "J'ai besoin d'un break",
+        "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "J'ai besoin d'un break",
+      "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/4Q8mmF3BDRqpCz3vLITcgh"
+      },
+      "artists": [
+        {
+          "name": "Jnr Slice",
+          "url": "https://open.spotify.com/artist/1h9TsJVZdaubBn1BZHaAhk"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "RECETTE",
+      "url": "https://open.spotify.com/track/0Yh28SkiYPRoVGQs73aTfb"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -651,6 +671,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "J'aime quand on danse (tes mains sur mes hanches)",
         "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
       },
@@ -667,6 +703,26 @@
       "duration_ms": 214647,
       "name": "J'aime quand on danse (tes mains sur mes hanches)",
       "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Personne",
+        "url": "https://open.spotify.com/album/5GE6XXHfGhdthUzEBkGlLr"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "duration_ms": 167346,
+      "name": "Personne",
+      "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -719,62 +775,6 @@
       "duration_ms": 166986,
       "name": "L'amour au temps de la fin des temps",
       "url": "https://open.spotify.com/track/6jMxxm7PXllHakD5C7XVjb"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/4Q8mmF3BDRqpCz3vLITcgh"
-      },
-      "artists": [
-        {
-          "name": "Jnr Slice",
-          "url": "https://open.spotify.com/artist/1h9TsJVZdaubBn1BZHaAhk"
-        },
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "RECETTE",
-      "url": "https://open.spotify.com/track/0Yh28SkiYPRoVGQs73aTfb"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Personne",
-        "url": "https://open.spotify.com/album/5GE6XXHfGhdthUzEBkGlLr"
-      },
-      "artists": [
-        {
-          "name": "KALIKA",
-          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
-        },
-        {
-          "name": "Youv Dee",
-          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Personne",
-      "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
     },
     {
       "added_at": "2023-04-07 04:01:00",

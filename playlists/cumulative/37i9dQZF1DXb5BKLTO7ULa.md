@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Typhoon
 
-706 songs - 1 day 13 hr 14 min
+707 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [Running From](https://open.spotify.com/track/5catELDuNmRvDLm1e6CUx6) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:30 | 2023-04-06 |  |
 | [Sad On Sad](https://open.spotify.com/track/58tCKnmneWSVpCc6w4CKtf) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Sad On Sad](https://open.spotify.com/album/39s5APgYt8nAuHlpPbJkpi) | 3:29 | 2023-03-09 | 2023-03-18 |
 | [Safe Bay](https://open.spotify.com/track/652KfZBWKtqzD0k24i7Z9h) | [Suzy V](https://open.spotify.com/artist/7vgvkOOXTiKmmHc2Yw3zM8) | [Safe Bay](https://open.spotify.com/album/5Qztw5kM4kiIZijqYOXM8q) | 4:53 | 2023-03-30 | 2023-04-07 |
-| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-06 |  |
+| [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-04-06 |  |
+| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-06 | 2023-04-10 |
 | [Same Friends \(with Lil Tjay\)](https://open.spotify.com/track/3fO79znP8PGK3E9lxv2rlo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Same Friends \(with Lil Tjay\)](https://open.spotify.com/album/1NEFmcySKqVun0sMj1EOZg) | 2:44 | 2023-03-30 | 2023-04-07 |
 | [Same Old Story](https://open.spotify.com/track/6HSyRzaKsTqt5JCZjldoY6) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [Same Old Story](https://open.spotify.com/album/2WthmOoxjqVu5Z6GJrZZuI) | 2:10 | 2023-03-30 | 2023-04-07 |
 | [San Francisco](https://open.spotify.com/track/26dnaMgClvgHgL70NSxL52) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Start Something](https://open.spotify.com/album/746egjhePjhE4dieLRcXvD) | 3:54 | 2023-03-02 | 2023-03-10 |

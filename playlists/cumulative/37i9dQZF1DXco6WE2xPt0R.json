@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "N\u00fc Moon",
+        "url": "https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185983,
+      "name": "Blu Moon",
+      "url": "https://open.spotify.com/track/3FajiZIT42FPDBs2xhwhql"
+    },
+    {
+      "album": {
         "name": "Bl\u00fc Moon",
         "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 189226,
       "name": "Bl\u00fc Moon",
       "url": "https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA"

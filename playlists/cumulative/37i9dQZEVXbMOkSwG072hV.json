@@ -9437,6 +9437,32 @@
     },
     {
       "album": {
+        "name": "Glockada na Cintura",
+        "url": "https://open.spotify.com/album/3i1NT95lZbUKmywn5s935U"
+      },
+      "artists": [
+        {
+          "name": "Argentino No Beat",
+          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
+        },
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        },
+        {
+          "name": "Mc Jessica",
+          "url": "https://open.spotify.com/artist/5yHTZRlnzU3hbTyk7BSTPO"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110760,
+      "name": "Glockada na Cintura",
+      "url": "https://open.spotify.com/track/7fQo8VCwV8kMmmW5gZ5Oqc"
+    },
+    {
+      "album": {
         "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
         "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
       },
@@ -11279,6 +11305,28 @@
     },
     {
       "album": {
+        "name": "Collide With The Sky",
+        "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "King For A Day",
+      "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
+    },
+    {
+      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -11854,7 +11902,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 166875,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
@@ -14176,7 +14224,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 172062,
       "name": "More Fun To Miss",
       "url": "https://open.spotify.com/track/6KOqANFCCAKfCGJvHFz5Tw"

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 39659,
+  "num_followers": 39745,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDZkNTM3MjkxZmZmNDQ3YTQ2NmQ3Zjc2NWFmY2IxYmMz",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDQxMTMxNjA2NGIwMGI4YmEyMjIzNTVkYzk4OTg3OTI3",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Run From The Police",
-        "url": "https://open.spotify.com/album/3PpR0UOrUoMBGSvhfVgRXo"
-      },
-      "artists": [
-        {
-          "name": "Qriminal",
-          "url": "https://open.spotify.com/artist/2sTHvEmfr75UDmlFFsdRot"
-        }
-      ],
-      "duration_ms": 136708,
-      "name": "Run From The Police",
-      "url": "https://open.spotify.com/track/2lDFdVANJT0jOXUOFGfU7G"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Oasis (The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/37PYdrUtg45otbte44i8C1"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 194666,
       "name": "Oasis - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Run From The Police",
+        "url": "https://open.spotify.com/album/3PpR0UOrUoMBGSvhfVgRXo"
+      },
+      "artists": [
+        {
+          "name": "Qriminal",
+          "url": "https://open.spotify.com/artist/2sTHvEmfr75UDmlFFsdRot"
+        }
+      ],
+      "duration_ms": 136708,
+      "name": "Run From The Police",
+      "url": "https://open.spotify.com/track/2lDFdVANJT0jOXUOFGfU7G"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -207,26 +207,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Klapt Door Je Botten",
-        "url": "https://open.spotify.com/album/5wCrZXF2mUnwNMzZZ3jSux"
+        "name": "Road Rage",
+        "url": "https://open.spotify.com/album/614CqVxko6YYHIpr9bz89T"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
         },
         {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
-        },
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
         }
       ],
-      "duration_ms": 192941,
-      "name": "Klapt Door Je Botten",
-      "url": "https://open.spotify.com/track/7kF6GlYwelx6MLH3Jhmiyz"
+      "duration_ms": 237677,
+      "name": "Road Rage",
+      "url": "https://open.spotify.com/track/5hZuHOC9L0OAYz26BHWsh3"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -247,22 +243,26 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Road Rage",
-        "url": "https://open.spotify.com/album/614CqVxko6YYHIpr9bz89T"
+        "name": "Klapt Door Je Botten",
+        "url": "https://open.spotify.com/album/5wCrZXF2mUnwNMzZZ3jSux"
       },
       "artists": [
         {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         },
         {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
         }
       ],
-      "duration_ms": 237677,
-      "name": "Road Rage",
-      "url": "https://open.spotify.com/track/5hZuHOC9L0OAYz26BHWsh3"
+      "duration_ms": 192941,
+      "name": "Klapt Door Je Botten",
+      "url": "https://open.spotify.com/track/7kF6GlYwelx6MLH3Jhmiyz"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "The Next Level",
+        "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "The Next Level",
+      "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
       },
@@ -315,22 +335,6 @@
       "duration_ms": 199200,
       "name": "You Can't Stop Me",
       "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Hard Knock Life",
-        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215684,
-      "name": "Hard Knock Life",
-      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -355,22 +359,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "The Next Level",
-        "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
+        "name": "Hard Knock Life",
+        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
       },
       "artists": [
         {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
         }
       ],
-      "duration_ms": 195600,
-      "name": "The Next Level",
-      "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
+      "duration_ms": 215684,
+      "name": "Hard Knock Life",
+      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -583,22 +583,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Ring The Alarm",
-        "url": "https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT"
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
       "artists": [
         {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
         }
       ],
-      "duration_ms": 207553,
-      "name": "Ring The Alarm",
-      "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -643,6 +639,26 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Ring The Alarm",
+        "url": "https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 207553,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 152253,
       "name": "M.D.E.",
       "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7pSS3fffGxnngajOo32c9F"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 319500,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/7pSS3fffGxnngajOo32c9F"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 319500,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Rave Machine",
         "url": "https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 228631,
       "name": "Rave Machine",
       "url": "https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1859,22 +1859,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
+        "name": "You Ain't Telling Me Shit",
+        "url": "https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da"
       },
       "artists": [
         {
-          "name": "Bulletproof",
-          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
         }
       ],
-      "duration_ms": 240300,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
+      "duration_ms": 174000,
+      "name": "You Ain't Telling Me Shit",
+      "url": "https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

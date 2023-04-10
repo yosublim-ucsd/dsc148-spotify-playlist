@@ -5097,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "The Persistence of Memory",
+        "url": "https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Lobe: The Persistence of Memory",
+      "url": "https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl"
+    },
+    {
+      "album": {
         "name": "Longing For Yesterday",
         "url": "https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v"
       },
@@ -8994,24 +9012,6 @@
       "duration_ms": 132517,
       "name": "The Parchment Moon",
       "url": "https://open.spotify.com/track/7J3lkfbNJGpJQZOq4xZv4t"
-    },
-    {
-      "album": {
-        "name": "The Persistence of Memory",
-        "url": "https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "date_added": "2022-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150250,
-      "name": "The Persistence of Memory",
-      "url": "https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: LAS, Miyeon)",
-  "num_followers": 384528,
+  "num_followers": 384649,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk1MDYzNCwwMDAwMDAwMDE5NDI2ODBlNDcyMjRhY2I2N2E0ZDMxZDFhY2FjY2My",
+  "snapshot_id": "MTY4MDk1MDYzNCwwMDAwMDAwMGE1MDM0N2U4MDlmNzI3OThkMTA1MDRmZWMzMDQ3ZGU2",
   "tracks": [
     {
-      "added_at": "2023-04-09 01:11:22",
+      "added_at": "2023-04-10 00:16:07",
       "album": {
         "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
         "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 199524,
-      "name": "PLAY (feat. Changmo)",
-      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
-    },
-    {
-      "added_at": "2023-03-27 08:33:01",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2023-03-27 08:33:01",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
     },
     {
       "added_at": "2023-03-27 08:33:01",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
+        "name": "homemade 1",
+        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mayday (feat. \uc870\uc774)",
+      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
+    },
+    {
+      "added_at": "2023-03-27 08:33:01",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 186880,
       "name": "Better (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
-    },
-    {
-      "added_at": "2023-03-27 08:33:01",
-      "album": {
-        "name": "Ghosting",
-        "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Ghosting (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
     },
     {
       "added_at": "2023-03-27 08:33:01",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
+        "name": "Ghosting",
+        "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Ghosting (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
+    },
+    {
+      "added_at": "2023-03-27 08:33:01",
+      "album": {
         "name": "See you",
         "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 186666,
       "name": "See you",
       "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
-    },
-    {
-      "added_at": "2023-03-27 08:33:01",
-      "album": {
-        "name": "homemade 1",
-        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mayday (feat. \uc870\uc774)",
-      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
     },
     {
       "added_at": "2023-03-27 08:33:01",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
-        "name": "I Wanna Be - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
-      },
-      "artists": [
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        },
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        }
-      ],
-      "duration_ms": 193263,
-      "name": "I Wanna Be",
-      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
-    },
-    {
-      "added_at": "2023-03-27 08:33:01",
-      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
+    },
+    {
+      "added_at": "2023-03-27 08:33:01",
+      "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
     },
     {
       "added_at": "2023-03-27 08:33:01",
@@ -991,22 +991,22 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
-        "name": "Dear My Winter",
-        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+        "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
         },
         {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Dear My Winter",
-      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+      "duration_ms": 240840,
+      "name": "Ing..",
+      "url": "https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

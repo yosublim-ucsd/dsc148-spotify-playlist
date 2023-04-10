@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-10",
       "duration_ms": 238125,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e44\u0e14\u0e49\u0e21\u0e31\u0e49\u0e22",
       "url": "https://open.spotify.com/track/0jMwUDQ6b1FUDRkMS8aNT0"
@@ -5714,6 +5714,24 @@
       "duration_ms": 259522,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e15\u0e32\u0e21\u0e2b\u0e32\u0e09\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e40\u0e25\u0e22 (END)",
       "url": "https://open.spotify.com/track/4klavQXDW0P0wJaKbJngsN"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1a\u0e2d\u0e01\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/5J8MBhgssB35zgCiMQLf1W"
+      },
+      "artists": [
+        {
+          "name": "Minddays",
+          "url": "https://open.spotify.com/artist/1b9uEjX6btdgvcqRS2uMQ2"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201136,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1a\u0e2d\u0e01\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/5wwXDXxnAgkbTBEyWdqv3H"
     },
     {
       "album": {

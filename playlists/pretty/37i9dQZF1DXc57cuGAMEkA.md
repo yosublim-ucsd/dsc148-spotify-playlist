@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。David Guetta & Anne\-Marie & Coi Leray, Ellie Goulding, Daniel Caesar and more! Cover: David Guetta & Anne\-Marie & Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,941 likes - 81 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,992 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 76 | [Ghetto Feels](https://open.spotify.com/track/1dikKHiRfpGVvSqOL69zy3) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 2:32 |
 | 77 | [ELEVATOR](https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:55 |
 | 78 | [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 |
-| 79 | [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 |
+| 79 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 |
 | 80 | [Disaster Master](https://open.spotify.com/track/6Rc4PmDPhncehmLCif5saJ) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Disaster Master](https://open.spotify.com/album/08rcc4ZDi0i86AuhsDYNi7) | 5:35 |
 | 81 | [Squeaky Wheel](https://open.spotify.com/track/4xcKE0WDW9goa9iUC6F2DH) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [Squeaky Wheel](https://open.spotify.com/album/2QURj89jjxMI6wZOHtQM7q) | 3:19 |
 
-Snapshot ID: `MTY4MDkwMjIyNCwwMDAwMDAwMDQxYWQ4YmIzYWFhY2M4OTZiNWM5ODQ0NzkwOTExN2Q4`
+Snapshot ID: `MTY4MDkwMjIyNCwwMDAwMDAwMGU2ZTZjMzA3ZDczY2FkODBkZTM2MDg3NGM3MWYxMDQy`

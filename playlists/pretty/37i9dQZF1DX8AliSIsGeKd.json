@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music from Electronica to Techno. Cover: Hidden Empire",
-  "num_followers": 581894,
+  "num_followers": 581990,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -240,12 +240,12 @@
       },
       "artists": [
         {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
           "name": "Re-Type",
           "url": "https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
         }
       ],
       "duration_ms": 294193,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,435 likes - 111 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,469 likes - 111 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 22 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 |
 | 23 | [Until I Know](https://open.spotify.com/track/0HUgIoUcUZ2HpFqOL1FEcZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Until I Know](https://open.spotify.com/album/7p2g9K0YMavsJjbypdUod1) | 3:23 |
 | 24 | [From The Morning](https://open.spotify.com/track/6bbIz8p9iBSkPcytSKTSGt) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [From The Morning](https://open.spotify.com/album/0m3hMo1B0sgTP2FDmyyq5z) | 3:40 |
-| 25 | [The Worm](https://open.spotify.com/track/3GA6ddFLnjqvEcl5ViYJq2) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/3P0YnSFTXF1l6EWLM4xZSR) | 5:17 |
+| 25 | [The Worm](https://open.spotify.com/track/6PNDVLzOFOtHAaZPt3QVxK) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/18nFPSMXOuDuFG4zMzklTJ) | 5:17 |
 | 26 | [Close To The Clouds](https://open.spotify.com/track/1A8dRRtEaptNIbmpauJQ5E) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Close To The Clouds](https://open.spotify.com/album/1ds9pStLO5mM2C6OPKmHue) | 4:01 |
 | 27 | [02:29](https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [02:29](https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u) | 2:29 |
 | 28 | [Take](https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Take](https://open.spotify.com/album/13hfnOETzKRNERgshH3m0G) | 3:39 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 88 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 |
 | 89 | [She Knows How to Get What She Wants](https://open.spotify.com/track/4O3bw1X0mdPsJfl6d77BlE) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Prisoner of Desire](https://open.spotify.com/album/2KqbrWz5WOtccxMGpvfHku) | 3:00 |
 | 90 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
-| 91 | [Cherish](https://open.spotify.com/track/5wXbBwY0XVvfJPrcRC8uAS) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Cherish](https://open.spotify.com/album/78W94VFSWkblzNFZKQJiQn) | 3:23 |
+| 91 | [Cherish](https://open.spotify.com/track/39GrR1d8r8gspKwZpjr1fv) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N) | 3:23 |
 | 92 | [‎cherry ‎stems](https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎cherry ‎stems](https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB) | 2:22 |
 | 93 | [TEMPTRESS](https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr) | 3:07 |
-| 94 | [Rooftops](https://open.spotify.com/track/3Z7mt5WbpqXI3JGGP2CKf8) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Rooftops](https://open.spotify.com/album/5AKDe3Tu5FxcowK91B1vqG) | 3:53 |
+| 94 | [Rooftops](https://open.spotify.com/track/3CKz6hWioZYBNznQazpjiH) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Giving The World Away \(Deluxe\)](https://open.spotify.com/album/7pK3LXkcjX6PXcDy4iwGL6) | 3:53 |
 | 95 | [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 |
 | 96 | [headstrong gunner](https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [headstrong gunner](https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt) | 1:55 |
 | 97 | [blue sea blue](https://open.spotify.com/track/1Y23rRJIH9X4yHIJ6hn7gu) | [Ben Gregory](https://open.spotify.com/artist/5ySqcP3quTUGx0l48NMDGm) | [blue sea blue](https://open.spotify.com/album/5NwIU5zpMMOcmpaoZ6fR35) | 10:28 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 110 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 |
 | 111 | [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 |
 
-Snapshot ID: `MTY4MDgyMjAwMCwwMDAwMDAwMDJiN2EwYmNhY2ZjNzg5YTMyNWY1NGJhYjlkMTIyN2Qz`
+Snapshot ID: `MTY4MDgyMjAwMCwwMDAwMDAwMGFkYzFkNWQ2NDUwZmViMmQxYmUzMWQ0ZjViNzQwYjIw`

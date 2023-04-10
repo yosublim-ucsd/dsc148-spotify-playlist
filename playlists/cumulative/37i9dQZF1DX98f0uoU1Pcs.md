@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-431 songs - 23 hr 9 min
+432 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,8 @@
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-07-08 | 2022-08-27 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/6z9gUolZoaw9Lf2mG90ytt) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/7KOvsna0rd5wQD1QLXdUV2) | 3:40 | 2022-02-21 | 2022-07-29 |
 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 | 2023-03-17 |  |
-| [Wyrmlands](https://open.spotify.com/track/5CqjTEkfL71wcZgMucMR0G) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Wyrmlands](https://open.spotify.com/album/7LFtqwyEIkzaCDFkrGt5hK) | 3:51 | 2023-04-07 |  |
+| [Wyrmlands](https://open.spotify.com/track/4MpJnLE6lovDJw2BNrOmNJ) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/18nFPSMXOuDuFG4zMzklTJ) | 3:51 | 2023-04-07 |  |
+| [Wyrmlands](https://open.spotify.com/track/5CqjTEkfL71wcZgMucMR0G) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Wyrmlands](https://open.spotify.com/album/7LFtqwyEIkzaCDFkrGt5hK) | 3:51 | 2023-04-07 | 2023-04-10 |
 | [Y Grito](https://open.spotify.com/track/2QiVI7dnMfYXpL2FNIADTc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Y Grito](https://open.spotify.com/album/09ehfTlTd3DS5c0F9G0suC) | 1:35 | 2022-09-15 | 2022-11-22 |
 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 | 2023-04-07 |  |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-07 | 2022-07-29 |

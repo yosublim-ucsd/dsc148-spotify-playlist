@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-245 songs - 17 hr 46 min
+246 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Gabriel \- Tom Player Strings Version](https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Valentina](https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh), [Tom Player](https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ) | [Gabriel \(Tom Player Strings Version\)](https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc) | 3:02 | 2022-12-08 |  |
 | [Genesis](https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP) | [David A\. Molina](https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug) | [Genesis](https://open.spotify.com/album/6ZFQmOpcaqiMuEgPzbO82H) | 3:58 | 2021-12-10 | 2022-10-17 |
 | [Geneva](https://open.spotify.com/track/1LdM2sf8oIuxeo45egJupT) | [Superpoze](https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz) | [Geneva](https://open.spotify.com/album/1RcopfYKcxb1fLgjtrGLs5) | 5:02 | 2022-03-25 | 2022-04-20 |
-| [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 | 2022-03-18 |  |
+| [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 | 2022-03-18 | 2023-04-10 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Glühwürmchen](https://open.spotify.com/track/477kAeGQunBZ16ayZmTWJT) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen](https://open.spotify.com/album/4hCUhAjYSwgi5oELIDemgD) | 3:56 | 2021-12-10 | 2022-01-25 |
 | [Gnossienne N°3 \(Variation\)](https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Classical Garden](https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS) | 3:35 | 2022-05-27 | 2022-10-11 |
@@ -115,6 +115,7 @@
 | [IV](https://open.spotify.com/track/3GzrpaEfMKs562jfnjKm0g) | [Tom Hodge](https://open.spotify.com/artist/3cHyQs5f4NsAP4LI61G4TO), [Ollie Howell](https://open.spotify.com/artist/6NA5FJR3uBU3T5eVWUsww9), [Ciaran Morahan](https://open.spotify.com/artist/5dME39wvlkpKMR5i7gGkCX), [Collisions](https://open.spotify.com/artist/07x3l0totVsCpV03su5v3M) | [Collisions](https://open.spotify.com/album/57drI09fzzzjTP3AexnqQP) | 4:48 | 2022-09-09 | 2023-01-26 |
 | [Kassel \- Foam and Sand Rework](https://open.spotify.com/track/7bN6LfnfBvz9ytA6dPj5Mg) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm) | 4:37 | 2022-06-03 | 2022-07-31 |
 | [Kassel \- Robot Koch Rework](https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [The Next Billion Years \(Rework EP\)](https://open.spotify.com/album/6JN2fMV9JAXlQLlqf9hAuZ) | 4:07 | 2021-12-10 | 2022-06-17 |
+| [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 | 2023-04-07 |  |
 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2022-02-11 | 2023-03-10 |
 | [knowledge](https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [knowledge](https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ) | 4:59 | 2021-12-10 | 2022-09-29 |
 | [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 | 2021-12-10 |  |

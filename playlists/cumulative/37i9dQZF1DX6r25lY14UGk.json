@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Look up! There's a Rainbow! (from the Welcome to the Flea Circus EP)",
+        "url": "https://open.spotify.com/album/4w20hXXdmRCJEWFrPKRpYK"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Belles",
+          "url": "https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124639,
+      "name": "Look up! There's a Rainbow!",
+      "url": "https://open.spotify.com/track/3G1zdXYejVcg8dS8mR1faH"
+    },
+    {
+      "album": {
         "name": "Wild and Free",
         "url": "https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI"
       },

@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-129 songs - 7 hr 44 min
+130 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,9 @@
 | [Veja Bem Meu Bem](https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Yves Dharamraj](https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W) | [Veja Bem Meu Bem \(Single\)](https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R) | 5:22 | 2021-11-26 |  |
 | [Vento Sul](https://open.spotify.com/track/189oFyRvhHtcpGw4JLmt24) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Vento Sul](https://open.spotify.com/album/2KKwRNb1WHLbJ44cSJJwCV) | 3:24 | 2022-10-14 | 2023-03-18 |
 | [Vento Sul](https://open.spotify.com/track/4A2fXWDd2lopzpA2TgBFj9) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Vento Sul](https://open.spotify.com/album/2Q7imAUuBpqC7St4BIWEIB) | 3:24 | 2021-11-26 | 2022-10-16 |
+| [Vivo Sohando \- Stereo Version](https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:56 | 2023-03-17 |  |
 | [Vivo Sonhando](https://open.spotify.com/track/1CLCxyhhZyUb2Vp9mtP8cK) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova For Lovers](https://open.spotify.com/album/5PQxnjJaBa2FpcgS3U47wJ) | 2:53 | 2022-10-14 | 2022-11-13 |
-| [Vivo Sonhando](https://open.spotify.com/track/1Zfs685ci0kxKAym9WMuxi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:53 | 2021-11-26 |  |
+| [Vivo Sonhando](https://open.spotify.com/track/1Zfs685ci0kxKAym9WMuxi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:53 | 2021-11-26 | 2023-04-10 |
 | [Vivo Sonhando](https://open.spotify.com/track/1k5uGD16xxHlDzXTyUo5iS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Collection](https://open.spotify.com/album/31gC5j7HG79gAD6aTCUEiv) | 2:53 | 2021-11-26 | 2022-07-29 |
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2021-11-26 |  |
 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 | 2021-11-26 |  |

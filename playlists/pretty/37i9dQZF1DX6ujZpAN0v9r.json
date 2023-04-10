@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
-  "num_followers": 502984,
+  "num_followers": 503490,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MDc1OCwwMDAwMDAwMDE1ZTgxMzcxNDY1MDIyZTY2MDI1MWFiOGNiOThkMzE5",
+  "snapshot_id": "MTY3MzQ1MDc1OCwwMDAwMDAwMDViOWIxYjY3NzgwMjAzZjUwOGY2ZjExM2ZhMWM5Njhm",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Encounters",
-        "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "May",
-      "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 233583,
       "name": "Superbike",
       "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Encounters",
+        "url": "https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "May",
+      "url": "https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Quique",
-        "url": "https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 383826,
-      "name": "Polyfusion",
-      "url": "https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Chlorine Dream",
         "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
       },
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Almost Paradise",
-        "url": "https://open.spotify.com/album/0tjeEeo7BpHqdgPujxeu3y"
+        "name": "Quique",
+        "url": "https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt"
       },
       "artists": [
         {
-          "name": "Suburban Living",
-          "url": "https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 257068,
-      "name": "Lovely Times",
-      "url": "https://open.spotify.com/track/6sskntaT7RFHNjSu6Y437c"
+      "duration_ms": 383826,
+      "name": "Polyfusion",
+      "url": "https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1775,6 +1759,22 @@
       "duration_ms": 223013,
       "name": "It's Tomorrow Now",
       "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Almost Paradise",
+        "url": "https://open.spotify.com/album/0tjeEeo7BpHqdgPujxeu3y"
+      },
+      "artists": [
+        {
+          "name": "Suburban Living",
+          "url": "https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Lovely Times",
+      "url": "https://open.spotify.com/track/6sskntaT7RFHNjSu6Y437c"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Outside (briefly)",
-        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
-      },
-      "artists": [
-        {
-          "name": "Froth",
-          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
-        }
-      ],
-      "duration_ms": 291739,
-      "name": "Passing Thing",
-      "url": "https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 232333,
       "name": "Landing",
       "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Outside (briefly)",
+        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
+      },
+      "artists": [
+        {
+          "name": "Froth",
+          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
+        }
+      ],
+      "duration_ms": 291739,
+      "name": "Passing Thing",
+      "url": "https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slow Burner",
-        "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
-      },
-      "artists": [
-        {
-          "name": "Almighty Mighty",
-          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Slow Burner",
-      "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Years Too Late",
         "url": "https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 260346,
       "name": "A Fading Smile",
       "url": "https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Slow Burner",
+        "url": "https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY"
+      },
+      "artists": [
+        {
+          "name": "Almighty Mighty",
+          "url": "https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Slow Burner",
+      "url": "https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy"
     },
     {
       "added_at": "2021-06-03 02:39:04",

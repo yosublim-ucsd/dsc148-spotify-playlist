@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=ip5h-Z8eR1iYN7c6rAjd0w\" > SGaWD </a> ",
-  "num_followers": 17842,
+  "num_followers": 17870,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4OTA1MCwwMDAwMDAwMDIyM2Y0NmMwZGFiOGNlOTkxZmI3NWNmZWNhMWMxM2Rm",
+  "snapshot_id": "MTY4MDI4OTA1MCwwMDAwMDAwMGQ2YmY4OTdjYzc4MmU2MmFhY2FkMTYwYjgxN2ViNDJm",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
+      },
+      "artists": [
+        {
+          "name": "7Dime",
+          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
+        }
+      ],
+      "duration_ms": 152456,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
-      },
-      "artists": [
-        {
-          "name": "7Dime",
-          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
-        }
-      ],
-      "duration_ms": 152456,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
     },
     {
-      "added_at": "2023-04-09 00:14:53",
+      "added_at": "2023-04-10 00:58:40",
       "album": {
         "name": "Wahala",
         "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1147,38 +1147,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Moving Mad",
-        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 142894,
-      "name": "Moving Mad",
-      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Blessed Sinner",
         "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 178599,
       "name": "Blessed Sinner",
       "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Moving Mad",
+        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 142894,
+      "name": "Moving Mad",
+      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
     },
     {
       "added_at": "2023-03-30 23:00:00",

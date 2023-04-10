@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,085 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,083 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 64 | [Crunch](https://open.spotify.com/track/5YEt6KT2JuTI62ehTcgWTS) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Crunch](https://open.spotify.com/album/2jqxS9oJnNlgfXIhUeLdyi) | 3:21 |
 | 65 | [no friends](https://open.spotify.com/track/3sn9wuO5D2n2zxIlPDqnRL) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:45 |
 | 66 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
-| 67 | [& Cry!](https://open.spotify.com/track/1Wh1z2Ijwsz2zXje1aPUJD) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [I Wish I Was Alive](https://open.spotify.com/album/1QkNpNl37CdEwFHZAM4QAc) | 2:49 |
+| 67 | [& Cry!](https://open.spotify.com/track/2HwEwrqS0YeeJ0EKx15Yz1) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/5b4bBHp1uLYKwqKW48ZyTf) | 2:49 |
 | 68 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 |
 | 69 | [My Mind Is a Maze](https://open.spotify.com/track/2P4qoMmSqElFcI7GYaPLwf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Dumb Daze](https://open.spotify.com/album/1XhSLcdqiYIsjMjc0zPsUa) | 2:26 |
 | 70 | [Don't Be Afraid](https://open.spotify.com/track/4VqpY8MfmBoZ4x7cvHvHQM) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Tychonaut](https://open.spotify.com/album/5lNZWn92AKrC1U8TEI8GZ7) | 3:33 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDI5N2M5YzEyYTU5YjQyYzk0YjFjZTRmNzZlODE0NTBj`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDhmMTc0N2I2MDM2Mjg2NGU1ZGVmYWQzZTg2MWM0MDMx`

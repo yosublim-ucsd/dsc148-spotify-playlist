@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 765772,
+  "num_followers": 765845,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDhkMzc1NWYzMGU0OGVhYTY0YzM3MzMwNzMzMDNmYWVh",
+  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDY3NjQzY2Q1Y2NiYTA3M2U2YTU4OWI5MDVjOTA2NTlj",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Admir\u00e1vel Chip Novo",
+        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "Admir\u00e1vel Chip Novo",
-        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
-      },
-      "artists": [
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Frejat Ao Vivo No Rock In Rio",
-        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Por Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Frejat Ao Vivo No Rock In Rio",
+        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Por Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -515,18 +515,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
+        "name": "Ef\u00eamera",
+        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
       "artists": [
         {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Z\u00e9 Pi",
+          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
+      "duration_ms": 221253,
+      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Ef\u00eamera",
-        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
       "artists": [
         {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Z\u00e9 Pi",
-          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
         }
       ],
-      "duration_ms": 221253,
-      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Que Seja Pra Ficar",
-      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Alian\u00e7a",
         "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Que Seja Pra Ficar",
+      "url": "https://open.spotify.com/track/5QQQUig8yIgWG1Yyd3PcmZ"
     },
     {
       "added_at": "2021-09-03 03:00:00",

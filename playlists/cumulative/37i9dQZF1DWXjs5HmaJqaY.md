@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 13 hr 7 min
+132 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 | 2022-12-02 | 2023-02-04 |
 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-10-27 | 2023-02-18 |
 | [Kolm](https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Kolm](https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd) | 6:23 | 2023-01-20 |  |
-| [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-17 |  |
+| [Last Call](https://open.spotify.com/track/3vRA3f2BSYJLlXhWEkxrMK) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 6:55 | 2023-04-06 |  |
+| [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-17 | 2023-04-10 |
 | [Last Song](https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C) | 7:42 | 2022-09-16 | 2023-02-11 |
 | [Latlal \- Spada Remix](https://open.spotify.com/track/6ZHjcEwUp3dWOrv29N9BmU) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 7:17 | 2023-02-17 |  |
 | [Legend](https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Legend](https://open.spotify.com/album/3SEJwsLKXnjMeg0c1rhCyB) | 3:40 | 2023-02-17 |  |

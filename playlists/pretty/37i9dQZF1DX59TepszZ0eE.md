@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Worship Him this Easter with the best in SA gospel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,141 likes - 59 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,334 likes - 59 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 40 | [Wafika](https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Wafika](https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo) | 8:33 |
 | 41 | [You Reign Forever](https://open.spotify.com/track/7r6K4qSyliTXbRpsOgFQyh) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP) | [Devotion](https://open.spotify.com/album/6wGUP0pqf61PtlY1MEAQJN) | 4:08 |
 | 42 | [Ungubaba](https://open.spotify.com/track/6e3EkJFMU2NALtPkC20IUp) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 4:17 |
-| 43 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 |
+| 43 | [Interlude \- Zulu Worship Medley \- Live](https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:22 |
 | 44 | [Makubenjalo](https://open.spotify.com/track/7E1nIwEdItgP3pRkNVY6UQ) | [Abaphilisi Bomoya Choir](https://open.spotify.com/artist/5bvoZ4BVjawSUk09b2145O), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M) | [Makubenjalo](https://open.spotify.com/album/0MAAleYqtlG5wxROZBYR6c) | 3:53 |
 | 45 | [Ngobekezela \- Live at Durban ICC RSA](https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba \(Live at Durban ICC RSA\)](https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa) | 2:47 |
 | 46 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Youth Choir](https://open.spotify.com/artist/4e1wKyDJhWiTS9zY8UH2kf) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 58 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 59 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MTY4MDgxODM0MCwwMDAwMDAwMGQwNDViOTk3YmFkN2JlYjRlOTg3YWFmYzVlY2Y1ZTFi`
+Snapshot ID: `MTY4MDgxODM0MCwwMDAwMDAwMDI4ZDlhMzUwZDRjYzA1Njg2OGQ2ZThhNDQzZTViNjY1`
