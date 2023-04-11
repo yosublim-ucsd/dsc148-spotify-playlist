@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 
 > Eve gets your New Years party started with Hip\-Hop House Party \#NYE2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680,035 likes - 41 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680,205 likes - 41 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

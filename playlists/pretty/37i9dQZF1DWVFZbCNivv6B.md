@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop\. Cartel de Santa y La Kelly en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,112 likes - 103 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,738 likes - 103 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
 | 2 | [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 |
-| 3 | [Poco a Poco](https://open.spotify.com/track/4wTXGVoFvKjqvFZNgHuioe) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Poco a Poco](https://open.spotify.com/album/50WDuqdT6FQkjnVTNx9MiE) | 4:12 |
+| 3 | [Poco a Poco](https://open.spotify.com/track/4wTXGVoFvKjqvFZNgHuioe) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Poco a Poco](https://open.spotify.com/album/50WDuqdT6FQkjnVTNx9MiE) | 4:12 |
 | 4 | [Derrochando Estilo](https://open.spotify.com/track/4I98VytVQXNTScYphARAGH) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Derrochando Estilo](https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt) | 2:47 |
 | 5 | [Bájala](https://open.spotify.com/track/2DbQbh449mcSNT0wPGQa9Y) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:18 |
 | 6 | [Lo Mío](https://open.spotify.com/track/5jQkM7O5u7udSaje51iQBQ) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Lo Mío](https://open.spotify.com/album/7elOqdoIafIctySIGxVSMc) | 2:57 |

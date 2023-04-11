@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16280,
+  "num_followers": 16293,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMGU0NmU5YzU0ZTU5NDY0NDE2ZjkwMDMxYWNlNGFhODE4",
+  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMDgzOTRlMTY5NWMyY2I5MTFlYzNlYWI0MWI1NDczMzAz",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -99,6 +99,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thank You For It All",
         "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
       },
@@ -151,34 +179,6 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -435,6 +435,38 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Beautiful Day (House of the Lord)",
+        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Beautiful Day (House of the Lord)",
+      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "We Say Yes",
         "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
       },
@@ -479,22 +511,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Beautiful Day (House of the Lord)",
-        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Beautiful Day (House of the Lord)",
-      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thank You Lord (Live)",
         "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Gratitude (Live)",
-        "url": "https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl"
-      },
-      "artists": [
-        {
-          "name": "Spring Harvest",
-          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
-        }
-      ],
-      "duration_ms": 376628,
-      "name": "Gratitude - Live",
-      "url": "https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Kingdom Come - The Soundtrack",
         "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
       },
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Gratitude (Live)",
+        "url": "https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl"
+      },
+      "artists": [
+        {
+          "name": "Spring Harvest",
+          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
+        }
+      ],
+      "duration_ms": 376628,
+      "name": "Gratitude - Live",
+      "url": "https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 305006,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Classic Gold: Best of Andrae: Andrae Crouch and the Disciples",
         "url": "https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217786,
       "name": "My Tribute",
       "url": "https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 271211,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "I Won't Forget",
         "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 521973,
       "name": "I Won't Forget (Live)",
       "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 271211,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
     },
     {
       "added_at": "2022-11-23 15:01:23",

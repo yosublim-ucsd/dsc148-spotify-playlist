@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Step into the gardens by the sea with <a href="spotify:artist:5Pb27ujIyYb33zBqVysBkj">RÜFÜS DU SOL</a> who are bringing their Sundream Baja Festival to San Jose del Cabo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,115 likes - 53 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,213 likes - 53 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

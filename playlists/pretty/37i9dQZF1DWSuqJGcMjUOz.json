@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2077,
+  "num_followers": 2076,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDA4ZjU3M2UxZDM1MjZiYzg0MmRiYzAyNGUwYWQwNThk",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDlkZDc2ZDI3YjAzZDUzNTc1YmU2MTNkMGM3MzY2ODg1",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "O\u00f9 sera le monde",
-        "url": "https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl"
-      },
-      "artists": [
-        {
-          "name": "Marc Dupr\u00e9",
-          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "O\u00f9 sera le monde",
-      "url": "https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Un trou dans les nuages",
         "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 319840,
       "name": "Je voudrais voir la mer",
       "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "O\u00f9 sera le monde",
+        "url": "https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl"
+      },
+      "artists": [
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "O\u00f9 sera le monde",
+      "url": "https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Pas de limite",
-        "url": "https://open.spotify.com/album/42r9Vjwpwvi6LCfC5FV3XT"
-      },
-      "artists": [
-        {
-          "name": "Chilla",
-          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Pas de limite",
-      "url": "https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 151586,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Pas de limite",
+        "url": "https://open.spotify.com/album/42r9Vjwpwvi6LCfC5FV3XT"
+      },
+      "artists": [
+        {
+          "name": "Chilla",
+          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Pas de limite",
+      "url": "https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Excalibur",
-        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Les Rois",
-      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Homme Autonome",
         "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 205373,
       "name": "Mot de passe",
       "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Excalibur",
+        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Les Rois",
+      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Si je pleure",
+      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Soleil '96",
-        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Si je pleure",
-      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Bo\u00eete aux lettres",
         "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "SITKA",
-        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "L'heure mauve",
         "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 203666,
       "name": "Les fleurs d\u2019une autre dimension",
       "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "SITKA",
+        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "Fauve",
         "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
-      },
-      "artists": [
-        {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
-        }
-      ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Je me souviens",
         "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 189027,
       "name": "Je me souviens",
       "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Waska Matisiwin",
-        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
-      },
-      "artists": [
-        {
-          "name": "Laura Niquay",
-          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
-        }
-      ],
-      "duration_ms": 250469,
-      "name": "Moteskano - Les sentiers de nos anc\u00eatres",
-      "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Waska Matisiwin",
+        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 250469,
+      "name": "Moteskano - Les sentiers de nos anc\u00eatres",
+      "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
     },
     {
       "added_at": "2022-05-25 18:00:00",

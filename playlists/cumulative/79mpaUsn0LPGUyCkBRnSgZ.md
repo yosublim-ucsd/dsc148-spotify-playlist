@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-190 songs - 12 hr 6 min
+191 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 4:56 | 2021-12-30 |  |
 | [Silhouette](https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 6:13 | 2023-01-11 |  |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |
+| [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 | 2023-04-10 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-09-25 |  |
 | [Soulo Ho3 \(feat\. Jhene Aiko\)](https://open.spotify.com/track/15acC6GzjmD5NvpoS5jRdN) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Control System](https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW) | 3:57 | 2022-12-29 |  |
 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 | 2023-03-31 |  |

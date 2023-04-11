@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1325,
+  "num_followers": 1324,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDBlOTc2OGRmMDQyM2EyMGM2YTk2ZWRjZjlmNjJjNzFl",
+  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDJkZDFkZjhmMjRlNTQ5MDNlNmYxMGM4Y2E4YzNhYTU3",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -319,6 +319,26 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Todos a Moverse",
+      "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Juguemos a cantar con Barney",
         "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 193840,
       "name": "Do The Chores",
       "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Todos a Moverse",
-      "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -471,6 +471,26 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Moey's Music Party",
         "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 131600,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "20 Canciones Infantiles",
-        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Osito Panda Band",
-          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 112400,
-      "name": "Ba\u00f1o de Burbujas",
-      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "20 Canciones Infantiles",
+        "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Osito Panda Band",
+          "url": "https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0"
         }
       ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+      "duration_ms": 112400,
+      "name": "Ba\u00f1o de Burbujas",
+      "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
         },
         {
-          "name": "Sesame Street's Olivia",
-          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
+          "name": "Sesame Street's Gordon",
+          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
         }
       ],
-      "duration_ms": 93812,
-      "name": "Snack Time (Juice and Cookies)",
-      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
+      "duration_ms": 103147,
+      "name": "Exercise Time",
+      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Sesame Street: Getting Ready for School",
-        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
+        "name": "Papa Goose",
+        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
       "artists": [
         {
-          "name": "Big Bird",
-          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
-        },
-        {
-          "name": "Sesame Street's Gordon",
-          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
+          "name": "Nat Hussey",
+          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
         }
       ],
-      "duration_ms": 103147,
-      "name": "Exercise Time",
-      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+      "duration_ms": 89306,
+      "name": "Wash The Dishes",
+      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
     }
   ],
   "unique_name": "Daily Rutina",

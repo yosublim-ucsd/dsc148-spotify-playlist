@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Vicenta
 
-337 songs - 20 hr 28 min
+338 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Nube Negra](https://open.spotify.com/track/0Rafy02pf5LE7ZaaIQM6SE) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Nube Negra](https://open.spotify.com/album/0TfLcK2FvUlt6wVg3gJ6vL) | 4:26 | 2022-04-29 | 2022-07-25 |
 | [Nudo](https://open.spotify.com/track/5b5tle4kRgZuhHj0p0WLB7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:25 | 2022-04-15 | 2022-07-29 |
 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 | 2022-07-22 | 2022-12-10 |
+| [NUNCA +](https://open.spotify.com/track/1pYUCxr8jevPjnbmMXlusx) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Carliane Tamara](https://open.spotify.com/artist/0cYMTYd2asosLnMfAiQEZX) | [NUNCA +](https://open.spotify.com/album/4VhWGDxXEveBrL8GdeQkWn) | 3:24 | 2023-04-07 |  |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2022-09-23 | 2023-01-28 |
 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 | 2022-04-15 | 2023-01-28 |
 | [Para la Patada y el Combo](https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Palabritas y Palabrotas](https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM) | 3:06 | 2022-10-07 |  |
@@ -241,7 +242,7 @@
 | [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-12-31 |
 | [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 | 2023-01-12 |
 | [Precio y Detalles](https://open.spotify.com/track/6YHU8WZI7eaa1EicKKWX2j) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Mismas Viejas Costumbres](https://open.spotify.com/album/7jpQdWHHBjRWlya8DcYBWO) | 3:02 | 2022-04-15 | 2022-07-26 |
-| [Primera Fila](https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Primera Fila](https://open.spotify.com/album/2EHbgDYcIOZ1b9TwB04I32) | 3:42 | 2023-02-03 |  |
+| [Primera Fila](https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Primera Fila](https://open.spotify.com/album/2EHbgDYcIOZ1b9TwB04I32) | 3:42 | 2023-02-03 | 2023-04-11 |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-06-10 | 2022-07-29 |
 | [Prohibido](https://open.spotify.com/track/7lxDfpa4rg908BuGv6sMQc) | [Futuralgia](https://open.spotify.com/artist/7E8546nHdwMid6Z7IUVHVW) | [Prohibido](https://open.spotify.com/album/4yC80pHcbHTa4FkPsyIxfu) | 3:31 | 2022-04-15 | 2022-07-27 |
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 | 2023-02-25 |

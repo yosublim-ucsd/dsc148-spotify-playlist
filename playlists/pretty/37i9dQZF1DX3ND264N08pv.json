@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 39745,
+  "num_followers": 39831,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDQxMTMxNjA2NGIwMGI4YmEyMjIzNTVkYzk4OTg3OTI3",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDExYTJkYzVlMjVhNzYyNzVkMmZlZWE1ZWMwZWEyZjM1",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "The Next Level",
-        "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "The Next Level",
-      "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
       },
@@ -335,6 +315,22 @@
       "duration_ms": 199200,
       "name": "You Can't Stop Me",
       "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Hard Knock Life",
+        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215684,
+      "name": "Hard Knock Life",
+      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -359,18 +355,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Hard Knock Life",
-        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
+        "name": "The Next Level",
+        "url": "https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut"
       },
       "artists": [
         {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         }
       ],
-      "duration_ms": 215684,
-      "name": "Hard Knock Life",
-      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
+      "duration_ms": 195600,
+      "name": "The Next Level",
+      "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -519,6 +519,30 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Deathblow",
+        "url": "https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Deathblow",
+      "url": "https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "STRUGGLE TO SURVIVE",
         "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
@@ -599,46 +623,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Deathblow",
-        "url": "https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Deathblow",
-      "url": "https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Endemic",
-        "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Endemic",
-      "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Ring The Alarm",
         "url": "https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT"
       },
@@ -659,38 +643,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
+        "name": "Endemic",
+        "url": "https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc"
       },
       "artists": [
         {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
         }
       ],
-      "duration_ms": 237714,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+      "duration_ms": 240000,
+      "name": "Endemic",
+      "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -711,6 +675,42 @@
       "duration_ms": 231600,
       "name": "Fat Beat",
       "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1055,42 +1055,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "RUDE METHODS",
-        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 188487,
-      "name": "RUDE METHODS",
-      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Mr. Hyde",
-          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
-        }
-      ],
-      "duration_ms": 279157,
-      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
-      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl"
       },
@@ -1115,6 +1079,26 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Mr. Hyde",
+          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
+        }
+      ],
+      "duration_ms": 279157,
+      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
+      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Crazy, Like Me!",
         "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 174857,
       "name": "Crazy, Like Me!",
       "url": "https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "RUDE METHODS",
+        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 188487,
+      "name": "RUDE METHODS",
+      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Medication Time",
-        "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 257713,
-      "name": "Medication Time",
-      "url": "https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "HIT THA CLUB",
         "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 166615,
       "name": "HIT THA CLUB",
       "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Medication Time",
+        "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 257713,
+      "name": "Medication Time",
+      "url": "https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 324300,
       "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
       "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Downtempo EP II",
-        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Energy 1996",
-      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Paganos",
         "url": "https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 247200,
       "name": "Paganos",
       "url": "https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Downtempo EP II",
+        "url": "https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Energy 1996",
+      "url": "https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Sky Ablaze",
         "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 179240,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 177166,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Buried Alive",
         "url": "https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 195320,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 177166,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+        "name": "BEAT DROP",
+        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
       },
       "artists": [
         {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
         }
       ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+      "duration_ms": 206238,
+      "name": "BEAT DROP",
+      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1763,6 +1767,42 @@
       "duration_ms": 229170,
       "name": "Get Yo Handz Up",
       "url": "https://open.spotify.com/track/4OBh7A1ekrlMQY5oyFw4mt"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "The Purge Remix EP",
+        "url": "https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
+        }
+      ],
+      "duration_ms": 228983,
+      "name": "Beyond Imagination - Element Remix",
+      "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1787,26 +1827,6 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "The Purge Remix EP",
-        "url": "https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Element",
-          "url": "https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU"
-        }
-      ],
-      "duration_ms": 228983,
-      "name": "Beyond Imagination - Element Remix",
-      "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1855,22 +1875,6 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "You Ain't Telling Me Shit",
-        "url": "https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "You Ain't Telling Me Shit",
-      "url": "https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

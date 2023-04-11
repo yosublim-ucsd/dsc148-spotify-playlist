@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 299829,
+  "num_followers": 299928,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDMxNGU3ZmU3NzI5N2EwNDZhNmM4Y2RiZTkwOTM2NjEz",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDhkNGVjNjU0ZmQxZDAzMzRmNDk5NTJlNzA1NDIxZjI2",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Mr. Sun (miss da sun)",
+        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Mr. Sun (miss da sun)",
+      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Baby Face",
         "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 264710,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Mr. Sun (miss da sun)",
-        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Mr. Sun (miss da sun)",
-      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Rendezvous (with Miraa May)",
-        "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "Rendezvous (with Miraa May)",
-      "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Rendezvous (with Miraa May)",
+        "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "Rendezvous (with Miraa May)",
+      "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2022-06-20 14:19:42",

@@ -552,10 +552,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 232222,
       "name": "Diablo, Qu\u00e9 Chimba",
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "album": {
+        "name": "Donde t\u00fa quieras, yo voy",
+        "url": "https://open.spotify.com/album/1v8uoo66sDT6P6iECiKOiO"
+      },
+      "artists": [
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142676,
+      "name": "Donde t\u00fa quieras, yo voy",
+      "url": "https://open.spotify.com/track/6xyeYEV9oDGlKhfSbLi8k8"
     },
     {
       "album": {
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
@@ -1425,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0PO6wrDNYsZeXK7QSeQmfg"
+      },
+      "artists": [
+        {
+          "name": "Eles",
+          "url": "https://open.spotify.com/artist/3XSoyETJ3bgL1OZZVVPTZ6"
+        },
+        {
+          "name": "Porto",
+          "url": "https://open.spotify.com/artist/1AiEOgwte8Uf207KWuGnbM"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/2LEMMY4VZYBBAglkhYRjcZ"
+    },
+    {
+      "album": {
         "name": "PAS",
         "url": "https://open.spotify.com/album/5uQp7mNaf5hiVAfphFjjoc"
       },
@@ -1771,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "S\u00daBEME EL VOLUMEN",
+        "url": "https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "S\u00daBEME EL VOLUMEN",
+      "url": "https://open.spotify.com/track/7iVR2net75ct59gmUtkDLb"
+    },
+    {
+      "album": {
         "name": "Te Miro A La Cara",
         "url": "https://open.spotify.com/album/6LCwDsFIPU8BPk3f0jdzr3"
       },
@@ -2088,7 +2150,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 138937,
       "name": "Vidas Pasadas",
       "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"

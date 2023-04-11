@@ -8994,7 +8994,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 349773,
       "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
       "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"
@@ -9074,7 +9074,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 236133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9"
@@ -11079,6 +11079,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u563b\u54c8\u6642\u4ee32: SEMI FINALS \u540d\u5217\u524d\u8305",
+        "url": "https://open.spotify.com/album/60d8VquxGONm76JzahzxMO"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u8de8\u9762",
+          "url": "https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "\u9677\u7720",
+      "url": "https://open.spotify.com/track/4Gv3WzG8DaeY1LLnufwXdJ"
+    },
+    {
+      "album": {
         "name": "\u4e2d\u570b\u8aaa\u5531\u5dd4\u5cf0\u5c0d\u6c7a \u7b2c\u56db\u671f",
         "url": "https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq"
       },
@@ -11134,7 +11152,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 242789,
       "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
       "url": "https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg"

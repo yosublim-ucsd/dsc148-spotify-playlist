@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-490 songs - 1 day 5 hr 41 min
+491 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Freedom For a Change](https://open.spotify.com/track/2C0uAETVUpvW1DjMsu8xcb) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Freedom For a Change](https://open.spotify.com/album/0zpPgSOoLfGB6IOtFsLuXo) | 2:38 | 2021-12-16 | 2022-07-29 |
 | [Freedom For a Change](https://open.spotify.com/track/6IED3V6GMa9SyP8xwkeqpD) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [El Dorado](https://open.spotify.com/album/4sehYh39cQn4y8133SG1En) | 2:38 | 2022-09-08 | 2022-10-04 |
 | [Friends \(feat\. Tom Morello\) \- Tom Misch Remix](https://open.spotify.com/track/3QI6Sp9XnqilIPgXLFQxty) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Friends \(Tom Misch Remixes\) \(feat\. Tom Morello\)](https://open.spotify.com/album/2C1NdT1ZhiGcLxnvBSnH2H) | 3:11 | 2022-03-30 | 2022-04-06 |
-| [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-12-16 |  |
+| [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-12-16 | 2023-04-11 |
 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 | 2022-03-30 | 2022-04-21 |
 | [Get You Back](https://open.spotify.com/track/6Ecfs0LIfbnRFjBx8dnguQ) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Man About Town](https://open.spotify.com/album/6qOF2qnkC0ci4wAhp3XiKD) | 3:36 | 2022-03-30 | 2022-04-18 |
 | [Girl](https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l) | 3:34 | 2021-12-16 | 2022-07-28 |
@@ -369,6 +369,7 @@
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2022-01-07 | 2022-06-14 |
 | [Sh’qweyla](https://open.spotify.com/track/5HZDmlOkrOH3CkVPgvfQ9V) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:02 | 2021-12-16 | 2022-02-05 |
 | [Si je pleure](https://open.spotify.com/track/419r09nkiuWfGSoLNLpB2P) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/4xP2CYijUf78h9WZVqdilE) | 3:45 | 2021-12-16 | 2022-07-29 |
+| [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 | 2023-04-10 |  |
 | [Slippin](https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Quadron](https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ) | 4:32 | 2022-03-30 | 2022-04-17 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-23 |  |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-05-24 |  |

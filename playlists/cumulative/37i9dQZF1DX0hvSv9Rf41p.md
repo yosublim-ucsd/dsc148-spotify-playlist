@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with WHIPPED CREAM.
 
-461 songs - 1 day 2 hr 47 min
+462 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All Through the Night](https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 3:30 | 2021-12-17 | 2022-03-12 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 |  |
 | [Amateur](https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Amateur](https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF) | 6:11 | 2023-04-07 |  |
-| [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 |  |
+| [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 | 2023-04-11 |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-26 |  |
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2022-08-26 | 2023-04-01 |
 | [Anti\-Hero \- ILLENIUM Remix](https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Anti\-Hero \(ILLENIUM Remix\)](https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6) | 4:27 | 2022-12-02 |  |
@@ -468,6 +468,7 @@
 | [Without You](https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Without You](https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM) | 3:45 | 2022-02-25 | 2023-01-04 |
 | [Worst Enemy](https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Worst Enemy](https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk) | 2:37 | 2022-06-10 | 2022-09-03 |
 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-02-04 |  |
+| [You Got It](https://open.spotify.com/track/3bXWu4wjShtls0NJT59YrE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [You Got It](https://open.spotify.com/album/6EUg2hYGUKicBGqGu5GzPs) | 2:38 | 2023-04-07 |  |
 | [Zest Please](https://open.spotify.com/track/3VhngLAWsDigMXslv72LnT) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF) | [Zest Please](https://open.spotify.com/album/4xo4jfgh25UO6deIa3kC5A) | 3:12 | 2021-12-17 | 2022-02-19 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

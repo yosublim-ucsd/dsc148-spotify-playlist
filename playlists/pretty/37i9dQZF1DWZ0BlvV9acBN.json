@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 115338,
+  "num_followers": 115377,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGMyOTMzNDE4YzliYWI3MmZmOGIwOGIzM2JjNGYwYThj",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDY3ZDIyNTkxYTkwZTE0NWY3N2YwNjc3NmU5Nzc2OTQy",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "De Malas Prontas",
-        "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
+        "name": "Lembre-se 80's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
       "artists": [
         {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 394353,
-      "name": "De Malas Prontas",
-      "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
+      "duration_ms": 296500,
+      "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Lembre-se 80's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+        "name": "De Malas Prontas",
+        "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
         }
       ],
-      "duration_ms": 296500,
-      "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
+      "duration_ms": 394353,
+      "name": "De Malas Prontas",
+      "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "ATEU",
-        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+        "name": "Santificado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Flavio Vasques",
+          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
         }
       ],
-      "duration_ms": 245462,
-      "name": "ATEU",
-      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+      "duration_ms": 562285,
+      "name": "Que o Cordeiro Receba - Ao Vivo",
+      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -319,6 +323,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "ATEU",
+        "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 245462,
+      "name": "ATEU",
+      "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Retrato",
         "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 333250,
       "name": "Retrato",
       "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Santificado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vasques",
-          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
-        },
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 562285,
-      "name": "Que o Cordeiro Receba - Ao Vivo",
-      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Tudo Fica Bem",
-        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Tudo Fica Bem",
-      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
       },
@@ -467,22 +447,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -495,6 +459,42 @@
       "duration_ms": 341789,
       "name": "Eu Vou Amanhecer - Ao Vivo",
       "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Tudo Fica Bem",
+        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Tudo Fica Bem",
+      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mauro",
-        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Escolho Ser Fiel",
-      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 4)",
         "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
       },
@@ -599,34 +583,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Mauro",
+        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 265307,
-      "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
-      "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
+      "duration_ms": 250475,
+      "name": "Escolho Ser Fiel",
+      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -647,6 +615,22 @@
       "duration_ms": 307533,
       "name": "Mente Brilhante",
       "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
       },
       "artists": [
         {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+      "duration_ms": 265307,
+      "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 191569,
       "name": "A Porta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Estrangeiro",
+        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 226911,
+      "name": "Estrangeiro",
+      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 290232,
       "name": "Te Seguirei",
       "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Estrangeiro",
-        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 226911,
-      "name": "Estrangeiro",
-      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ex\u00edlio",
-        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
-          "name": "Hugo Santos",
-          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 279510,
-      "name": "Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Ex\u00edlio",
+        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+      },
+      "artists": [
+        {
+          "name": "Hugo Santos",
+          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+        }
+      ],
+      "duration_ms": 279510,
+      "name": "Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -1075,42 +1091,6 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Trindade",
-        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
-      },
-      "artists": [
-        {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Arthur Lemos",
-          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
-        }
-      ],
-      "duration_ms": 769852,
-      "name": "Trindade",
-      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1131,6 +1111,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Lado a Lado",
+        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lado a Lado",
+      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Artif\u00edcio",
         "url": "https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC"
       },
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Lado a Lado",
-        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
+        "name": "Trindade",
+        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Arthur Lemos",
+          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Lado a Lado",
-      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
+      "duration_ms": 769852,
+      "name": "Trindade",
+      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2023-03-24 03:00:00",

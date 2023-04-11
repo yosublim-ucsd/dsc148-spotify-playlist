@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-151 songs - 11 hr 10 min
+152 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 | 2020-08-31 |  |
 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 | 2020-08-31 |  |
 | [Oh What a Father](https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q) | 3:56 | 2020-08-31 | 2023-03-31 |
+| [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 | 2020-08-31 |  |
 | [Oh What a Father](https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16) | 3:56 | 2020-08-31 | 2022-07-29 |
 | [Old Soul](https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef) | [Finding Favour](https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM) | [Old Soul](https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW) | 3:41 | 2020-08-31 |  |
 | [On Christ \(House Church\)](https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [On Christ \(House Church\)](https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw) | 4:24 | 2020-08-31 |  |
@@ -156,7 +157,7 @@
 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 | 2020-08-31 |  |
 | [You Can Close Your Eyes](https://open.spotify.com/track/1e5eUUQ3K7cnlOFoSG6iAk) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN), [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [B Sides](https://open.spotify.com/album/6nj4lFf0LIu3W4iRbr02Ko) | 2:24 | 2020-08-31 |  |
 | [You Can Close Your Eyes \(feat\. William Fitzsimmons\) \[Bonus Track\]](https://open.spotify.com/track/0mSZtpdHUYbrfe2f4HJPzO) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags \(Deluxe Edition\)](https://open.spotify.com/album/2bUqAg3JLM03QmQUJ91fGF) | 2:22 | 2020-08-31 | 2022-07-28 |
-| [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 | 2020-08-31 |  |
+| [You Never Break a Promise](https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [You Never Break a Promise](https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA) | 5:37 | 2020-08-31 | 2023-04-11 |
 | [YOUR NAME IS POWER \- Acoustic](https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER \(Acoustic\)](https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy) | 3:52 | 2020-08-31 |  |
 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 | 2020-08-31 |  |
 

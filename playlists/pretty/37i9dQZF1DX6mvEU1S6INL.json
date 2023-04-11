@@ -1,15 +1,15 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1125898,
+  "num_followers": 1125918,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjMyMiwwMDAwMDAwMGExMmRjNmE1YjZiMWJkNjRkYTk3ZDBiMDNmNTY5NDBh",
+  "snapshot_id": "MTY3NjMwMjMyMiwwMDAwMDAwMDlmMmUwM2Y4NTU1NjcxYjM0ZDVlYjQ0NWJkOTA2YzQ3",
   "tracks": [
     {
-      "added_at": "2023-04-10 01:09:38",
+      "added_at": "2023-04-11 01:20:33",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
-      "added_at": "2023-04-10 01:09:38",
+      "added_at": "2023-04-11 01:20:33",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
-      "added_at": "2023-04-10 01:09:38",
+      "added_at": "2023-04-11 01:20:33",
       "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
@@ -365,7 +365,23 @@
       "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
     },
     {
-      "added_at": "2023-04-10 01:09:38",
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+    },
+    {
+      "added_at": "2023-04-11 01:20:33",
       "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
@@ -411,22 +427,6 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
     },
     {
-      "added_at": "2023-04-10 01:09:38",
+      "added_at": "2023-04-11 01:20:33",
       "album": {
         "name": "Visions Of A Life",
         "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
@@ -667,6 +667,22 @@
       "duration_ms": 275226,
       "name": "Don't Delete The Kisses",
       "url": "https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 241119,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -699,22 +715,6 @@
       "duration_ms": 290493,
       "name": "Make It Wit Chu",
       "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 241119,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Call Me Lover",
-      "url": "https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 144186,
       "name": "Half Your Love",
       "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Call Me Lover",
+      "url": "https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
+        "name": "Sadnecessary (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Indigo Puff",
-        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 231721,
-      "name": "Indigo Puff",
-      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
+        "name": "Indigo Puff",
+        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 231721,
+      "name": "Indigo Puff",
+      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 217000,
       "name": "Dreaming My Dreams",
       "url": "https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Sadnecessary (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "The Birthday Party",
         "url": "https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 277896,
       "name": "The Birthday Party",
       "url": "https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Leave What's Lost Behind",
-        "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 182973,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Leave What's Lost Behind",
+        "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "I Must Be In Love",
-        "url": "https://open.spotify.com/album/5bLirccCgo7ntxBaZ8VxCI"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        }
-      ],
-      "duration_ms": 166833,
-      "name": "I Must Be In Love",
-      "url": "https://open.spotify.com/track/1P9KM0iwzW8e900blTRJWJ"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Morning Report",
         "url": "https://open.spotify.com/album/2WJ3wW5Uy58NOWkIzzK4a4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 253853,
       "name": "My Heart's Always Yours",
       "url": "https://open.spotify.com/track/5Thu5cuRc1VtDeTu7p8Pni"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "I Must Be In Love",
+        "url": "https://open.spotify.com/album/5bLirccCgo7ntxBaZ8VxCI"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "duration_ms": 166833,
+      "name": "I Must Be In Love",
+      "url": "https://open.spotify.com/track/1P9KM0iwzW8e900blTRJWJ"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Birthday Boy",
-        "url": "https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/71v8qnPTtFJKKFcyLV2Sjz"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Gilgamesh",
         "url": "https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 246133,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Birthday Boy",
+        "url": "https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/71v8qnPTtFJKKFcyLV2Sjz"
     },
     {
       "added_at": "2023-01-05 16:51:45",

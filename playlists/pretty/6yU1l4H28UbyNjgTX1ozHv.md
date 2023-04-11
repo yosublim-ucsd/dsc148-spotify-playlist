@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,126 likes - 119 songs - 6 hr 29 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,129 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 14 | [I Forgot That You Existed \- Acoustic](https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [I Forgot That You Existed \(Acoustic\)](https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276) | 2:51 |
 | 15 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
 | 16 | [Go Your Own Way \- Acoustic](https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/album/2tQwErCmn4sCP9pm1A41CM) | 3:01 |
-| 17 | [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 |
+| 17 | [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 |
 | 18 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 19 | [Respect \- Acoustic](https://open.spotify.com/track/22ihU3hpmt2tTp68Ns7yMi) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Respect \(Acoustic\)](https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI) | 2:36 |
 | 20 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 118 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 | 119 | [Don't Speak \- Acoustic](https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Don't Speak \(Acoustic\)](https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy) | 2:20 |
 
-Snapshot ID: `OTUyLDc4ODE0MjAyNjk4M2I0ODViYmIyOGVkY2Q1ZWE5MDYyZmFlMTY5OGM=`
+Snapshot ID: `OTU0LGRmNDBlNDg3NWVhYWU4MzI4YjRjMDRjNTM3YTAwMWNlMjE3ZjYyOTQ=`

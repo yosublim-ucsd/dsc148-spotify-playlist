@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 341682,
+  "num_followers": 341742,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3OTExMSwwMDAwMDAwMGFhZjBjOWJjMDZmZTRlMzE5NDI2ZmE3ZDRhNDQ0MWZm",
+  "snapshot_id": "MTY4MDc3OTExMSwwMDAwMDAwMGI3MTAxZmE0MDVkYTE4NzJmNDEzYTU1MzdmMGZkZWM2",
   "tracks": [
     {
       "added_at": "2023-04-06 11:05:11",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "N.W.A. Greatest Hits",
-        "url": "https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 261399,
-      "name": "Express Yourself - Remix",
-      "url": "https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
+        "name": "N.W.A. Greatest Hits",
+        "url": "https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 261399,
+      "name": "Express Yourself - Remix",
+      "url": "https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
         "name": "The Magic Number",
         "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
-        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -251,6 +235,22 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -379,22 +379,18 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        },
-        {
-          "name": "Marley Marl",
-          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
         }
       ],
-      "duration_ms": 228666,
-      "name": "Paid In Full",
-      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
+      "duration_ms": 383600,
+      "name": "Jam On It",
+      "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
       "artists": [
         {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        },
+        {
+          "name": "Marley Marl",
+          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
         }
       ],
-      "duration_ms": 383600,
-      "name": "Jam On It",
-      "url": "https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L"
+      "duration_ms": 228666,
+      "name": "Paid In Full",
+      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Follow The Leader (Expanded Edition)",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Youngest in Charge",
         "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "In Full Gear",
-        "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
+        "name": "Follow The Leader (Expanded Edition)",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
       "artists": [
         {
-          "name": "Stetsasonic",
-          "url": "https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 288053,
-      "name": "Talkin' All That Jazz",
-      "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "In Full Gear",
+        "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Stetsasonic",
+          "url": "https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+      "duration_ms": 288053,
+      "name": "Talkin' All That Jazz",
+      "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -751,22 +735,6 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -791,18 +759,18 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 204601,
-      "name": "The Bridge Is Over",
-      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -819,6 +787,38 @@
       "duration_ms": 284466,
       "name": "I Know You Got Soul",
       "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 204601,
+      "name": "The Bridge Is Over",
+      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "I'm Bad",
-      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Duck Rock",
         "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 259426,
       "name": "Buffalo Gals",
       "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "I'm Bad",
+      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Giant Single: Profile Records Rap Anthology",
-        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
-      },
-      "artists": [
-        {
-          "name": "Dr. Jeckyll & Mr. Hyde",
-          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Genius Rap - 7\" Single Version",
-      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 308558,
       "name": "South Bronx",
       "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Giant Single: Profile Records Rap Anthology",
+        "url": "https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr"
+      },
+      "artists": [
+        {
+          "name": "Dr. Jeckyll & Mr. Hyde",
+          "url": "https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Genius Rap - 7\" Single Version",
+      "url": "https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH"
     },
     {
       "added_at": "2023-04-06 11:05:11",

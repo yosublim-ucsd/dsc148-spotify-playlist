@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 219845,
       "name": "Guru Smaranam",
       "url": "https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR"
@@ -832,6 +832,24 @@
       "duration_ms": 38706,
       "name": "Pranayaam Mantra",
       "url": "https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez"
+    },
+    {
+      "album": {
+        "name": "Radhe Shyam",
+        "url": "https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU"
+      },
+      "artists": [
+        {
+          "name": "Dj Mausam",
+          "url": "https://open.spotify.com/artist/11ikrZ9WL7bio1G7novcaW"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133131,
+      "name": "Radhe Shyam",
+      "url": "https://open.spotify.com/track/3VU0WCmwe5HVVzPzzCvjHh"
     },
     {
       "album": {

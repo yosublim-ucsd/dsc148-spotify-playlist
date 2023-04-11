@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 230520,
+  "num_followers": 230719,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGZmMGVhZTI2ZTg1MGVhNTc0Y2M4MWZhMDljMGJhNThm",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDFjMjkyNDZjMGYwYmRkM2JkMmQyN2E0NzljZjllODdj",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Paranoid (Crash & Burn)",
-        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 235736,
-      "name": "Paranoid (Crash & Burn)",
-      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -237,22 +221,6 @@
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Bimbocore",
@@ -267,6 +235,38 @@
       "duration_ms": 118863,
       "name": "Pink Rover",
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Paranoid (Crash & Burn)",
+        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 237259,
       "name": "As They Bloom",
       "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "They Fear Us",
         "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+      },
+      "artists": [
+        {
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "DODGE A BULLET",
@@ -891,18 +907,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+        "name": "saw BONES",
+        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
       },
       "artists": [
         {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
         }
       ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+      "duration_ms": 147200,
+      "name": "saw BONES",
+      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -919,22 +935,6 @@
       "duration_ms": 214775,
       "name": "Soul Revolution",
       "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "saw BONES",
-        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
-      },
-      "artists": [
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "saw BONES",
-      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Rust on the Gates of Heaven",
         "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 331015,
       "name": "Shrinking Violet",
       "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
     },
     {
       "added_at": "2022-11-18 01:42:16",

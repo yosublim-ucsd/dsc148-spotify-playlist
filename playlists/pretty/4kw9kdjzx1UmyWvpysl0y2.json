@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127108,
+  "num_followers": 127111,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDExMSxmZjIyMWQ3MTY1ZGY5ZTMyMmU1YjIxMWU0ZjM2OWJiNDdkYzA5ZjMy",
+  "snapshot_id": "NDExNiw1ZWIxYzM5ZGZmMTFhMjA1Nzc2NDgzNmY1NjAyYmVkMTE4NDg0MmJl",
   "tracks": [
+    {
+      "added_at": "2023-04-10 16:34:17",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "Jnathyn",
+          "url": "https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk"
+        }
+      ],
+      "duration_ms": 221572,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE"
+    },
     {
       "added_at": "2023-04-06 18:54:43",
       "album": {
@@ -1083,46 +1103,6 @@
       "duration_ms": 165500,
       "name": "ok",
       "url": "https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI"
-    },
-    {
-      "added_at": "2023-01-25 21:18:02",
-      "album": {
-        "name": "Calling Us",
-        "url": "https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        },
-        {
-          "name": "David Feldman",
-          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        }
-      ],
-      "duration_ms": 250476,
-      "name": "Calling Us",
-      "url": "https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW"
-    },
-    {
-      "added_at": "2023-01-25 21:08:30",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        }
-      ],
-      "duration_ms": 273624,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

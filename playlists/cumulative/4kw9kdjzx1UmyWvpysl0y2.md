@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-449 songs - 1 day 2 hr 15 min
+450 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Brushes](https://open.spotify.com/track/7sYIVXdHSk466cayCTwAgt) | [Woven](https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO) | [Brushes](https://open.spotify.com/album/1VbJtajKClF79HRsb7O5Lv) | 3:53 | 2023-02-03 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
-| [Calling Us](https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Calling Us](https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019) | 4:10 | 2023-01-25 |  |
+| [Calling Us](https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Calling Us](https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019) | 4:10 | 2023-01-25 | 2023-04-11 |
 | [Can We Be Free \- KDrew Remix](https://open.spotify.com/track/6z8jYJCzgBCNgbMTwvvnFy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ) | [Can We Be Free \(KDrew Remix\)](https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9) | 2:28 | 2022-12-03 | 2023-03-02 |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-11-19 | 2022-02-22 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-03 | 2022-05-14 |
@@ -389,6 +389,7 @@
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 |  |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |
+| [Tension](https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Tension](https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU) | 3:41 | 2023-04-10 |  |
 | [The Dark](https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Crimson Child](https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v) | [The Dark](https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI) | 3:48 | 2023-01-26 |  |
 | [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-06 | 2022-12-07 |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 | 2022-07-09 |
@@ -406,7 +407,7 @@
 | [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-12 | 2023-03-28 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |
 | [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-15 | 2023-02-10 |
-| [Together](https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Together](https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX) | 4:33 | 2023-01-25 |  |
+| [Together](https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Together](https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX) | 4:33 | 2023-01-25 | 2023-04-11 |
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |
 | [Tourmaline](https://open.spotify.com/track/1yX1uaq2rWDEURrREEmyIM) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Tourmaline](https://open.spotify.com/album/6LhhGLTYsTSaxzWcRJ9KsK) | 3:34 | 2023-02-16 |  |
 | [Toxic](https://open.spotify.com/track/2XROdt9KOkQNxN6Ugq3z3m) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Agony District](https://open.spotify.com/album/2xcGif7Oz4N0k5XtvDWNU6) | 3:31 | 2022-07-25 | 2022-10-06 |

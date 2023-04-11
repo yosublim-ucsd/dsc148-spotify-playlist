@@ -10063,6 +10063,24 @@
     },
     {
       "album": {
+        "name": "Collective Compulsion",
+        "url": "https://open.spotify.com/album/2kxHyVpM0gwNRnoHSZn12B"
+      },
+      "artists": [
+        {
+          "name": "Mindwar",
+          "url": "https://open.spotify.com/artist/1jI098tzUJUKUkHCiyJO5N"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Collective Compulsion",
+      "url": "https://open.spotify.com/track/4wfpd4dBOBGM86LJhdgJ8N"
+    },
+    {
+      "album": {
         "name": "Leather Terror",
         "url": "https://open.spotify.com/album/37PW0ipoWcjx3APS1MN0ql"
       },

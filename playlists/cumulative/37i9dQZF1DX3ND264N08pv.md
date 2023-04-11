@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-140 songs - 8 hr 6 min
+141 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 | 2022-12-08 | 2023-03-31 |
 | [Battle Tonight](https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Battle Tonight](https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ) | 4:08 | 2022-12-08 |  |
 | [Be The Light](https://open.spotify.com/track/3WaMpSz8UDnFIoDgtehaR4) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Be The Light](https://open.spotify.com/album/0hJkfPlK8XUaIPHchvZDB9) | 3:15 | 2022-12-08 | 2022-12-13 |
+| [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-06 |  |
 | [Beat My Drum](https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Beat My Drum](https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq) | 3:22 | 2022-12-08 |  |
 | [Beyond Imagination \- Element Remix](https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU) | [The Purge Remix EP](https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY) | 3:48 | 2022-12-08 |  |
 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 | 2022-12-22 |  |
@@ -146,7 +147,7 @@
 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 | 2023-03-30 |  |
 | [Warriors](https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Warriors](https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl) | 3:20 | 2022-12-08 |  |
 | [Warriors \(2022 Refix\)](https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8) | [Tyfon](https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs), [The Fuze](https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY) | [Runes of Retribution](https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5) | 4:12 | 2022-12-08 |  |
-| [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 |  |
+| [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-12-08 | 2023-04-11 |
 | [You Can't Stop Me](https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [You Can't Stop Me](https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ) | 3:19 | 2022-12-08 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

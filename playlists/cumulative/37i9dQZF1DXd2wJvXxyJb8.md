@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> ta mas vc sabia q os ovos d pascoa não
+> coelhinho se eu fossse como tu
 
 248 songs - 11 hr 21 min
 

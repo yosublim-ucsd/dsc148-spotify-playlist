@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 67472,
+  "num_followers": 67566,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMDBlZWJlYzY1YjI5NTlhYTRjYzQ3YWRiYzQwYzQ4OTBj",
+  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMDllMGRhYWZmZTdhZjRjYmY1MzhlNzQ5OTk2YzgwOWE4",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -599,6 +583,22 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 371706,
       "name": "Summer Breeze, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "In A Special Way",
         "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 268173,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "You Are My Heaven (feat. Donny Hathaway)",
+      "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 254000,
       "name": "Is This the End",
       "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "You Are My Heaven (feat. Donny Hathaway)",
-      "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Propositions",
+        "url": "https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "duration_ms": 346746,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "Caravan of Love (Expanded Version)",
         "url": "https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 101150,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Propositions",
-        "url": "https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn"
-      },
-      "artists": [
-        {
-          "name": "The Bar-Kays",
-          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
-        }
-      ],
-      "duration_ms": 346746,
-      "name": "Anticipation",
-      "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
     },
     {
       "added_at": "2023-01-19 17:27:16",

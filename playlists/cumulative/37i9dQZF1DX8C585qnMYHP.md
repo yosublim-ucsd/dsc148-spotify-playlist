@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Maral on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,295 songs - 4 day 8 hr 24 min
+1,296 songs - 4 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-11-30 | 2023-03-16 |
 | [Advertised](https://open.spotify.com/track/6Nleh9HiXzeIMQiMg80WCp) | [Stigma](https://open.spotify.com/artist/7fyEvBoniWpROAH5Pfo0jP), [Taylor E Burch](https://open.spotify.com/artist/7s9kEXLVgrXSgTI0LzPKaQ) | [Too Long](https://open.spotify.com/album/5BvcAtZUW02PRkxjlmE68I) | 8:00 | 2021-08-19 | 2021-11-30 |
 | [Affirmation Pt\. II](https://open.spotify.com/track/0NkTh0SUbZQLz6wNALjP3V) | [Sally Decker](https://open.spotify.com/artist/4a4XbzVUadFOng9sQsvp7l), [Briana Marela](https://open.spotify.com/artist/35iTyTjBjpcGsXWRui2ZvX), [Emily Cardwell](https://open.spotify.com/artist/5ypl6CBT7VZfDjDEnMExOH) | [Affirmation Pt\. II](https://open.spotify.com/album/6IMxSObI53qtyRs8lokFFW) | 3:27 | 2021-08-05 | 2021-11-23 |
-| [After The Wave](https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Catch The Wave](https://open.spotify.com/album/2CxNHUHV4b6Isq3vuwlx5Y) | 1:57 | 2023-03-15 |  |
+| [After The Wave](https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Catch The Wave](https://open.spotify.com/album/2CxNHUHV4b6Isq3vuwlx5Y) | 1:57 | 2023-03-15 | 2023-04-11 |
 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 | 2023-02-16 |
 | [Aguachile](https://open.spotify.com/track/5jWvAfgvIjfM3gD247auvg) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 3:56 | 2022-06-29 | 2022-08-25 |
 | [AHBC](https://open.spotify.com/track/054wVabhZUeyOaydeHtHAA) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Path Integral VI \- 3](https://open.spotify.com/album/5Y3UqjtTt3gAYq8aPg93Q1) | 6:47 | 2022-09-21 | 2022-09-28 |
@@ -1266,6 +1266,7 @@
 | [Within the Billow I](https://open.spotify.com/track/2XwMV1rdq0ALG4IyVzEbPP) | [Mat Ball](https://open.spotify.com/artist/37sVnr60IWD9uUaPolp5pL) | [Amplified Guitar](https://open.spotify.com/album/4RQbG9CSfvFr4AC3IgJqLE) | 5:20 | 2022-07-06 | 2022-09-01 |
 | [Wole](https://open.spotify.com/track/6vdav9M1Ylbowzt1qq0VQI) | [Emeka Ogboh](https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7) | [Wole](https://open.spotify.com/album/3PQxGxEX19pJEWh3qf8Kd2) | 5:20 | 2022-07-27 | 2022-09-01 |
 | [Wolf Moon](https://open.spotify.com/track/0t4Hy73NILLSofoUEEWd9V) | [Erik Griswold](https://open.spotify.com/artist/0P4UdF79vXk4SlpdFPpbJX) | [Wolf Moon](https://open.spotify.com/album/3htM9CsJLk6QAUWmL6h60P) | 40:41 | 2021-09-02 | 2022-01-15 |
+| [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-10 |  |
 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 | 2022-07-20 | 2023-01-12 |
 | [Woodshadows](https://open.spotify.com/track/5bjgDgSRHDYarbKTxOljwb) | [Georgie McVicar](https://open.spotify.com/artist/6hoJhDD6VpRlxT83HfxNso) | [Tiny Grassland](https://open.spotify.com/album/5dzynzNOkAaOPCGQ0p4OFy) | 3:25 | 2021-08-26 | 2021-12-02 |
 | [Words From The Underground](https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM) | [Electric Party](https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy) | [Play](https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7) | 2:18 | 2021-06-04 | 2021-08-11 |

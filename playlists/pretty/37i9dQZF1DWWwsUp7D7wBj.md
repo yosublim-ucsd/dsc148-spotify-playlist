@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain](/playlists/plain/37i9dQZF1DWWwsUp7D7wBj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWwsUp7D7wBj)
 
-### [cultura.com](https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj)
+### [cultura.now](https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj)
 
 > Todo lo que es cool en el mundo del internet\. ¿Nos invitan a la boda please?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,809 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 | 24 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
 | 25 | [2/Catorce](https://open.spotify.com/track/78QcVmzxS0wIwuC2rpAauI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:25 |
 
-Snapshot ID: `MTY4MDE5MDQ3NSwwMDAwMDAwMDdkYTI1YTdiOTFmODUyMjc3Y2YyOTQ4NjFjZWRhMzMy`
+Snapshot ID: `MTY4MTE1ODAwNywwMDAwMDAwMGQzNDU4NWUwYTAwNjk2NDgzMDBjNjUzMzI5ZmEwZjhm`

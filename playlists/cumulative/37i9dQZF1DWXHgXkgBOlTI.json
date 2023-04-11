@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 301400,
       "name": "relive",
       "url": "https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid"
@@ -956,6 +956,24 @@
       "duration_ms": 298920,
       "name": "\u671d\u713c\u3051 - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982",
       "url": "https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO"
+    },
+    {
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u67af\u8449 ~Autumn Leaves~ (jazz standard)",
+      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
     },
     {
       "album": {

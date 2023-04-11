@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47wsEQpT8zp.md) - [plain]
 
 > Live Act, singer and songwriter <a href="spotify:artist:2I4hRNCYkPKJQlkoEZKjYx ">Monolink</a> shares an emotive mix filled with intricate melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,531 likes - 10 songs - 59 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,545 likes - 10 songs - 59 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

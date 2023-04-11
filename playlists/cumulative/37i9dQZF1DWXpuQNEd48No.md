@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Pranjal Dahiya & KHATRI
 
-54 songs - 3 hr 6 min
+55 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Baat Kaam Ki](https://open.spotify.com/track/2NYxPgTsdLGvB2gX7B4xhc) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Baat Kaam Ki](https://open.spotify.com/album/0jvPFGl6X2BldSiCtzhUgg) | 2:13 | 2023-03-28 |  |
 | [Badmos Chora](https://open.spotify.com/track/1J8WBxWTvYlmFSoQyQWoN9) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:24 | 2023-03-28 |  |
 | [Black life](https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Black life](https://open.spotify.com/album/2HJKafEE448WWI7E129xpv) | 3:05 | 2023-03-28 |  |
-| [Brownie](https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Brownie](https://open.spotify.com/album/4wW8unHhh5oJsGkjKAm2RV) | 2:44 | 2023-03-28 |  |
+| [Brownie](https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Brownie](https://open.spotify.com/album/4wW8unHhh5oJsGkjKAm2RV) | 2:44 | 2023-03-28 | 2023-04-11 |
 | [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 |  |
+| [Dad](https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dad](https://open.spotify.com/album/1a4MJT6IU0NeZkv6znNTM3) | 3:06 | 2023-04-10 |  |
 | [Day By Day](https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B) | [Vikash Kashyap](https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf), [Ranjan Assaniya](https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4) | [Day By Day](https://open.spotify.com/album/5SzLToKl72b5GspUW086PG) | 4:27 | 2023-04-03 |  |
 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 | 2023-03-28 |  |
 | [DJ Baajan De](https://open.spotify.com/track/3owDxCaFzjXl3blZQ6EonS) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [DJ Sheizwood](https://open.spotify.com/artist/11PdcXwGoRPtYOXNETRC0x), [Simaran Kaur](https://open.spotify.com/artist/2dTGtc9FpbXHMuAw95F6sy) | [DJ Baajan De](https://open.spotify.com/album/4UQGppLaW1FDAYnPSW7d5n) | 3:05 | 2023-03-28 |  |

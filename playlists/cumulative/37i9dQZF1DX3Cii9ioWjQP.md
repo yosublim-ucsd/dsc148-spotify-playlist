@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
 
-140 songs - 10 hr 11 min
+144 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,13 @@
 | [Challenge](https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR) | 5:33 | 2022-11-23 |  |
 | [Chameleon](https://open.spotify.com/track/2kU8bM9K04n0O3BsJQfeyp) | [Earthquake](https://open.spotify.com/artist/4iMP4w0bfWdZhhdq5YAO4a) | [Various](https://open.spotify.com/album/2eo0dVmhov45ga2tYGbFMF) | 3:45 | 2022-05-18 | 2023-02-08 |
 | [Chance](https://open.spotify.com/track/5LyeN1d5TUIeWMlN0Citb8) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_259](https://open.spotify.com/album/1tofyoZ7IKDYgBqclXpoUD) | 2:25 | 2022-05-03 | 2022-05-19 |
+| [CHANSON TRISTE](https://open.spotify.com/track/4QDOaEC18YN6l2BOFKo463) | [Horan](https://open.spotify.com/artist/6458zvXJjZ1ukrrb6fJdqd) | [OASIS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/71nxgPyEYPi8hTK3kTRQxo) | 3:45 | 2023-04-10 |  |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-09 |  |
 | [Chilly Kiss](https://open.spotify.com/track/3ES2l6h6O2RaFqUOw7eDGs) | [HWANG SEOK JEONG](https://open.spotify.com/artist/1yIGqf4IoWDREw9X5tXfQX), [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR) | [Chilly Kiss](https://open.spotify.com/album/1mzyuLs6LqJghXIzVecqQF) | 4:07 | 2022-05-03 | 2022-06-10 |
 | [Churros](https://open.spotify.com/track/2qXbzLmJqrxYjur5BJGq1c) | [ROCHAE](https://open.spotify.com/artist/7ePNpv0R56WS6h1Ngt2UvJ) | [Churro](https://open.spotify.com/album/1tqSVy3r8s8Vu1XsAfn9Cz) | 2:02 | 2023-02-07 |  |
 | [Classic Coffee](https://open.spotify.com/track/3VjfNMeLYZoiqm5cVmFm80) | [김병근](https://open.spotify.com/artist/4dQItXdxCzhuELxhwYZWFi), [Jenny Yun](https://open.spotify.com/artist/7l4cRxyp8p5iCyr0AwvfWu) | [Raffine Gold](https://open.spotify.com/album/7zmb7Ih17LqGgHlBLiXSkO) | 3:24 | 2022-05-18 |  |
 | [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 | 2022-05-03 |  |
+| [Concentration](https://open.spotify.com/track/0MwGGgsZInEvo9OlltxXqs) | [Hye Seong](https://open.spotify.com/artist/5YHzTjo4SJzAq43agV2HfW) | [Everyday Chatter](https://open.spotify.com/album/4BcFeuz4AUOacPlIXawARW) | 3:10 | 2023-04-10 |  |
 | [Consolation](https://open.spotify.com/track/3tmVBp6lvFCSzNh9CLBADU) | [Jun Kim](https://open.spotify.com/artist/2UcsE12d1cAU1UeiOn3eod), [이한얼](https://open.spotify.com/artist/4UvIkwJwfEsBhBpB8UtuVr) | [위로](https://open.spotify.com/album/5EqOrZz4PpnXkE9s43uWPs) | 9:39 | 2022-05-03 | 2022-07-29 |
 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 | 2022-07-08 |  |
 | [COSMONAUT](https://open.spotify.com/track/2UHzboHhUa6xBGtJBZAKRG) | [Sun Kim](https://open.spotify.com/artist/4J0PZFEnEr8Yn6482aEcWY) | [COSMONAUT](https://open.spotify.com/album/5ut5JBpa629u5pRsAHKoDJ) | 5:11 | 2022-05-03 | 2022-05-19 |
@@ -46,6 +48,7 @@
 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 | 2022-05-18 |  |
 | [Escape from the city](https://open.spotify.com/track/1FGtv4md7PpOofoNF8V6pl) | [DOPEY](https://open.spotify.com/artist/1CXyr1fzlKCTjAVfvNGJgM) | [Escape from the city](https://open.spotify.com/album/6SfNyrW3v25cRcdDm7GLks) | 3:57 | 2022-11-11 |  |
 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 | 2023-02-07 |  |
+| [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 |  |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 |  |
 | [Finale \(feat\. Kihun Park\)](https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21) | [Lee ye in](https://open.spotify.com/artist/0Srx88PZKu7nBtKNp1Bv0X), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Finale](https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb) | 2:15 | 2022-05-03 | 2022-05-19 |
 | [FOGGY PLATFORM](https://open.spotify.com/track/1v4jgYpz0sdjbVvOP6fZCW) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [MUSIC FOR WAITING ROOMS Vol.1](https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB) | 4:36 | 2022-11-11 | 2023-02-08 |
@@ -88,6 +91,7 @@
 | [Petrichor \- Nature](https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y) | [Ham Moon](https://open.spotify.com/artist/0dtGNROSjYX3vMQO0eAKCV) | [Petrichor \(Nature\)](https://open.spotify.com/album/4CGwxkmRPClHlBhiinoLOy) | 4:15 | 2022-11-11 |  |
 | [Pleasant Picnic](https://open.spotify.com/track/0E8wShlzhdYlk6rsjPVp8y) | [Gold Groove](https://open.spotify.com/artist/58wAApDuSJLljGr3IIgdlQ) | [Pleasant Picnic](https://open.spotify.com/album/1baRvDw2Ez8iq02DuFIOJo) | 2:28 | 2022-11-11 | 2023-02-08 |
 | [Pray On A Rope](https://open.spotify.com/track/2JPJlvi9ARshM4U6dwmHF2) | [Phil Yoon](https://open.spotify.com/artist/73EDYkCTptRHqBov4HEnX3) | [Pray On A Rope](https://open.spotify.com/album/0rpDRzu9q0XRYVUOJQ2k14) | 8:54 | 2022-05-03 |  |
+| [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 | 2023-04-10 |  |
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 |  |
 | [Pronounce the Benediction + Messengers](https://open.spotify.com/track/45kvtggm9KeRXjovIvDLbS) | [Kim Seong Hwa Quartet](https://open.spotify.com/artist/5UvwNchXt1PcNIK7nKSe0Y) | [Individual Space Vol.4](https://open.spotify.com/album/3E5HGHHIDP8MC2oBDZrgft) | 14:01 | 2022-05-03 | 2022-05-19 |
 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 | 2022-05-03 |  |

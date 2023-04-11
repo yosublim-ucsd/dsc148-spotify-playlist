@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5929\)
+## Playlists \(5931\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -4254,6 +4254,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Texteo de Medianoche](/playlists/pretty/37i9dQZF1DXbaeBomo9L1a.md)
 - [Tezeta](/playlists/pretty/37i9dQZF1DXcadB69DKC8c.md)
 - [Thankful](/playlists/pretty/37i9dQZF1DX09buIVUF0Gg.md)
+- [Thanksgiving Dinner](/playlists/pretty/37i9dQZF1DXdEslczDHKhX.md)
 - [Thara Local](/playlists/pretty/37i9dQZF1DXbVipT9CLvYD.md)
 - [That Party Feeling](/playlists/pretty/37i9dQZF1DX5GlvQwPgTc8.md)
 - [That Time I Got Reincarnated as a Slime 転生したらスライムだった件](/playlists/pretty/37i9dQZF1DX1PCNEM81iS6.md)
@@ -4620,6 +4621,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Héctor Lavoe](/playlists/pretty/37i9dQZF1DZ06evO4nm0YU.md)
 - [This Is ITZY](/playlists/pretty/37i9dQZF1DX7ZHn4SQHDIn.md)
 - [This Is IU](/playlists/pretty/37i9dQZF1DX0y9CwEpdGpz.md)
+- [This Is IVE](/playlists/pretty/37i9dQZF1DX6pLfLmbGM3d.md)
 - [This Is Iggy Pop](/playlists/pretty/37i9dQZF1DZ06evO1LDSLK.md)
 - [This Is Imagine Dragons](/playlists/pretty/37i9dQZF1DX9tzt7g58Xlh.md)
 - [This Is Incubus](/playlists/pretty/37i9dQZF1DWUYsleI0H271.md)
@@ -5671,7 +5673,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [creamy](/playlists/pretty/37i9dQZF1DXdgz8ZB7c2CP.md)
 - [creme](/playlists/pretty/37i9dQZF1DX7f8PyAQL3rz.md)
 - [crying on the dance floor](/playlists/pretty/37i9dQZF1DXayr1BrK1OaY.md)
-- [cultura.com](/playlists/pretty/37i9dQZF1DWWwsUp7D7wBj.md)
+- [cultura.now](/playlists/pretty/37i9dQZF1DWWwsUp7D7wBj.md)
 - [cursi](/playlists/pretty/37i9dQZF1DX7MuRzJ3KiMb.md)
 - [d r e a m l i k e ㄲ ㅜ ㅁ](/playlists/pretty/37i9dQZF1DX8Z20Qthwz58.md)
 - [dameeeela's track IDs](/playlists/pretty/37i9dQZF1DX6jWqyNRNjZV.md)

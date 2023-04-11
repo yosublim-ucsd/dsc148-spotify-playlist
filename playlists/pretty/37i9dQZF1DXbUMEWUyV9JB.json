@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules.",
-  "num_followers": 242829,
+  "num_followers": 242884,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjEyOCwwMDAwMDAwMGMyZjNmMWQ1NDA1OGM5OGUzOGI4ZTMyNWI1ODJmMWEx",
+  "snapshot_id": "MTY3MzI0NjEyOCwwMDAwMDAwMDI1NmJlOWJkNDZkMDVjN2FhZjJmODg1YWQyMmZjMTFk",
   "tracks": [
     {
       "added_at": "2023-01-09 06:35:28",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 211813,
       "name": "Muchachita Consentida",
       "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 184733,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Mi Ni\u00f1a Mujer",
+      "url": "https://open.spotify.com/track/5T01Xvq4sH0rakGkI1T5O5"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Mi Ni\u00f1a Mujer",
-      "url": "https://open.spotify.com/track/5T01Xvq4sH0rakGkI1T5O5"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Cumbia Pa' seguir Bailando",
         "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Los Mejores Hits del Ano",
+        "url": "https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fragancia",
+          "url": "https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -795,22 +811,6 @@
       "duration_ms": 219893,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Los Mejores Hits del Ano",
-        "url": "https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fragancia",
-          "url": "https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/2v3ywlWkUau8iq77G5rdz9"
+      },
+      "artists": [
+        {
+          "name": "Tiberio Y Sus Gatos Negros",
+          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Oye Traicionera",
+      "url": "https://open.spotify.com/track/5DLCicaLhdpkDYCMmhy0pT"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Para Que La Cu\u00f1a Apriete",
         "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 270506,
       "name": "Las Mujers No Se Acaban",
       "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/2v3ywlWkUau8iq77G5rdz9"
-      },
-      "artists": [
-        {
-          "name": "Tiberio Y Sus Gatos Negros",
-          "url": "https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Oye Traicionera",
-      "url": "https://open.spotify.com/track/5DLCicaLhdpkDYCMmhy0pT"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
         "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 234370,
       "name": "Te Buscare",
       "url": "https://open.spotify.com/track/67LdkJPn9mPKkJ3FFI3eDO"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/50h6l1JyfIScae2246HXru"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/50h6l1JyfIScae2246HXru"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 211506,
       "name": "Mami (Angel De Paz)",
       "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Pensando En Ella",
-        "url": "https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "El Mu\u00f1eco",
-      "url": "https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "El Baile De La Ranita",
-        "url": "https://open.spotify.com/album/68dhZH51l5WR7jKpiwTO5q"
+        "name": "Pensando En Ella",
+        "url": "https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
         }
       ],
-      "duration_ms": 159706,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
+      "duration_ms": 162013,
+      "name": "El Mu\u00f1eco",
+      "url": "https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+        "name": "El Baile De La Ranita",
+        "url": "https://open.spotify.com/album/68dhZH51l5WR7jKpiwTO5q"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+      "duration_ms": 159706,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1387,6 +1371,22 @@
       "duration_ms": 273893,
       "name": "Mentirosa (Eres Mentirosa)",
       "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 261653,
-      "name": "He Cre\u00eddo",
-      "url": "https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Supermerk2 & Meta Guacha: 2x1",
         "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 244653,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/43a4fBKL1HlRPCYOsZdh3j"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 261653,
+      "name": "He Cre\u00eddo",
+      "url": "https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Espacial",
-        "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Espacial",
-      "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Estamos Locos",
         "url": "https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 191333,
       "name": "La Inconforme - Sonidera",
       "url": "https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Espacial",
+        "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Espacial",
+      "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
     },
     {
       "added_at": "2023-01-09 06:35:28",

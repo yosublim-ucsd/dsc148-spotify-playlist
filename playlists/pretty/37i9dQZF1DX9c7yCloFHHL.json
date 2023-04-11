@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Ryuichi Sakamoto on cover.",
-  "num_followers": 146858,
+  "num_followers": 147055,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyNTY2MCwwMDAwMDAwMDUwNDcxNTMwMzgxNGNmMzdkMTM4ZTgwMzk1NGQ0YjIw",
+  "snapshot_id": "MTY4MDgyNTY2MCwwMDAwMDAwMDI2MjEyMzdjODE2MDI1NjYwMzRiYmM4MzMyYmFlZDU4",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -643,22 +643,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 80427,
-      "name": "Brush",
-      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -695,6 +691,26 @@
       "duration_ms": 263580,
       "name": "LIFE, LIFE",
       "url": "https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 80427,
+      "name": "Brush",
+      "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7pBF8GrCJah3ZXbVeTm5e1"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 124615,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -919,6 +935,34 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "duration_ms": 413241,
+      "name": "Psychogeography",
+      "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "taiyla",
         "url": "https://open.spotify.com/album/6dfLLisBaTEaAGPm41pQBz"
       },
@@ -967,34 +1011,6 @@
       "duration_ms": 208625,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Voices 2",
-        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Mari Samuelsen",
-          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
-        },
-        {
-          "name": "Ian Burdge",
-          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        }
-      ],
-      "duration_ms": 413241,
-      "name": "Psychogeography",
-      "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1191,6 +1207,26 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "i don't feel anything",
+        "url": "https://open.spotify.com/album/7DJRVb8W6tIQyOEk6RDJwa"
+      },
+      "artists": [
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "duration_ms": 126054,
+      "name": "i don't feel anything",
+      "url": "https://open.spotify.com/track/6z3pClt2wdjru56KX5CqeE"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1211,22 +1247,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Recovered",
-        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 189908,
-      "name": "Recovered",
-      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Wintergreen",
         "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
       },
@@ -1239,6 +1259,22 @@
       "duration_ms": 224145,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Recovered",
+        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 189908,
+      "name": "Recovered",
+      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1259,6 +1295,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1275,18 +1327,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+        "name": "Receiving",
+        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
         }
       ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+      "duration_ms": 427266,
+      "name": "Receiving",
+      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1323,22 +1379,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Receiving",
-        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
         },
         {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "dj tapenostalgia",
+          "url": "https://open.spotify.com/artist/0ZfpKzzejoyTvIhegXwrEq"
         }
       ],
-      "duration_ms": 427266,
-      "name": "Receiving",
-      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
+      "duration_ms": 138818,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1371,26 +1427,6 @@
       "duration_ms": 124733,
       "name": "Sparrow Arc Tall",
       "url": "https://open.spotify.com/track/4sneL5m6bkkH0hVUASZ0t6"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Snowfall",
-        "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aeon Project",
-          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
-        },
-        {
-          "name": "dj tapenostalgia",
-          "url": "https://open.spotify.com/artist/0ZfpKzzejoyTvIhegXwrEq"
-        }
-      ],
-      "duration_ms": 138818,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1431,6 +1467,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "VIM",
         "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
       },
@@ -1443,22 +1495,6 @@
       "duration_ms": 207756,
       "name": "VIM",
       "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "8720923169722",
-        "url": "https://open.spotify.com/album/4jWqGt20WgUKgnSaw2nFpg"
-      },
-      "artists": [
-        {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Lara's Heart",
-      "url": "https://open.spotify.com/track/163GmaZ069Ev9lr9KS7J45"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1479,22 +1515,6 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1551,6 +1571,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "8720923169722",
+        "url": "https://open.spotify.com/album/4jWqGt20WgUKgnSaw2nFpg"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Lara's Heart",
+      "url": "https://open.spotify.com/track/163GmaZ069Ev9lr9KS7J45"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Myfanwy (Ambient Mix)",
         "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
       },
@@ -1603,26 +1639,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "i don't feel anything",
-        "url": "https://open.spotify.com/album/7DJRVb8W6tIQyOEk6RDJwa"
-      },
-      "artists": [
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        },
-        {
-          "name": "$werve",
-          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
-        }
-      ],
-      "duration_ms": 126054,
-      "name": "i don't feel anything",
-      "url": "https://open.spotify.com/track/6z3pClt2wdjru56KX5CqeE"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Lune",
         "url": "https://open.spotify.com/album/6TCySp7rRqQsbddpPdIzD6"
       },
@@ -1635,6 +1651,42 @@
       "duration_ms": 132000,
       "name": "Lune",
       "url": "https://open.spotify.com/track/04HvHzlP5NZPNHL41otVoW"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Caroline Shaw: Orange",
+        "url": "https://open.spotify.com/album/5d0tz2baP5WGhMzZvONcgU"
+      },
+      "artists": [
+        {
+          "name": "Caroline Shaw",
+          "url": "https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C"
+        },
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        }
+      ],
+      "duration_ms": 117749,
+      "name": "Plan & Elevation: IV. The Orangery",
+      "url": "https://open.spotify.com/track/2dMkqOH8CjJGwDcyLcNuZI"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1663,22 +1715,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Follower",
         "url": "https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya"
       },
@@ -1703,42 +1739,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "some kind of peace",
-        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 253476,
-      "name": "Still / Sound",
-      "url": "https://open.spotify.com/track/1rJFEKA0m4aUeQNK9378uo"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Caroline Shaw: Orange",
-        "url": "https://open.spotify.com/album/5d0tz2baP5WGhMzZvONcgU"
-      },
-      "artists": [
-        {
-          "name": "Caroline Shaw",
-          "url": "https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C"
-        },
-        {
-          "name": "Attacca Quartet",
-          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
-        }
-      ],
-      "duration_ms": 117749,
-      "name": "Plan & Elevation: IV. The Orangery",
-      "url": "https://open.spotify.com/track/2dMkqOH8CjJGwDcyLcNuZI"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Who Tends a Garden",
         "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
       },
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Forget The Curse",
-        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+        "name": "some kind of peace",
+        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
       "artists": [
         {
-          "name": "Troth",
-          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 379573,
-      "name": "Phare",
-      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+      "duration_ms": 253476,
+      "name": "Still / Sound",
+      "url": "https://open.spotify.com/track/1rJFEKA0m4aUeQNK9378uo"
     }
   ],
   "unique_name": "Ambiente",

@@ -9571,6 +9571,24 @@
     },
     {
       "album": {
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247471,
+      "name": "Slugs of Love",
+      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
+    },
+    {
+      "album": {
         "name": "Slutet av dagen",
         "url": "https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q"
       },
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 207460,
       "name": "YES",
       "url": "https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY"

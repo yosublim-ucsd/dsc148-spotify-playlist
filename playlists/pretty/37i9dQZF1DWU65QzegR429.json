@@ -1,15 +1,15 @@
 {
   "description": "Latin music making waves. Cover: Myke Towers by Ian Woods",
-  "num_followers": 7385,
+  "num_followers": 7396,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0ODA4NCwwMDAwMDAwMDY2ZDM3NmJhZjY1NTY0MDkwYjAyMDNjOWYwZjljNWYw",
+  "snapshot_id": "MTY4MDU0ODA4NCwwMDAwMDAwMDc3ODI4Y2Y2ZGFiYzI1MTNkNDE5MmQ3YzdjZmRjMWZi",
   "tracks": [
     {
-      "added_at": "2023-04-10 00:58:29",
+      "added_at": "2023-04-11 00:20:38",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-02-27 18:10:09",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+      "duration_ms": 141335,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
     },
     {
       "added_at": "2023-02-27 18:10:09",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-27 18:10:09",
       "album": {
-        "name": "KI-KI",
-        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "KI-KI",
-      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
-    },
-    {
-      "added_at": "2023-02-27 18:10:09",
-      "album": {
         "name": "No Me Rajo",
         "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
       },
@@ -243,22 +227,6 @@
       "duration_ms": 165506,
       "name": "No Me Rajo",
       "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
-    },
-    {
-      "added_at": "2023-04-10 00:58:29",
-      "album": {
-        "name": "Tibro",
-        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
     },
     {
       "added_at": "2023-02-27 18:10:09",
@@ -281,6 +249,22 @@
       "url": "https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS"
     },
     {
+      "added_at": "2023-04-11 00:20:38",
+      "album": {
+        "name": "Tibro",
+        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
+    },
+    {
       "added_at": "2023-02-27 18:10:09",
       "album": {
         "name": "Booty Puty",
@@ -295,6 +279,22 @@
       "duration_ms": 176991,
       "name": "Booty Puty",
       "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
+    },
+    {
+      "added_at": "2023-02-27 18:10:09",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-02-27 18:10:09",
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ"
     },
     {
-      "added_at": "2023-04-10 00:58:29",
+      "added_at": "2023-04-11 00:20:38",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-02-27 18:10:09",
       "album": {
+        "name": "Saque Otro Tema",
+        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Saque Otro Tema",
+      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
+    },
+    {
+      "added_at": "2023-02-27 18:10:09",
+      "album": {
         "name": "Champion Ninz",
         "url": "https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 139603,
       "name": "Solita",
       "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
-    },
-    {
-      "added_at": "2023-02-27 18:10:09",
-      "album": {
-        "name": "Saque Otro Tema",
-        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Saque Otro Tema",
-      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
     },
     {
       "added_at": "2023-02-27 18:10:09",

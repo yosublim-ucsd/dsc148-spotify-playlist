@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,620 likes - 80 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,693 likes - 80 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 57 | [All Roads Lead To Los Angeles](https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Pursuit of Ends](https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2) | 4:42 |
 | 58 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
 | 59 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
-| 60 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
-| 61 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
+| 60 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
+| 61 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
 | 62 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
 | 63 | [1 Year After](https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/0YXx0QiakZPw1TsJ255jIK) | 9:39 |
 | 64 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 |
 | 80 | [Catch me if you can!](https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB), [Markus Eermann](https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Vid Šketa](https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd) | [Catch me if you can!](https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF) | 3:58 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDYyZTA1NWUzZDYzZjllYjI4ZTQzYzdiMWJhODcxODFl`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGRkNTZhN2U0YzQ0NmZhZjg1MjcxOTc0OTk0NTk3NDIx`

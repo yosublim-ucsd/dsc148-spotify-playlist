@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Rise Of The Northstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,451 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,565 likes - 56 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,27 +41,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 31 | [Krigsherren](https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Krigsherren](https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl) | 3:29 |
 | 32 | [Teeth](https://open.spotify.com/track/76cWJ9JeFGZXtEKYksh73r) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Teeth](https://open.spotify.com/album/0hDXJBxAaSS2RF0ckQjoN8) | 3:07 |
 | 33 | [Don't Talk to Strangers](https://open.spotify.com/track/4TXXYNUhEcEzZVOBF9DDQP) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [The Dio Album](https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC) | 5:07 |
-| 34 | [Risk Of Rain](https://open.spotify.com/track/154kK9ExAKKAPCfmXIIgTT) | [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [I Saw You Burn](https://open.spotify.com/album/3UBFseLIkkW4IyQu2wU8jK) | 4:29 |
-| 35 | [Corpsepit](https://open.spotify.com/track/5MUE9pf2bGqsXDJyTHRdsE) | [Extermination Dismemberment](https://open.spotify.com/artist/2kmN6qYkywddUoh7JIUdZi) | [Corpsepit](https://open.spotify.com/album/5X9iba7dVJUzoRHYZTtt9f) | 4:39 |
-| 36 | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 |
+| 34 | [Corpsepit](https://open.spotify.com/track/5MUE9pf2bGqsXDJyTHRdsE) | [Extermination Dismemberment](https://open.spotify.com/artist/2kmN6qYkywddUoh7JIUdZi) | [Corpsepit](https://open.spotify.com/album/5X9iba7dVJUzoRHYZTtt9f) | 4:39 |
+| 35 | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 |
+| 36 | [Risk Of Rain](https://open.spotify.com/track/154kK9ExAKKAPCfmXIIgTT) | [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [I Saw You Burn](https://open.spotify.com/album/3UBFseLIkkW4IyQu2wU8jK) | 4:29 |
 | 37 | [LETHAL](https://open.spotify.com/track/6bmoA8Bhlb8E80T8HSInoK) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [LETHAL](https://open.spotify.com/album/5WDuzbt2bFqYMeerkVhdjF) | 2:29 |
-| 38 | [The Gleaners](https://open.spotify.com/track/5shb9B6WvysselFAH4OyYp) | [Lo!](https://open.spotify.com/artist/7uvIq9N8vyyVdXDIKGSlR1) | [The Gleaners](https://open.spotify.com/album/1Npy2fES6ps2oYJ2Smttu4) | 8:14 |
-| 39 | [Raiment](https://open.spotify.com/track/5SpvohQerkH0G4DQNGqXfF) | [Heathen Foray](https://open.spotify.com/artist/31Tfxkj0HCfFgEjluRPSMi) | [Oathbreaker](https://open.spotify.com/album/6qntrFEthTMNqkLKwnZCQt) | 5:06 |
-| 40 | [11:49 \- Redux](https://open.spotify.com/track/6kBHm6Swln9d83DDaabZn4) | [Aphasia](https://open.spotify.com/artist/62Jg3YvvzQsmfxMjCJX4B5) | [11:49 \(Redux\)](https://open.spotify.com/album/3bGUv9J0c0M3n67TLCkcJf) | 3:19 |
-| 41 | [Ghosts](https://open.spotify.com/track/22WHlbW6i6fYLtB6ULSaln) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [Ghosts](https://open.spotify.com/album/0gH3XTvs8OZiJlijzxktJE) | 3:59 |
-| 42 | [I DON'T FEEL ANYTHING](https://open.spotify.com/track/74TXEREAqJpew12z1Shnin) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [I DON'T FEEL ANYTHING](https://open.spotify.com/album/3eEenA9TeOWrF9FoCwpna2) | 2:58 |
-| 43 | [Hate Me](https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Hate Me](https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M) | 2:11 |
-| 44 | [Tribunal of Penance](https://open.spotify.com/track/1aSM927y9ku2colOrAhSxT) | [Stillbirth](https://open.spotify.com/artist/3zBRwsfsphAy6eNvh2bPiG) | [Homo Deus](https://open.spotify.com/album/62YVWfeH7HVmm0tqGj3DrF) | 4:48 |
-| 45 | [Signs](https://open.spotify.com/track/5CAhkoN79Tz2sISkS4CZjx) | [Cultura Tres](https://open.spotify.com/artist/45fLb3bqmql3U2OrFiJhDU) | [Camino De Brujos](https://open.spotify.com/album/1SNt1pja73gQkNxq4Y00Qj) | 6:32 |
-| 46 | [Which Shall Be The Darkness Of The Heretic](https://open.spotify.com/track/20eI93YfLz0ADyyLMsP7vu) | [Devangelic](https://open.spotify.com/artist/0c91Xi4FCxmA42VdvSxJ52) | [Xul](https://open.spotify.com/album/0EI93Na0jTAqPfYmdMVIjA) | 3:37 |
-| 47 | [Headline](https://open.spotify.com/track/4Vy7F34T82hvY0Og8318V8) | [The Plague](https://open.spotify.com/artist/42Y97qcYTVm3pi9khFxOZa) | [Headline](https://open.spotify.com/album/3y3vtgqq8czsEjKopde8Qx) | 4:33 |
-| 48 | [The One You Feed, Pt\. 2](https://open.spotify.com/track/0a2206a1uQp2RWzwBdwIH6) | [Sunrot](https://open.spotify.com/artist/7c0RYfybXbQZJHzVCMROQR) | [The Unfailing Rope](https://open.spotify.com/album/4O22zDLGblorxZvQQkTmyI) | 3:09 |
-| 49 | [Iron Times](https://open.spotify.com/track/59LP9JdgiR5rkBrP50eUBr) | [Discreation](https://open.spotify.com/artist/25xagvSRS8oQll4KGi1rBV) | [Iron Times](https://open.spotify.com/album/2XTK1X4WR5wCFxOeTqsD6u) | 3:43 |
-| 50 | [To the Gallows](https://open.spotify.com/track/10qJ6NOvGfP0CYMM3X7YYC) | [Healthyliving](https://open.spotify.com/artist/24IZYHIQ6wEszNxO3ZfVQs) | [Songs of Abundance, Psalms of Grief](https://open.spotify.com/album/6EyMStysBSgqs0qs9aiFqC) | 3:15 |
-| 51 | [Fearless](https://open.spotify.com/track/1ZAoLz4lu9vMBHsp2GkWv4) | [Raider](https://open.spotify.com/artist/58IxOcAG2DyT1rHOxdHQyf) | [Trial By Chaos](https://open.spotify.com/album/2NwMfXCA8XSOHyYM8G8QHH) | 5:01 |
-| 52 | [Dragon Heart](https://open.spotify.com/track/6jHHA3hqlLELZ6E5OcFmOb) | [Battle Born](https://open.spotify.com/artist/0JM8io5wCngAiifWS8nhqe) | [Dragon Heart](https://open.spotify.com/album/4syNyX4KZtoZ5R8XlSfnJc) | 3:45 |
-| 53 | [Year of the Guillotine](https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5) | [Year of the Guillotine](https://open.spotify.com/album/0i3G0DRyZVya1t12C0TQXc) | 1:14 |
-| 54 | [Testudines](https://open.spotify.com/track/4TVZNdiR8ilvsezut94wOr) | [Dawn of Ouroboros](https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX) | [Testudines](https://open.spotify.com/album/24CdRMLBHTVyXxV09H9slP) | 4:44 |
-| 55 | [Fever Dreaming](https://open.spotify.com/track/2GaEfhFtqY6V5nDPO8VFU9) | [Dayshifter](https://open.spotify.com/artist/33vC9YrUEMYrX2LukkAZfW) | [Fever Dreaming](https://open.spotify.com/album/54kDuQg6v00FQYRBYIbx8y) | 4:23 |
+| 38 | [Collective Compulsion](https://open.spotify.com/track/4wfpd4dBOBGM86LJhdgJ8N) | [Mindwar](https://open.spotify.com/artist/1jI098tzUJUKUkHCiyJO5N) | [Collective Compulsion](https://open.spotify.com/album/2kxHyVpM0gwNRnoHSZn12B) | 3:02 |
+| 39 | [The Gleaners](https://open.spotify.com/track/5shb9B6WvysselFAH4OyYp) | [Lo!](https://open.spotify.com/artist/7uvIq9N8vyyVdXDIKGSlR1) | [The Gleaners](https://open.spotify.com/album/1Npy2fES6ps2oYJ2Smttu4) | 8:14 |
+| 40 | [Raiment](https://open.spotify.com/track/5SpvohQerkH0G4DQNGqXfF) | [Heathen Foray](https://open.spotify.com/artist/31Tfxkj0HCfFgEjluRPSMi) | [Oathbreaker](https://open.spotify.com/album/6qntrFEthTMNqkLKwnZCQt) | 5:06 |
+| 41 | [11:49 \- Redux](https://open.spotify.com/track/6kBHm6Swln9d83DDaabZn4) | [Aphasia](https://open.spotify.com/artist/62Jg3YvvzQsmfxMjCJX4B5) | [11:49 \(Redux\)](https://open.spotify.com/album/3bGUv9J0c0M3n67TLCkcJf) | 3:19 |
+| 42 | [Ghosts](https://open.spotify.com/track/22WHlbW6i6fYLtB6ULSaln) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [Ghosts](https://open.spotify.com/album/0gH3XTvs8OZiJlijzxktJE) | 3:59 |
+| 43 | [I DON'T FEEL ANYTHING](https://open.spotify.com/track/74TXEREAqJpew12z1Shnin) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [I DON'T FEEL ANYTHING](https://open.spotify.com/album/3eEenA9TeOWrF9FoCwpna2) | 2:58 |
+| 44 | [Hate Me](https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Hate Me](https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M) | 2:11 |
+| 45 | [Tribunal of Penance](https://open.spotify.com/track/1aSM927y9ku2colOrAhSxT) | [Stillbirth](https://open.spotify.com/artist/3zBRwsfsphAy6eNvh2bPiG) | [Homo Deus](https://open.spotify.com/album/62YVWfeH7HVmm0tqGj3DrF) | 4:48 |
+| 46 | [Signs](https://open.spotify.com/track/5CAhkoN79Tz2sISkS4CZjx) | [Cultura Tres](https://open.spotify.com/artist/45fLb3bqmql3U2OrFiJhDU) | [Camino De Brujos](https://open.spotify.com/album/1SNt1pja73gQkNxq4Y00Qj) | 6:32 |
+| 47 | [Which Shall Be The Darkness Of The Heretic](https://open.spotify.com/track/20eI93YfLz0ADyyLMsP7vu) | [Devangelic](https://open.spotify.com/artist/0c91Xi4FCxmA42VdvSxJ52) | [Xul](https://open.spotify.com/album/0EI93Na0jTAqPfYmdMVIjA) | 3:37 |
+| 48 | [Headline](https://open.spotify.com/track/4Vy7F34T82hvY0Og8318V8) | [The Plague](https://open.spotify.com/artist/42Y97qcYTVm3pi9khFxOZa) | [Headline](https://open.spotify.com/album/3y3vtgqq8czsEjKopde8Qx) | 4:33 |
+| 49 | [The One You Feed, Pt\. 2](https://open.spotify.com/track/0a2206a1uQp2RWzwBdwIH6) | [Sunrot](https://open.spotify.com/artist/7c0RYfybXbQZJHzVCMROQR) | [The Unfailing Rope](https://open.spotify.com/album/4O22zDLGblorxZvQQkTmyI) | 3:09 |
+| 50 | [Iron Times](https://open.spotify.com/track/59LP9JdgiR5rkBrP50eUBr) | [Discreation](https://open.spotify.com/artist/25xagvSRS8oQll4KGi1rBV) | [Iron Times](https://open.spotify.com/album/2XTK1X4WR5wCFxOeTqsD6u) | 3:43 |
+| 51 | [To the Gallows](https://open.spotify.com/track/10qJ6NOvGfP0CYMM3X7YYC) | [Healthyliving](https://open.spotify.com/artist/24IZYHIQ6wEszNxO3ZfVQs) | [Songs of Abundance, Psalms of Grief](https://open.spotify.com/album/6EyMStysBSgqs0qs9aiFqC) | 3:15 |
+| 52 | [Fearless](https://open.spotify.com/track/1ZAoLz4lu9vMBHsp2GkWv4) | [Raider](https://open.spotify.com/artist/58IxOcAG2DyT1rHOxdHQyf) | [Trial By Chaos](https://open.spotify.com/album/2NwMfXCA8XSOHyYM8G8QHH) | 5:01 |
+| 53 | [Dragon Heart](https://open.spotify.com/track/6jHHA3hqlLELZ6E5OcFmOb) | [Battle Born](https://open.spotify.com/artist/0JM8io5wCngAiifWS8nhqe) | [Dragon Heart](https://open.spotify.com/album/4syNyX4KZtoZ5R8XlSfnJc) | 3:45 |
+| 54 | [Year of the Guillotine](https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5) | [Year of the Guillotine](https://open.spotify.com/album/0i3G0DRyZVya1t12C0TQXc) | 1:14 |
+| 55 | [Testudines](https://open.spotify.com/track/4TVZNdiR8ilvsezut94wOr) | [Dawn of Ouroboros](https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX) | [Testudines](https://open.spotify.com/album/24CdRMLBHTVyXxV09H9slP) | 4:44 |
+| 56 | [Fever Dreaming](https://open.spotify.com/track/2GaEfhFtqY6V5nDPO8VFU9) | [Dayshifter](https://open.spotify.com/artist/33vC9YrUEMYrX2LukkAZfW) | [Fever Dreaming](https://open.spotify.com/album/54kDuQg6v00FQYRBYIbx8y) | 4:23 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDA5ZTAxYzY5Y2M0OGI0ZWRiZGMxOTIwOTY2MjZmNzBl`
+Snapshot ID: `MTY4MTEzOTE5OSwwMDAwMDAwMDExZTM1YmQwNDFjMGNkZGUzYzNhMzY2MDI3YzA0MmM0`

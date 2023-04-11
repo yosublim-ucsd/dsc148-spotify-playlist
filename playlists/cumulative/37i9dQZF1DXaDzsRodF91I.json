@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 208618,
       "name": "Hand in My Pocket",
       "url": "https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY"
@@ -3164,6 +3164,24 @@
       "duration_ms": 207424,
       "name": "When the Angels Sing",
       "url": "https://open.spotify.com/track/1EH80N83sFOFhVRleeSoiG"
+    },
+    {
+      "album": {
+        "name": "Don't Mind If We Do",
+        "url": "https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207424,
+      "name": "When The Angels Sing",
+      "url": "https://open.spotify.com/track/5vojzHNDiqeD4l1flkyZxG"
     },
     {
       "album": {

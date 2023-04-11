@@ -804,7 +804,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229859,
-      "name": "At The Hotel (feat. Lil Uzi Vert & Young Jordan)",
+      "name": "At the Hotel (feat. Lil Uzi Vert & Young Jordan)",
       "url": "https://open.spotify.com/track/5RIVAc0J3PAsw4aqkzO7TM"
     },
     {
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Blp Kosher And The Magic Dreidel",
+        "url": "https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126432,
+      "name": "Hanukkahween 2",
+      "url": "https://open.spotify.com/track/0PYTrLhiNlgOaEPDxbwx3j"
+    },
+    {
+      "album": {
         "name": "WAY2GEEKED",
         "url": "https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W"
       },
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 135254,
       "name": "Levels",
       "url": "https://open.spotify.com/track/5CaRC4vLfeUnSdP35GkWPA"

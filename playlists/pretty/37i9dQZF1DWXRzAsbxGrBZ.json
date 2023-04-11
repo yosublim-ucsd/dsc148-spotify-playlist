@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 13039,
+  "num_followers": 13136,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDUxMzU0MjQzZjRmOWRhYWYwNzNkN2RiZTM5NWZiOWQ3",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDM0MDVjN2M4ZDY0YzhjZDhmNDY5YjFjNTAzMGYzNmM1",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -163,30 +163,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Woza Moya",
-        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        }
-      ],
-      "duration_ms": 407142,
-      "name": "Woza Moya",
-      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Back To Front EP",
         "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
       },
@@ -247,6 +223,30 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Woza Moya",
+        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "duration_ms": 407142,
+      "name": "Woza Moya",
+      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Joker EP",
         "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 323245,
       "name": "Joker",
       "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Good Vibes Only E.P",
-        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
-      },
-      "artists": [
-        {
-          "name": "Nastic Groove",
-          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
-        }
-      ],
-      "duration_ms": 353701,
-      "name": "You've Been Missing Me",
-      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -339,6 +339,22 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Good Vibes Only E.P",
+        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
+      },
+      "artists": [
+        {
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+        }
+      ],
+      "duration_ms": 353701,
+      "name": "You've Been Missing Me",
+      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -379,34 +395,26 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
       },
       "artists": [
         {
           "name": "DJ Couza",
           "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
+        },
         {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
         }
       ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -423,6 +431,22 @@
       "duration_ms": 453711,
       "name": "Octave",
       "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -447,26 +471,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
-      },
-      "artists": [
-        {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -487,26 +491,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
       "artists": [
         {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
         },
         {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Dafrotone",
         "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
@@ -695,22 +679,6 @@
       "duration_ms": 453453,
       "name": "Four Lessons",
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "BAUHAUS",
-        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
-      },
-      "artists": [
-        {
-          "name": "TimAdeep",
-          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
-        }
-      ],
-      "duration_ms": 482979,
-      "name": "BAUHAUS",
-      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -735,6 +703,38 @@
       "duration_ms": 413910,
       "name": "Nelisiwe",
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "BAUHAUS",
+        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
+      },
+      "artists": [
+        {
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
+        }
+      ],
+      "duration_ms": 482979,
+      "name": "BAUHAUS",
+      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
-      },
-      "artists": [
-        {
-          "name": "Mizo4Real",
-          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
-        }
-      ],
-      "duration_ms": 527020,
-      "name": "Captured by Mizolution",
-      "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
         "name": "Sentimental Affair",
         "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 431693,
       "name": "Myself & The Dark",
       "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -835,18 +835,34 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "Mizo4Real",
+          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
         }
       ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+      "duration_ms": 527020,
+      "name": "Captured by Mizolution",
+      "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Electronic Deep House King",
+        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
+      },
+      "artists": [
+        {
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+        }
+      ],
+      "duration_ms": 336352,
+      "name": "Electronic Deep House King",
+      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -871,22 +887,6 @@
       "duration_ms": 367124,
       "name": "Dark Snow - Bones Remix",
       "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Electronic Deep House King",
-        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
-      },
-      "artists": [
-        {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
-        }
-      ],
-      "duration_ms": 336352,
-      "name": "Electronic Deep House King",
-      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X"
+        "name": "The Savior",
+        "url": "https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc"
       },
       "artists": [
         {
-          "name": "Mizo4Real",
-          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
         }
       ],
-      "duration_ms": 476630,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
+      "duration_ms": 411127,
+      "name": "The Savior - Original Mix",
+      "url": "https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5"
     },
     {
       "added_at": "2023-03-23 21:59:00",

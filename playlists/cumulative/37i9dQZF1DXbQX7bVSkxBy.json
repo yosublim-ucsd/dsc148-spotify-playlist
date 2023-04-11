@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Soundz of Afrika",
+        "url": "https://open.spotify.com/album/0AVVqqMkcNbWzJN5DxaMaz"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544084,
+      "name": "My Soul Says Yes (Live)",
+      "url": "https://open.spotify.com/track/28XavXJhsBx7nderaFJnDM"
+    },
+    {
+      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 230505,
       "name": "Victory",
       "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"

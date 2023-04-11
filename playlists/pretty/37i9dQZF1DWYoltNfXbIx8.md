@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,711 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,769 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 43 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 |
 | 44 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/5gesUH0sJXw221guYq6dKV) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/2rn3pMVhAcNOxZM4bAZEcq) | 6:34 |
 | 45 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
-| 46 | [Só por Você](https://open.spotify.com/track/6X7vszfSSGPkuW20xKk09A) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:18 |
+| 46 | [Só por Você \- 1999 Remasterizado](https://open.spotify.com/track/0y1Uw9bsg7ToSgY1dWKHkX) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(1999 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:18 |
 | 47 | [No Brooklin](https://open.spotify.com/track/0VlvuqnBF8VRqT4iV1HekA) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:47 |
 | 48 | [Fim de Semana no Parque](https://open.spotify.com/track/6NKchtT70MibwEZfK2ksjl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 7:47 |
 | 49 | [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMGFjZjI2ZjY0MzkwZWM3NDUwMDE2ZTFiYzc1MjFkM2Yx`
+Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMDYyODM3NDQ2MzZmYTFjZTEzZGZiYTY4NmQ2NDdhNjY3`

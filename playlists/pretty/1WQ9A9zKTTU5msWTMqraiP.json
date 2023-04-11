@@ -6,7 +6,7 @@
     "name": "HftzStya",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "MzM3LDBjY2FlZjcyZDYzMjkyNGQ1YmMzZjBjNWQ1ZDgxOWU4MGIyMjU3NGE=",
+  "snapshot_id": "MzM4LGYwYjEyMmM4ZTlmYzgzYjdjYzY4MTM0ZjVmNDhmOGVmMTc1YjkyMTk=",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -4031,6 +4031,26 @@
       "duration_ms": 171013,
       "name": "Sandevistan",
       "url": "https://open.spotify.com/track/2QnppOn5W5eJwRxlBXO71C"
+    },
+    {
+      "added_at": "2023-04-10 13:46:20",
+      "album": {
+        "name": "The Offering",
+        "url": "https://open.spotify.com/album/7DqtShvlb1a0umLYKtDEQB"
+      },
+      "artists": [
+        {
+          "name": "Ov Ruin",
+          "url": "https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm"
+        },
+        {
+          "name": "Blake Mullens of Disembodied Tyrant",
+          "url": "https://open.spotify.com/artist/0t9brZiLxf06bZm752I2Pj"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "The Offering",
+      "url": "https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc"
     }
   ],
   "unique_name": "Deathcore (2)",

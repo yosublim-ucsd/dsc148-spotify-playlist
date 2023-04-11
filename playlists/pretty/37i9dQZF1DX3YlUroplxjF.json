@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 449923,
+  "num_followers": 449964,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMDE3MmFlMmMyYjhiYjRhNDYxNDBmMDNkODZhMmMzYjUw",
+  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMGU2YzQ0ZmU2YmFkM2Y2ZGM2N2ZlYzc4NWFmNjI1M2Jl",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 213851,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -223,22 +239,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Resentment",
-        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -275,18 +291,50 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Finding God Before God Finds Me (Deluxe)",
-        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 213851,
-      "name": "Never Know",
-      "url": "https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU"
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Platypus Boys",
+        "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
+      },
+      "artists": [
+        {
+          "name": "Combos",
+          "url": "https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Platypus Boys",
+      "url": "https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -311,38 +359,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Platypus Boys",
-        "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
-      },
-      "artists": [
-        {
-          "name": "Combos",
-          "url": "https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Platypus Boys",
-      "url": "https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -359,6 +375,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Finding God Before God Finds Me (Deluxe)",
+        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 261398,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "when we were young",
         "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
       },
@@ -371,22 +403,6 @@
       "duration_ms": 193886,
       "name": "when we were young",
       "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -419,22 +435,6 @@
       "duration_ms": 200384,
       "name": "BLURRY (out of place)",
       "url": "https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Finding God Before God Finds Me (Deluxe)",
-        "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 261398,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Low Budget Horror",
         "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 181631,
       "name": "Low Budget Horror",
       "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "FTS (KYS)",
-        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "wonderful life (feat. Dani Filth)",
         "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Evil Finds Light",
+        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Brutalism",
-        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Before I Cave In",
         "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
       },
@@ -1175,34 +1159,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Evil Finds Light",
-        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
       },
       "artists": [
         {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 127933,
-      "name": "Evil Finds Light",
-      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1223,6 +1191,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Devastation",
         "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 221748,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "FTS (KYS)",
+        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Gates of Horn",
-        "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
-      },
-      "artists": [
-        {
-          "name": "Jesus Piece",
-          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
-        }
-      ],
-      "duration_ms": 137796,
-      "name": "Gates of Horn",
-      "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 192504,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Gates of Horn",
+        "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
+      },
+      "artists": [
+        {
+          "name": "Jesus Piece",
+          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Gates of Horn",
+      "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Crown Shyness",
-        "url": "https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW"
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
       "artists": [
         {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 205133,
-      "name": "Shade",
-      "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     }
   ],
   "unique_name": "Crash Course",

@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-103 songs - 9 hr 55 min
+104 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [Sr\. Tempo Bom](https://open.spotify.com/track/6vbN5VPXXh2Co1rA9wEJAw) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 4:42 | 2022-02-25 |  |
 | [Sr\. Tempo Bom](https://open.spotify.com/track/5QHmlQiT4VUz0w5jjMQwGy) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima & Ieda Hills](https://open.spotify.com/artist/3K8B64cKUgTjV7Q7QPA7ZS) | [Preste Atenção](https://open.spotify.com/album/3cwZOIV5bkTrWG8Huzj1MV) | 4:42 | 2022-02-25 | 2022-07-29 |
 | [Só Deus Pode Me Julgar](https://open.spotify.com/track/6qssC6tXnAbbm01ZRSCJel) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 6:56 | 2022-02-25 |  |
-| [Só por Você](https://open.spotify.com/track/6X7vszfSSGPkuW20xKk09A) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:18 | 2022-02-25 |  |
+| [Só por Você](https://open.spotify.com/track/6X7vszfSSGPkuW20xKk09A) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:18 | 2022-02-25 | 2023-04-11 |
 | [Só por Você](https://open.spotify.com/track/3Xpwp14Xqhwh7F5wwimrJ8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:19 | 2022-02-25 | 2022-07-29 |
+| [Só por Você \- 1999 Remasterizado](https://open.spotify.com/track/0y1Uw9bsg7ToSgY1dWKHkX) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(1999 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:18 | 2022-12-02 |  |
 | [Só Que é Louco](https://open.spotify.com/track/3LsMUTCs1m6AUGxohkhQil) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/3WlEvfTC8X2VBd8cO5ue3i) | 4:57 | 2022-02-25 | 2022-07-29 |
 | [Só Quem É Louco](https://open.spotify.com/track/78NAfjEvh6P8TVRzTty98M) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/5VgX0CKs44YLtzDFrCuMdE) | 4:57 | 2022-02-25 |  |
 | [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 | 2022-02-25 |  |

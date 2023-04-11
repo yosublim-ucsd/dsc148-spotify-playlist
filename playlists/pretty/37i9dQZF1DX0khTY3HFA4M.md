@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,007 likes - 502 songs - 19 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,160 likes - 502 songs - 19 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -449,7 +449,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 439 | [Between The Lines](https://open.spotify.com/track/0xu4nHvp3S4wVFc685Z9EY) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Between The Lines](https://open.spotify.com/album/6cG45DQCdR1QBumoTWSkDf) | 2:02 |
 | 440 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 |
 | 441 | [Banzai](https://open.spotify.com/track/17vSg7KjpV5vHRYqlMcft7) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 4:35 |
-| 442 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 |
+| 442 | [Alfredo](https://open.spotify.com/track/6YlmEmmOqSzZ5Q69yCXMsn) | [lloyd og](https://open.spotify.com/artist/6wCwzQplaGnUnTxgioKwr6) | [Alfredo](https://open.spotify.com/album/2niP9abC7F8vDdnC0qgWHm) | 2:30 |
 | 443 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 |
 | 444 | [cool beans](https://open.spotify.com/track/3tFHIsExVsSnj7VecObIsg) | [yamarcus](https://open.spotify.com/artist/3F0CvVFpoFkcYZJxZW4fLp) | [cool beans](https://open.spotify.com/album/2S2IV1dxQZReJAYAYkfuXE) | 2:35 |
 | 445 | [lowrider](https://open.spotify.com/track/1J66fqwWZcJMFbn9ifPZ2p) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [lowrider](https://open.spotify.com/album/2Ospc5IIUhYfaSgtmXJDBx) | 2:17 |
@@ -511,4 +511,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 501 | [Jumping Stairs](https://open.spotify.com/track/4hwavFxjOXAFhVxzkLdrXm) | [Casper Loe](https://open.spotify.com/artist/6sgFsC4m16h2OMCFptzH6S) | [Jumping Stairs](https://open.spotify.com/album/6dFhFCZMrfLxxKW3q7PpVW) | 1:54 |
 | 502 | [Leafy Greens](https://open.spotify.com/track/03Ax0kOLlmuTKA1ay5DOeU) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Leafy Greens](https://open.spotify.com/album/2gyBZBz0kU5JX8ku3WkHt5) | 3:30 |
 
-Snapshot ID: `MTY3Njk5MDY2NiwwMDAwMDAwMDk2M2IxMDc2NjhkNWU1M2QwOGI3OTk1MjdjNzQzODI3`
+Snapshot ID: `MTY3Njk5MDY2NiwwMDAwMDAwMDQ5MzNlYjM1MWI1YzQ2Y2E3OTdiY2JlMDU5OTFjMTVk`

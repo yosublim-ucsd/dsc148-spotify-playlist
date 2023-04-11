@@ -2,7 +2,7 @@
 
 ### [Romantiqueo](https://open.spotify.com/playlist/37i9dQZF1DX29qo6meCGNU)
 
-> 
+> Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
 346 songs - 19 hr 1 min
 
@@ -220,7 +220,7 @@
 | [Monstruo](https://open.spotify.com/track/7eDVXAFMt2EERfXy9i63T1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:55 | 2022-12-17 |  |
 | [Monumento \- Remix](https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Monumento \(Remix\)](https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D) | 3:28 | 2022-05-12 |  |
 | [Morir Juntos](https://open.spotify.com/track/4fIQZb61FlXSRbnGgIBSj8) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Morir Juntos](https://open.spotify.com/album/4bDudL5EN5SzqTJpWs4PTL) | 3:11 | 2022-01-14 | 2022-07-05 |
-| [Morra](https://open.spotify.com/track/31CTDMQUOtkYsNZYuVXQx1) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:52 | 2023-04-09 |  |
+| [Morra](https://open.spotify.com/track/31CTDMQUOtkYsNZYuVXQx1) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:52 | 2023-04-07 |  |
 | [Más Allá](https://open.spotify.com/track/4WTF4MkWJSEeWhTNk3ywPT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:25 | 2022-11-04 | 2022-12-02 |
 | [Más De Ti](https://open.spotify.com/track/4svaGEtJdr5gdhBvdIkGaL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Más De Ti](https://open.spotify.com/album/2CN1yjEVnshrIJ2lKHIWMn) | 3:10 | 2022-03-25 | 2022-04-21 |
 | [Nada Es Igual \- Remix](https://open.spotify.com/track/3NZ9V69n2zfSowMUupBR1B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Nada Es Igual \(Remix\)](https://open.spotify.com/album/0vLVaDeDnlCx7n0qPYWOZc) | 3:36 | 2022-02-28 | 2022-06-06 |

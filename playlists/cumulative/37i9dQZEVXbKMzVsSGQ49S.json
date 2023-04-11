@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 220124,
       "name": "Cheater",
       "url": "https://open.spotify.com/track/4tuuGM15PpodHQ3nvjYNYF"
@@ -4028,7 +4028,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -5594,7 +5594,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -8114,7 +8114,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 213409,
       "name": "Haters Gona Hate",
       "url": "https://open.spotify.com/track/51sGWiz9JCZxoxntgvJgzq"
@@ -12406,7 +12406,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 56006,
       "name": "Logni\u00f0 undan storminum - Skit",
       "url": "https://open.spotify.com/track/772WN0vI1bFnnidQ9nYrqM"
@@ -13012,7 +13012,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -16773,6 +16773,28 @@
     },
     {
       "album": {
+        "name": "Plug Talk",
+        "url": "https://open.spotify.com/album/0OLbdFREzyL9OTsNjCk7aw"
+      },
+      "artists": [
+        {
+          "name": "Smoove Gotti",
+          "url": "https://open.spotify.com/artist/2WC4uCofVAeYSBeen2VeKM"
+        },
+        {
+          "name": "Trigg",
+          "url": "https://open.spotify.com/artist/1j8wNRMjFVOYn6lfAlMZnK"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148715,
+      "name": "Randy Savage",
+      "url": "https://open.spotify.com/track/7DJIpWaQxqaKoPWOfsm0Cb"
+    },
+    {
+      "album": {
         "name": "Rangur Ma\u00f0ur",
         "url": "https://open.spotify.com/album/5UKdYYH3NbTbnwJxd8U8er"
       },
@@ -17500,7 +17522,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -20046,7 +20068,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 150573,
       "name": "SV\u00d6RT N\u00d3TT",
       "url": "https://open.spotify.com/track/71mITRydUM9bFRAy2CaKhv"

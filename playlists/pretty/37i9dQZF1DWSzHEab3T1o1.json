@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7420,
+  "num_followers": 7423,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDc0N2VkNzQxMzM5YTc4ZWNiNDljNzczOWQ3ZWUwMWRk",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMGFmNWRlZTUyYTczMTQwZGQxNmI4MTEwNTI5OTAwOWVl",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -343,6 +343,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 137661,
+      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
+      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 172080,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 137661,
-      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
-      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -479,26 +479,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Que Rica (Tocame)",
-        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
+        "name": "Pepas (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4ysPBmMc39Kvw2TfRR50tp"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Salvi",
-          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Que Rica (Tocame)",
-      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
+      "duration_ms": 264888,
+      "name": "Pepas - David Guetta Remix",
+      "url": "https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -527,46 +523,6 @@
       "duration_ms": 269146,
       "name": "Watch Out For This (Bumaye)",
       "url": "https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Pepas (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4ysPBmMc39Kvw2TfRR50tp"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 264888,
-      "name": "Pepas - David Guetta Remix",
-      "url": "https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -627,6 +583,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
@@ -655,6 +631,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Que Rica (Tocame)",
+        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        },
+        {
+          "name": "Salvi",
+          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Que Rica (Tocame)",
+      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "B\u00e9same (I Need You) (with TINI & Reik)",
         "url": "https://open.spotify.com/album/6F3AXexyqa3xH9VZPB7VrA"
       },
@@ -675,6 +675,30 @@
       "duration_ms": 136200,
       "name": "B\u00e9same (I Need You) (with TINI & Reik)",
       "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Sexo (feat. iLe)",
+        "url": "https://open.spotify.com/album/4QgsMP3I7ytwMoW06v4hLA"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 209820,
+      "name": "Sexo (feat. iLe)",
+      "url": "https://open.spotify.com/track/0j00zu3FKBWSu1Hyt2Ivcj"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -707,30 +731,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Sexo (feat. iLe)",
-        "url": "https://open.spotify.com/album/4QgsMP3I7ytwMoW06v4hLA"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 209820,
-      "name": "Sexo (feat. iLe)",
-      "url": "https://open.spotify.com/track/0j00zu3FKBWSu1Hyt2Ivcj"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Si Me Dices Que S\u00ed (feat. Camilo) [R3HAB Remix]",
         "url": "https://open.spotify.com/album/6i2maKWlX3CxMAeXotdTPu"
       },
@@ -755,6 +755,34 @@
       "duration_ms": 186116,
       "name": "Si Me Dices Que S\u00ed (feat. Camilo) - R3HAB Remix",
       "url": "https://open.spotify.com/track/4qluwGB0E43AJFDcuQwKKV"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Do It!",
+        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Do It! - Dimitri Vegas Radio Edit",
+      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -795,34 +823,6 @@
       "duration_ms": 251718,
       "name": "Suavemente - Edm",
       "url": "https://open.spotify.com/track/7rZem2rwrj9IbcDymBJX2L"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Do It!",
-        "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Do It! - Dimitri Vegas Radio Edit",
-      "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1059,6 +1059,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Mi Gente (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Mi Gente - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
@@ -1135,30 +1159,6 @@
       "duration_ms": 172500,
       "name": "Napoleona",
       "url": "https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Music Is The Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "QueLoQue (feat. Paloma Mami)",
-      "url": "https://open.spotify.com/track/1089I4FLizCRim8hc6eKST"
     }
   ],
   "unique_name": "Global Dance Crossover",

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-270 songs - 16 hr 10 min
+271 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [親愛的你](https://open.spotify.com/track/0HA98hhDGR89kcdw9yVGEL) | [Gracie Grace](https://open.spotify.com/artist/0iHZYWswGYdIjSbfAreJIc) | [親愛的你](https://open.spotify.com/album/6eIjXEiW59q9GoIYFhEhDv) | 4:03 | 2023-01-30 | 2023-02-07 |
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2022-06-20 | 2022-07-29 |
-| [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 |  |
+| [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 | 2023-04-11 |
 | [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 |  |
 | [講個笑話](https://open.spotify.com/track/5I6VyJobdFa1GwoLHdPzzk) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [大娛樂家](https://open.spotify.com/album/5dRF4mFewpdRZbcudweNaT) | 3:21 | 2022-06-06 | 2022-07-21 |
 | [講個笑話](https://open.spotify.com/track/7ringJx9YyKtHwK8LpVVKG) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [講個笑話](https://open.spotify.com/album/73UTBcovvvyW23kfzixJJA) | 3:21 | 2022-06-06 | 2022-07-10 |
@@ -264,6 +264,7 @@
 | [还是你的笑容最可爱](https://open.spotify.com/track/6o0tRz6uSjA66A1LdEWwC6) | [音阙诗听](https://open.spotify.com/artist/6JZIgN9gEgNSS8lY5pmwbx), [泠鸢yousa](https://open.spotify.com/artist/5LyduAjWazekfgxC6M6rbk), [王梓钰](https://open.spotify.com/artist/5VNN9ctooTvYoBZKoGZ8Tr) | [还是你的笑容最可爱](https://open.spotify.com/album/1hY8IORuxUCrJlOVnH0FM5) | 2:45 | 2022-06-06 | 2022-07-22 |
 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 | 2022-07-25 |  |
 | [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 | 2022-06-06 |  |
+| [那一刻心動](https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L) | [大柯](https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq) | [那一刻心動](https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA) | 3:42 | 2023-04-10 |  |
 | [都怪那一眼\(Love at first sight\)\-電視劇<我的老闆是隻貓 >片頭曲](https://open.spotify.com/track/6uJ3uxT6lyZLKyr0DO57EB) | [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU) | [電視劇\(我的老闆是隻貓\)片頭曲&插曲](https://open.spotify.com/album/6QQVXygK29VWKR9Zt4VMM2) | 4:11 | 2022-06-27 | 2022-07-21 |
 | [阳光的陪伴](https://open.spotify.com/track/0RhNGs3Rj5vwv0NFoBTLVa) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [阳光的陪伴](https://open.spotify.com/album/5U3rbQPVdRmCdY7vQiFHDq) | 3:50 | 2022-06-06 | 2022-07-29 |
 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 | 2022-06-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 46425,
+  "num_followers": 46446,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMDNkODZlMzJiNDhlMDU2ZTc2ZGQ1ZGQzZTMzZWY3MzI0",
+  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGVhOGRhNGU1ZDMxYjFjOGJiYTA4NGViNmE2OGIxZWUx",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 216510,
       "name": "Sal y Perrea",
       "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "Abayarde",
+      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
@@ -315,26 +331,6 @@
       "duration_ms": 225470,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 202760,
-      "name": "Abayarde",
-      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Woah",
-        "url": "https://open.spotify.com/album/35e05NMhHRfscwOpMEbnVx"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/2VXqeAhhbhrsKTsK2yNZVD"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192320,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/35e05NMhHRfscwOpMEbnVx"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/2VXqeAhhbhrsKTsK2yNZVD"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Loiza",
-      "url": "https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
       },
@@ -587,18 +571,34 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Date Brillo Cadenita",
-        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Fefita La Grande",
-          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 438480,
-      "name": "La Chiflera",
-      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
+      "duration_ms": 190173,
+      "name": "Loiza",
+      "url": "https://open.spotify.com/track/6iJa6ly8IIwuOzoOZtnXfw"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Ibeyi",
+        "url": "https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 252095,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "Date Brillo Cadenita",
+        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
+      },
+      "artists": [
+        {
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+        }
+      ],
+      "duration_ms": 438480,
+      "name": "La Chiflera",
+      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 224869,
       "name": "Qu\u00e9 L\u00e1stima",
       "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
-        "name": "Ibeyi",
-        "url": "https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 252095,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Bonito que Canta",
         "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Los del Vacile",
-        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 213285,
-      "name": "Los del Vacile",
-      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+      "duration_ms": 151026,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+        "name": "Los del Vacile",
+        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
         }
       ],
-      "duration_ms": 185217,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
+      "duration_ms": 213285,
+      "name": "Los del Vacile",
+      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -799,6 +783,22 @@
       "duration_ms": 191906,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "NI\u00d1XS ROTXS",
+        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 206928,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
-        "name": "NI\u00d1XS ROTXS",
-        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 206928,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 208203,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Haters y Fan\u00e1ticos",
-        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
-      },
-      "artists": [
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Fettuccine",
-      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Sleng Teng Riddim",
         "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 260095,
       "name": "Budy Bye",
       "url": "https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Haters y Fan\u00e1ticos",
+        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
     },
     {
       "added_at": "2023-02-17 03:40:06",

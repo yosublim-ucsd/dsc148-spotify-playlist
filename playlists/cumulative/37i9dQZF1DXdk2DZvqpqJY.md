@@ -4,7 +4,7 @@
 
 > Swinging jazz and soft beats for relaxing and unwinding.
 
-328 songs - 20 hr 31 min
+329 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [For My Love](https://open.spotify.com/track/0tcjIkVN1nrs0uDluhygi0) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 4:45 | 2022-04-22 | 2022-06-03 |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2023-03-20 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2023-03-20 |  |
-| [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-20 |  |
+| [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-20 | 2023-04-11 |
 | [Forgotten In Time](https://open.spotify.com/track/11h4l3EgeolFw8ELwimXKd) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Bluewerks Vol\. 9: Wash Away](https://open.spotify.com/album/447z6KiTpRlrMDrCcK6rlz) | 2:24 | 2023-03-09 |  |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2022-12-09 | 2023-03-21 |
 | [Fork In The Rhodes](https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:58 | 2022-06-02 | 2022-11-20 |
@@ -149,6 +149,7 @@
 | [KNFYTNM](https://open.spotify.com/track/32xteHW5eOsL406D6a5uf1) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Saucy Experiments](https://open.spotify.com/album/3pT0BraDKSpJ24WtUruJ6n) | 2:55 | 2022-06-02 | 2023-03-21 |
 | [Koma Kaprifol](https://open.spotify.com/track/0hDZkmYKe6JJHnXPeAkEmM) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Mikko Innanen](https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Koma Kaprifol](https://open.spotify.com/album/2K6NzSo1DWgQsAenWfryBM) | 3:30 | 2022-02-17 | 2022-04-22 |
 | [L'Autofilteur](https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [L'Autofilteur](https://open.spotify.com/album/4tWicAtKzwy8kQcbc7C3Ay) | 3:31 | 2022-11-23 | 2023-04-02 |
+| [L'Autofilteur](https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 3:31 | 2023-03-24 |  |
 | [Langeland Frukt & Tobakk](https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Chris Holm · Øyvind Blomstrøm · Kim Åge Furuhaug](https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo) | 5:40 | 2022-12-01 | 2023-03-21 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-03-20 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2023-03-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,187 likes - 186 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,235 likes - 186 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 185 | [TIME](https://open.spotify.com/track/2z0bFKSQugLCVlgyTGFi2k) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [Astronormous](https://open.spotify.com/artist/10DVqLQppj5k4viGgo33Gj) | [TIME](https://open.spotify.com/album/6Q0NjakOu4W2uEyqgL2GC6) | 2:48 |
 | 186 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 |
 
-Snapshot ID: `MTY3OTY1NTk2MCwwMDAwMDAwMDdlNTJjZjhjMzVhNjU5MzE0MWZmYTVhODNhMDY5MzAz`
+Snapshot ID: `MTY3OTY1NTk2MCwwMDAwMDAwMDk3ODhjYzhlZWI4ZTJkNTg4MThkOTQ0YjUxYWExYWNi`

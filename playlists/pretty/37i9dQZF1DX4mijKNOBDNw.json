@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 51873,
+  "num_followers": 51880,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4ODEwOSwwMDAwMDAwMDQ4NDZiOTcyZTI1ZWZiM2M2NDg4YjA5NWRhNmIxYmI3",
+  "snapshot_id": "MTY3ODQ4ODEwOSwwMDAwMDAwMDY1ODE2OTkyNjFiOTUzOTYyYTM0ZmVlYmJlNzE0OTA4",
   "tracks": [
     {
       "added_at": "2023-03-10 22:41:49",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Cambio De Piel",
-        "url": "https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Lucha En Equilibrio",
-      "url": "https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "Rompe (Vencer el Miedo)",
         "url": "https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm"
       },
@@ -315,6 +299,38 @@
       "duration_ms": 172950,
       "name": "B\u00e1ilalo Mujer",
       "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Cambio De Piel",
+        "url": "https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Lucha En Equilibrio",
+      "url": "https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -363,22 +379,6 @@
       "duration_ms": 266613,
       "name": "Historika",
       "url": "https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\")",
-        "url": "https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\") - Tema Central de la Serie \"La Jaur\u00eda\"",
-      "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "Gitanas",
         "url": "https://open.spotify.com/album/2S6OhCz266448hlUEzIduB"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 190653,
       "name": "Gitanas",
       "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\")",
+        "url": "https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\") - Tema Central de la Serie \"La Jaur\u00eda\"",
+      "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Belicosa",
-        "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
-      },
-      "artists": [
-        {
-          "name": "Baja Frequencia",
-          "url": "https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z"
-        },
-        {
-          "name": "Chocolate Remix",
-          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Belicosa",
-      "url": "https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Belicosa",
+        "url": "https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R"
+      },
+      "artists": [
+        {
+          "name": "Baja Frequencia",
+          "url": "https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z"
+        },
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Belicosa",
+      "url": "https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "SE BUSCA",
         "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
         "name": "Hasta Salvarnos",
         "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 230400,
       "name": "Hasta Salvarnos",
       "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
     },
     {
       "added_at": "2023-03-10 22:41:49",

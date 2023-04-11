@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-977 songs - 2 day 5 hr 25 min
+979 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-03-22 | 2022-04-06 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-05-02 | 2022-06-01 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2022-12-27 | 2023-01-11 |
-| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-19 |  |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-19 | 2023-04-11 |
 | [Ciclones](https://open.spotify.com/track/4jgB2Ryw3UOPBNFwhduJjN) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 4:02 | 2022-05-24 | 2022-05-30 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-07 | 2023-03-19 |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-03-18 |  |
@@ -410,6 +410,7 @@
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-10-25 | 2022-10-29 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-26 | 2022-04-07 |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-03-25 | 2022-03-27 |
+| [Just H\-eaven](https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Just H\-eaven](https://open.spotify.com/album/2MA9bD8EoPjl2SqT3Q8V3W) | 3:17 | 2023-04-10 |  |
 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 | 2023-02-13 | 2023-02-15 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-08 | 2022-12-28 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-03 | 2023-02-15 |
@@ -506,6 +507,7 @@
 | [Mañana Sera Bonito](https://open.spotify.com/track/52YZneRql6xWNCGVzw3TxB) | [Karol](https://open.spotify.com/artist/61VRylheHjMVS7rDiur9xM) | [Mañana Sera Bonito](https://open.spotify.com/album/72Kdm96G9JaioT7pC5gM8D) | 2:07 | 2023-02-28 | 2023-03-05 |
 | [MAÑANA SERÁ BONITO](https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:30 | 2023-03-21 | 2023-03-28 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-24 | 2022-06-23 |
+| [Me Equivoqué](https://open.spotify.com/track/6GQqZkxwOhXaBRArHoQP9Z) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [CD9](https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5) | 3:39 | 2023-04-10 |  |
 | [Me Extraño](https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:11 | 2022-09-27 | 2022-10-08 |
 | [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-31 | 2022-06-13 |
 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 | 2022-08-16 | 2022-08-20 |
@@ -964,7 +966,7 @@
 | [Yes To Heaven](https://open.spotify.com/track/4yGwZVc0GFdUl48wqdtbQ8) | [August](https://open.spotify.com/artist/14OTXivoPN0qTfPwf22FUF) | [Yes To Heaven](https://open.spotify.com/album/16WkTNmbOwEvcILisyzoPR) | 3:17 | 2023-02-11 | 2023-02-23 |
 | [yes to heaven](https://open.spotify.com/track/4k4686AseeU5M9I5JHQUOd) | [Del Rey](https://open.spotify.com/artist/6axhFSY0RkuGp7yD34HmDJ) | [yes to heaven](https://open.spotify.com/album/3OgDYifvq30InxF4Fh6MRp) | 3:17 | 2023-02-25 | 2023-03-02 |
 | [Yes to Heaven](https://open.spotify.com/track/34M889cXZI53hJvXuTCHjy) | [efevvl](https://open.spotify.com/artist/0nqtSoViy35qD4ISIrnFSj) | [Yes to Heaven](https://open.spotify.com/album/4J2XSmwSb7JmhLGQr83hHq) | 3:17 | 2023-02-24 | 2023-02-26 |
-| [yes to heaven](https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7) | [ilyNUN](https://open.spotify.com/artist/49IxHq6jHIFvSV98SfLH3R) | [yes to heaven](https://open.spotify.com/album/7irGbx3XVENSgp7HkcV4hy) | 3:17 | 2023-04-01 |  |
+| [yes to heaven](https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7) | [ilyNUN](https://open.spotify.com/artist/49IxHq6jHIFvSV98SfLH3R) | [yes to heaven](https://open.spotify.com/album/7irGbx3XVENSgp7HkcV4hy) | 3:17 | 2023-04-01 | 2023-04-11 |
 | [Yes to Heaven](https://open.spotify.com/track/703N3pZm8fwlCvdkLA7nn8) | [michi](https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk) | [Yes to Heaven](https://open.spotify.com/album/0ECNP6fFWMo8CRbTXvSQsT) | 3:17 | 2023-03-25 | 2023-04-02 |
 | [Yo Más Te Adoro](https://open.spotify.com/track/5Z78fWnyrN8h80VTlyF0kH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:22 | 2022-04-06 | 2022-07-14 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-31 | 2022-06-08 |

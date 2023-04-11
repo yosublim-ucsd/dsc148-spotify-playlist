@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: RPT MCK",
+  "description": "M\u1eebng ng\u00e0y c\u1ee7a sen v\u00e0 boss. \u1ea2nh b\u00eca: sen AMEE v\u00e0 boss Tuy\u1ebft",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -2802,6 +2802,28 @@
       "duration_ms": 204230,
       "name": "t\u1eeb th\u00edch th\u00edch th\u00e0nh th\u01b0\u01a1ng th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/56JyO6Cav1GwtayPU7PXEx"
+    },
+    {
+      "album": {
+        "name": "dreAMEE (acoustic)",
+        "url": "https://open.spotify.com/album/7Aifj5a3xjW2k9E3sEREtV"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204230,
+      "name": "t\u1eeb th\u00edch th\u00edch th\u00e0nh th\u01b0\u01a1ng th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/1fh5Sf3fFESFOS8D82RQiI"
     },
     {
       "album": {

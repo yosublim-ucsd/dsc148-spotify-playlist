@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,091 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,109 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 10 | [Angels By My Side \(feat\. Pauline Taylor\) \- 7" Version](https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Pauline Taylor](https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1) | [Angels By My Side \(feat\. Pauline Taylor\)](https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3) | 3:37 |
 | 11 | [Everybody Dance](https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance](https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD) | 2:48 |
 | 12 | [Pick Me Up](https://open.spotify.com/track/5AEy1FpWJXqtwVOelRlZT1) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Pick Me Up](https://open.spotify.com/album/6H3AVcVfae5TGgYmCVQnts) | 3:07 |
-| 13 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 14 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
+| 13 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
+| 14 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 15 | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq) | 2:44 |
 | 16 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
 | 17 | [Body](https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Body](https://open.spotify.com/album/6DDIXVjy8q4auRGcDRtFjv) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
 | 60 | [This is Love](https://open.spotify.com/track/6xU6AmQcrG6kLAAMTG5O60) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN) | [Dead Eyes Opened / This is Love](https://open.spotify.com/album/20RfCSCLS4VzfvrlKg6zdy) | 3:56 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDIxZmZlZjA0ZDMzNTczZDNkYjVkNjhjMDAzOWQ5MTM2`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGU4NTYzYjBlMDM0ZWYwNDk3YTJkYzAwOTQ0NWNkYTgy`

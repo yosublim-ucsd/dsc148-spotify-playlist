@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-268 songs - 19 hr 42 min
+269 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Long Gone](https://open.spotify.com/track/6IAKbyQ5Qc5SOcSVhHv4Bx) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Workers Original Soundtrack EP 2](https://open.spotify.com/album/36rgzYqakTgIpIgO142kOr) | 4:25 | 2022-06-13 | 2022-07-23 |
 | [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 | 2022-07-25 |  |
 | [Love Yourself](https://open.spotify.com/track/0rWyscDVZbgTKRKtjPPy1X) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [.....那些美麗的相遇](https://open.spotify.com/album/71PV7hkfS3aqdW1b8aMEOb) | 3:01 | 2022-06-06 | 2022-07-29 |
-| [My Dear Father \- "Workers the Movie" Theme Song](https://open.spotify.com/track/5rL7fD2TKWItLZNpvZprnC) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [My Dear Father](https://open.spotify.com/album/6BzXXPB49JFeJqWoqM9eDm) | 5:25 | 2023-04-04 |  |
+| [My Dear Father \- "Workers the Movie" Theme Song](https://open.spotify.com/track/5rL7fD2TKWItLZNpvZprnC) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [My Dear Father](https://open.spotify.com/album/6BzXXPB49JFeJqWoqM9eDm) | 5:25 | 2023-04-04 | 2023-04-11 |
 | [Nonessential](https://open.spotify.com/track/2yVK1z120agYPamULKbiCL) | [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [BJ4](https://open.spotify.com/album/45NCcOdArmL9FnHTeiFHyV) | 4:13 | 2022-06-06 | 2022-06-12 |
 | [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 | 2022-09-05 |  |
 | [Passing Through](https://open.spotify.com/track/0byLWD6kVSZmXw9IFtLyW0) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Drifter](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:13 | 2022-06-13 | 2022-07-20 |
@@ -33,7 +33,7 @@
 | [下個早安\(Watch Over You\)](https://open.spotify.com/track/3iFS7dQvIOJDvGgKwma3pt) | [後站人 Made In Back Station](https://open.spotify.com/artist/436XkRBNt3enRhgwGorjfl) | [下個早安\(Watch Over You\)](https://open.spotify.com/album/2reWPY0DRrt8eD9O968myT) | 5:02 | 2022-06-27 | 2022-07-28 |
 | [不具名的悲傷](https://open.spotify.com/track/4OcYVa6MjGHcSsMyQlzVO4) | [李唯楓](https://open.spotify.com/artist/4I6CD3b2KblXRnARGKESwk) | [不具名的悲傷](https://open.spotify.com/album/0Wx5jOB1SJXTQG2cqtIIK6) | 5:01 | 2022-07-18 | 2022-07-20 |
 | [不完美的我 \(電影《跟你老婆去旅行》主題曲\)](https://open.spotify.com/track/6kI3vzfXS5SjTA6MtMjGnQ) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [不完美的我 \(電影《跟你老婆去旅行》主題曲\)](https://open.spotify.com/album/2peVoVAPYjI3UBR2J98rxG) | 4:32 | 2022-06-06 | 2022-07-23 |
-| [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 | 2022-06-13 | 2023-04-09 |
+| [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 | 2022-06-13 |  |
 | [不搖滾](https://open.spotify.com/track/2KZO634LWOlumo7bEJSh21) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [房東的貓](https://open.spotify.com/artist/01wQKqIHFEKjHdo32GlElV) | [不搖滾](https://open.spotify.com/album/5JCacvLpV7IrUMZEbYVFWi) | 4:45 | 2022-06-06 | 2022-07-29 |
 | [不敢聽的歌](https://open.spotify.com/track/4vNQ1EfgVDbwxnsHdBl7Io) | [李千那](https://open.spotify.com/artist/0rOFGXlFK59NmUCHga8oZM) | [不敢聽的歌](https://open.spotify.com/album/6cmfWMoPzvzQe89VLRIXke) | 4:27 | 2022-06-06 | 2022-07-07 |
 | [不晚 \(電影深夜食堂主題曲\)](https://open.spotify.com/track/7t40YRK7GQBf5pqtOzMcF6) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [不晚 \(電影深夜食堂主題曲\)](https://open.spotify.com/album/6tZboJANkkm5LGhlUnhkRQ) | 4:15 | 2022-06-13 | 2022-07-14 |
@@ -145,7 +145,7 @@
 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 | 2023-03-06 | 2023-03-14 |
 | [恰似你的溫柔](https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66) | 5:17 | 2022-06-06 |  |
 | [情歌](https://open.spotify.com/track/1sH0yymgLPYbWk0cfTfOZd) | [潘裕文](https://open.spotify.com/artist/1qCOBZplMcXhK9wxsg7QMY) | [我們都一樣](https://open.spotify.com/album/111mRVBgyB6yLIRFnusMqk) | 4:58 | 2022-06-27 | 2022-07-21 |
-| [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 | 2023-04-04 |  |
+| [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 | 2023-04-03 |  |
 | [想你的時候](https://open.spotify.com/track/58EIRUjHMt1IDpqf1oj3s5) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [想你的時候](https://open.spotify.com/album/3YsQNp9KCzstIsqRJqFyWr) | 3:52 | 2022-10-04 | 2022-10-25 |
 | [想啊,想著你](https://open.spotify.com/track/19Rl0IayqFowdGavS3k56E) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [想啊,想著你\-影視旗艦大戲《她們創業的那些鳥事》片尾曲](https://open.spotify.com/album/031LPYqzaLIvDeUam8kN0c) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2022-06-06 |  |
@@ -168,6 +168,7 @@
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2022-06-06 | 2022-07-29 |
 | [我怨](https://open.spotify.com/track/5AXPd43PkgVAp9ezRbfp9H) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [我怨](https://open.spotify.com/album/2pubZInn0m4l00rM4Azlm8) | 5:38 | 2022-06-06 | 2022-07-29 |
 | [我恨我還愛](https://open.spotify.com/track/3lDTaqfNFNCuMHBDLWXvHp) | [Queena Cui](https://open.spotify.com/artist/3Pf6bS1cRCdiMT5XRH9St1) | [有生之年再也不見](https://open.spotify.com/album/3UArgaYx1L1E7FyYQ2WzUo) | 4:45 | 2022-06-13 | 2022-07-08 |
+| [我想让你快乐](https://open.spotify.com/track/4Z16C80hk5PJN2wgZ5QIK0) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [我想让你快乐](https://open.spotify.com/album/3iwuRjVk0RqcgnmjnlstN3) | 3:49 | 2023-04-11 |  |
 | [我想陪你](https://open.spotify.com/track/4ht7eHqkvXiT7cFh6CLQSd) | [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY) | [我想陪你](https://open.spotify.com/album/1k5fSpZKtRec7jMbI0ADXe) | 3:27 | 2022-12-19 | 2022-12-27 |
 | [我愛他](https://open.spotify.com/track/58Ycl9emwl0XndrlMrIubP) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5), [DP龍豬](https://open.spotify.com/artist/1zc5bqfXDrpsLI7vqb0s7Q), [劉至佳](https://open.spotify.com/artist/647JuAQhFcuuFQI199EG6k) | [我愛他](https://open.spotify.com/album/16tUt6DIvgdIcwwFq2LTis) | 3:50 | 2022-06-20 | 2022-07-25 |
 | [我愛他 \(feat\. DP龍豬 & 劉至佳\)](https://open.spotify.com/track/2oQxOIHkrAn6soQy2eC8yW) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5) | [全給她](https://open.spotify.com/album/1TRGnfyE5ow4vIP65Uno58) | 3:50 | 2022-07-18 | 2022-07-20 |
@@ -273,7 +274,7 @@
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2022-06-06 |  |
 | [願你快樂與我有關](https://open.spotify.com/track/5A8tNprmuwjPEVSkgCdoWz) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [願你快樂與我有關](https://open.spotify.com/album/3xCLdIClUjgRSH2Brke9OP) | 3:47 | 2022-06-13 | 2022-07-29 |
 | [颜料](https://open.spotify.com/track/4yVble3Nm0b29LcHoKIH2i) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [颜料](https://open.spotify.com/album/4en63hNEmbPrywXXMY1blo) | 3:41 | 2022-06-13 | 2022-07-20 |
-| [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 | 2022-06-06 |  |
+| [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 | 2022-06-06 | 2023-04-11 |
 | [黑暗的盡頭](https://open.spotify.com/track/0n6Cn6pByPTwBkMTw7KQkX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/4ZRMDljMgqg3ZtpL4KtfVP) | 4:50 | 2022-07-25 |  |
 | [黑暗的盡頭](https://open.spotify.com/track/28CLaWua9bFuh66F1whfW5) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/2hIAj2xj4LDiUzButN29Ce) | 4:50 | 2022-06-06 | 2022-07-29 |
 

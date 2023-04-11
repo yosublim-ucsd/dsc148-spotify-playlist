@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,631 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,934 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 47 | [Big Money](https://open.spotify.com/track/4TVhyPsVcbNP2xZcmnSZrN) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Meyhem Lauren](https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS) | [Champagne For Breakfast](https://open.spotify.com/album/5pA2URj3rPHWDoSnInQpjD) | 3:25 |
 | 48 | [No Stress](https://open.spotify.com/track/6SgOztsz4Ophor1UU637Nc) | [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [No Stress](https://open.spotify.com/album/31wtuS1eGW8CQAw3RzF9GS) | 3:12 |
 | 49 | [Off the Lot](https://open.spotify.com/track/4rwidVfKmPD2fjWpFEZk1P) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 4:17 |
-| 50 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
+| 50 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
 | 51 | [DIGGIN U](https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DIGGIN U](https://open.spotify.com/album/5YjrtoRuM55a22wfsY7UVn) | 2:27 |
 | 52 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 |
 | 53 | [WW3](https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [WW3](https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2) | 3:12 |

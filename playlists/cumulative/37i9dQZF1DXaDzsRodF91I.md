@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-193 songs - 11 hr 4 min
+194 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 | 2021-03-19 |  |
 | [Hammer](https://open.spotify.com/track/0j80OMNnPlSWUwLoJkB1JR) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/188UbikjlSQhiboWAhAk3U) | 3:40 | 2021-03-19 | 2022-07-29 |
 | [Hammer](https://open.spotify.com/track/5kqr6EkKEafBGKxzjdXOVP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/1OjpWJvSUT8Svr3ZYWtCSD) | 3:40 | 2021-03-19 |  |
-| [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 | 2021-03-19 |  |
+| [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 | 2021-03-19 | 2023-04-11 |
 | [Hand In My Pocket](https://open.spotify.com/track/63ZO6WjbMpL696Vs0VU4xM) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:28 | 2021-03-19 | 2022-07-29 |
 | [Happier](https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY) | [Shorelines](https://open.spotify.com/artist/0dhKIZOcVIhpS5IcsUATkH) | [Happier](https://open.spotify.com/album/0pj8Mpwp0MdcMVhUjaYtMJ) | 3:33 | 2021-03-19 | 2022-11-13 |
 | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Ray Toro](https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E) | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO) | 2:59 | 2021-03-19 |  |
@@ -179,6 +179,7 @@
 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 | 2021-03-19 |  |
 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 | 2021-03-19 |  |
 | [When the Angels Sing](https://open.spotify.com/track/1EH80N83sFOFhVRleeSoiG) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When the Angels Sing](https://open.spotify.com/album/6oUDirbyygYkY9bNQzoobc) | 3:27 | 2021-03-19 | 2022-07-29 |
+| [When The Angels Sing](https://open.spotify.com/track/5vojzHNDiqeD4l1flkyZxG) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 | 2021-03-19 |  |
 | [When We Were Young](https://open.spotify.com/track/1yf3K4e74VM6egV7QDhXyz) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC), [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 4:45 | 2021-03-19 |  |
 | [When We Were Young](https://open.spotify.com/track/41kUupAzNt7hy1BEbPkp0P) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC), [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 4:45 | 2021-03-19 | 2022-07-29 |
 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 | 2021-03-19 | 2022-11-13 |

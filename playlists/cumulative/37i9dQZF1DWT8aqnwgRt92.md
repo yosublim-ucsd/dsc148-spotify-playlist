@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-594 songs - 1 day 13 hr 46 min
+595 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 | 2022-09-20 | 2022-10-09 |
 | [Hoshi no Shojo, Tsuki ni Shojo](https://open.spotify.com/track/2ZfKTS1mJoJmqCWMHDEOng) | [Yachiyo Tsuruhime\(CV:Haruka Kudo\)](https://open.spotify.com/artist/5COXhCfCAF7z5zLBiBrOaP), [Maya Tendo\(CV:Maho Tomita\)](https://open.spotify.com/artist/2JX0U8f1GbrDKUp1W20UoG), [Aruru Otuski\(CV:Megumi Han\)](https://open.spotify.com/artist/3qx9aFZDv71gBWG1gHdya7), [Karen Aijo\(CV:Momoyo Koyama\)](https://open.spotify.com/artist/3pGGUBbgu2YelFOZG22cIM) | ["Shojo Kageki Revuestarlight" Revue Album "Arcana Arcadia"](https://open.spotify.com/album/0Qjxeq06XpngjnNbrjdjT9) | 4:14 | 2022-09-20 | 2022-10-19 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-21 |  |
-| [HYSTERIC CARAVAN](https://open.spotify.com/track/6j6ndhPYXdE2p4PD1Bljiv) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [HYSTERIC CARAVAN](https://open.spotify.com/album/0rEOEfJikdn5Klb8dKK1za) | 3:59 | 2023-01-17 |  |
+| [HYSTERIC CARAVAN](https://open.spotify.com/track/6j6ndhPYXdE2p4PD1Bljiv) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [HYSTERIC CARAVAN](https://open.spotify.com/album/0rEOEfJikdn5Klb8dKK1za) | 3:59 | 2023-01-17 | 2023-04-11 |
 | [I AM I](https://open.spotify.com/track/4KKkvUpWlRUgw4MYh33X3N) | [Sarah L\-ee](https://open.spotify.com/artist/0tE6axpcNJvMTeQQj3tgcX), [Daisuke Asakura](https://open.spotify.com/artist/1UkEVUkVZVeSSxFvKHgcYZ), [Shinnosuke](https://open.spotify.com/artist/6vlca8e0C4xDhvJ6rfJBXu) | [I AM I](https://open.spotify.com/album/3jET3MbFSj79mOcamKMUGt) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [I Believe](https://open.spotify.com/track/7HlJKKUv2NJq8q43yUkoL3) | [Zakuro Fujiwara\(CV:Momoka Ishii\)](https://open.spotify.com/artist/2AhkWcubMNCPU14jOpeNaI) | [I Believe](https://open.spotify.com/album/7qJPUOixcYQfpQjGwqIy6l) | 4:55 | 2022-07-28 | 2022-08-17 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-03 | 2022-12-21 |
@@ -355,6 +355,7 @@
 | [あれこれドラスティック](https://open.spotify.com/track/3U25NvHuSKwNATFwDbkR4R) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2), [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [あれこれドラスティック](https://open.spotify.com/album/0ZNKgst0nutjnhEBAwnYvk) | 3:45 | 2022-07-05 | 2022-08-17 |
 | [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 | 2022-10-13 | 2023-01-06 |
 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2022-10-25 | 2023-01-11 |
+| [いつ逢えたら](https://open.spotify.com/track/6YLUfjcftTF3N4LmKR6OIM) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [いつ逢えたら](https://open.spotify.com/album/5ZfeL7vTGeENYg7RRq6lby) | 4:05 | 2023-04-10 |  |
 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-04-06 |  |
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |

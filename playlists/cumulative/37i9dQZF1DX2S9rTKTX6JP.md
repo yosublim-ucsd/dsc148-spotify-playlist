@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-285 songs - 18 hr 28 min
+286 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Come Together](https://open.spotify.com/track/3LZwy0CZYV6qLowXzbzRE0) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Come Together](https://open.spotify.com/album/2kdNcS7QqKABgzxfcwR5xg) | 3:53 | 2022-10-26 |  |
 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 | 2021-05-20 |  |
 | [Come Together](https://open.spotify.com/track/16vXR0dOUTYtz5OtkXKFkT) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4ZG8bDbk5S0SRIcHyH01y2) | 3:46 | 2020-12-16 | 2022-07-29 |
-| [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 | 2022-06-17 |  |
+| [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 | 2022-06-17 | 2023-04-11 |
 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 | 2022-06-17 | 2022-09-17 |
 | [Crawling](https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:32 | 2020-12-16 | 2022-05-20 |
 | [Crawling](https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Crawling](https://open.spotify.com/album/3wzzOrJoohHVNe3rAaA29o) | 3:31 | 2022-03-25 | 2022-04-09 |
@@ -143,6 +143,7 @@
 | [Isolation](https://open.spotify.com/track/2yoZimUShwEoCsXEfmRGNV) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Isolation](https://open.spotify.com/album/22wsBdTOtViVeS3jJ67uHE) | 5:14 | 2020-12-16 | 2023-02-21 |
 | [It's No Good](https://open.spotify.com/track/0GNdzYqpy7sHQcdCuHjJZX) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Down, Wicked & No Good](https://open.spotify.com/album/0JsXyjXeZp0uELbFKVgvor) | 4:55 | 2020-12-16 | 2022-07-29 |
 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF) | 2:58 | 2020-12-16 | 2022-07-28 |
+| [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-10 |  |
 | [Jump Into The Fire](https://open.spotify.com/track/1x3dbEtnQsQaF7XVqIbCYE) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:35 | 2020-12-16 | 2022-11-13 |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-24 |  |
 | [Just Like Heaven](https://open.spotify.com/track/2taiFEr466TWMGPZN719m5) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/7LpjAJON4CNX6PmY9SICs3) | 2:53 | 2022-03-25 | 2022-07-24 |

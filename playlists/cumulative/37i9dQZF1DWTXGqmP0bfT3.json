@@ -936,7 +936,7 @@
           "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 275205,
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 271826,
       "name": "Dying for an Angel - The Wicked Symphony",
       "url": "https://open.spotify.com/track/7dIOlmWKSZoaKXtFZw5Lm5"
@@ -2186,7 +2186,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205679,
@@ -2246,10 +2246,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 190106,
       "name": "Maximize",
       "url": "https://open.spotify.com/track/43SK9pr4z0KjxCU6Urll9S"
+    },
+    {
+      "album": {
+        "name": "Foregone",
+        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237300,
+      "name": "Meet Your Maker",
+      "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
     },
     {
       "album": {
@@ -2424,7 +2442,7 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 353946,
@@ -2964,7 +2982,7 @@
           "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146176,
@@ -3922,7 +3940,7 @@
           "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203948,
@@ -3946,6 +3964,28 @@
       "duration_ms": 256741,
       "name": "Welcome To The Circus",
       "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+    },
+    {
+      "album": {
+        "name": "Winner Takes All (feat. Alice Cooper)",
+        "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205570,
+      "name": "Winner Takes All (feat. Alice Cooper)",
+      "url": "https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V"
     },
     {
       "album": {

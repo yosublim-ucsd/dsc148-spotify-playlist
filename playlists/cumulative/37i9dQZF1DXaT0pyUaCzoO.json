@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
+    },
+    {
+      "album": {
         "name": "Burnin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
@@ -542,28 +560,6 @@
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
-    },
-    {
-      "album": {
-        "name": "Marley (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        },
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "date_added": "2020-07-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197840,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "album": {

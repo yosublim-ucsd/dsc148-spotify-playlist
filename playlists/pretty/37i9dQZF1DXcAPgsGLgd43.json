@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2841,
+  "num_followers": 2850,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDk2NTliNTZlZTg0ZmIyMmVhM2IwY2Y4MmY5MTZmN2M2",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDgzOGVlYTY3ZTlmYTNkYjQ1MzgyOWFiY2E4MDQzYzAy",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -447,26 +447,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Quiribi (Yamil Remix)",
         "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
       },
@@ -539,6 +519,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214969,
       "name": "Dame",
       "url": "https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -797,26 +797,6 @@
       "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Villanueva",
-          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Calle ft. Villanueva",
-      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
-    },
-    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "La Vida",
@@ -847,6 +827,46 @@
       "duration_ms": 168960,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Villanueva",
+          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Calle ft. Villanueva",
+      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -919,26 +939,6 @@
       "duration_ms": 381899,
       "name": "Cumbia Tropical",
       "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     }
   ],
   "unique_name": "Alma",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe?si=WcaDnh3hQtuLxm4UfSL8fQ">Travis Greene</a> and <a href="https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH?si=FvNnIoGsQk\-hxD\-jY2Wfbg">Forward City</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,903 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,993 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

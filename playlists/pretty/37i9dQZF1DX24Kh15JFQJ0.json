@@ -1,6 +1,6 @@
 {
   "description": "The latest music from our Country Heroes. Cover: Tanya Tucker",
-  "num_followers": 248861,
+  "num_followers": 248885,
   "original_name": "New Traditions Country Heroes",
   "owner": {
     "name": "Spotify",
@@ -808,10 +808,6 @@
           "url": "https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj"
         },
         {
-          "name": "Larry Gatlin & The Gatlin Brothers",
-          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
-        },
-        {
           "name": "Lorrie Morgan",
           "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
         },
@@ -822,6 +818,10 @@
         {
           "name": "Dean Miller",
           "url": "https://open.spotify.com/artist/2lyuVVWLKysEfl3IsWJpvZ"
+        },
+        {
+          "name": "The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/5gk8WuURY14x0kfrlktz7X"
         }
       ],
       "duration_ms": 187693,

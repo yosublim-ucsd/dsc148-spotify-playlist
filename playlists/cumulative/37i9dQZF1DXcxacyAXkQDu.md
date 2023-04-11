@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-853 songs - 2 day 2 hr 35 min
+854 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Closer to You](https://open.spotify.com/track/3lKmH9D42U7Rqq6chJUUBh) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [Closer to You](https://open.spotify.com/album/3mtgBdwcmw86oVNQqxEp4f) | 3:25 | 2021-12-21 | 2022-04-21 |
 | [Clotel](https://open.spotify.com/track/7osb3fR1kIvcCp9nyuuCHr) | [Amber Lewis](https://open.spotify.com/artist/18ybsAEyVT5pl5aBxXQ6BF) | [Lips & Teeth](https://open.spotify.com/album/4v94n0cAPh1gqReAIXKgaN) | 4:39 | 2022-03-31 | 2022-04-05 |
 | [Cold](https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Cold](https://open.spotify.com/album/0j6cURTL2HYMxsNKdyJCM7) | 2:53 | 2021-12-21 | 2022-02-02 |
-| [Cold Hands](https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:17 | 2022-07-08 |  |
+| [Cold Hands](https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:17 | 2022-07-08 | 2023-04-11 |
 | [Cold Hands](https://open.spotify.com/track/7bjkb3nbnI14FJKxCU8wr5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Cold Hands](https://open.spotify.com/album/5r2pTRfwx1RyBGjQDA4rKT) | 3:17 | 2021-12-21 | 2022-07-29 |
 | [Cold Hearted](https://open.spotify.com/track/7em3tKnIY5N2g7uzBKgAry) | [Alex Holtti](https://open.spotify.com/artist/3ZGgc6iTKy5XJVPwlxxfei) | [Cold Hearted](https://open.spotify.com/album/77WTk0VHaZq575lHzS0Q66) | 3:26 | 2022-03-24 | 2022-04-18 |
 | [Cold Winter Love](https://open.spotify.com/track/4rVjnWjnmoH9PaXDSGedba) | [Alexander Asp](https://open.spotify.com/artist/2Z96lnzN1zmZbtBZGealgg) | [Cold Winter Love](https://open.spotify.com/album/3pbSxSHaF0RKnRGqQ9dhlz) | 3:40 | 2022-03-24 | 2022-04-20 |
@@ -484,6 +484,7 @@
 | [Move Together](https://open.spotify.com/track/42HxrmByT7nOJjtCYXaIl7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:35 | 2022-02-24 | 2022-07-29 |
 | [Movement](https://open.spotify.com/track/6JYk44BcllTsPVvZ8Rp6ZB) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Movement](https://open.spotify.com/album/2uuNipkms9vOhhxlxHmPx0) | 3:57 | 2022-03-24 | 2022-04-21 |
 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 | 2022-07-08 |  |
+| [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 | 2023-02-17 |  |
 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 | 2022-03-24 |  |
 | [Moving Mountains](https://open.spotify.com/track/27bWSKIcEj1JyhHi6emu4j) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Moving Mountains](https://open.spotify.com/album/70pO7PJKW18cXax9pQDtZb) | 4:13 | 2022-03-24 | 2022-04-20 |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2021-12-21 | 2022-03-30 |

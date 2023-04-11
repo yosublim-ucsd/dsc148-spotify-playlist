@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: So!YoON! \(South Korea\)
+> Hottest indie sounds & the best new tracks from Asia\. Cover: Boba & Phum Viphurit \(Thailand\)
 
 690 songs - 1 day 17 hr 29 min
 
@@ -355,7 +355,7 @@
 | [Love U Better](https://open.spotify.com/track/6zfflHTdO4oiv5Jqu3vlqb) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Pretty Lies](https://open.spotify.com/album/29JfQqsFokEwm4sMvjAHZ0) | 2:31 | 2022-03-24 | 2022-05-07 |
 | [Lovebites](https://open.spotify.com/track/7EpfSyVW7rADdAj9mG7lbV) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 5:40 | 2022-05-12 | 2022-05-27 |
 | [Loveyou!](https://open.spotify.com/track/6BVnb4BxB3tDMe19NzmY6o) | [marine](https://open.spotify.com/artist/3jdg21y5MPwERt8YLMehGp) | [Loveyou!](https://open.spotify.com/album/51nE6CxDXoAo9GeGSsC6Qa) | 3:21 | 2022-09-01 | 2022-10-07 |
-| [Loving And Letting Go](https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:48 | 2023-02-02 | 2023-04-01 |
+| [Loving And Letting Go](https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:48 | 2023-02-02 |  |
 | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/track/7AKwZD4xfKyTlsn890SopS) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/album/6ySfq9uaapwG22pGbb8BHP) | 3:33 | 2023-02-02 | 2023-03-18 |
 | [Lurch](https://open.spotify.com/track/23UHhRbTmYijznf3RTbO9O) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Lurch](https://open.spotify.com/album/3hmBRBfr7oQeDH1WjVs0uG) | 4:39 | 2023-03-16 |  |
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-03-16 |  |

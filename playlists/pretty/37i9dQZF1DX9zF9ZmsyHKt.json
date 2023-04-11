@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 320800,
+  "num_followers": 320824,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDVjZmQ3MzE3ZTE4M2Y2MjczYjU1OWU4Yzg0MGI5ZDRk",
+  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDNhNzA4MWEwODllZGM2MDM4MjZkNzE5ZmU5ZDQ5ZWFj",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
-        "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Livre (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
+        "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -367,6 +367,26 @@
       "duration_ms": 295106,
       "name": "Mania De Voc\u00ea",
       "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "50 Reais",
+        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "50 Reais",
+      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -403,22 +423,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "50 Reais",
-        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
+        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
       "artists": [
         {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 207104,
-      "name": "50 Reais",
-      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+      "duration_ms": 300333,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -439,22 +455,6 @@
       "duration_ms": 174178,
       "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
       "url": "https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
-        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "De Cabe\u00e7a Pra Baixo",
         "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 164266,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c1gua na Boca",
-        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
-      },
-      "artists": [
-        {
-          "name": "Tati Zaqui",
-          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "\u00c1gua na Boca",
-      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Rito de Pass\u00e1",
         "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 201235,
       "name": "Rito de Pass\u00e1",
       "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c1gua na Boca",
+        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
+      },
+      "artists": [
+        {
+          "name": "Tati Zaqui",
+          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "\u00c1gua na Boca",
+      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Assim Que Se Faz",
+        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
+      },
+      "artists": [
+        {
+          "name": "Luciana Mello",
+          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
+        }
+      ],
+      "duration_ms": 300626,
+      "name": "Assim Que Se Faz",
+      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Rouff",
         "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 280756,
       "name": "As Mais Braba",
       "url": "https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Assim Que Se Faz",
-        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
-      },
-      "artists": [
-        {
-          "name": "Luciana Mello",
-          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
-        }
-      ],
-      "duration_ms": 300626,
-      "name": "Assim Que Se Faz",
-      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "\u00c9 Isso A\u00ed",
+        "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "\u00c9 Isso A\u00ed",
+      "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "\u00c9 Isso A\u00ed",
-        "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
-      },
-      "artists": [
-        {
-          "name": "Paula Lima",
-          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "\u00c9 Isso A\u00ed",
-      "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 153635,
-      "name": "Frank Ocean",
-      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Iai\u00e1",
         "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 329680,
       "name": "Menina, Amanh\u00e3 de Manh\u00e3",
       "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 153635,
+      "name": "Frank Ocean",
+      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
     },
     {
       "added_at": "2022-10-07 03:01:33",

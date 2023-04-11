@@ -1,12 +1,12 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 21862,
+  "num_followers": 21877,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMGUzMGJiYmM1ZTU3ZjAxYjg5NTFiYzQzODczYWFkYjQz",
+  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMGE4YmE0NmYwNTJlNjRkMzUwYTQyNzBmMDVmODg3NTg4",
   "tracks": [
     {
       "added_at": "2022-06-24 18:22:18",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Mar Dulce",
-        "url": "https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA"
-      },
-      "artists": [
-        {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 275093,
-      "name": "El Mareo",
-      "url": "https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -259,18 +239,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA"
       },
       "artists": [
         {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 141893,
-      "name": "Desencuentro",
-      "url": "https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74"
+      "duration_ms": 275093,
+      "name": "El Mareo",
+      "url": "https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -291,6 +275,38 @@
       "duration_ms": 174146,
       "name": "Como Dos Extra\u00f1os (feat. Nestor Marconi)",
       "url": "https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "Desencuentro",
+      "url": "https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 272599,
+      "name": "El d\u00eda que me quieras",
+      "url": "https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Tinta roja",
-        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 272599,
-      "name": "El d\u00eda que me quieras",
-      "url": "https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -455,22 +455,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Obras Cumbres",
-        "url": "https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Alberto Castillo",
-          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 149920,
-      "name": "Siga El Baile - Versi\u00f3n Cantada por Alberto Castillo",
-      "url": "https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW"
+      "duration_ms": 147093,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -507,6 +503,26 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Alberto Castillo",
+          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
+        }
+      ],
+      "duration_ms": 149920,
+      "name": "Siga El Baile - Versi\u00f3n Cantada por Alberto Castillo",
+      "url": "https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 227616,
       "name": "Plegaria para un ni\u00f1o dormido",
       "url": "https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Menesunda: Tangolencia Rockera",
-        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
       },
       "artists": [
         {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 142253,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
+      "duration_ms": 198959,
+      "name": "Mano a mano",
+      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -623,6 +623,22 @@
       "duration_ms": 162866,
       "name": "Tomo y Obligo",
       "url": "https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Tinta roja",
-        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 198959,
-      "name": "Mano a mano",
-      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Ritual Criollo",
         "url": "https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt"
       },
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Fisura Expuesta",
-        "url": "https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3"
-      },
-      "artists": [
-        {
-          "name": "Juan Subira",
-          "url": "https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 404853,
-      "name": "Salvavidas de Plomo",
-      "url": "https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Bagayo",
         "url": "https://open.spotify.com/album/7CSdj0Rlyoc3INm3uCD1yl"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 140786,
       "name": "Nocturno A Mi Barrio",
       "url": "https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Laura Va",
+      "url": "https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr"
     }
   ],
   "unique_name": "Tango Rock",

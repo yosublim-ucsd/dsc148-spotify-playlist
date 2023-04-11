@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Koteri\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,276 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,278 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 |
-| 2 | [Fallen Angels](https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2) | [MXWI](https://open.spotify.com/artist/7JfUaRJCsp1gLk2wiX6uNI) | [Fallen Angels](https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd) | 2:56 |
-| 3 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 |
-| 4 | [Make You Happier](https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt) | [emisa](https://open.spotify.com/artist/2HBd9g5slj3HAi22gY9L6G) | [Make You Happier](https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY) | 2:17 |
-| 5 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 |
-| 6 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
-| 7 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
+| 1 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
+| 2 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
+| 3 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 |
+| 4 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 |
+| 5 | [Fallen Angels](https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2) | [MXWI](https://open.spotify.com/artist/7JfUaRJCsp1gLk2wiX6uNI) | [Fallen Angels](https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd) | 2:56 |
+| 6 | [waht if\_6](https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [waht if\_6](https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf) | 1:31 |
+| 7 | [Make You Happier](https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt) | [emisa](https://open.spotify.com/artist/2HBd9g5slj3HAi22gY9L6G) | [Make You Happier](https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY) | 2:17 |
 | 8 | [Open the Pit](https://open.spotify.com/track/0wH4CxUFXPy8QjjJLZHass) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Open the Pit](https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP) | 1:56 |
 | 9 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 |
 | 10 | [عيدلي](https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39) | [Good Company](https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5), [Tararu](https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK) | [عيدلي](https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Theeba](https://open.spotify.com/track/6d5jCujuJOwybONWCJGulU) | [Wiha](https://open.spotify.com/artist/4OObxAaYEWxmJD3dKQjKV0) | [Theeba](https://open.spotify.com/album/3PqWZoMfDSxPD3m3gMI1am) | 3:17 |
 | 50 | [Loom](https://open.spotify.com/track/1Q1PWZvKU0kvXZSc6B1LJW) | [Noul](https://open.spotify.com/artist/2eBVLC3ePF9HO0Ew4snCNq) | [Loom](https://open.spotify.com/album/0uNojfPWQ6REBGYSjWtBcp) | 5:55 |
 
-Snapshot ID: `MTY4MDY1NTE5NCwwMDAwMDAwMGUwNDY4MTFjMDJkZjIzYTk5ZDVjNjRkODM3MzY3ZWU0`
+Snapshot ID: `MTY4MTE2OTEwOCwwMDAwMDAwMDdjN2FhYThjNWIxMGJiNTM1MDcyOTIyN2EzMGI3MmEw`

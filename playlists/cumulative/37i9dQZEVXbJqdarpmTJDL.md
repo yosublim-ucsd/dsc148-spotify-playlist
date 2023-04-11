@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,084 songs - 2 day 10 hr 39 min
+1,085 songs - 2 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-25 | 2022-12-28 |
 | [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 | 2022-04-16 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2022-12-28 |
-| [JACOB & CO](https://open.spotify.com/track/0fgJM8xRHf33hR98YqYAEC) | [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [MEMENTO](https://open.spotify.com/album/7At9VaYb02avtIUtQeIOZS) | 2:46 | 2023-04-08 |  |
+| [JACOB & CO](https://open.spotify.com/track/0fgJM8xRHf33hR98YqYAEC) | [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [MEMENTO](https://open.spotify.com/album/7At9VaYb02avtIUtQeIOZS) | 2:46 | 2023-04-08 | 2023-04-11 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-04 |
 | [JAY Z](https://open.spotify.com/track/2o7sa1upa8v8quPAyE6keD) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 3:10 | 2022-05-20 | 2022-05-31 |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-28 |
@@ -1077,6 +1077,7 @@
 | [Xeirovomvides](https://open.spotify.com/track/5uoTfU6MsQMkhcIgrf8IlT) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX), [DJ Marvel](https://open.spotify.com/artist/4V0ywNkd8Ca96rMNhAem0G) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 3:52 | 2021-04-04 | 2021-04-05 |
 | [Xereis I Eleni](https://open.spotify.com/track/0Ywo7XSIm3MrKssLIenprW) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Poli\_Ploki](https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8) | 2:56 | 2022-06-04 | 2022-06-06 |
 | [XILIOMETRA](https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Sapranov](https://open.spotify.com/artist/0ydmHwy5hFIaJEoZWWcKxC) | [XILIOMETRA](https://open.spotify.com/album/2gFaNxStuphvpezGodu4aD) | 4:07 | 2021-03-27\* | 2022-05-03 |
+| [Ya Habibi](https://open.spotify.com/track/3KbsHO7QNkczE8Rz66y3ks) | [Kings](https://open.spotify.com/artist/72zZ87G4L9Lfx0mstygJVE), [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [Ya Habibi](https://open.spotify.com/album/6kXfp07FHUneeIkz5NJ2MJ) | 2:45 | 2023-04-10 |  |
 | [YAYO](https://open.spotify.com/track/33jP6Ib6JDWNmQI84YHhzD) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [YAYO](https://open.spotify.com/album/60aBoG9g01uv2EqQDaauDg) | 3:12 | 2022-07-11 | 2022-08-19 |
 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 | 2021-09-05 | 2021-09-06 |
 | [YEEZY](https://open.spotify.com/track/3W746nqh3LubksIyn92lHa) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 2:33 | 2022-05-20 | 2022-06-08 |

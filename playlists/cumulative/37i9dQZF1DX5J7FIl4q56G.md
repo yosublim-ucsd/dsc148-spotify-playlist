@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Rise Of The Northstar
 
-3,144 songs - 8 day 21 hr 15 min
+3,145 songs - 8 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 | 2022-01-14 |
 | [Cold Flame](https://open.spotify.com/track/3FDRXVSwlAQ5QnLOysxyOT) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H), [Karl Sanders](https://open.spotify.com/artist/0ikESMnIqVDnp3mSOyQ4xA) | [Cold Flame](https://open.spotify.com/album/66J0XgEQQe9eSktNOoSdHb) | 5:49 | 2022-09-16 | 2022-09-24 |
 | [Coldharbour](https://open.spotify.com/track/21JGFFCUpy0DMGE27zKPMw) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Coldharbour](https://open.spotify.com/album/7zmiaTkPNvFgCZO5bJotR1) | 3:02 | 2022-09-23 | 2022-10-01 |
+| [Collective Compulsion](https://open.spotify.com/track/4wfpd4dBOBGM86LJhdgJ8N) | [Mindwar](https://open.spotify.com/artist/1jI098tzUJUKUkHCiyJO5N) | [Collective Compulsion](https://open.spotify.com/album/2kxHyVpM0gwNRnoHSZn12B) | 3:02 | 2023-04-10 |  |
 | [Color Me Blood](https://open.spotify.com/track/4EFZ6UBd3gsNkRKSVTxTfl) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Leather Terror](https://open.spotify.com/album/37PW0ipoWcjx3APS1MN0ql) | 3:39 | 2022-04-01 | 2022-04-08 |
 | [Color Of Your Blood](https://open.spotify.com/track/3fMEtToY40iAjM0FjSLvPb) | [Hellhills](https://open.spotify.com/artist/3LYHyZn68mKbs47fuX4lPg) | [Color Of Your Blood](https://open.spotify.com/album/6hVOHmIYNWGu9XuUnmbpm0) | 3:51 | 2022-01-14 | 2022-02-11 |
 | [Coma Blue \- Remastered 2022](https://open.spotify.com/track/1WLWMfnnFiXYLujTlkMiou) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Coma Blue](https://open.spotify.com/album/5HvnKYQwxfXTfvoWr8Ya8c) | 3:21 | 2021-12-17 | 2022-01-14 |

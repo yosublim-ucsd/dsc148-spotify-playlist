@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1327563,
+  "num_followers": 1327987,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5MzYwMCwwMDAwMDAwMDRlYTU2MzRkYTY2NzZkNWZiYmYzY2VjZTQ2MWNmYmMy",
+  "snapshot_id": "MTY3OTQ5MzYwMCwwMDAwMDAwMDA4YjUzYmE0OTM1ZjUwMTQxMTFmZjgzZjdiNjBjMGM3",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Lola's Theme",
         "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -703,6 +703,30 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Baby When the Light (feat. Cozi)",
+      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Cozi",
-          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Baby When the Light (feat. Cozi)",
-      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Move For me",
-      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Move For me",
+      "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Elements Of Life",
         "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1135,6 +1135,26 @@
       "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 489373,
+      "name": "Love Comes Again",
+      "url": "https://open.spotify.com/track/23x1l5fneuI3tfw52NftWH"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1191,26 +1211,6 @@
       "duration_ms": 178494,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1QfJwbwcWUHheqVo3yRfpd"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 489373,
-      "name": "Love Comes Again",
-      "url": "https://open.spotify.com/track/23x1l5fneuI3tfw52NftWH"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
       "artists": [
         {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
         }
       ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
         },
         {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
         }
       ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Transphormer",
-        "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
-      },
-      "artists": [
-        {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 221493,
       "name": "Heartbreak - Radio Edit",
       "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Transphormer",
+        "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Addiction (Radio Edit)",
-        "url": "https://open.spotify.com/album/1uUn4H2JoPGyDYpqmoBY52"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Addiction - Radio Edit",
-      "url": "https://open.spotify.com/track/6bUSZYa1aaVXSk7HFzizTm"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 200320,
       "name": "Step One Two",
       "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Addiction (Radio Edit)",
+        "url": "https://open.spotify.com/album/1uUn4H2JoPGyDYpqmoBY52"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Addiction - Radio Edit",
+      "url": "https://open.spotify.com/track/6bUSZYa1aaVXSk7HFzizTm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "Baba O'Riley (Radio Edit)",
-      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 438013,
       "name": "Body Language - Original Mix",
       "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "Baba O'Riley (Radio Edit)",
+      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
     },
     {
       "added_at": "2023-03-22 14:00:00",

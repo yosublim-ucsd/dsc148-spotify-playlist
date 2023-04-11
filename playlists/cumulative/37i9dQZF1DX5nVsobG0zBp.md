@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-133 songs - 7 hr 53 min
+134 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Camadas](https://open.spotify.com/track/6g3BZ70tvq3qOPicxtsnYa) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Camadas](https://open.spotify.com/album/3BWOFOGM5DiTaWiCasREwc) | 3:18 | 2022-07-05 | 2022-10-14 |
 | [Cara Que Engana](https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cara Que Engana](https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5) | 2:59 | 2023-02-09 |  |
 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 | 2022-07-05 |  |
-| [Cobras e Serpentes](https://open.spotify.com/track/7mCgHTgHjdSA35JQ0xo3hR) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Cobras e Serpentes](https://open.spotify.com/album/48QBkKQXF03sto0InqW32W) | 3:30 | 2023-03-30 |  |
+| [Cobras e Serpentes](https://open.spotify.com/track/0P3v4kHlw5Xa90JCMLAFjm) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:30 | 2023-04-06 |  |
+| [Cobras e Serpentes](https://open.spotify.com/track/7mCgHTgHjdSA35JQ0xo3hR) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Cobras e Serpentes](https://open.spotify.com/album/48QBkKQXF03sto0InqW32W) | 3:30 | 2023-03-30 | 2023-04-11 |
 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 | 2022-07-05 | 2023-02-17 |
 | [Conto](https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Conto](https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi) | 3:22 | 2022-07-05 | 2023-04-07 |
 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 | 2022-07-05 |  |

@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-574 songs - 2 day 2 hr 38 min
+575 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/3zORM4QYkdkw8QkaFd6CPD) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/45KnxjCyMK5X1deAEr4MOs) | 3:13 | 2021-10-20 |  |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A) | 3:13 | 2021-10-20 | 2022-07-29 |
 | [Analogische Memories \- Piano](https://open.spotify.com/track/4BVTqO4lgb55BJPiLivki1) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours \- Versions](https://open.spotify.com/album/2CJ7fsKkxcFfKxzNM4Ugde) | 4:18 | 2021-10-20 | 2022-05-29 |
-| [Analogische Memories \- Piano](https://open.spotify.com/track/7pgppFshHrhZ1fpVP1NsR3) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours \- Versions](https://open.spotify.com/album/6nCuaV19kMT6tcNItcQVlh) | 4:18 | 2021-10-20 |  |
+| [Analogische Memories \- Piano](https://open.spotify.com/track/7pgppFshHrhZ1fpVP1NsR3) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours \- Versions](https://open.spotify.com/album/6nCuaV19kMT6tcNItcQVlh) | 4:18 | 2021-10-20 | 2023-04-11 |
 | [And, We Disappear](https://open.spotify.com/track/0GFAxE9CP6pdGSA0mlcAcT) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [And, We Disappear](https://open.spotify.com/album/3sCHgW81uQJcrgkAc5LSqZ) | 4:37 | 2021-10-20 | 2022-07-28 |
 | [And, We Disappear](https://open.spotify.com/track/5SvK0HVz3EW2x06xE9uVGo) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 4:37 | 2021-10-20 |  |
 | [Angel Inah](https://open.spotify.com/track/5BWIrcAwxfif9pBUQFwNe5) | [A\. M.](https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa) | [Origen](https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8) | 5:42 | 2023-03-03 |  |
@@ -215,6 +215,7 @@
 | [Four Horsemen](https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc) | [Jacober](https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu) | [Sketch for Winter X: Immortal Word](https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv) | 3:12 | 2021-10-20 |  |
 | [Fragmentation](https://open.spotify.com/track/1kuA7gbZwqaEGyFIHNAmbp) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4wF8vOTtUdUzSDuRVf0B5V) | 3:48 | 2021-10-20 | 2022-05-20 |
 | [Frog Fractions](https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe) | 4:40 | 2021-10-20 | 2023-03-19 |
+| [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 | 2021-10-20 |  |
 | [Frozen Tundra](https://open.spotify.com/track/3KX5zmTOX6JmHFVqG5ID12) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Frozen Tundra](https://open.spotify.com/album/7vQQLdO1pPzyP9aF5JDsSk) | 3:32 | 2021-10-20 |  |
 | [Full Panther](https://open.spotify.com/track/5qZXf3CNN9m6ORnKTBe07Y) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Long Stories](https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6) | 3:23 | 2021-10-20 |  |
 | [Full Panther](https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Full Panther](https://open.spotify.com/album/6NnHFMmeDC1R31eheMh725) | 3:23 | 2021-10-20 | 2022-07-29 |

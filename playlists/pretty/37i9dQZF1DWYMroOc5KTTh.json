@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 390643,
+  "num_followers": 390846,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGI0N2Y2MjNmOWE4Y2Q1ZGE3NmJlOGI2ODkwMmE3ZDM3",
+  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGYzMzM3MmJhMDI0Zjk3ZWUxYzQxN2Y1MjBmZmM4NGRk",
   "tracks": [
     {
       "added_at": "2023-03-02 11:21:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-02 11:21:39",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
-    },
-    {
-      "added_at": "2023-03-02 11:21:39",
-      "album": {
         "name": "Catalogue",
         "url": "https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 278000,
       "name": "Sing It Back - Boris Dlugosch Mix",
       "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
+    },
+    {
+      "added_at": "2023-03-02 11:21:39",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
       "added_at": "2023-03-02 11:21:39",

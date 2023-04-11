@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 349112,
+  "num_followers": 349290,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg3MjQ0NywwMDAwMDAwMGNkNGFlZDIyMDhkNmEzZmFhYTY4NDZmZDQ0YTYwMmYx",
+  "snapshot_id": "MTY4MDg3MjQ0NywwMDAwMDAwMGZiMDVkZGEyMGI0YzEyM2VhMWE1OGJlZWQxZDc2MGU3",
   "tracks": [
     {
       "added_at": "2023-04-07 13:00:47",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-04-07 13:00:47",
       "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2023-04-07 13:00:47",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -351,18 +367,22 @@
     {
       "added_at": "2023-04-07 13:00:47",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2023-04-07 13:00:47",
@@ -403,26 +423,6 @@
       "duration_ms": 243176,
       "name": "Demons - Massane Remix",
       "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
-    },
-    {
-      "added_at": "2023-04-07 13:00:47",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2023-04-07 13:00:47",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-04-07 13:00:47",
       "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
-    },
-    {
-      "added_at": "2023-04-07 13:00:47",
-      "album": {
         "name": "Hold This Memory",
         "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 160071,
       "name": "Hold This Memory",
       "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
+    },
+    {
+      "added_at": "2023-04-07 13:00:47",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
     },
     {
       "added_at": "2023-04-07 13:00:47",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-04-07 13:00:47",
       "album": {
-        "name": "Pyramids",
-        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
-        }
-      ],
-      "duration_ms": 232682,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
-    },
-    {
-      "added_at": "2023-04-07 13:00:47",
-      "album": {
         "name": "If You Wanna",
         "url": "https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 159586,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR"
+    },
+    {
+      "added_at": "2023-04-07 13:00:47",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
     },
     {
       "added_at": "2023-04-07 13:00:47",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-04-07 13:00:47",
       "album": {
-        "name": "BlimE",
-        "url": "https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "BlimE",
-      "url": "https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW"
-    },
-    {
-      "added_at": "2023-04-07 13:00:47",
-      "album": {
         "name": "Teenage Heart",
         "url": "https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 220000,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0"
+    },
+    {
+      "added_at": "2023-04-07 13:00:47",
+      "album": {
+        "name": "BlimE",
+        "url": "https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "BlimE",
+      "url": "https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW"
     },
     {
       "added_at": "2023-04-07 13:00:47",

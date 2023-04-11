@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
@@ -8089,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "Just H-eaven",
+        "url": "https://open.spotify.com/album/2MA9bD8EoPjl2SqT3Q8V3W"
+      },
+      "artists": [
+        {
+          "name": "B4SAX",
+          "url": "https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197697,
+      "name": "Just H-eaven",
+      "url": "https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q"
+    },
+    {
+      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -9990,6 +10008,24 @@
       "duration_ms": 379226,
       "name": "Me and Your Mama",
       "url": "https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU"
+    },
+    {
+      "album": {
+        "name": "CD9",
+        "url": "https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/6GQqZkxwOhXaBRArHoQP9Z"
     },
     {
       "album": {
@@ -19184,7 +19220,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 197668,
       "name": "yes to heaven",
       "url": "https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Destroy Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,376 likes - 125 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,461 likes - 125 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

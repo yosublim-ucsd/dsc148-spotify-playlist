@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-81 songs - 6 hr 0 min
+82 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Chelsea Morning](https://open.spotify.com/track/5Hv9gBKGezbnOXnQOrm1zC) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Rainbow](https://open.spotify.com/album/79Qpu9YWSEFSmSUDosy5wH) | 2:32 | 2021-06-22 |  |
 | [Cherokee Louise](https://open.spotify.com/track/6A5HTcHSCTlE4IIRQ2l0bp) | [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [She](https://open.spotify.com/album/6Jr70o6UUEwgbgIUaqHX2R) | 4:23 | 2021-06-22 |  |
 | [Circle Game](https://open.spotify.com/track/2QLmmJEakoi4UgcRcCLeZX) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Warm Touch](https://open.spotify.com/album/2vpjNPZbQnwUnAz6TtyQPj) | 4:07 | 2021-06-22 |  |
-| [Cold Blue Steel And Sweet Fire](https://open.spotify.com/track/1TavkgUYYduSv2EW9QqRlQ) | [Monika Borzym](https://open.spotify.com/artist/6DlY4cWd9bU4huCgoqQ665) | [Back To The Garden](https://open.spotify.com/album/7MIwq0gFcsvjiWE6tsVYjo) | 5:06 | 2021-06-22 |  |
+| [Cold Blue Steel And Sweet Fire](https://open.spotify.com/track/1TavkgUYYduSv2EW9QqRlQ) | [Monika Borzym](https://open.spotify.com/artist/6DlY4cWd9bU4huCgoqQ665) | [Back To The Garden](https://open.spotify.com/album/7MIwq0gFcsvjiWE6tsVYjo) | 5:06 | 2021-06-22 | 2023-04-11 |
+| [Cold Blue Steel And Sweet Fire](https://open.spotify.com/track/6Svt0yjXiupw9h0wGftL2j) | [Monika Borzym](https://open.spotify.com/artist/6DlY4cWd9bU4huCgoqQ665) | [Back To The Garden](https://open.spotify.com/album/32l0A0G5ZmE7W7MDkCZ4nu) | 5:06 | 2021-06-22 |  |
 | [Court & Spark](https://open.spotify.com/track/2q5HRWsR5PrYEChtVlfe81) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Brighter/Later: A Duncan Sheik Anthology](https://open.spotify.com/album/1JnRGjQXNCdEZCwcfbuJU3) | 3:02 | 2021-06-22 |  |
 | [Court And Spark](https://open.spotify.com/track/3gWMoCASEIeR1K3WAGJQ2A) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [River: The Joni Letters](https://open.spotify.com/album/3GwR5VxaMzB01ay6qIT3Yq) | 7:34 | 2021-06-22 |  |
 | [Coyote](https://open.spotify.com/track/6q8i85ue3U9b8en5bP2vmJ) | [Colleen Rennison](https://open.spotify.com/artist/0c3wNrQ1fIc6qftYvV9U1Z) | [See The Sky About To Rain](https://open.spotify.com/album/5kQK7JhGUKsQnRQ7fGxxfb) | 5:29 | 2021-06-22 |  |

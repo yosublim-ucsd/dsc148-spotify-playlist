@@ -1,12 +1,12 @@
 {
   "description": "Classic rockabilly and early rock 'n' roll.",
-  "num_followers": 17025,
+  "num_followers": 17022,
   "original_name": "Rockabilly Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3ODY3MTAzMSwwMDAwMDAwMDEzOThiMjQ3YmVhNWQ2NzZlOTA1ZTQzNDkyMGUxM2M5",
+  "snapshot_id": "MTU3ODY3MTAzMSwwMDAwMDAwMDNkZTBiZjRjODY2OGI5ZjIwMTNmYjNmOWQ4NzY1ZmVi",
   "tracks": [
     {
       "added_at": "2020-01-10 15:43:51",
@@ -163,22 +163,6 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "Rockin' The Joint",
-        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "See You Later, Alligator",
-      "url": "https://open.spotify.com/track/05eNEozACh10Rn0ewFnH8Y"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
+        "name": "Rockin' The Joint",
+        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "See You Later, Alligator",
+      "url": "https://open.spotify.com/track/05eNEozACh10Rn0ewFnH8Y"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
         "name": "Rockin' With Wanda",
         "url": "https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 134733,
       "name": "Fujiyama Mama - Remastered",
       "url": "https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
+        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
+        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 149584,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -259,18 +275,18 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
-        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 149584,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
+      "duration_ms": 167840,
+      "name": "Boppin' The Blues",
+      "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -307,38 +323,6 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Boppin' The Blues",
-      "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
-        "name": "Johnny Burnette And The Rock 'N Roll Trio",
-        "url": "https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
-          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "Rock Billy Boogie",
-      "url": "https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
         "name": "Glen Rocks",
         "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
+        "name": "Johnny Burnette And The Rock 'N Roll Trio",
+        "url": "https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Rock Billy Boogie",
+      "url": "https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -451,18 +451,18 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "The Essential Elvis Presley",
-        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+        "name": "Ricky Sings Again (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 135626,
-      "name": "Baby, Let's Play House - Remastered",
-      "url": "https://open.spotify.com/track/4Ls0zLUccPv9o0G4Uio503"
+      "duration_ms": 125466,
+      "name": "Believe What You Say - Remastered",
+      "url": "https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
+        "name": "The Essential Elvis Presley",
+        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 135626,
+      "name": "Baby, Let's Play House - Remastered",
+      "url": "https://open.spotify.com/track/4Ls0zLUccPv9o0G4Uio503"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
         "name": "Jungle Rock",
         "url": "https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 168120,
       "name": "Jungle Rock",
       "url": "https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
-        "name": "Ricky Sings Again (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 125466,
-      "name": "Believe What You Say - Remastered",
-      "url": "https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -547,38 +547,6 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "At the Rock House",
-        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Rock House",
-      "url": "https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 123493,
-      "name": "Race With The Devil",
-      "url": "https://open.spotify.com/track/6yqpkreNmOenMuTV9NG2C9"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
         "name": "His Complete King Recordings",
         "url": "https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 144480,
       "name": "One Hand Loose",
       "url": "https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
+        "name": "At the Rock House",
+        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Rock House",
+      "url": "https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -623,6 +607,22 @@
       "duration_ms": 131573,
       "name": "Good Rockin' Tonight",
       "url": "https://open.spotify.com/track/6k3FE2tlTymnsPMTkL8slE"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 123493,
+      "name": "Race With The Devil",
+      "url": "https://open.spotify.com/track/6yqpkreNmOenMuTV9NG2C9"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "Gene Vincent And The Blue Caps",
-        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Pink Thunderbird",
-      "url": "https://open.spotify.com/track/3NenvURev5mcCecxsUoWI2"
-    },
-    {
-      "added_at": "2020-01-10 15:43:51",
-      "album": {
         "name": "Rhino Hi-Five: Rockin' Bones: 1950s Punk & Rockabilly",
         "url": "https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4"
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 135466,
-      "name": "Everybody's Trying to Be My Baby",
-      "url": "https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN"
+      "duration_ms": 152600,
+      "name": "Pink Thunderbird",
+      "url": "https://open.spotify.com/track/3NenvURev5mcCecxsUoWI2"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -783,6 +767,22 @@
       "duration_ms": 144013,
       "name": "Do Me No Wrong (Demo)",
       "url": "https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9"
+    },
+    {
+      "added_at": "2020-01-10 15:43:51",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 135466,
+      "name": "Everybody's Trying to Be My Baby",
+      "url": "https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN"
     },
     {
       "added_at": "2020-01-10 15:43:51",

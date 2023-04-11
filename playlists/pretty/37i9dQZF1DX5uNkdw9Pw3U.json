@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 62008,
+  "num_followers": 62049,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGQ0Nzg1MjUzMDdjYjhmZjg1NmE2MjM2NzIxMmNjNWJl",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGNmMTI5MzEwMzVkZGE5ZjkyY2Y3ZmE3MGY4OTFlODll",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
@@ -707,6 +707,26 @@
       "duration_ms": 215293,
       "name": "Situationship",
       "url": "https://open.spotify.com/track/3cn94Lk8pmA6CN8K25dIdM"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Measure of a Man (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Measure of a Man (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -787,26 +807,6 @@
       "duration_ms": 262213,
       "name": "None Of Your Concern",
       "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Measure of a Man (feat. Central Cee)",
-        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Measure of a Man (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "People Come And Go",
-        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 154076,
-      "name": "People Come And Go",
-      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 184324,
       "name": "Time",
       "url": "https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "People Come And Go",
+        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 154076,
+      "name": "People Come And Go",
+      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "who knew (from Grown-ish)",
+        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "who knew - from Grown-ish",
+      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "who knew (from Grown-ish)",
-        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "who knew - from Grown-ish",
-      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Booty",
-        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
-      },
-      "artists": [
-        {
-          "name": "Lil Halima",
-          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
-        },
-        {
-          "name": "Canto",
-          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
-        }
-      ],
-      "duration_ms": 140924,
-      "name": "Booty",
-      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Love Me Like (feat. DUCKWRTH)",
         "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 164745,
       "name": "Love Me Like (feat. DUCKWRTH)",
       "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/1wZUA48qppx695AaNY97a4"
+      },
+      "artists": [
+        {
+          "name": "Lil Halima",
+          "url": "https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr"
+        },
+        {
+          "name": "Canto",
+          "url": "https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN"
+        }
+      ],
+      "duration_ms": 140924,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Sweet Insomnia",
         "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 185371,
       "name": "Compromise (feat. Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2023-01-12 23:00:00",

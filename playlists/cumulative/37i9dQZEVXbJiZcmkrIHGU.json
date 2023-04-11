@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 165680,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM"
@@ -18534,7 +18534,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
@@ -22708,7 +22708,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 137828,
       "name": "Nix zu tun",
       "url": "https://open.spotify.com/track/3zk8jIWMJFK14Mg1vzIxpP"
@@ -29226,6 +29226,24 @@
       "duration_ms": 166097,
       "name": "Strassengeschichten",
       "url": "https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU"
+    },
+    {
+      "album": {
+        "name": "Radio Lollipop",
+        "url": "https://open.spotify.com/album/7fRHiKDTXZe772cYMPkIaf"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Stups, der kleine Osterhase",
+      "url": "https://open.spotify.com/track/1O2sdZviza9fQgHuRIXkYY"
     },
     {
       "album": {

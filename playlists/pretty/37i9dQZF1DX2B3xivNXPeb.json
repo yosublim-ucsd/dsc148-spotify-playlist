@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 29846,
+  "num_followers": 29865,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3Mzk5MiwwMDAwMDAwMDFjNDBiMWVlODU3YTU1MWQ0Y2E2NWJjN2FiOTFjYjg2",
+  "snapshot_id": "MTY3OTY3Mzk5MiwwMDAwMDAwMGY3Mzk2M2Y1OGQ3YWRlODYwZGU1NjBiMmNiNWJkZDA3",
   "tracks": [
     {
       "added_at": "2023-03-24 16:06:32",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "The Iron Pot Cooker",
-        "url": "https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo"
-      },
-      "artists": [
-        {
-          "name": "Camille Yarbrough",
-          "url": "https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9"
-        }
-      ],
-      "duration_ms": 253574,
-      "name": "Take Yo' Praise",
-      "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "The Iron Pot Cooker",
+        "url": "https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo"
+      },
+      "artists": [
+        {
+          "name": "Camille Yarbrough",
+          "url": "https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9"
+        }
+      ],
+      "duration_ms": 253574,
+      "name": "Take Yo' Praise",
+      "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
       "artists": [
         {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+      "duration_ms": 204706,
+      "name": "The Same Love That Made Me Laugh",
+      "url": "https://open.spotify.com/track/6GETCaMrDCu3uFe2TMkyGA"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "'Justments",
-        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "The Same Love That Made Me Laugh",
-      "url": "https://open.spotify.com/track/6GETCaMrDCu3uFe2TMkyGA"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Giving It In",
-        "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Giving It In",
-      "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Love and Hate in a Different Time",
         "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 282177,
       "name": "Love and Hate in a Different Time - Original",
       "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Giving It In",
+        "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Giving It In",
+      "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 213671,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "The Sweetest Peaches [Part One (1940-1966)]",
         "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 167426,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 213671,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "Kitchen Sunset",
         "url": "https://open.spotify.com/album/00o8IpCGek8T29qGdxkjfs"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Watch Me Dance",
         "url": "https://open.spotify.com/album/5Hbogrukylm91E91osFIoE"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Lonely Are the Brave (Mav's Version)",
-        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "I Need - Mav's Version",
-      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 186582,
       "name": "Please Love Me Again",
       "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "THE POWER IN US",
-        "url": "https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ajudha",
-          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "HOLIDAY FROM REALITY",
-      "url": "https://open.spotify.com/track/2RR6qhMCAhNS7rz1ueAFbj"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "THE POWER IN US",
+        "url": "https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "HOLIDAY FROM REALITY",
+      "url": "https://open.spotify.com/track/2RR6qhMCAhNS7rz1ueAFbj"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS"
-      },
-      "artists": [
-        {
-          "name": "Alfie Sharp",
-          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
-        }
-      ],
-      "duration_ms": 265240,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Resting State",
         "url": "https://open.spotify.com/album/3RMcQ8d4hH9nK2hBNKx8Gy"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 193386,
       "name": "Resting State",
       "url": "https://open.spotify.com/track/2PwJU6fEjoThOXal3axKEf"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "duration_ms": 265240,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Willie Dynamite (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Sweet Things",
-          "url": "https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN"
-        }
-      ],
-      "duration_ms": 291853,
-      "name": "King Midas",
-      "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 226035,
       "name": "East End Coast",
       "url": "https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Willie Dynamite (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Sweet Things",
+          "url": "https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN"
+        }
+      ],
+      "duration_ms": 291853,
+      "name": "King Midas",
+      "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
     },
     {
       "added_at": "2023-03-24 16:06:32",

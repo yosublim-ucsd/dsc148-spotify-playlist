@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 32587,
+  "num_followers": 32628,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDA0YjVmZjYwZDAxMzdiNDNiZmFmN2I2M2I0MzhmYTY2",
+  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDIzODM4MDlmYzUwODUyMDQzNjAzZmY0MDg0MWJiNWEx",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
+        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
-        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
+        "name": "What It Takes: The Chess Years",
+        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
       },
       "artists": [
         {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+      "duration_ms": 181733,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Rock Me Daddy, Vol. 1",
-        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Boogie In \"G\"",
-      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Sings Ballads & Blues",
         "url": "https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "What It Takes: The Chess Years",
-        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+        "name": "Rock Me Daddy, Vol. 1",
+        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
+      "duration_ms": 154840,
+      "name": "Boogie In \"G\"",
+      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "Big Band Bounce & Boogie",
         "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Trixie Smith Vol. 2 1925-1929",
         "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Gospels, Spirituals, & Hymns",
         "url": "https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158626,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
-      },
-      "artists": [
-        {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "I'm a Mighty Tight Woman",
-      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
+        "name": "First Time I Met the Blues (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL"
+      },
+      "artists": [
+        {
+          "name": "Sippie Wallace",
+          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "I'm a Mighty Tight Woman",
+      "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
         "name": "The Complete Recordings, Vol. 3",
         "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 168626,
       "name": "I Used to Be Your Sweet Mama",
       "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Sloppy Drunk Blues",
+      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sloppy Drunk Blues",
-      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "What It Takes: The Chess Years (Expanded Edition)",
         "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Mother Of The Blues, CD D",
-        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 172987,
-      "name": "Dead Drunk Blues",
-      "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "The Essential Billie Holiday",
         "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 157960,
       "name": "Billie's Blues - Take 1",
       "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Mother Of The Blues, CD D",
+        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 172987,
+      "name": "Dead Drunk Blues",
+      "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Mamie Smith",
-        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Crazy Blues (Alternate Take)",
-      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Those Dirty Blues, Vol. 2",
         "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+        "name": "Presenting Mamie Smith",
+        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
       },
       "artists": [
         {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
         }
       ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+      "duration_ms": 204826,
+      "name": "Crazy Blues (Alternate Take)",
+      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
       },
       "artists": [
         {
-          "name": "Gladys Bentley",
-          "url": "https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9"
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
         }
       ],
-      "duration_ms": 155813,
-      "name": "Boogie'n My Woogie",
-      "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1003,6 +987,22 @@
       "duration_ms": 184111,
       "name": "Evil Mama Blues",
       "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Gladys Bentley",
+          "url": "https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Boogie'n My Woogie",
+      "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "East and West Blues",
-        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
-      },
-      "artists": [
-        {
-          "name": "Marie Grinter",
-          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "East and West Blues",
-      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
         "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 183667,
       "name": "I Crave Your Lovin' Every Day",
       "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "East and West Blues",
+        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+      },
+      "artists": [
+        {
+          "name": "Marie Grinter",
+          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "East and West Blues",
+      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
     },
     {
       "added_at": "2023-03-03 18:11:20",

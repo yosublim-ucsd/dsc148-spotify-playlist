@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: JAOKHUN
 
-318 songs - 19 hr 13 min
+319 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-26 |  |
 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 |  |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
+| [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 |  |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2022-05-26 |  |
 | [จาดาดา \(JADADA\)](https://open.spotify.com/track/0KnqCih8gZebEwtXfAxu4A) | [BIZCUITBEER](https://open.spotify.com/artist/6LbLXtLErcsT15O3dEqPyM) | [จาดาดา \(JADADA\)](https://open.spotify.com/album/3a28ry6dCtibdepifhAodi) | 2:48 | 2022-08-11 | 2022-08-19 |
 | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/track/1iK2nyld8wTLJv2dRIowSY) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/album/2BKeUulZXv8hntkksz0V0w) | 3:40 | 2022-05-26 | 2022-08-26 |
@@ -271,7 +272,7 @@
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2022-05-26 | 2022-11-16 |
 | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/track/2MhltgwCtdahdAJTrFUbIm) | [Chypre](https://open.spotify.com/artist/4mMIQJKMHFmFW2DVdFBUqp) | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/album/4n3hdmxkvLv3IvsLbH5Frj) | 3:52 | 2022-07-07 | 2022-07-15 |
 | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd) | 3:58 | 2022-12-08 | 2023-01-27 |
-| [เลือกแค่เธอ](https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL), [MUON ATLAS](https://open.spotify.com/artist/15K0fTYxItcRPxIMcefV9l) | [เลือกแค่เธอ](https://open.spotify.com/album/1aSBzCOD3d7fEGNO2djBON) | 2:54 | 2023-03-31 |  |
+| [เลือกแค่เธอ](https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL), [MUON ATLAS](https://open.spotify.com/artist/15K0fTYxItcRPxIMcefV9l) | [เลือกแค่เธอ](https://open.spotify.com/album/1aSBzCOD3d7fEGNO2djBON) | 2:54 | 2023-03-31 | 2023-04-11 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-07-07 | 2022-07-23 |
 | [เหล่ท่อ](https://open.spotify.com/track/1mfmYnbNhK574LYK23dZOB) | [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [เหล่ท่อ](https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE) | 3:03 | 2022-06-02 | 2022-06-10 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-05-26 | 2023-03-01 |

@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 122732,
+  "num_followers": 122773,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMGViMjRhNjA2NGZlNjVmOWJlM2ZmNDMzZjBmMTVmMWJi",
+  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDhlOTIyNjdhZjhkNjlkYjIxYTVkZmM0MDkyZjRiOGMz",
   "tracks": [
     {
       "added_at": "2023-04-06 15:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Amiko (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
+        "name": "SHINJITERU",
+        "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 240886,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
+      "duration_ms": 213933,
+      "name": "\u6df1\u547c\u5438",
+      "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "SHINJITERU",
-        "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
       },
       "artists": [
         {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 213933,
-      "name": "\u6df1\u547c\u5438",
-      "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
+      "duration_ms": 240886,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "eureka",
-        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "eureka",
-      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "BLUEHARLEM",
-        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
-      },
-      "artists": [
-        {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
-        }
-      ],
-      "duration_ms": 327173,
-      "name": "Good Night Station",
-      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
         "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 245746,
       "name": "\u5e0c\u671b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "BLUEHARLEM",
+        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "duration_ms": 327173,
+      "name": "Good Night Station",
+      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
     },
     {
       "added_at": "2023-04-06 15:00:00",

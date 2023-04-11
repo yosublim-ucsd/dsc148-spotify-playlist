@@ -4,7 +4,7 @@
 
 > these equations aren&\#x27;t adding up.
 
-194 songs - 11 hr 32 min
+195 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 | 2022-08-26 |  |
 | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ) | 2:32 | 2022-09-01 |  |
 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 | 2023-01-14 |  |
+| [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-10 |  |
 | [Ancient Dreams In A Modern Land](https://open.spotify.com/track/1R1ihosU2CSEaSw8e5ZF6E) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd) | 3:26 | 2022-08-26 |  |
 | [APOLOGY](https://open.spotify.com/track/3r8Rot6g36lCLju77c0JNB) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml) | 3:51 | 2022-08-26 |  |
 | [Arms Tonite](https://open.spotify.com/track/1rRwwqteLePmi70PGaC8ah) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:36 | 2023-02-03 |  |

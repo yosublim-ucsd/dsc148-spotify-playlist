@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-636 songs - 1 day 8 hr 7 min
+637 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Kor](https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei) | 2:59 | 2021-10-10 | 2022-01-05 |
 | [Kron1k](https://open.spotify.com/track/6vLPgqdXSzEaVYx92YoFjd) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Kron1k](https://open.spotify.com/album/4Zdbg6Ir5nZJ9eN5HfipND) | 4:53 | 2021-03-27\* | 2021-04-08 |
 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 | 2021-03-27\* | 2022-04-13 |
+| [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 | 2023-04-10 |  |
 | [KURSUN DELIKLERI](https://open.spotify.com/track/7f7u6tinuOcJhY7mDpEYTq) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:42 | 2022-09-10 | 2022-09-12 |
 | [Kusura Bakma](https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Kusura Bakma](https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt) | 2:35 | 2021-03-27\* | 2021-12-19 |
 | [Kuytu Köşelerde](https://open.spotify.com/track/145jqpXnJcombk47TB8305) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Kuytu Köşelerde](https://open.spotify.com/album/66fQ1OfL3g4o2aOzLn247q) | 3:55 | 2021-04-15 | 2021-04-20 |
@@ -472,7 +473,7 @@
 | [Peygamber Sabrı](https://open.spotify.com/track/3GFRJgMAPKeYJ717UeB0zp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:11 | 2021-05-30 | 2021-06-01 |
 | [Peşimde](https://open.spotify.com/track/5G5CKxNBvl6FRqNdVnmJUC) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Peşimde](https://open.spotify.com/album/5FAaYhLsDUf4zlwd2kWcHm) | 2:56 | 2021-03-27\* | 2021-05-05 |
 | [Peşimde Kara Geceler](https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Peşimde Kara Geceler](https://open.spotify.com/album/2o7SQ9Prx0iwQy73EZxaPT) | 3:05 | 2021-03-27 | 2021-04-04 |
-| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-08 |  |
+| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-08 | 2023-04-11 |
 | [PHONK \(200mg\)](https://open.spotify.com/track/5L94pS0Z0qHqtVZtHbHXAb) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/6vlN46Kthwc4kvnFSoYudm) | 1:44 | 2023-04-01 | 2023-04-03 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-03 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-18 | 2022-09-20 |

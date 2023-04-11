@@ -4403,6 +4403,24 @@
     },
     {
       "album": {
+        "name": "Journee",
+        "url": "https://open.spotify.com/album/2NFTbliyRp1FhC7gmJRzLa"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218516,
+      "name": "Journee",
+      "url": "https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi"
+    },
+    {
+      "album": {
         "name": "Purple Magnolia",
         "url": "https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f"
       },
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 294800,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA"

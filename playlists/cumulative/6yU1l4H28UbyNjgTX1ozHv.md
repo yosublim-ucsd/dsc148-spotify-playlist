@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-163 songs - 8 hr 42 min
+164 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 |  |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
+| [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 | 2023-04-10 |  |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 |  |
 | [Upside Down \- Acoustic](https://open.spotify.com/track/1Bj7uQHtE5RfCzVMKhgskl) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Upside Down \(Acoustic\)](https://open.spotify.com/album/78fjGqALsUEsAi5nuKI19m) | 2:22 | 2023-03-24 |  |
 | [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 | 2022-09-15 | 2022-09-25 |
@@ -162,7 +163,7 @@
 | [Wouldn't It Be Nice \- Acoustic](https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wouldn't It Be Nice \(Acoustic\)](https://open.spotify.com/album/085kDnx6X3C0TI7uocKr1C) | 2:49 | 2023-04-01 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 | 2019-10-13 |  |
 | [Yellow \- Acoustic](https://open.spotify.com/track/4cNXu88dudLEAhsIbikLvU) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Yellow \(Acoustic\)](https://open.spotify.com/album/1hcpmhJzMlYjKjyuGOEmMh) | 3:25 | 2020-10-16 | 2023-01-14 |
-| [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 | 2023-01-18 |  |
+| [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 | 2023-01-18 | 2023-04-11 |
 | [You Belong With Me \- Acoustic](https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [You Belong With Me \(Acoustic\)](https://open.spotify.com/album/3EmhJjJNNnUk6j7FfASff0) | 3:54 | 2022-03-25 | 2023-01-28 |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 |  |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 |  |

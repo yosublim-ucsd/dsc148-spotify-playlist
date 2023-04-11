@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-365 songs - 1 day 0 hr 28 min
+366 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,8 +284,9 @@
 | [Time Capsule](https://open.spotify.com/track/45gbM4zsiz7ekoIaqD2hKZ) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Time Capsule](https://open.spotify.com/album/1RgUSMkPgxdbKG6cy9R9Tv) | 5:21 | 2023-01-10 | 2023-02-01 |
 | [Tissue No\. 7](https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Camille Thomas](https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD), [Julien Brocal](https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc) | [Glass: Tissue No\. 7 \(Musical Moments\)](https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs) | 3:15 | 2023-02-28 | 2023-04-05 |
 | [TO BE LOVED](https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TAPE 2/FOMALHAUT](https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD) | 3:09 | 2022-10-20 | 2023-03-16 |
+| [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 |  |
 | [touten No.4](https://open.spotify.com/track/2iTmJTOBvoldQ980R4GlSB) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [touten I](https://open.spotify.com/album/41LcXRuuDjV8JicIVvKUPc) | 2:59 | 2023-02-28 |  |
-| [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2022-10-20 |  |
+| [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2022-10-20 | 2023-04-11 |
 | [tsuru\-tsuki](https://open.spotify.com/track/1Tuq0XiJO21YcG5B9ImhGX) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [Four Nocturnes](https://open.spotify.com/album/0aheGuEnQDm2C0f8tm6A3u) | 13:37 | 2023-02-28 |  |
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-23 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-10-20 | 2022-12-14 |

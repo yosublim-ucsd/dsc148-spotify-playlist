@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cara o Cruz](https://open.spotify.com/track/6gyagQouotKjEoGQVi1e7d) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 5:37 | 2021-02-24 |  |
+| [A Cara o Cruz](https://open.spotify.com/track/6gyagQouotKjEoGQVi1e7d) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 5:37 | 2021-02-24 | 2023-04-11 |
 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2021-02-24 |  |
 | [Abre Tú Corazón](https://open.spotify.com/track/4j8B4DACwTsVyhK1JfwXPb) | [Rostros Ocultos](https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib) | [Singles](https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV) | 3:06 | 2021-02-24 | 2022-07-10 |
 | [Aun](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 | 2021-02-24 |  |
@@ -89,7 +89,7 @@
 | [Si Yo Fuera Mujer \- Remasterizado](https://open.spotify.com/track/1V1nNq3WHyz18VtU4kT6hK) | [Patxi Andion](https://open.spotify.com/artist/2Aj63SGDR3lgZ7GVVuK5wU) | [El Balcón Abierto \(Remasterizado\)](https://open.spotify.com/album/1CteV3zGoHhogGkk35cC5P) | 4:42 | 2021-02-24 | 2022-07-29 |
 | [Sin aliento](https://open.spotify.com/track/3jAgeQ5AmuV7UWhdvP651Y) | [Danza Invisible](https://open.spotify.com/artist/1MK9J20Op7jFgUDbLiy6m2) | [Musica De Contrabando](https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS) | 4:57 | 2021-02-24 |  |
 | [Tres Lunares](https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Esquizofrenia](https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr) | 4:10 | 2022-08-25 |  |
-| [Tres Lunares](https://open.spotify.com/track/4kSxZ6KmOkLGW8dHDo5NdQ) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Tres Lunares](https://open.spotify.com/album/0h8LKZDut0SLW7RsuaMOLP) | 4:21 | 2021-02-24 | 2022-07-29 |
+| [Tres Lunares](https://open.spotify.com/track/4kSxZ6KmOkLGW8dHDo5NdQ) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Tres Lunares](https://open.spotify.com/album/0h8LKZDut0SLW7RsuaMOLP) | 4:21 | 2021-02-24 |  |
 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 | 2021-02-24 |  |
 | [Trátame Suavemente](https://open.spotify.com/track/0gaGh9zDdtHDlTXiMzJXjv) | [Los Encargados](https://open.spotify.com/artist/1oP7qTxUpqM27hfVCHaGFF) | [Silencio](https://open.spotify.com/album/6BM3iwGzkyPLFuXYxYDanF) | 3:11 | 2021-02-24 | 2022-07-28 |
 | [Tú No Estás](https://open.spotify.com/track/2x5aFMOyjB1VYKBYpGIKLZ) | [Alquimia](https://open.spotify.com/artist/1UwZz1gjQPWb8zMm8qY7Hr) | [Monstruos Transparentes](https://open.spotify.com/album/7mDrnyOAR89cOOmSe5jzQE) | 3:47 | 2021-02-24 | 2022-07-29 |

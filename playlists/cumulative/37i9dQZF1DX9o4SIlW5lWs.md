@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-306 songs - 17 hr 41 min
+307 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 | 2022-01-21 | 2022-07-26 |
 | [Muñequito de Peluche](https://open.spotify.com/track/3PXeR8XO9uPbtEkRHZD3DL) | [Conjunto Musical Orlando Ayunes](https://open.spotify.com/artist/030U2Bb48fTzzhk3NxcQZC) | [Vamos por Mas..](https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-01-14 |  |
-| [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 | 2022-02-18 | 2023-04-09 |
+| [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 | 2022-02-18 |  |
 | [No aguanto más](https://open.spotify.com/track/0TMA7Pec4bH1JNfEN0mc3U) | [Hector Pacheco](https://open.spotify.com/artist/1X7iGHo0VLJ3IjhDini4gK) | [No aguanto más 2008](https://open.spotify.com/album/73ZHxX3YkAPRoifUMdFVQe) | 4:11 | 2023-03-31 |  |
 | [No Debería Quererte](https://open.spotify.com/track/5P4xezLTnfp7alej9QCFyN) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [No Debería Quererte](https://open.spotify.com/album/5GNeYcySMXqQu8oth22Vaw) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [No Es Mi Despedida](https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:04 | 2023-03-10 |  |
@@ -214,7 +214,7 @@
 | [Que Lloro / Mientes](https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Que Lloro / Mientes](https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj) | 3:48 | 2022-01-14 |  |
 | [Que Me Van a Hablar de Amor](https://open.spotify.com/track/6JzjdWAIgYxn7sfCw9SZ8t) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 4:10 | 2022-01-14 | 2022-07-29 |
 | [Que Nos Volvamos a Ver](https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Que Nos Volvamos a Ver](https://open.spotify.com/album/1XKy6pkSLzHHq3ldyftbKA) | 2:47 | 2022-01-14 | 2022-05-20 |
-| [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 |  |
+| [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 | 2023-04-11 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 |  |
 | [Quitame Ese Hombre](https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Qué Me Van a Hablar de Amor](https://open.spotify.com/track/4Hfya8nJI7KFIdWEtniMte) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor y Vida](https://open.spotify.com/album/74fb3iRHnLuIrCzKWSj58X) | 4:03 | 2022-07-22 | 2023-02-27 |
@@ -255,7 +255,7 @@
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2022-04-01 | 2022-05-23 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 | 2022-01-14 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-13 |
-| [Te sorprenderás / Hasta el sol de hoy \- Live Session](https://open.spotify.com/track/4FpsFwMMjiHgyx8xjpgzN7) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Te sorprenderas / Hasta el sol de hoy \(Live Session\)](https://open.spotify.com/album/0DkqXH8VLBX0HaonaiXCCt) | 2:51 | 2023-03-27 |  |
+| [Te sorprenderás / Hasta el sol de hoy \- Live Session](https://open.spotify.com/track/4FpsFwMMjiHgyx8xjpgzN7) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Te sorprenderas / Hasta el sol de hoy \(Live Session\)](https://open.spotify.com/album/0DkqXH8VLBX0HaonaiXCCt) | 2:51 | 2023-03-27 | 2023-04-11 |
 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 | 2022-01-14 | 2022-07-29 |
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2022-07-22 |  |
 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 | 2022-01-14 |  |
@@ -279,6 +279,7 @@
 | [Uno Por Uno](https://open.spotify.com/track/1d4bXRdIkRHVRaLfLZ6RUC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Uno Por Uno](https://open.spotify.com/album/4G641SUHN158u1USlkh9zx) | 2:57 | 2022-01-21 | 2022-06-12 |
 | [Vagabundo y Soñador](https://open.spotify.com/track/3QgwN8NQrf1bRjaR82002L) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Vagabundo y Soñador](https://open.spotify.com/album/4x0lsKjstNSJrmxzYksRGy) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 | 2022-01-14 | 2022-06-11 |
+| [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2023-04-10 |  |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2022-01-14 | 2022-07-18 |
 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-01-14 |  |
 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 | 2022-01-14 |  |

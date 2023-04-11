@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 
 > Revenge is best served raw...Watch Ali Wong and Steven Yeun in Beef, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571 likes - 18 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 18 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

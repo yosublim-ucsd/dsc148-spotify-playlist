@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Immasoul",
-  "num_followers": 747852,
+  "num_followers": 747818,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDcyMjA5NCwwMDAwMDAwMDEyMTcyMzM4ZWRmOTAwNWQ1NmM1MmZjZTkxZGZmMzI2",
+  "snapshot_id": "MTY4MDcyMjA5NCwwMDAwMDAwMDE2NWRlN2ExY2RjMTUwOTc5YzUyMjI3ZDVjMmRmMzg5",
   "tracks": [
     {
       "added_at": "2023-03-29 04:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
-      "added_at": "2023-04-10 00:55:51",
+      "added_at": "2023-04-11 00:52:12",
       "album": {
         "name": "buena vista!",
         "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Bah\u00eda",
         "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
       },
@@ -433,7 +417,23 @@
       "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
     },
     {
-      "added_at": "2023-04-10 00:55:51",
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-04-11 00:52:12",
       "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
-        "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 176524,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Dame Guerra",
-        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
+        "name": "\u00bfC\u00f3mo sonar\u00eda un disco?",
+        "url": "https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Dame Guerra",
-      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
+      "duration_ms": 176524,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "Dame Guerra",
+        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Dame Guerra",
+      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "SI ME ELEVO",
         "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 142222,
       "name": "te di mi luz",
       "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
+        "name": "Naona",
+        "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 231634,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
+    },
+    {
+      "added_at": "2023-03-29 04:00:00",
+      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Naona",
-        "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 231634,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
         "name": "Caribe Caribe",
         "url": "https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Tatuaje",
-        "url": "https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X"
+        "name": "Ideas In Mind",
+        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
       },
       "artists": [
         {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+          "name": "Aroe Phoenix",
+          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
         }
       ],
-      "duration_ms": 186520,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W"
+      "duration_ms": 218076,
+      "name": "Ideas In Mind",
+      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
     },
     {
       "added_at": "2023-03-29 04:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-03-29 04:00:00",
       "album": {
-        "name": "Ideas In Mind",
-        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
+        "name": "Tatuaje",
+        "url": "https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X"
       },
       "artists": [
         {
-          "name": "Aroe Phoenix",
-          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
         }
       ],
-      "duration_ms": 218076,
-      "name": "Ideas In Mind",
-      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
+      "duration_ms": 186520,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W"
     },
     {
       "added_at": "2023-03-29 04:00:00",

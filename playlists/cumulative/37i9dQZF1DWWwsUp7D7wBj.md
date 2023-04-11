@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWwsUp7D7wBj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWwsUp7D7wBj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWwsUp7D7wBj)
 
-### [cultura.com](https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj)
+### [cultura.now](https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj)
 
 > Todo lo que es cool en el mundo del internet\. ¿Nos invitan a la boda please?
 

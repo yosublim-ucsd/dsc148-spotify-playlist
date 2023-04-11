@@ -1,6 +1,6 @@
 {
   "description": "The very best in new music from around the world. Cover: Drake",
-  "num_followers": 369631,
+  "num_followers": 369934,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -920,12 +920,12 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
       "duration_ms": 194518,

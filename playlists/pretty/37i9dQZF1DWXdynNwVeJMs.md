@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,370 likes - 90 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,378 likes - 90 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

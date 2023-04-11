@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 90074,
+  "num_followers": 90216,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDg2MDQyZDcxMDAwNDk0MWE2M2Y1ZmM3M2NmZmU0OWVh",
+  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDBkMTM3NzNlM2M0OWYzOWJjMzIyYzE4YTZjYWNhYTRj",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 188840,
       "name": "Ice Pick",
       "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -463,34 +463,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -507,6 +491,22 @@
       "duration_ms": 414000,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Strollin' With Bones",
-      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Strollin' With Bones",
+      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "A Long Time Comin'",
-        "url": "https://open.spotify.com/album/5816bqBdozCXD95olZoLHk"
-      },
-      "artists": [
-        {
-          "name": "The Electric Flag",
-          "url": "https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Blues Brothers 2000",
         "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 185226,
       "name": "Born In Chicago",
       "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "A Long Time Comin'",
+        "url": "https://open.spotify.com/album/5816bqBdozCXD95olZoLHk"
+      },
+      "artists": [
+        {
+          "name": "The Electric Flag",
+          "url": "https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Nine Below Zero",
-      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -935,6 +935,22 @@
       "duration_ms": 318040,
       "name": "Wound Up Tight",
       "url": "https://open.spotify.com/track/3a4PKaIVUkFTl2k9PV93yh"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Nine Below Zero",
+      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -967,22 +983,6 @@
       "duration_ms": 250360,
       "name": "My Love Strikes Like Lightning",
       "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
     },
     {
       "added_at": "2023-03-03 18:13:49",

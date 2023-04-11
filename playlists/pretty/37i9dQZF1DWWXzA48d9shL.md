@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: do not resurrect
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,073 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,449 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [KILL EM BODY](https://open.spotify.com/track/1NolQUklOhveTHpi5DqOct) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/39JVRr1HIaU8hzos7mCba3) | 3:48 |
 | 100 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGQ3MDQ5NDkwMTkzMjAxZDM5MWQwZDU3M2Q4ZWYwN2Jm`
+Snapshot ID: `MTY4MTE1NzEwMywwMDAwMDAwMDM3ZjBlOGQxYTM5N2NkNzc0OGYwZTQ2MGY4ZDc0NzAy`

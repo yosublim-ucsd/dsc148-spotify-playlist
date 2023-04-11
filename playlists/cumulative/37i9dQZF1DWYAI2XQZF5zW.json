@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+    },
+    {
+      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
       },
@@ -1570,24 +1588,6 @@
       "duration_ms": 256240,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/54BA9VfKHAj61wOITNnw1W"
-    },
-    {
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "date_added": "2020-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256240,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
     },
     {
       "album": {

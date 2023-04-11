@@ -4,7 +4,7 @@
 
 > 今週話題になった楽曲をまとめてチェック！Cover: ONE OK ROCK
 
-379 songs - 22 hr 40 min
+380 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 | 2023-03-31 | 2023-04-09 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-27 | 2023-02-11 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-03 | 2023-02-11 |
+| [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-04-10 |  |
 | [IIII\-43\(暴れん坊将軍\)](https://open.spotify.com/track/7Azt4PjFJlhInbPSwetOTJ) | [東映傑作シリーズ](https://open.spotify.com/artist/1ysWgIR2c18sTQIsAKQwcA) | [東映傑作シリーズ 松平健主演作品Vol.1「暴れん坊将軍」](https://open.spotify.com/album/2ABV9eXvQ9Rwx6AQojpG2G) | 1:45 | 2023-03-17 | 2023-03-25 |
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-24 | 2023-03-11 |
 | [I’m now here](https://open.spotify.com/track/44eBoxkBWlUUQH2uiVCbYp) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [I’m now here](https://open.spotify.com/album/5WFymuEv6kvcj0PaT0kKwQ) | 3:11 | 2023-04-07 |  |

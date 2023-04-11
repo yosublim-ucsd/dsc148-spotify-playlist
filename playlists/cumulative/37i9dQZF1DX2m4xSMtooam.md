@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-205 songs - 13 hr 9 min
+206 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [S'Wonderful](https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:27 | 2022-05-13 |  |
 | [Samba Cantina](https://open.spotify.com/track/1Yimq2iZciRfLDDdeGnhiA) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:38 | 2022-05-13 | 2022-07-29 |
 | [Samba Cantina](https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 5:42 | 2022-06-28 | 2022-10-17 |
-| [Samba Da Benção](https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 6:54 | 2022-06-28 |  |
+| [Samba Da Benção](https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 6:54 | 2022-06-28 | 2023-04-11 |
 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 | 2022-05-13 | 2022-07-29 |
 | [Samba De Uma Nota So](https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:09 | 2022-05-13 |  |
 | [Samba E Amor](https://open.spotify.com/track/1uBwJa5DlgwteCuTclf2sJ) | [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Tanto Tempo](https://open.spotify.com/album/4HVc4yoKzUdtHvZ8zGGHe4) | 3:28 | 2022-05-13 | 2022-07-29 |
@@ -182,6 +182,7 @@
 | [Só Tinha de Ser Com Você](https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:53 | 2022-05-13 |  |
 | [Take Five \- Studio Rio Version](https://open.spotify.com/track/1C7Gw28QPWVc7ssGlfUpsO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 2:54 | 2022-05-13 | 2023-01-13 |
 | [Teleco\-Teco](https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa) | [Paula Morelenbaum](https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN) | [Telecoteco](https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb) | 3:38 | 2022-05-13 | 2023-01-14 |
+| [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 | 2023-03-23 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-06-28 | 2023-04-10 |
 | [The Girl From Ipanema](https://open.spotify.com/track/772NvWLbR51JEbzQKRnXma) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:24 | 2022-05-13 | 2022-07-29 |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-05-13 | 2023-01-13 |

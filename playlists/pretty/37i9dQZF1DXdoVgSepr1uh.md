@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Rusherking, Yami Safdie & Micro TDH.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,269 likes - 101 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,286 likes - 101 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 12 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 |
 | 13 | [Lo Prohibido](https://open.spotify.com/track/5hXCoCOkwltZ8NQaCI8NHL) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Lo Prohibido](https://open.spotify.com/album/4rWpnQ5bzMcMIM3MT7067b) | 2:32 |
 | 14 | [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 |
-| 15 | [Extasy](https://open.spotify.com/track/2Ltczd2xWJXX7nuKkWtKjz) | [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP), [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Extasy](https://open.spotify.com/album/5EhWtBLkhLzuAwZxbsSm5U) | 3:26 |
+| 15 | [Extasy](https://open.spotify.com/track/2Ltczd2xWJXX7nuKkWtKjz) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Extasy](https://open.spotify.com/album/5EhWtBLkhLzuAwZxbsSm5U) | 3:26 |
 | 16 | [ESPERO](https://open.spotify.com/track/1wy5Gw79M9973w36dMZcuH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [ESPERO](https://open.spotify.com/album/5DwV6ipYSjaP8Q4M0T5e5o) | 3:20 |
 | 17 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 |
 | 18 | [Anoche \(Remix\)](https://open.spotify.com/track/2k6RWRsm2yYD8lOJjer5qa) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Anoche \(Remix\)](https://open.spotify.com/album/0ibOm3Sm7K1o6wG8I9B6QQ) | 3:48 |

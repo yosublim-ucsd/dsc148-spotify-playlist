@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 196770,
+  "num_followers": 196762,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDQ4MGQwZDUyYTMxZmFiMzViMWZmZDYwYmFkZDRhNTRl",
+  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMGUzNGNiNzM5ZjM3YWQwMzhjMWM0YzE1MmMxY2QxNWFm",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
-      },
-      "artists": [
-        {
-          "name": "Parchis",
-          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Ya Viene la Vieja",
-      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Tarjeta De Navidad, VOL. II",
         "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 156600,
       "name": "Se Va Diciembre",
       "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
+      },
+      "artists": [
+        {
+          "name": "Parchis",
+          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Ya Viene la Vieja",
+      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
     },
     {
       "added_at": "2022-12-19 23:50:20",

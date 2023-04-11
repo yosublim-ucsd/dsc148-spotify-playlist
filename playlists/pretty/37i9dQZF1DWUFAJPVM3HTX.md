@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Annie Tracy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,624 likes - 176 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,668 likes - 176 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

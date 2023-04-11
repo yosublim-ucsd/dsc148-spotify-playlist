@@ -4031,6 +4031,32 @@
     },
     {
       "album": {
+        "name": "NUNCA +",
+        "url": "https://open.spotify.com/album/4VhWGDxXEveBrL8GdeQkWn"
+      },
+      "artists": [
+        {
+          "name": "Heartgaze",
+          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+        },
+        {
+          "name": "Fco. Chandia",
+          "url": "https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p"
+        },
+        {
+          "name": "Carliane Tamara",
+          "url": "https://open.spotify.com/artist/0cYMTYd2asosLnMfAiQEZX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "NUNCA +",
+      "url": "https://open.spotify.com/track/1pYUCxr8jevPjnbmMXlusx"
+    },
+    {
+      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
       },
@@ -4510,7 +4536,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 222542,
       "name": "Primera Fila",
       "url": "https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0"

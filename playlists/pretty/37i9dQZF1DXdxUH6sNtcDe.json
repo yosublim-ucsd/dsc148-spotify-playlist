@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Kenny Chesney",
-  "num_followers": 647452,
+  "num_followers": 648203,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjM5MCwwMDAwMDAwMDNjOTFjMmJlOTYzMzQxMTc1MmE5Nzk1ZDQ3ZmVlZWUz",
+  "snapshot_id": "MTY3ODgwNjM5MCwwMDAwMDAwMDcyOGI5ZGJhOTdjYzBjOTEzMDVhNmI0OTY0ODE0Zjg5",
   "tracks": [
     {
       "added_at": "2022-07-24 22:45:48",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 215853,
       "name": "Good Directions",
       "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 262773,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 300333,
       "name": "Live Like You Were Dying",
       "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Love Like Crazy",
         "url": "https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 230373,
       "name": "Redneck Yacht Club",
       "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Three Chord Country and American Rock & Roll",
-        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
-      },
-      "artists": [
-        {
-          "name": "Keith Anderson",
-          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Pickin' Wildflowers",
-      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 202546,
       "name": "Amarillo Sky",
       "url": "https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Three Chord Country and American Rock & Roll",
+        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
+      },
+      "artists": [
+        {
+          "name": "Keith Anderson",
+          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Pickin' Wildflowers",
+      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "My Life's Been A Country Song",
-        "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "What Kinda Gone",
-      "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Long Black Train",
         "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 250626,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "My Life's Been A Country Song",
+        "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "What Kinda Gone",
+      "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Blake Shelton's Barn & Grill",
         "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 204826,
       "name": "Some Beach",
       "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
         }
       ],
-      "duration_ms": 219000,
-      "name": "It Won't Be Like This For Long",
-      "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
+      "duration_ms": 201493,
+      "name": "That's What I Love About Sunday",
+      "url": "https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
       "artists": [
         {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 201493,
-      "name": "That's What I Love About Sunday",
-      "url": "https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE"
+      "duration_ms": 219000,
+      "name": "It Won't Be Like This For Long",
+      "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "See If I Care",
-        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Nothing On But The Radio",
-      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "I'll Stay Me",
         "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 242800,
       "name": "All My Friends Say",
       "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "See If I Care",
+        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Nothing On But The Radio",
+      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Old Things New",
-        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
-      },
-      "artists": [
-        {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Gimmie That Girl",
-      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Old Things New",
+        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Gimmie That Girl",
+      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Stand Still, Look Pretty (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
-      },
-      "artists": [
-        {
-          "name": "The Wreckers",
-          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Leave the Pieces",
-      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Some People Change",
         "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 196706,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Stand Still, Look Pretty (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
+      },
+      "artists": [
+        {
+          "name": "The Wreckers",
+          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Leave the Pieces",
+      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 306026,
-      "name": "Hicktown",
-      "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
-    },
-    {
-      "added_at": "2022-07-24 22:45:48",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
       },
@@ -1951,18 +1935,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "Tim McGraw And The Dancehall Doctors",
-        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 283560,
-      "name": "Red Ragtop",
-      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -1979,6 +1963,22 @@
       "duration_ms": 216173,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
+    },
+    {
+      "added_at": "2022-07-24 22:45:48",
+      "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 306026,
+      "name": "Hicktown",
+      "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
     },
     {
       "added_at": "2022-07-24 22:45:48",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2022-07-24 22:45:48",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+        "name": "Tim McGraw And The Dancehall Doctors",
+        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
+      "duration_ms": 283560,
+      "name": "Red Ragtop",
+      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
     }
   ],
   "unique_name": "2000s Country",

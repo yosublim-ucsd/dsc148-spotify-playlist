@@ -3884,6 +3884,28 @@
     {
       "album": {
         "name": "The Offering",
+        "url": "https://open.spotify.com/album/7DqtShvlb1a0umLYKtDEQB"
+      },
+      "artists": [
+        {
+          "name": "Ov Ruin",
+          "url": "https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm"
+        },
+        {
+          "name": "Blake Mullens of Disembodied Tyrant",
+          "url": "https://open.spotify.com/artist/0t9brZiLxf06bZm752I2Pj"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278200,
+      "name": "The Offering",
+      "url": "https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc"
+    },
+    {
+      "album": {
+        "name": "The Offering",
         "url": "https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz"
       },
       "artists": [

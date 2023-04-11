@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,691 songs - 3 day 11 hr 18 min
+1,692 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Bitches brauchen Rap](https://open.spotify.com/track/6clMAqSgEWpcFgNlr0nxOh) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:51 | 2021-11-21 | 2021-11-26 |
 | [Bitte sag's nicht meiner Freundin](https://open.spotify.com/track/1NridNoJ0aBJyCh6hQxY4T) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Rap über Hass](https://open.spotify.com/album/12MOBAZ9tzCaJpJbFYhqiy) | 3:59 | 2021-05-30 | 2021-05-31 |
 | [BITTE SPITTE X](https://open.spotify.com/track/5CQqlc5MtuFpyIiPsn3iWa) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [X](https://open.spotify.com/album/2UbYQjKHZdrHnGCpOsnO7B) | 2:51 | 2021-11-28 | 2021-12-04 |
-| [BLACKOUT](https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8) | 2:45 | 2023-04-06 | 2023-04-09 |
+| [BLACKOUT](https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8) | 2:45 | 2023-04-06 |  |
 | [BLACKOUT](https://open.spotify.com/track/2w0TmCC0w8SASWpfvdXnxi) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [BLACKOUT](https://open.spotify.com/album/3mQWgJfQS2BpZZ9XSHBNlP) | 2:46 | 2022-11-12 | 2022-12-02 |
 | [blau](https://open.spotify.com/track/75J8OuOkEyMIG9scAuuwew) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [blau](https://open.spotify.com/album/6gY4QVJaGRxnrVsFzoV4IR) | 2:24 | 2021-07-24 | 2021-07-25 |
 | [Blau](https://open.spotify.com/track/7kPwuFA1D7tTIm4778jllA) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Auf Loop](https://open.spotify.com/album/3noX7oSIEdQ0YEQOLBZfxF) | 3:03 | 2022-06-11 | 2022-06-13 |
@@ -903,7 +903,7 @@
 | [Lost](https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx) | 3:54 | 2022-03-02 | 2022-03-05 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-04 | 2022-03-13 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-11 | 2023-04-09 |
-| [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-04-08 |  |
+| [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-04-08 | 2023-04-11 |
 | [Lost \(feat\. TOPIC42\)](https://open.spotify.com/track/19LqJBBfd73oeBc3CPgDdl) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [TOPIC42](https://open.spotify.com/artist/4unaJKYfY4B51exXVQSilo) | [Lost \(feat\. TOPIC42\)](https://open.spotify.com/album/5ZJ2c9bd5wsIXlQboaM53r) | 2:20 | 2021-03-27\* | 2021-04-04 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-12 |
 | [Love](https://open.spotify.com/track/0h9o7htUBxQkrQFx6LXHcp) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB) | [Love](https://open.spotify.com/album/0vndkr7vpb2k1w0WSSMysu) | 2:34 | 2022-04-30 | 2022-05-06 |
@@ -1106,7 +1106,7 @@
 | [Niemand bringt Marten um](https://open.spotify.com/track/0nYSnbFVX5ghrERjwVZgwZ) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Niemand bringt Marten um](https://open.spotify.com/album/3WyjbWN8sdlpWugQuHpWUk) | 3:15 | 2021-03-27\* | 2021-05-16 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-03-18 | 2022-06-05 |
 | [Nightmares](https://open.spotify.com/track/6tXSj6MWL76ebA1vy4VfsN) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Nightmares](https://open.spotify.com/album/4A2vXbpOdWw7EiMUCDGHt1) | 2:29 | 2023-04-01 | 2023-04-07 |
-| [Nix zu tun](https://open.spotify.com/track/3zk8jIWMJFK14Mg1vzIxpP) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Nix zu tun](https://open.spotify.com/album/35FlLDRRcSvbzg3vhDyaBB) | 2:17 | 2023-03-18 |  |
+| [Nix zu tun](https://open.spotify.com/track/3zk8jIWMJFK14Mg1vzIxpP) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Nix zu tun](https://open.spotify.com/album/35FlLDRRcSvbzg3vhDyaBB) | 2:17 | 2023-03-18 | 2023-04-11 |
 | [NKT](https://open.spotify.com/track/7tEIPkxs2PKGQq5Q0OII5Y) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [NKT](https://open.spotify.com/album/5FQ6PkiVntr3gUZQFvr4il) | 2:36 | 2021-04-11 | 2021-04-13 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-03 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-07 |
@@ -1422,6 +1422,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
 | [Strassa](https://open.spotify.com/track/0yguARlTVRpheIXYzoMSx4) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Strassa](https://open.spotify.com/album/5auvmsPTgk24VnONR7IYbT) | 4:06 | 2022-07-16 | 2022-07-18 |
 | [Strassengeschichten](https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Strassengeschichten](https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F) | 2:46 | 2022-01-22 | 2022-01-30 |
+| [Stups, der kleine Osterhase](https://open.spotify.com/track/1O2sdZviza9fQgHuRIXkYY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Radio Lollipop](https://open.spotify.com/album/7fRHiKDTXZe772cYMPkIaf) | 2:12 | 2023-04-10 |  |
 | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/track/473iuBry5Y4SSx9AGw9LLw) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/album/4tSoKS8d26eyigOHVNvtZy) | 2:26 | 2023-02-11 | 2023-03-12 |
 | [Su lang mer noch am Lääve sin](https://open.spotify.com/track/25lkWy6ZVqWJjKdwRmrig7) | [Brings](https://open.spotify.com/artist/5uRfU4LuGDkxzZ86uCXQY8) | [Silberhochzeit \(Best Of\)](https://open.spotify.com/album/6mw2coNbKV7OJ3DS7zqdta) | 3:42 | 2023-02-17 | 2023-02-19 |
 | [Suche nach mehr](https://open.spotify.com/track/2CHoaNtGw6Bkqh5AyxfnPD) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Suche nach mehr](https://open.spotify.com/album/7gLtjaD2I3CDMa9HfUZ3zA) | 2:36 | 2021-07-18 | 2021-07-19 |

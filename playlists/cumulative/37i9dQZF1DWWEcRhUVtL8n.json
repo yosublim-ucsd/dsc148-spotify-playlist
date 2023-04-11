@@ -6547,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "Digital Silence",
+        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Digital Silence",
+      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "album": {
         "name": "Dinner Plate",
         "url": "https://open.spotify.com/album/3jKhthY1haEm1ocbmTgf74"
       },
@@ -9476,6 +9494,24 @@
       "duration_ms": 176897,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/7xhEhQbq7nx52PS3SCtPD7"
+    },
+    {
+      "album": {
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
       "album": {
@@ -27354,7 +27390,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 195294,
       "name": "WHO'S TO SAY",
       "url": "https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z"
@@ -27430,7 +27466,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 214068,
       "name": "wide eyed",
       "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"

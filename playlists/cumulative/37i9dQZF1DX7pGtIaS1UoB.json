@@ -4746,7 +4746,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 229638,
       "name": "\u8aaa\u4f60\u9858\u610f",
       "url": "https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC"
@@ -4950,6 +4950,24 @@
       "duration_ms": 245527,
       "name": "\u9047\u5230\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi"
+    },
+    {
+      "album": {
+        "name": "\u90a3\u4e00\u523b\u5fc3\u52d5",
+        "url": "https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u67ef",
+          "url": "https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222104,
+      "name": "\u90a3\u4e00\u523b\u5fc3\u52d5",
+      "url": "https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L"
     },
     {
       "album": {

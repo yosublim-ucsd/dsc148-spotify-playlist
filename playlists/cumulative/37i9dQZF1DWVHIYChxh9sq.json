@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas (En Vivo)",
+        "url": "https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c"
+      },
+      "artists": [
+        {
+          "name": "Lilo Bermudez",
+          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128638,
+      "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas",
+      "url": "https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU"
+    },
+    {
+      "album": {
         "name": "Exitos En Vivo Vol. 2",
         "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
       },
@@ -5866,7 +5884,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 162050,
       "name": "Por Las Calles De Chihuahua",
       "url": "https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx"

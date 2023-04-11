@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Popcaan",
-  "num_followers": 380773,
+  "num_followers": 380979,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMDgwYWRkOGFlYTYzNGNlNDFhNzk4Yjk5YjdjNWU4MDkw",
+  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMGFlYjk4NzRlMTczMjRjZTk3YjZjNDM1YTNmNGNmYWJl",
   "tracks": [
     {
       "added_at": "2023-03-03 12:27:30",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Stronger We Get",
         "url": "https://open.spotify.com/album/39jYUlDsrXJPtfucwq4f3F"
       },
@@ -371,6 +387,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Pull up to Mi Bumper",
         "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
@@ -387,38 +419,6 @@
       "duration_ms": 150279,
       "name": "Pull up to Mi Bumper",
       "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Mr Vegas: The Hits",
-        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Dickmatized",
+        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 140336,
+      "name": "Dickmatized",
+      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Maestro",
         "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Dickmatized",
-        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
+        "name": "Ova Dweet - Single",
+        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
       },
       "artists": [
         {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 140336,
-      "name": "Dickmatized",
-      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
+      "duration_ms": 221194,
+      "name": "Ova Dweet",
+      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -759,22 +775,6 @@
       "duration_ms": 215920,
       "name": "Too Many Man",
       "url": "https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Ova Dweet - Single",
-        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221194,
-      "name": "Ova Dweet",
-      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Strictly The Best Vol 33",
-        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Willie Bounce",
-      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Money & Done (Remix)",
         "url": "https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 160528,
       "name": "Money & Done - Remix",
       "url": "https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Strictly The Best Vol 33",
+        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Willie Bounce",
+      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Buzz Riddim",
-        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Give Me the Light",
-      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X"
       },
@@ -1263,34 +1247,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Protect Me",
-        "url": "https://open.spotify.com/album/5DPhF3aIVWGMOngl5IBVYq"
+        "name": "Buzz Riddim",
+        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
       },
       "artists": [
         {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 173576,
-      "name": "Protect Me",
-      "url": "https://open.spotify.com/track/7y6HITUoZv9iCCE6LJxtXf"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Top Prize",
-      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
+      "duration_ms": 226400,
+      "name": "Give Me the Light",
+      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1307,6 +1275,22 @@
       "duration_ms": 252893,
       "name": "Vitamin S",
       "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Protect Me",
+        "url": "https://open.spotify.com/album/5DPhF3aIVWGMOngl5IBVYq"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 173576,
+      "name": "Protect Me",
+      "url": "https://open.spotify.com/track/7y6HITUoZv9iCCE6LJxtXf"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Top Prize",
+      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Riddim Driven: Applause",
         "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Riddim Driven: Trippple Bounce",
-        "url": "https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Gallis",
-      "url": "https://open.spotify.com/track/3RLkSmtXZOjPCPNnIw7ZZ3"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195893,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/2d6gIQ6KRsmMKQYjEBFEN9"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Riddim Driven: Trippple Bounce",
+        "url": "https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "Gallis",
+      "url": "https://open.spotify.com/track/3RLkSmtXZOjPCPNnIw7ZZ3"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Infiltrate",
+      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Elegance (Remix)",
         "url": "https://open.spotify.com/album/7ExVCJjWl0QaOoLOLpv1IE"
       },
@@ -1455,38 +1471,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Hot Wuk 12\"",
-        "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Hot Wuk (Album Clean)",
-      "url": "https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Infiltrate",
-      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Incredible",
         "url": "https://open.spotify.com/album/3Std2W2SZ7fLAVYdrYpOqo"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 269866,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/2fq7lLTvRHZjUPqh5a20n5"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Hot Wuk 12\"",
+        "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Hot Wuk (Album Clean)",
+      "url": "https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN"
     },
     {
       "added_at": "2023-03-03 12:27:30",

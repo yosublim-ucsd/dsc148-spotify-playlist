@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Rosalía, Rauw Alejandro
 
-259 songs - 13 hr 39 min
+260 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Esperándote](https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Esperándote](https://open.spotify.com/album/7G34TQlhV4DPX3EUCF5Bp3) | 2:45 | 2023-02-24 |  |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2021-12-31 | 2022-01-15 |
 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 | 2022-10-21 |  |
-| [Fixação](https://open.spotify.com/track/6su9AZXjpyLYT9DptbsTE5) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Fixação](https://open.spotify.com/album/68s6AonOD9d90Usohm6lQF) | 2:21 | 2023-04-01 |  |
+| [Fixação](https://open.spotify.com/track/6su9AZXjpyLYT9DptbsTE5) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Fixação](https://open.spotify.com/album/68s6AonOD9d90Usohm6lQF) | 2:21 | 2023-04-01 | 2023-04-11 |
 | [Flor](https://open.spotify.com/track/4WwaMmqXkRRoAGtrCVnc6O) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi), [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k) | [Flor](https://open.spotify.com/album/1UVpxyb8UIaBxTNvhO623L) | 3:37 | 2022-06-03 | 2022-06-25 |
 | [Fogo](https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc) | [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Encruzilhada](https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk) | 2:31 | 2022-04-29 | 2022-06-04 |
 | [Fora da Lei](https://open.spotify.com/track/0TzcOzVP177f5DTz2eRxvV) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Fora da Lei](https://open.spotify.com/album/1h4U7QKQ15IIXWsHjPoOT3) | 2:22 | 2022-04-29 | 2022-06-04 |
@@ -186,6 +186,7 @@
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-01-27 | 2023-03-03 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-06 | 2022-12-10 |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-29 | 2022-07-09 |
+| [Peligrosa](https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Peligrosa](https://open.spotify.com/album/0zIzGFpdewLtEFH5iofXtU) | 2:11 | 2023-04-11 |  |
 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 | 2021-12-31 | 2022-03-26 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-12-31 | 2022-12-10 |
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2021-12-31 |  |

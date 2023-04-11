@@ -100,7 +100,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 237009,
       "name": "10 Missed Calls (feat. Pharrell Williams & Jozzy)",
       "url": "https://open.spotify.com/track/5o1JjtIuYRXBoea4WBZGDc"
@@ -1931,6 +1931,32 @@
     },
     {
       "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "album": {
         "name": "Future House Edition",
         "url": "https://open.spotify.com/album/07fdPftoZdO1wBHCNBRdwz"
       },
@@ -3168,7 +3194,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 166742,
       "name": "Black Hole - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
@@ -3684,7 +3710,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -4080,7 +4106,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 165773,
       "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
@@ -4786,7 +4812,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 141640,
       "name": "Chain My Heart - HUTS Remix",
       "url": "https://open.spotify.com/track/1IoRkRndvPlSiCk8htfZmX"
@@ -5696,7 +5722,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 274551,
       "name": "Consciousness",
       "url": "https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx"
@@ -6012,7 +6038,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 126655,
       "name": "Crooked (VAANCE & Herrin Remix)",
       "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
@@ -6188,7 +6214,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 192380,
       "name": "Dance with Somebody",
       "url": "https://open.spotify.com/track/0ThqsnddBDqUqD6nawh5wX"
@@ -7622,7 +7648,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 145978,
       "name": "Drank & Drugs",
       "url": "https://open.spotify.com/track/37NZqOoR0dw71kbDCRnsKc"
@@ -7740,7 +7766,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 179374,
       "name": "Drive (feat. Wes Nelson)",
       "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
@@ -7934,7 +7960,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 214687,
       "name": "Easier (feat. LOWES) - Radio Edit",
       "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
@@ -8836,7 +8862,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 266178,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB"
@@ -9158,7 +9184,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 140952,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/0bPZnYM6P1KBhTx8sCggPI"
@@ -11230,7 +11256,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 209907,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5enElsJ9GpqasefsrSukbu"
@@ -12562,7 +12588,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 144700,
       "name": "How Do You Love",
       "url": "https://open.spotify.com/track/63GqGqWStpNXV6ucxlLbHi"
@@ -15482,7 +15508,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 228629,
       "name": "Kiss from God - mint Singles",
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
@@ -15720,7 +15746,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 354374,
       "name": "Lay Your Head On Me (feat. Marcus Mumford) - Big Kid Big Room Mix",
       "url": "https://open.spotify.com/track/18wnUv1DBkkMh393oKnHQj"
@@ -16076,7 +16102,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 148693,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
@@ -16736,7 +16762,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 149805,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/5f0McQYkf82REdO4mMlgE9"
@@ -19494,7 +19520,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 227076,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/28nEJf4VCUQ2srQgwPNWdA"
@@ -19888,7 +19914,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
@@ -20546,7 +20572,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
@@ -21212,7 +21238,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-03",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "Outline (feat. Julie Bergan)",
       "url": "https://open.spotify.com/track/1jO5cLkg1lJdYqgR2WPAwM"
@@ -22292,7 +22318,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 164745,
       "name": "Pull Me Closer",
       "url": "https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN"
@@ -22328,7 +22354,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 220581,
       "name": "Pump The Brakes",
       "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
@@ -22434,7 +22460,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
@@ -22584,7 +22610,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
@@ -23172,7 +23198,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 176250,
       "name": "Ring The Alarm - Habstrakt Remix",
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
@@ -24672,7 +24698,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 343478,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/1vEZowSqrFbit7x1Gx092r"
@@ -24698,7 +24724,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 184911,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/6OEtf9kBSRNOVYAaFWl3Eg"
@@ -24782,7 +24808,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "Sick Boy",
       "url": "https://open.spotify.com/track/7jqDzXJS0K0Re8uphYNit0"
@@ -25006,7 +25032,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 188160,
       "name": "Sing For Me (with Mary N'diaye)",
       "url": "https://open.spotify.com/track/2U5fAT4kBBbrHAFp6UseoH"
@@ -25104,7 +25130,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 156707,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1n23FLzfFPMICCDJdtvmap"
@@ -25398,7 +25424,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
@@ -25986,7 +26012,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 189375,
       "name": "Stamina - Krystal Roxx Remix",
       "url": "https://open.spotify.com/track/6pCXsuImno3nrSrop3BPMd"
@@ -28566,7 +28592,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 161538,
       "name": "To Die For - Madism Remix",
       "url": "https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v"
@@ -28822,7 +28848,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 242666,
       "name": "Touch - Extended Mix",
       "url": "https://open.spotify.com/track/0ZSFTz55YaK4RoVXtLKTgY"
@@ -29056,7 +29082,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 116297,
       "name": "Tu Tu Tu (That's Why We)",
       "url": "https://open.spotify.com/track/3qY5bS9bKs5HedrAiWfP6x"
@@ -30186,7 +30212,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 169741,
       "name": "Waste of Time",
       "url": "https://open.spotify.com/track/5VHHKphE1HE8n9uWR76c4e"

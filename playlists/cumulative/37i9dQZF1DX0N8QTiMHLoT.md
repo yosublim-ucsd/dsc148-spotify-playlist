@@ -2,7 +2,7 @@
 
 ### [Bottoms Up](https://open.spotify.com/playlist/37i9dQZF1DX0N8QTiMHLoT)
 
-> Because bass\. Cover: Victor Wooten
+> 𝄢Because bass\. Cover: Victor Wooten𝄢
 
 90 songs - 6 hr 35 min
 

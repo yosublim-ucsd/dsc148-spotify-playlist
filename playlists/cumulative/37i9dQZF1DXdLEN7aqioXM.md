@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-398 songs - 1 day 4 hr 27 min
+399 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,12 +156,13 @@
 | [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 |  |
 | [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 | 2022-11-06 |
 | [Gorwel](https://open.spotify.com/track/28L1PMK9pGoujuvl91DwEo) | [Carw](https://open.spotify.com/artist/7AaeIQ8PJitJJcScxTWL13) | [Gorwel](https://open.spotify.com/album/37peSNX9tLt9iy3UFYOeF3) | 3:29 | 2022-02-04 | 2022-02-16 |
-| [Gravity](https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70) | [SHADU](https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C) | [Gravity](https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF) | 3:26 | 2023-01-13 |  |
+| [Gravity](https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70) | [SHADU](https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C) | [Gravity](https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF) | 3:26 | 2023-01-13 | 2023-04-11 |
 | [Gravity \(Of U & I\)](https://open.spotify.com/track/5phvikd8m1kALvoBuKfnIO) | [HELIXIRx](https://open.spotify.com/artist/3k8Yy0uBrm0uDy3P6Txzgc) | [Authenticity: The Instrumentals](https://open.spotify.com/album/4PFdNLbzmXK25Ui4SfQJpw) | 4:49 | 2022-02-04 | 2022-02-19 |
 | [Gunshot](https://open.spotify.com/track/781UsdIGZ2ce8qLJQOpgGT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Gunshot](https://open.spotify.com/album/5R1pqh68glbrzZMJWiOjQw) | 3:49 | 2022-02-04 | 2022-04-20 |
 | [Gutterpunk Kids](https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 4:13 | 2021-10-15 |  |
 | [Hanami](https://open.spotify.com/track/5IC0GQIyymx0GBcMElDPsp) | [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Hanami](https://open.spotify.com/album/3Byp31mNTBKUSGPH3sX7QO) | 3:00 | 2023-04-07 |  |
 | [Head Over \- Short Edit](https://open.spotify.com/track/3ucGU1cxi9Mibxt1sczOVE) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Sinus](https://open.spotify.com/artist/6DPAQpHLo9eeC7jZp3mCEx) | [Head Over](https://open.spotify.com/album/0EYjauY01V6ev22m1R26W8) | 3:30 | 2022-04-01 | 2022-04-08 |
+| [Hearts](https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Hearts](https://open.spotify.com/album/4UloLhn2qHZe2iLqVYEXNC) | 2:54 | 2023-04-07 |  |
 | [Hello Again](https://open.spotify.com/track/5KtSImKBV61SOdlPW74tC0) | [Amber Moon](https://open.spotify.com/artist/2FCmrHOOh6MXieVBI9rS3s) | [Hello Again](https://open.spotify.com/album/5QCNKFroPgeh4aLCaY9Zxu) | 2:53 | 2021-10-15 | 2022-07-29 |
 | [Higher \- Radio Edit](https://open.spotify.com/track/5OymWMtaWum6xk1lOTyPUR) | [Shaker](https://open.spotify.com/artist/6L2J0lrqalkp9BEEDj1elG) | [Higher \(Radio Edit\)](https://open.spotify.com/album/73TJJgrDuvjoRctH9jWuZS) | 3:30 | 2022-08-26 | 2022-09-24 |
 | [Homebound](https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355) | [Caspro](https://open.spotify.com/artist/2jtjyIKx9XY1wuIc5UKwSp) | [Homebound](https://open.spotify.com/album/6Mcfma2p4CnEQhCICR81iq) | 4:59 | 2021-10-15 | 2022-07-28 |

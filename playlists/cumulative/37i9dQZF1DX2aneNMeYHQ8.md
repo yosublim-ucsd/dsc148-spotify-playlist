@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-294 songs - 17 hr 52 min
+295 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,13 +169,14 @@
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-02-12 |
 | [Missed Connection](https://open.spotify.com/track/6cG99KcHVOlmQOiYcu6cjb) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Missed Connection](https://open.spotify.com/album/0loOZXQoeYJ1IF7sjMCv56) | 3:15 | 2021-01-29 | 2022-01-22 |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2022-05-25 |  |
-| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2023-02-10 |  |
+| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2023-02-10 | 2023-04-11 |
 | [My Anxiety](https://open.spotify.com/track/0q0Jgj7gvnMLSoCvZjpdSm) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [The Sun Wakes Up Earlier Now](https://open.spotify.com/album/4dbOSFoJRz1Gl4hFhcvVir) | 2:42 | 2021-09-03 | 2022-01-22 |
 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 | 2022-11-11 |  |
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2023-04-04 |  |
 | [My Unveiling feat\. Caroline Kingsbury](https://open.spotify.com/track/5yevccpakm9zoN8Q1qVq1v) | [Big Mother Gig](https://open.spotify.com/artist/0idrDw8R9ZRWdLZxMN1YlE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [My Unveiling feat\. Caroline Kingsbury](https://open.spotify.com/album/0dfK1X3BU4YXlbOD06NQ5O) | 3:01 | 2021-09-17 | 2022-02-12 |
 | [Nasty](https://open.spotify.com/track/2MYnCTl6YBHtLmaExW0agG) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Nasty](https://open.spotify.com/album/3IIGyAcNTNXZ3r6w4cSJmq) | 2:37 | 2021-08-06 | 2022-02-26 |
 | [New Invention](https://open.spotify.com/track/4d043mqKES7NxY0LoxLB5m) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [New Invention \[Feat\. Tessa Violet\]](https://open.spotify.com/album/2MwQUepwWrthmaE3NvguHu) | 3:11 | 2021-11-05 | 2022-01-12 |
+| [New York Comeback](https://open.spotify.com/track/0uCIjbxBRNceKKdJg5FpzK) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [New York Comeback](https://open.spotify.com/album/1a8vXGdhuyxxZ3m6YkUPP8) | 4:14 | 2023-04-10 |  |
 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 | 2022-11-11 |  |
 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 | 2022-11-11 | 2023-04-05 |
 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 | 2022-11-11 |  |

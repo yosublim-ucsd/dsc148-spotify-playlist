@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 521620,
+  "num_followers": 521671,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NDkzNywwMDAwMDAwMDdiMTA5ZDU2MjJmMGI2YzQyYjY3YjM0ZDUwMGQxNmU2",
+  "snapshot_id": "MTY3OTA0NDkzNywwMDAwMDAwMGRjOTRhYjI0OGJjZWRiYjQzOTY5ZTE3MWZmNDMzYmJh",
   "tracks": [
     {
       "added_at": "2023-03-17 09:22:17",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+    },
+    {
+      "added_at": "2023-03-17 09:22:17",
+      "album": {
         "name": "Chantilly Lace",
         "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 198000,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
-    },
-    {
-      "added_at": "2023-03-17 09:22:17",
-      "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
-        "name": "Like, Mann: Carl Mann Sings",
-        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
-      },
-      "artists": [
-        {
-          "name": "Carl Mann",
-          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
-        }
-      ],
-      "duration_ms": 146728,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
-    },
-    {
-      "added_at": "2023-03-17 09:22:17",
-      "album": {
         "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
         "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
+    },
+    {
+      "added_at": "2023-03-17 09:22:17",
+      "album": {
+        "name": "Like, Mann: Carl Mann Sings",
+        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
+      },
+      "artists": [
+        {
+          "name": "Carl Mann",
+          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
+        }
+      ],
+      "duration_ms": 146728,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 133009,
-      "name": "Everybody's Trying to Be My Baby",
-      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
-    },
-    {
-      "added_at": "2023-03-17 09:22:17",
-      "album": {
         "name": "Rock In Threes!",
         "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 185986,
       "name": "Red Light (Spells Danger)",
       "url": "https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc"
+    },
+    {
+      "added_at": "2023-03-17 09:22:17",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 133009,
+      "name": "Everybody's Trying to Be My Baby",
+      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
-        "name": "Hot Rod Roadeo",
-        "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
-      },
-      "artists": [
-        {
-          "name": "The Go Getters",
-          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
-        }
-      ],
-      "duration_ms": 188480,
-      "name": "Welcome to My Hell",
-      "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
-    },
-    {
-      "added_at": "2023-03-17 09:22:17",
-      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 138615,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
+    },
+    {
+      "added_at": "2023-03-17 09:22:17",
+      "album": {
+        "name": "Hot Rod Roadeo",
+        "url": "https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k"
+      },
+      "artists": [
+        {
+          "name": "The Go Getters",
+          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Welcome to My Hell",
+      "url": "https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
+        "name": "Baby Come Back",
+        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
+      },
+      "artists": [
+        {
+          "name": "TT Grace",
+          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
+    },
+    {
+      "added_at": "2023-03-17 09:22:17",
+      "album": {
         "name": "The Lennerockers and Friends",
         "url": "https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 207040,
       "name": "Rocky Road Blues",
       "url": "https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx"
-    },
-    {
-      "added_at": "2023-03-17 09:22:17",
-      "album": {
-        "name": "Baby Come Back",
-        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
-      },
-      "artists": [
-        {
-          "name": "TT Grace",
-          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
-        }
-      ],
-      "duration_ms": 201667,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
     },
     {
       "added_at": "2023-03-17 09:22:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-17 09:22:17",
       "album": {
-        "name": "Rock & Roll Is Everywhere",
-        "url": "https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU"
-      },
-      "artists": [
-        {
-          "name": "The Go Getters",
-          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
-        }
-      ],
-      "duration_ms": 129493,
-      "name": "Hip Shakin' Baby",
-      "url": "https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx"
-    },
-    {
-      "added_at": "2023-03-17 09:22:17",
-      "album": {
         "name": "Today, Tomorrow And Forever - 20 Classics",
         "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 141893,
       "name": "I Got A Lot Of Rhythm In My Soul",
       "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
+    },
+    {
+      "added_at": "2023-03-17 09:22:17",
+      "album": {
+        "name": "Rock & Roll Is Everywhere",
+        "url": "https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU"
+      },
+      "artists": [
+        {
+          "name": "The Go Getters",
+          "url": "https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq"
+        }
+      ],
+      "duration_ms": 129493,
+      "name": "Hip Shakin' Baby",
+      "url": "https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx"
     },
     {
       "added_at": "2023-03-17 09:22:17",

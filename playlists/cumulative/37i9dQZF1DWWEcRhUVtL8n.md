@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Ricky Montgomery
 
-1,526 songs - 3 day 8 hr 27 min
+1,528 songs - 3 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Didn't Make It](https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Didn't Make It](https://open.spotify.com/album/4bswjAv070Cs95SI60avQV) | 3:51 | 2020-10-13\* | 2021-06-01 |
 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 | 2020-10-13\* | 2021-10-16 |
 | [Dig](https://open.spotify.com/track/7B9eseRLS4SRRlvVV2nfyR) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Dig](https://open.spotify.com/album/2AFsdZpqg02BEiwNXIm3Cp) | 3:16 | 2021-09-24 | 2022-04-16 |
+| [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-04-10 |  |
 | [Dinner Plate](https://open.spotify.com/track/2eo2NthlFk3a2FFBIHefIQ) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Dinner Plate](https://open.spotify.com/album/3jKhthY1haEm1ocbmTgf74) | 2:13 | 2020-11-20 | 2021-01-15 |
 | [Dionne](https://open.spotify.com/track/2lKVd2seyW6OUlMtdPaG5H) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Dionne](https://open.spotify.com/album/0QHRQl3t7U9f0WDcNAbGMY) | 3:41 | 2021-02-24 | 2021-05-24 |
 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 | 2020-10-13\* | 2021-06-03 |
@@ -521,6 +522,7 @@
 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 | 2021-10-14 | 2021-10-16 |
 | [Germs](https://open.spotify.com/track/4aYReiTel4KEnn0kUkU1OU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Germs](https://open.spotify.com/album/0dkT3eIRkeOtwWqRPx4cCH) | 3:51 | 2020-11-20 | 2021-03-23 |
 | [Get Lost](https://open.spotify.com/track/7xhEhQbq7nx52PS3SCtPD7) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O), [sharks!](https://open.spotify.com/artist/71vW7bUZpmzrvFgIwoVyzV) | [Get Lost](https://open.spotify.com/album/1ty6vJDDXNMUNVSPifz6nb) | 2:56 | 2021-07-19 | 2022-04-15 |
+| [Ghost of Chicago](https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Ghost of Chicago](https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU) | 3:07 | 2023-04-10 |  |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-08-27 | 2022-04-16 |
 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 | 2023-03-31 |  |
 | [Ghosts](https://open.spotify.com/track/3Ysq8HNQeSVi9uVbmKkxJp) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Ghosts](https://open.spotify.com/album/7xs4F7rb9XAmru0Yluhm9t) | 2:15 | 2020-10-20 | 2021-06-03 |
@@ -1481,11 +1483,11 @@
 | [Whiskey Bottle](https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Whiskey Bottle](https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8) | 2:30 | 2021-06-25 | 2022-04-14 |
 | [white noise](https://open.spotify.com/track/58IH6tgJiZDCo2Ns1R3dE8) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [scaredy cat](https://open.spotify.com/album/5Ddn9NZA8N1JsdioylNJqe) | 2:27 | 2023-02-24 | 2023-03-11 |
 | [Who Am I Really Fooling Anyway](https://open.spotify.com/track/6cJZ8mEfST3enMQSUVSrSP) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Who Am I Really Fooling Anyway](https://open.spotify.com/album/0A0kiY3JBZNkvxDzEXPIcD) | 3:09 | 2022-05-20 | 2022-06-07 |
-| [WHO'S TO SAY](https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [WHO'S TO SAY](https://open.spotify.com/album/7w8TdI8N8Iy2woALB59AwP) | 3:15 | 2023-03-31 |  |
+| [WHO'S TO SAY](https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [WHO'S TO SAY](https://open.spotify.com/album/7w8TdI8N8Iy2woALB59AwP) | 3:15 | 2023-03-31 | 2023-04-11 |
 | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/track/62FVhzJNJZ0DsO0hhLu3f4) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/album/5pvDSgAqiFMntQpeiVXn6M) | 2:55 | 2021-02-22 | 2021-02-26 |
 | [why do i do that](https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc), [Chaos Canine](https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR) | [why do i do that](https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf) | 2:24 | 2022-04-29 | 2022-05-12 |
 | [Why You Gotta Treat Me Like That?](https://open.spotify.com/track/7uR8iUAMUHSrV10N1Zs3Gq) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Why You Gotta Treat Me Like That?](https://open.spotify.com/album/3XUneMyYuZ1Pkk3XmWpqE9) | 2:35 | 2022-07-01 | 2022-07-04 |
-| [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-18 |  |
+| [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-18 | 2023-04-11 |
 | [Widow Dreams Forever](https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Widow Dreams Forever](https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L) | 3:03 | 2023-02-17 | 2023-02-25 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-03-31 | 2022-07-29 |
 | [Windows \- No Rome Remix](https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Windows \(No Rome Remix\)](https://open.spotify.com/album/4WjVO6STzyMQ21tGnAqtO4) | 2:08 | 2021-06-03 | 2021-10-16 |

@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 29779,
+  "num_followers": 29791,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMGZhYTk0YjIyZWE5NjQzODhjNWQ2NTMxM2YxY2VmMTcy",
+  "snapshot_id": "MTY3MzMyMDg1NSwwMDAwMDAwMDNmOTM2Nzc5ZTQwMGRjNGY1MmE4ZTRlNTRhY2U0ZTYx",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u51ac \u672a\u4e86",
-        "url": "https://open.spotify.com/album/3ocSaUwFSAOecoSc4I6ZkU"
-      },
-      "artists": [
-        {
-          "name": "Sodagreen",
-          "url": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "\u4e0b\u96e8\u7684\u591c\u665a",
-      "url": "https://open.spotify.com/track/0SH79vh3rXHDWFwerUsAkZ"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u7537\u4eba\u7684\u597d \u65b0\u6b4c\u7cbe\u9078\u5f71\u97f3\u5168\u8a18\u9304",
         "url": "https://open.spotify.com/album/08UGnjCvD6dW7WpR0blLGs"
       },
@@ -191,18 +175,18 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
-        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
+        "name": "\u51ac \u672a\u4e86",
+        "url": "https://open.spotify.com/album/3ocSaUwFSAOecoSc4I6ZkU"
       },
       "artists": [
         {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+          "name": "Sodagreen",
+          "url": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
         }
       ],
-      "duration_ms": 266106,
-      "name": "\u5076\u9663\u96e8",
-      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
+      "duration_ms": 270373,
+      "name": "\u4e0b\u96e8\u7684\u591c\u665a",
+      "url": "https://open.spotify.com/track/0SH79vh3rXHDWFwerUsAkZ"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -219,6 +203,22 @@
       "duration_ms": 254480,
       "name": "\u96e8\u4e0b\u4e00\u6574\u665a",
       "url": "https://open.spotify.com/track/1wAiIIAskptjT45tgR35ad"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
+        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "\u5076\u9663\u96e8",
+      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
         "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
         "url": "https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 246000,
       "name": "\u70ed\u5e26\u96e8 - \u300a\u70ed\u5e26\u96e8\u300b\u7535\u5f71\u540c\u540d\u4e3b\u9898\u66f2",
       "url": "https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
+        "name": "\u7d05\u8594\u8587 \u856d\u4e9e\u8ed2",
+        "url": "https://open.spotify.com/album/3JkpICoTdCueQSw4O12iN7"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "\u96e8\u5b63\u4e2d",
+      "url": "https://open.spotify.com/track/0DYYzMxj5aGKbYJIQRRpQi"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
         "name": "SINGING IN THE RAIN",
         "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 274212,
       "name": "Rain in Taipei",
       "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
-        "name": "\u7d05\u8594\u8587 \u856d\u4e9e\u8ed2",
-        "url": "https://open.spotify.com/album/3JkpICoTdCueQSw4O12iN7"
-      },
-      "artists": [
-        {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "\u96e8\u5b63\u4e2d",
-      "url": "https://open.spotify.com/track/0DYYzMxj5aGKbYJIQRRpQi"
     },
     {
       "added_at": "2023-01-10 03:20:54",

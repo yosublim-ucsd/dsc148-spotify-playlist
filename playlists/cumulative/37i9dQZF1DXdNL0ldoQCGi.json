@@ -5247,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "Por Vc Eu Bebo O Mar De Canudinho",
+        "url": "https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA"
+      },
+      "artists": [
+        {
+          "name": "Jaldo Rodrigues",
+          "url": "https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122136,
+      "name": "Por Vc Eu Bebo O Mar De Canudinho",
+      "url": "https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox"
+    },
+    {
+      "album": {
         "name": "Posturad\u00e3o",
         "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
       },

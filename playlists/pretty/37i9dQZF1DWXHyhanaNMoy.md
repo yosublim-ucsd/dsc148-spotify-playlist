@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Alleen maar motion en good vibes\. Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,178 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,164 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
-| 2 | [Poesje Lief \(feat\. Architrackz\)](https://open.spotify.com/track/1T8I1G5QPTx9GWpQAaBk0R) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Vunzige Deuntjes Soundsystem](https://open.spotify.com/artist/62YuFBPEU1YLmrYgOdL0Ci), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [PARTY SAM](https://open.spotify.com/album/0OfEs4Ventri53Ps9kyOna) | 2:29 |
-| 3 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 |
-| 4 | [Doe Wat Je Doet](https://open.spotify.com/track/5wwjB3x0ULGlZ4o2xJwqzM) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Doe Wat Je Doet](https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL) | 2:14 |
-| 5 | [Cap](https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Cap](https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK) | 2:15 |
+| 2 | [Cap](https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Cap](https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK) | 2:15 |
+| 3 | [Poesje Lief \(feat\. Architrackz\)](https://open.spotify.com/track/1T8I1G5QPTx9GWpQAaBk0R) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Vunzige Deuntjes Soundsystem](https://open.spotify.com/artist/62YuFBPEU1YLmrYgOdL0Ci), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [PARTY SAM](https://open.spotify.com/album/0OfEs4Ventri53Ps9kyOna) | 2:29 |
+| 4 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 |
+| 5 | [Doe Wat Je Doet](https://open.spotify.com/track/5wwjB3x0ULGlZ4o2xJwqzM) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Doe Wat Je Doet](https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL) | 2:14 |
 | 6 | [Wauw](https://open.spotify.com/track/0ktHq4CUjQwvqanG7VpFe9) | [Jeriel](https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu) | [Wauw](https://open.spotify.com/album/4wscODUSYEc96oSL7N7GOU) | 2:42 |
 | 7 | [Helemaal Top](https://open.spotify.com/track/50vKsDxgkk62PKrrMR5LVm) | [Naro](https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y) | [Helemaal Top](https://open.spotify.com/album/5CLDjlMH6kBv6WfiEOSuBs) | 2:25 |
 | 8 | [Afterparty](https://open.spotify.com/track/5zln2qidSoyAVtiCTVCipu) | [Remy](https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn), [Mas](https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT), [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6) | [Afterparty](https://open.spotify.com/album/44vW8WjpRQlJZcL4C8OTe6) | 2:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 59 | [Doe M'n Best](https://open.spotify.com/track/67IJXCN36NMxeDUHccfu2s) | [Wowi](https://open.spotify.com/artist/6wMTXQM1eVz7pU83iGskyR), [Some](https://open.spotify.com/artist/21Sh5EcNtL9tl8YeT7t81M) | [Doe M'n Best](https://open.spotify.com/album/0anPnXu2zJj2DD90l0edE8) | 3:18 |
 | 60 | [TRAUMA](https://open.spotify.com/track/32JZ3AW8VtFFzglfOkLMGr) | [Tres Navy](https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o) | [TRAUMA](https://open.spotify.com/album/5fFvazdMPlXabKWDf4YH6L) | 2:06 |
 
-Snapshot ID: `MTY4MDg2Nzk2NCwwMDAwMDAwMGU0MzUxZjFlNDBiMmZkZjkzNDcyNzc4NGFjMmZmMWYw`
+Snapshot ID: `MTY4MTE1MjUwOSwwMDAwMDAwMGY4YjY1N2FjMTMyMzQ0M2FkMzYwMGEyNjQ1YmY0ZDg2`

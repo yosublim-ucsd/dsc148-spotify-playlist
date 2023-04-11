@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Paula Koops",
-  "num_followers": 21323,
+  "num_followers": 21338,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzY2MCwwMDAwMDAwMDM0YmE2NjAzZTI4ZDk4ZjZlZDdjM2ExNWQ1NzdmMThm",
+  "snapshot_id": "MTY4MDIxMzY2MCwwMDAwMDAwMGM4OTlmYmYzY2FmNzdiZGJiNGU0NDhmZTBiMmRjYTU3",
   "tracks": [
     {
       "added_at": "2023-03-30 22:01:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
         "name": "De Charco En Charco",
         "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "Leyla",
         "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
       },
@@ -199,18 +199,26 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+        "name": "mejores amigos",
+        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+      "duration_ms": 173259,
+      "name": "mejores amigos",
+      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -243,6 +251,22 @@
       "duration_ms": 160666,
       "name": "ZAHARA",
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -339,26 +363,18 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "mejores amigos",
-        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
+        "name": "por qu\u00e9 vuelvo a quererte?",
+        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
       },
       "artists": [
         {
           "name": "Paula Koops",
           "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        },
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 173259,
-      "name": "mejores amigos",
-      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
+      "duration_ms": 166666,
+      "name": "por qu\u00e9 vuelvo a quererte?",
+      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "por qu\u00e9 vuelvo a quererte?",
-        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "por qu\u00e9 vuelvo a quererte?",
-      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
       },
@@ -487,6 +487,38 @@
       "duration_ms": 179055,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -535,38 +567,6 @@
       "duration_ms": 170285,
       "name": "Indie esperanzador",
       "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "Como si nada",
-        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "Como si nada",
-      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
@@ -755,22 +739,34 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "quien me quiere (no me quiere contigo)",
-        "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
+        "name": "Como si nada",
+        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
       },
       "artists": [
         {
-          "name": "INNMIR",
-          "url": "https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn"
-        },
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
         }
       ],
-      "duration_ms": 167722,
-      "name": "quien me quiere (no me quiere contigo)",
-      "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
+      "duration_ms": 196470,
+      "name": "Como si nada",
+      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
+    },
+    {
+      "added_at": "2023-03-30 22:01:00",
+      "album": {
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
     },
     {
       "added_at": "2023-03-30 22:01:00",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-03-30 22:01:00",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+        "name": "quien me quiere (no me quiere contigo)",
+        "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "INNMIR",
+          "url": "https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn"
+        },
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+      "duration_ms": 167722,
+      "name": "quien me quiere (no me quiere contigo)",
+      "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
     },
     {
       "added_at": "2023-03-30 22:01:00",

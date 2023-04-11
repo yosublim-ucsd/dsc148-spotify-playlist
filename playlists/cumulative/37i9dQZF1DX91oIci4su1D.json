@@ -5283,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "Impulse Barrier",
+        "url": "https://open.spotify.com/album/7n7LYhKKBuI0uTeXNvXxFS"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210755,
+      "name": "Impulse Barrier",
+      "url": "https://open.spotify.com/track/0MOhdjgbXWj2K8k86myH6l"
+    },
+    {
+      "album": {
         "name": "In Our Memories",
         "url": "https://open.spotify.com/album/4sTjGn7C27eWjMd8q2YpSC"
       },
@@ -7546,7 +7564,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 196685,
       "name": "Never Say Goodbye",
       "url": "https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA"

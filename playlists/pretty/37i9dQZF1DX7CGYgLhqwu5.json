@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 346397,
+  "num_followers": 346528,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDdhNzk4ZDY0NTk4OTdmOWM4YmZkZWYwYWJmYTgwOTI4",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDY5OGYyZTgxMmNhYjI2NjE2NDJjYWYxOTViYzIzMTk2",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
       "artists": [
         {
-          "name": "Bobby Goldsboro",
-          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
+      "duration_ms": 143693,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -175,18 +175,34 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+        "name": "Gentle On My Mind (Remastered)",
+        "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 143693,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
+      "duration_ms": 178626,
+      "name": "Gentle On My Mind - Remastered 2001",
+      "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Goldsboro",
+          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -203,22 +219,6 @@
       "duration_ms": 134453,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Gentle On My Mind (Remastered)",
-        "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Gentle On My Mind - Remastered 2001",
-      "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Best Of Jimmy Dean",
         "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 146840,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "At San Quentin",
-        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
-      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Townes Van Zandt",
         "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -531,34 +531,34 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+        "name": "At San Quentin",
+        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+      "duration_ms": 233813,
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
     },
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 133866,
-      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
+      "duration_ms": 102400,
+      "name": "Dang Me",
+      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 127106,
       "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
       "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "Dang Me",
-      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Together Again - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 156960,
       "name": "Little Green Apples - Single Version",
       "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Together Again - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/2GFRVCQn8vhDWiwST1alsH"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Walk On By",
-        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
-      },
-      "artists": [
-        {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Country Way",
         "url": "https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta"
       },
@@ -843,34 +827,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+        "name": "Walk On By",
+        "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
       },
       "artists": [
         {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
         }
       ],
-      "duration_ms": 197293,
-      "name": "Homecoming - Single Version",
-      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
+      "duration_ms": 144200,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -891,18 +859,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
       "artists": [
         {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 131200,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -919,6 +887,38 @@
       "duration_ms": 172666,
       "name": "Devil Woman",
       "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Let's Have A Party",
+      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Homecoming - Single Version",
+      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Lost Country Hits of the 60s",
-        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
       "artists": [
         {
-          "name": "Wynn Stewart",
-          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
         }
       ],
-      "duration_ms": 150093,
-      "name": "It's Such A Pretty World Today",
-      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+      "duration_ms": 151773,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 168466,
       "name": "The Bottle Let Me Down",
       "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Lost Country Hits of the 60s",
+        "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
+      },
+      "artists": [
+        {
+          "name": "Wynn Stewart",
+          "url": "https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "It's Such A Pretty World Today",
+      "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Great Picks & New Traditions",
-        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
       },
       "artists": [
         {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
+      "duration_ms": 177333,
+      "name": "The Image of Me",
+      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Great Picks & New Traditions",
+        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
+      },
+      "artists": [
+        {
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 148000,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "The Image of Me",
-      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
-      },
-      "artists": [
-        {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "A Six Pack To Go",
-      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
         "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 140306,
       "name": "Pop a Top",
       "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
+      },
+      "artists": [
+        {
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "A Six Pack To Go",
+      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
     },
     {
       "added_at": "2022-07-29 04:02:00",

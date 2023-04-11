@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 226962,
+  "num_followers": 226984,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg5NjE2NCwwMDAwMDAwMDc3ZWVkZjFkMWYxMDUxMDNiNGEyZTI5M2U2MDU1MjFm",
+  "snapshot_id": "MTY3Mzg5NjE2NCwwMDAwMDAwMDc1MGM0Y2UyOWViNjY1ZmI3ODZjNTc5ZjQ1ZDA1MmEx",
   "tracks": [
     {
       "added_at": "2023-01-16 19:09:24",
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "MEMORIA FUTURO",
-        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "T\u00fa Me Dejaste De Querer",
         "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "MEMORIA FUTURO",
+        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "(un poco + de) FE",
-        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "MALOS Y BUENOS RECUERDOS",
         "url": "https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 172844,
       "name": "me haces bien",
       "url": "https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "(un poco + de) FE",
+        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
+        "name": "Amor Papaya",
+        "url": "https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Amor Papaya en Invierno",
+      "url": "https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
         "name": "Luna y Marea (feat. KURT)",
         "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 228731,
       "name": "Luna y Marea (feat. KURT)",
       "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
-        "name": "Amor Papaya",
-        "url": "https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Amor Papaya en Invierno",
-      "url": "https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
-        "name": "Epitafio",
-        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Epitafio",
-      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
         "name": "Burbujas De Amor",
         "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 193654,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
+        "name": "Epitafio",
+        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Epitafio",
+      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
     },
     {
       "added_at": "2023-01-16 19:09:24",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-01-16 19:09:24",
       "album": {
+        "name": "Juego de Amor",
+        "url": "https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238094,
+      "name": "Juego de Amor",
+      "url": "https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL"
+    },
+    {
+      "added_at": "2023-01-16 19:09:24",
+      "album": {
         "name": "Lugares Imaginarios",
         "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 172266,
       "name": "Si Ella Se Va",
       "url": "https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf"
-    },
-    {
-      "added_at": "2023-01-16 19:09:24",
-      "album": {
-        "name": "Es Por Ti",
-        "url": "https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT"
-      },
-      "artists": [
-        {
-          "name": "Serena Mendes",
-          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT"
     }
   ],
   "unique_name": "Hora de la Comida",

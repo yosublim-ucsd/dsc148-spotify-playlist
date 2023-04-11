@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-396 songs - 23 hr 38 min
+397 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/track/5TdCEMpU2BFdnwI3SrSiP7) | [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Vizhu Ezhu \(Original Soundtrack From Get Away\)](https://open.spotify.com/album/0gwQFZ5QUyfFVnLhN1Y8qa) | 2:34 | 2022-07-27 | 2023-02-07 |
 | [VUTTALE](https://open.spotify.com/track/1Eg03DYnqqtIKfhTGmKnE8) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2) | [VUTTALE](https://open.spotify.com/album/2gxnP09GC4MmjX4DtXBZY5) | 1:01 | 2023-01-13 | 2023-03-22 |
 | [Water Melon](https://open.spotify.com/track/0RZhsdFNZR0DZzwPRU28nW) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed) | [Water Melon](https://open.spotify.com/album/0DGbJhNwB9UJeG1oOSDyvi) | 3:27 | 2022-11-11 | 2023-03-07 |
+| [Yaadhum kanaa](https://open.spotify.com/track/0zFTloLX0ssZGi0fxBsfNE) | [Balaji Gopinath](https://open.spotify.com/artist/250rmMtHHaMkHNFThTBMmd), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Yaadhum kanaa](https://open.spotify.com/album/2KrIEuf4HVpE2GN5cgQCdn) | 3:44 | 2023-04-10 |  |
 | [Yaar Aval](https://open.spotify.com/track/26nKSZ9JA35IvycEPU6yRg) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval \- Single](https://open.spotify.com/album/20jBpXqfoQpgpTM0rvSd4i) | 3:10 | 2022-06-09 | 2023-02-07 |
 | [Yaar Aval](https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Yaar Aval](https://open.spotify.com/album/2Qc4Cb9CZRPZVYqgaqsYn1) | 3:10 | 2022-06-09 | 2022-07-29 |
 | [Yaar Solvaaro](https://open.spotify.com/track/6DFAhCjI8WXgEzjdZLBfwv) | [C.B Karty](https://open.spotify.com/artist/0q8QdG0mSd53lLe86M72ix), [Santhosh Subramanian](https://open.spotify.com/artist/7d4tFjDmt8IhOMtudYjIuu) | [Yaar Solvaaro](https://open.spotify.com/album/0DGEWRA09FNgXO3WwrIYy7) | 4:26 | 2022-08-12 | 2022-11-22 |

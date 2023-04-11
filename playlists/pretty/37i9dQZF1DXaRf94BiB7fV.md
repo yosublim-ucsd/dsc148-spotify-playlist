@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Zupiter , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,393 likes - 93 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,442 likes - 93 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

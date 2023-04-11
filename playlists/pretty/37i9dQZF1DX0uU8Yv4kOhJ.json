@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 121882,
+  "num_followers": 121892,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMGNjNzViN2Q0N2EyMTI3OTM5OTMzMDA5MDhhM2I0MmFj",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDUzMDAzYTRmNzIzMWRjM2JmMGJlNWI3ODlkNzViNDZj",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -111,6 +111,38 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Tristes Tr\u00f3picos",
+        "url": "https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L"
+      },
+      "artists": [
+        {
+          "name": "Lolab\u00fam",
+          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
+        }
+      ],
+      "duration_ms": 237199,
+      "name": "El Ecuador",
+      "url": "https://open.spotify.com/track/55HYMSdX8cNWH42DKhPQYH"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
       },
@@ -131,22 +163,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Tristes Tr\u00f3picos",
-        "url": "https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L"
-      },
-      "artists": [
-        {
-          "name": "Lolab\u00fam",
-          "url": "https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki"
-        }
-      ],
-      "duration_ms": 237199,
-      "name": "El Ecuador",
-      "url": "https://open.spotify.com/track/55HYMSdX8cNWH42DKhPQYH"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Orcas",
         "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
       },
@@ -159,42 +175,6 @@
       "duration_ms": 335292,
       "name": "Uno Resuena",
       "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Amansara Remixed",
-        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 239417,
-      "name": "Sueno en Paraguay - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -247,6 +227,26 @@
       "duration_ms": 264066,
       "name": "Mirla",
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Astro",
-        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Religar",
-      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Amor Ardiente (Bolivia y Su Folklore)",
         "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 215000,
       "name": "Tiwanacu",
       "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Religar",
+      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Land of the Incas (Music of the Andes)",
         "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 198360,
       "name": "U\u00f1a",
       "url": "https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2023-02-17 05:58:00",

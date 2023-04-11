@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 549109,
+  "num_followers": 549182,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGI2ZDcxZTc0ZmUyMWJlZDY2NDUyZGFjODA1ZTQwYjYw",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGI5N2YzZjRmNDBhMDAzMmVlZTdkZTM5NWM0NDkxM2Mw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -237,24 +237,20 @@
       "url": "https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs"
     },
     {
-      "added_at": "2023-02-03 05:01:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Passenger",
-        "url": "https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF"
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk"
       },
       "artists": [
         {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
         }
       ],
-      "duration_ms": 155375,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa"
+      "duration_ms": 159145,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -289,20 +285,24 @@
       "url": "https://open.spotify.com/track/2DDvNopZdyHNZIlLbbHr1E"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2023-02-03 05:01:00",
       "album": {
-        "name": "Clap Clap",
-        "url": "https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk"
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF"
       },
       "artists": [
         {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
         }
       ],
-      "duration_ms": 159145,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
+      "duration_ms": 155375,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -641,30 +641,6 @@
       "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Strange Habits",
-        "url": "https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "MONODUKE",
-          "url": "https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197"
-        },
-        {
-          "name": "kotokid",
-          "url": "https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG"
-        }
-      ],
-      "duration_ms": 135697,
-      "name": "Strange Habits",
-      "url": "https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA"
-    },
-    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Watarase",
@@ -687,6 +663,30 @@
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Strange Habits",
+        "url": "https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "MONODUKE",
+          "url": "https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197"
+        },
+        {
+          "name": "kotokid",
+          "url": "https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG"
+        }
+      ],
+      "duration_ms": 135697,
+      "name": "Strange Habits",
+      "url": "https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
     },
     {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "The Universe",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Seventh Wonder",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Deep in the Pocket",
-        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
-      },
-      "artists": [
-        {
-          "name": "Pablo Queu",
-          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
-        }
-      ],
-      "duration_ms": 224971,
-      "name": "Kountdown",
-      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Andromeda Style Fuunk",
@@ -839,6 +823,22 @@
       "duration_ms": 230625,
       "name": "Andromeda Style Fuunk",
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Deep in the Pocket",
+        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+      },
+      "artists": [
+        {
+          "name": "Pablo Queu",
+          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Kountdown",
+      "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -969,54 +969,6 @@
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Roadtrip",
-        "url": "https://open.spotify.com/album/0Zwx0351xqPWkXHyN50PjF"
-      },
-      "artists": [
-        {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
-        }
-      ],
-      "duration_ms": 180025,
-      "name": "Roadtrip",
-      "url": "https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
-      },
-      "artists": [
-        {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
-        }
-      ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Sunday Kitchen",
@@ -1037,20 +989,52 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Modern Life",
-        "url": "https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp"
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
       },
       "artists": [
         {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
         }
       ],
-      "duration_ms": 255173,
-      "name": "HULO",
-      "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Roadtrip",
+        "url": "https://open.spotify.com/album/0Zwx0351xqPWkXHyN50PjF"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "duration_ms": 180025,
+      "name": "Roadtrip",
+      "url": "https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1085,6 +1069,42 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/18dz9uFRrFkmcLe8P5yjsp"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "HULO",
+      "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
+    },
+    {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "The Whales",
+        "url": "https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4"
+      },
+      "artists": [
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "The Whales",
+      "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
+    },
+    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "Part 6",
@@ -1107,26 +1127,6 @@
       "duration_ms": 120253,
       "name": "Part 6",
       "url": "https://open.spotify.com/track/5MLyDyUI1yxlzPeoXuj8mn"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "The Whales",
-        "url": "https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4"
-      },
-      "artists": [
-        {
-          "name": "Mahealane",
-          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
-        },
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "The Whales",
-      "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Golden",
@@ -1269,22 +1285,6 @@
       "url": "https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "lamplighting",
@@ -1335,6 +1319,22 @@
       "duration_ms": 139419,
       "name": "lamplighting",
       "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+    },
+    {
+      "added_at": "2022-02-11 19:25:22",
+      "album": {
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1355,62 +1355,6 @@
       "duration_ms": 135999,
       "name": "Northbound",
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Healthy Habits",
-        "url": "https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV"
-      },
-      "artists": [
-        {
-          "name": "Noa Erni",
-          "url": "https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU"
-        },
-        {
-          "name": "Gr\u00e9goire Pign\u00e8de",
-          "url": "https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y"
-        }
-      ],
-      "duration_ms": 129166,
-      "name": "Om Drip",
-      "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Come Out and Play",
-        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
-      },
-      "artists": [
-        {
-          "name": "Umziky",
-          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
-        }
-      ],
-      "duration_ms": 187343,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Childhood Memories (Remix)",
-        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gosse",
-          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Childhood Memories - Remix",
-      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1445,6 +1389,22 @@
       "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
     },
     {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Come Out and Play",
+        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
+      },
+      "artists": [
+        {
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        }
+      ],
+      "duration_ms": 187343,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
+    },
+    {
       "added_at": "2022-07-05 15:03:47",
       "album": {
         "name": "Limited Time Only",
@@ -1471,6 +1431,46 @@
       "duration_ms": 213936,
       "name": "Limited Time Only",
       "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Childhood Memories (Remix)",
+        "url": "https://open.spotify.com/album/5T9Gz6YwJ0UfMq4OuKDr1W"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gosse",
+          "url": "https://open.spotify.com/artist/3ro5wLetn0VJAw5Nbt4bzY"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Childhood Memories - Remix",
+      "url": "https://open.spotify.com/track/2TdZvirsP820lVh00l7qHg"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Healthy Habits",
+        "url": "https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV"
+      },
+      "artists": [
+        {
+          "name": "Noa Erni",
+          "url": "https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU"
+        },
+        {
+          "name": "Gr\u00e9goire Pign\u00e8de",
+          "url": "https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y"
+        }
+      ],
+      "duration_ms": 129166,
+      "name": "Om Drip",
+      "url": "https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ"
     },
     {
       "added_at": "2022-04-15 04:01:00",

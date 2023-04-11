@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
@@ -7447,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "Just H-eaven",
+        "url": "https://open.spotify.com/album/2MA9bD8EoPjl2SqT3Q8V3W"
+      },
+      "artists": [
+        {
+          "name": "B4SAX",
+          "url": "https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197697,
+      "name": "Just H-eaven",
+      "url": "https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q"
+    },
+    {
+      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -8062,7 +8080,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 237098,
       "name": "Las p1stolas las quiero arriba",
       "url": "https://open.spotify.com/track/0HaHa7eEGIFEKBDlXhP9QO"
@@ -8574,7 +8592,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 223367,
       "name": "Los Rockstars",
       "url": "https://open.spotify.com/track/5zRPfjD3qUsog7tAcAMpWr"
@@ -14262,7 +14280,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
@@ -17932,7 +17950,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 197668,
       "name": "yes to heaven",
       "url": "https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7"

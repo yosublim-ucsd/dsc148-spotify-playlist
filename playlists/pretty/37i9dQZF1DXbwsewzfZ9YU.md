@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,309 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,370 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

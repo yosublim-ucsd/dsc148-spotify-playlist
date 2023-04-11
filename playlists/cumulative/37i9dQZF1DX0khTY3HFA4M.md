@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-509 songs - 20 hr 6 min
+510 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Afterhours](https://open.spotify.com/track/7t878GTLe6oof2QELO1yWD) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Afterhours](https://open.spotify.com/album/02yxWPRU391qLJI7s0SRAJ) | 1:46 | 2023-01-13 |  |
 | [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2023-01-13 |  |
 | [akalla](https://open.spotify.com/track/4J98BDXw9nFDF044SgAYfC) | [abel gecco](https://open.spotify.com/artist/6DvLO2WJYRMtUD9oiyFcJR) | [akalla](https://open.spotify.com/album/7MHDYC4TuelMHoRtAELi7o) | 2:23 | 2023-01-13 |  |
-| [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2023-01-13 |  |
+| [Alfredo](https://open.spotify.com/track/6YlmEmmOqSzZ5Q69yCXMsn) | [lloyd og](https://open.spotify.com/artist/6wCwzQplaGnUnTxgioKwr6) | [Alfredo](https://open.spotify.com/album/2niP9abC7F8vDdnC0qgWHm) | 2:30 | 2023-02-21 |  |
+| [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2023-01-13 | 2023-04-11 |
 | [All The Time](https://open.spotify.com/track/3SM1yWxhta8tbuavzHGGmA) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 2:08 | 2023-01-13 |  |
 | [Alone and Forsaken](https://open.spotify.com/track/7a5kdm9XED2Z0wlxyOMHtY) | [Effortless](https://open.spotify.com/artist/3keVDKEbNXJ1UCVLyzqG8W) | [Alone and Forsaken](https://open.spotify.com/album/54CYgci9QNbYEu4sEZb1AB) | 1:22 | 2023-01-13 |  |
 | [Alone in Space](https://open.spotify.com/track/2iYomcv46CYu8O1Pn6KdgK) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Alone in Space](https://open.spotify.com/album/0f5T40tzm3sSSjlhEixGmi) | 2:13 | 2023-01-13 |  |

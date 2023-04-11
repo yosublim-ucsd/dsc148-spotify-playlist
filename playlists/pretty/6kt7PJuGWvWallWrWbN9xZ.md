@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > these equations aren&\#x27;t adding up.
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 185 songs - 11 hr 1 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 186 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,5 +193,6 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 183 | [Run \(Ballad Mix\)](https://open.spotify.com/track/62DeqSXWw36b1jzGWozXFq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 4:17 |
 | 184 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 |
 | 185 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
+| 186 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 
-Snapshot ID: `Mjg2LDM5OGIzYTA1ODdkYjA4NzZkMjJiNjI3NTZiNDIyMzhkYzEzNzZmNTQ=`
+Snapshot ID: `Mjg3LDY5M2NiM2VhNWY5ODE2YjRhMGQ2MDFhMWJkNDJmMzdmMTE1NmM3OTE=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ?si=h\-LCG\-gATG\-o8TbncoWfcQ">Brenden Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,070 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,090 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5483,
+  "num_followers": 5482,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMGEyNDIyNDc2YjFjZTQyNmU2ZWEzNDg2ZDA5ODEwZDRh",
+  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDExZGFmZDE4MTM3ODFjNWU2MGZkODc3YjVkMzQyYzk5",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "George & Tammy (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
-      },
-      "artists": [
-        {
-          "name": "Jessica Chastain",
-          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
-        },
-        {
-          "name": "Michael Shannon",
-          "url": "https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
         "name": "Inventing Anna (Music From The Netflix Series)",
         "url": "https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 98579,
       "name": "Vivian Connects The Dots",
       "url": "https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
+        "name": "George & Tammy (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
+      },
+      "artists": [
+        {
+          "name": "Jessica Chastain",
+          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
+        },
+        {
+          "name": "Michael Shannon",
+          "url": "https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
     },
     {
       "added_at": "2022-12-21 17:45:34",

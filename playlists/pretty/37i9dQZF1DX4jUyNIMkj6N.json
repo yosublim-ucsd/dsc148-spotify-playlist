@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 178019,
+  "num_followers": 178078,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMGJmNTc4OTU2MjM2ZmVkZGVjMDk5ZDRjNWJiODdhMDgy",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDNjNjViZDg4MTAwZGM2ZTYwNmQyODhlOTJkNjE5YWU0",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+        "name": "The Ghost in Your Smile",
+        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
       },
       "artists": [
         {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+          "name": "Jarle Skavhellen",
+          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
         }
       ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
+      "duration_ms": 227760,
+      "name": "The Ghost in Your Smile",
+      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -651,22 +651,6 @@
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "The Ghost in Your Smile",
-        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
-      },
-      "artists": [
-        {
-          "name": "Jarle Skavhellen",
-          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "The Ghost in Your Smile",
-      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "N\u00e6rmere",
         "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 168583,
       "name": "Time of Waiting",
       "url": "https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Be Here Soon",
         "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
-      },
-      "artists": [
-        {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF"
+        "name": "May",
+        "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Broken Twin",
+          "url": "https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX"
         }
       ],
-      "duration_ms": 148853,
-      "name": "Br\u00e5tebrann",
-      "url": "https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr"
+      "duration_ms": 214986,
+      "name": "Glimpse of a Time",
+      "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
     }
   ],
   "unique_name": "Nordic Folk",

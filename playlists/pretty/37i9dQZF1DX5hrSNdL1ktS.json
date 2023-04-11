@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 55911,
+  "num_followers": 55938,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDM3YzY3N2NjOWZjYjk0NDEwZjQ4YmYzMjVlZmIwYjQx",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDUwY2JkYzRmZjM2ZTkzODhiNTQxYWRlNzkyNGU2ODM1",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/2Bw3D3lpd3ezfo3nX4784A"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Papi Quiero Perrear",
-        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 135303,
-      "name": "Papi Quiero Perrear",
-      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Me Doli\u00f3",
@@ -443,6 +427,42 @@
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Papi Quiero Perrear",
+        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 135303,
+      "name": "Papi Quiero Perrear",
+      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -475,26 +495,6 @@
       "duration_ms": 197647,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "La Oportunidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
       },
@@ -609,26 +629,6 @@
       "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
       "added_at": "2023-01-13 04:35:26",
       "album": {
         "name": "Si Supieras",
@@ -647,22 +647,6 @@
       "duration_ms": 146511,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2023-01-27 18:00:00",
@@ -703,6 +687,22 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -785,26 +785,6 @@
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
     },
     {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Canciones de Don",
-        "url": "https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Canciones de Don",
-      "url": "https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "ICE BLUE",
@@ -823,6 +803,26 @@
       "duration_ms": 174000,
       "name": "GYAL",
       "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Canciones de Don",
+        "url": "https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Canciones de Don",
+      "url": "https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1005,26 +1005,6 @@
       "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "El Baile De Perrito",
-        "url": "https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd"
-      },
-      "artists": [
-        {
-          "name": "Partylifemusic",
-          "url": "https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "El Baile De Perrito",
-      "url": "https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5"
-    },
-    {
       "added_at": "2022-12-21 17:08:55",
       "album": {
         "name": "Me Tientas (Remix)",
@@ -1047,6 +1027,26 @@
       "duration_ms": 185493,
       "name": "Me Tientas - Remix",
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "El Baile De Perrito",
+        "url": "https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd"
+      },
+      "artists": [
+        {
+          "name": "Partylifemusic",
+          "url": "https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "El Baile De Perrito",
+      "url": "https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5"
     },
     {
       "added_at": "2022-09-29 23:31:37",

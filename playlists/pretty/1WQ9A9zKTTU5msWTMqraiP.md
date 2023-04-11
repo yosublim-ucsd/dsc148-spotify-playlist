@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 230 songs - 15 hr 59 min
+[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 231 songs - 16 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,5 +238,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 228 | [Universe 25](https://open.spotify.com/track/7a7QHfoJjh6RiIgUfN50Lc) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [Universe 25](https://open.spotify.com/album/6OcdlM15fgxe415rtHkYYy) | 4:03 |
 | 229 | [B.H.C.F.H.C.](https://open.spotify.com/track/7wLejPhqqbTHjOuf98I5YH) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [B.H.C.F.H.C.](https://open.spotify.com/album/63Pp7bEkfFdNitCHHxohGV) | 3:51 |
 | 230 | [Sandevistan](https://open.spotify.com/track/2QnppOn5W5eJwRxlBXO71C) | [Spire of Lazarus](https://open.spotify.com/artist/2siG2lB8W9OCBXyd4ebEM6) | [Sandevistan](https://open.spotify.com/album/3p3SvPRcoNqlZtWmjmNtzc) | 2:51 |
+| 231 | [The Offering](https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm), [Blake Mullens of Disembodied Tyrant](https://open.spotify.com/artist/0t9brZiLxf06bZm752I2Pj) | [The Offering](https://open.spotify.com/album/7DqtShvlb1a0umLYKtDEQB) | 4:38 |
 
-Snapshot ID: `MzM3LDBjY2FlZjcyZDYzMjkyNGQ1YmMzZjBjNWQ1ZDgxOWU4MGIyMjU3NGE=`
+Snapshot ID: `MzM4LGYwYjEyMmM4ZTlmYzgzYjdjYzY4MTM0ZjVmNDhmOGVmMTc1YjkyMTk=`

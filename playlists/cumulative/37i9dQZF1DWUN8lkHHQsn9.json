@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Lulu x Uaziuk",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: MAS",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 194493,
       "name": "Chucky73 - Bzrp 43",
       "url": "https://open.spotify.com/track/4jmE3QZLQv9pIA791PGZ05"
+    },
+    {
+      "album": {
+        "name": "Ch\u0142opaki z BMW",
+        "url": "https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170603,
+      "name": "Ch\u0142opaki z BMW",
+      "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 248202,
       "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
       "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
@@ -1821,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Ulubione miejsce",
+        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ulubione miejsce",
+      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
+    },
+    {
+      "album": {
         "name": "VHS Cassette",
         "url": "https://open.spotify.com/album/6yKHf83RrCDa2NgyPcFZiG"
       },
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 250208,
       "name": "VITAY - Avtomat Remix",
       "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"

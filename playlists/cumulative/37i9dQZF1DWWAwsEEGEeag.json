@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-03",
-  "description": "Chansons pour les longues journ\u00e9es d'\u00e9t\u00e9.",
+  "description": "chansons pour journ\u00e9es ensoleill\u00e9es \ud83c\udf1e",
   "name": "Les beaux jours",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 137613,
       "name": "BBZ",
       "url": "https://open.spotify.com/track/2Uzo8W2sVgOYT7LHMpuBKM"
@@ -336,6 +336,24 @@
       "duration_ms": 165478,
       "name": "Beats!",
       "url": "https://open.spotify.com/track/5vxsf1zDcpy1jDayeIwN2l"
+    },
+    {
+      "album": {
+        "name": "blood pareil",
+        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
     },
     {
       "album": {
@@ -426,7 +444,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 160322,
       "name": "bye bye again - Bob Sinclar Remix",
       "url": "https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 198979,
       "name": "Celle-l\u00e0",
       "url": "https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV"
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Danser",
+        "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Danser",
+      "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
+    },
+    {
+      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
       },
@@ -614,10 +650,50 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 227684,
       "name": "En Deux Mots",
       "url": "https://open.spotify.com/track/0lwDcfJdXVjg6EvurEXIY9"
+    },
+    {
+      "album": {
+        "name": "en plein vol",
+        "url": "https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt"
+      },
+      "artists": [
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "en plein vol",
+      "url": "https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
     },
     {
       "album": {
@@ -817,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Highly Unrecommended",
+        "url": "https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Highly Unrecommended",
+      "url": "https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D"
+    },
+    {
+      "album": {
         "name": "CIEL",
         "url": "https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6"
       },
@@ -982,7 +1076,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 200519,
       "name": "La nuit est une panthe\u0300re",
       "url": "https://open.spotify.com/track/39efsqF7t6SX3snZFVufRa"
@@ -1413,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Moonroad",
+        "url": "https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206906,
+      "name": "Moonroad",
+      "url": "https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb"
+    },
+    {
+      "album": {
         "name": "Naoko",
         "url": "https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp"
       },
@@ -1714,7 +1826,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 223280,
       "name": "Papier foil",
       "url": "https://open.spotify.com/track/0OucVUxG7ZgIsOW8LROcTA"
@@ -1946,7 +2058,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 354693,
       "name": "Recto Verso - Mall Grab Remix",
       "url": "https://open.spotify.com/track/5FVdng1BLqLy5Q1u71LuY6"
@@ -2246,7 +2358,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq"
@@ -2286,10 +2398,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
+    },
+    {
+      "album": {
+        "name": "Sur la m\u00e9lodie (feat. Ichon)",
+        "url": "https://open.spotify.com/album/7ufj76jBr16b9EoMAO8sab"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        },
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135973,
+      "name": "Sur la m\u00e9lodie (feat. Ichon)",
+      "url": "https://open.spotify.com/track/1FnJheHq9Q9rArgP5Oiq1w"
     },
     {
       "album": {

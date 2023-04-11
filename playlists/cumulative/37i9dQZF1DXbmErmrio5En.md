@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: Riovaz
 
-141 songs - 6 hr 16 min
+142 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 | 2023-03-01 |  |
 | [let her go](https://open.spotify.com/track/2ovFPM5cL34Mo5ZsOD0F7N) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [let her go](https://open.spotify.com/album/20F7eI4lO96MZWyYdPR6Nt) | 2:18 | 2023-03-03 |  |
+| [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-10 |  |
 | [lol.](https://open.spotify.com/track/2b1jwf7qPlVHcXLB8jkOp9) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lol.](https://open.spotify.com/album/4JsRJhklpfdlHCrMEvAEJK) | 2:46 | 2023-04-07 |  |
 | [losemymind](https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [losemymind](https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu) | 2:27 | 2023-02-24 |  |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 | 2023-03-08 |

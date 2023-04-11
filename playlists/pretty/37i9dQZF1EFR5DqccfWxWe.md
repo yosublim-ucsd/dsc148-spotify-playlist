@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 151 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 151 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 72 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:26 |
 | 73 | [Moon](https://open.spotify.com/track/2Pb0asnHvIdA3ucKxL6jDq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:28 |
 | 74 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
-| 75 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
-| 76 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
+| 75 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
+| 76 | [Creo En América](https://open.spotify.com/track/4V239llAQgxynAqOUfuueJ) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Distinto \- Edición Especial](https://open.spotify.com/album/63LMsZgYQTiIXszpxA9Q0S) | 2:53 |
 | 77 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
 | 78 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 |
 | 79 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 126 | [Paris](https://open.spotify.com/track/5JVBQ9jsFf24QXfMfj6DIC) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 1:20 |
 | 127 | [El Mundo](https://open.spotify.com/track/1zJ1IQfeh61HHyXBpdpYie) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Amar Y Amar](https://open.spotify.com/album/6pdcuAT18Mny6dYkcdIfYs) | 0:36 |
 | 128 | [El Viaje](https://open.spotify.com/track/6fWauREw9pqglqdwIXhBcY) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [El Viaje](https://open.spotify.com/album/6hQ5cZWCg76ssbeRbmJ9Pf) | 2:12 |
-| 129 | [Alamogordo](https://open.spotify.com/track/7xnkwsbpoSxh2x3omS5S04) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Alamogordo](https://open.spotify.com/album/22HUvUv6ak6lLk9SKG4xlf) | 2:59 |
-| 130 | [Encanto Del Caribe \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/2x2rUw7tAYyLxBuU8oBCHD) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 3:54 |
+| 129 | [Encanto Del Caribe \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/2x2rUw7tAYyLxBuU8oBCHD) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 3:54 |
+| 130 | [Alamogordo](https://open.spotify.com/track/7xnkwsbpoSxh2x3omS5S04) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Alamogordo](https://open.spotify.com/album/22HUvUv6ak6lLk9SKG4xlf) | 2:59 |
 | 131 | [Body Language](https://open.spotify.com/track/7puYoz4WTJdwpzKBcQuVWu) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:11 |
 | 132 | [This Journey](https://open.spotify.com/track/2OriirufgULnvbXCYmhaEo) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [This Journey](https://open.spotify.com/album/7C7zpfYwyXRIePtqkW8RHO) | 2:12 |
 | 133 | [Cartagena \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/0FuwAJ38C726vXqkDYvcIu) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 4:07 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `MjgwMTgwODMsMDAwMDAwMDAzMTA2ZGU1YjVlMjVmMGM3NGVkNGU5ZDI3Yzk4MDJkYg==`
+Snapshot ID: `MjgwMTk1MjMsMDAwMDAwMDBhZDliMzE5OGU5M2U3ODhhMDg3M2FhNjZlNDQ2MjU3Mg==`

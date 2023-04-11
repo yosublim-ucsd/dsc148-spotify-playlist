@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Coi Leray + David Guetta + Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,342 likes - 77 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,361 likes - 77 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

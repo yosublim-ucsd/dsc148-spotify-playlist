@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 5115,
+  "num_followers": 5131,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDgyMmM0YmE2YzU3OTVjNDU3ODJkOWI3NDEwMmNhYWUz",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDcxZWZlNTNmMDRjMWQ2MmM0YzIxMjg2MTI4ZjBjZWRj",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Don't Censor Me",
         "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 211666,
       "name": "Big House",
       "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "8 Great Hits dc Talk",
-        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Jesus Freak",
-      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 221360,
       "name": "Shine",
       "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 252725,
       "name": "Open the Eyes of My Heart Lord",
       "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -575,26 +575,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "We Are Young & Free (Live)",
-        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Alive - Studio Version",
-      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Season One",
         "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "We Are Young & Free (Live)",
+        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Alive - Studio Version",
+      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
       },
       "artists": [
         {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+          "name": "Orange Kids Music",
+          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
         }
       ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+      "duration_ms": 160130,
+      "name": "Fear Get Out of Here",
+      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
       },
       "artists": [
         {
-          "name": "Orange Kids Music",
-          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
         }
       ],
-      "duration_ms": 160130,
-      "name": "Fear Get Out of Here",
-      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Ultimate Kids Worship",
-        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Nothing Is Impossible",
-      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Love Like You (Laudr8 Remix)",
         "url": "https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266253,
       "name": "Living in Freedom",
       "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
     },
     {
       "added_at": "2021-06-29 13:36:02",

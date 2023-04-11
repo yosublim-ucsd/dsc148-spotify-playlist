@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-951 songs - 2 day 3 hr 59 min
+952 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 | 2023-01-13 | 2023-03-07 |
 | [Deals with the Devil](https://open.spotify.com/track/0jFc39se7POaOfpb1601om) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Deals with the Devil](https://open.spotify.com/album/0pTo4DQyQe0pLZM7htnd9M) | 2:53 | 2022-01-28 | 2022-04-02 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-01 |  |
-| [Deep Sea \(with R3HAB\)](https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Deep Sea \(with R3HAB\)](https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc) | 2:35 | 2022-07-29 |  |
+| [Deep Sea \(with R3HAB\)](https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Deep Sea \(with R3HAB\)](https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc) | 2:35 | 2022-07-29 | 2023-04-11 |
 | [Desire](https://open.spotify.com/track/33yWC2Sf9kdjF9T4es4y6I) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Desire](https://open.spotify.com/album/0AL99H8IKDqCqAAoraDKQH) | 2:35 | 2020-09-21\* | 2021-02-20 |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2021-03-27 | 2021-08-07 |
 | [Devils](https://open.spotify.com/track/3jOyg77BUcPtbRtObyogTG) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Devils](https://open.spotify.com/album/32lQX81sQIEFC7Qslj46Va) | 2:38 | 2021-08-14 | 2022-03-12 |
@@ -639,6 +639,7 @@
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2022-07-15 |  |
 | [Redlight](https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Redlight](https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0) | 4:02 | 2022-04-01 | 2022-07-29 |
 | [Redline](https://open.spotify.com/track/7nOmCW7naa26COu6dWhyMr) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [From Russia With Love Vol\. 1](https://open.spotify.com/album/4djrgN97AfEE7biaj9X5K0) | 3:10 | 2020-09-21\* | 2020-11-03 |
+| [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-31 |  |
 | [Release the Pressure](https://open.spotify.com/track/7GBdvnnNcGhalfIXI8Heij) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ) | [We Are Friends, Vol\. 9](https://open.spotify.com/album/4bqlqWxtEGHnwyqvQJS6YT) | 4:51 | 2020-09-21\* | 2020-10-10 |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2022-11-11 |  |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-06-19 | 2021-09-18 |

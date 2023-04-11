@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: على لوكا
 
-386 songs - 22 hr 31 min
+387 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Lema3lomatak](https://open.spotify.com/track/1Bv6JmoZtPbtM7h7DiokBm) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Lema3lomatak](https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo) | 3:51 | 2021-12-23 | 2022-01-27 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2021-12-23 | 2022-02-04 |
 | [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2022-05-11 | 2022-08-21 |
+| [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2023-04-10 |  |
 | [M3a Nafsi](https://open.spotify.com/track/4U5UIEpRVxQWEoq1KqOZ18) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [M3a Nafsi](https://open.spotify.com/album/0rvj679AbMEqIjU1fwq4G2) | 3:32 | 2022-02-25 | 2022-06-10 |
 | [Ma Kan Ala Baly](https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg) | [Andrew Mounir](https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA), [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Ahmed Nihad](https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r) | [Ma Kan Ala Baly](https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ) | 3:43 | 2022-01-20 | 2022-04-01 |
 | [Maat El Kalam](https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Maat El Kalam](https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w) | 3:28 | 2022-03-03 | 2022-06-24 |
@@ -289,7 +290,7 @@
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 | 2022-08-21 |
 | [Walad](https://open.spotify.com/track/4ICngUihhBxci0OHQIL0uu) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Walad](https://open.spotify.com/album/6SdAmxpejR61XJnjJqErLj) | 3:09 | 2022-10-07 | 2022-12-30 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 | 2022-09-29 |
-| [We Fag2a](https://open.spotify.com/track/2R5jANgM046Vo5MEdYlYMY) | [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [We Fag2a](https://open.spotify.com/album/4TiVj6cKbx5hYA2NgzCeul) | 3:33 | 2023-02-16 |  |
+| [We Fag2a](https://open.spotify.com/track/2R5jANgM046Vo5MEdYlYMY) | [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [We Fag2a](https://open.spotify.com/album/4TiVj6cKbx5hYA2NgzCeul) | 3:33 | 2023-02-16 | 2023-04-11 |
 | [We Lesa Ya Donya](https://open.spotify.com/track/3T3rQCq9rwox4gF1ATaJNz) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [We Lesa Ya Donya](https://open.spotify.com/album/5Cmt2DK38UfaUXSYnWYxdm) | 3:08 | 2023-03-24 |  |
 | [Welad El Nas](https://open.spotify.com/track/7IVOH9iOYCLh4ghPc2IjEn) | [Aziz El Shafei](https://open.spotify.com/artist/5afhldfOH1zWp9nhlvxFQL) | [Welad El Nas](https://open.spotify.com/album/3C47PBslEIMHA8C5MSC7ms) | 3:43 | 2022-10-26 | 2023-01-13 |
 | [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 | 2022-09-16 |

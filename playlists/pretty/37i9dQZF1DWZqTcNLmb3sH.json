@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48394,
+  "num_followers": 48409,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4NzIzNiwwMDAwMDAwMGQ0MDFjZTY1ZGJkMjQ5MTZkNTRkZTlmYjMzZjY5Mzcx",
+  "snapshot_id": "MTY4MTEzMzk1OCwwMDAwMDAwMGVlNzc2YTI0ZWMzM2ZkY2E3YTQwNzBhOTM2N2RjMGVk",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -201,6 +201,54 @@
       "url": "https://open.spotify.com/track/59LWEobpciyd5ASN9SO25U"
     },
     {
+      "added_at": "2023-04-10 13:39:18",
+      "album": {
+        "name": "Darbar",
+        "url": "https://open.spotify.com/album/52CUx9dWzimkdDsPCXFQho"
+      },
+      "artists": [
+        {
+          "name": "Upendra",
+          "url": "https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Bandebudthu Urabdange Nadeyo Electionu",
+      "url": "https://open.spotify.com/track/5nK7PZrNHVeDCz2mjPmsKq"
+    },
+    {
+      "added_at": "2023-04-10 07:12:35",
+      "album": {
+        "name": "Hanuman Chalisa (From \"HanuMan\") [Kannada] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/3FpmkmM8R0C89jdfQmxgcl"
+      },
+      "artists": [
+        {
+          "name": "Sai Charan",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Hanuman Chalisa (From \"HanuMan\") [Kannada]",
+      "url": "https://open.spotify.com/track/4dTmUE6VFF5zCZhENDjFcp"
+    },
+    {
+      "added_at": "2023-03-28 05:05:16",
+      "album": {
+        "name": "Colors of Love",
+        "url": "https://open.spotify.com/album/22PRMMQcayfr8cXtLZ4a7e"
+      },
+      "artists": [
+        {
+          "name": "K P Milan Kumar",
+          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
+        }
+      ],
+      "duration_ms": 88472,
+      "name": "Hata Madida (Male Version)",
+      "url": "https://open.spotify.com/track/0mIk9nc5mV86TQmdOdJedj"
+    },
+    {
       "added_at": "2023-04-06 13:20:35",
       "album": {
         "name": "E Hrudayada Deguladali (From \"Feel My Love\")",
@@ -239,6 +287,26 @@
       "duration_ms": 198276,
       "name": "Bad Manners Title Track (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/5CmJFan6BVZEJDBIkBbi56"
+    },
+    {
+      "added_at": "2023-04-10 07:12:35",
+      "album": {
+        "name": "Long Drive",
+        "url": "https://open.spotify.com/album/130Pzy3VlCHnbwcrcZS6YR"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        }
+      ],
+      "duration_ms": 252138,
+      "name": "Mayaviye",
+      "url": "https://open.spotify.com/track/0WSTkzo2AxwP6vePkanVJV"
     },
     {
       "added_at": "2023-04-05 09:51:25",
@@ -375,6 +443,26 @@
       "duration_ms": 256538,
       "name": "Theme Song (From \"Pentagon\")",
       "url": "https://open.spotify.com/track/2amLyygrGznwGVfqIiz0fC"
+    },
+    {
+      "added_at": "2023-04-10 13:39:18",
+      "album": {
+        "name": "Darbar",
+        "url": "https://open.spotify.com/album/52CUx9dWzimkdDsPCXFQho"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "duration_ms": 256488,
+      "name": "Enanu Kelade Ninage",
+      "url": "https://open.spotify.com/track/3S7FHIkf0so0h2c4ssaAz2"
     },
     {
       "added_at": "2023-02-20 07:39:17",
@@ -529,6 +617,22 @@
       "url": "https://open.spotify.com/track/3cPz3gkGeXN8BI5DSqyVRp"
     },
     {
+      "added_at": "2023-04-10 07:12:35",
+      "album": {
+        "name": "Long Drive",
+        "url": "https://open.spotify.com/album/130Pzy3VlCHnbwcrcZS6YR"
+      },
+      "artists": [
+        {
+          "name": "Vikas Vasishta",
+          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
+        }
+      ],
+      "duration_ms": 213258,
+      "name": "Yaare Neenu Devathe",
+      "url": "https://open.spotify.com/track/4DbMwj6wBccpQjWmiU94FK"
+    },
+    {
       "added_at": "2023-04-03 11:48:53",
       "album": {
         "name": "Kaala Chakradalli (From \"Raaghu\") - Single",
@@ -667,22 +771,6 @@
       "duration_ms": 185001,
       "name": "Arre Idu Yentha Bhavane (from \"Hoysala\")",
       "url": "https://open.spotify.com/track/01B4hOPRd4OwoYp7DanGS0"
-    },
-    {
-      "added_at": "2023-03-28 05:05:16",
-      "album": {
-        "name": "Colors of Love",
-        "url": "https://open.spotify.com/album/22PRMMQcayfr8cXtLZ4a7e"
-      },
-      "artists": [
-        {
-          "name": "K P Milan Kumar",
-          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
-        }
-      ],
-      "duration_ms": 88472,
-      "name": "Hata Madida (Male Version)",
-      "url": "https://open.spotify.com/track/0mIk9nc5mV86TQmdOdJedj"
     },
     {
       "added_at": "2023-03-22 11:13:26",

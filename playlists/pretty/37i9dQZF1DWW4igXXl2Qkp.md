@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BlakeIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,293 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,338 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 |
-| 2 | [Big 4](https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Big 4](https://open.spotify.com/album/0RqOURh1V2vMtyTyZ8XSWN) | 2:15 |
+| 1 | [Big 4](https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Big 4](https://open.spotify.com/album/0RqOURh1V2vMtyTyZ8XSWN) | 2:15 |
+| 2 | [Bank Statements & Deposits](https://open.spotify.com/track/3lUWtFnYFaKDalzuRATbJp) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Bank Statements & Deposits](https://open.spotify.com/album/1iA7aLQ2QmaJtg75WgVS93) | 2:41 |
 | 3 | [BING BONG](https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [BING BONG](https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar) | 1:46 |
-| 4 | [Skyloft](https://open.spotify.com/track/2tSE8WWj3IjYRIvjmrPAAJ) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Skyloft](https://open.spotify.com/album/7gFzcPiUzCUjTQW44zrRHw) | 2:11 |
-| 5 | [Head Over heels](https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Head Over heels](https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq) | 2:38 |
-| 6 | [Knocked Up](https://open.spotify.com/track/1CnTYUBeYKnwiWl2ljX6uI) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [Knocked Up](https://open.spotify.com/album/4z6R7wci0eXJZn7vQMxDBV) | 2:45 |
-| 7 | [Downtown](https://open.spotify.com/track/0XROcEEaW9T6Ezw7zmXpo9) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Downtown](https://open.spotify.com/album/7rSs6a03YSAVQhhxsoh1vz) | 2:49 |
-| 8 | [No More](https://open.spotify.com/track/2ew6Sp4DaM7K3zqgQK3hDc) | [ItsWill](https://open.spotify.com/artist/4OiW70QEFqUjcIksQm6EPe) | [No More](https://open.spotify.com/album/0ivFRiA5GHzoE7OiM3GNum) | 2:29 |
-| 9 | [Jackie Chan](https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Jackie Chan](https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3) | 1:52 |
-| 10 | [Bank Statements & Deposits](https://open.spotify.com/track/3lUWtFnYFaKDalzuRATbJp) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Bank Statements & Deposits](https://open.spotify.com/album/1iA7aLQ2QmaJtg75WgVS93) | 2:41 |
+| 4 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 |
+| 5 | [Downtown](https://open.spotify.com/track/0XROcEEaW9T6Ezw7zmXpo9) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Downtown](https://open.spotify.com/album/7rSs6a03YSAVQhhxsoh1vz) | 2:49 |
+| 6 | [Skyloft](https://open.spotify.com/track/2tSE8WWj3IjYRIvjmrPAAJ) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Skyloft](https://open.spotify.com/album/7gFzcPiUzCUjTQW44zrRHw) | 2:11 |
+| 7 | [Head Over heels](https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Head Over heels](https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq) | 2:38 |
+| 8 | [Knocked Up](https://open.spotify.com/track/1CnTYUBeYKnwiWl2ljX6uI) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [Knocked Up](https://open.spotify.com/album/4z6R7wci0eXJZn7vQMxDBV) | 2:45 |
+| 9 | [No More](https://open.spotify.com/track/2ew6Sp4DaM7K3zqgQK3hDc) | [ItsWill](https://open.spotify.com/artist/4OiW70QEFqUjcIksQm6EPe) | [No More](https://open.spotify.com/album/0ivFRiA5GHzoE7OiM3GNum) | 2:29 |
+| 10 | [Jackie Chan](https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Jackie Chan](https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3) | 1:52 |
 | 11 | [Dark Hunter](https://open.spotify.com/track/0xh0B9clrDt0gzmG4OpHsm) | [Gem Ceasar](https://open.spotify.com/artist/2Txm3BfqwwkWXBQBUqPGTd) | [Dark Hunter](https://open.spotify.com/album/1LSZ8hWTjtxjAJlrHqywhF) | 3:05 |
 | 12 | [I'm Him](https://open.spotify.com/track/2cAqVc1Hrry0OpnyOLmsEv) | [Joe West](https://open.spotify.com/artist/4ep4KPv7HsOHDILejOScCK) | [HIM](https://open.spotify.com/album/2aSexfVzRxiaHa2mPeSZD0) | 2:43 |
 | 13 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [With The Stars](https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf) | [Fazer](https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr) | [With The Stars](https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8) | 3:32 |
 | 75 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 
-Snapshot ID: `MTY4MDcyNjM4MywwMDAwMDAwMDBjMmE5YzUxN2VmODI1NjJmNjljMTM1OGRmNDM5Zjg0`
+Snapshot ID: `MTY4MTE1NjI0NSwwMDAwMDAwMDU2ZDY2ZDlkOThlZmFlY2ViNzIzMTRmOThjYzg2NDc3`

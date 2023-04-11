@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Thinking about those days when it was all hitting that reblog \#SpotifyTBT Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,203,370 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,203,469 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

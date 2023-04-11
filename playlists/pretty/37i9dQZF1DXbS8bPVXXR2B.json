@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 198959,
+  "num_followers": 199068,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDQzNWExZTgyZGVhY2Q1YjQ1NWE1ZjQ2ODA1Y2E2MDdj",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDcyOGQzY2E2MzI2NmU3NjQwYjczMGE4ODdhYTFkYTRm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Give Me the Night",
         "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 301026,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Nightfly",
-        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
-      },
-      "artists": [
-        {
-          "name": "Donald Fagen",
-          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
-        }
-      ],
-      "duration_ms": 363413,
-      "name": "I.G.Y.",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 495186,
       "name": "I Feel Love - 12\" Version",
       "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Nightfly",
+        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+      },
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        }
+      ],
+      "duration_ms": 363413,
+      "name": "I.G.Y.",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
-      },
-      "artists": [
-        {
-          "name": "Joe Smooth",
-          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
-        }
-      ],
-      "duration_ms": 331706,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 341426,
       "name": "Last Night a D.J. Saved My Life",
       "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR"
+      },
+      "artists": [
+        {
+          "name": "Joe Smooth",
+          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
+        }
+      ],
+      "duration_ms": 331706,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Pull Up To The Bumper - Edit",
+      "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Pull Up To The Bumper - Edit",
-      "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 408142,
-      "name": "Number One - 12\" Version",
-      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 408142,
+      "name": "Number One - 12\" Version",
+      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 375106,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 229734,
       "name": "Disco Baby - Floating Points & Red Greg Edit",
       "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     }
   ],
   "unique_name": "Disco Hi-Life",

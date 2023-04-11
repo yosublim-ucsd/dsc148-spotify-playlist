@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 76203,
+  "num_followers": 76358,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4MTQxNCwwMDAwMDAwMGMwYTI4ODJmMzRjM2ZkMjhlYWU3MDIyZWZmMGRhZmQw",
+  "snapshot_id": "MTY4MDc4MTQxNCwwMDAwMDAwMDBjZTE5NjExZDcwNjcyODAzNGUwZTM4NDk0ZGNmNjdk",
   "tracks": [
     {
       "added_at": "2023-03-21 16:22:07",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
-        "name": "Tommy Castro Presents A Bluesman Came To Town",
-        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 316006,
-      "name": "Blues Prisoner",
-      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
-    },
-    {
-      "added_at": "2023-03-21 16:22:07",
-      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
+        "name": "Tommy Castro Presents A Bluesman Came To Town",
+        "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 316006,
+      "name": "Blues Prisoner",
+      "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+    },
+    {
+      "added_at": "2023-03-21 16:22:07",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -323,22 +323,6 @@
       "duration_ms": 317000,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
-    },
-    {
-      "added_at": "2023-03-21 16:22:07",
-      "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2023-03-21 16:22:07",
@@ -391,6 +375,38 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+    },
+    {
+      "added_at": "2023-03-21 16:22:07",
+      "album": {
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+    },
+    {
+      "added_at": "2023-03-21 16:22:07",
+      "album": {
         "name": "Gee Baby Ain't I Good To You",
         "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
       },
@@ -423,18 +439,22 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+        "name": "Roll Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Back Door Slam",
+          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
+        },
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
         }
       ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+      "duration_ms": 349893,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
     },
     {
       "added_at": "2023-03-21 16:22:07",
@@ -455,22 +475,18 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
-        "name": "Roll Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
       },
       "artists": [
         {
-          "name": "Back Door Slam",
-          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
-        },
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 349893,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-03-21 16:22:07",
@@ -507,22 +523,6 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
-    },
-    {
-      "added_at": "2023-03-21 16:22:07",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-03-21 16:22:07",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2023-03-21 16:22:07",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 295666,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2023-03-21 16:22:07",
+      "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2023-03-21 16:22:07",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
+        "name": "Connor Selby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Love Letter To The Blues - Bonus Track",
+      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
+    },
+    {
+      "added_at": "2023-03-21 16:22:07",
+      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
-    },
-    {
-      "added_at": "2023-03-21 16:22:07",
-      "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Love Letter To The Blues - Bonus Track",
-      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
     },
     {
       "added_at": "2023-03-21 16:22:07",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-21 16:22:07",
       "album": {
-        "name": "As Good As It Gets",
-        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 338373,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
-    },
-    {
-      "added_at": "2023-03-21 16:22:07",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-03-21 16:22:07",
+      "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 338373,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
     },
     {
       "added_at": "2023-03-21 16:22:07",

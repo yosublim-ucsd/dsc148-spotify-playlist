@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: Linkin Park",
+  "description": "Let's celebrate Pet Day with M\u00e5neskin. Cover: Victoria De Angelis with Chili De Angelis",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -20,6 +20,46 @@
       "duration_ms": 184124,
       "name": "(pls) set me on fire",
       "url": "https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG"
+    },
+    {
+      "album": {
+        "name": "100-99 (feat. GoldLink)",
+        "url": "https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216775,
+      "name": "100-99 (feat. GoldLink)",
+      "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
     },
     {
       "album": {
@@ -602,7 +642,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 194227,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
@@ -1675,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Seventh",
+        "url": "https://open.spotify.com/album/4Lf8u5UxnpNW19h7VrRSvi"
+      },
+      "artists": [
+        {
+          "name": "Iman's League",
+          "url": "https://open.spotify.com/artist/2hzlnFNlCPLyNidlVtPTbR"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254647,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/4W3oj1PfhnUCoJGtMLcPAh"
+    },
+    {
+      "album": {
         "name": "Truth Decay",
         "url": "https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D"
       },
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 263919,
       "name": "Invisible - Songs Of Surrender",
       "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
@@ -3054,7 +3112,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 219619,
       "name": "Medusa (Stone)",
       "url": "https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC"
@@ -3446,7 +3504,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 353946,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
@@ -4354,6 +4412,24 @@
       "duration_ms": 245099,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
+    },
+    {
+      "album": {
+        "name": "Spellbinding",
+        "url": "https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246837,
+      "name": "Spellbinding",
+      "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
     },
     {
       "album": {

@@ -1612,10 +1612,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 233845,
       "name": "Love You True",
       "url": "https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV"
+    },
+    {
+      "album": {
+        "name": "The Tides",
+        "url": "https://open.spotify.com/album/7m6ucG298JCN5miztXky1g"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233874,
+      "name": "Love You True",
+      "url": "https://open.spotify.com/track/0XSynffntpPmWwutFaT4MP"
     },
     {
       "album": {

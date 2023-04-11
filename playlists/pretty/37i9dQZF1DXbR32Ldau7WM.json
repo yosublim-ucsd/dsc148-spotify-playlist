@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: BAWDIES",
-  "num_followers": 253620,
+  "num_followers": 253660,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMDU0YTdiNDJhYjk4MWY3YmZiNmFkNThiNTM1Y2QzYzdj",
+  "snapshot_id": "MTY4MDc5MzIwMCwwMDAwMDAwMGY0ZDc3NjFhNGIxYWZmNjAwZDAzNGZhMzk5MjAwMWMz",
   "tracks": [
     {
       "added_at": "2023-04-06 15:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "LOVE ROCKETS",
-        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
+        "name": "The End of Yesterday",
+        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
       },
       "artists": [
         {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 261385,
-      "name": "LOVE ROCKETS",
-      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
+      "duration_ms": 214213,
+      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "The End of Yesterday",
-        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "\u5bbf\u7e01",
         "url": "https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 213000,
       "name": "\u5bbf\u7e01",
       "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "LOVE ROCKETS",
+        "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "duration_ms": 261385,
+      "name": "LOVE ROCKETS",
+      "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Awakening:Sleeping",
-        "url": "https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy"
-      },
-      "artists": [
-        {
-          "name": "MASS OF THE FERMENTING DREGS",
-          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Dramatic",
-      "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Awakening:Sleeping",
+        "url": "https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy"
+      },
+      "artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "BANTAM",
-        "url": "https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI"
-      },
-      "artists": [
-        {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "BANTAM",
-      "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "Memorable",
         "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 193965,
       "name": "Memorable",
       "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "BANTAM",
+        "url": "https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "BANTAM",
+      "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "duration_ms": 224919,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
         "name": "THE PROMISE",
         "url": "https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ"
-      },
-      "artists": [
-        {
-          "name": "flumpool",
-          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
-        }
-      ],
-      "duration_ms": 224919,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "BackBeat",
         "url": "https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 230350,
       "name": "BackBeat",
       "url": "https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
     },
     {
       "added_at": "2023-04-06 15:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-06 15:00:00",
       "album": {
-        "name": "Bump & Grind",
-        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "My Vision",
-      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
-    },
-    {
-      "added_at": "2023-04-06 15:00:00",
-      "album": {
         "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
         "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 264390,
       "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
       "url": "https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl"
+    },
+    {
+      "added_at": "2023-04-06 15:00:00",
+      "album": {
+        "name": "Bump & Grind",
+        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "My Vision",
+      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
     },
     {
       "added_at": "2023-04-06 15:00:00",

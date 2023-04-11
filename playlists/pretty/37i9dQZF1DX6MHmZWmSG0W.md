@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MHmZWmSG0W.md) - [plain]
 
 > Let <a href="spotify:artist:5PdkRVDASsw6P7QoqRpz0F">Salvatore Ganacci</a>'s uniqueness be heard in this energetic mix filled with his own productions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

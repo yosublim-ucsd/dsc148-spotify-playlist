@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377921,
+  "num_followers": 377964,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMGE5OTRkOTE5NDA0YjBkNzkwYzM0NThiMGZjNjk0NzU5",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDM3ODMwMGE2OWRhY2Y0NDQ3MjdhZDA4MDllYjNhZTQ0",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "On the Lookout",
-        "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "On the Lookout",
-      "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "On the Lookout",
+        "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "On the Lookout",
+      "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 262400,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 185480,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "duration_ms": 282701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
-      },
-      "artists": [
-        {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
-        }
-      ],
-      "duration_ms": 282701,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 235464,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
         }
       ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1303,38 +1303,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
       "artists": [
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 224113,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Four Winds",
-        "url": "https://open.spotify.com/album/3WgtvCNabRAok46pCZJyMt"
-      },
-      "artists": [
-        {
-          "name": "Opia",
-          "url": "https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/3NPiANHZYahLZhUT00GwTw"
+      "duration_ms": 260338,
+      "name": "Edge of the Dark",
+      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1355,18 +1335,38 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
+        "name": "Four Winds",
+        "url": "https://open.spotify.com/album/3WgtvCNabRAok46pCZJyMt"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Opia",
+          "url": "https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh"
         }
       ],
-      "duration_ms": 260338,
-      "name": "Edge of the Dark",
-      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+      "duration_ms": 223813,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/3NPiANHZYahLZhUT00GwTw"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "duration_ms": 224113,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fraser",
+          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
+        }
+      ],
+      "duration_ms": 222885,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "September Come",
         "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 240131,
       "name": "September Come",
       "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fraser",
-          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
-        }
-      ],
-      "duration_ms": 222885,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
     },
     {
       "added_at": "2023-01-11 21:01:15",

@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 105748,
+  "num_followers": 105787,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDVjMjNlNGNhOGE1MmYyOWZhNjUyYmQ5ZWMyYjg0ODU3",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDAzYWQ2YjkxMGMyNmUzOTIxYjFlYmM2NGM2MGI3OGUx",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Monte Carlo",
-      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Limo",
         "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
       },
@@ -911,34 +927,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+        "name": "Daiquiri",
+        "url": "https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "QCVH",
-        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "QCVH",
-      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+      "duration_ms": 218918,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Daiquiri",
-        "url": "https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg"
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
         }
       ],
-      "duration_ms": 218918,
-      "name": "Daiquiri",
-      "url": "https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs"
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
-      },
-      "artists": [
-        {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 230787,
       "name": "diario",
       "url": "https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 149458,
+      "name": "What More",
+      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Alumnos",
         "url": "https://open.spotify.com/album/224WofhHqF6PuYTGd63baR"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 163541,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 149458,
-      "name": "What More",
-      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
     },
     {
       "added_at": "2023-03-10 21:49:16",

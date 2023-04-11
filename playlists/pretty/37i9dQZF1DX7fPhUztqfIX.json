@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 104100,
+  "num_followers": 104138,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDA5NWVjMWIwNTY3OGMwZGQ5YTgyYzU1NDZmZjgxYmNi",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDk5NDA0NDg1NzRjZjA0NDE0Mjk3NWIyY2M5MzUxMTY3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -531,18 +531,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The God Who Fights For Me",
-        "url": "https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE"
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
       },
       "artists": [
         {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 225228,
-      "name": "The God Who Fights for Me",
-      "url": "https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6"
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -563,18 +563,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "EVERYTHING EVERYTHING",
-        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+        "name": "The God Who Fights For Me",
+        "url": "https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
         }
       ],
-      "duration_ms": 200079,
-      "name": "EVERYTHING EVERYTHING",
-      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+      "duration_ms": 225228,
+      "name": "The God Who Fights for Me",
+      "url": "https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Graves Into Gardens: Morning & Evening",
-        "url": "https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 349002,
-      "name": "Available (Morning & Evening)",
-      "url": "https://open.spotify.com/track/3PQ864HRiUAmOoCqkWpI7u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Higher Than Mine",
         "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 185062,
       "name": "Higher Than Mine",
       "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Graves Into Gardens: Morning & Evening",
+        "url": "https://open.spotify.com/album/4FSbyaejQ4FwM396Jl0Zc1"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349002,
+      "name": "Available (Morning & Evening)",
+      "url": "https://open.spotify.com/track/3PQ864HRiUAmOoCqkWpI7u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1015,6 +1015,22 @@
       "duration_ms": 247451,
       "name": "R\u00edo",
       "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "I Feel Good About It",
+        "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
+      },
+      "artists": [
+        {
+          "name": "Foothills Collective",
+          "url": "https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc"
+        },
+        {
+          "name": "Megan Brown",
+          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "I Feel Good About It",
+      "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Nothing But Good",
         "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
       },
@@ -1399,22 +1419,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Feel Good About It",
-        "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
       "artists": [
         {
-          "name": "Foothills Collective",
-          "url": "https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc"
-        },
-        {
-          "name": "Megan Brown",
-          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "I Feel Good About It",
-      "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1447,22 +1463,6 @@
       "duration_ms": 289480,
       "name": "Jesus My Treasure",
       "url": "https://open.spotify.com/track/5gK1uutVAMPNMVNlFmrmjg"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Uncomplicated - Live",
-      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Find a Reason",
         "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 254310,
       "name": "Praise Your Name (feat. Desi Raines)",
       "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Altars",
         "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
       },
       "artists": [
         {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
         }
       ],
-      "duration_ms": 320867,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2131,6 +2115,22 @@
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 320867,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Kingdom Dreamers",
-        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
-      },
-      "artists": [
-        {
-          "name": "KXC",
-          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
-        },
-        {
-          "name": "Tom Eccleshall",
-          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
-        }
-      ],
-      "duration_ms": 297070,
-      "name": "Kingdom Dreamers",
-      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Holy Holy Here With Me (Live)",
         "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Kingdom Dreamers",
+        "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Tom Eccleshall",
+          "url": "https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1"
+        }
+      ],
+      "duration_ms": 297070,
+      "name": "Kingdom Dreamers",
+      "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
     }
   ],
   "unique_name": "New & Bold",

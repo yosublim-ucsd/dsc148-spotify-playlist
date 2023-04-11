@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Oliver Heldens &amp; Kylie Minogue
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,961 likes - 135 songs - 7 hr 17 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,953 likes - 135 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

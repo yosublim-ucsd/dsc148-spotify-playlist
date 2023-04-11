@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-679 songs - 1 day 12 hr 1 min
+680 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Skies](https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Skies](https://open.spotify.com/album/3QsQU7HHMeIKXMUyl9MHef) | 3:05 | 2021-12-16 | 2022-05-12 |
 | [Skräck eller lycka?](https://open.spotify.com/track/0X04NMcv87lgoJW1AxreT4) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Skräck eller lycka?](https://open.spotify.com/album/7kWgErSsJxYRJawnzHLVSa) | 4:59 | 2022-03-24 | 2022-04-21 |
 | [Skål](https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Skål](https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W) | 2:55 | 2022-06-30 | 2022-11-06 |
+| [Slugs of Love](https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v) | 4:07 | 2023-04-06 |  |
 | [Slutet av dagen](https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Slutet av dagen](https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q) | 3:28 | 2022-09-01 | 2022-10-03 |
 | [Släpp mig](https://open.spotify.com/track/2EZmE6pdwIhsOEJKS3nUFI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Släpp mig](https://open.spotify.com/album/74bF6o1WKlI2ZkWwOCY7Gx) | 2:36 | 2022-03-10 | 2022-05-12 |
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
@@ -673,7 +674,7 @@
 | [X](https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [X](https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR) | 2:41 | 2022-03-17 | 2022-09-16 |
 | [ye, aha](https://open.spotify.com/track/04C1OEisyN3uS6tzJ3qWll) | [Naomi Vaughn](https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8) | [ye, aha](https://open.spotify.com/album/5zDnEjhZS5CxglWmVRPCCS) | 2:57 | 2022-06-30 | 2022-07-20 |
 | [Yellow](https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06) | [Tyra Chantey](https://open.spotify.com/artist/2TTmUTfsQjQb9Wx8arAZy9) | [Yellow](https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt) | 3:00 | 2022-09-29 |  |
-| [YES](https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [YES](https://open.spotify.com/album/4YYiMfMEYp6qrXoI41AYO6) | 3:27 | 2023-04-06 |  |
+| [YES](https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [YES](https://open.spotify.com/album/4YYiMfMEYp6qrXoI41AYO6) | 3:27 | 2023-04-06 | 2023-04-11 |
 | [YOU](https://open.spotify.com/track/2OyauYlmXhB8ffpf4S9mjQ) | [Alissa Reah](https://open.spotify.com/artist/53TuN2OUabI6gDAjd49Fs2) | [YOU](https://open.spotify.com/album/1htfK5RJY2vuj6P4XaofbY) | 3:01 | 2022-03-24 | 2022-07-20 |
 | [You to Me](https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [You to Me](https://open.spotify.com/album/4abCLxqbInPOw7fiblaLVL) | 2:36 | 2021-12-16 | 2022-01-13 |
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |

@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 193446,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
@@ -4696,6 +4696,24 @@
       "duration_ms": 202010,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/6vp2kWUZ99zyxpzkwtLtJu"
+    },
+    {
+      "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/43xwvHubA7qJpzPz7yBQEo"
+      },
+      "artists": [
+        {
+          "name": "FiloChill",
+          "url": "https://open.spotify.com/artist/3dwVndIdsi5UVhJjFstRUX"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202527,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/4gM1iFJFRFDvl2mz0t65Ce"
     },
     {
       "album": {

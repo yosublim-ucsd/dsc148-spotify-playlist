@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bunny Wailer",
-  "num_followers": 2769886,
+  "num_followers": 2770288,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -2784,10 +2784,6 @@
       },
       "artists": [
         {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        },
-        {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
@@ -3840,7 +3836,7 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 256240,
+      "duration_ms": 256239,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
     },

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6791283,
+  "num_followers": 6792668,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyMjAwMCwwMDAwMDAwMGQzMWYyNzFjODJmZjVkODFmZDBhY2E0NTg3NzE3MjE1",
+  "snapshot_id": "MTY4MDgyMjAwMCwwMDAwMDAwMGI0YWQwNWQ1YjlmNjBjZmQ5ODQwYzFkYmVkNzFmYWE3",
   "tracks": [
     {
       "added_at": "2023-04-06 23:00:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -579,30 +579,6 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -663,6 +639,50 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
         "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
         "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 176500,
       "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
       "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
         "name": "Rely On Me",
         "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 174585,
       "name": "Rely On Me",
       "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 179528,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1371,30 +1371,26 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Case Of The Ex (feat. Mya Francis)",
-        "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
+        "name": "Blow It Up",
+        "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
       },
       "artists": [
         {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "N.F.I",
-          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Mya Francis",
-          "url": "https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU"
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
         }
       ],
-      "duration_ms": 127699,
-      "name": "Case Of The Ex (feat. Mya Francis)",
-      "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
+      "duration_ms": 181374,
+      "name": "Blow It Up",
+      "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1423,26 +1419,30 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Blow It Up",
-        "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
+        "name": "Case Of The Ex (feat. Mya Francis)",
+        "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
         },
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "N.F.I",
+          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
         },
         {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mya Francis",
+          "url": "https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU"
         }
       ],
-      "duration_ms": 181374,
-      "name": "Blow It Up",
-      "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
+      "duration_ms": 127699,
+      "name": "Case Of The Ex (feat. Mya Francis)",
+      "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 153809,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
         "name": "Don't Stop the Music",
         "url": "https://open.spotify.com/album/35bbZQhkYfP37dzTKsCvtz"
       },
@@ -1787,22 +1807,18 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Drop That Low (When I Dip)",
-        "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 153809,
-      "name": "Drop That Low (When I Dip)",
-      "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1831,22 +1847,6 @@
       "duration_ms": 163200,
       "name": "Don't Play Games",
       "url": "https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Nikes",
-        "url": "https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        }
-      ],
-      "duration_ms": 149583,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
       },
@@ -2127,6 +2107,30 @@
       "duration_ms": 159406,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "Heaven (feat. Sofia Quinn) [Club Mix]",
+        "url": "https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Heaven (feat. Sofia Quinn) - Club Mix",
+      "url": "https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9"
     }
   ],
   "unique_name": "Motivation Mix",

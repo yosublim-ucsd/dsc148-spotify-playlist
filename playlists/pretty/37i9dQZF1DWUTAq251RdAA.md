@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,247 likes - 81 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,251 likes - 81 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 | 74 | [River \- Live](https://open.spotify.com/track/2AiPzrgK6RcRptGLHcaIuE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Live at Union Chapel](https://open.spotify.com/album/1zUPAjOCU5TZmGRYH12OA3) | 5:12 |
 | 75 | [Amelia](https://open.spotify.com/track/3V0lBG1CzYYJ1227B2Hg7y) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [River: The Joni Letters](https://open.spotify.com/album/3GwR5VxaMzB01ay6qIT3Yq) | 7:26 |
 | 76 | [Eastern Rain](https://open.spotify.com/track/0rul07cSCCgeOCMFEDYIA9) | [Laurie Antonioli](https://open.spotify.com/artist/56QkPwRVOgyQSwuCm5QkoB) | [Songs of Shadow, Songs of Light](https://open.spotify.com/album/0dEaEbEUWypiOjIegguOTF) | 4:28 |
-| 77 | [Cold Blue Steel And Sweet Fire](https://open.spotify.com/track/1TavkgUYYduSv2EW9QqRlQ) | [Monika Borzym](https://open.spotify.com/artist/6DlY4cWd9bU4huCgoqQ665) | [Back To The Garden](https://open.spotify.com/album/7MIwq0gFcsvjiWE6tsVYjo) | 5:06 |
+| 77 | [Cold Blue Steel And Sweet Fire](https://open.spotify.com/track/6Svt0yjXiupw9h0wGftL2j) | [Monika Borzym](https://open.spotify.com/artist/6DlY4cWd9bU4huCgoqQ665) | [Back To The Garden](https://open.spotify.com/album/32l0A0G5ZmE7W7MDkCZ4nu) | 5:06 |
 | 78 | [The Tea Leaf Prophecy \(Lay Down Your Arms\)](https://open.spotify.com/track/4iRyloGgb4CKuzFeYm4VzI) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [River: The Joni Letters](https://open.spotify.com/album/3GwR5VxaMzB01ay6qIT3Yq) | 6:33 |
 | 79 | [Big Yellow Taxi](https://open.spotify.com/track/6PcA4W3mohxoPlSSXsU9io) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Big Wide Grin](https://open.spotify.com/album/6KTGH6T80aanbLPOdub7i6) | 3:44 |
 | 80 | [Woodstock](https://open.spotify.com/track/36MxthZNeNmBEGZLC5TZYN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:19 |
 | 81 | [Down to You \(My Confidante\)](https://open.spotify.com/track/71vOaA56rhZ4UxlCdVhHqn) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Down to You \(My Confidante\)](https://open.spotify.com/album/5kreh8RvjTaep5mnW4w6GJ) | 4:07 |
 
-Snapshot ID: `MTY1NzU2NDk2MywwMDAwMDAwMDA5YTQ0NGUyYTczZWM0NzJiM2M4MDlmNTcxZmE4NzJk`
+Snapshot ID: `MTY1NzU2NDk2MywwMDAwMDAwMDllNDc0MmNjY2RiNGQyOTI2MWQ2NjNiMmYwMzE3M2I2`

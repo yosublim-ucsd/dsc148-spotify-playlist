@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7wWrueTstelQP0y8hwigaI">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 147 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 147 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 7 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 |
 | 8 | [Despacito](https://open.spotify.com/track/6OIFsi2ov9nSjRrnJWVZIM) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Let There Be Cello](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F) | 2:27 |
 | 9 | [Ataúd](https://open.spotify.com/track/4IqL5iKWFXd6h37VQgGJgd) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Ataúd](https://open.spotify.com/album/49DdpNVtmfHiFXPXzjmYCI) | 3:38 |
-| 10 | [Aprendí](https://open.spotify.com/track/72KlPsKLIzlZ2M4yXZkiy1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 4:22 |
-| 11 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 |
+| 10 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 |
+| 11 | [Aprendí](https://open.spotify.com/track/72KlPsKLIzlZ2M4yXZkiy1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 4:22 |
 | 12 | [Tentación](https://open.spotify.com/track/5xalldFr8mKjbAE0WY2vtp) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8 \(Deluxe\)](https://open.spotify.com/album/33yUZhJNBRKhl4dbVC2h7K) | 3:12 |
 | 13 | [Candela](https://open.spotify.com/track/6aZVaIudGaHm88ydUe9k4i) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:56 |
 | 14 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 146 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 147 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 
-Snapshot ID: `MjgwMTgwODQsMDAwMDAwMDBhZGIwY2VkN2Q2M2QyYjVjY2Y3MDVmOTRmOWZjNmFjNg==`
+Snapshot ID: `MjgwMTk1MjQsMDAwMDAwMDA3Y2MxNWM5ZjM2MWQ3NmYxMmU4ODA5YzJmOGIyNDIzNg==`

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 809216,
+  "num_followers": 810439,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMGFmNGU1ZTNmOTZmNzUyOTNiZDQwYTFkNDU3ZGY0MjA4",
+  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMDY2ZThlZDFkYmY2OWJmZGQyNjY1MmJiNzZjMzc5NDhl",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "dirty laundry (slowed)",
-        "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 167369,
-      "name": "dirty laundry - slowed",
-      "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
         "name": "Wrap Me In Plastic",
         "url": "https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 147577,
       "name": "Wrap Me In Plastic - Slowed Down Version",
       "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "dirty laundry (slowed)",
+        "url": "https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 167369,
+      "name": "dirty laundry - slowed",
+      "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -855,6 +855,26 @@
       "duration_ms": 145738,
       "name": "Tard le soir..",
       "url": "https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "My Head In The Sky",
+        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
+      },
+      "artists": [
+        {
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "I Don't Trust Nobody - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -911,26 +931,6 @@
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "My Head In The Sky",
-        "url": "https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ"
-      },
-      "artists": [
-        {
-          "name": "ZRobb",
-          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
-        },
-        {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
-        }
-      ],
-      "duration_ms": 95108,
-      "name": "I Don't Trust Nobody - Slowed and Reverb",
-      "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
     },
     {
       "added_at": "2023-01-12 20:35:32",

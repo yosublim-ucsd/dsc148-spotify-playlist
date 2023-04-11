@@ -1038,12 +1038,12 @@
       },
       "artists": [
         {
-          "name": "Tomm",
-          "url": "https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP"
-        },
-        {
           "name": "Romeo El Santo",
           "url": "https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT"
+        },
+        {
+          "name": "Tomm",
+          "url": "https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP"
         }
       ],
       "date_added": "2023-04-07",

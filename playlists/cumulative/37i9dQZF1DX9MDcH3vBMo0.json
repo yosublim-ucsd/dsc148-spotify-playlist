@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Embers of Sorrow",
+        "url": "https://open.spotify.com/album/3mqoMlMFpLFJr1j7AX1cnP"
+      },
+      "artists": [
+        {
+          "name": "Fallegur Tonn",
+          "url": "https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121877,
+      "name": "Embers of Sorrow",
+      "url": "https://open.spotify.com/track/0vNKQBtLVcuNlhGFXTFRdI"
+    },
+    {
+      "album": {
         "name": "A Missing Piece",
         "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
       },
@@ -7746,7 +7764,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 121773,
       "name": "Saga",
       "url": "https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE"

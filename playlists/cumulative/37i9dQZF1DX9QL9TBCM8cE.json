@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-11",
       "duration_ms": 268400,
       "name": "\u30c0\u30d6\u30eb\u30fb\u30a4\u30d5\u30a7\u30af\u30c8",
       "url": "https://open.spotify.com/track/6eAvBWKdBDsO8ZvXWCJGCt"
@@ -1094,6 +1094,24 @@
       "duration_ms": 235040,
       "name": "\u30d3\u30fc\u30c1\u30d6\u30ec\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6rHnoHywkJbqXPZvyU3xeM"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 03 (2023 Version)",
+        "url": "https://open.spotify.com/album/3U2w2LF7VOu4U0JwDwwDoN"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "\u30e9\u30d3\u30ea\u30f3\u30b9\u30fb\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9 - 2023 Version",
+      "url": "https://open.spotify.com/track/38KKysXvXOTjmLSBzNkAG1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-319 songs - 19 hr 58 min
+320 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 | 2021-12-06 | 2022-07-29 |
 | [Going Soft](https://open.spotify.com/track/4gCWOLLQDJsGS4U5cGA4mi) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Going Soft](https://open.spotify.com/album/6im74GDpv2EQ1isZ2KouqP) | 3:23 | 2021-12-06 | 2022-07-06 |
 | [Golden](https://open.spotify.com/track/2pREI4cfaKpLUlxWnHVTbQ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Golden](https://open.spotify.com/album/7IBBLDTXQm3II4ulNd9oqk) | 2:10 | 2021-12-06 | 2022-04-21 |
-| [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2022-06-16 |  |
+| [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2022-06-16 | 2023-04-11 |
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-02-25 | 2022-07-10 |
 | [Good Time Charlie](https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Good Time Charlie](https://open.spotify.com/album/4S61h0CKciUdMo51bM3SAR) | 2:47 | 2021-12-06 | 2022-07-12 |
 | [Goodnight](https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Goodnight](https://open.spotify.com/album/7u57U9Is8dsIBg91dsq5lr) | 2:37 | 2021-12-06 | 2022-07-25 |
@@ -179,6 +179,7 @@
 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 | 2022-06-16 |  |
 | [Lucky Ones](https://open.spotify.com/track/6RFdhq5Eb0LvEuDAB71TZP) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [This Time Next Year \(Deluxe\)](https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW) | 3:07 | 2022-03-11 | 2022-04-21 |
 | [Machine](https://open.spotify.com/track/5UKFWucPL9JIiPv5oXd5Do) | [Primo!](https://open.spotify.com/artist/2vsgzWoIxqa2qjugu7a1jH) | [Sogni](https://open.spotify.com/album/6wjyemPyv0sq0KS5j64ltw) | 2:36 | 2021-12-06 | 2022-07-16 |
+| [Magic of Meghan](https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR) | 3:50 | 2023-02-24 |  |
 | [Magic of Meghan](https://open.spotify.com/track/2aLK2WqtkW4pkBh8wH3lUn) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Magic of Meghan](https://open.spotify.com/album/5Hi1UOAuj3BVNEY2k8iiVT) | 3:50 | 2021-12-06 | 2022-07-29 |
 | [Magic of Meghan](https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 3:50 | 2022-06-16 | 2023-03-31 |
 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 | 2023-03-18 |  |

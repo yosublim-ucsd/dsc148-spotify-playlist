@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Kaia Lana.",
-  "num_followers": 42578,
+  "num_followers": 42604,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4Mjg0NSwwMDAwMDAwMDA2ODY5ZjMwYjFmNzM2ZDNkMTYyZDU0YThmM2ZjOTM0",
+  "snapshot_id": "MTY4MDg4Mjg0NSwwMDAwMDAwMDA4MzY1OGFmNWY1MGQ2NTk3YjIzYzNlMDk3ZmM0MDA4",
   "tracks": [
     {
       "added_at": "2023-04-07 15:54:05",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-07 15:54:05",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-04-07 15:54:05",
       "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
       "artists": [
         {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-04-07 15:54:05",
@@ -475,6 +459,22 @@
       "duration_ms": 126227,
       "name": "Espinas De Rosas",
       "url": "https://open.spotify.com/track/1mOm59T1dzILITuOHfnkp1"
+    },
+    {
+      "added_at": "2023-04-07 15:54:05",
+      "album": {
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
     },
     {
       "added_at": "2023-04-07 15:54:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-07 15:54:05",
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 169919,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
         "name": "Muchas Cosas",
         "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 152133,
       "name": "Muchas Cosas",
       "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
+    },
+    {
+      "added_at": "2023-04-07 15:54:05",
+      "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 169919,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
     },
     {
       "added_at": "2023-04-07 15:54:05",
@@ -707,342 +707,6 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Pens\u00e1ndote",
-        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 159254,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Polaroid Paradise",
-        "url": "https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Amanece Otra Vez",
-        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 247501,
-      "name": "Amanece Otra Vez",
-      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Glass Cristina",
-          "url": "https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH"
-        }
-      ],
-      "duration_ms": 232895,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "He comprado \u2741",
-        "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "He comprado \u2741",
-      "url": "https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "En Todas Partes",
-        "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
-      },
-      "artists": [
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        },
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "En Todas Partes",
-      "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
-      },
-      "artists": [
-        {
-          "name": "MOSBI",
-          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
-        }
-      ],
-      "duration_ms": 239965,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114706,
-      "name": "Deriva",
-      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "me pongo un poco sad",
-        "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
-      },
-      "artists": [
-        {
-          "name": "tom\u00e1sss",
-          "url": "https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "me pongo un poco sad",
-      "url": "https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "A veces caigo",
-        "url": "https://open.spotify.com/album/7DhpUA2MCtE0w8do19Vgzd"
-      },
-      "artists": [
-        {
-          "name": "toorai",
-          "url": "https://open.spotify.com/artist/6GevMSNQ6R54xxyfOFSWBd"
-        }
-      ],
-      "duration_ms": 142955,
-      "name": "A veces caigo",
-      "url": "https://open.spotify.com/track/23VsJynQzdhikyNxp3xu1s"
     },
     {
       "added_at": "2023-04-07 15:54:05",
@@ -1175,6 +839,22 @@
     {
       "added_at": "2023-04-07 15:54:05",
       "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "added_at": "2023-04-07 15:54:05",
+      "album": {
         "name": "Un Impulso",
         "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
       },
@@ -1247,22 +927,6 @@
       "duration_ms": 258389,
       "name": "Amanecer (Remix)",
       "url": "https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84"
-    },
-    {
-      "added_at": "2023-04-07 15:54:05",
-      "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2023-04-07 15:54:05",

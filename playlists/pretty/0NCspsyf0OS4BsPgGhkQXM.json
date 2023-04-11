@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2042437,
+  "num_followers": 2042475,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTMyNjksYzMyMjNhMGEzMzAyYThmMDFlZTQzOWVlZTk0YjE0M2IyYjRhYmYzMA==",
+  "snapshot_id": "MTMyNzcsZWQ1OTkzMThmZmVhM2VhYjY0NWQxMGRmYzIyZTQxNzQ0MTA2MjhkMw==",
   "tracks": [
     {
       "added_at": "2023-04-08 01:29:50",
@@ -327,6 +327,34 @@
     {
       "added_at": "2023-04-08 01:29:50",
       "album": {
+        "name": "Ashes (Remixes)",
+        "url": "https://open.spotify.com/album/2R7PeUrbSseLkirdasHPqg"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Liam O'Donnell",
+          "url": "https://open.spotify.com/artist/75aiMKKxzFHGFRxyLwvL2d"
+        },
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        },
+        {
+          "name": "LZRD",
+          "url": "https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "It's All on U - T-Mass & LZRD Remix",
+      "url": "https://open.spotify.com/track/0Vc3nfRMdvY5iX6AHVWSMN"
+    },
+    {
+      "added_at": "2023-04-08 01:29:50",
+      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A"
       },
@@ -439,6 +467,30 @@
     {
       "added_at": "2023-04-08 01:29:50",
       "album": {
+        "name": "World War Joy",
+        "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Takeaway",
+      "url": "https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw"
+    },
+    {
+      "added_at": "2023-04-08 01:29:50",
+      "album": {
         "name": "Thoughts",
         "url": "https://open.spotify.com/album/0IFzlLKympHYoZUQBYwFZ3"
       },
@@ -495,6 +547,30 @@
       "duration_ms": 141098,
       "name": "Ur Perfect I Hate It",
       "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
+    },
+    {
+      "added_at": "2023-04-08 01:29:50",
+      "album": {
+        "name": "Feel Good (feat. Daya)",
+        "url": "https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 248156,
+      "name": "Feel Good (feat. Daya)",
+      "url": "https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx"
     },
     {
       "added_at": "2023-04-08 01:29:50",
@@ -711,34 +787,6 @@
     {
       "added_at": "2023-04-08 01:29:50",
       "album": {
-        "name": "Ashes (Remixes)",
-        "url": "https://open.spotify.com/album/2R7PeUrbSseLkirdasHPqg"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Liam O'Donnell",
-          "url": "https://open.spotify.com/artist/75aiMKKxzFHGFRxyLwvL2d"
-        },
-        {
-          "name": "T-Mass",
-          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
-        },
-        {
-          "name": "LZRD",
-          "url": "https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "It's All on U - T-Mass & LZRD Remix",
-      "url": "https://open.spotify.com/track/0Vc3nfRMdvY5iX6AHVWSMN"
-    },
-    {
-      "added_at": "2023-04-08 01:29:50",
-      "album": {
         "name": "Alone In My Dreams",
         "url": "https://open.spotify.com/album/6NxLWoS0GRoeZNZiMfOKsg"
       },
@@ -815,30 +863,6 @@
     {
       "added_at": "2023-04-08 01:29:50",
       "album": {
-        "name": "World War Joy",
-        "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Takeaway",
-      "url": "https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw"
-    },
-    {
-      "added_at": "2023-04-08 01:29:50",
-      "album": {
         "name": "Northern Lights (Remixes)",
         "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
-    },
-    {
-      "added_at": "2023-04-08 01:29:50",
-      "album": {
-        "name": "Feel Good (feat. Daya)",
-        "url": "https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 248156,
-      "name": "Feel Good (feat. Daya)",
-      "url": "https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx"
     },
     {
       "added_at": "2023-04-08 01:29:50",
@@ -1499,6 +1499,30 @@
       "duration_ms": 277200,
       "name": "Can\u2019t Stop The Feeling (with KORA)",
       "url": "https://open.spotify.com/track/4wIp31qRfUebDCqWqRF6Al"
+    },
+    {
+      "added_at": "2023-04-10 21:42:47",
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/3HRiqNfBuCrAQOFWafJZHM"
+      },
+      "artists": [
+        {
+          "name": "NOES",
+          "url": "https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+        },
+        {
+          "name": "ELECTRA",
+          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/0TljHP6WiN2kOoUEShqJlW"
     },
     {
       "added_at": "2023-04-08 01:29:50",

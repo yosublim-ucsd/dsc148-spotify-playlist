@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 59897,
+  "num_followers": 59914,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMDgxZTE0NjAwZjIxZDNkYWYzNTMyNTRhZmIwZjMwZGU3",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGY5NzZlMWQzOWFhZjMzMDNjNTU2MDIwNGJmOWM2OTlk",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+        "name": "Monumentos",
+        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
       },
       "artists": [
         {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+      "duration_ms": 187860,
+      "name": "Cien Inviernos",
+      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Monumentos",
-        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 187860,
-      "name": "Cien Inviernos",
-      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 226063,
       "name": "Cc (Como Compas)",
       "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Disparos",
-        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
-      },
-      "artists": [
-        {
-          "name": "INSITE",
-          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Disparos",
-      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Cometas",
         "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183118,
       "name": "Cometas",
       "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Disparos",
+        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
+      },
+      "artists": [
+        {
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Disparos",
+      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -697,26 +697,6 @@
       "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
     },
     {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
       "added_at": "2022-12-21 17:22:42",
       "album": {
         "name": "Nunca Me Voy a Ir",
@@ -783,6 +763,26 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "added_at": "2022-10-01 18:54:42",

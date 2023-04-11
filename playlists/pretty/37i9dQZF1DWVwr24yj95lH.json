@@ -1,12 +1,12 @@
 {
-  "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 567892,
+  "description": "The best Grunge heirs' songs. Cover: Bush",
+  "num_followers": 568203,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDhlYWQ3YTBkODU1OWEzMjM1Y2M3NjRlOTE0NmU3ZTA0",
+  "snapshot_id": "MTY3MjgyMjYzNSwwMDAwMDAwMDlmNzZlYmQyNjI4NjAyMTA5NTg3Y2JhMDdjMmFjMmE0",
   "tracks": [
     {
       "added_at": "2023-01-04 08:57:15",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "Weathered",
         "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
       "artists": [
         {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 238400,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -471,38 +487,6 @@
       "duration_ms": 194226,
       "name": "Cold",
       "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "No Name Face",
         "url": "https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 216066,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Fine Again",
+      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -615,22 +631,6 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Fine Again",
-      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
         "name": "The Boy Who Died Wolf",
         "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -859,22 +875,6 @@
       "duration_ms": 326666,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Tantric (U.S. Version-Enh'd)",
-        "url": "https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ"
-      },
-      "artists": [
-        {
-          "name": "Tantric",
-          "url": "https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 298600,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Tantric (U.S. Version-Enh'd)",
+        "url": "https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ"
+      },
+      "artists": [
+        {
+          "name": "Tantric",
+          "url": "https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Shallow Bay: The Best Of Breaking Benjamin (Explicit)",
-        "url": "https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Candlebox",
         "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Shallow Bay: The Best Of Breaking Benjamin (Explicit)",
+        "url": "https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 256440,
-      "name": "Stacked Actors",
-      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
+      "duration_ms": 273040,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1195,6 +1179,22 @@
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 256440,
+      "name": "Stacked Actors",
+      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
     },
     {
       "added_at": "2023-01-04 08:57:15",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "13 Ways To Bleed Onstage",
-        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
-      },
-      "artists": [
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "Come Again",
         "url": "https://open.spotify.com/album/3rwSoS50vbg8oiz5YxbW09"
       },
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2023-01-04 08:57:15",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 189363,
-      "name": "Stoned, Alone",
-      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
-    },
-    {
-      "added_at": "2023-01-04 08:57:15",
-      "album": {
         "name": "10: 1993-2003 - Ten Years of K's Choice",
         "url": "https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2"
       },
@@ -1563,6 +1531,38 @@
       "duration_ms": 288183,
       "name": "Not An Addict",
       "url": "https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "13 Ways To Bleed Onstage",
+        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
+    },
+    {
+      "added_at": "2023-01-04 08:57:15",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 189363,
+      "name": "Stoned, Alone",
+      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
     },
     {
       "added_at": "2023-01-04 08:57:15",

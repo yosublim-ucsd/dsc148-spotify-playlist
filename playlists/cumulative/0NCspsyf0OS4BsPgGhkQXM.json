@@ -6697,6 +6697,32 @@
     },
     {
       "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/3HRiqNfBuCrAQOFWafJZHM"
+      },
+      "artists": [
+        {
+          "name": "NOES",
+          "url": "https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+        },
+        {
+          "name": "ELECTRA",
+          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178673,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/0TljHP6WiN2kOoUEShqJlW"
+    },
+    {
+      "album": {
         "name": "In the Name of Love",
         "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },

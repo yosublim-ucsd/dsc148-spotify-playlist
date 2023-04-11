@@ -4,7 +4,7 @@
 
 > A collection of powerful voices and alluring siren songs.
 
-133 songs - 8 hr 3 min
+134 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Help Yourself](https://open.spotify.com/track/2fOwXPlNGoaYLaZJTkkNS1) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/6scmRYUU6LRpbFEAW9LTBk) | 2:58 | 2021-06-04 | 2022-07-29 |
 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 | 2022-07-22 |  |
 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 | 2021-06-04 |  |
-| [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 | 2022-07-22 |  |
+| [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 | 2022-07-22 | 2023-04-11 |
 | [Hopeless Romantic](https://open.spotify.com/track/1EAjSo91pg9eBHXM7E0V5J) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/4C83S6csUyg8zvxWphNP5o) | 3:30 | 2021-06-04 | 2022-07-29 |
 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 | 2022-07-22 |  |
 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 | 2021-06-04 |  |
@@ -103,6 +103,7 @@
 | [Not a Soldier](https://open.spotify.com/track/6cGPoNYEvFeVt6Ieqvw88L) | [Willa Amai](https://open.spotify.com/artist/0iP3BGoRpnHIZRVnEQLlHF) | [Not a Soldier](https://open.spotify.com/album/5BewLwqWzRQwm6Oz7WgZy2) | 3:46 | 2021-06-04 | 2022-07-29 |
 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 | 2021-06-04 |  |
 | [Not Gonna Let You Walk Away](https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [In Loving Memory of When I Gave a Shit](https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4) | 2:44 | 2021-06-04 |  |
+| [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 | 2023-03-24 |  |
 | [Occassionally](https://open.spotify.com/track/0bRaMWmkuaEzXmbuF46kdz) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Maybe in Time](https://open.spotify.com/album/0I45VxtzcvAN3wQZVmIoDO) | 3:14 | 2021-06-04 | 2022-07-29 |
 | [One More Habit](https://open.spotify.com/track/2c2ZYcQjdWfDIxTxjfSB6Z) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [One More Habit](https://open.spotify.com/album/1NQFrTSHt9aZNUuFLwSj3d) | 3:25 | 2021-06-04 | 2022-07-29 |
 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 174422,
+  "num_followers": 174487,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUwNTMxOSwwMDAwMDAwMGFiY2FkYTNlN2QyN2Q3NGNhZjNlNGQ0YWIzODkwYzRl",
+  "snapshot_id": "MTY3NjUwNTMxOSwwMDAwMDAwMGZiYWJmMGE2OTk3Y2I1YjAxZjdhN2YxZDU2ZGZkYmE5",
   "tracks": [
     {
       "added_at": "2022-05-02 04:31:17",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 203255,
+      "name": "Full Panther",
+      "url": "https://open.spotify.com/track/5qZXf3CNN9m6ORnKTBe07Y"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Esc",
         "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 377533,
       "name": "Dietrofront",
       "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 203255,
-      "name": "Full Panther",
-      "url": "https://open.spotify.com/track/5qZXf3CNN9m6ORnKTBe07Y"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1"
     },
     {
-      "added_at": "2023-04-10 01:25:11",
-      "album": {
-        "name": "Forget The Curse",
-        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
-      },
-      "artists": [
-        {
-          "name": "Troth",
-          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
-        }
-      ],
-      "duration_ms": 379573,
-      "name": "Phare",
-      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
-    },
-    {
       "added_at": "2021-10-06 04:12:35",
       "album": {
         "name": "Circular Forms",
@@ -335,6 +319,22 @@
       "duration_ms": 408969,
       "name": "Half Light of Dawn",
       "url": "https://open.spotify.com/track/7JvtQFXJOikRIcyQSr3azz"
+    },
+    {
+      "added_at": "2023-04-11 01:11:09",
+      "album": {
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+      },
+      "artists": [
+        {
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+        }
+      ],
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -519,6 +519,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Kalimba Heart",
+      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
       "artists": [
         {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Kalimba Heart",
-      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2022-04-12 01:39:04",
@@ -563,22 +579,6 @@
       "duration_ms": 220327,
       "name": "Flow in the Back",
       "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/6rGCDGnhg2ztHpV7bT2dG2"
     },
     {
+      "added_at": "2022-08-24 01:40:45",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+    },
+    {
       "added_at": "2021-10-06 04:12:35",
       "album": {
         "name": "Illusion Of Time",
@@ -771,6 +787,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Gymnosphere: Song of the Rose",
+        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
+      },
+      "artists": [
+        {
+          "name": "Jordan De La Sierra",
+          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
+        }
+      ],
+      "duration_ms": 1495160,
+      "name": "Temple of Aesthetic Action",
+      "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -787,38 +819,6 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
-    },
-    {
-      "added_at": "2022-08-24 01:40:45",
-      "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
-      },
-      "artists": [
-        {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
-        }
-      ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Gymnosphere: Song of the Rose",
-        "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
-      },
-      "artists": [
-        {
-          "name": "Jordan De La Sierra",
-          "url": "https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf"
-        }
-      ],
-      "duration_ms": 1495160,
-      "name": "Temple of Aesthetic Action",
-      "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
     },
     {
-      "added_at": "2022-08-31 03:57:05",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
       "added_at": "2021-10-06 04:12:35",
       "album": {
         "name": "Post Tropical Cyclone, Vol. 1",
@@ -935,6 +919,22 @@
       "duration_ms": 157312,
       "name": "Post Tropical Cyclone",
       "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
+    },
+    {
+      "added_at": "2022-08-31 03:57:05",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Midnight Marker",
-        "url": "https://open.spotify.com/album/4wbfKTj8oSvnCtL8lgXCD5"
-      },
-      "artists": [
-        {
-          "name": "Shy Layers",
-          "url": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
-        }
-      ],
-      "duration_ms": 190436,
-      "name": "Midnight Marker",
-      "url": "https://open.spotify.com/track/2TOnQ7Sezw8tfHFQMUCjBL"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -1183,22 +1167,6 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Fear in a Handful of Dust",
-        "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 216892,
-      "name": "On a Hilltop Sat the Moon",
-      "url": "https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc"
     },
     {
       "added_at": "2022-01-07 01:36:34",
@@ -1215,6 +1183,38 @@
       "duration_ms": 294000,
       "name": "Suspension",
       "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Midnight Marker",
+        "url": "https://open.spotify.com/album/4wbfKTj8oSvnCtL8lgXCD5"
+      },
+      "artists": [
+        {
+          "name": "Shy Layers",
+          "url": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
+        }
+      ],
+      "duration_ms": 190436,
+      "name": "Midnight Marker",
+      "url": "https://open.spotify.com/track/2TOnQ7Sezw8tfHFQMUCjBL"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Fear in a Handful of Dust",
+        "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 216892,
+      "name": "On a Hilltop Sat the Moon",
+      "url": "https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Anoyo",
+        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 288802,
+      "name": "Into the void",
+      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Nonlin",
         "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Anoyo",
-        "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 288802,
-      "name": "Into the void",
-      "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Shadows (The Light of Light)",
         "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 274800,
       "name": "Shadows (The Light of Light)",
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Rough For Radio (Peel Session)",
-        "url": "https://open.spotify.com/album/4z9uLonX9Be6phMzsjnt2x"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 251526,
-      "name": "Rough For Radio - Peel Session",
-      "url": "https://open.spotify.com/track/1T2ckb60IGQnUwz1muyGUw"
     },
     {
       "added_at": "2022-11-17 21:42:47",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Das Unheimliche",
-        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
+        "name": "Rough For Radio (Peel Session)",
+        "url": "https://open.spotify.com/album/4z9uLonX9Be6phMzsjnt2x"
       },
       "artists": [
         {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Das Unheimliche",
-      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
+      "duration_ms": 251526,
+      "name": "Rough For Radio - Peel Session",
+      "url": "https://open.spotify.com/track/1T2ckb60IGQnUwz1muyGUw"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1471,22 +1455,6 @@
       "duration_ms": 461397,
       "name": "A Bright Resemblance [Abridged]",
       "url": "https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
-        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
-      },
-      "artists": [
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
-        }
-      ],
-      "duration_ms": 369626,
-      "name": "Standing Crosswise in the Square",
-      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1511,18 +1479,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Rest Easy",
-        "url": "https://open.spotify.com/album/2gRv2sAvdCDTC3irdT0qNJ"
+        "name": "Das Unheimliche",
+        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
       },
       "artists": [
         {
-          "name": "Middle School",
-          "url": "https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB"
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
         }
       ],
-      "duration_ms": 157965,
-      "name": "Rest Easy",
-      "url": "https://open.spotify.com/track/22Qb7cWUbLMtdmBMnoG8qy"
+      "duration_ms": 390000,
+      "name": "Das Unheimliche",
+      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1575,18 +1543,34 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Form//Less",
-        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/2gRv2sAvdCDTC3irdT0qNJ"
       },
       "artists": [
         {
-          "name": "Superposition",
-          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+          "name": "Middle School",
+          "url": "https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB"
         }
       ],
-      "duration_ms": 234691,
-      "name": "Echo//Radiate",
-      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
+      "duration_ms": 157965,
+      "name": "Rest Easy",
+      "url": "https://open.spotify.com/track/22Qb7cWUbLMtdmBMnoG8qy"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
+        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
+      },
+      "artists": [
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
+        }
+      ],
+      "duration_ms": 369626,
+      "name": "Standing Crosswise in the Square",
+      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1603,6 +1587,22 @@
       "duration_ms": 280000,
       "name": "Frog Fractions",
       "url": "https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Form//Less",
+        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+      },
+      "artists": [
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+        }
+      ],
+      "duration_ms": 234691,
+      "name": "Echo//Radiate",
+      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
     },
     {
       "added_at": "2021-10-06 04:12:35",

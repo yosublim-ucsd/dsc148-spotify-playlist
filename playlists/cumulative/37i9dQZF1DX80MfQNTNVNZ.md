@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-364 songs - 21 hr 47 min
+365 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Evergreen \(You Didn’t Deserve Me At All\) \- Live At NPR's Tiny Desk](https://open.spotify.com/track/2gByHvt8cLpctREvU835gT) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Live At NPR's Tiny Desk\]](https://open.spotify.com/album/1wuLdAWwgUfKx78vR4VXDj) | 4:52 | 2022-10-20 | 2022-11-18 |
 | [Fade Out \- FOFU remix](https://open.spotify.com/track/1SJI6TfA3Rc5e2aXnBIDyE) | [fofu](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [Fade Out \(FOFU remix\)](https://open.spotify.com/album/2r7uJi4YQI4fhWEsYnmVs1) | 3:25 | 2022-03-24 | 2022-04-18 |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2021-12-23 | 2022-07-28 |
+| [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 | 2023-04-06 |  |
 | [Fast Food](https://open.spotify.com/track/6WfVAsQV7ImCe8uXELyrVg) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [In the Sun in the Rain](https://open.spotify.com/album/0YXHiDN0oQNLW93zp6AXPR) | 4:35 | 2022-03-24 | 2022-07-29 |
 | [Fdf](https://open.spotify.com/track/0Mdo5gCXq9u7EgsZHzYoLj) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Fdf](https://open.spotify.com/album/5CptywID2O1kmpNw3m2MOc) | 3:38 | 2022-01-06 | 2022-07-20 |
 | [Feel](https://open.spotify.com/track/7gKNBzKt11NgBZJS5SZhnP) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Feel](https://open.spotify.com/album/1v2pDxzUUFyTAemRpaiKwe) | 2:48 | 2021-12-23 | 2022-07-28 |
@@ -310,7 +311,7 @@
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-13 | 2023-01-23 |
 | [THINKING](https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [THINKING](https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf) | 2:00 | 2021-12-23 | 2022-07-28 |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-05-26 | 2022-10-13 |
-| [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 | 2022-10-20 |  |
+| [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 | 2022-10-20 | 2023-04-11 |
 | [This Is Good \(feat\. Miraa May\)](https://open.spotify.com/track/155S4GydOrhSbmHtUXwVZu) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Powder](https://open.spotify.com/album/6CoPIYQyBpopu4Tb5UdqAQ) | 3:23 | 2022-03-24 | 2022-04-17 |
 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 | 2021-12-23 |  |
 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 | 2022-07-28 | 2022-11-20 |

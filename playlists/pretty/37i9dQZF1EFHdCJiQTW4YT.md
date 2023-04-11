@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 39 | [Big Love](https://open.spotify.com/track/4ZZP7iyB0YfM9U1ol72QH9) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Big Love](https://open.spotify.com/album/4u7AoktiBF4Db55wxN7T7b) | 3:02 |
 | 40 | [In Our Bones](https://open.spotify.com/track/7xqWmiqrOXLywkE6aIvB7Y) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [In Our Bones](https://open.spotify.com/album/0nDpqGDg3ZsFWKCSPQE4M4) | 2:58 |
 | 41 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 |
-| 42 | [Too Close \(with Wrabel\)](https://open.spotify.com/track/2B5uUYyiDpFCgEGdbVpOZj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Too Close \(with Wrabel\)](https://open.spotify.com/album/1rWqOpBKbCoxUvirPmBKXg) | 3:28 |
-| 43 | [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 |
+| 42 | [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 |
+| 43 | [Too Close \(with Wrabel\)](https://open.spotify.com/track/2B5uUYyiDpFCgEGdbVpOZj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Too Close \(with Wrabel\)](https://open.spotify.com/album/1rWqOpBKbCoxUvirPmBKXg) | 3:28 |
 | 44 | [GIRL ON TV](https://open.spotify.com/track/2EPLg9fa4HKsBzuVR5Hwhn) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:12 |
 | 45 | [Fantasy](https://open.spotify.com/track/0uKrDNElljLIvrrSb7zVRu) | [JBJ](https://open.spotify.com/artist/6VJXRJvRRyLv99RZbXJ8RO) | [NEW MOON](https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV) | 3:22 |
 | 46 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 124 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 125 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `MjgwMTgwOTQsMDAwMDAwMDA1YTE0ODE3NTY1YmVmZTlmYTFkODVkMzMxMzk0OGE3Yg==`
+Snapshot ID: `MjgwMTk1MzQsMDAwMDAwMDBlZDg4OTc0YzdhZDQ1MjMyMWI0MmQxZDQxNWEzNWNlYw==`

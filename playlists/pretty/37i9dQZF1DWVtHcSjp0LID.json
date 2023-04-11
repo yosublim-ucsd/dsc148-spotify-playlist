@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 54488,
+  "num_followers": 54562,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDlhMzYyYTU0OTllMWI3MGM4MDBlOGU0ZTdiNDM3Njdl",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDFmNjk1MDY2ODViNGE3NzliOGVlMGRlZjg2YzJiN2Yz",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 138371,
-      "name": "Poly",
-      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 138371,
+      "name": "Poly",
+      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 291018,
       "name": "Gosh",
       "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -347,6 +331,22 @@
       "duration_ms": 286186,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Pacer",
-        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 459081,
-      "name": "Pacer",
-      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 365971,
       "name": "Letters - NTO Remix",
       "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 459081,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 416652,
-      "name": "Timid Dancer",
-      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Science Is Science",
         "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 423445,
       "name": "Bassment Dweller - Original Mix",
       "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "duration_ms": 416652,
+      "name": "Timid Dancer",
+      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "After & Before EP",
+        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
+      },
+      "artists": [
+        {
+          "name": "Trickski",
+          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
+        }
+      ],
+      "duration_ms": 455528,
+      "name": "Pill Collins",
+      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 369714,
       "name": "As Long as There's Sunset",
       "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Warped",
+        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 450457,
+      "name": "Warped",
+      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1031,22 +1063,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "After & Before EP",
-        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
-      },
-      "artists": [
-        {
-          "name": "Trickski",
-          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
-        }
-      ],
-      "duration_ms": 455528,
-      "name": "Pill Collins",
-      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Sky Float Sun",
         "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Warped",
-        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
-      },
-      "artists": [
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 450457,
-      "name": "Warped",
-      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Imperal",
-        "url": "https://open.spotify.com/album/1rligguDD9DJxh9UluyQ4p"
-      },
-      "artists": [
-        {
-          "name": "Technopeuten",
-          "url": "https://open.spotify.com/artist/6wbH1j8fd9d0OqJWyBfAiY"
-        }
-      ],
-      "duration_ms": 390444,
-      "name": "Imperal",
-      "url": "https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vasudeva",
         "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
       },
@@ -1183,22 +1167,6 @@
       "duration_ms": 376720,
       "name": "Vasudeva",
       "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Deep Blues",
-        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 381453,
-      "name": "Deep Blues - Session Victim Remix",
-      "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1219,6 +1187,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Imperal",
+        "url": "https://open.spotify.com/album/1rligguDD9DJxh9UluyQ4p"
+      },
+      "artists": [
+        {
+          "name": "Technopeuten",
+          "url": "https://open.spotify.com/artist/6wbH1j8fd9d0OqJWyBfAiY"
+        }
+      ],
+      "duration_ms": 390444,
+      "name": "Imperal",
+      "url": "https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Kill Frenzy",
         "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
       },
@@ -1231,22 +1215,6 @@
       "duration_ms": 355540,
       "name": "Lefty's Bar",
       "url": "https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Frekk EP",
-        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
-      },
-      "artists": [
-        {
-          "name": "Async",
-          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
-        }
-      ],
-      "duration_ms": 474009,
-      "name": "Deepart 8.0",
-      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1271,6 +1239,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
+      },
+      "artists": [
+        {
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
+        }
+      ],
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
         "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Ars Vivendi",
-        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
+        "name": "Deep Blues",
+        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
       },
       "artists": [
         {
-          "name": "Eisket",
-          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
         }
       ],
-      "duration_ms": 381406,
-      "name": "Ars Vivendi",
-      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
+      "duration_ms": 381453,
+      "name": "Deep Blues - Session Victim Remix",
+      "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1315,6 +1299,22 @@
       "duration_ms": 288554,
       "name": "Hawkmoth",
       "url": "https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Ars Vivendi",
+        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
+      },
+      "artists": [
+        {
+          "name": "Eisket",
+          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
+        }
+      ],
+      "duration_ms": 381406,
+      "name": "Ars Vivendi",
+      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
     },
     {
       "added_at": "2022-07-15 17:34:15",

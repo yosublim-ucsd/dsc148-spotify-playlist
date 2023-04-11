@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-595 songs - 1 day 9 hr 33 min
+596 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Devastatingly Mediocre](https://open.spotify.com/track/2WkOcuI6MDChQqqofsuXsz) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [Devastatingly Mediocre](https://open.spotify.com/album/7u6UOPEucyKu1J6mTofC7F) | 3:02 | 2022-02-18 | 2022-03-19 |
 | [Devastatingly Mediocre](https://open.spotify.com/track/6xInLalqFCmsLDmVWkF4Gy) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [To Hell With You, I Love You](https://open.spotify.com/album/0O3etrjarBOgWlCYhBNtjH) | 3:02 | 2022-04-08 | 2022-05-20 |
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-13 |  |
+| [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-04-10 |  |
 | [Dinosaur](https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R) | 3:47 | 2022-10-21 | 2023-01-14 |
 | [Dissolve](https://open.spotify.com/track/3xOFql1Qp0ACI9BJk5t0nh) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Embody](https://open.spotify.com/album/1ZSujxGhlZQJtah2NrDK17) | 3:15 | 2022-02-18 | 2022-03-19 |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 | 2022-09-30 | 2022-11-12 |
@@ -438,7 +439,7 @@
 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 | 2022-05-20 | 2022-06-25 |
 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 | 2023-03-31 |  |
 | [Save Me](https://open.spotify.com/track/6A6rtRemncYRWtxjXaIPfw) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:22 | 2021-12-31 | 2022-01-29 |
-| [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-22 |  |
+| [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-22 | 2023-04-11 |
 | [Scarborough Street Fight](https://open.spotify.com/track/0gIfFHoACeI7VTp9FmHz9M) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Outta Sight](https://open.spotify.com/album/7bTPEsKhpCQbM36uZLA40j) | 4:30 | 2022-06-03 | 2022-06-11 |
 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 | 2022-05-13 | 2022-06-04 |
 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 | 2022-10-21 | 2023-03-25 |

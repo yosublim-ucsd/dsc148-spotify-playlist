@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sultan Stevenson Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,052 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,742 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [本日は晴天](https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [本日は晴天](https://open.spotify.com/album/1TsDnMjGiFpnOBa6h9ectt) | 4:18 |
 | 75 | [Rouages](https://open.spotify.com/track/4PZ3DhUsKZpxv3W3bLXbBq) | [Vincent Cucheval](https://open.spotify.com/artist/6eEYSmaLwEc84xCw5LxQG0) | [Rouages](https://open.spotify.com/album/6KvviqHqCq6CmRYU6Mw0HU) | 6:34 |
 
-Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMDU3NzQ5ZjlhMjk2NjgzMDdlZmE4NzBlMDJkMTlhMzk4`
+Snapshot ID: `MTY4MTE0NTEzNCwwMDAwMDAwMDZkNmNkNTNiYTU2OTZmOWIyNGIxNzcxMjNjNWMyZGM1`

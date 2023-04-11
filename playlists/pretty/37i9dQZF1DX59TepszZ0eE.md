@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Worship Him this Easter with the best in SA gospel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,334 likes - 59 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,352 likes - 59 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

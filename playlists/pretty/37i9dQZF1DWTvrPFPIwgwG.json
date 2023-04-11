@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cristina Mel",
-  "num_followers": 66811,
+  "num_followers": 66922,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDc2NjYxYzc1ZGI2ZDdlZWRiYjAyMWU4YzBkM2RmYTA0",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGYyZTdiODRmMGIzY2RkOGZkOWE3NWNmZTM4ZmE1MTQ0",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Pode Dormir Tranquilo",
+        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 288457,
+      "name": "Pode Dormir Tranquilo",
+      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -287,38 +303,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "O Processo",
-        "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 290816,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Pode Dormir Tranquilo",
-        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 288457,
-      "name": "Pode Dormir Tranquilo",
-      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Despreocupa",
         "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 310635,
       "name": "Despreocupa",
       "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "O Processo",
+        "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 290816,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Eu Sou Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 268510,
+      "name": "Eu Sou Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "O Le\u00e3o",
         "url": "https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Eu Sou Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 268510,
-      "name": "Eu Sou Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Vou Deixar na Cruz",
         "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Onde Est\u00e1 Sua F\u00e9?",
-        "url": "https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 308096,
-      "name": "Onde Est\u00e1 Sua F\u00e9?",
-      "url": "https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "T\u00e1 nas M\u00e3os de Deus",
         "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 262528,
       "name": "T\u00e1 nas M\u00e3os de Deus",
       "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Onde Est\u00e1 Sua F\u00e9?",
+        "url": "https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 308096,
+      "name": "Onde Est\u00e1 Sua F\u00e9?",
+      "url": "https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Deus Vai Te Honrar",
-        "url": "https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        }
-      ],
-      "duration_ms": 262250,
-      "name": "Deus Vai Te Honrar",
-      "url": "https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "N\u00e3o Pare Agora",
         "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 269775,
       "name": "N\u00e3o Pare Agora",
       "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Deus Vai Te Honrar",
+        "url": "https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 262250,
+      "name": "Deus Vai Te Honrar",
+      "url": "https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 351613,
-      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Limite (Ao Vivo)",
         "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 278613,
       "name": "Limite - Ao Vivo",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 402770,
+      "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "S\u00f3 Faz Ajudar",
         "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
       },
@@ -683,22 +703,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
         }
       ],
-      "duration_ms": 402770,
-      "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
+      "duration_ms": 310057,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 312938,
       "name": "Vem Senhor",
       "url": "https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
-      },
-      "artists": [
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        }
-      ],
-      "duration_ms": 310057,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Aguenta Firme",
-        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 278314,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Eu Sou Uma P\u00e9rola (Ao Vivo)",
         "url": "https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 324357,
       "name": "Eu Sou Uma P\u00e9rola (Ao Vivo)",
       "url": "https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Aguenta Firme",
+        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 278314,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -903,38 +903,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Que Tal",
-        "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
+        "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi"
       },
       "artists": [
         {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 309001,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Jesus Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Jesus Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
+      "duration_ms": 493999,
+      "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -959,6 +939,42 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Jesus Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Jesus Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Que Tal",
+        "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 309001,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "H\u00e1 uma Sa\u00edda: 45 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 377500,
       "name": "H\u00e1 uma Sa\u00edda: 45 Anos - Ao Vivo",
       "url": "https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 493999,
-      "name": "Medley (Revestido de Gl\u00f3ria / Desemborca o Vaso / Receba de Deus / Festa no C\u00e9u / Fogo Santo / Aqui Tem Gl\u00f3ria) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268515,
-      "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Pai",
         "url": "https://open.spotify.com/album/3DsKQUlafQe1LwE2Wtxwpu"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 356624,
       "name": "Pai",
       "url": "https://open.spotify.com/track/5qeX5JKKxDA2EI96SlCP0D"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 268515,
+      "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Chore pra Deus",
-        "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        }
-      ],
-      "duration_ms": 282888,
-      "name": "Chore pra Deus",
-      "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "A Vit\u00f3ria Chegou",
         "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 238167,
       "name": "A Vit\u00f3ria Chegou",
       "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Chore pra Deus",
+        "url": "https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 282888,
+      "name": "Chore pra Deus",
+      "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ele Veio",
-        "url": "https://open.spotify.com/album/2pbZJUXRQArl3v9CyxEaMX"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 385135,
-      "name": "Ele Veio",
-      "url": "https://open.spotify.com/track/2VvkkHWKhEb8aNd5JdbgST"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ele Est\u00e1 Comigo",
         "url": "https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 256000,
       "name": "O Grande \u00c9 Ele (Ao Vivo)",
       "url": "https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Ele Veio",
+        "url": "https://open.spotify.com/album/2pbZJUXRQArl3v9CyxEaMX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 385135,
+      "name": "Ele Veio",
+      "url": "https://open.spotify.com/track/2VvkkHWKhEb8aNd5JdbgST"
     },
     {
       "added_at": "2023-03-24 03:00:00",
